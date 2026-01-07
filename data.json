@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-07T16:43:41+02:00",
+  "updated": "2026-01-07T16:54:56+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:20:35+02:00",
@@ -122,6 +122,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-07T16:54:56+02:00",
+      "urls": [
+        {
+          "sign": "929c39fffba8d5dec6624a857cbd67b518bb546113981eb2c0ee9ea781febb17",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maanmittauslaitos suoritti ilmakuvauksen GPS-häirinnästä huolimatta lentämällä matalammalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-07T16:53:32+02:00",
+      "urls": [
+        {
+          "sign": "3d57fbbb1eecd73b86dff30146387345420b05881a48d8f8f890ecea5fc2b4e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Politico: Neljä keinoa, joilla Trump pyrkii liittämään Grönlannin Yhdysvaltoihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – RSS"
     }
   ]
 }
