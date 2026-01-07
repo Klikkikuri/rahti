@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-07T20:53:26+02:00",
+  "updated": "2026-01-07T21:28:39+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:20:35+02:00",
@@ -737,6 +737,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-07T21:28:39+02:00",
+      "urls": [
+        {
+          "sign": "1d18d3b779f0af28c6298b38c1e46ac62dd076089710e8840ba5c515d560aa78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ICE‑virkamies ampui Minneapolisissa auton kuljettaneen naisen väittäen itsepuolustusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – RSS"
     }
   ]
 }
