@@ -1,0 +1,38 @@
+# The default Klikkikuri configuration file
+
+sources:
+  - name: Yle Uutiset
+    type: rss
+    url:
+      - https://yle.fi/uutiset/rss/uutiset.rss
+      - https://yle.fi/rss/uutiset/paauutiset
+      - https://yle.fi/rss/uutiset/tuoreimmat
+      - https://yle.fi/rss/uutiset/luetuimmat
+
+  - name: MTV Uutiset – RSS
+    type: rss
+    url: https://www.mtvuutiset.fi/api/feed/rss/uutiset
+
+  - name: Äks
+    type: rss
+    url: https://aksa.fi/feed/
+
+
+rahti:
+  # Rahti file to push / pull
+  url: "https://api.github.com/repos/Klikkikuri/rahti/contents/data.json"
+
+  # See: https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28#get-repository-content--fine-grained-access-tokens
+  # Use `GITHUB_TOKEN` secret environment variable
+  #auth_token: ""
+
+  committer:
+    name: "[🤖 bot] Klikkikuri harbormaster"
+    email: "klikkikuri+satamamestari@protonmail.com"
+
+
+llm:
+  - name: gpt-oss-120b
+    provider: openrouter
+    model: openai/gpt-oss-120b
+    
