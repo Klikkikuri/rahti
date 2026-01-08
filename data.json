@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-08T22:09:36+02:00",
+  "updated": "2026-01-08T22:41:20+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -17,21 +17,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-07T20:30:15+02:00",
-      "urls": [
-        {
-          "sign": "d76d62e8037a6a5548dce0e23c0019946442079e90168b403d2427cc9af1233f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kanadan pääministeri Mark Carney vierailee Kiinassa tammikuussa vahvistaakseen kauppa‑ ja turvallisuusyhteistyötä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-07T14:47:02+02:00",
@@ -1907,6 +1892,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
+    },
+    {
+      "updated": "2026-01-08T22:41:20+02:00",
+      "urls": [
+        {
+          "sign": "5cd15184b76aa2a8ca6e9e5ce71ca5eb361b00fb5cdc0974c29ad3a3d55c78fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venezuelan parlamentin puhemies ilmoittaa massiivisesta vankien vapautuksesta, myös ulkomaalaisia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
