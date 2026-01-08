@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-08T06:00:35+02:00",
+  "updated": "2026-01-08T06:49:00+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:20:35+02:00",
@@ -947,6 +947,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-08T06:49:00+02:00",
+      "urls": [
+        {
+          "sign": "a13aafe88869bc27106caf3c19cfb833c74faff5abe30b04379a9e89e3ad4e9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MTV:n kysely: Keskustan piirihallitusten jäsenet tyytyväisiä linjavalintoihin ja johtoon, kaipaavat lisää kannatusta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – RSS"
     }
   ]
 }
