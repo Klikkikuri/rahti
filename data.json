@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-08T12:22:47+02:00",
+  "updated": "2026-01-08T12:30:43+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:20:35+02:00",
@@ -1502,6 +1502,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-08T12:30:43+02:00",
+      "urls": [
+        {
+          "sign": "4bc21d40e887602b89cb9da371d8b70e31201862a4ab2c02352bc0886bde29af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ja Traficom tutkivat Fitburg-aluksen puuttuvan ankkurin aiheuttamaa kaapelivauriota",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – RSS"
     }
   ]
 }
