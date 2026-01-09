@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T10:05:17+02:00",
+  "updated": "2026-01-09T10:26:29+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -272,21 +272,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T10:03:53+02:00",
-      "urls": [
-        {
-          "sign": "a9f06b0f70aaf3cf7066c9570d95d0ae1f2ddf3453d5c0eebcc5157c2cf049c3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen uusiutuvat: Lestijärvi‑tuulivoimala nosti Keski-Pohjanmaan osuutta uudesta tuulivoimasta – lähes puolet 2025:n lisäkapasiteetista rakennettiin siellä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T10:25:46+02:00",
@@ -1934,6 +1919,21 @@
         }
       ],
       "title": "Iranin protestit laajenevat, internet katkeaa ja turvallisuusjoukot ovat tappaneet vähintään 45",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T10:26:29+02:00",
+      "urls": [
+        {
+          "sign": "d3d5274451b7bf6d67544bbd149e5e24ccb249306163233a07bddb877f9bb00c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyria julistaa Aleppon tulitauon kurdijoukkojen ja armeijan välillä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
