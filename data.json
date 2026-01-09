@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T22:25:18+02:00",
+  "updated": "2026-01-09T22:42:55+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -332,21 +332,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T20:32:13+02:00",
-      "urls": [
-        {
-          "sign": "138234e78748504c4790c41f03b89c70b0c2bd8787152e7e968e38b2ab71b5ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mikkeli on ylläpitänyt 15‑vuotista sorsien avantoa, kun muut kaupungit rajoittavat talviruokintaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T21:04:47+02:00",
@@ -2055,6 +2040,21 @@
       ],
       "title": "Trump sanoo Yhdysvaltain hallinnon päättävän, mitkä öljy-yhtiöt saavat investoida Venezuelaan",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T22:42:55+02:00",
+      "urls": [
+        {
+          "sign": "b5303b14e9b86132dc4bb9a8506373caac06c88f31dceeeee01c3b6ac3838705",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ICE:n agentti tallensi puhelimellaan videon, jossa hän ampuu Renee Goodin Minneapolisissa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
