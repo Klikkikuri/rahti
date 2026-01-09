@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T13:22:40+02:00",
+  "updated": "2026-01-09T13:52:49+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -332,21 +332,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T13:02:31+02:00",
-      "urls": [
-        {
-          "sign": "fdeb93c5b44e4c24fe82c253bd7d37df9895028f26ede30e7fb6c243aa9cd928",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Apulaisoikeusasiamies Maija Sakslin huomautti Saamelaiskäräjää laittomasta noin 70 henkilön poistoa vaalilistalta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T13:10:36+02:00",
@@ -1935,6 +1920,21 @@
       ],
       "title": "Europark peruutti 418 euron pysäköintimaksun virheellisen tunnistuksen jälkeen",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T13:52:49+02:00",
+      "urls": [
+        {
+          "sign": "f85c6290aa01b8fac2c1c81ce8b4463f0120b8493fa93ac9885af18cd248046d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU vaatii Irania palauttamaan internetyhteydet ja tuomitsee väkivallan mielenosoittajia kohtaan",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
