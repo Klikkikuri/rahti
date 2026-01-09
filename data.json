@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T01:55:41+02:00",
+  "updated": "2026-01-09T02:36:25+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -242,21 +242,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T00:36:20+02:00",
-      "urls": [
-        {
-          "sign": "e4cf8047ec60a335e27cc3425d1bfa65daee2784813b9fb4b36dcd0d4f1c4749",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump: Yhdysvallat hallitsee Venezuelaa ja vaatii, että öljytuloilla ostetaan vain Yhdysvaltain tuotteita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T01:03:20+02:00",
@@ -1904,6 +1889,21 @@
         }
       ],
       "title": "Yhdysvaltain tulli- ja rajavartiolaitoksen agentit ampuivat kaksi henkilöä Portlandissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T02:36:25+02:00",
+      "urls": [
+        {
+          "sign": "801f47af7b40a068f56f22e8b635ed885201cc340a360a3807c67c2b3aad6660",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lula käyttää veto‑oikeuttaan estääkseen Bolsonaron vankeusrangaistuksen lyhentämisen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
