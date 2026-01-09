@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T22:42:55+02:00",
+  "updated": "2026-01-09T22:55:50+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -332,21 +332,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T21:04:47+02:00",
-      "urls": [
-        {
-          "sign": "fe7b5985c7acdf0b38a73e188366baa735595ec0a7b9822701a7bb78d7719254",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Google lanseeraa Gmailin uuden tekoälyavustajan, joka oppii käyttäjän kirjoitustyylin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T21:35:06+02:00",
@@ -2055,6 +2040,21 @@
       ],
       "title": "ICE:n agentti tallensi puhelimellaan videon, jossa hän ampuu Renee Goodin Minneapolisissa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T22:55:50+02:00",
+      "urls": [
+        {
+          "sign": "7939e0bb63f3c5b352fdc73f00cfd6fbd7ecc20f5d454cc7e3d2f4588a6fb686",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finnair peruuttaa lauantain Kittilän lennot pakkasen vuoksi, korvaa ne Oulun kautta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
