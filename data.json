@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T17:18:53+02:00",
+  "updated": "2026-01-09T17:42:37+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -334,21 +334,6 @@
       "outlet": "MTV Uutiset – RSS"
     },
     {
-      "updated": "2026-01-08T16:53:13+02:00",
-      "urls": [
-        {
-          "sign": "c886c7f7e2d8e895d82b5a08d7b7795cd4c6ce33c20a08dee2cd011b851b641d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastajat rikkoivat ja räjäyttivät hyydepatoja Ylä‑Savon jäisissä olosuhteissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-01-08T16:54:48+02:00",
       "urls": [
         {
@@ -359,21 +344,6 @@
         }
       ],
       "title": "Uusi lääkärihelikopteri aloitti toiminnan Kaakkois‑Suomessa Utissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-01-08T16:45:58+02:00",
-      "urls": [
-        {
-          "sign": "a2f4b77764c104fd9772ebfe6c87922ed9cce260172532c89329d9275cce7ceb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porin mies tuomittiin 7 vuotta törkeästä lapsenraiskauksesta 14‑vuotiaalle",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -2012,6 +1982,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T17:42:37+02:00",
+      "urls": [
+        {
+          "sign": "70df6503e5c89b44682c6abbd07fdb42ce0671e7e638bbcb6e99f73063b71383",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo toteaa, että Suomen työttömyysaste on Euroopan korkein",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T17:32:57+02:00",
+      "urls": [
+        {
+          "sign": "47ea9d87794446432ac1fab7c47caddc478f3a5fafbbbbb6831ee6a89926a23c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ICE:n agentti ampui Minneapolisissa 37‑vuotiaan naisen, Trump kutsui tekoä itsepuolustukseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T16:17:35+02:00",
+      "urls": [
+        {
+          "sign": "ef41d31ac382f5506d54a975fcf54ecc518706d65e3e8762f753ca317b7ba0af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jouko Luhtala: Trump väittää moraalin ja päätöksentekokykynsä ainoaksi rajoitteekseen – Yhdysvaltojen voimapolitiikka ja sen vaikutus Suomeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – RSS"
     }
   ]
 }
