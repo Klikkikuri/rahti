@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T08:02:13+02:00",
+  "updated": "2026-01-09T08:23:56+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -257,21 +257,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T08:06:10+02:00",
-      "urls": [
-        {
-          "sign": "ab9aaf0611212d25dd5f117fe1ed4d11c7faae4808877e5eb5324142629d6133",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen teollisen aurinkovoiman kapasiteetti kaksinkertaistui 2023, 349 MW",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T08:29:23+02:00",
@@ -1904,6 +1889,21 @@
         }
       ],
       "title": "Järjestelmävika Keravan–Järvenpään välillä aiheuttaa junien viivästyksiä 30–90 minuuttia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T08:23:56+02:00",
+      "urls": [
+        {
+          "sign": "8f59bcc7589b0c1831fd99a30f265a0ebcfd3c326980191a511e2c058326195c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teollisuuden uudet tilaukset pudotivat marraskuussa noin 25 %",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
