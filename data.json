@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T07:13:17+02:00",
+  "updated": "2026-01-09T07:57:17+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -257,21 +257,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T07:53:09+02:00",
-      "urls": [
-        {
-          "sign": "a1eeedfa2799bbe040ccf2eb973c40f6fa0870229c4f8f59f7b2d2b8732d1739",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saudi‑Arabian liittouma väittää, että Jemenin separatistijohtaja Aidarus al‑Zubaidi on saapunut Yhdistyneisiin Arabiemiirikuntiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T08:00:47+02:00",
@@ -1905,6 +1890,21 @@
       ],
       "title": "CustomSki sai patentin voitelutta pohjakäsittelyyn – Iivo Niskanen varustettu uusilla suksipareilla",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T07:57:17+02:00",
+      "urls": [
+        {
+          "sign": "4e1450645478533fb954bd08ed4e05c8bb3f7c3d79f76b5c1f7182ff8330ff78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Max Junestrand: Ruotsalaiset startupit hylkäävät Janten lain ja tavoittelevat miljardiyritystä tekoälyratkaisuilla",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
