@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T10:50:12+02:00",
+  "updated": "2026-01-09T11:11:01+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -302,21 +302,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T11:15:24+02:00",
-      "urls": [
-        {
-          "sign": "60304aafd5b4f73231193307bec4e549ded20ff3e302edfcc13d9eb89c748327",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rovaniemen taksi-iskussa 11 taksia vahingoittui, myös Lähitaksin autot",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T11:17:36+02:00",
@@ -1935,6 +1920,21 @@
       ],
       "title": "Kittilän Alakylässä 131 ilman sähköä -40 °C:n pakkasessa, korjaus puolessa päivässä",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T11:11:01+02:00",
+      "urls": [
+        {
+          "sign": "26afb1cb216f839b4f3b09b089d479c437b2260607d5467691efd3033b4e7a0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat: Iranin protestit laajenevat talouskriisin ja hallinnon vastustuksen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
