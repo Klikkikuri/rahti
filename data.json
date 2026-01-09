@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-09T01:34:31+02:00",
+  "updated": "2026-01-09T01:55:41+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -242,21 +242,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T00:01:35+02:00",
-      "urls": [
-        {
-          "sign": "b76f81adc1a6464b7d3d81c2563358d3a080cc6c9f106efc98a008512b12cb3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Samuli Emery nimitetty Kuopio tanssii ja soi -festivaalin uudeksi taiteelliseksi johtajaksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T00:36:20+02:00",
@@ -1904,6 +1889,21 @@
         }
       ],
       "title": "Neljä astronauttia palaavat ISS:ltä etuajassa terveysongelman vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-09T01:55:41+02:00",
+      "urls": [
+        {
+          "sign": "596809b595c833650b80e5325621db7332c226c72dd82635b59ddb1193214b89",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain tulli- ja rajavartiolaitoksen agentit ampuivat kaksi henkilöä Portlandissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
