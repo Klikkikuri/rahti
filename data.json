@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-10T00:05:35+02:00",
+  "updated": "2026-01-10T00:47:16+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -407,21 +407,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-08T22:41:20+02:00",
-      "urls": [
-        {
-          "sign": "5cd15184b76aa2a8ca6e9e5ce71ca5eb361b00fb5cdc0974c29ad3a3d55c78fc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venezuelan parlamentin puhemies ilmoittaa massiivisesta vankien vapautuksesta, myös ulkomaalaisia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-08T23:32:36+02:00",
@@ -2055,6 +2040,21 @@
       ],
       "title": "Kysely: 48 % uskoo korruption yleiseksi kansallisessa politiikassa, luottamus paikallisiin viranomaisiin vahvempi",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-10T00:47:16+02:00",
+      "urls": [
+        {
+          "sign": "6d32157ce1576b2687a5e55f6bd3ffd734faf3f55483a1c8a909644a7572e792",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump väittää, että Kiina tai Venäjä miehittäisi Grönlannin, jos Yhdysvallat ei puutu asiaan",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
