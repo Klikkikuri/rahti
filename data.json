@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-10T08:20:39+02:00",
+  "updated": "2026-01-10T08:36:57+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -407,21 +407,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T05:00:35+02:00",
-      "urls": [
-        {
-          "sign": "35259d9b3c09c03b6686e8a319fee3e061661eaab1cecb9a8f1d6621c47493fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lappi kokee jopa -40 °C pakkasta seuraavien päivien ajan, tuuli lisää purevuutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T05:31:35+02:00",
@@ -2130,6 +2115,21 @@
       ],
       "title": "Nicaragua pidätti vähintään 60 Maduro‑kriitikkoa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-10T08:36:57+02:00",
+      "urls": [
+        {
+          "sign": "a735e47fd79ca687dfdc1fba059a17bbf2f6d9ec5cc15fa57c93d869ac297edf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelensky nimeää uuden hallituksen avainhenkilöt",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
