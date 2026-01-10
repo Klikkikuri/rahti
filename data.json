@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-10T03:03:27+02:00",
+  "updated": "2026-01-10T04:40:56+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -407,21 +407,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T01:30:35+02:00",
-      "urls": [
-        {
-          "sign": "4f551ca7d2f84817ba21443a44852778023cd5c37d521821f748a128957bece0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KVKL: Asuntokaupat vilkastuivat joulukuussa, mutta hintojen nousu on epätodennäköistä lähitulevaisuudessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T01:34:31+02:00",
@@ -2054,6 +2039,21 @@
         }
       ],
       "title": "Pohjois‑Korea väittää Etelä‑Korean lennokin loukanneen sen ilmatilaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-10T04:40:56+02:00",
+      "urls": [
+        {
+          "sign": "acdd77f560c7ede5164297799fa0a3a7d3695128309f6bc60b10affd7c74782d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Victorianin maastopaloilla yli 40 000 kotia ilman sähköä, poikkeustila julistettu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
