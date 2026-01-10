@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-10T11:00:09+02:00",
+  "updated": "2026-01-10T11:34:09+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -407,21 +407,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T07:57:17+02:00",
-      "urls": [
-        {
-          "sign": "4e1450645478533fb954bd08ed4e05c8bb3f7c3d79f76b5c1f7182ff8330ff78",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Max Junestrand: Ruotsalaiset startupit hylkäävät Janten lain ja tavoittelevat miljardiyritystä tekoälyratkaisuilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T08:02:13+02:00",
@@ -2177,6 +2162,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
+    },
+    {
+      "updated": "2026-01-10T11:34:09+02:00",
+      "urls": [
+        {
+          "sign": "ea2a3ec3345625c93f5206f47990c4462f006e1ebec5d307a60a794fb7e87c91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Grönlannin puolueet korostavat itsenäisyyttä ja vastustavat Yhdysvaltain liittämistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
