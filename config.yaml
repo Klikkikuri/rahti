@@ -13,6 +13,10 @@ sources:
     type: rss
     url: https://www.mtvuutiset.fi/api/feed/rss/uutiset
 
+  - name: MTV Uutiset – Sitemap
+    type: sitemap
+    url: https://www.mtvuutiset.fi/newssitemap
+
   - name: Äks
     type: rss
     url: https://aksa.fi/feed/
