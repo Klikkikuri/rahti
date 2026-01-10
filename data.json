@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-10T01:37:54+02:00",
+  "updated": "2026-01-10T03:03:27+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -407,21 +407,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T00:03:46+02:00",
-      "urls": [
-        {
-          "sign": "d6141be32f63cff002273bc1cd7de6064fc87a175499b59688f56a5ce112d0ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump vihjaa, että Grönlannin hallinta ja Naton jäsenyys voivat olla valintakysymys",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T01:30:35+02:00",
@@ -2054,6 +2039,21 @@
         }
       ],
       "title": "Suomi irtisanoo Ottawan jalkaväkimiinasopimuksen – voimaantulo tänään",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-10T03:03:27+02:00",
+      "urls": [
+        {
+          "sign": "b245cf40c2bee505bdabc89d1e35e71be0058d5671f73c714d2691f34d1e2d1d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois‑Korea väittää Etelä‑Korean lennokin loukanneen sen ilmatilaa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
