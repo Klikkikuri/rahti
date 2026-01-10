@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-10T15:07:43+02:00",
+  "updated": "2026-01-10T15:39:27+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -407,21 +407,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T09:17:27+02:00",
-      "urls": [
-        {
-          "sign": "6d96820e26f9bb6217ad39d8dab5a54df9a93f3dee75545c81485ea721559a42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elon Muskin isoisä oli 1930‑luvulla mukana pohjoisamerikkalaisessa yhdistymisliikkeessä, jonka tavoitteet heijastuvat Trumpin nykyisiin aluevaatimuksiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T09:29:02+02:00",
@@ -2207,6 +2192,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
+    },
+    {
+      "updated": "2026-01-10T15:39:27+02:00",
+      "urls": [
+        {
+          "sign": "30b7be18d871fa63026c545d6dc6053c6bea9428470883b896dc5613fc7033da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump vaatii Grönlannin hallintaa, Eurooppa valmistautuu vastatoimiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
