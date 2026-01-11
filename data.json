@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T06:15:00+02:00",
+  "updated": "2026-01-11T06:53:52+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -512,21 +512,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T15:41:41+02:00",
-      "urls": [
-        {
-          "sign": "8a0a18ab8e6bfd757f6ffea52c286dceab582f1f1805cd7563ba8141927a0ae1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orpo varoittaa: Yhdysvaltojen mahdollinen Grönlannin valtauksen olisi katastrofaalinen NATOlle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T15:54:00+02:00",
@@ -3587,6 +3572,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-11T06:53:52+02:00",
+      "urls": [
+        {
+          "sign": "002a0e0e081ea9eb62233afb382a43262f5c5c1da2d13952a77ed233c356e5c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain valtiovarainministeri Scott Bessent sanoo purkavansa pakotteet Venezuelan öljyviennin helpottamiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
