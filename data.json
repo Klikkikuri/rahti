@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T22:16:01+02:00",
+  "updated": "2026-01-11T22:56:56+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -557,21 +557,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-10T00:47:16+02:00",
-      "urls": [
-        {
-          "sign": "6d32157ce1576b2687a5e55f6bd3ffd734faf3f55483a1c8a909644a7572e792",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump väittää, että Kiina tai Venäjä miehittäisi Grönlannin, jos Yhdysvallat ei puutu asiaan",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-10T01:37:54+02:00",
@@ -3722,6 +3707,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-11T22:56:56+02:00",
+      "urls": [
+        {
+          "sign": "d6a0312d56ce231d18ce84a0fce221a3a48918042444e655257e7872fa7e26c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Teheranin‑suurlähetystö varoittaa Iranissa kasvaneesta ulkomaisten mielivaltaisesta pidätysriskistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
