@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T17:13:00+02:00",
+  "updated": "2026-01-11T18:06:56+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -557,36 +557,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T21:32:25+02:00",
-      "urls": [
-        {
-          "sign": "d19a6ce3459231e710e931e78632a43493fc5d703407960b44e521ab3ff9713a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rauhannobelisti Shirin Ebadi varoittaa mahdollisesta joukkomurhasta Iranin internetkatkon aikana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-01-09T22:25:18+02:00",
-      "urls": [
-        {
-          "sign": "ffad6878e9505e3100d3a9f928aa3afb272dad3b13c201ffe0fa8054c7bf18ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump sanoo Yhdysvaltain hallinnon päättävän, mitkä öljy-yhtiöt saavat investoida Venezuelaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T22:42:55+02:00",
@@ -3722,6 +3692,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-11T18:01:09+02:00",
+      "urls": [
+        {
+          "sign": "afed7c360cc04e64bb9fb0ab07b6a2e373bb871561cd46b8330a998be244eefd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kahvin tarjousmyynti nosti suomalaisten ostoksia 20 % – asiantuntijat varoittavat hintojen hitaasta laskusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-11T18:06:56+02:00",
+      "urls": [
+        {
+          "sign": "3355b20644ac3bf710644bb5df6f024aa3e0d5e051f12277b9fdf9c73106702b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranin mielenosoituksissa kuolemia sadoista tuhansiin – eri lähteet antavat vaihtelevia arvioita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
