@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T06:53:52+02:00",
+  "updated": "2026-01-11T07:00:35+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -512,21 +512,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T15:54:00+02:00",
-      "urls": [
-        {
-          "sign": "088bbbf675567ea4a229ae97727828b207a0d366b47b48cbf832914965e394bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "19‑vuotias epäilty puukotti Kolarin asukasta leipäveitsellä, poliisi pidätti hänet",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T15:55:19+02:00",
@@ -3585,6 +3570,21 @@
       ],
       "title": "Yhdysvaltain valtiovarainministeri Scott Bessent sanoo purkavansa pakotteet Venezuelan öljyviennin helpottamiseksi",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-11T07:00:35+02:00",
+      "urls": [
+        {
+          "sign": "de6e4b2e205c2914def6a8494156eadbe54ed4bc3ad0919f6fb8fa3ed6f8db48",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vaisalan perheomistaja: perintö‑ ja lahjaverotus estää suomalaisten yritysten kasvua",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
