@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T07:18:03Z",
+  "updated": "2026-01-11T09:59:36+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -512,21 +512,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T17:00:38+02:00",
-      "urls": [
-        {
-          "sign": "57fca960505afbd67befb0bb6ee073b630fff231af68c5a9c148b9f48ab711b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle etsii nikotiinipussien käytön lopettamisesta kertovia osallistujia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T17:01:29+02:00",
@@ -3707,6 +3692,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-11T09:59:36+02:00",
+      "urls": [
+        {
+          "sign": "9a9d597a1d3386fe04cf97e1bd8504be95a31e3026906688416ee2384c7342ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi saa kasvavaa ulkomediahuomiota Nato‑jäsenyyden, itärajan sulun ja kulttuurituotteiden ansiosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
