@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T10:19:58+02:00",
+  "updated": "2026-01-11T10:42:49+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -514,21 +514,6 @@
       "outlet": "MTV Uutiset – RSS"
     },
     {
-      "updated": "2026-01-09T17:18:53+02:00",
-      "urls": [
-        {
-          "sign": "5ad4f25e6a82f509d98252c3e5d5c38edc70c8d1767e22eb40fbe60f6a44150b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "ICT‑asiantuntija Mika Pöyliö löysi yli 30 Helsinki‑nimeä käyttävää huijausverkkokauppaa, jotka myyvät Kiinassa valmistettuja tavaroita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-01-09T17:42:37+02:00",
       "urls": [
         {
@@ -540,21 +525,6 @@
       ],
       "title": "Pääministeri Orpo toteaa, että Suomen työttömyysaste on Euroopan korkein",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-01-09T17:32:57+02:00",
-      "urls": [
-        {
-          "sign": "47ea9d87794446432ac1fab7c47caddc478f3a5fafbbbbb6831ee6a89926a23c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "ICE:n agentti ampui Minneapolisissa 37‑vuotiaan naisen, Trump kutsui tekoä itsepuolustukseksi",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -3707,6 +3677,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-11T10:42:49+02:00",
+      "urls": [
+        {
+          "sign": "8bc73f18bd59f76757db2880b2508556b894ee77b4ca63e94d846406da89c862",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kutsumme kertomaan vanhustenhoidon epäkohtia – keräämme kokemuksia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-11T10:40:15+02:00",
+      "urls": [
+        {
+          "sign": "04e7b1b743b0b6cefcf300470299a3e189caa9673ae48946e392d4862ad40503",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän hyökkäyssota Ukrainassa on kestänyt pidempään kuin Neuvostoliiton ja natsi‑Saksan sota",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
