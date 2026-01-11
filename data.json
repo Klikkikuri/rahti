@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T15:32:34+02:00",
+  "updated": "2026-01-11T15:58:54+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -527,21 +527,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-09T19:39:21+02:00",
-      "urls": [
-        {
-          "sign": "941a0e916549e47ace2ea788679c95fd87194f8c8ec28df0ebb493ef7d81a55c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat: Akkujen vaihto nykyaikaisissa autoissa vaatii ammattilaisen – erikoislaitteet ja ohjelmointi pakollisia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-09T19:47:52+02:00",
@@ -3719,6 +3704,21 @@
         }
       ],
       "title": "Finavia: Tankkauskalusto rikkoutui kylmässä Rovaniemellä, matkustajat odottivat tunteja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-11T15:58:54+02:00",
+      "urls": [
+        {
+          "sign": "901f6d720d00a9b4bd8a4484b00305516216eb7e6154bbf16c60021ce7a4ac88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Porin talkoolaiset järjestävät historialliset jääpallon MM-kisat",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
