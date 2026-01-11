@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-11T19:23:53+02:00",
+  "updated": "2026-01-11T20:03:48+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -557,21 +557,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-10T00:05:35+02:00",
-      "urls": [
-        {
-          "sign": "8f8072b1d96af91b2cdd882551001e8c2c69a4bb7d6b8cac73aa2e62ff5527a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kysely: 48 % uskoo korruption yleiseksi kansallisessa politiikassa, luottamus paikallisiin viranomaisiin vahvempi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-10T00:47:16+02:00",
@@ -3719,6 +3704,21 @@
         }
       ],
       "title": "Iran katkaisi internetin ja tukahdutti mielenosoituksia; Suomen iranilaiset huolissaan perheistään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-11T20:03:48+02:00",
+      "urls": [
+        {
+          "sign": "e1a3a4bab2017e4d2360e5ec23594669c04698db37d770df2662a58cb1672a20",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksa ja Britannia ehdottavat Naton sotajoukkoja Grönlantiin vastauksena Trumpin ehdotukseen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
