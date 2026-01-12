@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-12T21:27:51+02:00",
+  "updated": "2026-01-12T21:35:42+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -752,21 +752,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-11T16:40:35+02:00",
-      "urls": [
-        {
-          "sign": "62fde51c3335187d6accd674990ce2f12c1a931e4c0dc61e99a25ac468535ab5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallinto-oikeus kumosi ilveksen metsästysluvat, mikä nostaa populaatiota ja näkyvyyttä kaupungeissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-11T17:04:45+02:00",
@@ -3839,6 +3824,21 @@
         }
       ],
       "title": "Senaattori Mark Kelly haastaa puolustusministeri Pete Hegsethin oikeuteen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-12T21:35:42+02:00",
+      "urls": [
+        {
+          "sign": "321f2bd46d67cc96f04d16808b7117b8e0313697c17a3340b3e648bb6ed6e1d5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti kaksi henkilöä Iranin suurlähetystön häiriökäyttäytymisestä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
