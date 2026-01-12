@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-12T20:08:54+02:00",
+  "updated": "2026-01-12T20:39:19+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -737,21 +737,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-11T15:58:54+02:00",
-      "urls": [
-        {
-          "sign": "901f6d720d00a9b4bd8a4484b00305516216eb7e6154bbf16c60021ce7a4ac88",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porin talkoolaiset järjestävät historialliset jääpallon MM-kisat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-11T16:09:00+02:00",
@@ -3840,6 +3825,21 @@
       ],
       "title": "Jämsä tarjoaa ikäihmisille ilmaisen sisäkävelyn kylmän sään ja liukastumispelon torjumiseksi",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-12T20:39:19+02:00",
+      "urls": [
+        {
+          "sign": "b55ee0f141ef38dc421f209360dc693f2bedb6980675b455b86d137f8bd5d383",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkija varoittaa, että Yhdysvallat voisi hankkia Grönlannin hallinnan taloudellisella painostuksella ilman sotilaallista hyökkäystä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
