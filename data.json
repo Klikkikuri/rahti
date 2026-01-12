@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-12T08:28:21+02:00",
+  "updated": "2026-01-12T09:01:27+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -662,21 +662,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-01-10T09:48:31+02:00",
-      "urls": [
-        {
-          "sign": "e097fa28fa07de2731225f020a45453adc8bdd3beccf7917cd6b91edc24f99d8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lappeenranta palkkasi sotatieteen tohtorin kartoittamaan yritysten turvallisuusvalmiuden",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-10T10:07:59+02:00",
@@ -3737,6 +3722,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-12T09:01:27+02:00",
+      "urls": [
+        {
+          "sign": "1d37d47a9336b8edf420fd6f45d0afe905ec29cc60a8192d1638b0d5692a8ebb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espoolainen Juulia Lähde valmistui mittatilausompelijaksi heikosta työllisyystilanteesta huolimatta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
