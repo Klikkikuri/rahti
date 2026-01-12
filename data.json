@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-12T10:20:41+02:00",
+  "updated": "2026-01-12T10:30:00+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1219,21 +1219,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-01-10T20:43:53+02:00",
-      "urls": [
-        {
-          "sign": "daed19a5f2baefe69758ded5b4cd0aed1c5775dd0ea129d684b70ed12aaa3141",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ässät hävisivät Tapparalle 1–5 Porissa, fanit poistuvat ulko-oveen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-01-10T22:51:30+02:00",
       "urls": [
         {
@@ -1304,36 +1289,6 @@
         }
       ],
       "title": "Patrik Laine treenaa ensimmäistä kertaa loukkaantumisen jälkeen Montrealissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-10T20:34:10+02:00",
-      "urls": [
-        {
-          "sign": "43b9234fb994979fffef816a566448b0626cea165187134bcd87b54b7367b6f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sportin päävalmentaja Jussi Tapio kritisoi taloudellista tilannetta menetyksen jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-10T20:23:59+02:00",
-      "urls": [
-        {
-          "sign": "5897034dc5667a346cab7cd0a58508fa356ff2c4eaa5538e33d5e6e88a5b583c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kärppien hyökkääjä Patrik Virta viedään sairaalahoitoon TPS:n Binnerin iskusta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -3334,7 +3289,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-01-12T05:34:34+02:00",
+      "updated": "2026-01-12T10:01:24+02:00",
       "urls": [
         {
           "sign": "4f9f7317a94c82d50ddabb062fb7c93335542897cfa45b3cf532102a047fb015",
@@ -3343,7 +3298,7 @@
           ]
         }
       ],
-      "title": "Trump: Iran haluaa neuvotella, Yhdysvallat voi ryhtyä toimiin ennen keskusteluja",
+      "title": "Trump sanoo Iranin haluavan neuvotella, Yhdysvallat saattaa ryhtyä toimiin ennen keskusteluja",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -3767,6 +3722,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
+    },
+    {
+      "updated": "2026-01-12T10:30:00+02:00",
+      "urls": [
+        {
+          "sign": "1805781425d55c65e2217456c00a04d4ba60a6a1a41aa5095f8667d9bcec38e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aki Riihilahti onnitellsee vaimoaan Katri Riihilasta 40-vuotissyntymäpäivänä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-12T10:21:24+02:00",
+      "urls": [
+        {
+          "sign": "15ce8f00739c2554a9668e4e16e0bdc9528c8828b8d8582356f7b7ddfcf79568",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranin internet-yhteys katkennut yli 84 tuntiin; kiertäminen mahdollista lyhytaaltoradiolla, ulkomaisilla verkkoilla tai Starlinkilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-12T09:41:19+02:00",
+      "urls": [
+        {
+          "sign": "2046f9cda76b0df435770145da3ec585a86b135ccf8dbcaca73afcaf5caa99fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Boulazac Basket Dordogne irtisanoi Jacob Grandisonin sopimuksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
