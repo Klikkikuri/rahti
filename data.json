@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-12T10:59:21Z",
+  "updated": "2026-01-12T13:02:26+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -3797,6 +3797,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
+    },
+    {
+      "updated": "2026-01-12T13:02:26+02:00",
+      "urls": [
+        {
+          "sign": "e6407057a334d89cce438454d48652d7a364dd35deab2fbffafd431c22d5ccb8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntija: Venäjä pyrkii hallitsemaan koko Ukrainaa, lännen toimet jäävät puheiksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – RSS"
     }
   ]
 }
