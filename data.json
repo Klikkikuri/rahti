@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-12T12:12:03+02:00",
+  "updated": "2026-01-12T12:26:53+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-10T16:11:58+02:00",
-      "urls": [
-        {
-          "sign": "de723436056274a9f59952fb2be803c1caad1c42d4d0dd59280f1437fc2f10c3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos varoittaa kylmästä säästä koko maassa – pakkaset lieventyvät ensi viikolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-10T16:28:14+02:00",
@@ -3780,6 +3765,21 @@
       ],
       "title": "Kirjailija Tuula Korolainen on kuollut 77‑vuotiaana",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-12T12:26:53+02:00",
+      "urls": [
+        {
+          "sign": "4c3ef2a661cdf4d05a064470ec0f90ec8fdaf4131e6504412367401e33fb91f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Reutersin video paljastaa kymmeniä mustia ruumispusseja Teheranin kadulla protestien jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
