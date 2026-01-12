@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-13T00:01:22+02:00",
+  "updated": "2026-01-13T00:20:08+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -752,21 +752,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-11T18:01:09+02:00",
-      "urls": [
-        {
-          "sign": "afed7c360cc04e64bb9fb0ab07b6a2e373bb871561cd46b8330a998be244eefd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kahvin tarjousmyynti nosti suomalaisten ostoksia 20 % – asiantuntijat varoittavat hintojen hitaasta laskusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-11T18:06:56+02:00",
@@ -3839,6 +3824,21 @@
         }
       ],
       "title": "Trump uhkaa 25 % tullilla kaikille Iranin kauppakumppaneille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-13T00:20:08+02:00",
+      "urls": [
+        {
+          "sign": "a7aa392648651d41461f4bfffbec2d80f8d0d5d3c3cbddc2bbc60579ad60303b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksan ulkoministeri Johann Wadephul korostaa, että Grönlannin tulevaisuus on vain Grönlannin ja Tanskan päätettävissä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
