@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-13T21:03:37+02:00",
+  "updated": "2026-01-13T21:17:38+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-12T19:44:11+02:00",
-      "urls": [
-        {
-          "sign": "5a92d138b5ceb7be01c83c137024da69b93a3e9e68301cad20bd05d74a347306",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjän turvallisuusneuvoston johtaja Shoigu tuomitsi ulkovaltojen sekaantumisen Iranin sisäisiin asioihin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-12T19:38:08+02:00",
@@ -3932,6 +3917,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-13T21:17:38+02:00",
+      "urls": [
+        {
+          "sign": "0aa9d5978f05eb2f46e42302b593be0a5e24532b8a2635ee8243d51601b49ada",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranin hallitusta vastaan protestoijat käyttävät leijonalla varustettua lippua Helsingissä ja Lontoossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
