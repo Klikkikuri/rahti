@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-13T17:16:25+02:00",
+  "updated": "2026-01-13T17:40:48+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1037,21 +1037,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-12T18:00:35+02:00",
-      "urls": [
-        {
-          "sign": "02033a17cb05c0c8bad85e26ddd09207111726ce707b0c17facca0e3e365b3f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puoli seitsemän kutsuu kaikki mukaan helmikuun lapaskilpailuun, jonka voittaja julkistetaan suorassa lähetyksessä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-12T18:03:57+02:00",
@@ -3962,6 +3947,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
+    },
+    {
+      "updated": "2026-01-13T17:40:48+02:00",
+      "urls": [
+        {
+          "sign": "625acd1839f77b59b8b4fa3687a50718beb40da434fe65500eb31d1f3865cc69",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Energiavirasto viivästyttää sähkön hinnoittelumääräyksen valmistelua – uusi sääntö astuu voimaan 2029",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
