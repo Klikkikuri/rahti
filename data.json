@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-13T02:01:01+02:00",
+  "updated": "2026-01-13T04:34:19+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -797,21 +797,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-11T18:56:59+02:00",
-      "urls": [
-        {
-          "sign": "5f62d30e5948235abd2e936a0c61f51bafdc17fe733a18443cfc7907238c5a8c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkijat: Some vaikuttaa poliittiseen viestintään ja nuorten äänestyskäyttäytymiseen, mutta ei muuta päätöksentekoprosessia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-11T19:01:00+02:00",
@@ -3840,6 +3825,21 @@
       ],
       "title": "Helsingin käräjäoikeudessa alkaa oikeudenkäynti tunnelisotaa koskevien salaliittiteorioiden levittäjille",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-13T04:34:19+02:00",
+      "urls": [
+        {
+          "sign": "9cf66197ebde8a510cffba366fa02fef519dff91ba0cf19cbdaa305fbaf77c4c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain puolustusministeriö käytti siviilikoneena naamioitua lentokonetta Karibianmeren veneiskussa syyskuussa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
