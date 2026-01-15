@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-15T03:00:47+02:00",
+  "updated": "2026-01-15T03:43:29+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1142,21 +1142,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-14T07:00:35+02:00",
-      "urls": [
-        {
-          "sign": "946f87d8986e58cd8fe2ff3a0a17541cc2a7e6695885a0365f6b77f2a7945d31",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalevi Sorsa -säätiön raportti: Thaimaan marjanpoimijat velkaantuvat Suomessa ja menettävät omaisuutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-14T06:32:00+02:00",
@@ -3944,6 +3929,21 @@
         }
       ],
       "title": "Iranin ulkoministeri väittää, ettei teloituksia tehdä tänään tai huomenna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-15T03:43:29+02:00",
+      "urls": [
+        {
+          "sign": "8c7dd5730c6bc661c86381f86f56ce91aa68c0e06cb00dab607321a5e38ee35d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump: US:n on hallittava Grönlanti ja ratkaisun on löydettävä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
