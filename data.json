@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-15T02:19:40+02:00",
+  "updated": "2026-01-15T02:37:00+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1142,21 +1142,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-14T06:31:14+02:00",
-      "urls": [
-        {
-          "sign": "4286cee017e2f734a7338a9e74e12bce84738649d846980dfc2d5d5c6ec9d8e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kouvola lopettaa Suomen ensimmäisen päiväkotibussin käytön syksyllä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-14T06:46:20+02:00",
@@ -3944,6 +3929,21 @@
         }
       ],
       "title": "NASA:n Crew‑11‑miehistö palaa ISS:ltä terveyssyyn aikaisemmin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-15T02:37:00+02:00",
+      "urls": [
+        {
+          "sign": "2e9f13dd40361ca36b30a81400588b95ab237569f50066a003b56a0a8571920a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Danimarkin ja Grönlannin ulkoministerit neuvottelevat Trumpin Greenland-kiistasta, mutta ratkaisu puuttuu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
