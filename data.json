@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-17T00:01:35+02:00",
+  "updated": "2026-01-17T00:59:49+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-14T17:41:38+02:00",
-      "urls": [
-        {
-          "sign": "27d1cb0e3e16d34601b5e00e5bbe112340b13c56f12612aa49e180eac0547ef7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rovaniemellä metsähallitus vaatii 23 000 euroa korvausta hakkuun keskeytyksestä – aktivistit kiistävät maksun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-14T17:42:07+02:00",
@@ -4082,6 +4067,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-17T00:59:49+02:00",
+      "urls": [
+        {
+          "sign": "771b5706204f4b272f61ca65a9b8ed73634ac5429cf7747a042ac1e6fca33cd5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valkoinen talo nimeää Donald Trumpin johtamaan Gazan rauhanneuvostoon Rubio, Blair ja muita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
