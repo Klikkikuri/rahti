@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-16T17:24:39+02:00",
+  "updated": "2026-01-16T17:44:50+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -949,36 +949,6 @@
       "outlet": "MTV Uutiset – RSS"
     },
     {
-      "updated": "2026-01-14T13:39:00+02:00",
-      "urls": [
-        {
-          "sign": "02f510b2eb51d26e461c785fb87c567e874508d6cd5e9c25091502d16c0f3ae7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ei aloita esitutkintaa Juho Eerolan ja Teemu Keskisarjan silmienvenytyskuvia koskevissa kiihottamisrikosilmoituksissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-01-14T13:36:33+02:00",
-      "urls": [
-        {
-          "sign": "46975e00486e4f6a8adbb222f86f54bad23c47ab3399d7775865e1005ad7fb01",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain korkein oikeus käsittelee Trumpin asettamia tullipäätöksiä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-01-14T13:53:23+02:00",
       "urls": [
         {
@@ -989,21 +959,6 @@
         }
       ],
       "title": "Sairaala Nova Jyväskylässä siirsi 18 leikkausta Citrix‑järjestelmävirheen takia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-01-14T13:50:22+02:00",
-      "urls": [
-        {
-          "sign": "7fc8f7c085ca9b01afb994695e6739216df64f7c92749221544bdca0e25127f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finanssiala: Suomeen rekisteröityjen sijoitusrahastojen pääoma nousi ennätykseen 202 miljardiin euroa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -4035,6 +3990,51 @@
       ],
       "title": "Republikaanisenaattori Murkowski: Grönlanti on liittolainen, ei varallisuus Tanskassa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-16T17:42:23+02:00",
+      "urls": [
+        {
+          "sign": "fc242657678e1711c40ca09a4cc009eb50cf7d380c2a32ce18d24cfec82eff9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ICE:n toiminta Minnesotaa vastaan kohtaa asukkaiden protestit, Trump kiristää maahanmuuttopolitiikkaa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-16T17:35:12+02:00",
+      "urls": [
+        {
+          "sign": "efa579d818f28aad9ec818bbf9c1788ce6835b8a981a04099e80b5eba791a68d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Reza Pahlavi vaatii kansainvälistä painostusta Irania vastaan protestien tukemiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-16T17:44:50+02:00",
+      "urls": [
+        {
+          "sign": "9c809eb1e6347ba9c04add6b162a923a0b3d3eac4faeec4db774fb5163ccfc71",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump väittää voivansa asettaa tullit maille, jotka eivät tue hänen Grönlanti‑suunnitelmiaan",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
