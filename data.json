@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-16T18:28:29+02:00",
+  "updated": "2026-01-16T18:30:35+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-14T14:13:33+02:00",
-      "urls": [
-        {
-          "sign": "f74bd638c8620bc3098a2b7bb1440a2306bd6651d98f4bbd433486181d07b5f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus valmistui määräaikaisuuden helpottamissehdot, Tehy varoittaa raskaussyrjinnän riskeistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-14T14:14:34+02:00",
@@ -4065,6 +4050,21 @@
       ],
       "title": "Tampereen keskustan vuokrat laskevat ylitarjonnan, ratikan ja pysäköinnin vaikutuksesta",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-16T18:30:35+02:00",
+      "urls": [
+        {
+          "sign": "204a2b4e3fcf80830e076f677b46c10e5d1e29d2aec92bc63b3e8e160c52a3f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sota‑asiantuntija: Venäjä käyttää pihditaktiikkaa Donetskin alueella, hyökkäykset Slovianskiin ja Kramatorskiin hidastuvat",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
