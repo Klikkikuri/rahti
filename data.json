@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-16T19:15:00+02:00",
+  "updated": "2026-01-16T19:18:58+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-14T14:32:27+02:00",
-      "urls": [
-        {
-          "sign": "4418b5d8c43abdf8b42522e0ceba43e4af8e4b5ff3e43035ee5c8d9b5678bf6c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donald Trump näytti keskisormen Michiganin tehdastyöntekijälle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-14T15:01:26+02:00",
@@ -4067,6 +4052,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-16T19:18:58+02:00",
+      "urls": [
+        {
+          "sign": "3421260f8cf01cc2e5ad91f575c841e6a8864f7a3aaf66c2d1afd737b3180f1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nobel-instituutin johtaja: Rauhanpalkintoa ei voi siirtää, mutta mitali voidaan antaa Trumpille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
