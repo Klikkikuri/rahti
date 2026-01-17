@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-17T01:28:59+02:00",
+  "updated": "2026-01-17T03:21:35+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-14T17:57:28+02:00",
-      "urls": [
-        {
-          "sign": "ed2aa1c9e3392d3a337f52ed02df50862685d7e0940350bc1d0cf2c6f651bcf2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vanhusten hoitokodeissa fyysiset ja kemialliset rajoitukset jatkuvat – asiantuntijat vaativat lainsäädännön uudistusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-14T18:13:27+02:00",
@@ -4079,6 +4064,21 @@
         }
       ],
       "title": "Lumisateet ja jäätävä tihku heikentävät ajokeliä Meri-Lapissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-17T03:21:35+02:00",
+      "urls": [
+        {
+          "sign": "a953a7f1ee9b27315ff6eeb63a3350f004201f7aa947a568fd7a32064cd03df8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "YK:n merensuojelusopimus astuu voimaan – tavoitteena 30 % merialueista suojattavaksi vuoteen 2030",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
