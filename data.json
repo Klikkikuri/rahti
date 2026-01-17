@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-17T12:11:15+02:00",
+  "updated": "2026-01-17T12:25:27+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-14T23:33:28+02:00",
-      "urls": [
-        {
-          "sign": "f6f06becb32c7b5b6d8d9e5b4b4ee0d94107dbf8856f1e85e77eb6348286ea9c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian lähetystö Teheranissa suljettu väliaikaisesti, henkilökunta työskentelee etänä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-15T00:44:10+02:00",
@@ -4109,6 +4094,21 @@
         }
       ],
       "title": "Jyväskylän yliopisto avaa kaksikielisen varhaiskasvatuksen opettajakoulutuksen, jossa suomen kielen oppiminen on osa opintoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-17T12:25:27+02:00",
+      "urls": [
+        {
+          "sign": "843366b6d278cbbfac35488c6258f0a26a36f54597197986aeb9df863e18df20",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen jäänmurtajat voivat palvella Yhdysvaltain sotilaallisia tehtäviä, myös merenalaisessa sodassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
