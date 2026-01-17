@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-17T10:41:53+02:00",
+  "updated": "2026-01-17T10:55:09+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-14T21:06:13+02:00",
-      "urls": [
-        {
-          "sign": "6868c37cce0aa73917e292d349f42fc4cef7e4832e5f2d0014d1e45a64e50758",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Sauli Niinistö varoittaa Yhdysvaltojen mahdollisesta hyökkäyksestä Grönlantiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-14T22:37:58+02:00",
@@ -4112,6 +4097,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-17T10:55:09+02:00",
+      "urls": [
+        {
+          "sign": "8f3678a459b12471f37efd71038c40815874d9e2e331cbb9246f2f69f433ca68",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti kaksi epäiltyä tulipalon sytyttäjää Nokialla – epäilty tapon yrityksestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
