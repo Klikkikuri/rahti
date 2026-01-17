@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-17T13:59:29+02:00",
+  "updated": "2026-01-17T14:05:39+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-15T01:10:22+02:00",
-      "urls": [
-        {
-          "sign": "883632d75bf36885ea347568067b5a299e9d0e0b7b5183e20d3c2102a3167c05",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela lopettaa paperipostin lähettämisen, siirtyy sähköiseen OmaKelaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-15T01:44:16+02:00",
@@ -4112,6 +4097,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-17T14:05:39+02:00",
+      "urls": [
+        {
+          "sign": "f85ab55b722292b741b44a33d3128ff780a20508477e2d9e18784a38fd8453df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turkin presidentti Erdoğan kutsui Donald Trumpin johtamaan Gazan rauhanneuvostoa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
