@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-18T15:13:22+02:00",
+  "updated": "2026-01-18T15:43:30+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1067,21 +1067,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-01-16T20:25:21+02:00",
-      "urls": [
-        {
-          "sign": "634acce4328c63d2f4d40d3cf8b11f56ec816af37c0a9a4614b915957853fc43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi autoa törmäsi ohitustilanteessa Valtatie 13:lla Mikkelissä, tie suljettu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-15T19:16:31+02:00",
@@ -4157,6 +4142,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-18T15:43:30+02:00",
+      "urls": [
+        {
+          "sign": "15ae747c309e1507e0d198d1d3a886f7737baad1bf5ac76e130647ea7dccfa82",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU:n hätäkokous vastaa Trumpin Grönlanti‑tulliuhran uhkaukseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
