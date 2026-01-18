@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-18T03:10:32+02:00",
+  "updated": "2026-01-18T06:02:00+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1652,21 +1652,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-01-16T21:02:16+02:00",
-      "urls": [
-        {
-          "sign": "a60463fc8264809961982bdc0e688eefeca850c6478d30b068325c64f3801f60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK:n 5–4-voitto katkaisee Tapparan voittoputken – Jori Lehterä teki voittomaalin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-01-17T11:32:34+02:00",
@@ -4127,6 +4112,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-18T06:02:00+02:00",
+      "urls": [
+        {
+          "sign": "c07014edcae5835b6b3d43436d4619c395f9a3c31241bba180e4d900684d55ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dokumentti: Johanna Möller manipuloi Aki Paasilan kuoleman ja sai henkivakuutuksen",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
