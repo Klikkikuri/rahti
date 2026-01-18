@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-18T16:14:05+02:00",
+  "updated": "2026-01-18T16:28:03+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1082,21 +1082,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-16T21:28:24+02:00",
-      "urls": [
-        {
-          "sign": "aba8de59da2779959b825f4bba6c3f8e7fd4c2cb090ec6bfcf2f27e62295dac1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Atlantin kosteus ja Perämeren sumu vaikeuttavat Lapin lentoliikennettä, Kittilän lennot peruttu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-16T23:56:36+02:00",
@@ -4157,6 +4142,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-18T16:28:03+02:00",
+      "urls": [
+        {
+          "sign": "f76d86801cbe2615e0b8d829c5a3022b671c35274514bc09e416ed08850c65dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Joensuun kaupunki tarjoaa sisäkävelyvuoroja yli 65‑vuotiaille – Arja Pappinen kiittää Areenan ratavuoroa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
