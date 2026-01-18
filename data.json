@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-19T00:36:22+02:00",
+  "updated": "2026-01-19T01:35:23+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1097,21 +1097,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-17T08:45:35+02:00",
-      "urls": [
-        {
-          "sign": "5ecb53a7567e3465903b14a600579f12e461225df7a10111d4463aa747e56c00",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmaston lämpeneminen heikentää talviurheilua, asiantuntijat suosittelevat varusteiden hankintaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-17T09:16:28+02:00",
@@ -4140,6 +4125,21 @@
       ],
       "title": "Syyrian armeija ja kurdijohtoiset SDF-joukot sopivat aselevosta ja vetäytymisestä",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-19T01:35:23+02:00",
+      "urls": [
+        {
+          "sign": "2ba8e3d97a3ba73f7b099d80bd8e0652a802683f3e3d151b220f9051165f97b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Presidentti Boric julistaa poikkeustilan Chilessä laajoissa metsäpaloissa; kymmeniä kuollut",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
