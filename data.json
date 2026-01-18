@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-18T17:41:34+02:00",
+  "updated": "2026-01-18T17:56:40+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1082,21 +1082,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-17T04:55:00+02:00",
-      "urls": [
-        {
-          "sign": "e2b1302b21289374a44e84cb20a81de5439b163e3323b94a8e670135efe071f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FAA varoittaa lentoyhtiöitä sotilaallisesta toiminnasta ja GNSS‑häiriöistä Keski‑Amerikassa 60‑ päivän ajan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-17T05:50:15+02:00",
@@ -4155,6 +4140,21 @@
       ],
       "title": "Ulkopolitiikan tutkija: Suuret Euroopan maat vahvistavat Suomen asemaa Trumpin Grönlanti-uhkauksen aikana",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-18T17:56:40+02:00",
+      "urls": [
+        {
+          "sign": "fad4312a3d6deb1769d1fca8c7d61d9d4cd394418cba28935069c39d321e3f8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyrialainen armeija hyökkää SDF:n alueita Raqqassa, taistelut uhkaavat laajentua",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
