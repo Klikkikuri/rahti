@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-18T07:00:35+02:00",
+  "updated": "2026-01-18T07:15:35+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-16T16:27:30+02:00",
-      "urls": [
-        {
-          "sign": "5290c08f1226c490d0bb2262dac74e40e9792cbdbcf853a22b84a08e7bfb9563",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Työministeri Marttinen: Hallitus pitää kiinni työllisyystavoitteesta, vaikka kokoomus on esittänyt toisin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-16T15:31:10+02:00",
@@ -4127,6 +4112,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-18T07:15:35+02:00",
+      "urls": [
+        {
+          "sign": "c1859c221b33f46b2d13a1b47d153df4fd6e61b85b5a07df16fd140a0ea5968d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ammatillisen koulutuksen opiskelijoiden siirtyminen korkeakouluihin ratkaisee Suomen 2030‑tavoitteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
