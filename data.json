@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-19T09:26:20+02:00",
+  "updated": "2026-01-19T09:30:05+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1082,21 +1082,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-17T14:36:16+02:00",
-      "urls": [
-        {
-          "sign": "cb3e751dc85445b25666c18ec12d107347aac8bdae27ba2806cf23d906ab7bdb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "BBC julkaisi kuusiosaisen podcast-sarjan Vastaamo‑tietomurrosta tuomitun Aleksanteri Kivimäen tarinasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-17T14:55:22+02:00",
@@ -4127,6 +4112,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-19T09:30:05+02:00",
+      "urls": [
+        {
+          "sign": "bc43323f9ee606fb36b4900bd33aa606744cea2c9d1a6d88c2f76ac7d404e66a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump uhkaa Euroopan maita tullilla Grönlantiin liittyvästä kiistasta – 10 % tullit voimaan 1. helmikuuta, 25 % kesäkuussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
