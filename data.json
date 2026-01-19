@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-19T16:14:48+02:00",
+  "updated": "2026-01-19T16:28:37+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1082,21 +1082,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-18T07:15:35+02:00",
-      "urls": [
-        {
-          "sign": "c1859c221b33f46b2d13a1b47d153df4fd6e61b85b5a07df16fd140a0ea5968d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammatillisen koulutuksen opiskelijoiden siirtyminen korkeakouluihin ratkaisee Suomen 2030‑tavoitteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-18T07:35:29+02:00",
@@ -4154,6 +4139,21 @@
         }
       ],
       "title": "Kotkan kaupunginjohtaja Esa Sirviö sai ehdollisen vankeustuomion rattijuopumuksesta ja ampuma-aserikoksesta, lupaa oppia virheestään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-19T16:28:37+02:00",
+      "urls": [
+        {
+          "sign": "03093bd1b64abdef6fca2e3c6487fa3e00751792dc5808f017206b96b550bbe2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Huhtasaari: Vain Yhdysvallat voi taata Grönlannin turvallisuuden Kiinaa ja Venäjää vastaan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
