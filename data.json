@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-19T11:28:54+02:00",
+  "updated": "2026-01-19T11:41:08+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1097,21 +1097,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-01-17T17:27:21+02:00",
-      "urls": [
-        {
-          "sign": "54ca5167aba7c5d9c6a171435b4988ad1727ac693efdc73f53a4192a9316f3f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NASA siirtää Orion-aluksen ja kantoraketin Artemis II -lennon laukaisupaikalle, siirto kestää 12 tuntia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-17T17:28:38+02:00",
@@ -4142,6 +4127,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-19T11:41:08+02:00",
+      "urls": [
+        {
+          "sign": "49cea781e3bd722e9dae6d07467b01b1e5d1d5bac239ce1b40ca447fa3366b7b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän presidentti Vladimir Putin saa kutsun Donald Trumpin ehdottamaan Gazan rauhanneuvostoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
