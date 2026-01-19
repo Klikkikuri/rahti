@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-19T13:41:21Z",
+  "updated": "2026-01-19T15:54:38+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1082,21 +1082,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-01-18T06:45:35+02:00",
-      "urls": [
-        {
-          "sign": "45f869939a679f01adf8589b8b6d813c139474c6cf5fc94b5a0e0fd181977419",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU:n kyberkestävyyssäädös 2027 velvoittaa ohjelmistoyritykset parantamaan tietoturvaa ja raportoimaan tukiaikataulut",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-18T07:00:35+02:00",
@@ -4142,6 +4127,36 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-19T15:54:38+02:00",
+      "urls": [
+        {
+          "sign": "0a1d387ec1008189c9f2c7c1cfe79ce6f98455a11c11b837cf86383f8ce27133",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii 19. tammikuuta Tampereella tapahtunutta taksin ryöstöä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-19T13:48:34Z",
+      "urls": [
+        {
+          "sign": "b82cc76aa043ff73816e55ffdb60690064700a9a808250b4c711c993a431a8c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äänekoski liittyi Julkisen alan energiatehokkuussopimukseen 2026–2035 tavoitteena hiilineutraalius vuoteen 2030",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Äks"
     }
   ]
 }
