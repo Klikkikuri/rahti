@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-25T09:08:16+02:00",
+  "updated": "2026-01-25T09:47:59+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1187,21 +1187,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-21T18:43:32+02:00",
-      "urls": [
-        {
-          "sign": "ae1209ec26d34bca18be6a6c6cf58ce572b8afe0cb8e4aeea47f16996efe64bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hytale julkaistiin ennakkoon – kehittäjät lupaavat korjata Minecraftin puutteet ja kuunnella pelaajayhteisöä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-21T19:01:07+02:00",
@@ -4367,6 +4352,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-25T09:47:59+02:00",
+      "urls": [
+        {
+          "sign": "e2dd252548c915b8372625224a68fa66f8f697e147e605a931e66f94519b9e1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuntien kadunnimet suosivat miehiä – Riihimäen lasitaiteilijoiden ja Tampereen lastenhahmon nimikontroversaatiot",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
