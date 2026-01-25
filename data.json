@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-25T08:16:02+02:00",
+  "updated": "2026-01-25T08:35:49+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1187,21 +1187,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-21T18:04:12+02:00",
-      "urls": [
-        {
-          "sign": "9b67efe49f65579e0d577cac96a68421db4f74e5d9625200faefdc365720c8e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump sanoi Davosissa, ettei aio käyttää sotilaallista voimaa Grönlannissa ja antoi Euroopalle varoituksen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-21T18:27:26+02:00",
@@ -4367,6 +4352,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-25T08:35:49+02:00",
+      "urls": [
+        {
+          "sign": "5a70c189fcc07af60d34f602178bf78a99139514e2ef772eaddae5b87c259d34",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvalloissa laajoja protesteja ICE:n ja rajavartijoiden toimia vastaan ampumisen jälkeen Minneapolisissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
