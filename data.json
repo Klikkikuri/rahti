@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-25T13:13:54+02:00",
+  "updated": "2026-01-25T11:59:22Z",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -4382,6 +4382,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-25T11:59:22Z",
+      "urls": [
+        {
+          "sign": "7d4a102b820f130bda13a5816b614a20ec55af4e495591151becba51214aff0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Urho varmisti II-divisioonan runkosarjavoiton Joensuun ottelussa Petoa vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Äks"
     }
   ]
 }
