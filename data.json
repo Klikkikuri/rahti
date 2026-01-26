@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-26T20:34:44+02:00",
+  "updated": "2026-01-26T20:59:11+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1412,21 +1412,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-01-25T18:12:51+02:00",
-      "urls": [
-        {
-          "sign": "e0017ac29572542678d37b1771b085d3dcfc6546fa57d9049391aa39699f4b94",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yli 800 000 kotitaloutta ilman sähköä – energiaministeri Chris Wright antaa hätäkäskyjä voimaloiden toiminnan jatkamiseksi päästörajojen ohittamisen avulla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-25T18:13:09+02:00",
@@ -4472,6 +4457,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-26T20:59:11+02:00",
+      "urls": [
+        {
+          "sign": "42a1361c6769837a89d69f5ee771543d459e7d0ec5e45dcb8454c6cc6eceead3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "LUT-yliopisto ja Kempower kehittävät sähköisiä lähilentokenttiä Lappeenrannassa – verkosto pienille kaupungeille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
