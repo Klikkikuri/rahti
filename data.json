@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-26T11:28:47+02:00",
+  "updated": "2026-01-26T11:58:26+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1489,21 +1489,6 @@
       "outlet": "MTV Uutiset – RSS"
     },
     {
-      "updated": "2026-01-24T20:50:08+02:00",
-      "urls": [
-        {
-          "sign": "018b1e7aef81766410d4d34b644cad0758be6b8909b6ec9f076d3aeb77b37b0b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kanadan kylmä ja Meksikonlahden lämmin ilmavirta aiheuttavat laajan talvimyrskyn Yhdysvalloissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-01-25T02:17:55+02:00",
       "urls": [
         {
@@ -1530,21 +1515,6 @@
       ],
       "title": "Trump syyttää Minneapolisin pormestaria ja kuvernööriä estämästä ICE‑agenttien suojelua ampumisen jälkeen",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-01-24T21:03:20+02:00",
-      "urls": [
-        {
-          "sign": "60b79e6010896f344f3399cfecac5ca7cab72cfb80fc298d6d3c02779da3dbaf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Historiantutkija: Neuvostoliitto sekoitti saksalaisen Nioben Suomen laivaston lippulaivaksi 1944",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -4412,6 +4382,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-26T11:53:26+02:00",
+      "urls": [
+        {
+          "sign": "33819d2433b7615d07387a2ff2ad0285e58ad7a86872627f15827e1214377e44",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansanedustaja Jani Kokko pyysi X‑palvelussa alatyylisen kommenttinsa jälkeen julkisesti anteeksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-26T11:58:26+02:00",
+      "urls": [
+        {
+          "sign": "8f8cf7a149d28f505567f402b4865fc49f62485e2d7961ae16d55520d7cb4e0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liisa Rintaniemi ennustaa Etelä‑Suomessa jopa -30 °C pakkasia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – RSS"
+    },
+    {
+      "updated": "2026-01-26T11:46:08+02:00",
+      "urls": [
+        {
+          "sign": "118d5f8782ad014c001b8afc738921db7261e20572f7597801d797354b2b212b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turun yliopisto avaa Suomen ensimmäisen biodiversiteettitieteiden laitoksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
