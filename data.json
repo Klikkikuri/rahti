@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-26T19:20:58Z",
+  "updated": "2026-01-26T21:55:18+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1412,21 +1412,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-01-25T18:13:09+02:00",
-      "urls": [
-        {
-          "sign": "fa32d313a8969acacd11d38bd277b3897d1d71559be068a619679350cd3c04c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Siw Malmkvist valittiin Astrid Lindgrenin hyväksymänä Peppi Pitkätossun rooliin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-25T18:59:50+02:00",
@@ -4487,6 +4472,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-26T21:55:18+02:00",
+      "urls": [
+        {
+          "sign": "5ee786a14133864456c3013cee8f60595a312fefc28bafb4a3907d18571d7be2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Seinäjoen valtuusto hylkäsi ison jääurheilukeskushankkeen, pikaluisteluhalli ei toteudu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
