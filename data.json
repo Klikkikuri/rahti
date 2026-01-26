@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-26T12:44:32+02:00",
+  "updated": "2026-01-26T13:10:34+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1412,21 +1412,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-01-25T02:17:55+02:00",
-      "urls": [
-        {
-          "sign": "4da7b28f1e3529c7c9c338c7e1f9c2dd3b529046a39c888c38ee05143f2e8448",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Minneapolis pyytää kansalliskaarta turvaamaan kaupunkia rajavartijaväliksen jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-25T06:00:35+02:00",
@@ -4424,6 +4409,21 @@
         }
       ],
       "title": "Poliisi haudatti Turun pakastimissa löytyneet ruumiit, 80‑vuotias poika syytetty hautarauhan rikkomisesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-26T13:10:34+02:00",
+      "urls": [
+        {
+          "sign": "d32068ed51f6d0e6555687082893f3fe8bb6d1793aeeee65574909db3f57cb85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU:n neuvosto hyväksyi Venäjän kaasun tuontikiellon, astuu voimaan vaiheittain",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
