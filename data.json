@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-01-26T06:32:04+02:00",
+  "updated": "2026-01-26T07:08:36+02:00",
   "entries": [
     {
       "updated": "2026-01-07T16:53:32+02:00",
@@ -1279,21 +1279,6 @@
       "outlet": "MTV Uutiset – RSS"
     },
     {
-      "updated": "2026-01-24T01:54:50+02:00",
-      "urls": [
-        {
-          "sign": "cecad3a92d301f481c99050760d366a46b773b3be5b3a66211886bc1b4a4de2a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lula väittää Trumpin pyrkivän perustamaan yksityisen YK:n, jossa hän olisi ainoa omistaja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-01-24T19:50:59+02:00",
       "urls": [
         {
@@ -1322,21 +1307,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-01-24T02:30:02+02:00",
-      "urls": [
-        {
-          "sign": "51bdc7421cdd8851a5288dae53aed5c9c244d77e2972ad99003ff0b9fa19a225",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pentagon esittää, että Etelä-Korea kantaa päävastuun Pohjois-Korean pelotteesta rajoitetulla Yhdysvaltain tuella",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-01-24T10:59:22+02:00",
@@ -4412,6 +4382,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-01-26T07:00:35+02:00",
+      "urls": [
+        {
+          "sign": "58ec6b94f7895a7cb8c38122763cc9fcbc0621f39b809fd314290c3ad40bb851",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU neuvottelee lähes valmis vapaakauppasopimus Intian kanssa laajentaakseen kauppakumppaneitaan Yhdysvaltojen ja Kiinan jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-01-26T07:08:36+02:00",
+      "urls": [
+        {
+          "sign": "6b5ac3dbe0a06bb66eeac31ca66d7202f36a72f54a72a795f3f43d24ae5e8c69",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Orpo aloitti Kiinan‑vierailun ja korosti sääntöpohjaisen kauppajärjestelmän säilyttämistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
