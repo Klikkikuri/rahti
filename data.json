@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-14T22:27:02+02:00",
+  "updated": "2026-02-14T22:32:39+02:00",
   "entries": [
     {
       "updated": "2026-01-24T23:14:08+02:00",
@@ -677,21 +677,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-02-06T22:17:44+02:00",
-      "urls": [
-        {
-          "sign": "00baf4d509ccbdabcda6c8cd9cca4a0c6125e66044ff299223a315aebc081a35",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STT korjasi Tytti Tuppuraisen avustajavaihdoksia koskevan jutun – päätoimittaja myönsi tarkistuksen puutteet",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-06T23:28:43+02:00",
@@ -3917,6 +3902,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-02-14T22:32:39+02:00",
+      "urls": [
+        {
+          "sign": "a2f54c9c48e2ba05266f0bfff8759f5961cd43c9cefd12e6e309d569c7236f3f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtakunnansovittelija esitti sovintoehdotuksen yksityisen sosiaalipalvelualan työriitaan, osapuolet vastaavat 17.00",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
