@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-16T17:12:49+02:00",
+  "updated": "2026-02-16T17:45:05+02:00",
   "entries": [
     {
       "updated": "2026-01-26T19:20:58Z",
@@ -1984,21 +1984,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-15T10:53:33+02:00",
-      "urls": [
-        {
-          "sign": "b349e522cb952eb8cf94a2266598803dfbccbc63be1860a618f23a07f8081dae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat: Asuntorakentaminen ylikapasiteettia, asuntopula ei toteudu",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-15T20:00:45+02:00",
       "urls": [
         {
@@ -3930,6 +3915,21 @@
       ],
       "title": "Itävallan syyttäjä syytti 21‑vuotiasta islamistisen terrori-iskun suunnittelusta Taylor Swiftin konserttiin",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-16T17:45:05+02:00",
+      "urls": [
+        {
+          "sign": "21fb37bc396c095006bb241a6965074653358a3e593f49e927c63deb23c46894",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Navalnyn äiti vierailee poikansa haudalla kahden vuoden jälkeen ja vaatii murhaajien vastuuseen saattamista",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
