@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-16T11:22:51+02:00",
+  "updated": "2026-02-16T11:39:43+02:00",
   "entries": [
     {
       "updated": "2026-01-26T11:58:26+02:00",
@@ -737,21 +737,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-02-14T15:37:53+02:00",
-      "urls": [
-        {
-          "sign": "a802ed99e77bf2a2c807043f2f448d9adc04a2abb166f98abd30422b387e7f89",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Teatteri Arina esittää näytelmän venäjälle kaapattu poika väittää perimisoikeutta Jouppilan tilasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-14T17:58:39+02:00",
@@ -3945,6 +3930,21 @@
       ],
       "title": "Työterveyslääkäri Eila Roos kritisoi yritysten hyvinvointikeinoja ja pyytää kokemuksia",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-16T11:39:43+02:00",
+      "urls": [
+        {
+          "sign": "c06259304cab926d9892db3ec0382505c5ca956fb4621b1de6b6533440c1f4f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU:n ohjeistuksen mukaan ISIS-yhteyksillä varustetut voivat saada turvapaikan, jos eivät ole syyllistyneet vakaviin rikoksiin",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
