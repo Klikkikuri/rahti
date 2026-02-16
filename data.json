@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-16T06:58:35+02:00",
+  "updated": "2026-02-16T07:10:56+02:00",
   "entries": [
     {
       "updated": "2026-01-26T11:58:26+02:00",
@@ -664,7 +664,7 @@
       "outlet": "MTV Uutiset – RSS"
     },
     {
-      "updated": "2026-02-15T07:26:03+02:00",
+      "updated": "2026-02-16T06:28:00+02:00",
       "urls": [
         {
           "sign": "5853e22a332ec228701618db178fb1931a5ae7ada32410387998c03f75e3b17a",
@@ -673,7 +673,7 @@
           ]
         }
       ],
-      "title": "Talviolympialaisten ohjelma 15.–22.2.: alppihiihto, ampumahiihto, jääkiekko ja muut lajit, suomalaiset mukana",
+      "title": "Talviolympialaisten päiväkohtainen ohjelma 16.–22.2.: alppihiihto, curling ja muut lajit",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -780,21 +780,6 @@
       ],
       "title": "Palomestari neuvoo: käytä hätävilkkuja ja vältä äkkijarrutusta hälytysajoneuvojen lähestyessä",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-13T17:20:04+02:00",
-      "urls": [
-        {
-          "sign": "15c76bd7c8d1026bf407d2f67bd710814a316f0d07e1bcf2fa936e8191e10b3a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Parisuhdekouluttaja Marianna Stolbow varoittaa: liian helppo kumppani voi vaarantaa suhteen",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -1202,21 +1187,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-14T16:28:45+02:00",
-      "urls": [
-        {
-          "sign": "1323970e40de567f7a362ea0b66286ec13d9699cf18f849444a1c27437ffe280",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jasmi Joensuu ankkuroi Suomen ensimmäisen maastohiihdon olympiamitalin – pronssi naisten 4 × 7,5 km‑relayssä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-02-14T18:08:03+02:00",
@@ -3932,6 +3902,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-16T07:10:56+02:00",
+      "urls": [
+        {
+          "sign": "cb6f5eb70177535f26b100de47d1ad1572bd69070675d4d8934f01b539315330",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain asevoimat kuljetti sunnuntaina pienen ydinreaktorin Kaliforniasta Utahiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-16T06:27:41+02:00",
+      "urls": [
+        {
+          "sign": "14ca745dc1e0c449f9624a3521f3af2c5aa2e57014743a3aaf04de3798655b90",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Olympiajääkiekko 2026 Milanossa: Leijonat ja Naisleijonat peliaikataulut ja ryhmäottelut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
