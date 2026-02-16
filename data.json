@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-16T04:44:40+02:00",
+  "updated": "2026-02-16T05:30:35+02:00",
   "entries": [
     {
       "updated": "2026-01-26T11:58:26+02:00",
@@ -2314,21 +2314,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-11T12:13:06+02:00",
-      "urls": [
-        {
-          "sign": "5bda00827747ea6df83a77f45e9ff87c0bf84feddae2ee304fe8a06b74e3d30c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi teatteriesitys tutkii 1960‑luvun delfiinikokeen ja eläinrakkauden eettisiä kysymyksiä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-15T04:04:35+02:00",
       "urls": [
         {
@@ -3930,6 +3915,21 @@
       ],
       "title": "Ruotsalainen tutkimus: pään kastelu kylmässä vedessä nostaa vakavien sydämen rytmihäiriöiden riskiä",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-16T05:30:35+02:00",
+      "urls": [
+        {
+          "sign": "ce4411429636c6a3a21c1d9430b8ec991e73a47e05587c4634ba44ca39c6862e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan rintamakaupungit piiloutuvat droonien takia – Ylen kuva-raportti",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
