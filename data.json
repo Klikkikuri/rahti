@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-18T00:33:04+02:00",
+  "updated": "2026-02-18T01:04:35+02:00",
   "entries": [
     {
       "updated": "2026-01-28T08:02:03Z",
@@ -902,21 +902,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-02-16T13:10:08+02:00",
-      "urls": [
-        {
-          "sign": "db31644cbcb7aa77f134cd0ae17cf9a65109297e1d0f853cedb203c520eb7d57",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi kaavalaki voi hidastaa jopa 150 aurinkovoimahanketta – Hausjärvi odottaa miljoonatuloja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-16T13:23:01+02:00",
@@ -3974,6 +3959,21 @@
         }
       ],
       "title": "Iida Karhunen kiitti henkistä vahvuutta – sijoittui kymmenenneksi talviolympialaisissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-18T01:04:35+02:00",
+      "urls": [
+        {
+          "sign": "939c9e59acb7f0fea318dae584cf0e565307faa48ea5d8dd6288525505174ebf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pörssisähkön hinta nousee yli 20 senttiin, keskihinta 16 senttiä/kWh",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
