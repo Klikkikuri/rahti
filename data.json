@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-18T18:39:33+02:00",
+  "updated": "2026-02-18T18:50:16+02:00",
   "entries": [
     {
       "updated": "2026-01-28T18:33:42Z",
@@ -917,21 +917,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-02-17T16:47:41+02:00",
-      "urls": [
-        {
-          "sign": "fb73e30b6e4bd6a10d5f0833de4623e842b61aaf43c4d8d013a8c125fd7800ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "400‑vuotias Ruotsin sotalaivan hylky nousi Tukholmassa poikkeuksellisen matalan veden vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-17T18:52:00+02:00",
@@ -3962,6 +3947,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
+    },
+    {
+      "updated": "2026-02-18T18:50:16+02:00",
+      "urls": [
+        {
+          "sign": "240f07270e09f43efc7860931a5a86ef9ace71e1e1c53f26d0e2637848f843de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lestijärven kunta porasi energiakaivon ilman vesilupaa, mutta vaatii lupaa asukkailta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
