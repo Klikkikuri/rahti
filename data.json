@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-18T05:36:14+02:00",
+  "updated": "2026-02-18T06:00:35+02:00",
   "entries": [
     {
       "updated": "2026-01-28T08:02:03Z",
@@ -902,21 +902,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-02-16T14:13:03+02:00",
-      "urls": [
-        {
-          "sign": "cc35e046a1154fa3d79681cd40387d9ba847d650850f210db6c7908d9ada4574",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun Tuirassa nuori mies pidätetty ampumisen jälkeen aseen piilottamisesta roskakoriin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-16T12:41:03Z",
@@ -3977,6 +3962,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-02-18T06:00:35+02:00",
+      "urls": [
+        {
+          "sign": "7459fbc939cb783998562813ea0466f1d93ba31c58504c18575298c3cb94af12",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen Supo-analyytikko Saana Nilsson varoittaa yhteiskunnan polarisoitumisesta ja median pelottelusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
