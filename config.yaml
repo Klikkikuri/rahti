@@ -21,6 +21,9 @@ sources:
     type: rss
     url: https://aksa.fi/feed/
 
+  - name: Iltalehti
+    type: iltalehti  # Custom iltalehti source type, uses json API instead of RSS
+    url: https://api.il.fi/v1/articles/iltalehti/lists/latest?limit=90&image_sizes[]=size138
 
 rahti:
   # Rahti file to push / pull
