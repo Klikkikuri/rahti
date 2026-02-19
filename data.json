@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-19T02:55:04+02:00",
+  "updated": "2026-02-19T03:34:18+02:00",
   "entries": [
     {
       "updated": "2026-01-29T23:37:37+02:00",
@@ -992,21 +992,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-18T02:17:17+02:00",
-      "urls": [
-        {
-          "sign": "f9e03edb591272ea1e953b93431adbeb653d2ff9af8e3ab4c590f899d5d5f7d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaiset ilmoittavat tänään sosiaali- ja terveysministerin seuraajasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-18T02:40:10+02:00",
@@ -3945,6 +3930,21 @@
       ],
       "title": "Pörssisähkön hinta piikittää aamulla 60 senttiin, keskimäärin 23 senttiä/kWh",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-19T03:34:18+02:00",
+      "urls": [
+        {
+          "sign": "fc504e40c1b5284972382e6f61906d752dc6a958146b84852cf3240866d9061d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat kehittää verkkopalvelua, jonka avulla eurooppalaiset voivat nähdä kiellettyä sisältöä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
