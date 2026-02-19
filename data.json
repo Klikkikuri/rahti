@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-19T23:07:19Z",
+  "updated": "2026-02-20T01:31:00+02:00",
   "entries": [
     {
       "updated": "2026-01-31T09:43:20Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-19T02:55:04+02:00",
-      "urls": [
-        {
-          "sign": "0c6ece3d89ee0fd423a1e9f88c46cafbc1e3ca94af99399fd8e625b0bf7c180a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pörssisähkön hinta piikittää aamulla 60 senttiin, keskimäärin 23 senttiä/kWh",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-19T03:34:18+02:00",
@@ -5385,6 +5370,21 @@
       ],
       "title": "Lancet‑tutkimus osoittaa, että Gazan sodassa kuolleiden määrä on merkittävästi virallista suurempi",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-20T01:31:00+02:00",
+      "urls": [
+        {
+          "sign": "83ab5c3a8fbe1cf842c3b0b788d99974024749059c82b516f73601bb072895f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iran lupaa vastata päättäväisesti, jos kohdistuu sotilaalliseen hyökkäykseen",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
