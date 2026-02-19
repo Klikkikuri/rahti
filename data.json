@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-20T00:38:22+02:00",
+  "updated": "2026-02-20T00:58:18+02:00",
   "entries": [
     {
       "updated": "2026-01-31T09:43:20Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-19T01:47:37+02:00",
-      "urls": [
-        {
-          "sign": "dee179300a4d4b1a3ecb8862f9852647a2c0d16730da5288b46511b0d25ced2f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat aikoo vetää osan joukoistaan Syyriasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-19T02:55:04+02:00",
@@ -5387,6 +5372,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-20T00:58:18+02:00",
+      "urls": [
+        {
+          "sign": "de9b513a55376cc7e4721909e6b5f3555ba0da15c2a60ab7f572e5da81fdd2d3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lancet‑tutkimus osoittaa, että Gazan sodassa kuolleiden määrä on merkittävästi virallista suurempi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
