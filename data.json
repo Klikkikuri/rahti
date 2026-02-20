@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-20T02:00:40+02:00",
+  "updated": "2026-02-20T02:45:43+02:00",
   "entries": [
     {
       "updated": "2026-01-31T09:43:20Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-19T03:34:18+02:00",
-      "urls": [
-        {
-          "sign": "fc504e40c1b5284972382e6f61906d752dc6a958146b84852cf3240866d9061d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat kehittää verkkopalvelua, jonka avulla eurooppalaiset voivat nähdä kiellettyä sisältöä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-19T04:07:18+02:00",
@@ -5387,6 +5372,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-20T02:45:43+02:00",
+      "urls": [
+        {
+          "sign": "c7c9062ec7eb706b21a6c08f3f5d1a9c7c480f76028524492ed21bcbb92bcbeb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venezuelan parlamentti hyväksyi lain, jonka avulla satoja poliittisia vankeja voidaan vapauttaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
