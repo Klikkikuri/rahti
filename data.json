@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-21T05:30:33+02:00",
+  "updated": "2026-02-21T03:51:40Z",
   "entries": [
     {
       "updated": "2026-01-31T09:43:20Z",
@@ -1157,21 +1157,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-20T05:45:35+02:00",
-      "urls": [
-        {
-          "sign": "c45cc21ec79fb3146c2f16a151ac7b8b0d3ab5bdde3f68726780d4875e22ab38",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen viranomaiset kirjautuvat Amazonin pilvipalveluun, varajärjestelmiä ei ole",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-20T05:54:51+02:00",
@@ -5329,7 +5314,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-21T05:30:33+02:00",
+      "updated": "2026-02-21T03:51:40Z",
       "urls": [
         {
           "sign": "2a54d089938babb2acb1c32055abf8a91f62ef41b8a82793ba89002b3a221373",
@@ -5338,10 +5323,25 @@
           ]
         }
       ],
-      "title": "Foreca varoittaa: Lämpöinen käänne, mutta lumisade ja jää tekevät paluuliikenteestä liukkaan",
+      "title": "Foreca varoittaa lauantain lumisateesta ja liukkaasta liikenteestä koko maassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-21T05:48:45+02:00",
+      "urls": [
+        {
+          "sign": "6bc5e36d9b51281df820549434a8482804b4aef8388fb28911abd002fffa45ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi käytti vesitykkejä ja kyynelkaasua hajottaakseen Tiranassa korruptiota vastaan protestin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
