@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-21T07:37:19+02:00",
+  "updated": "2026-02-21T07:57:58+02:00",
   "entries": [
     {
       "updated": "2026-01-31T09:43:20Z",
@@ -1144,21 +1144,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-20T07:25:35+02:00",
-      "urls": [
-        {
-          "sign": "04352085625dbd55399f7571f77923586bd58429596ebfdcbb3257b699f2eb3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaupunginjohtaja Jouni Eho vaatii kaupungin vahvaa tukea Voimala-hankkeelle – kevät ratkaisee",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-20T07:02:00+02:00",
       "urls": [
         {
@@ -1202,21 +1187,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-20T07:57:48+02:00",
-      "urls": [
-        {
-          "sign": "b864b8e6544808ee5b1d33c76b78a04e3bc94ad4f19620a127c52b14f4cfaddd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tamperelaiset nuoret hakevat kesätyötä Särkänniemessä ajolaitteiden hoitajiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-20T07:34:21+02:00",
@@ -5346,6 +5316,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-21T07:47:14+02:00",
+      "urls": [
+        {
+          "sign": "fd1a761832a1eb2338f640d44add72b990f78ddf4bddf82ddec8773b49654c4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Korkein oikeus rajoitti Trumpin tullivaltaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-21T07:57:58+02:00",
+      "urls": [
+        {
+          "sign": "501c95e9da2b0de78f32e99e119a3979250b50c336bc541e7e5db7f2624ada4f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venezuelan hallitus armahtaa 379 poliittista vankia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
