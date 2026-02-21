@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-21T03:51:40Z",
+  "updated": "2026-02-21T06:08:50+02:00",
   "entries": [
     {
       "updated": "2026-01-31T09:43:20Z",
@@ -1189,21 +1189,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-20T06:00:35+02:00",
-      "urls": [
-        {
-          "sign": "0d5adf79203b9297dbbc2db2ff3a793571336c79f53f3d25d2e363614dd1f799",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusministeri ja puolustusvoimat korostavat nuorten liikunnan merkitystä kansallisen puolustuskyvyn vahvistamisessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-20T06:28:53+02:00",
       "urls": [
         {
@@ -2344,21 +2329,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-20T13:40:19+02:00",
-      "urls": [
-        {
-          "sign": "1030a9c55e67bfba46cffbdebca5af286a6ecacc94911fb7c2d64bde6233f370",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen jääkiekkovalmentaja Raimo Määttänen kuoli 83‑vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-20T13:44:04+02:00",
       "urls": [
         {
@@ -2414,21 +2384,6 @@
         }
       ],
       "title": "Poliisi: Kalajoen palvelutalosta kadonnut vanhus kuoli kylmettynä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-20T13:51:52+02:00",
-      "urls": [
-        {
-          "sign": "aeef6637ae395685b9b6711f6258ff23df6c6a71cea499a2682fe1f7a0599460",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjalainen koomikko ylistää presidentti Alexander Stubbia Instagramissa – Stubb reagoi nopeasti",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5342,6 +5297,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-21T06:00:29+02:00",
+      "urls": [
+        {
+          "sign": "84df826eaeeca4920a0d50306a0a89781e021bdde348649e1faca3078eff3ff3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "124b4c378ed8718a2b43e7236c7e8c5e3607dd1c22641435d0787118b029e93f",
+          "labels": []
+        }
+      ],
+      "title": "Iivo Niskasen käytöstä sisäpiiri puhuu nyt",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-21T06:08:50+02:00",
+      "urls": [
+        {
+          "sign": "b86aa97335bc3bb46f43d497aa47a6de3d745e32a61004c5d22cf08e768bfc50",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metsähallitus suunnittelee hakkuuta Varisjärven lähellä, paikalliset pelkäävät maiseman heikentymistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-21T06:00:24+02:00",
+      "urls": [
+        {
+          "sign": "17c72029e362d59fc3f02fdcb6d2532857a17a7e2ccfb55f35e7436d6fc833eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Janne Saarikivi ja Tuomas Kyrö voittavat Hengaillaan-finaalin TV1:llä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
