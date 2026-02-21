@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-21T06:19:44+02:00",
+  "updated": "2026-02-21T06:39:07+02:00",
   "entries": [
     {
       "updated": "2026-01-31T09:43:20Z",
@@ -2327,21 +2327,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-20T13:56:26+02:00",
-      "urls": [
-        {
-          "sign": "c15ad8b056abdc77fa0bf7b3403c05561e83f922d9bd9c3b78f2ee2e2056455a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi: Kalajoen palvelutalosta kadonnut vanhus kuoli kylmettynä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-20T22:40:35Z",
@@ -5346,6 +5331,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-21T06:39:07+02:00",
+      "urls": [
+        {
+          "sign": "881b290cb0bef608b13d72b9d9ac51304745650ab3e032037a0b47cc3cc53afc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arto Martiskainen leikkaa sähkölaskua maalämmöllä, aurinkopaneeleilla ja varavaratakalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
