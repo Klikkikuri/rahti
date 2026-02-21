@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-21T12:42:44+02:00",
+  "updated": "2026-02-21T10:58:14Z",
   "entries": [
     {
       "updated": "2026-02-01T08:10:06Z",
@@ -2569,19 +2569,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-20T16:31:04Z",
-      "urls": [
-        {
-          "sign": "221873bda38a99a403aa162f9f00e33bf75e1715f9e74c19308d85ab5ecbe4e4",
-          "labels": []
-        }
-      ],
-      "title": "Elinkeinoelämän keskusliitto kyseenalaistaa Orpon eurobond‑kritiikin ja pohtii yhteisvelan mahdollisuutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-20T18:11:48+02:00",
       "urls": [
         {
@@ -2595,21 +2582,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-20T18:32:23+02:00",
-      "urls": [
-        {
-          "sign": "f06227d1a8abdf4a781005d67a3872b1b112551ac0dcfefe2241c0caee1d1370",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos torjui Kemin sataman viikon mittaisen öljyvuodon",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-20T18:40:34+02:00",
@@ -4887,7 +4859,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-02-21T10:58:12+02:00",
+      "updated": "2026-02-21T10:56:37Z",
       "urls": [
         {
           "sign": "e6a6b8536421454e071b72890ad5d9df1c6881a4af3a35778549e91af4266f3e",
@@ -4896,7 +4868,7 @@
           ]
         }
       ],
-      "title": "Iivo Niskanenin kilpailukysymys ja olympiamitalistien poistuminen Milano-Cortinan kisassa",
+      "title": "Iivo Niskanen murtautui Yle-haastattelussa; Kerttu julkaisi koskettavan viestin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5335,6 +5307,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-02-21T10:58:14Z",
+      "urls": [
+        {
+          "sign": "d323d4de807c4df881ef100e6e6a59dac79af32bec24be86fe9b2267a8d5f854",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iivo Niskanen keskeytti 50 km‑kilpailun sairauden takia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-21T12:48:29+02:00",
+      "urls": [
+        {
+          "sign": "96724536c87b8531dfd0d1ab8e2c00991da8e24cc0ea618815a234073c3fbe34",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Radiojuontaja Pertti Salovaara varoittaa alastonkuvia pyytävästä huijausviestistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
