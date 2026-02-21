@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-22T00:41:40+02:00",
+  "updated": "2026-02-21T23:00:02Z",
   "entries": [
     {
       "updated": "2026-02-01T08:10:06Z",
@@ -2494,21 +2494,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-21T12:28:28+02:00",
-      "urls": [
-        {
-          "sign": "88efd500f529ff81bbb4b496b18ee3219d64d387710971893dff0bc85dc35aa2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "USA:n 46‑vuotinen olympiakultakriisi saattaa päättyä finaalissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-21T12:40:35+02:00",
       "urls": [
         {
@@ -4013,25 +3998,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-21T10:35:58Z",
-      "urls": [
-        {
-          "sign": "c6dea3d3385526ede509db34a31e6ab165dc0acfc4346ec2b5cdd669900e18e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "cfd697f15ceeec73a164cf4163f86a2b8296671ac27786833414bb3330a81f73",
-          "labels": []
-        }
-      ],
-      "title": "Finanssiala ry varoittaa, että verottajan lakiehdotus voisi avata pääsyn kaikkien suomalaisten tilitietoihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-21T17:45:40+02:00",
       "urls": [
         {
@@ -5337,6 +5303,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-21T23:00:02Z",
+      "urls": [
+        {
+          "sign": "aba06ca35225a75d14deb57151ec554671153c0f7f8be2813d2444e52fee8edc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Slovakian jääkiekkojoukkue menetti pronssin, pelaajat pettyneet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-22T00:54:16+02:00",
+      "urls": [
+        {
+          "sign": "3b3f753c0fcdbd5b656cd2d503db8021377f087399e06da0bac625019ff3dff9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalainen isä epäiltynä poikansa murhasta ja äidin haavoittamisesta Etelä‑Teneriffalla – poliisi ampui hänet",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
