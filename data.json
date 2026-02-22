@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-22T01:36:54+02:00",
+  "updated": "2026-02-22T01:46:01+02:00",
   "entries": [
     {
       "updated": "2026-02-01T08:10:06Z",
@@ -992,21 +992,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-20T16:37:15+02:00",
-      "urls": [
-        {
-          "sign": "d213b406b0ad72a800de635b46d8a45eb749adc8e0d93de60f9228865355c9a8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nauvon kuolemaan johtaneen liikenneonnettomuuden esitutkinta valmis, syyteharkinta alkaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-02-20T17:22:02+02:00",
@@ -2580,21 +2565,6 @@
       ],
       "title": "Iivo Niskanen keskeytti miesten 50 km‑kilpailun hengitystieoireiden takia",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-21T12:48:29+02:00",
-      "urls": [
-        {
-          "sign": "96724536c87b8531dfd0d1ab8e2c00991da8e24cc0ea618815a234073c3fbe34",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Radiojuontaja Pertti Salovaara varoittaa alastonkuvia pyytävästä huijausviestistä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5333,6 +5303,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-22T01:46:01+02:00",
+      "urls": [
+        {
+          "sign": "a43717c297835f010d81b804dc40f745d71860728c8b96a45e3956dbd8e9adf9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi voitti 6–1, Slovakian pronssimitalin puolustus epäonnistui",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-22T00:54:14+02:00",
+      "urls": [
+        {
+          "sign": "fb6e0076fcd9b35b121da0b3d69cab499a09c31fd27ed5d852896263213520be",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen puolustus yllätti Milanin olympiassa ja vei joukkueen pronssille",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
