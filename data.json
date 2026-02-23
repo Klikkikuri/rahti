@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-23T15:13:31+02:00",
+  "updated": "2026-02-23T15:24:06+02:00",
   "entries": [
     {
       "updated": "2026-02-02T20:02:20+02:00",
@@ -812,21 +812,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-21T23:59:25+02:00",
-      "urls": [
-        {
-          "sign": "199deaca24baf46391e8400e801001c2fe82ec6f7f511896dc6fabe0eeebc115",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi voitti olympiapronssin, mutta sen merkitys koetaan haaleana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-22T00:41:40+02:00",
@@ -2374,51 +2359,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-22T20:37:44+02:00",
-      "urls": [
-        {
-          "sign": "0dbfd9a57fb3f7bc973eec60a284ef356fb8436dcd8a6c42e0b46b9d6c68523d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marion Rung, Meiju Suvas, Virve Rosti, Ami Aspelund ja Anja Niskanen lähtevät yhteiskiertueelle – Niskasen mukanaolo herättää kysymyksiä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-22T20:37:54+02:00",
-      "urls": [
-        {
-          "sign": "56c37dbf03a98a59bd6ec7db14ba086ea3fbab5a1825fba8c20da0df0e6e3858",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arsenal voitti Tottenhamin 8–2 kaudella, Eze teki viisi maalia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-22T20:30:25+02:00",
-      "urls": [
-        {
-          "sign": "1620c8a2b47aa57f3599d21ecc69120c0e6c8dff5870192b2151b5c9527a8552",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kanadan valmentaja Jon Cooper kommentoi jatkoaikaa ja MacKinnonin pettymyksen olympiafinaalissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-22T20:57:32+02:00",
       "urls": [
         {
@@ -2429,21 +2369,6 @@
         }
       ],
       "title": "Forecan ennuste: Loppuviikon lämpötila nollarajan yläpuolella, etelässä jopa +5 °C",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-22T20:48:35+02:00",
-      "urls": [
-        {
-          "sign": "62ed0df8cd305993b97e174c655a761e91c645c49605aedcd2303800ebebb0f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Droidup esittelee lämmintä, ihmismäistä Moya‑robottia – 146 000 € ja uncanny valley -haaste",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5400,6 +5325,81 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
+    },
+    {
+      "updated": "2026-02-23T15:24:06+02:00",
+      "urls": [
+        {
+          "sign": "3de756c04ba1257f5a8117336b0aaf579d307f994a4b01868e98531496660aa0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kesko ja S‑ryhmä aloittavat Kiertis‑pilottikokeilun Espoossa maaliskuussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-23T15:18:10+02:00",
+      "urls": [
+        {
+          "sign": "50076c7ad46199bc01b5b1596cc05dca23ed1488337e1f6ca84a396c302bf3e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mikko Polvisen siirtyy Perussuomalaisista Keskustaan – Keskusta julkaisee vahvan ehdokaslistan Oulun vaalipiirissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-23T13:21:42Z",
+      "urls": [
+        {
+          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pörssisähkön hinta nousee illalla – tarkastele varttikohtaisia hintoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-23T15:18:19+02:00",
+      "urls": [
+        {
+          "sign": "2f0b502efe346b726d83be13ea20e2094b481ea953104811c31fdc54719054d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisiammattikorkeakoulu sai ennätysmäärän hakijoita – lähes 5 800 hakemusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T15:20:41+02:00",
+      "urls": [
+        {
+          "sign": "afd8e190b758521921681be0e0110e66ed5786edce4e0530cbdd20559b1f7a6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liiga viivästyttää kurinpitopäätöstä Tappara‑JYP‑ottelun väkivaltaisuuksiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
