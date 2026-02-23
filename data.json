@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-23T03:10:50+02:00",
+  "updated": "2026-02-23T03:40:50+02:00",
   "entries": [
     {
       "updated": "2026-02-02T20:02:20+02:00",
@@ -857,21 +857,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-21T11:46:50+02:00",
-      "urls": [
-        {
-          "sign": "6f2017b1b900b6790052b253322ee4fa83b4ee01a1f1f18fdb614640c1b0b6a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian ex-prinssi Andrew pidätettiin 19.2.2026 poliisin takaa‑tutkinnassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-21T11:59:56+02:00",
@@ -5358,6 +5343,21 @@
         }
       ],
       "title": "USA voitti miesten jääkiekon olympiakultaa Kanadaa vastaan 2–1",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T03:40:50+02:00",
+      "urls": [
+        {
+          "sign": "c4f8bd6b0b6e7f45a5c046a2ce84c26b6dd34ce203634fa31aca057e19794f33",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alexander Stubb tapaa Emmanuel Macronin Elysee-palatsissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
