@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-23T11:25:18+02:00",
+  "updated": "2026-02-23T11:38:47+02:00",
   "entries": [
     {
       "updated": "2026-02-02T20:02:20+02:00",
@@ -812,21 +812,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-21T17:17:20+02:00",
-      "urls": [
-        {
-          "sign": "d01de4474964d162dfd3b23379af97709e1d09eea9acc964fecdfc3533a8e945",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mehiläinen vaatii oikaisua Helsingin hammashoidon kilpailutukseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-21T18:23:52+02:00",
@@ -5365,6 +5350,21 @@
         }
       ],
       "title": "Levin hiihtolomalaiset menettivät sähköt yön ajaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T11:38:47+02:00",
+      "urls": [
+        {
+          "sign": "0818e1f1532f2ade1a4a1584d8e034ce9c7b82c24d52eeff0c63e4f8166c9a6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulla Nordfors puolustaa Kaarina Maununtyttären haudan tutkimuksen eettisyyttä ja sormuksen siirtoa museoon",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
