@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-23T03:40:50+02:00",
+  "updated": "2026-02-23T04:49:07+02:00",
   "entries": [
     {
       "updated": "2026-02-02T20:02:20+02:00",
@@ -2734,21 +2734,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-22T11:02:49+02:00",
-      "urls": [
-        {
-          "sign": "38963d61d4275be441e792e7750f244d3d6f9ed9ea4b690b2177887cf30abc3c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Thaimaan tiukat lait voivat johtaa sakkoihin tai vankilaan suomalaisille matkustajille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-22T11:28:00+02:00",
       "urls": [
         {
@@ -5361,6 +5346,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T04:49:07+02:00",
+      "urls": [
+        {
+          "sign": "0392b76f63fc044d11f08567ff6abf1422465702b97dbeb358c024f55b9ee795",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen ulkoministeriö varoittaa Meksikossa tapahtuneesta kartellijohtajan murhasta johtuvasta väkivallasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
