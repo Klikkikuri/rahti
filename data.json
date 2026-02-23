@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-23T05:37:06+02:00",
+  "updated": "2026-02-23T04:08:02Z",
   "entries": [
     {
       "updated": "2026-02-02T20:02:20+02:00",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-21T12:42:44+02:00",
-      "urls": [
-        {
-          "sign": "f0a0ac6d2fc9b38536135169f8ea708b44fa08d26e96919033253120605be469",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaskelotit juuttivat Fanø’n rannikolle; biologi pohtii syitä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-21T13:01:34+02:00",
@@ -2629,21 +2614,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-22T10:13:42Z",
-      "urls": [
-        {
-          "sign": "14e1463f493d9317fd90b944ac1086e45d2b99f0b3217abc5f3b6d38fd3122c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapsi kuoli auton alle siirron aikana Mynämäen omakotitalon pihalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-22T10:44:13+02:00",
       "urls": [
         {
@@ -2732,25 +2702,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-22T10:12:08Z",
-      "urls": [
-        {
-          "sign": "e7ce5a99495c61a4ee836e89916f0f6e7272bdf8300078986b56ef71e8af9f63",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "26af9b41d0fec019f85872ca6849ed7e26ae375fe002b3bba4bbfc70e7d2e612",
-          "labels": []
-        }
-      ],
-      "title": "Finnwatchin raportti kritisoidaan harhaanjohtavaksi sote‑yhtiöiden verosuunnittelusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-22T11:29:55+02:00",
@@ -5346,6 +5297,66 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T06:00:41+02:00",
+      "urls": [
+        {
+          "sign": "2e390fe10e5bdc5545a0a549a5e331b1fc5d530ac3e97c08fd4ef049511f9e0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mynämäki: Auto osui pihalla alle kouluikäiseen lapseen, lapsi menehtyi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-23T06:00:39+02:00",
+      "urls": [
+        {
+          "sign": "41f88aefadbe21f6a712059617e80e4f6bf55f845547714dccba998b08c0a9ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mikko Ylöstalo myy vasikat ulkomaille alhaisten kotimarkkinahintojen takia",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T04:08:02Z",
+      "urls": [
+        {
+          "sign": "d7c4ba219e3cf0b828d1f8765e1ee69c998dc1cbd81276f5cf564ab77d5e705d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äänekosken urheiluseurat ja kaupunki pohtivat yhteistyötä ja urheilutilojen investointeja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-02-23T06:00:25+02:00",
+      "urls": [
+        {
+          "sign": "b847788b6d034a87725419ee6f55df86d9cacdcbb31c6bb21837a74524142101",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liikuntalääketieteen professori Jari Parkkari kritisoi suomalaisten hiihtäjien liiallista suojautumista ja ylidiagnostiikkaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
