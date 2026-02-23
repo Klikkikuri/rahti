@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-22T23:09:29Z",
+  "updated": "2026-02-23T02:27:10+02:00",
   "entries": [
     {
       "updated": "2026-02-02T20:02:20+02:00",
@@ -857,21 +857,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-21T11:10:54+02:00",
-      "urls": [
-        {
-          "sign": "89b88a18a8cbc361746045dcdd52d85d7605b8a7e96aafc9691d0828ac2305ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "IOM:n mukaan satoja siirtolaisia kuollut tai kadonnut Välimerellä tänä vuonna",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-21T11:39:25+02:00",
@@ -5361,6 +5346,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-23T02:27:10+02:00",
+      "urls": [
+        {
+          "sign": "29f29b8e8287d2f047b2da52e97535f14d2f357b8833b85240ddec809f9dc07a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen ulkoministeriö varoittaa Meksikon väkivaltaisuuksien pahenemasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
