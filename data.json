@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-23T18:13:54+02:00",
+  "updated": "2026-02-23T18:25:39+02:00",
   "entries": [
     {
       "updated": "2026-02-02T20:02:20+02:00",
@@ -859,36 +859,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-02-22T10:29:14+02:00",
-      "urls": [
-        {
-          "sign": "2029adfc95c83f03003087897e33513cfbddbd7d72a67ba48ba29f9d3389d1b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rovaniemen seurakunta perustaa kerhon Jumalaan pettyneille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-22T23:09:29Z",
-      "urls": [
-        {
-          "sign": "a575782a2b8afb09cb243ec16fd2e5304c31c2266088b50e8ee86428459162c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti seuraa Olympialaisten päätösjuhlaa Veronan areenalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-22T10:58:14+02:00",
       "urls": [
         {
@@ -947,21 +917,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-22T10:44:13+02:00",
-      "urls": [
-        {
-          "sign": "eac79fc6a2dbdd44f1bd9f40c0373269a86a6adfc4d814a0729772e299b330b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mynämäellä lapsi kuoli auton alle omakotitalon pihalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-22T11:14:07+02:00",
@@ -2342,21 +2297,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-23T02:00:10+02:00",
-      "urls": [
-        {
-          "sign": "700d7690945f599f896d16c8778e6ce43e4f38e568bc61962759798c4ac5adba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppi tarjoaa päivittäiset neuvot kaikille eläinradan merkeille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-23T07:01:38+02:00",
@@ -5402,6 +5342,66 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T18:20:59+02:00",
+      "urls": [
+        {
+          "sign": "595fad19838297940467627f13c3acad8829fc26a2a3c8f58d6f9e0d4607bac9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mikkeli asettaa viiden vuoden rakennuskiellon 2 MW:n ja sitä suuremmille akkuenergiavarastoille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T18:25:39+02:00",
+      "urls": [
+        {
+          "sign": "c431dc59930b3d6a83c882d7208cb729396626f5732cc0101a22c0187797a757",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Länsimaiset poliittiset johtajat vierailevat Kiinassa – asiantuntijat varoittavat Kiinan taloudellisesta hyödystä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-23T18:24:17+02:00",
+      "urls": [
+        {
+          "sign": "47c5360dd40eedb669b550b0f054559dce32c737062118f80bcc96659fe46656",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylikypsentäminen tekee ruusukaalista kitkerän – näin kypsennät oikein",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-23T18:23:06+02:00",
+      "urls": [
+        {
+          "sign": "250aab2e44c6c79ea6a81113bb12a841053c277791b88d23117ac754a61ba2ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pyytää 112‑numeroon ilmoittamaan 81‑vuotiaasta kadonneesta miehestä Vantaan Tikkurilassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
