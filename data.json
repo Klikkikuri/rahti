@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-24T22:07:27+02:00",
+  "updated": "2026-02-24T22:15:12+02:00",
   "entries": [
     {
       "updated": "2026-02-04T08:45:30+02:00",
@@ -2102,21 +2102,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-24T10:56:46+02:00",
-      "urls": [
-        {
-          "sign": "7b96bbae297a5bd2472e1c21d3b95f87465d5a3c5bc431d7d5d28d3c01722f33",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miikka Muurinen lopetti sopimuksensa Partizanin kanssa helmikuussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-24T10:16:22+02:00",
@@ -5391,6 +5376,21 @@
         }
       ],
       "title": "Rahoittajien salaiset suosituimmuuslistat ohjaavat suomalaisia elokuva- ja tv-rooleja, sanoo näyttelijä Antti Holma",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-24T22:15:12+02:00",
+      "urls": [
+        {
+          "sign": "2ccaf3bdb9ff4037b6f210ade1e1b0469ded57fdd4cd2ed007ed77728e4f5c80",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liaoningissa hiihtohissi meni vastakkaiseen suuntaan, video tallensi kaaoksen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
