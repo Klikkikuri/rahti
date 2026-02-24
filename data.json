@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-24T01:43:37+02:00",
+  "updated": "2026-02-24T01:54:48+02:00",
   "entries": [
     {
       "updated": "2026-02-04T08:45:30+02:00",
@@ -857,21 +857,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-22T18:14:36+02:00",
-      "urls": [
-        {
-          "sign": "7912ebd90f1aa6ef2c8d85b8952544a67ebb9dc5a41c0aca3e88e5f0d53dce07",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marius Borg Høiby kiistää raiskaussyytteet ja väittää, ettei muista tai pakota naisia nukkumaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-22T18:17:01+02:00",
@@ -5386,6 +5371,21 @@
         }
       ],
       "title": "Poliisiauto räjähdys Moskovan Savjolovskin asemalla, kaksi kuollut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-24T01:54:48+02:00",
+      "urls": [
+        {
+          "sign": "04b9ba21beb0c83f5d62d0ad34a66c82a317523d4192d8e069d08f8b56d94c79",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi ja 17 muuta maata tuomitsevat Israelin laajentumispyrkimykset Länsirannalla",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
