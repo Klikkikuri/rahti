@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-25T19:44:10+02:00",
+  "updated": "2026-02-25T19:59:08+02:00",
   "entries": [
     {
       "updated": "2026-02-04T22:20:02+02:00",
@@ -1174,21 +1174,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-24T22:48:12+02:00",
-      "urls": [
-        {
-          "sign": "bd76fec52eb7d757fb5179288c5d5af6a6770260df09ca4a74dec31e39f1db0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä-Ranskassa helmikuun lämpötilat nousevat ennätyksellisen korkeiksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-24T22:54:22+02:00",
       "urls": [
         {
@@ -1247,21 +1232,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-24T23:10:25+02:00",
-      "urls": [
-        {
-          "sign": "e4fa9e3318e5298610b422be407cf532e9c3973166393f6236ee324aaf30f717",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kuningas Harald otetaan sairaalahoitoon Teneriffalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-24T23:51:45+02:00",
@@ -2057,36 +2027,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-25T09:52:57+02:00",
-      "urls": [
-        {
-          "sign": "6d24b9f365b47a00cc95698fba165c58e26dcf36001da724736b4240d3887afb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Patrik Laine kokeilee puolustajapeliä Montrealin harjoituksissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-25T09:50:05+02:00",
-      "urls": [
-        {
-          "sign": "00bdf779c2a9a34f5acf89fc9f73f43a094e69bf8e62dfa89f72d425a9e35018",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Forecan meteorologi Sara Salonen varoittaa laajasta lumisateesta ja jäätävästä sateesta koko maassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-25T09:56:43+02:00",
@@ -5374,6 +5314,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-25T19:52:41+02:00",
+      "urls": [
+        {
+          "sign": "c435d0ba2f30557d0631106bb1995be55ad0536450a2fb6545aed3a091d3b1db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SAK, Akava ja STTK vaativat määräaikaisopimuslakiesityksen palauttamista valmisteluun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-25T19:54:25+02:00",
+      "urls": [
+        {
+          "sign": "627ed1052c8c97077276966096cc4720edbb8ed80e00f05eb62efdc98233d639",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami kertoo tulleensa raiskatuksi Omenahotellissa tuntemattomien miesten kanssa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-25T19:57:46+02:00",
+      "urls": [
+        {
+          "sign": "0a57e08f1ad8d6ee878bca55c3bec19926b775f834997b6d5cf1e5d4c3351ba9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hotel Tahko haetaan konkurssiin; toimitusjohtaja kertoo toiminnan jatkuneen saneerauksessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-25T19:59:08+02:00",
+      "urls": [
+        {
+          "sign": "bf5238f6c9ab14e2a7bbbb4371506367eb3816bc0e2760863cee0f373c5f97c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Tekniikan museo avaa energiasalin päivätekno‑reiveihin kello 14",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
