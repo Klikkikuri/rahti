@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-26T13:29:22+02:00",
+  "updated": "2026-02-26T13:38:56+02:00",
   "entries": [
     {
       "updated": "2026-02-06T11:11:34Z",
@@ -977,21 +977,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-25T13:22:16+02:00",
-      "urls": [
-        {
-          "sign": "fc1f7ddcf2332d0ae8ac2b03b91f6ce240009ff45627b899ace1d53e16a83c07",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donut Labin sisäpiirin raporteissa ylikorostettuja lupauksia ja asiantuntijoiden epäilyksiä akkuteknologian toimivuudesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-25T13:27:35+02:00",
@@ -3769,7 +3754,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-26T09:09:43+02:00",
+      "updated": "2026-02-26T11:31:27Z",
       "urls": [
         {
           "sign": "10009a028b93725d578157db931bb2bb203ed9fdbf4061f094c110f845396689",
@@ -3778,7 +3763,7 @@
           ]
         }
       ],
-      "title": "JJ ja Erika Vikman esiintyvät UMK:n avausnumerossa",
+      "title": "JJ ja Erika Vikman avaavat UMK:n, Spotifyssa eniten kuunnellut suomalaiset esiintyvät väliaikaisessa numerossa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5387,6 +5372,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-26T13:38:56+02:00",
+      "urls": [
+        {
+          "sign": "35b00697aeb98bb8e47583405f3277e07a662330d4e63e52b763ef7e7bed90e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallitus esittää taksilainsäädännön muutokset eduskunnan käsiteltäväksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-26T11:31:06Z",
+      "urls": [
+        {
+          "sign": "80111ddec5aeac2299231336ff4e03c9f0fa655dc19eea4d2147346466e8987c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äänekosken kauppapäivät pitävät ovet auki ja alennukset voimassa torstaina 26. helmikuuta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Äks"
     }
   ]
 }
