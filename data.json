@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-26T23:53:14+02:00",
+  "updated": "2026-02-27T01:13:50+02:00",
   "entries": [
     {
       "updated": "2026-02-06T11:11:34Z",
@@ -872,21 +872,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-25T19:57:46+02:00",
-      "urls": [
-        {
-          "sign": "0a57e08f1ad8d6ee878bca55c3bec19926b775f834997b6d5cf1e5d4c3351ba9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hotel Tahko haetaan konkurssiin; toimitusjohtaja kertoo toiminnan jatkuneen saneerauksessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-25T19:59:08+02:00",
@@ -5404,6 +5389,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-27T01:13:50+02:00",
+      "urls": [
+        {
+          "sign": "bfdb660fcd0d5f163163d7d15c058a446f96a7a526ef1ce7f55edb99d678e73b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois‑Karjalan käräjäoikeus tuomitsee entisen ortodoksisen kirkon arkkipiispa Leoa talousrikoksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
