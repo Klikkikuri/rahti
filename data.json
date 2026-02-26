@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-26T20:14:16+02:00",
+  "updated": "2026-02-26T20:20:31+02:00",
   "entries": [
     {
       "updated": "2026-02-06T11:11:34Z",
@@ -2179,21 +2179,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-26T10:16:59+02:00",
-      "urls": [
-        {
-          "sign": "bc356f522b3953403e8fe8ebe0340d3574ee21b4be82721d226185f30a891f0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Google ostaa 900 hehtaaria Vaalasta datakeskusta varten",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-26T10:23:52+02:00",
       "urls": [
         {
@@ -2267,21 +2252,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-26T10:17:38+02:00",
-      "urls": [
-        {
-          "sign": "512a06d3cb4b10b306d93c3fd33b2ecdd3f1761ed213f996a868329506229206",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin naisten jääkiekko-kommentti sai NHL-pelaajat aluksi nauramaan, mutta he myöhemmin pyysivät anteeksi ja tukivat joukkueen menestystä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-26T10:39:52+02:00",
@@ -5404,6 +5374,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-02-26T20:20:24+02:00",
+      "urls": [
+        {
+          "sign": "7f9b8726ad418887d0a3da51cf0d3b056110a54f5657fa0d20143af1623b831f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kotus valitsi voidepadan kuukauden sanaksi – selitys olympialaisissa käytetystä laitteesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-26T20:20:31+02:00",
+      "urls": [
+        {
+          "sign": "231fdd0dff57d8b1921ddade954288a412a5e73eb05553b6bb481e243fee946e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finanssiministeri Riikka Purra varoittaa 14,9 miljardia euroa vuodessa tulevasta budjettialijäämästä ja laajasta sopeutuksesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
