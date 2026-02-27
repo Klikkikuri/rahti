@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-27T14:14:53Z",
+  "updated": "2026-02-27T16:28:44+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -799,7 +799,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-02-27T14:14:53Z",
+      "updated": "2026-02-27T14:22:31Z",
       "urls": [
         {
           "sign": "883ac119cc4d877e706c3900399422f44ae42bd9b10e453989186d815edcc9ff",
@@ -808,7 +808,7 @@
           ]
         }
       ],
-      "title": "Ilmatieteen laitos varoittaa koko maata laajasta lumisateesta, jäävedestä ja liukkaasta liikenteestä",
+      "title": "Ilmatieteen laitos varoittaa laajasta lumisateesta, jäävedestä ja liukkaasta liikenteestä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -859,36 +859,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-02-26T15:38:54+02:00",
-      "urls": [
-        {
-          "sign": "67409b8e17a0d7cd36876d2cce224149d0c959fc911c8ef05b8dd89ec87f6a7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Safarctican kuva harhaanjohtaa – kelkkailijat olivat 30 m turvallisella etäisyydellä sulasta, mutta jäävaarat koskevat muita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-26T15:29:24+02:00",
-      "urls": [
-        {
-          "sign": "cb98d9bbe6f1122494a484c77959c726c3be87de5ff2fb2e5556eb61198c055c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tietokirjailija kritisoi tekoälyn käyttöä, kun hänen kuvansa päätyi Joensuun tanssimainokseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-26T15:44:55+02:00",
       "urls": [
         {
@@ -904,7 +874,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-27T13:53:31Z",
+      "updated": "2026-02-27T14:16:26Z",
       "urls": [
         {
           "sign": "fc5e3e10bd60ceb47485ffa7e8d12c72d3001cd2537f41d009f3ae7fc286911a",
@@ -913,7 +883,7 @@
           ]
         }
       ],
-      "title": "Bill Clinton kuullaan kongressissa, Hillary Clinton vaatii suljetun kuulemisen pöytäkirjan julkistamista",
+      "title": "Bill Clinton kuullaan kongressissa perjantaina; Hillary Clinton vaatii suljetun kuulemisen pöytäkirjan julkistamista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5357,6 +5327,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-27T16:21:31+02:00",
+      "urls": [
+        {
+          "sign": "2227ad1976baed97030ce4c351892318e6a7ff7cc871dfb7b18b863f6240b1c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Varastohallin katto romahti Haminan satamassa lumikuorman takia, ei loukkaantuneita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-27T16:28:44+02:00",
+      "urls": [
+        {
+          "sign": "eb4d933ddd5d005b95003353c933b79ab30790a9885804f1a4fb1edd7051d89b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen ulkoministeriö päivitti matkustustiedotteen – kehottaa välttämään tarpeetonta matkustamista Israeliin turvallisuusuhkien vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
