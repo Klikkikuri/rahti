@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-27T21:39:24Z",
+  "updated": "2026-02-28T00:07:24+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-02-27T04:24:03+02:00",
-      "urls": [
-        {
-          "sign": "530dfadbdd6d64598dc72ae0e9e165909a4d002d375b5520c00270458bd82b59",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Japanin naispääministeri Sanae Takaichi vastustaa perimysjärjestyksen muuttamista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-27T04:43:48+02:00",
@@ -2250,19 +2235,6 @@
       ],
       "title": "UEFA‑kilpailujen neljännesvälierien arvonnat: Real Madrid – Manchester City ja suomalaiset mukana useissa sarjoissa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-27T11:23:19Z",
-      "urls": [
-        {
-          "sign": "11729c82e8fb53d6c2e950e6fdb3ecb710c861ac6dd5ceba0a3322eeab8df1c9",
-          "labels": []
-        }
-      ],
-      "title": "Salvos harkitsee listautumista Helsingin pörssin First North -listalle",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5398,6 +5370,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-02-28T00:07:24+02:00",
+      "urls": [
+        {
+          "sign": "c318f08a68d2720add57357219f47e7f9320613e6413ab2a78bc931cba23d486",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump määrää liittovaltion virastot lopettamaan Anthropicin tekoälyteknologian käytön",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-28T00:00:22+02:00",
+      "urls": [
+        {
+          "sign": "023937d3f125b3bbfaaf4394d56d1c05de7b4840d1341fb96547ebe47a928d9e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan väitetty uusi risteilyohjus laukaisee laajan hälytyksen Venäjän alueilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
