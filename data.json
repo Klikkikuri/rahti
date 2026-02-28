@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-28T00:26:55Z",
+  "updated": "2026-02-28T00:35:27Z",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -1742,21 +1742,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-27T11:38:10Z",
-      "urls": [
-        {
-          "sign": "b8489a9f2d15aa5b53d025f01a21658d1d3736dd74d3f6d382b2629da3db2911",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Otkes: Lopellan SNJ‑3‑koneen moottorin sammuminen johtui kuluneesta polttoainetankin venttiilistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-27T10:52:14+02:00",
@@ -5387,7 +5372,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-28T02:26:32+02:00",
+      "updated": "2026-02-28T00:35:27Z",
       "urls": [
         {
           "sign": "591da79ee9fe04ed404533d61761b34afec49b951e6b3a6e6b2b30f7ea04bfad",
@@ -5396,8 +5381,23 @@
           ]
         }
       ],
-      "title": "Norjan F‑35-hävittäjät seurasivat venäläisiä Tu‑95‑pommikoneita ja Su‑35‑hävittäjiä Barentsinmerellä",
+      "title": "Norjan F‑35‑hävittäjät seurasivat venäläisiä pommi‑ ja hävittäjiä Barentsinmerellä",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-27T18:01:45+02:00",
+      "urls": [
+        {
+          "sign": "787f93cc84e0586292541bb3c23b7988e604e36182dd128b23ec218727476531",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kunnianhimoinen virtuaalinen Helsinki 2000 jäi epäonnistuneeksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
