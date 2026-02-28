@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-28T13:23:21+02:00",
+  "updated": "2026-02-28T11:38:35Z",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -2029,21 +2029,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-27T16:07:39Z",
-      "urls": [
-        {
-          "sign": "cf90dab6737f1f27e3474b24a6063dd9920998641e0bafa519a23817285ca805",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fintraffic: Junaliikenne Tampere–Ylöjärvi välillä palautuu kalustovaurion jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-27T17:07:55+02:00",
       "urls": [
         {
@@ -2194,21 +2179,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-27T18:04:00+02:00",
-      "urls": [
-        {
-          "sign": "a11d90ed222b12c9fb22ceedc96b0aff73e78f0e913346fb2e4143875e5f1463",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti testaa Adolf Hitlerin tuntemustasi – 12 kysymystä, täydellinen piste",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-27T15:34:18+02:00",
       "urls": [
         {
@@ -2252,21 +2222,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-27T18:09:11+02:00",
-      "urls": [
-        {
-          "sign": "a0746c6e88dcba376ce81ab5c1ee3f0f2518bcdd06362a5251e4ae1e1f8dd079",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STSin suosituimmat alppikohteet: Bad Gastein johtaa ja sen olut on halvin – 5,50 €",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-27T16:53:21Z",
@@ -3812,7 +3767,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-02-28T09:06:50Z",
+      "updated": "2026-02-28T11:38:35Z",
       "urls": [
         {
           "sign": "d378dc73ba7053a2690c65279cff3eaa662b4915c47c7bc035a0a6c4aec85350",
@@ -3821,7 +3776,7 @@
           ]
         }
       ],
-      "title": "Poliisi pidätti epäillyn Espoon Rastaspuiston asunnossa tapahtuneessa kuolemassa",
+      "title": "Poliisi pidätti epäillyn Espoon Rastaspuiston asunnossa tapahtuneesta kuolemasta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5404,6 +5359,51 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-02-28T13:30:22+02:00",
+      "urls": [
+        {
+          "sign": "727c7f268f54f5ea1bcc355700a3260f7cc5aecf55e096b6dac2af88abebb913",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainassa taistelleet suomalaiset varoittavat reserviläisiä muuttuneista sodan pelisäännöistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-28T13:32:47+02:00",
+      "urls": [
+        {
+          "sign": "6c39f98c4141988cd24bcc5b86394d1430154ecaf695bee5116d9fd22eba626c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Husin infektiosairauksien apulaisylilääkäri varoittaa ennätyksellisestä legionellositapauksista Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-28T13:37:02+02:00",
+      "urls": [
+        {
+          "sign": "ea2e23477ba6162911acd9202242fb6b9ee69db09001c679982174ca434b31dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yli 6000 äänestäjää valitsi Vaasan Ruispalat -parhaaksi ruisleiväksi Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
