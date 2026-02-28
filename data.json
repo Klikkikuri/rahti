@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-28T06:00:04+02:00",
+  "updated": "2026-02-28T06:01:35+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -1084,36 +1084,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-27T08:32:50+02:00",
-      "urls": [
-        {
-          "sign": "2bb03c815355e1e285c2874554ba44d24d903f0bba52d1302cb5aab0f95bfc8a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi: Lapin talvilomakausi lisää huumekauppaa, etelän diilit houkuttelevat",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-27T08:52:16+02:00",
-      "urls": [
-        {
-          "sign": "a0215391b00dc58e8a0f5cd73b78ab9908f58b20d03f04ee3ecc49c2b1d4b5a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin opetusministeri Barbara Nowacka ehdottaa somekieltoa alle 15-vuotiaille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-27T09:13:20+02:00",
       "urls": [
         {
@@ -2177,21 +2147,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-02-27T14:27:49+02:00",
-      "urls": [
-        {
-          "sign": "37fe0625c2cba6951521d604ae8e46dc0e67d83030cdf8be658b5648633007b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satakunnan käräjäoikeus tuomitsi 28‑vuotiaan pojan syyntakeettomasta äidin murhasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-27T14:00:47+02:00",
@@ -5398,6 +5353,55 @@
       ],
       "title": "NATO‑kenraali Richard E. Angle ylistää Suomen erikoisjoukkojen arktista osaamista Lapin harjoituksessa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-28T06:01:35+02:00",
+      "urls": [
+        {
+          "sign": "8a30227712e56ea5826b5b5d361826ae2c6018b32d7e5c2f822c57d7ae576146",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eva‑tutkimus: Suomalaiset pitävät Yhdysvaltoja entistä epävakaampina ja arvaamattomina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-28T06:00:35+02:00",
+      "urls": [
+        {
+          "sign": "8e0256a63efd63af3dc8eca81dcb060a91eee75d2163e81ec512890b4268f8a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anneli Korhosen kuvaus Grandin miehestä yhdistettiin Olof Palmen murhaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-28T04:00:08Z",
+      "urls": [
+        {
+          "sign": "6d0b86a94c578f4e8c350880628b838c418e399067e47be2e7b0e26058dd3c9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "645921dbba6833c3b981ffdbdfffa132cb8f1c2fdb756caf4fc86154527c7a34",
+          "labels": []
+        }
+      ],
+      "title": "Korkosuoja nyt alle Euribor-tason – alhaisemmat korot voivat houkutella asuntokauppoihin",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
