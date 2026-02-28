@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-28T05:12:48Z",
+  "updated": "2026-02-28T07:30:04+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -1892,21 +1892,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-27T12:43:49Z",
-      "urls": [
-        {
-          "sign": "69071c88933cdbf2e60cf72a8af18b4d1a27be280fa2155da3408ce887913c46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elian Lehto sai rintakehän ja alaraajan vammoja harjoituksissa Garmisch‑Partenkirchenissa, kuljetettiin helikopterilla sairaalaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-27T12:37:39+02:00",
@@ -5404,6 +5389,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-28T07:30:04+02:00",
+      "urls": [
+        {
+          "sign": "1b1ce2d0540c8f9f1922c17f14938c246f1c84cee359ab3f8143cc0373e6f5af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pele Koljonen selittää, miten liukastuminen Kuopiossa johti oikean jalan amputaatioon ja elämänmuutokseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
