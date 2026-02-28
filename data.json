@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-28T00:35:27Z",
+  "updated": "2026-02-28T02:50:59+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -904,21 +904,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-27T06:00:35+02:00",
-      "urls": [
-        {
-          "sign": "68f20ec4d9eae662aeec5c7f39bceddc0b05e5ea4bcad77775650b632bee85b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taksikuski hylkää halvempia kyytejä parempien keikkojen tullen – taksilain uudistus ei koske hintoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-02-27T05:57:00+02:00",
       "urls": [
         {
@@ -932,21 +917,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-27T06:20:35+02:00",
-      "urls": [
-        {
-          "sign": "81264967d63fd7feec31dd4fc5838f2ab417db2aa3fbdd010e9e9c1e65c8ecd7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vesivuoto ja jäämassi rikkoivat Tuiran avantouintilaiturin – Oulu aikoo rakentaa kestävän betonilaiturin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-27T05:45:12+02:00",
@@ -5400,6 +5370,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-02-28T02:50:59+02:00",
+      "urls": [
+        {
+          "sign": "f2cb938f17b07a6dac05a9162d67b1ae16a19fe736acd652c84240549dd71d86",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bill Clinton vastasi kaikkiin kysymyksiin Yhdysvaltain kongressin Epstein‑kuulemisessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-02-28T02:31:27+02:00",
+      "urls": [
+        {
+          "sign": "146dcf4a13b1bde9454c7f6e9750bd065dc5c00b88e1854d9785683a82e2f5e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Olof Palmen murha 40 vuotta sitten, tekijää ei ole vielä selvitetty",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
