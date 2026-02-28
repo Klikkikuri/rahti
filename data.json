@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-01T00:18:22+02:00",
+  "updated": "2026-03-01T00:31:02+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -2734,21 +2734,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-02-28T10:34:37+02:00",
-      "urls": [
-        {
-          "sign": "da282b1fd1a003f6a84197758ceb1bc8264c3d58b5bc4e97f78bbd89462a0820",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saara Särmä kritisoi Kansallisbaletin Don Quijote‑esityksen Sancho Panza -pukua, mikä herättää keskustelua taiteen poliittisesta sensitiivisyydestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-28T10:53:18+02:00",
       "urls": [
         {
@@ -5402,6 +5387,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-01T00:31:02+02:00",
+      "urls": [
+        {
+          "sign": "f0c832e3fa6f62eee8751c9274276f950604cc3aa2f27dc83af2283be78cd96c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Linda Lampenius ja Pete Parkkonen eivät aluksi saaneet samppanjaa voittajajuhlassaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
