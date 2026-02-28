@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-02-28T22:01:59Z",
+  "updated": "2026-03-01T00:18:22+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-02-27T14:31:48+02:00",
-      "urls": [
-        {
-          "sign": "ed8d1f524be4d389d371914e65ebae688cecb64c68b9ceb446b742b9efc1a677",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus tuomitsi Pitäjänmäen murhan 11 vuodeksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-27T14:49:18+02:00",
@@ -5402,6 +5387,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-01T00:18:22+02:00",
+      "urls": [
+        {
+          "sign": "2dc55ff5da45e3df437391ea643933f078c4851b848c31fc5fc355e0a43d7cb9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Linda Lampenius ja Pete Parkkonen voittivat UMK:n – analyysi Suomen Euroviisuvoitto-odotuksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
