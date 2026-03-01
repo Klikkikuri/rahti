@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-01T21:42:24+02:00",
+  "updated": "2026-03-01T21:59:45+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -1414,7 +1414,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-01T18:35:48Z",
+      "updated": "2026-03-01T19:59:33Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -1423,7 +1423,7 @@
           ]
         }
       ],
-      "title": "Trump vahvistaa Yhdysvaltojen ja Israelin iskut Iranissa, Iranin ylin johtaja Khamenei kuollut",
+      "title": "Trump vahvistaa Yhdysvaltojen ja Israelin iskut Iranissa; Iranin ylin johtaja Khamenei on kuollut",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -2674,36 +2674,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-01T08:45:14+02:00",
-      "urls": [
-        {
-          "sign": "c9b077083c3c34c19a0e0b4d091af1835ce1201c6e4d22ea83a5964e2045c567",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Annika ja Toni asuvat M/S Orbiit -laivalla ja matkustavat ympäri Suomea",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-01T08:52:37+02:00",
-      "urls": [
-        {
-          "sign": "0b47b2318c0d34431a3aeebae11e1def15eeebf4e2a2dd3d0b7b136fec76e763",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranin valtiontelevisio kertoi Khamenein kuolemasta tunteikkaasti",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-01T08:56:05+02:00",
       "urls": [
         {
@@ -2882,21 +2852,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-01T08:41:49+02:00",
-      "urls": [
-        {
-          "sign": "34add99cd09de58b3fd5f72834bb1bd39abeae143cf1467d4497e6a77ff2f849",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lauran, 37, kertoo pakotetusta psykiatrisesta hoidosta suomalaisessa sairaalassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-01T09:41:47+02:00",
@@ -5387,6 +5342,51 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-01T21:59:45+02:00",
+      "urls": [
+        {
+          "sign": "be7ffb91151b29889acb904e71ef0979989ac1b1818e70746e1773ec21c6d683",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Muurinen epäonnistui ystävyysotteluissa, valmentaja Tuovi kritisoi peliaikaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-01T21:49:46+02:00",
+      "urls": [
+        {
+          "sign": "8da0a510986cca4d214c12ff9434149e213d5af95e73b964f5ce2fb7ed73be57",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hjallis Harkimo kertoi Instagramissa läpikäyneensä linssileikkauksen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-01T21:57:46+02:00",
+      "urls": [
+        {
+          "sign": "a0db172691ec73fb064639efe2075fe9f6dea0aeaacc05fe8f5fa100640f15cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viro takavarikoi 37 miljoonaa laittomia savuketta vuodessa – salakuljetus kasvaa rajavalvonnan tiukentuessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
