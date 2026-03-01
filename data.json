@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-01T01:42:01Z",
+  "updated": "2026-03-01T03:53:20+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-02-27T14:49:18+02:00",
-      "urls": [
-        {
-          "sign": "e4fbcce977926c7c8acfe173452d3487f4073cafdae2549c480e5a39d553a8ef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SAK ehdottaa nelipäiväistä työviikkoa, EK:n pääekonomisti pitää ideaa epärealistisena",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-02-27T15:14:24+02:00",
@@ -2419,7 +2404,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-01T01:42:01Z",
+      "updated": "2026-03-01T01:46:03Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -2428,7 +2413,7 @@
           ]
         }
       ],
-      "title": "Trump ilmoittaa Khamenei kuolleen, Yhdysvallat ja Israel iskevät Irania; Suomi kehottaa varovaisuuteen",
+      "title": "Trump ilmoittaa Khamenein kuolemasta; Yhdysvallat ja Israel iskevät Irania, Suomi kehottaa varovaisuuteen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5359,7 +5344,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-01T00:57:43+02:00",
+      "updated": "2026-03-01T01:45:19Z",
       "urls": [
         {
           "sign": "b164a5aedddadb1630e4ecb8d09e6d2edc447d98d1fbce8e06b56fdf11fee4b6",
@@ -5368,7 +5353,7 @@
           ]
         }
       ],
-      "title": "Iranin korkein hengellinen johtaja Ali Khamenei kuollut 86‑vuotiaana",
+      "title": "Iranin korkein hengellinen johtaja Ali Khamenei on kuollut 86‑vuotiaana",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5400,6 +5385,21 @@
       ],
       "title": "Iranin hengellinen johtaja Ali Khamenei kuollut – Yhdysvallat ja Israel iskevät Iranin korkeimpaan johtoon",
       "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-01T03:53:20+02:00",
+      "urls": [
+        {
+          "sign": "b860f788148f1a5117fe1f3356f8f185332364280ae3ce6e74b896bbebd4b9ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranin valtionmedia ilmoittaa ajatollah Ali Khamenein kuolemasta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
