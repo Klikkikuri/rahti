@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-01T09:51:25+02:00",
+  "updated": "2026-03-01T10:03:58+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -2794,36 +2794,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-02-28T14:47:29+02:00",
-      "urls": [
-        {
-          "sign": "be55b026ca03d5b42bcb12884ccefbd13841e39c4c11b5f03a3029a18cad7613",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taavi Kallio (27) käytti väkivaltaa tuomaria vastaan perjantai-iltana Torniossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-28T14:48:05+02:00",
-      "urls": [
-        {
-          "sign": "c98d3af01822d6e6cdebf5cbbbcb741e30cc6b3a034646d3909fc52ee56f6c8c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suuri tutkimus: kasvisruokavalio pienentää viiden syövän riskiä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-28T14:48:47+02:00",
       "urls": [
         {
@@ -5402,6 +5372,36 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-01T10:03:58+02:00",
+      "urls": [
+        {
+          "sign": "64515cfb9cfd5d3d499d8f35eca1fb7fbf8f207bd754f8bc8b445cbacc2692ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pirelli perui Bahrainin F1-testin Lähi-idän turvallisuusongelmien vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-01T10:01:31+02:00",
+      "urls": [
+        {
+          "sign": "b7113485826b6718abf83dcc2cbabfa4ca1e7f776263b2b83706759bb500c077",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkomaisten matkustustiedotteet korostavat erikoisia varoituksia Suomesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
