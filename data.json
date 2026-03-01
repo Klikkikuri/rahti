@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-01T09:24:46Z",
+  "updated": "2026-03-01T11:39:22+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -2689,21 +2689,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-28T16:10:17+02:00",
-      "urls": [
-        {
-          "sign": "e8e46ac2fe7400600f95299214f92d0b500daf795c1dbea84dd953c33ffa300b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Erika Vikman peitti rintansa Ylen lähetyksessä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-28T15:07:37+02:00",
       "urls": [
         {
@@ -2850,21 +2835,6 @@
       ],
       "title": "Riikka Kerttula neuvoo aloittelijoita välttämään lannoitus- ja mullanvaihto-virheitä viherkasveissa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-02-28T15:53:51+02:00",
-      "urls": [
-        {
-          "sign": "a90e8b3b86d0d4d47ca0fa4591e151fcdb0f42b86b967e7facca2c96e5e595c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "USB‑4 ja Thunderbolt 4: erot selitetty – miksi standardit ovat sekavia",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5400,6 +5370,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-01T11:39:22+02:00",
+      "urls": [
+        {
+          "sign": "3bbff62466fc9bf8a3ff4dd27d8b0085ec3ee89c3b68cc4f71d64d6b164c6a27",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alppihiihtäjä Elian Lehto loukkaantui harjoituksissa, on sairaalassa toipumassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-01T11:34:44+02:00",
+      "urls": [
+        {
+          "sign": "66c3cc03b1649d38789046610454f277d9b7206febb2cf238b7c5be7fb89aff2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "UMK26 saavutti katsoja‑ ja äänimääräennätykset; Linda Lampenius ja Pete Parkkonen voittivat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
