@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-01T12:29:43+02:00",
+  "updated": "2026-03-01T12:41:14+02:00",
   "entries": [
     {
       "updated": "2026-02-08T22:23:45+02:00",
@@ -2629,21 +2629,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-02-28T16:50:41+02:00",
-      "urls": [
-        {
-          "sign": "96b7379265cd3d9e16385e823b779b8fd893c0312fdfcb0d7990b6f155e2dbe5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Testaa tietosi Suomen kansallispuusta ja muista kansallisista symboleista",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-02-28T16:58:01+02:00",
       "urls": [
         {
@@ -2702,21 +2687,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-02-28T17:12:46+02:00",
-      "urls": [
-        {
-          "sign": "8b7a951e9cad4138604d38f8735bd5faf63d9dacfaa978126c5e34079c533be8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Linda Lampenius ja Pete Parkkonen kritisoivat Israelin osallistumista Euroviisuissa – Facebookissa jakautui mielipiteitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-02-28T16:44:37+02:00",
@@ -5415,6 +5385,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-01T12:41:14+02:00",
+      "urls": [
+        {
+          "sign": "6084fc918a3e2ba13dc935eb51022e33de27e4888bb2ec835f6228ee290a29d6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valle Mäkelä myy 400 kg painavan Michael Schumacherin Ferrarin F1‑replikan, aloitus 9 000 €",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-01T12:02:44+02:00",
+      "urls": [
+        {
+          "sign": "1e47410bd1587029afe0b7a2381bf52302372ec2e584a64975810f4465046be1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat ja Israel julkaisevat lämpökameravideoita iskuistaan Iranin ohjus- ja tutkajärjestelmiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
