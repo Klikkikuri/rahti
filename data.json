@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-02T01:09:34Z",
+  "updated": "2026-03-02T04:16:44+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -2764,19 +2764,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-01T08:44:19Z",
-      "urls": [
-        {
-          "sign": "e0671ee04989a80cdf4c83a88f983e018565dbe1c2daaa871871a58bf76a0cce",
-          "labels": []
-        }
-      ],
-      "title": "Kauppalehden sarja esittelee viisi suomalaista, jotka rikastuvat sijoittamalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-01T08:02:56+02:00",
       "urls": [
         {
@@ -5372,6 +5359,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-02T04:16:44+02:00",
+      "urls": [
+        {
+          "sign": "5e2dc564e8e8899a624f6e13624c615d9fa806e6b087466a8b022afd5e4a3d69",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat vahvistaa turvallisuustoimia ja FBI:n valvontaa mahdollisten Iranin kostotoimien varalta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
