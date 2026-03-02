@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-02T14:00:14+02:00",
+  "updated": "2026-03-02T14:07:41+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -829,7 +829,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-03-02T11:56:47Z",
+      "updated": "2026-03-02T12:02:30Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -838,7 +838,7 @@
           ]
         }
       ],
-      "title": "Iranin ylin johtaja Khamenei kuollut; Yhdysvallat ja Israel aloittivat iskuja Iranissa",
+      "title": "Iranin ylin johtaja Khamenei kuollut, Yhdysvallat ja Israel aloittivat iskuja",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -2597,21 +2597,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-01T19:25:54+02:00",
-      "urls": [
-        {
-          "sign": "498107236abec7f9b90da23720dd5e48c45e57aefa013b052981c35d25971f51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vain yksi suomalainen naisurheilija kilpaili Falunissa – valmentajat kritisoivat liiton alhaista panostusta Skandinavian Cupiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-01T19:18:40+02:00",
@@ -5378,6 +5363,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-02T14:07:41+02:00",
+      "urls": [
+        {
+          "sign": "c242e87ab58f7362b16ae5f9df8f8382968cdaaa8e0b9503576c87dc5a3f9e86",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Antti Hepo-oja selittää eron syyt Matildan kanssa MTV:lle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
