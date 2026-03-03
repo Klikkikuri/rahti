@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-03T17:44:28+02:00",
+  "updated": "2026-03-03T17:55:12+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -1309,21 +1309,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-02T15:44:48+02:00",
-      "urls": [
-        {
-          "sign": "b9e903414a0bb9ffcf76f653613808755c1a566ca61fbe371da2c750b2cd7e57",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle esittelee katsojien valitsemat helmikuun parhaat sääkuvat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-03-02T17:13:05+02:00",
       "urls": [
         {
@@ -2179,21 +2164,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-03T06:01:17+02:00",
-      "urls": [
-        {
-          "sign": "5c3f1be93e9b577c614e988cc5fbadb776b3ed4cc0a9f08e1e535c22ae980bf5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maalivahti Oskari Forsman lopetti uransa tinnitukseen ja aloitti musiikkiuransa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-03T06:06:54+02:00",
       "urls": [
         {
@@ -2205,21 +2175,6 @@
       ],
       "title": "Robin Packalen osti modernin kolmikerroksisen talon ja esittelee remonttisuunnitelmia",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-03T06:02:39+02:00",
-      "urls": [
-        {
-          "sign": "96804e614bb4625cf324d3eb417ff4fed6de2e7d1bff1e9005d150f6a592d2da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomessa toimiva venäläistaustainen räjähdeyritys – tutkittiin sen taustat",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5372,6 +5327,51 @@
       ],
       "title": "Suurlähettiläs varoittaa: yli 300 suomalaista jumissa Qatarissa Iranin iskujen vuoksi",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-03T17:46:34+02:00",
+      "urls": [
+        {
+          "sign": "fee963048c5f38022701a520e5d18c1dfc78f33d0c4a53aa6baf5baba74829ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liettualainen rikollisryhmä varasti puoli miljoonaa euroa arvoisia venemoottoreita Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-03T17:53:50+02:00",
+      "urls": [
+        {
+          "sign": "db01452aa02054daac753a94561bd820ca142ec8cda83df72e113ef64eeeadfc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidättää 70‑vuotiaan epäillyn tahallisesta Vantaan tulipalosta, jossa perhe kuoli",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-03T17:55:12+02:00",
+      "urls": [
+        {
+          "sign": "f5eb776745066c7e76647b670901536eee240db056f24c408039a9083bdece20",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Orpo: Iranin sota nostaa bensiinihintoja ja uhkaa talouskasvua",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
