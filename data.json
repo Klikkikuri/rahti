@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-03T19:13:28Z",
+  "updated": "2026-03-03T21:25:06+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -1069,36 +1069,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-02T18:56:07+02:00",
-      "urls": [
-        {
-          "sign": "70ba7cd199c0fa6e4df9311b7745e27b94528e6863c9c0e3f25687424bcd21ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jukurit myy pelaajia taloudellisten haasteiden vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-02T18:44:24+02:00",
-      "urls": [
-        {
-          "sign": "06e7bf530001068e82929e751c2c3797e0b094c68f90ff7f31e1a92dc785dac7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EK:n Resilience Center Finland käynnistää väestönsuojien vientiprojektin – globaali kysyntä kasvaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-03-02T18:59:36+02:00",
       "urls": [
         {
@@ -1577,21 +1547,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-03T08:40:40Z",
-      "urls": [
-        {
-          "sign": "57ff2eb1250eb6d06917398a5e2423517d6a7c0f8b183699db1ec136b17da79c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Lauttasaaressa pyöräliike paloi kokonaan, henkilövahinkoja ei",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-03T04:12:36+02:00",
@@ -2355,21 +2310,6 @@
       ],
       "title": "Helenin sähköyhtiö raportoi 189 miljoonan euron liikevoiton, ei kuluttajien kustannuksella",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-03T10:33:33+02:00",
-      "urls": [
-        {
-          "sign": "be193da5f1496f926a1b9203b39b90413fdfa376efb8a8260b961af4d21d4082",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saga Vanninen jättää MM-hallit väliin",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5373,6 +5313,66 @@
         }
       ],
       "title": "Orpon hallitus ehdottaa varmuusvankeutta riskiperusteisena rangaistuksena",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-03T21:25:06+02:00",
+      "urls": [
+        {
+          "sign": "b99e60d340b3e012567ae7c507d9252596054e4704a0a82e2894a7c5ce67a029",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Erikoisjoukkojen iltajumppa päättyi kahden osallistujan luovuttamiseen, Jaskio koki ylpeyden",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-03T21:09:58+02:00",
+      "urls": [
+        {
+          "sign": "62bf4d5238a641a19d70bd1a6461f734af3394798af3127761c545a444eec600",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Juha-Petteri Kukkonen jää Dubaiin konfliktista kiinni, yksityiskoneen hinta 85 miljoonaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-03T20:56:55+02:00",
+      "urls": [
+        {
+          "sign": "d4857e277f8cfdf98faa11655e59918271b777d8eaffe52a2ea325079fe620f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harri Heliövaara ja perhe pakotettiin palaamaan Dubaihin epäonnistuneen Omanin rajakulun takia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-03T21:24:21+02:00",
+      "urls": [
+        {
+          "sign": "ffad665ac93ea6345763817e2a697464072764d3bdfb19af8b70177d2a604371",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harri Heliövaara ja Henry Patten jäävät Dubaissa odottamaan evakuointia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
