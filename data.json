@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-03T08:28:51Z",
+  "updated": "2026-03-03T10:44:41+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -2254,25 +2254,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-02T15:04:52Z",
-      "urls": [
-        {
-          "sign": "e9a2c66ba69bbe153e2b4c37ef8367ee42ee3be3afffadc54b251ba6e82f48da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "3f82f68d5ca965a08294c508abfe30b426b6d305b479a014e8df5fb039a8ed6e",
-          "labels": []
-        }
-      ],
-      "title": "Risto Dufva liittyy JoKP:n valmennukseen ennen Jokerien ja JoKP:n Mestis‑puolivälierää",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-02T16:12:17+02:00",
       "urls": [
         {
@@ -2498,21 +2479,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-02T17:09:52+02:00",
-      "urls": [
-        {
-          "sign": "ac0b200c525eb0b8e1e27523ec76cb37e79bb5da63b74ebccfb27beaac1ab57f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus katsoo Puolustusvoimien kaluston puutteiden vaikuttaneen Kuutostien onnettomuuteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-02T17:13:05+02:00",
       "urls": [
         {
@@ -2567,21 +2533,6 @@
       ],
       "title": "Ranskan presidentti Macron ilmoitti ydinaseiden lisäyksestä ja pelottelun vahvistamisesta",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-02T17:15:00+02:00",
-      "urls": [
-        {
-          "sign": "07ce047caafa6bde6a2844b6b57f1c6fb7be9e059e90050a60147952b4a09326",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaisa Juuso tukee Timo Harakan kritiikkiä valtiovarainministeriötä kohtaan",
-      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -4113,7 +4064,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-03T08:28:51Z",
+      "updated": "2026-03-03T08:40:40Z",
       "urls": [
         {
           "sign": "57ff2eb1250eb6d06917398a5e2423517d6a7c0f8b183699db1ec136b17da79c",
@@ -4122,7 +4073,7 @@
           ]
         }
       ],
-      "title": "Helsingin Lauttasaaressa pyöräliike tuhoutui tulipalossa, ei henkilövahinkoja",
+      "title": "Helsingin Lauttasaaressa pyöräliike paloi kokonaan, henkilövahinkoja ei",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5401,6 +5352,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-03T10:44:41+02:00",
+      "urls": [
+        {
+          "sign": "c6de13a614570270e5df4fcc7cf7f09b17c6fec08cb158a6a856f0fc41f200c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helenin sähköyhtiö raportoi 189 miljoonan euron liikevoiton, ei kuluttajien kustannuksella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-03T10:33:33+02:00",
+      "urls": [
+        {
+          "sign": "be193da5f1496f926a1b9203b39b90413fdfa376efb8a8260b961af4d21d4082",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saga Vanninen jättää MM-hallit väliin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-03T10:41:52+02:00",
+      "urls": [
+        {
+          "sign": "4e7dacacf5c1bee1046063e05ec7214428488c6302f42f7e2633a857e64ddf38",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vantaan tahallisesti sytytetty tulipalo vei lapsiperheen hengen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
