@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-03T05:08:28+02:00",
+  "updated": "2026-03-03T05:35:30+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -829,7 +829,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-03-03T01:00:43Z",
+      "updated": "2026-03-03T03:30:17Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -838,7 +838,7 @@
           ]
         }
       ],
-      "title": "Iranin ylin johtaja Ali Khamenei kuollut, Yhdysvallat ja Israel aloittivat iskut maassa",
+      "title": "Iranin ylin johtaja Ali Khamenei kuollut – Yhdysvallat ja Israel aloittivat iskut, Trump vannoo kostoa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -919,21 +919,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-01T17:15:28+02:00",
-      "urls": [
-        {
-          "sign": "dbe80fdda07040abbfda72923d7423682f85ae327158739b5b93520331e36e17",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Supon mukaan Iranin johtoon kohdistuvat iskut voivat radikalisoida Euroopan asukkaita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-03-01T17:17:53+02:00",
       "urls": [
         {
@@ -947,21 +932,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-01T17:49:46+02:00",
-      "urls": [
-        {
-          "sign": "35065e153dc673f0c88cee1d1fe4a93f4342a88c87abf87137a2d181ed24750b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dubai: suomalaiset kertovat ohjusiskuista ja epävarmuudesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-01T18:19:39+02:00",
@@ -2087,19 +2057,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-02T10:14:13Z",
-      "urls": [
-        {
-          "sign": "e417d6f7e9b98e14c5c1171b448b5fcd24387da70508f329c5ced1d65f2bee1b",
-          "labels": []
-        }
-      ],
-      "title": "Keskuskauppakamarin asiantuntija: Venäjä voi hyötyä Iranin öljysodasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-02T12:06:39+02:00",
@@ -5416,6 +5373,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-03T05:30:35+02:00",
+      "urls": [
+        {
+          "sign": "150b7181ffabb5a476e37e83fc4ab9f436c8591774351b88bc418a1e4e4ae8d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Juusola: Iranin hallinto todennäköisesti selviää Yhdysvaltain ja Israelin iskusta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-03T05:35:30+02:00",
+      "urls": [
+        {
+          "sign": "153e286041a589791ff772abd4c3fa00b8afd7c9eb07943612b78cdc29278a57",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bolivian poliisi tutkii C‑130‑hävittäjän romuttamasta lentokoneesta varastettuja seteleitä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-03T05:33:18+02:00",
+      "urls": [
+        {
+          "sign": "6f19c03b2ede9427e2675a2cf86d5962011db2da4c0cb56b2071ba1e6ef6c2c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkopolitiikan asiantuntija: Venäjän asema Lähi-idässä heikkenee Iranin konfliktin myötä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
