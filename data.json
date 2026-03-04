@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-04T02:10:23+02:00",
+  "updated": "2026-03-04T02:31:36+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -917,21 +917,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-02T17:42:14+02:00",
-      "urls": [
-        {
-          "sign": "7bcb235cf8b4a08a7ed3f39f6c0a0690b48f67c5f0b12db274ccbd0b10c5783a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ekorosk alkaa sakottaa väärin biojätteet lajittelevia kotitalouksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-02T18:09:06+02:00",
@@ -5380,6 +5365,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T02:31:36+02:00",
+      "urls": [
+        {
+          "sign": "e79cf201bfc6820cd9997750b6ba40a0365981cafa952693e23e549dcada1e1b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkoministeri Elina Valtonen osallistuu Itämeren valtioiden neuvoston ministerikokoukseen Varsovassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
