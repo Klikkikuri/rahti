@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-04T14:14:54Z",
+  "updated": "2026-03-04T16:19:03+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-03T15:26:25+02:00",
-      "urls": [
-        {
-          "sign": "0f3f42de09c50776f5f7fabcf5fd9a02cc5d76ed054cb392062ae0daefc7da8f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranin sota vaikuttaa lentoliikenteeseen, öljyn hintaan ja terroriuhkaan – vastaukset kysymyksiinne",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-03T15:26:53+02:00",
@@ -1995,21 +1980,6 @@
       ],
       "title": "Vantaan tulipalo: kaksi aikuista ja kolme lasta kuolivat, nuori mies selvisi",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-04T02:00:05+02:00",
-      "urls": [
-        {
-          "sign": "4fab86be1ff2ea274cc91804226013eaf1eb98fbc493aa00c4d4196699af1646",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppi tarjoaa neuvoja jokaiselle eläinradan merkille",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5391,6 +5361,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-04T16:19:03+02:00",
+      "urls": [
+        {
+          "sign": "ca20639b25f9faa9b98d4b50e4d274db6f939b8d33bdd35201e7b5d916af5c90",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tulipalon varalta: toimintaohjeet kerrostaloissa ja omakotitaloissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-04T16:18:29+02:00",
+      "urls": [
+        {
+          "sign": "8621d3723961ae963e96db540c7a73557f14420bfe00621af94e6ea491e93261",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "71‑vuotias tulipalon epäilty, jonka menneisyydessä väkivaltarikokset, yllättää paikalliset positiivisella asenteella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
