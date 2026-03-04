@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-04T21:00:00+02:00",
+  "updated": "2026-03-04T21:10:53+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -902,21 +902,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-03T18:28:04+02:00",
-      "urls": [
-        {
-          "sign": "d3157b7c63a2d32815370ef59ca8190d775b5240856e9a6610907b48b79b0b72",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kemin matkailuyhtiö saavutti 950 000 euron liikevoiton, mikä kiihdyttää myyntineuvotteluja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-03T18:34:16+02:00",
@@ -1909,36 +1894,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-04T10:10:43+02:00",
-      "urls": [
-        {
-          "sign": "41e169861c66d4f2a98dc75b7cdea3990ea2cf781eb27509c67bff9428105b77",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pommi iski Lamerdin urheiluhalliin, useita lentopalloilijoita kuoli",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-04T10:11:44+02:00",
-      "urls": [
-        {
-          "sign": "2ff5e7764ea2030dc24770baee65b405ae00822cd558dcf3b4450f63af14a7aa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii tahallista tulipaloa Vantaan Pähkinärinteessä, jossa perhe kuoli",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-04T13:40:28Z",
       "urls": [
         {
@@ -2072,21 +2027,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-04T10:24:01+02:00",
-      "urls": [
-        {
-          "sign": "394745373b9210615716793e1145a0e53fc9e359f1b2ab4f29b5e48617a45f4e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lidl järjestää keskikäytävät uudelleen – tuotteet siirretään pysyviin teemoihin 4. maaliskuuta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-04T10:00:15+02:00",
@@ -5388,6 +5328,66 @@
         }
       ],
       "title": "Olli Rehn varoittaa Iranin konfliktin vaikutuksista energiaan ja inflaatioon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T21:04:11+02:00",
+      "urls": [
+        {
+          "sign": "ea5eeb9ee252dc0e42adf4c615ef7b5c350b87fb6c541aaff8bc2bc618b6b7db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chivvisin mukaan Trumpin Iran‑sota saattaa olla harhautus",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T21:06:19+02:00",
+      "urls": [
+        {
+          "sign": "037db0a0602477a1f452627444ae0c19442d0371ce85beddcabb5592be4499ab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkoministeri Elina Valtosella varoittaa Iranin hyökkäyksistä ja pitkistä sotakonflikteista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T21:10:53+02:00",
+      "urls": [
+        {
+          "sign": "a4bcefdb454b17c9548318033e4b389e05cc1f9f1fb10ca9a66b4981eef536af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskiviikon Lähi-idän konfliktin tapahtumat: Yhdysvaltain sukellusvene upotti Iranin laivan, NATO torjui ohjuksen, Suomi järjestää evakuointilennon",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-04T21:03:22+02:00",
+      "urls": [
+        {
+          "sign": "516b74d99c6dc30e39d41b2ba4d0855fe01e3e3567f9e5aa738fb9a3d8cc5a9f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kesha kritisoi Valkoisen talon TikTok‑videota, White House puolustaa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
