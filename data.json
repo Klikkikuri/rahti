@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-04T21:43:14+02:00",
+  "updated": "2026-03-04T21:53:11+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-03T18:58:05+02:00",
-      "urls": [
-        {
-          "sign": "d625def095e3a878f3271175111cc48d5ec942308606aaa817cd2829c1f89589",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeriö ja Finnair antavat ohjeet suomalaisille, jotka ovat jumissa Lähi-idässä, miten palata kotiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-03T19:26:21+02:00",
@@ -1995,21 +1980,6 @@
       ],
       "title": "Donald Trump toteaa Iranin osallistumisen MM-kisoihin epätodennäköiseksi",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-04T10:48:00+02:00",
-      "urls": [
-        {
-          "sign": "0e631f90d3c639c808177e9d1ffaeeb0bd5cc1314d7f37d12aa1d4734464e903",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suositus: Vältä liian suuria ja vähäkuituisia lounaita työpäivän aikana",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5262,7 +5232,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-04T21:43:14+02:00",
+      "updated": "2026-03-04T19:49:05Z",
       "urls": [
         {
           "sign": "4af9b47dfeb1aeea44f05e5f289db2606aa05efd38fc8f7e483af6be1ff113cc",
@@ -5395,6 +5365,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-04T21:46:51+02:00",
+      "urls": [
+        {
+          "sign": "086f4a57093487a72007bd25546e6f61e3d44b80699f0aaec8ce60979409b0b7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi toteutti laajan operaatio Saarijärven yksityisasunnossa – useita loukkaantui",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T21:53:11+02:00",
+      "urls": [
+        {
+          "sign": "b123c3b1fc584145955d02433f62463b771b99c19af705b134a00bbfd676c2c3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti useita väkivallanteon epäiltyjä Saarijärvellä; useita loukkaantui",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
