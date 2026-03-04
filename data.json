@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-04T21:10:53+02:00",
+  "updated": "2026-03-04T21:24:50+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -902,21 +902,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-03T18:34:16+02:00",
-      "urls": [
-        {
-          "sign": "2e0926c52f4de220801a3df9439569c9de7d9228842e015760d7d28dd34d4bfa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kukkosen väitöskirja varoittaa: jopa puolet raskaana olevista naisista saa liikaa kofeiinia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-03T18:52:56+02:00",
@@ -1952,21 +1937,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-04T10:25:44+02:00",
-      "urls": [
-        {
-          "sign": "6646813892801a0a24af8641a83ffad85fdba8171dfcbab58ba543bd2a5d7199",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tytti Tuppurainen teki kantelun STT:n uutisoinnin johdosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-04T08:47:57Z",
@@ -4808,16 +4778,20 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-04T17:57:12Z",
+      "updated": "2026-03-04T19:18:53Z",
       "urls": [
         {
-          "sign": "97c2976570d121d655aa432f8fc6b10e548570092aa220519131c80fec911a36",
+          "sign": "4ba2f5826f4f3d11074e166530ac89d3062f015d77f0a743c2748406cfd9ccc9",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
+        },
+        {
+          "sign": "97c2976570d121d655aa432f8fc6b10e548570092aa220519131c80fec911a36",
+          "labels": []
         }
       ],
-      "title": "Finnairin Phuketista Helsinkiin suuntautuva lento kohtasi uhkauksen, poliisi valmiina",
+      "title": "Finnairin Phuket–Helsinki‑lento sai uhkailuilmoituksen, kapteeni tiedotti matkustajille laskeutuessa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5391,6 +5365,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T21:23:00+02:00",
+      "urls": [
+        {
+          "sign": "08f2de2e137f93486976ca1aebd70fa40fca2f7626914d2d4403e80788889f78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MM‑pronssimitalisti Anton Kemppi suhtautuu menestykseensä rauhallisesti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T21:24:50+02:00",
+      "urls": [
+        {
+          "sign": "65a790fdc09ecfdb495746238531cee7713840cbe8fbf1dd218f659eac8172f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lähi-idän konfliktin eskaloituminen voi kääntää osakemarkkinoiden painopistettä pois Yhdysvalloista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
