@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-05T01:06:38+02:00",
+  "updated": "2026-03-05T01:18:29+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -1982,21 +1982,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-04T12:14:12+02:00",
-      "urls": [
-        {
-          "sign": "3c0e2cb4d94c9d27efdecfd0651d43990087e397d837a87258704495bacec0af",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Verohallinto luokittelee avantouinnin ei‑liikunnaksi ja nostaa arvonlisäveron 25,5 %:iin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-04T12:14:02+02:00",
@@ -5401,6 +5386,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-05T01:18:29+02:00",
+      "urls": [
+        {
+          "sign": "9cb182a786dc33fc490be3b58a334d3bf1ee0bd46cabf4fbb7835b252732d8c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin varoittaa Eurooppaa mahdollisesta kaasutoimitusten katkaisusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
