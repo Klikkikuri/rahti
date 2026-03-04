@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-04T04:33:38+02:00",
+  "updated": "2026-03-04T04:58:47+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -2432,21 +2432,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-03T13:19:01+02:00",
-      "urls": [
-        {
-          "sign": "2a11ef26c65176e4771d858c0b17f619e5c5fe90cb309aa5a8d85d08675e2c0c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suojelupoliisi hakee kielitaitoisia siviilejä henkilötiedusteluun – hakuaika 27. maaliskuuta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-03T12:49:29+02:00",
@@ -5377,6 +5362,21 @@
         }
       ],
       "title": "Helmikuu poikkeuksellisen kylmä – alimmillaan -35,8 °C",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-04T04:58:47+02:00",
+      "urls": [
+        {
+          "sign": "94740f523170a0073ea287f9ae0704c94c4223e5bfc05ccee72e2e2a9619288d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä rekrytoi Keski-Aasian vankiloista ulkomaalaisia naisia sotaan",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
