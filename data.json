@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-05T22:14:31+02:00",
+  "updated": "2026-03-05T22:23:25+02:00",
   "entries": [
     {
       "updated": "2026-02-14T07:59:21Z",
@@ -902,21 +902,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-04T20:37:47+02:00",
-      "urls": [
-        {
-          "sign": "8d5757abf14a21ef8f36374ed375412354abae2c206e4e51459fbf50b9c34b27",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus pohtii ydinaseiden kauttakulun kieltolain purkamista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-04T21:10:53+02:00",
@@ -5378,6 +5363,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-05T22:23:25+02:00",
+      "urls": [
+        {
+          "sign": "bc68b00f2af59951aed382f2ee665b1dda8479b76a60fdc07e351a15ee842610",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallitus purkaa ydinasekiellon, Venäjän uhka vähennee, mutta opposition kritiikki jatkuu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
