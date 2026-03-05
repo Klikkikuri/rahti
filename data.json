@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-05T04:17:46+02:00",
+  "updated": "2026-03-05T04:57:04+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-03T19:56:02+02:00",
-      "urls": [
-        {
-          "sign": "3dfefd3b55d6672fbd6d85f778800ffec5ab4ab61da9546ea5c0deed15e3853b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Piipsjärven ja Raatin jääsaunat kilpailevat maailman suurimmasta saunasta Oulussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-03T20:19:55+02:00",
@@ -5397,6 +5382,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-05T04:57:04+02:00",
+      "urls": [
+        {
+          "sign": "c3a002b106b3c5285de1034b0edaf23f917c3f37eda824ae1bf6ba2e25b6c005",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanadan pääministeri Carney sanoo, ettei voi sulkea pois armeijan osallistumista Lähi-idän konfliktiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
