@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-05T21:24:17Z",
+  "updated": "2026-03-05T23:37:18+02:00",
   "entries": [
     {
       "updated": "2026-02-14T07:59:21Z",
@@ -2372,21 +2372,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-05T13:45:59+02:00",
-      "urls": [
-        {
-          "sign": "b51d6487429377b5903e039b513aa4d716ae8a78ffa49fc0650e2af72a6ccbcb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kampaaja Jenni Muhonen kertoo, miten 1990‑luvun kasvoja kehystävät suortuvat ovat palanneet",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-05T13:47:49+02:00",
@@ -5267,14 +5252,14 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-05T20:53:33Z",
+      "updated": "2026-03-05T21:31:25Z",
       "urls": [
         {
           "sign": "3e8dab215d71a66809ecc6c10d1c939920365c6ec263b05cd282df62190eae10",
           "labels": []
         }
       ],
-      "title": "Yhdysvalloissa nostettu ryhmäkanne väittää VW:n EA888‑moottorin öljyvuotoja ja viallisia männänrenkaita",
+      "title": "Yhdysvalloissa nostettu ryhmäkannassa syytetään VW:n EA888‑moottoria öljyvuodoista ja viallisista männänrenkaista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5340,7 +5325,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-05T21:24:17Z",
+      "updated": "2026-03-05T21:30:29Z",
       "urls": [
         {
           "sign": "922984e4e4071a0504b4abd788bc61ffab8803ae1f08a3d9644a34f1904e2837",
@@ -5349,7 +5334,7 @@
           ]
         }
       ],
-      "title": "Lontoon poliisi pidätti Labour‑puolueen MP:n puolison ja kaksi muuta epäiltynä kiinalaisvakoilusta",
+      "title": "Lontoon poliisi pidätti Labour‑puolueen MP:n puolison kiinalaisvakoilusta epäiltynä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5368,6 +5353,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-05T23:37:18+02:00",
+      "urls": [
+        {
+          "sign": "3804205968e21149c66382c1aab78c7ffe8a4ba07114feb28ba870fd0a36d844",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän entinen varapuolustusministeri Ruslan Tsalikov pidätetty korruptiosyytöksillä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
