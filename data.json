@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-05T13:29:09+02:00",
+  "updated": "2026-03-05T13:32:05+02:00",
   "entries": [
     {
       "updated": "2026-02-12T14:51:51Z",
@@ -92,21 +92,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – RSS"
-    },
-    {
-      "updated": "2026-02-12T11:34:49Z",
-      "urls": [
-        {
-          "sign": "4cec6c6922c859866550265ff37210e4f0ca63e53476852768a4a337f1fba509",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Metsä Group avasi ligniinin koetehtaan Äänekoskella yhteistyössä ANDRITZin ja Dow’n kanssa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Äks"
     },
     {
       "updated": "2026-02-15T16:02:07Z",
@@ -2271,36 +2256,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-04T20:54:58+02:00",
-      "urls": [
-        {
-          "sign": "5bd30ace0425aef8667a451d6a566507cc800a2fe0806a465e560582dfc94a66",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STT:n päätoimittaja kommentoi Tytti Tuppuraisen kantelua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-04T21:00:00+02:00",
-      "urls": [
-        {
-          "sign": "f7629a586fa022a47391968f113671659fc988cf5bc4c1bc2235f6df0b2ea710",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Olli Rehn varoittaa Iranin konfliktin vaikutuksista energiaan ja inflaatioon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-04T21:04:11+02:00",
@@ -5399,6 +5354,40 @@
       ],
       "title": "Lapin käräjäoikeus tuomitsi 54‑vuotiaan miehen femakko‑loukkauksesta Ida Erämaalle",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-05T13:31:31+02:00",
+      "urls": [
+        {
+          "sign": "79f77015b7c3b135ffb72e854d855b6f83f8a66fb7350a717b8068a0d9962f85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "f126be6be01cfc6ae0a72a1734a7722a4232e2e69464a27e8be6979ddf601d06",
+          "labels": []
+        }
+      ],
+      "title": "Meteorologit varoittavat: ohut jää voi olla vaarallinen kevään alussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-05T13:32:05+02:00",
+      "urls": [
+        {
+          "sign": "b0ccda7f2f60f4d60fb55a3ccb668a84b2ec009353375fd52e88d68c3346bc66",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtteri Bottas uhkaa menettää Cadillac‑tiimin kärkipaikkansa, jos ei menesty heti",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
