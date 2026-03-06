@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-06T03:33:45+02:00",
+  "updated": "2026-03-06T03:49:27+02:00",
   "entries": [
     {
       "updated": "2026-02-14T07:59:21Z",
@@ -902,21 +902,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-04T22:44:19+02:00",
-      "urls": [
-        {
-          "sign": "43e21e11c613e83fb47e0edc0ab30cc9fe22d2d12b47eddcec66520048a915d2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jätkäsaaren asuntopalo: poliisi pitää tapahtumaa törkeänä tuhotyönä ja pidätti epäillyn",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-05T01:06:38+02:00",
@@ -5368,6 +5353,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-06T03:49:27+02:00",
+      "urls": [
+        {
+          "sign": "3f7c13074986aeda9d3a052c253235b6e4910b3bd16739be30ed39551420f545",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump sanoo siirtyvänsä Kuubaan Iran‑toimien jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
