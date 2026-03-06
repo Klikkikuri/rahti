@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-06T02:09:02+02:00",
+  "updated": "2026-03-06T02:45:57+02:00",
   "entries": [
     {
       "updated": "2026-02-14T07:59:21Z",
@@ -2342,21 +2342,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-05T13:48:04+02:00",
-      "urls": [
-        {
-          "sign": "67dfee3e0e336f0cb90dabd823e5e17713a9e59d1a01602fee54425dfa4199c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Katri Lylynperä ilmoitti lopettavansa ammattilaisuransa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-05T11:48:44Z",
@@ -5368,6 +5353,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-06T02:45:57+02:00",
+      "urls": [
+        {
+          "sign": "8ed53032f8a28fd088884a5baab623c8cbc3d67ce39bf8c004f7ad4009f81499",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän puolustusvaliokunnan jäsen varoittaa ydinasekuljetuksen mahdollisesta uhasta Suomeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
