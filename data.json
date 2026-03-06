@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-06T21:16:52Z",
+  "updated": "2026-03-06T23:34:44+02:00",
   "entries": [
     {
       "updated": "2026-03-06T20:09:18Z",
@@ -867,7 +867,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-06T20:00:02+02:00",
+      "updated": "2026-03-06T23:21:48+02:00",
       "urls": [
         {
           "sign": "5a6265fbae6b25f10254408db9916abb5ec552324f91ea4f11ef5c8e47b3142e",
@@ -1435,21 +1435,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-05T22:17:32+02:00",
-      "urls": [
-        {
-          "sign": "c9200caf38d7889b7a1aff40f9ba005506a5448afb7abee63220c355ce503763",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suvi Minkkinen jäi 18. sijalle Kontiolahden naisten normaalimatkassa, Elvira Öberg voitti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-06T06:52:00+02:00",
@@ -2665,21 +2650,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-05T22:49:52+02:00",
-      "urls": [
-        {
-          "sign": "77d09e98ee785198a147eedc8d9dec47376e8839292c9c37dd1fa16bf5f9916e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus esittelee lakimuutoksen, joka mahdollistaa ydinaseiden kuljetuksen Suomen kautta puolustustilanteessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-06T17:28:37+02:00",
@@ -4388,6 +4358,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-06T22:45:42+02:00",
+      "urls": [
+        {
+          "sign": "571b1c228fb8ebfda75f6a734d02c6eca8b8050e4db12b8bbac6bff2a2d75419",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jukurit‑valmentaja Jonne Virtanen varoitti pelaajilleen \"vedän turpaan\" -kommentilla SM‑liiga‑ottelun jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-06T23:34:44+02:00",
+      "urls": [
+        {
+          "sign": "e7786c0fb3cd54161a0554ba066f3d583a9ebbe5d2ef7154b0d4de4461214d44",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän urheilijat saivat buuauksin vastaanoton Milano‑Cortinan talviparaolympialaisten avajaisissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-06T22:54:59+02:00",
+      "urls": [
+        {
+          "sign": "a25bffca4d9e8a4987febca665e3372939139ce32aabbaadd4ae5664aa8d28a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Roope Hintz palasi NHL:ään ja vitsaili olympiapronssista ennen Colorado‑Avalanchen ottelua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
