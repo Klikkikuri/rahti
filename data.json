@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-06T05:29:34+02:00",
+  "updated": "2026-03-06T05:30:35+02:00",
   "entries": [
     {
       "updated": "2026-02-14T07:59:21Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-05T01:58:29+02:00",
-      "urls": [
-        {
-          "sign": "d4c14dcd2e5f4a137f45bef070f84e4ab8e01b4fac0721d6fdc03bfd195e1548",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brasilian senaatti hyväksyi Mercosur‑EU‑vapaakauppasopimuksen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-05T03:07:56+02:00",
@@ -2327,19 +2312,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-05T12:01:41Z",
-      "urls": [
-        {
-          "sign": "9df7cba7abbd10344439a92ba98fb4adb0e48a19ffadd610c16f0fae5e6e33a6",
-          "labels": []
-        }
-      ],
-      "title": "Verohallinto hakee Luxury Collection Automobilesin konkurssiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-05T14:26:48+02:00",
@@ -5368,6 +5340,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-06T05:30:35+02:00",
+      "urls": [
+        {
+          "sign": "274c9f777aaf6fe5967384403415de7cbcf2fecd64d13fe6ff5c8175f5360413",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Unkari estää Ukrainan tukirahan maksun ja vaatii öljyä, mikä vaikeuttaa EU:n pakettia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-06T05:30:19+02:00",
+      "urls": [
+        {
+          "sign": "9b4667900e82ae53857d3b2fd1f85efba8187968ddc70b521bf8091090dac45f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nord VPN:n tutkimus: aktiiviset internet‑käyttäjät, videopelaajat ja IT‑ammattilaiset ovat infostealer‑hyökkäysten kohteina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
