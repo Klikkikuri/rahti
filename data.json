@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-07T08:13:40Z",
+  "updated": "2026-03-07T10:21:34+02:00",
   "entries": [
     {
       "updated": "2026-03-07T08:08:11Z",
@@ -1757,21 +1757,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-06T17:40:50+02:00",
-      "urls": [
-        {
-          "sign": "9decec8764586979ad103a60a7378fcf0f00ce605d2c1114002621f7d01cf229",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskustan puheenjohtaja Antti Kaikkonen kritisoi hallituksen ydinaseiden tuontikieltoa poistavaa esitystä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-06T17:15:00+02:00",
@@ -4646,6 +4631,21 @@
       ],
       "title": "Soliskylässä on syntynyt poikkeuksellisen paljon kaksosia pienessä kylässä",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-07T10:21:34+02:00",
+      "urls": [
+        {
+          "sign": "1cedf40a23281fdf1ddaf927500dfa28aae71c104301c1aeddd9c3a7421b2747",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Testaa mielenterveyden häiriöiden tunnistamista lyhyiden kuvausten perusteella",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
