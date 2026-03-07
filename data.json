@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-08T00:58:29+02:00",
+  "updated": "2026-03-08T01:02:26+02:00",
   "entries": [
     {
       "updated": "2026-03-07T21:01:41Z",
@@ -2222,21 +2222,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-07T13:45:02+02:00",
-      "urls": [
-        {
-          "sign": "d36eb05da4860c91dfb7b150795379864666263729cb396a0996d74ab72b3606",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bradfordin kotikierros vahva, mutta vedonlyöntikohde on riskialtis",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-07T13:29:02+02:00",
@@ -4693,6 +4678,21 @@
       ],
       "title": "Keni Aliu voitti Zoran Paunovicin kuudessa erässä ja valmistautuu SM‑tittelimatsiin",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-08T01:02:26+02:00",
+      "urls": [
+        {
+          "sign": "0157b549cf7b004ac97cb8dbd8678b131e06a0b123c731f59acb967620e25472",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi sulki Jyväskylän Tourulan liikenteen turvallisuuden vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
