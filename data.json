@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-08T21:43:54Z",
+  "updated": "2026-03-08T23:52:42+02:00",
   "entries": [
     {
       "updated": "2026-03-08T21:43:54Z",
@@ -2192,21 +2192,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-08T11:06:56+02:00",
-      "urls": [
-        {
-          "sign": "580c1187eb241008047acd15a776cea81dbf65306279ae91ada36372f2e59759",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset pohtivat suurten ikkunoiden yksityisyysongelmia tiheillä asuinalueilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-08T11:29:31+02:00",
@@ -4737,6 +4722,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-08T23:52:42+02:00",
+      "urls": [
+        {
+          "sign": "eded85ac8ca14d4b6a5f7fcd4790d480ca4b4086f6938e41f5317b641199d66d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mikael Granlund palautui pelikuntoon Anaheim Ducksissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
