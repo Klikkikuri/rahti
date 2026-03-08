@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-08T09:40:38+02:00",
+  "updated": "2026-03-08T09:55:47+02:00",
   "entries": [
     {
       "updated": "2026-03-08T05:25:31Z",
@@ -32,21 +32,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-06T15:31:55+02:00",
-      "urls": [
-        {
-          "sign": "fd2e6899cb13aca54a5bc9a008fb2af119917caefe5bf85aaf731f0cc4810721",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ähtärin eläinpuiston karhut heräsivät talviuniltaan torstaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-06T15:54:46+02:00",
@@ -4697,6 +4682,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-08T09:55:47+02:00",
+      "urls": [
+        {
+          "sign": "ea70543732e94c426aff6c20951084719e7e47b3e979a1f93fe3b308ed438e91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinkiläinen taloyhtiö sai 75 000–200 000 euron remonttitarjoukset – asiantuntijat selittävät mahdollisen ylibuukkauksen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
