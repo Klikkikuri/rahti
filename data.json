@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-08T14:57:15+02:00",
+  "updated": "2026-03-08T13:13:37Z",
   "entries": [
     {
       "updated": "2026-03-08T11:49:19Z",
@@ -197,21 +197,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-06T16:26:31+02:00",
-      "urls": [
-        {
-          "sign": "6e6d223ba857fa3a90b57f0a50aef6b5ab5d94b82dd29fdaec64eed3e7e52177",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meira varoittaa Kulta Katriina -suodatinkahvin metallipaloista, kehottaa palauttamaan vaaralliset erät",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-01T09:24:46Z",
@@ -2087,21 +2072,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-07T22:05:17+02:00",
-      "urls": [
-        {
-          "sign": "e27fa13f58af641e39327497a7dc6397934341fe83cba33c422111a12d6b2346",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Komiat-yhtye juhlii Emma‑palkintoa täysillä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-07T22:14:57+02:00",
@@ -4493,16 +4463,20 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-08T13:35:45+02:00",
+      "updated": "2026-03-08T13:13:37Z",
       "urls": [
         {
-          "sign": "a8da52d102c67141a1515ae1acdad97347abcd8c1e4bdafe969c01b5e217e37b",
+          "sign": "98e0d924775780a07addaf6e9883371a2512d6a2c644f26eafb7ecd395012ce7",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
+        },
+        {
+          "sign": "a8da52d102c67141a1515ae1acdad97347abcd8c1e4bdafe969c01b5e217e37b",
+          "labels": []
         }
       ],
-      "title": "Vendin läheiset esittelevät väkivallan vastaisen vetoomuksen pääministeri Orpolle",
+      "title": "Oikeutta Vendille -liike esittelee naisiin kohdistuvan väkivallan kitkemiseksi vetoomuksen pääministeri Orpolle",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -4716,6 +4690,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-08T13:05:28Z",
+      "urls": [
+        {
+          "sign": "cf2e1d029961f95740e908afd98a246e57919bf39779e8d2665175a9f3cbc2d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksa järjestää ampumahiihdon MM-kupin Kontiolahdella – suomalaiset kilpailevat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-08T15:05:14+02:00",
+      "urls": [
+        {
+          "sign": "5d6eed3186b56e9d12fed2d3bf66adccb8ea5361799d19475fdd42fd5fa3a6ba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi arvioi naistenpäivän marssille osallistuneen noin 15 000 ihmistä Helsingissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
