@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-08T14:43:58+02:00",
+  "updated": "2026-03-08T14:57:15+02:00",
   "entries": [
     {
       "updated": "2026-03-08T11:49:19Z",
@@ -2089,19 +2089,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-07T20:01:42Z",
-      "urls": [
-        {
-          "sign": "b784b2495ae723bd5955501e4de1421fc58f80369e72c48b573be1fdbd488f15",
-          "labels": []
-        }
-      ],
-      "title": "Kremlin tiedottaja Dmitri Peskov: Emme voi pysäyttää Iranin sotaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-07T22:05:17+02:00",
       "urls": [
         {
@@ -3827,7 +3814,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-08T12:38:39Z",
+      "updated": "2026-03-08T12:51:10Z",
       "urls": [
         {
           "sign": "2dc0fc4cd5487dfa0728fe8aed4efea4381327fcba4c93e42e4b8f4f7bfa20d3",
@@ -3836,7 +3823,7 @@
           ]
         }
       ],
-      "title": "Johannes Klæbo hallitsee Salpausselän maailmancupin – suomalaiset iloitsevat",
+      "title": "Johannes Klæbo jälleen ylivertainen Salpausselän maailmancupissa, suomalaiset iloitsevat",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -4714,6 +4701,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-08T14:57:15+02:00",
+      "urls": [
+        {
+          "sign": "513cc308e93e5b7e1b6b9a647f55d056d357e64e76f0446ce71ed5064e45a6e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "The Summit Suomi -leiri evakuoitiin tulvan takia, kilpailijat kokivat paniikkia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
