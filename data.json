@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-08T18:43:57+02:00",
+  "updated": "2026-03-08T18:55:17+02:00",
   "entries": [
     {
       "updated": "2026-03-08T13:34:41Z",
@@ -2192,21 +2192,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-08T07:06:51+02:00",
-      "urls": [
-        {
-          "sign": "557c36ec704fab6b2f358603665a3564df52323b0087318ff3fdc74bc641ee25",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putin painotti naisten perinteisiä ja ammatillisia velvollisuuksia naistenpäivänä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-08T05:49:33Z",
@@ -4640,7 +4625,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-08T18:16:53+02:00",
+      "updated": "2026-03-08T16:49:07Z",
       "urls": [
         {
           "sign": "11078248edf71b8af8f5e4b66c8c938dbb23df72be3ecc00369dc90a3288fcb6",
@@ -4649,7 +4634,7 @@
           ]
         }
       ],
-      "title": "SM‑liiga myöntää virheen HPK‑Kärppä‑ottelussa – kaksi videojärjestelmää aiheutti epäselvyyden",
+      "title": "SM‑liiga selittää HPK‑Kärppä‑ottelun virheellisen offside‑päätöksen kahden videojärjestelmän takia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -4732,6 +4717,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-08T18:55:17+02:00",
+      "urls": [
+        {
+          "sign": "9377f4145803f154597ec6232f6e0c02546184c24a87350bdecb16f458577d6f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranilaistaustainen suomalainen Mazda Amiryar kritisoi USA:n ja Israelin iskuja Irania vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
