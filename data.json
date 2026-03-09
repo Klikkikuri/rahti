@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-09T19:27:24+02:00",
+  "updated": "2026-03-09T19:42:32+02:00",
   "entries": [
     {
       "updated": "2026-03-09T16:27:33Z",
@@ -227,21 +227,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-08T08:08:23+02:00",
-      "urls": [
-        {
-          "sign": "f4d4ea19935a7b0e6d4721f2e585ed299a1ed3a86eadaf15ad918c22cca7c91d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen yliopisto leikkaa kielitarjontaa: seitsemän kieltä jäljelle, japanin ja korean opetus uhattuna",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-08T08:17:30+02:00",
@@ -4755,6 +4740,21 @@
       ],
       "title": "Helsingin poliisi epäilee kahta 15‑vuotiasta tilausmurhan yrityksestä – nuorten crime‑as‑a‑service -toiminta nousee Suomessa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-09T19:42:32+02:00",
+      "urls": [
+        {
+          "sign": "ded91f4cb81f2c2a429c78e9d1a572f8ed9baab5a7153d83b49820d0d3b6a40a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vantaa kieltää kasvot peittävät asusteet peruskouluissa turvallisuuden ja oppimisen takia",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
