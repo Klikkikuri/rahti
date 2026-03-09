@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-09T16:27:33Z",
+  "updated": "2026-03-09T18:44:10+02:00",
   "entries": [
     {
       "updated": "2026-03-09T16:27:33Z",
@@ -212,21 +212,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-08T06:06:13+02:00",
-      "urls": [
-        {
-          "sign": "25d89e78c69e00d3d9738d9267c298c49f7b8850159e4ce9fd2252cea1fe9cd3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun yliopiston tutkimus: teini‑ikäiset ADHD‑oireet ennustavat aikuisiän mielenterveysongelmia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-08T21:30:34+02:00",
@@ -1682,21 +1667,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-09T07:17:46+02:00",
-      "urls": [
-        {
-          "sign": "dc949efbd51b259b150601f0b0deeb92c342d88ccc71247d91cdb4e6f48b6fc9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henri Malmström, 32, sanoo nyrkkeilyn pelastaneen hänen elämänsä vankilan jälkeen ja juhlii voittoaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-09T07:42:26+02:00",
@@ -4757,6 +4727,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-09T18:44:10+02:00",
+      "urls": [
+        {
+          "sign": "292c884a5989bb54da44b2733b965d841ebd9258f9fc82002034d78497444a67",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkomainen evakuointilento Arabiemiraateista maksoi Suomelle 383 000 euroa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-09T18:40:21+02:00",
+      "urls": [
+        {
+          "sign": "56020b42740fb1e0ae29bb360eca96fd9d57470c165f671d7daebfc02c2bfcbf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lykantropia-lehti perustettiin 1980-luvun Itä-Pasilassa vastustamaan sensuuria",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
