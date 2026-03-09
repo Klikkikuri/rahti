@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-09T02:33:55Z",
+  "updated": "2026-03-09T05:00:21+02:00",
   "entries": [
     {
       "updated": "2026-03-08T23:01:56Z",
@@ -182,21 +182,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-06T20:24:45+02:00",
-      "urls": [
-        {
-          "sign": "595a1a6e595df00f4c0091174545de9c400848793031b87c2b2d5f02c36a91fa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seikkailija Juho Karhu tekee 700 km hiihtovaelluksen Raumalta Kemiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-06T21:44:54+02:00",
@@ -2162,21 +2147,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-08T12:04:02+02:00",
-      "urls": [
-        {
-          "sign": "1cceb038bdaee9fb90a1fb8a634dceef7477ecf1aec0ae9c055a2065080ab80e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Posiva aloittaa maailman ensimmäisen ydinpolttoaineen loppusijoituksen – Suomi johtaa alaa 15 vuotta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-08T12:13:10+02:00",
@@ -4737,6 +4707,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-09T05:00:21+02:00",
+      "urls": [
+        {
+          "sign": "b2aeb75e478419944b2e1e31035fe43edb1966bb4d67563588498741354fb663",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Volvo neuvottelee kesälomien lyhentämisestä EX60‑mallin ennakkotilausten räjähdysmäisen kysynnän vuoksi",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-08T10:35:01+02:00",
+      "urls": [
+        {
+          "sign": "af5e4e2e25a497eb76532829a86132e5ccde929400f338260f02d307044ede38",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilö kuoli Imatrankosken kanavasillan lähellä – pelastus ja poliisi tutkivat tapausta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
