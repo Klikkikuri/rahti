@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-10T00:02:35+02:00",
+  "updated": "2026-03-10T00:02:59+02:00",
   "entries": [
     {
       "updated": "2026-03-09T19:51:50Z",
@@ -619,21 +619,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-08T21:03:34+02:00",
-      "urls": [
-        {
-          "sign": "03501dac35a5ad757203305d6e1febd08df3ac14e40856f4f16669fac84625f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Joel Pohjanpalo jatkaa maalintekijänä: viides peräkkäinen ottelu Serie B:ssä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-03-08T21:30:00+02:00",
       "urls": [
         {
@@ -934,7 +919,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-09T22:25:31+02:00",
+      "updated": "2026-03-10T00:02:59+02:00",
       "urls": [
         {
           "sign": "6cb213c0602e22345e573e5f0f5f3dbcb99376b7c5ef6e4723e8b4b7698c3590",
@@ -943,7 +928,7 @@
           ]
         }
       ],
-      "title": "Trump väittää Iranin sodan päättyneen, Iran kuitenkin lisää iskuja; Libanon pyytää neuvotteluja, Suomi kehottaa poistumaan",
+      "title": "Trump sanoo Iranin sodan olevan lähes ohi, mutta Iran lisää iskuja; Libanon pyytää neuvotteluja, Suomi kehottaa kansalaisia poistumaan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -4751,6 +4736,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-10T00:01:00+02:00",
+      "urls": [
+        {
+          "sign": "0d26ec34f71e8fe8bd23ff052516e1d69589e0403bd292f521c7f4944fe82b9e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OP Pohjola – 85 % suuryrityksistä pitää maahanmuuttoa talouskasvun avaintekijänä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
