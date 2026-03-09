@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-09T22:25:31+02:00",
+  "updated": "2026-03-09T22:43:10+02:00",
   "entries": [
     {
       "updated": "2026-03-09T19:51:50Z",
@@ -1622,21 +1622,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-09T10:29:49+02:00",
-      "urls": [
-        {
-          "sign": "541869c0374aa8dc2590f8720ef4d00c9b6e2f5cb86744d98a59c1c11002a786",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalifornian kuvernööri Gavin Newsom kritisoi Donald Trumpia Iraniin hyökkäyksen ja golf-aktiviteettien jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-09T10:24:34+02:00",
@@ -4723,7 +4708,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-09T22:09:06+02:00",
+      "updated": "2026-03-09T20:41:01Z",
       "urls": [
         {
           "sign": "a1534523e9b994c85f25fd934a8f707e385b0ecd2800f3d85f67b1be8d9bd2f9",
@@ -4732,7 +4717,7 @@
           ]
         }
       ],
-      "title": "Trump kehottaa Australiaa myöntämään turvapaikan Iranin naisten jalkapallojoukkueelle",
+      "title": "Donald Trump vaatii Australian myöntävän turvapaikan Iranin naisten jalkapallojoukkueelle",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -4751,6 +4736,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-09T22:43:10+02:00",
+      "urls": [
+        {
+          "sign": "e909a87c7075ad0bdafef9abd4b67c7180ab891be410a2ca29a7ad80fb0bede6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "VTsIOM:n kysely: Putinin luottamus laski historialliseen minimiin 32,1 %",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
