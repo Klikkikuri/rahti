@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-09T15:19:14+02:00",
+  "updated": "2026-03-09T13:43:20Z",
   "entries": [
     {
       "updated": "2026-03-09T11:17:35Z",
@@ -182,21 +182,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-07T18:53:43+02:00",
-      "urls": [
-        {
-          "sign": "3440dfc4ed02b6c365e70655573023713eb1a001874f2955ddc1a107b5f87dd4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donald Trump väittää, että Kuuban valtio on romahtamassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-07T19:02:08+02:00",
@@ -4191,7 +4176,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-09T13:25:27+02:00",
+      "updated": "2026-03-09T13:43:20Z",
       "urls": [
         {
           "sign": "5ecf47e813ff43150bf2b127130b6748005be339f21976039630b59a5e7ac971",
@@ -4200,7 +4185,7 @@
           ]
         }
       ],
-      "title": "Poliisi epäilee nuorten tilannepaluun aiheuttaneen Lauttasaaren pyöräliikkeen tulipalon",
+      "title": "Poliisi epäilee, että 17‑vuotiaat sytyttivät Lauttasaaren pyöräliikkeen tulipalon tilauksesta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -4759,6 +4744,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-09T15:41:04+02:00",
+      "urls": [
+        {
+          "sign": "6626da16a52d71d586f7f7fe8efe24abeca01c4b5cc6d54a455f7fdeb480f53a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ramboll julkaisi 300‑sivuisen selvityksen: Korsnäsin vanha lyijykaivos ei aiheuta välitöntä riskiä, mutta metallikuormitus jatkuu vuosikymmeniä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
