@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-09T02:42:29+02:00",
+  "updated": "2026-03-09T03:04:15+02:00",
   "entries": [
     {
       "updated": "2026-03-08T23:01:56Z",
@@ -182,21 +182,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-06T19:48:58+02:00",
-      "urls": [
-        {
-          "sign": "7f20c03c9d8976d07f2c0f728622e922019e6be01774f316c7758eafa28a66d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Serbialainen laulaja Jelena Kuljić esittelee Ellingtonin rakkauden ja kalsarikännit Helsingissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-06T20:24:45+02:00",
@@ -4735,6 +4720,21 @@
       ],
       "title": "Ulkoministeriö järjestää kotiutuslennon Omanista Suomeen, Finnair suunnittelee lisälentoja",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-09T03:04:15+02:00",
+      "urls": [
+        {
+          "sign": "842804ea25725b7e21b077fea50a762b04684b83195137b8c9058b12f1b73f3e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain isku väitettyyn huumeveneeseen Tyynellämerellä aiheutti useita kuolemia",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
