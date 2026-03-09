@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-09T02:00:44+02:00",
+  "updated": "2026-03-09T02:42:29+02:00",
   "entries": [
     {
       "updated": "2026-03-08T23:01:56Z",
@@ -182,21 +182,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-06T19:31:29+02:00",
-      "urls": [
-        {
-          "sign": "e3deb2d8e7689d30f5945971cc881dec1ce6b64f516b46847d59fd46920c1f9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkija: Orbánin hallinto saattaa hyödyntää Ukraina-kiistaa vaalikampanjassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-06T19:48:58+02:00",
@@ -4737,6 +4722,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-09T02:42:29+02:00",
+      "urls": [
+        {
+          "sign": "d6247c4f3d50f4174ddf7cf63e1bcc88cec649120be60d9bacd15f4a0be786b3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkoministeriö järjestää kotiutuslennon Omanista Suomeen, Finnair suunnittelee lisälentoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
