@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-10T15:07:01+02:00",
+  "updated": "2026-03-10T15:25:11+02:00",
   "entries": [
     {
       "updated": "2026-03-10T12:37:46Z",
@@ -1517,21 +1517,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-09T22:48:42+02:00",
-      "urls": [
-        {
-          "sign": "ad052fad53ce9a1c9ef26390d6164c9b94b4f63dda04a3753f54049c3798861a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Jennifer Runyon kuoli 65‑vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-09T23:08:49+02:00",
@@ -4753,6 +4738,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-10T15:25:11+02:00",
+      "urls": [
+        {
+          "sign": "4d92ec3bc8ead38591f3b117c5b08c9a13545c8aa54ee5e9faaede3f7351d78c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii 77‑vuotiasta miestä, viimeksi nähty Papinhaanissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
