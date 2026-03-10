@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-10T00:52:17Z",
+  "updated": "2026-03-10T03:31:28+02:00",
   "entries": [
     {
       "updated": "2026-03-10T00:36:43Z",
@@ -1637,21 +1637,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-09T09:24:55Z",
-      "urls": [
-        {
-          "sign": "d7524adcada50dfdbfd622cf24b1713a2ba6236a64f427676fcb5093335d67c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyvinvointialueet leikkaavat terveysasemia ja hoivapaikkoja – alueelliset erot selviävät",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-09T06:39:13+02:00",
@@ -4749,6 +4734,21 @@
       ],
       "title": "Iltalehden horoskooppi tarjoaa neuvoja jokaiselle eläinradan merkille",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-10T03:31:28+02:00",
+      "urls": [
+        {
+          "sign": "4d4564ed01cbaf158b47f5c3e6a210081fa7bd01b61fa468188d406bd8ca5a15",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Britannian kaasuvarat laskevat kahteen päivään, hallitus vakuuttaa energiansaannin",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
