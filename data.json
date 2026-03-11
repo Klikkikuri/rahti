@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-11T04:08:03+02:00",
+  "updated": "2026-03-11T05:00:06+02:00",
   "entries": [
     {
       "updated": "2026-03-10T18:28:08Z",
@@ -1502,21 +1502,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-10T12:20:29+02:00",
-      "urls": [
-        {
-          "sign": "1fda3eb8203c58ac151b00147a6c026211f60b463dd1800183cc1e6d559c9ddd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle: Useiden autoliikkeiden liiketoiminta perustuu veropetoksiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-10T12:26:02+02:00",
@@ -4770,6 +4755,21 @@
       ],
       "title": "Tutkija väittää Kiinan toteuttavan salaisia ydinkokeita ja laajentavan ydinasearsenaalia",
       "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-11T05:00:06+02:00",
+      "urls": [
+        {
+          "sign": "3a0d998347cdc46a108c548ececff5feab26eba66499ea636706ba2ced95a2e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Petra Gargano kertoo kirjassaan isän kriittisestä puhelusta ennen Vain elämää -kuvauksia",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
