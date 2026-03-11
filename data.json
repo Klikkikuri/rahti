@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-11T12:28:18+02:00",
+  "updated": "2026-03-11T12:41:04+02:00",
   "entries": [
     {
       "updated": "2026-03-11T10:01:15Z",
@@ -317,21 +317,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-10T08:25:25+02:00",
-      "urls": [
-        {
-          "sign": "7caf7cffe161a8b2df6340392ea40b875181267af27fcfa1af1b291de999a322",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tulli tutkii yritystä, joka on jättänyt maksamatta yli 2 miljoonaa euroa nikotiinipusseista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-10T08:33:27+02:00",
@@ -1774,21 +1759,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-10T18:36:18+02:00",
-      "urls": [
-        {
-          "sign": "51574842ad378b51f8da427711a2f96f952df8a924a19c2eefc8e16ac89c1bcc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "24‑vuotias nainen syytetty kouluiskun valmistelusta Varsinais‑Suomen käräjäoikeudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-10T18:38:46+02:00",
       "urls": [
         {
@@ -1799,19 +1769,6 @@
         }
       ],
       "title": "Suomalaiset pitävät vaatehuonetta suosittuna luksusvarusteena, pesevä äly‑WC:n turhaksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-10T16:33:31Z",
-      "urls": [
-        {
-          "sign": "1a1347b0d9d322c083319042491935f2a4b64be20d7df382b6e63c4feba2f0ae",
-          "labels": []
-        }
-      ],
-      "title": "Iranin sota häiritsee Aasian autonvalmistajien Lähi-idän toimituksia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -4785,6 +4742,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-11T12:40:23+02:00",
+      "urls": [
+        {
+          "sign": "6bf93cce760566dfc3e78268263c541d5096810b556676ccc3b18b9d8d01d781",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sofia Virta varoittaa nuorten tulevaisuuden epätoivosta ja vaatii nuoriasiavaltuutetun perustamista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-11T12:41:04+02:00",
+      "urls": [
+        {
+          "sign": "07a924d1b2c5076e3e63ada1423a6111affb78212a9109b7db6d2a2c8277a552",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Katri Kunnas selittää, miten Kielinuppu‑laulut tehostavat suomen kielen oppimista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-11T12:39:21+02:00",
+      "urls": [
+        {
+          "sign": "c965c3c4820a62afc07735fbcb469b6283f46daf1dabd7a292d8600d30a7f8f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanadan diplomaattiauto törmäsi poliisiautoon Unioninkadulla – ei loukkaantuneita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
