@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-11T06:35:45+02:00",
+  "updated": "2026-03-11T06:54:11+02:00",
   "entries": [
     {
       "updated": "2026-03-10T18:28:08Z",
@@ -302,21 +302,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-09T22:10:07+02:00",
-      "urls": [
-        {
-          "sign": "c36791c19e329b48c076db2d456c055904863daf17297ff22564ed871e54bdea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP:n puheenjohtaja Antti Lindtman ilmoittaa, että puolue äänestää hallituksen ydinaselain uudistusta vastaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-09T23:05:06+02:00",
@@ -1622,21 +1607,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-10T13:30:27+02:00",
-      "urls": [
-        {
-          "sign": "ac21cd113cc103066bcc0e6a7c3534f1dd70cdd847cc651a90443de71c611114",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallituslähetys määräaikaisista työsopimuksista siirtyy perustuslakivaliokunnan arvioitavaksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-10T13:42:02+02:00",
@@ -4770,6 +4740,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-11T06:54:11+02:00",
+      "urls": [
+        {
+          "sign": "f20eaaa17a6205cd153deadcfb5cf1dd1fc8d447a9905b3fa319942772ac6960",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dokumentti paljastaa, että Amandan aviomies yritti pakottaa 11‑ ja 14‑vuotiaita lapsia seksuaaliseen toimintaan ja halusi nauhoittaa sen",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-11T06:50:10+02:00",
+      "urls": [
+        {
+          "sign": "5188d7baaa3f8cb2d5669cd7add4d9644189e4680b196c56d78f9f85eb145e05",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vantaa ja Turku kieltävät kasvojen peittävät asusteet kouluissa, muissa suurkaupungeissa ei tarvetta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
