@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-11T06:29:35+02:00",
+  "updated": "2026-03-11T06:35:45+02:00",
   "entries": [
     {
       "updated": "2026-03-10T18:28:08Z",
@@ -1159,21 +1159,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-10T11:18:42Z",
-      "urls": [
-        {
-          "sign": "25a71f0c42e2254172a60e2647e7cd0cc895db0faeec6bb9f1740471a2f698e9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyväskylän 43‑vuotias alakoulun opettaja ja partioaktiivi vangittiin törkeistä lapsenraiskauksista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-10T11:17:28+02:00",
       "urls": [
         {
@@ -1592,21 +1577,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-10T13:28:08+02:00",
-      "urls": [
-        {
-          "sign": "ef3b9599006e66d6ecf55b400f6c3bc8b85a933c38cf5ad021987b741e9e37e3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Verianin kysely: 31 % suomalaisista kannattaa ydinaseiden tuomista, 49 % vastustaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-10T13:09:56+02:00",
@@ -4770,6 +4740,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-11T06:35:45+02:00",
+      "urls": [
+        {
+          "sign": "389050f7930387e713fa639f407783e0b8d03fd8fbb2637f18cfe64c6b9492b1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Patrik Laineen 2 miljon dollarin bonuspäivä esti vaihtokaupan Montrealin kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-11T06:30:54+02:00",
+      "urls": [
+        {
+          "sign": "cc9e0886db4b58386cbd8441a99560b7bbc005caf9aa2d00a330dc696e7eaeae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Psykologi selittää, miten narsistit liioittelevat CV:nsä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
