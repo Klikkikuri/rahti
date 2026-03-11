@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-11T20:59:21Z",
+  "updated": "2026-03-11T23:02:56+02:00",
   "entries": [
     {
       "updated": "2026-03-11T19:01:26Z",
@@ -1832,21 +1832,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-11T11:59:52+02:00",
-      "urls": [
-        {
-          "sign": "adf95f9c664051a7f7f368b295c7a298ae95d7aff8d6fba64d90f36922974e97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Agria varoittaa koirankakan terveys- ja ympäristöriskeistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-11T12:00:35+02:00",
@@ -4798,6 +4783,21 @@
       ],
       "title": "Timothée Chalamet kritisoi balettia ja oopperaa haastattelussa, taiteilijat reagoivat",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-11T23:02:56+02:00",
+      "urls": [
+        {
+          "sign": "5870be8107434fded23dc66290ba737dd06e0e11ecefee1fa4518bc033ea2fb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ronda Rousey kritisoi UFC:n talousmallia ja viittaa kamppailijoiden tulojen heikkenemiseen",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
