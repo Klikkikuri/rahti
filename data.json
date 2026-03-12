@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-12T06:53:35+02:00",
+  "updated": "2026-03-12T07:10:33+02:00",
   "entries": [
     {
       "updated": "2026-03-12T04:44:10Z",
@@ -317,21 +317,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-10T18:24:34+02:00",
-      "urls": [
-        {
-          "sign": "c32f8a120d12c8a9f3b57b90b752031cd106ee54b0e76e34267b8aff2f0933aa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmaston asiantuntija: terminen kevät on alkanut Etelä‑Suomessa, takatalvea ei näy",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-10T18:29:25+02:00",
@@ -1922,21 +1907,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-11T14:15:19+02:00",
-      "urls": [
-        {
-          "sign": "c6c6ed147b2ef82c104bff44e34535d973dcf422ad3e8c373358d905de3e516f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sitra: Tutkimus paljastaa, että sosiaalinen media tarjoaa nuorille enimmäkseen oikeistolaista sisältöä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-11T13:30:44+02:00",
@@ -4800,6 +4770,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-12T07:10:33+02:00",
+      "urls": [
+        {
+          "sign": "c17961fa9a9288fa70b237599b9f35e2262e260cc13adb8eff080f7556466e1f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Shirin Ebadi varoittaa Iranin sodan kiihtymisestä ja hallinnon väkivaltaisesta jatkosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-12T07:09:02+02:00",
+      "urls": [
+        {
+          "sign": "e26f87bb5c7aa552d31d47a0e28175cc980719832b32119c12a31877b0315b06",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miska Tuononen, 33, kertoo luksuselämästään ja värianalyysin merkityksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
