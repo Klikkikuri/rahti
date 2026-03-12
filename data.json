@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-12T08:00:04Z",
+  "updated": "2026-03-12T08:12:11Z",
   "entries": [
     {
       "updated": "2026-03-12T06:45:09Z",
@@ -317,21 +317,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-10T19:57:35+02:00",
-      "urls": [
-        {
-          "sign": "673c97258e00b949bafff78aba2b529f42b4ab0873cbb23713587e8040b8e1ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnair nostaa lentolippujen hintoja öljyn hinnannousun takia, mutta ei vielä ota erillistä polttoainelisäystä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-10T20:12:10+02:00",
@@ -1937,36 +1922,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-11T16:33:43+02:00",
-      "urls": [
-        {
-          "sign": "dd34283eabfa9a6c78b1c912fc786d721c6da3b628233f3922e44de9a6ed8ed1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kanariansaaret raportoivat korkean lihavuusprosentin ja käynnistivät uusi painonhallintaohjelma",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-11T16:40:42+02:00",
-      "urls": [
-        {
-          "sign": "8035af99556f903aecd04fc2a875686ea98a24690f265a37502a293f7a9540f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jenni Vartiaisen Jenique Oy:n liikevaihto nousi 79 % 1,3 miljoonaan euroon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-11T16:43:37+02:00",
@@ -4592,14 +4547,14 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-12T08:00:04Z",
+      "updated": "2026-03-12T08:12:11Z",
       "urls": [
         {
           "sign": "c2eac435129ac5e6654cc324a9e642d84363632c4e6d169aa09ca9de5397a1d7",
           "labels": []
         }
       ],
-      "title": "Elina Valtonen ja S‑Pankin päästrategi Tanja Wennonen‑Kärnä puhuvat energiasokista Talousaamussa klo 9.30",
+      "title": "Elina Valtonen ja S‑Pankin strateginen Tanja Wennonen‑Kärnä varoittavat energiasokista Talousaamussa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -4815,6 +4770,51 @@
       ],
       "title": "Grahn-Laasonen kiistää Perussuomalaisten väitetyn ehdotuksen yöllisissä viesteissä",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-12T10:02:40+02:00",
+      "urls": [
+        {
+          "sign": "da68fb792d83933c98d99c93a4dd7b4f5a36052bb6e481384fc3ee4119dcfabb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän ulkoministeri Zaharova kritisoi saksalaisten paralympialaisprotestia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-12T10:00:12+02:00",
+      "urls": [
+        {
+          "sign": "c3b588acd72e970fd2e15d9772fde0f9e771af8f951f1665705abd45d84c5add",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kalle Nio ja Fernando Melo esittelevät uuden tanssiteoksen \"Out of Order\" Helsingin kaupunginteatterissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-12T10:09:20+02:00",
+      "urls": [
+        {
+          "sign": "4f32688123d5655beb6350d1c5fc44ab411323e780e3bec2a8bb442e38c6f79d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yli puolet suomalaisista vientiyrityksistä varautuu Iranin sodan aiheuttamiin häiriöihin",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
