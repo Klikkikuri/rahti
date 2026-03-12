@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-12T05:31:55+02:00",
+  "updated": "2026-03-12T05:59:35+02:00",
   "entries": [
     {
       "updated": "2026-03-12T02:55:36Z",
@@ -317,21 +317,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-10T18:05:43+02:00",
-      "urls": [
-        {
-          "sign": "6afcc9d4ef3f09a66268d8b22d5622fb9beaf5414633e3e1cdd43425d81bfa46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rintala kokee tuotantokriisin suomalaisten suoratoistobuumin jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-10T18:24:34+02:00",
@@ -4800,6 +4785,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-12T05:59:35+02:00",
+      "urls": [
+        {
+          "sign": "88bc9d772addc72737c760f82679322ca61d75d0459e8a65b2708e92f1c08896",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Juristit varoittavat: tekoälyn laatimat oikeusasiakirjat aiheuttavat virheitä ja lisätyötä oikeusjärjestelmässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
