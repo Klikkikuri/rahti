@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-12T22:26:24+02:00",
+  "updated": "2026-03-12T22:42:46+02:00",
   "entries": [
     {
       "updated": "2026-03-12T13:48:59Z",
@@ -437,21 +437,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-12T05:31:55+02:00",
-      "urls": [
-        {
-          "sign": "491c4591457379793beb4ba92d33a2b70706d6c17cf9a2c19b2828337445892e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Robottien yleistyminen Shanghaissa pakottaa maahanmuuttajat kilpailemaan harvoista päivätöistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-12T05:27:30+02:00",
@@ -1365,21 +1350,6 @@
       ],
       "title": "Benjamin Rautiainen SM-liigan paras pelaaja, Antti Boman paras tuomari – Boman ilmoitti lopettavansa iän takia",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-12T12:07:06+02:00",
-      "urls": [
-        {
-          "sign": "eca9fb22c2f84385b0038d977bab1bc8faa4a85efdd3c78d30163981b3331aa5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi pakotti pysäyttämään kuljettajan, jonka auto törmäsi poliisiautoon",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -4864,6 +4834,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-12T22:34:17+02:00",
+      "urls": [
+        {
+          "sign": "0ebb424ee042a2fe236262dc388eb4d130eb3e766272883889ca6913c41e186f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lumi peitti Saharan aavikon Ain Sefran – harvinainen lumisade",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-12T22:42:46+02:00",
+      "urls": [
+        {
+          "sign": "9814555d5a5c6523807f45384043bba8bd708155d81acb80171bd9bdffb42df5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Eloranta ja IEA-asiantuntija Wigell suosittelevat Suomen öljyvarantojen vapauttamista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
