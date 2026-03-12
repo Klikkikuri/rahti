@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-13T01:23:32+02:00",
+  "updated": "2026-03-13T01:36:07+02:00",
   "entries": [
     {
       "updated": "2026-03-12T22:57:49Z",
@@ -1442,25 +1442,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-12T11:10:03Z",
-      "urls": [
-        {
-          "sign": "93e4e0f31ffa1e5ce8928147918cff63c708927dbfd39d0d9ffc44fc43ac76ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "8161681002334f0a28cecf8d6fa140d59314ccf4b9505e2154e01eab6be85bb8",
-          "labels": []
-        }
-      ],
-      "title": "Iran uhkaa Yhdysvaltain teknologiayrityksiä Lähi-idän konfliktissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-12T13:10:23+02:00",
@@ -4864,6 +4845,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-13T01:36:07+02:00",
+      "urls": [
+        {
+          "sign": "ac5890ecb53c92cc6d01bc2c254d9a956adf14113dc427dc711c8543cdcde146",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsi otti haltuun toisen epäillyn venäläisen varjolaivaston tankkerin Itämerellä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
