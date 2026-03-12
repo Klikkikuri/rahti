@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-12T15:29:10+02:00",
+  "updated": "2026-03-12T15:40:53+02:00",
   "entries": [
     {
       "updated": "2026-03-12T12:40:18Z",
@@ -467,21 +467,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-11T14:41:50+02:00",
-      "urls": [
-        {
-          "sign": "160a26f30914371962416623d8452dd5cd98528459c570132cef65375beaaa6d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Palace nousee seitsemäs vuosi peräkkäin Suomen 50 parhaan ravintolan listan kärkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-11T14:43:44+02:00",
@@ -4862,6 +4847,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-12T15:40:53+02:00",
+      "urls": [
+        {
+          "sign": "c62273dddc3c218cd7948b4bae095450c1faee895a4accf81edb4c9203330ae5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtioneuvoston katsaus: Stubbin näkyvä rooli provosoikin Venäjän",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
