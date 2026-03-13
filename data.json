@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-13T22:12:41+02:00",
+  "updated": "2026-03-13T22:36:18+02:00",
   "entries": [
     {
       "updated": "2026-03-13T19:41:26Z",
@@ -1594,21 +1594,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-13T10:38:32+02:00",
-      "urls": [
-        {
-          "sign": "8d3915c19dae79eeeda164c780f5424ce509de358f4b6c18dda8a40d1c060e74",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Subaru lopettaa polttomoottoriautojen myynnin Suomessa ja keskittyy sähköautoihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-13T10:43:10+02:00",
       "urls": [
         {
@@ -1637,21 +1622,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-13T10:59:07+02:00",
-      "urls": [
-        {
-          "sign": "14cb34140bc4cde90f6ad23927719263a1c5e478ca4f885f9e4bdea46ec89c95",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Microsoft lisää tehtäväpalkin pikakuvakkeen, joka avaa Bing SpeedTestin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-13T10:59:09+02:00",
@@ -4868,6 +4838,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-13T22:36:18+02:00",
+      "urls": [
+        {
+          "sign": "2a8616fc6222099dea740eee4c789f6ec7a74dc43d5648e5e921593df22e16e7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies kuoli laskettelussa Himoksella perjantai-iltana, perhe tallensi videon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-13T22:35:25+02:00",
+      "urls": [
+        {
+          "sign": "d75fe2dc29075a4eda0127a33ea9205230b942573b9ba7cfa9d28bbd96349874",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Holmenkollenin maailmancup-viikonloppu uhkaa tiheä sumu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
