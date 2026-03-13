@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-13T01:02:36Z",
+  "updated": "2026-03-13T04:04:21+02:00",
   "entries": [
     {
       "updated": "2026-03-12T22:57:49Z",
@@ -1442,21 +1442,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-12T13:21:28+02:00",
-      "urls": [
-        {
-          "sign": "14db685df38a88a0fdb9f9dd864835020517ff138469c17b43ab0b8bc968bd6c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkeakosken lukio viivästi yli tunnin ylioppilaskokeen aloituksessa, apulaisrehtori selittää viiveen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-12T13:35:57+02:00",
@@ -4858,6 +4843,21 @@
       ],
       "title": "Iltalehti tarjoaa horoskoopin kaikille eläinradan merkeille",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-13T04:04:21+02:00",
+      "urls": [
+        {
+          "sign": "7f274d4c64bdb75d9f65a295796e1364ccef70fae6fa4d74a0065116b0b19057",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ensitreffit alttarilla Australia -sarjan asiantuntija Mel Schilling kertoo syöpästä ja kehottaa tarkistamaan oireet",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
