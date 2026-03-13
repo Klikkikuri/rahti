@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-13T04:42:59Z",
+  "updated": "2026-03-13T06:52:40+02:00",
   "entries": [
     {
       "updated": "2026-03-13T02:31:54Z",
@@ -632,21 +632,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-12T10:00:12+02:00",
-      "urls": [
-        {
-          "sign": "c3b588acd72e970fd2e15d9772fde0f9e771af8f951f1665705abd45d84c5add",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalle Nio ja Fernando Melo esittelevät uuden tanssiteoksen \"Out of Order\" Helsingin kaupunginteatterissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-12T10:15:35+02:00",
@@ -1502,21 +1487,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-12T14:29:09+02:00",
-      "urls": [
-        {
-          "sign": "64b7eb657562537e5be1471d9627ceacf8451fa2d7a017b27c0fb814d95bcdf6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Janne Naakka manipuloi Farmi Suomi -kilpailua suojellakseen omaa paikkaansa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-12T14:27:05+02:00",
@@ -4864,6 +4834,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-13T06:48:23+02:00",
+      "urls": [
+        {
+          "sign": "17f4b20897df4cde49806384e8cdc0a8a76f949a35c6725fd88cd6a4856bff0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lohjan vauvasurman käsittely alkaa – 19‑vuotias äiti syytetty hoidon laiminlyönnistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-13T06:52:40+02:00",
+      "urls": [
+        {
+          "sign": "7a9c3f1f0d639eb82fbbf237a64c1c35c330ddda70687005252758eb83f12caf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa voimakkaista tuulista eri puolilla Suomea perjantaina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
