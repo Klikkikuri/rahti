@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-13T00:17:50Z",
+  "updated": "2026-03-13T00:39:39Z",
   "entries": [
     {
       "updated": "2026-03-12T22:57:49Z",
@@ -1427,21 +1427,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-12T13:18:57+02:00",
-      "urls": [
-        {
-          "sign": "1614b4f238acdfeea4459537a50ccbb112229bbc0fa303d082dd66b2f0d1f7b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jesse Puljujärvi kuvaa Léman derby -ottelun jännittävää tilannetta ennen pudotuspelejä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-12T13:21:14+02:00",
@@ -4847,7 +4832,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-13T00:17:50Z",
+      "updated": "2026-03-13T00:39:39Z",
       "urls": [
         {
           "sign": "921c74a5de55004d982b1f53e14cb82869f9909701080f56851fe19e08fdb9d6",
@@ -4856,7 +4841,22 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain valtiovarainministeriö antaa tilapäisen luvan venäläisen öljyn myyntiin 11. huhtikuuta asti",
+      "title": "Yhdysvaltain valtiovarainministeriö myöntää tilapäisen luvan venäläisen öljyn myyntiin 11. huhtikuuta asti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-13T02:00:12+02:00",
+      "urls": [
+        {
+          "sign": "f103f47d036436e603d1d5464eaaf8a44e35c85955a02b81f2a30600bab42086",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti tarjoaa horoskoopin kaikille eläinradan merkeille",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
