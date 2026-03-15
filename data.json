@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-15T14:26:39Z",
+  "updated": "2026-03-15T16:30:54+02:00",
   "entries": [
     {
       "updated": "2026-03-15T12:52:47Z",
@@ -377,21 +377,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-13T17:50:16+02:00",
-      "urls": [
-        {
-          "sign": "e241b1169078e93063f421259cfec58bf75d8ddedd3ce931fd94c5deac71aa78",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi poisti 34 % enemmän ihmisiä vuonna 2025 kuin 2024, painottaen kielteisen turvapaikkapäätöksen saaneita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-13T18:00:35+02:00",
@@ -4915,6 +4900,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-15T16:30:54+02:00",
+      "urls": [
+        {
+          "sign": "ccbe507396a1cc300d9df38c6e9e2253004ee9835403c8979c13b9b3d392eff6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle lähettää Oscar-gaalan suoraan kello 17 – mitä odottaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
