@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-15T04:29:59Z",
+  "updated": "2026-03-15T04:34:52Z",
   "entries": [
     {
       "updated": "2026-03-15T04:08:13Z",
@@ -2132,21 +2132,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-14T11:36:29+02:00",
-      "urls": [
-        {
-          "sign": "c241c5cf3d48e45640d02591f5d2db0f148e89b71fda08644324d3c21d01eadf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Veera Selänne lopettaa tenniksen loukkaantumisten jälkeen ja siirtyy pickleballiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-14T11:47:38+02:00",
@@ -4896,6 +4881,25 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-15T04:34:52Z",
+      "urls": [
+        {
+          "sign": "cb1ccaa36a6387a9d4aae13b9dc44dba8f23e90a05e843f675af1ec5fce1a296",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "b833cb04120ec65513ce61d25097c32b9274c6616e302522acdf65130e99af33",
+          "labels": []
+        }
+      ],
+      "title": "YouTube lisää pakollisten TV‑mainosten pituutta jopa 30 sekuntiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
