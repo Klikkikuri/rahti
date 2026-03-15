@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-15T13:44:10+02:00",
+  "updated": "2026-03-15T13:57:21+02:00",
   "entries": [
     {
       "updated": "2026-03-15T08:32:55Z",
@@ -377,21 +377,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-13T17:08:03+02:00",
-      "urls": [
-        {
-          "sign": "b12eac0df7b23c96850ad9d47dc0d3a9163b6593a3164840def2df926b80b453",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Harri Myllyniemi varoittaa ennätyksellisen varhaisen kevättulvan ja liikkeelle lähtevien jäiden riskistä Pohjanmaalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-13T17:13:34+02:00",
@@ -1999,21 +1984,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-14T16:57:40+02:00",
-      "urls": [
-        {
-          "sign": "a532b9ed7fb4db9ddc20bd62aa576c01aaae3b3b4e0df4914003af7178daf249",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "K‑Rauta‑asiantuntija Timo Vanninen opastaa yleisimmät maalausvirheet ja niiden korjausmenetelmät",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-14T16:44:08+02:00",
       "urls": [
         {
@@ -2072,34 +2042,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-14T15:04:22Z",
-      "urls": [
-        {
-          "sign": "f51ddbe34cb455b1fb37c4ac90148358d22a84fe3fafa0a65933462d7218550b",
-          "labels": []
-        }
-      ],
-      "title": "Tutkija: Trumpin Iran-iskut ovat virhe, Moskovan odotukset Yhdysvaltain painostuksesta kasvavat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-14T17:27:14+02:00",
-      "urls": [
-        {
-          "sign": "3ab8caa68c4dce63aa6cbc4c86b8d4117927edc32cd25aadd33ca88b1bd23174",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuspäällikkö neuvoo, miten tunnistaa valepalotarkastaja ennen kuin avaat oven",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-14T17:35:38+02:00",
@@ -4919,6 +4861,66 @@
       ],
       "title": "Øresundin silta suljettu ruotsiin suuntaavan liikenteen osalta onnettomuuden takia",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-15T13:56:51+02:00",
+      "urls": [
+        {
+          "sign": "0ddeed7babfffe21c385ba3855dc9dfd1227250e11e8eed0bf8e244a53f30ea9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viroinen mies kuoli Himoksen laskettelurinteessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-15T13:55:22+02:00",
+      "urls": [
+        {
+          "sign": "59eac28b4e581522283f76d537bbfa1a8e7276e06464e197d1f3b6dcd51f9848",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Virolainen mies kuoli Himoksen laskettelutapaturmassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-15T13:53:17+02:00",
+      "urls": [
+        {
+          "sign": "74b5853a66dbbc05a30a9527d2ea16b79ed4c1d7edb4498aedd77af6c7a0b7d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alankomaiden kuningas Willem‑Alexander lentää KLM:n Boeing 737:lla – kansalaiset ylistävät",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-15T13:57:21+02:00",
+      "urls": [
+        {
+          "sign": "1f680565a18a7349887062564e1ed72dd8c34a4e8c144d67f1fede333e617928",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kalle Rovanperä ylistää Takamoto Katsutan voittoa Kenian MM-rallissa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
