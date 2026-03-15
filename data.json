@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-15T05:27:27+02:00",
+  "updated": "2026-03-15T05:30:35+02:00",
   "entries": [
     {
       "updated": "2026-03-15T00:40:58Z",
@@ -407,21 +407,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-13T13:16:59+02:00",
-      "urls": [
-        {
-          "sign": "7e07d7dfd3e16a2c2ddf29e9498e90855e50ffcc24035e87b8326006a213c076",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syvä matalapaine tuo voimakkaita tuulia ja myrskyvaroituksen koko Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-13T13:51:50+02:00",
@@ -4896,6 +4881,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-15T05:30:35+02:00",
+      "urls": [
+        {
+          "sign": "ab2b97f1e07589f166b8bd48e547a74d344e1600aa5133130166cc7be64f054e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän sotilaallinen läsnäolo ja tiedustelutoimet Kirkenäsen rajan lähellä herättävät Norjan puolustusvoimien huolen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
