@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-16T15:13:46Z",
+  "updated": "2026-03-16T17:19:39+02:00",
   "entries": [
     {
       "updated": "2026-03-16T14:14:34Z",
@@ -437,21 +437,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-15T04:11:21+02:00",
-      "urls": [
-        {
-          "sign": "0dbbc05cc5c8a824e3924110ea2e86621f3b2c57395e9767978eac519f5a9ea2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Benjamin Netanjahu nimeää Ron Dermerin johtamaan mahdollisia Libanonin kanssa käytyjä neuvotteluja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-15T05:30:35+02:00",
@@ -1472,21 +1457,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-15T22:15:55+02:00",
-      "urls": [
-        {
-          "sign": "5a78872df0e53c472d3fe15f582afa180da048e2761ae1ba1f18c1e4d9654d2a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset rauhanturvaajat joutuvat tulituksen kohteeksi Libanonissa, ei henkilövahinkoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-15T22:21:43+02:00",
@@ -4976,6 +4946,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-16T16:54:20+02:00",
+      "urls": [
+        {
+          "sign": "db696b0ab95289a2c10f59bbfa02eaeadc664483af44082916868ff3a0440866",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Britannian pääministeri Starmer: Hormuzin salmen avaamista ei tehdä Naton toimena",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-16T17:19:39+02:00",
+      "urls": [
+        {
+          "sign": "ef816e937304f7204c76260e60284e572d4e058d86ee6f453b78c5ef86ffde6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Palloliitto siirtää Huuhkajien ottelun Valko-Venäjää vastaan neutraaliin maahan ministeriöiden suosituksen perusteella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
