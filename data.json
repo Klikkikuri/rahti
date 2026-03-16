@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-16T20:24:36+02:00",
+  "updated": "2026-03-16T20:40:40+02:00",
   "entries": [
     {
       "updated": "2026-03-16T17:25:01Z",
@@ -1414,21 +1414,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-16T07:28:10+02:00",
-      "urls": [
-        {
-          "sign": "a041c95efa3c5a489156dd2b3da52df523e41b1f5113d87b69e148b66bc34c1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos: Lämpimästi aurinkoista maanantaina, tiistaina kylmempää ja pilvisempaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-16T07:22:48+02:00",
       "urls": [
         {
@@ -1532,21 +1517,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-16T07:30:47+02:00",
-      "urls": [
-        {
-          "sign": "6c97094f76ffd72882efbffd74378ff41494405916963acddad2617e92def0a7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lindsey Vonn kertoo uransa mahdollisesta jatkosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-16T08:00:15+02:00",
@@ -4972,6 +4942,36 @@
       ],
       "title": "Entinen Yhdysvaltain maahanmuuttojuristi Deborah Benedict muutti Suomeen 2024",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-16T20:31:31+02:00",
+      "urls": [
+        {
+          "sign": "3701e8152ce3f445a303ceb8ad40e4954174fa86b7779178dde5c133f845b5cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump ja Vance allekirjoittavat uuden petosten torjunta‑työryhmän Oval Office -tilaisuudessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-16T20:40:40+02:00",
+      "urls": [
+        {
+          "sign": "5592a0725a6662a2eddecef04206d644892fd895f59e468e7e7b1a4cc4807f40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi sai erikoispalkinnon Bocuse d’Or -kilpailun Euroopan finaalissa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
