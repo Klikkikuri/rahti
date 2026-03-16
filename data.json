@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-16T05:39:15+02:00",
+  "updated": "2026-03-16T05:46:52+02:00",
   "entries": [
     {
       "updated": "2026-03-16T03:25:42Z",
@@ -377,21 +377,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-13T21:10:32+02:00",
-      "urls": [
-        {
-          "sign": "86e85b4164dd316c1a183dc2a3dcf7f9ac031078b83ee179c930b7732bc6823b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläinen kapteeni pidätettiin Ruotsissa epäiltynä väärän asiakirjan käytöstä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-13T21:52:40+02:00",
@@ -4943,6 +4928,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-16T05:46:52+02:00",
+      "urls": [
+        {
+          "sign": "4becd36515aaa27c60ec6a48d193d9ed9b29c2009a726cc915cf98944f249cf4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metsähallitus tarkasti 35 % enemmän luonnossa ja rikostutkinnat lähes kaksinkertaistuivat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
