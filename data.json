@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-16T13:11:51+02:00",
+  "updated": "2026-03-16T13:23:34+02:00",
   "entries": [
     {
       "updated": "2026-03-16T10:46:26Z",
@@ -392,36 +392,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-14T15:22:31+02:00",
-      "urls": [
-        {
-          "sign": "99fd901442cf5dd8cdf3743291bf904d0c57dcb6b4cccbf1bfbee2e20e763627",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nette Kiviranta voitti paralympiahopeaa naisten pujottelussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-14T15:31:28+02:00",
-      "urls": [
-        {
-          "sign": "0812907a41d57db36ac13161507f1251e8a9b77fa5ccaab36aea6eee85cf8b7d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokkola uudistuu: uudet hotellit, urheilutilat ja sote‑keskus muokkaavat keskustaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-14T15:56:48+02:00",
@@ -1802,21 +1772,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-15T17:50:49+02:00",
-      "urls": [
-        {
-          "sign": "27b52443e9d4c2373504c405ca7705af13dc2494bd199200f707ae92e9318bf6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin toimipisteiden sulkeminen heikentää turvallisuutta pienissä kunnissa, kertoo Pielavedellä asuva Martti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-15T18:05:34+02:00",
@@ -4954,6 +4909,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-16T13:23:34+02:00",
+      "urls": [
+        {
+          "sign": "eeedb3dd170c4ef581ab52aeb90621866a4c768ac749788552e7f48227769a18",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karjalan prikaatin tautiepidemia hellittää, mutta huippua ei ole vielä ohitettu, sanoo esikuntapäällikkö",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-16T11:52:14+02:00",
+      "urls": [
+        {
+          "sign": "504ef128abe774ee4f59c43bf22d04179c14d2db716dec9e3e37a99632e52b3c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääsiäinen siirtää Kelan maksupäiviä ja lyhentää asiakaspalvelua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-16T13:19:52+02:00",
+      "urls": [
+        {
+          "sign": "e96bc7ab5cccc91bb4e417eb8cdedef5ee98e4255271b7d507009249c90aa00d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "King Colis avaa Turkuun pop‑up‑myymälän, jossa myydään kadonneita paketteja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-16T11:23:08Z",
+      "urls": [
+        {
+          "sign": "0dd845e67947e614e3382fa88a53229ba7f048761e66a141d213f5d3f3a1ba4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alex Hytönen ja Pelaajat.com lahjoittivat viisi pelipistettä Äänekosken nuorisotiloihin ja kirjastoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Äks"
     }
   ]
 }
