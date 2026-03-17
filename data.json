@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-17T00:51:44Z",
+  "updated": "2026-03-17T03:03:17+02:00",
   "entries": [
     {
       "updated": "2026-03-16T17:25:01Z",
@@ -1667,19 +1667,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-16T09:26:36Z",
-      "urls": [
-        {
-          "sign": "9f0eb236348194c204eb7ce5906390de8bf2dc01571e425fa4403b2b4146be23",
-          "labels": []
-        }
-      ],
-      "title": "Trumpin tariffisota leikkasi Volkswagenin liikevoiton puoleen vuonna 2025",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-16T11:24:02+02:00",
@@ -4976,6 +4963,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-17T03:03:17+02:00",
+      "urls": [
+        {
+          "sign": "9a3467c925a3fef2c29ba8b2688fe70b047efb9ffc03af7eddfc9d4ae9c24a16",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oxfordin tutkijat löysivät täysin laavalla peitetyn, rikkipitoisen eksoplaneetan L 98‑59 d",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
