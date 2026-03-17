@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-17T22:21:50Z",
+  "updated": "2026-03-18T00:44:04+02:00",
   "entries": [
     {
       "updated": "2026-03-17T22:07:12Z",
@@ -737,21 +737,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-17T06:52:00+02:00",
-      "urls": [
-        {
-          "sign": "b5b2c53266557d4fda9bd06e5dbf41b02fb23d7851d61c1005548252dc9b5e3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Unilääkäri: melatoniinia voi käyttää tilapäisesti nukahtamisvaikeuksiin, ei pitkäaikaiseen unettomuuteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-17T07:25:37+02:00",
@@ -1547,19 +1532,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-17T09:49:15Z",
-      "urls": [
-        {
-          "sign": "38a842ce76afa5136d19b15a364d9ab8b8b16e37ed0f7b585df6b849e0f33820",
-          "labels": []
-        }
-      ],
-      "title": "EU:n komissio esittelee Industrial Accelerator Act -laki, jonka arvioidaan turvaavan 600 000 autoalan työpaikkaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-17T16:02:44+02:00",
@@ -5074,6 +5046,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-17T23:55:43+02:00",
+      "urls": [
+        {
+          "sign": "bc29f21c259d7bbee6931979c77516bf1f0c1bd8622464c2d5e7418af9918878",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chelsea kärsi raskaan tappion, kun Paris Saint‑Germain ja Real Madrid edistivät Mestarien liigan jatkoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-18T00:44:04+02:00",
+      "urls": [
+        {
+          "sign": "a49f591c4e637e231d72c784737a0e92f6b791008ac64461d676377419d228d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "V-Dem‑raportti: Trumpin toinen kausi nostaa Yhdysvallat 31 sijaa alaspäin demokratia‑indeksissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
