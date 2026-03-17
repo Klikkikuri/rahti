@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-17T01:38:31+02:00",
+  "updated": "2026-03-17T02:12:36+02:00",
   "entries": [
     {
       "updated": "2026-03-16T17:25:01Z",
@@ -437,36 +437,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-15T12:55:25+02:00",
-      "urls": [
-        {
-          "sign": "60800a7c0e319091809be1c550f44a6b7db7840af09f8d255d74a0f96e952e1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi, muut Pohjoismaat ja Kanada sopivat syventäneensä sotilasteollisuuden yhteistyötä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-15T12:58:10+02:00",
-      "urls": [
-        {
-          "sign": "2d8432748b1fe8a22091879292af5efc9b6b31d86e839ab4e92ba4f4ad949462",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitusleikkaus uhkaa Kymenlaakson opiston kampuksen sulkemista ja 20 työpaikkaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-15T13:55:22+02:00",
@@ -4963,7 +4933,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-17T01:38:31+02:00",
+      "updated": "2026-03-17T00:03:06Z",
       "urls": [
         {
           "sign": "8e44f974ff63201977c573c772d05b34e31f847b4b3bf984446b03336f60cf0c",
@@ -4972,10 +4942,40 @@
           ]
         }
       ],
-      "title": "Saksalainen turisti nosti 20 miljoonan dollarin korvausvaatimuksen New Yorkissa",
+      "title": "Saksalainen turisti hakee 20 miljoonaa dollaria korvauksia New Yorkissa taco‑ravintolalta, Walmartilta ja poliisilta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-16T17:38:24+02:00",
+      "urls": [
+        {
+          "sign": "e8cedbcf1e47fd8de2f02bd65f5d58c28cb1d77f78023329416a85df8775507c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Varkauden kaupunginjohtajan paikkaan hakeutui 12 ehdokasta, kaksi perui suostumuksensa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-17T02:12:36+02:00",
+      "urls": [
+        {
+          "sign": "4716fc7fd37189acb2d7fe2480aeac50c8a9870eba64217b856c95aa9af7826a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "New York Times raportoi Trumpin hallinnon pyrkivän syrjäyttämään Kuuban presidentin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
