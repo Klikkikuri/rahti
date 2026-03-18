@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-18T08:41:54+02:00",
+  "updated": "2026-03-18T08:58:28+02:00",
   "entries": [
     {
       "updated": "2026-03-18T05:33:45Z",
@@ -587,21 +587,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-17T08:18:24+02:00",
-      "urls": [
-        {
-          "sign": "81acfe3ae9802eeedeec6b6a1f82fef609a602bdc4270d6f8306d368517dba8e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puuttiaikakausi alkaa Etelä‑Suomessa ja Ahvenanmaalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-17T08:36:12+02:00",
@@ -1817,21 +1802,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-17T13:37:19Z",
-      "urls": [
-        {
-          "sign": "b30b353885d681c3af2bb916cb55a3afb532b9deba8ab711ccdc1a36a13b6e0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rekkakuski tuomittiin liikenneonnettomuudesta ja uhkauksesta – ehdollinen vankeus",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-17T15:36:07+02:00",
@@ -5076,6 +5046,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-18T08:54:36+02:00",
+      "urls": [
+        {
+          "sign": "db52ec30b19bfa1b1e58bfe492307a75cf3bcc3555c9ce2b3b2494a3144e4aaa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL varoittaa ennätyksellisestä legionellatapauksista – suositellaan varotoimia multan ja kompostin käsittelyssä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-18T08:58:28+02:00",
+      "urls": [
+        {
+          "sign": "09ade373854da863e43fef97844eb373a8e8c22d6c53a26a4b68d3ef04cf09d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Jari Eloranta varoittaa Iranin sodan laajentumisesta ja öljyinfrastruktuuri-iskujen riskistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
