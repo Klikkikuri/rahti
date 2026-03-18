@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-18T02:25:31+02:00",
+  "updated": "2026-03-18T02:43:58+02:00",
   "entries": [
     {
       "updated": "2026-03-17T23:51:08Z",
@@ -542,21 +542,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-17T05:30:35+02:00",
-      "urls": [
-        {
-          "sign": "d944227af57e63dcf6b7f9eff413badf52d3c210a0f21d99681da079329d48f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Moskovan internetkatkokset vaikeuttavat opiskelijoiden ja yrittäjien arkea",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-17T18:36:46+02:00",
@@ -5076,6 +5061,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-18T02:43:58+02:00",
+      "urls": [
+        {
+          "sign": "40d2066e0fee7f63cd29eb06ccf4dc7001a01dadf99e2bc95de395d8dd4b6d08",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SDP johtaa Gallupin tuoreessa kannatusmittauksessa 24,8 %:lla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
