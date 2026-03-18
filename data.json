@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-19T00:12:15+02:00",
+  "updated": "2026-03-19T00:36:33+02:00",
   "entries": [
     {
       "updated": "2026-03-18T20:15:43Z",
@@ -1937,21 +1937,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-18T12:58:28+02:00",
-      "urls": [
-        {
-          "sign": "12f843b1f234b133ac8eb6b8369aa47cfc47049271c4dfacf6a6df32b6017a2e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "49‑vuotias Petri kertoo, miten hän helposti tapaa parikymppisiä naisia",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-18T12:53:47+02:00",
@@ -5083,6 +5068,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-19T00:36:33+02:00",
+      "urls": [
+        {
+          "sign": "8d1b43b8f2c5f72eb6dc13c5ce6c99ee336e8a8d0b4a303d8430c64882fbdb2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finanssikapitalismin ydin: Peter Malloukin kuvaa USA:n kasvavaa tuloeroa kestämättömäksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
