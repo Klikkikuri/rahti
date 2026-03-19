@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-19T07:40:28+02:00",
+  "updated": "2026-03-19T07:52:49+02:00",
   "entries": [
     {
       "updated": "2026-03-19T04:05:40Z",
@@ -604,21 +604,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-03-17T22:02:00+02:00",
-      "urls": [
-        {
-          "sign": "34ca845552f80983655b54f94347b4b61ddc58cb8c3277ec06ff43339b8dd9fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bolsonaro ei pääse sairaalasta, vaikka tila on parantunut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-03-17T22:28:51+02:00",
       "urls": [
         {
@@ -630,21 +615,6 @@
       ],
       "title": "Murtovaras murtautui Heinolan kultasepänliikkeeseen ja pakeni poliisia",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-17T21:30:24+02:00",
-      "urls": [
-        {
-          "sign": "f25dadf773f12c0ba13817d0e5524397f28a117217507476f02a2915984bdf30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "YTL:n arvostelupalvelu koki häiriön 17.50–19.20, palvelu on palautunut",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5087,6 +5057,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-19T07:52:49+02:00",
+      "urls": [
+        {
+          "sign": "172d37c462667ba9d45cb25faf6a7a3fe133c047d9e22804f52c525f390e6d96",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suojelupoliisi hakee henkilötiedustelijoita kirjepostilla – kriteerit ja testaus selitetty",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-19T07:24:44+02:00",
+      "urls": [
+        {
+          "sign": "98804ccf3261b1fe3012e62acbee270a8badda7c02441c7652b686fe13e57b85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen PEN myöntää vuoden 2026 sananvapauspalkinnon Janette Grönforsille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
