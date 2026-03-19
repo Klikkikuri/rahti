@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-19T05:18:45+02:00",
+  "updated": "2026-03-19T03:30:45Z",
   "entries": [
     {
       "updated": "2026-03-19T03:00:34Z",
@@ -587,21 +587,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-17T19:56:41+02:00",
-      "urls": [
-        {
-          "sign": "4a57d8196df7357fc09fafe8915189da42d987025f0a6b9ad1862e7208b400f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump lykkää Kiinan‑vierailua viikkoihin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-17T20:02:33+02:00",
@@ -1877,21 +1862,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-18T11:41:48Z",
-      "urls": [
-        {
-          "sign": "bd25d9099bf248d88ac59e41c2f2fecc66772ff858debd05f91472a50b02bf56",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaan perhe, joka kuoli tulipalossa, haudataan keskiviikkona Ruskeasannan hautausmaalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-18T13:32:46+02:00",
@@ -5083,6 +5053,40 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-19T05:30:35+02:00",
+      "urls": [
+        {
+          "sign": "e1d8c751c52bbfa623dfa0021710615b8e79c9b4a48a102daa5cde507081a62e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen Naton pääsihteeri varoittaa Putinin Natoon pyrkimyksestä ja Ukrainan sodasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-19T03:30:45Z",
+      "urls": [
+        {
+          "sign": "c80796a60a7ede4174cf5250010f122799f8621eecf2a8b37f766acff86bca31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "beb465e7ac9b26d886b18185585f076b91eb7be1af70145cb7304ff44a6c2410",
+          "labels": []
+        }
+      ],
+      "title": "ESETin asiantuntija Jake Moore esittelee kolme salasanojen turvavinkkiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
