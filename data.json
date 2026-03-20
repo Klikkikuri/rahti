@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-20T02:28:31+02:00",
+  "updated": "2026-03-20T03:57:42+02:00",
   "entries": [
     {
       "updated": "2026-03-19T22:28:41Z",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-19T06:06:04+02:00",
-      "urls": [
-        {
-          "sign": "ee29c2c4339bffcad84366d5504ab0baa815db15d5f9aabe02c63c8f4a99ac90",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela: 11 % alakouluikäisistä pojista käytti ADHD-lääkkeitä viime vuonna",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-19T06:00:00+02:00",
@@ -5077,6 +5062,21 @@
       ],
       "title": "Muslimit viettävät tänään Eid al-Fitr -juhlaa Ramadanin päättymisen kunniaksi",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-20T03:57:42+02:00",
+      "urls": [
+        {
+          "sign": "c4482f905c68bd691ba87bf1fa9ea678cfc5e6bfae8635909b314cd4cae420cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saudi-Arabian öljyviranomaiset ennustavat hinnan nousevan yli 180 dollariin, jos häiriöt jatkuvat huhtikuun loppuun",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
