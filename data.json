@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-20T20:55:15Z",
+  "updated": "2026-03-20T23:07:12+02:00",
   "entries": [
     {
       "updated": "2026-03-20T19:29:22Z",
@@ -1787,21 +1787,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-20T12:21:08+02:00",
-      "urls": [
-        {
-          "sign": "cedfe80425b607b289909e757a42648c4faa6d09bf967e2528a065853e164f42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sanni julkaisi uuden kappaleen, jossa viitataan entiseen kumppaniin Shirly Karvisen suhteeseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-20T12:29:39+02:00",
@@ -5080,6 +5065,21 @@
         }
       ],
       "title": "Poliisi etsii 190 cm pitkää miestä Kauniaisissa – ilmoita havainnoista hätänumeroon 112",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-20T23:07:12+02:00",
+      "urls": [
+        {
+          "sign": "5a4427a69a244d2455698519bbb1b1a78f50519d1e501bf3282b1387fe7d7668",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Järvenpäässä varhaiskasvattaja hyökkäyksen kohteeksi ulkoilutilanteessa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
