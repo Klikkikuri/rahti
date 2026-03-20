@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-20T22:18:58Z",
+  "updated": "2026-03-21T00:54:32+02:00",
   "entries": [
     {
       "updated": "2026-03-20T21:18:31Z",
@@ -617,21 +617,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-19T19:40:24+02:00",
-      "urls": [
-        {
-          "sign": "b3bfd02d2cd012b1e448c4d2f278ff0e9db11943617307a5477df57e50b9d967",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kankaanpään eläinsuojeluyhdistys kohtaa kissaruttoa – 1 500 hoitokissaa ja 10 000 euron puhdistuskustannukset",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-19T19:55:35+02:00",
@@ -5083,6 +5068,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-21T00:54:32+02:00",
+      "urls": [
+        {
+          "sign": "eb610b31e5745a30f2a88fb72a62a9b25259b7e000a6275f094240bc41f536e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtiovarainministeriö suunnittelee 20,7 miljoonan euron leikkauksia Kelalle ensi vuonna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
