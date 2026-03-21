@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-21T00:56:41Z",
+  "updated": "2026-03-21T03:15:38+02:00",
   "entries": [
     {
       "updated": "2026-03-21T00:56:41Z",
@@ -1832,21 +1832,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-20T13:13:49+02:00",
-      "urls": [
-        {
-          "sign": "b40a6f19f380e32031b2b7ebde3be7d1d871c7f4d5d67816ac545124642b42ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomuksen europarlamentaarikko Aura Salla vaatii Unkarin erottamista EU:sta Ukrainan tukipolitiikan takia",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-20T12:45:12+02:00",
@@ -5083,6 +5068,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-21T03:15:38+02:00",
+      "urls": [
+        {
+          "sign": "3ca2151b76e27226c3efd507b328ad26d35fff5d64df581b73bae45f9805d514",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maailmantähdet muistavat Chuck Norrisia sosiaalisessa mediassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
