@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-21T00:07:17Z",
+  "updated": "2026-03-21T02:38:11+02:00",
   "entries": [
     {
       "updated": "2026-03-20T23:03:10Z",
@@ -617,21 +617,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-19T20:22:07+02:00",
-      "urls": [
-        {
-          "sign": "82ea9f5bce4ac793a40bf0619b657138ec44a0a5c5f48c1a2f89525169f68df4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranska laajentaa arktista harjoittelua Lapissa osana NATO:n Cold Response -harjoitusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-19T23:30:26+02:00",
@@ -5080,6 +5065,21 @@
         }
       ],
       "title": "Poliisi tutkii Valkeakosken puukotustapausta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-21T02:38:11+02:00",
+      "urls": [
+        {
+          "sign": "1e55d69b330979fcf3e4489ea385e52edde22329f4eac8e80be6c5b0ec94ffe7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Orbán johtaa konservatiivikokousta Budapestissa kolme viikkoa ennen vaaleja",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
