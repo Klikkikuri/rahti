@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-21T07:36:35+02:00",
+  "updated": "2026-03-21T07:52:05+02:00",
   "entries": [
     {
       "updated": "2026-03-21T03:31:00Z",
@@ -619,21 +619,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-20T04:24:15+02:00",
-      "urls": [
-        {
-          "sign": "38bfb90cd7b0c3f062ac60ff54273b1645ae9c423b16b74d52983d265b9e62b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jussi-palkinnot jaetaan tänään Helsingin Messukeskuksessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-03-20T22:22:38+02:00",
       "urls": [
         {
@@ -842,21 +827,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-20T08:39:27+02:00",
-      "urls": [
-        {
-          "sign": "7dece1fd6e42c33130d91061cf779aeb1853945be5b31ae3289ba0fca0f14b7c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Luka Doncic teki 60 pistettä, LeBron James lähestyy Robert Parishin ottelumäärän ennätystä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-20T08:55:03+02:00",
@@ -5087,6 +5057,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-21T07:52:05+02:00",
+      "urls": [
+        {
+          "sign": "af4166ca46288d8e1005773d12e7df2ebf225f4a5a84c8622f3663971febd50b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina ja Yhdysvallat jatkavat sodan lopettamisen neuvotteluja Washingtonissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-21T07:45:39+02:00",
+      "urls": [
+        {
+          "sign": "4f6a0a543d5e58611f63c6c9eeaf78e29d9e670ed8d38d5db4b564669c31851e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kalle Rovanperä peruuttaa Super Formula -kauden terveysongelmien pahentuessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
