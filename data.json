@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-22T12:07:43+02:00",
+  "updated": "2026-03-22T12:25:23+02:00",
   "entries": [
     {
       "updated": "2026-03-22T07:17:27Z",
@@ -1112,21 +1112,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-21T06:36:02+02:00",
-      "urls": [
-        {
-          "sign": "74ec3d47f31cbdbf013a6a65ce07102625ecaa7370c9956007cb6312a53052af",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies, jolla oli kirves, aiheutti poliisin puuttumisen Oulussa perjantaina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-21T06:45:35+02:00",
@@ -2374,21 +2359,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-21T17:33:00+02:00",
-      "urls": [
-        {
-          "sign": "4dbddde7d1ef277f219c304c5bd2471c66c797681d1636770e698d268f8c9059",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aija Puurtinen kertoo, miten mies löi hänet lavalla luullen hänet ruotsalaiseksi ja paljastaa sukupuolisen häirinnän musiikkialalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-21T17:38:33+02:00",
       "urls": [
         {
@@ -2400,21 +2370,6 @@
       ],
       "title": "Billy Tibbetts, entinen HIFK‑pelaaja, pidätetty Massachusettsin motellissa rikkomaan lähestymiskieltoa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-21T17:37:18+02:00",
-      "urls": [
-        {
-          "sign": "08d6e4c5461e385635981630a045698a8099ae44e35e347aee7d585a899dca68",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalainen hoitajayrittäjä keräsi yli 700 000 euroa laittomia kynnysrahoja – tuomio palautti suurimman osan",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -3953,7 +3908,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-03-22T06:53:23+02:00",
+      "updated": "2026-03-22T12:21:36+02:00",
       "urls": [
         {
           "sign": "dac900688de8a299ba3761348a5b5f13f95cdfdc84eb8f960128856c3687d24f",
@@ -3962,7 +3917,7 @@
           ]
         }
       ],
-      "title": "Donald Trump asettaa 48 tunnin määräajan Iranille Hormuzinsalmen avaamiseksi",
+      "title": "Hizbollahin raketti-isku ravistui Pohjois‑Israelia, Trump uhkaa Irania 48 tunnin määräajalla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5074,6 +5029,51 @@
       ],
       "title": "Liisa Rintaniemi ennustaa lumisateita pääsiäisenä Etelä‑Suomessa",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-22T12:15:56+02:00",
+      "urls": [
+        {
+          "sign": "f183c2084797637d42ac49c247c7872a77768e560a12275bb9935d4f734fe825",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marian ilmestyspäivä vietetään Suomessa sunnuntaina 22.–28. maaliskuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-22T12:25:23+02:00",
+      "urls": [
+        {
+          "sign": "ce2590462a5c93a8d75cc2f2581b1ec7acb46fc10a3e668f896f1abafb389d76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teemu Nikki muistelee viimeistä puheluaan MS-tautia sairastaneelle ystävälleen Petri Poikolaiselle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-22T12:12:55+02:00",
+      "urls": [
+        {
+          "sign": "b05a855dc20550b7e2555a0b32a0f2599e96780c0fafc74c08a0b31395baf85d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelicansin poikkeuksellinen puolustus ja maalivahtisuoritukset yllättivät JYP:n SM-liigan pudotuspeleissä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
