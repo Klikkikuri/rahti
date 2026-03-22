@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-22T06:25:25+02:00",
+  "updated": "2026-03-22T06:41:53+02:00",
   "entries": [
     {
       "updated": "2026-03-21T23:58:13Z",
@@ -1097,21 +1097,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-20T19:21:46+02:00",
-      "urls": [
-        {
-          "sign": "7b6a1b643be0f49ba101a5b92f3da49b7571b72da89caedd5fa605b08d6d006a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kruununprinsessa Mette-Marit pyysi anteeksi yhteyksiään Jeffrey Epsteiniin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-20T19:18:03+02:00",
@@ -5102,6 +5087,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-22T06:41:53+02:00",
+      "urls": [
+        {
+          "sign": "dac900688de8a299ba3761348a5b5f13f95cdfdc84eb8f960128856c3687d24f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump uhkaa Irania 48 tunnin määräajalla Hormuzinsalmen avaamisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
