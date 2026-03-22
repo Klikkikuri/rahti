@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-22T02:54:54Z",
+  "updated": "2026-03-22T05:03:12+02:00",
   "entries": [
     {
       "updated": "2026-03-21T23:58:13Z",
@@ -2522,21 +2522,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-21T12:18:20+02:00",
-      "urls": [
-        {
-          "sign": "026a3b2221fce2d5ee13dd39faa67a7f37ec19de9aa01ae7fb53c050d8963ac1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elmo Lakan suoritusta arvostelee SE-mies Bryggare – terveys huolenaiheena",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-21T12:26:12+02:00",
@@ -5102,6 +5087,21 @@
       ],
       "title": "Poliisi pidätti epäillyn puukotuksesta Tampereen Keskustorilla, loukkaantunut saatiin hoitoon",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-22T05:03:12+02:00",
+      "urls": [
+        {
+          "sign": "73e1d342f4e50411d4901e4d2544a17b6c33182db826a554d335e6dda510292f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi takaa-ajoi pakenevan kuljettajan, yli 20 partioita Vantaalla",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
