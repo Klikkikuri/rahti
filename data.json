@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-23T00:24:08+02:00",
+  "updated": "2026-03-23T01:40:03+02:00",
   "entries": [
     {
       "updated": "2026-03-22T22:21:58Z",
@@ -2477,21 +2477,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-22T11:31:16+02:00",
-      "urls": [
-        {
-          "sign": "0fb7d42231bd05f9aa5cd456f24a98b818747e8707ecd43fde27f3333675156d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin hallinto esitti kuusi vaatimusta Iranille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-22T11:32:40+02:00",
@@ -5100,6 +5085,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-23T01:40:03+02:00",
+      "urls": [
+        {
+          "sign": "5a80d7fa9649a814e069e4755f35aa103cad9586da0abf2da951b140368f320d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän tulliviranomaiset takavarikoivat Ivangorodissa kuusi suomenkielistä kirjaa, joista kolme katsottiin äärisisällöksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
