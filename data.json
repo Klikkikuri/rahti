@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-23T20:26:53+02:00",
+  "updated": "2026-03-23T20:36:50+02:00",
   "entries": [
     {
       "updated": "2026-03-23T16:33:32Z",
@@ -602,21 +602,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-22T19:00:35+02:00",
-      "urls": [
-        {
-          "sign": "4e8c4d57f63ba6f89983715cca147052b9116c3b775f47ddd7d1f5f22b4d39ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iida Karhunen, 17, osoittaa suurta kunnianhimoa olympialaisissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-22T19:21:41+02:00",
@@ -1547,40 +1532,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-23T09:26:40+02:00",
-      "urls": [
-        {
-          "sign": "2b66085ec2c30ca6d810efa709c3131d5d844a604b22dddee68157dea4d57306",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "b0c67c7b136b680ace5a6ab2596ccd8c49e8249fa7e888b17ca140c431ef9c48",
-          "labels": []
-        }
-      ],
-      "title": "Martti Suosalo myy varavuoteen ja auton – puolisonsa Virpi Suutari puuttuu",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-23T09:15:54+02:00",
-      "urls": [
-        {
-          "sign": "593a616298037c461b53e1520d46cc6ef2f19aee7bc41bb0f307ab5ea63c3898",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meikkitaiteilija Neea Kuurne esittelee Aasian ripsivärien suosion, väritrendit ja tubing‑teknologian",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-23T09:27:39+02:00",
@@ -5164,6 +5115,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-23T20:36:50+02:00",
+      "urls": [
+        {
+          "sign": "5b54fb213f658723949ba69f162b9951196133c62dd8789ec8d9bfdbb5009ce5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mette‑Maritin Epstein‑haastattelua vastaan 125 valitusta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-23T20:32:10+02:00",
+      "urls": [
+        {
+          "sign": "279d60eece4b9fae9698f0798cc91ac9a51dfc79c5d9100e0f4872629057a36c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin hallinto lähetti aseistettuja ICE-agentteja 14 lentokentälle, mikä herättää turvallisuushuolia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-23T20:31:38+02:00",
+      "urls": [
+        {
+          "sign": "ae97676a53e41ea9825f54a758eb14045384f76036a684979cbbe4c68566a0ed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keir Starmer kutsui hätäkokouksen käsittelemään Lähi-idän kriisiä ja öljyn hinnan nousua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
