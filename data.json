@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-23T01:58:01+02:00",
+  "updated": "2026-03-23T02:00:34+02:00",
   "entries": [
     {
       "updated": "2026-03-22T22:21:58Z",
@@ -2462,21 +2462,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-22T11:32:40+02:00",
-      "urls": [
-        {
-          "sign": "f341911f3edf9dc87b66e550277b83b61437699c12873ce655dbd7dc0b820ef0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jorginho kritisoi Chappell Roania, kun 11‑vuotias tytär kohtasi idolinsa Lollapaloozalla São Paulossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-22T11:53:40+02:00",
@@ -5100,6 +5085,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-23T02:00:34+02:00",
+      "urls": [
+        {
+          "sign": "6f6f74ec8284212e8ed4e5482207d96dcf81e5be24257f1781011d04113a96d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi – lue oma merkki tänään klo 2:00",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
