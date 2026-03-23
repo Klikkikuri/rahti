@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-23T20:12:49Z",
+  "updated": "2026-03-23T22:25:15+02:00",
   "entries": [
     {
       "updated": "2026-03-23T19:54:08Z",
@@ -1697,36 +1697,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-23T10:51:04+02:00",
-      "urls": [
-        {
-          "sign": "c7d3a48739b48d74ed0ffa2966bf18055f754d6cdebacc9a7598aa87bf90b36f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mari Moilanen suosittelee kevään hittipastaa – parsaa ja orzoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-23T10:51:00+02:00",
-      "urls": [
-        {
-          "sign": "16e43ae487fa62a5b14ee5a9966560cfd1acbf8d40ac491aa0aab8257b8898c7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Autoilija törmäsi jalankulkijaan Porin Antinkadulla, poliisi tutkii vakavaa liikenneonnettomuutta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-23T11:00:54+02:00",
@@ -5160,6 +5130,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-23T22:17:00+02:00",
+      "urls": [
+        {
+          "sign": "4228ac9d94b0c90ee247d921df5e8f971afcc7154685ea0b322879b44322fa93",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "b3ea8368e1bba53b39a17a9aeb6bd738ef4220edbb66efc49bb85a74ee67150b",
+          "labels": []
+        }
+      ],
+      "title": "NFL-toimittaja ja Steelers kumoavat Joe Greenen kuolinuutisen – legenda elää",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-23T22:25:15+02:00",
+      "urls": [
+        {
+          "sign": "18c11a5ec12b1069d5b8637c88578456ba8489f79ad96574e57cc9e24dfd63fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chuck Norris julkaisi viimeisen Instagram-päivityksensä, jossa hän iloitsee terveydestään, ennen kuolemaansa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
