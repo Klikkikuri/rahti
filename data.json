@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-25T22:29:46+02:00",
+  "updated": "2026-03-25T22:38:42+02:00",
   "entries": [
     {
       "updated": "2026-03-06T14:51:42Z",
@@ -1699,21 +1699,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-25T11:19:39+02:00",
-      "urls": [
-        {
-          "sign": "bc6289735a15150c89c3882e5b323c95e71a769d455fb002b836d3b2a22a9f37",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkijat: Kimchi‑bakteerit voivat poistaa nanomuoveja suolistosta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-25T11:14:31+02:00",
       "urls": [
         {
@@ -1757,21 +1742,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-25T11:23:34+02:00",
-      "urls": [
-        {
-          "sign": "5b707a783f6a474bec54a451cce94bcfd783bf12e92fc46f548c2d5b451701cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Minja Koskela kehuu Antti Lindtmania ydinasekysymyksessä – vasemmistoliiton strateginen asema tarkastelussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-25T11:29:05+02:00",
@@ -5185,6 +5155,34 @@
         }
       ],
       "title": "*Kumman kaa* -sarjan tekijät vaativat OP:ltä 100 000 euroa tavaramerkkirikkomuksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-25T20:33:03Z",
+      "urls": [
+        {
+          "sign": "704091abcc9ef12c669562fccf2eebb43c4f75627745e7d87e4f175560b6fd12",
+          "labels": []
+        }
+      ],
+      "title": "Professori Mark Galeotti: Venäjän kansa on vihaista Putinia kohtaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-25T22:38:42+02:00",
+      "urls": [
+        {
+          "sign": "c408c55fce70eec986d39de39001dd8a5fe66fc5d5945aa07dd48b3ed51d77e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OP-Pohjola ja Autoalan Keskusliitto varoittavat, että huoltovälin laiminlyönti voi johtaa kalliisiin korjauksiin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
