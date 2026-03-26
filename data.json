@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-26T22:58:28+02:00",
+  "updated": "2026-03-26T23:06:00+02:00",
   "entries": [
     {
       "updated": "2026-03-06T14:51:42Z",
@@ -1937,21 +1937,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-26T12:53:47+02:00",
-      "urls": [
-        {
-          "sign": "d4513f6e46ebfb86d35c4a39531366212ac0b518ddac2f0112d8d584fe64f541",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Timo Soini: Korkein oikeus‑päätös on poliittinen ja varmistaa Räsäsen uudelleenvalinnan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-26T11:49:12Z",
@@ -5198,6 +5183,21 @@
         }
       ],
       "title": "Ässät aloittivat vahvasti ja voittivat Kiekko-Espoon 5–2",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-26T23:06:00+02:00",
+      "urls": [
+        {
+          "sign": "228a47d7cd65e295946d107b505fc3c25140c34590b0863c292aa58621a23f30",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KalPan Patrick Curry palasi pelikiellosta ratkaisevaan pudotuspelin viidenteen otteluun",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
