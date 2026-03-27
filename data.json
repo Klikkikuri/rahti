@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-27T07:06:43+02:00",
+  "updated": "2026-03-27T07:20:36+02:00",
   "entries": [
     {
       "updated": "2026-03-06T14:51:42Z",
@@ -872,36 +872,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-26T08:58:06+02:00",
-      "urls": [
-        {
-          "sign": "05ed69b6a7da81958745465446679c33c93908abc4060e79b31ffcfbd8f4aec3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi pidätti miehen Viikkarin puukaupunginosassa epäillyn tuhopoltton epäiltynä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-26T09:13:47+02:00",
-      "urls": [
-        {
-          "sign": "871921359a5fee2f2b66edce514368925b1a073af9882266c22a6535b069e8b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korkein oikeus tuomitsi Päivi Räsäsen kiihottamissyytteestä pamphletin julkaisemisesta, hyläten sosiaalisen median viestin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-26T07:07:52Z",
@@ -2070,21 +2040,6 @@
       ],
       "title": "TVO: Olkiluodon OL1-yksikön pieni polttoainevuoto korjataan huollossa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-26T14:57:01+02:00",
-      "urls": [
-        {
-          "sign": "24ae33cf740ad1a70642796318b2d0551b42ead74d6fac77c3bba4a26870c515",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Topi Sukari sai 7 000 euron palkkamurhan uhkauksen, joka paljastui takavarikoinnin yhteydessä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5201,6 +5156,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-27T06:00:09+02:00",
+      "urls": [
+        {
+          "sign": "6c658a778e0afdb7d07f10a967f9e4558b00d41500d67e119e3fcd519b381ce7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toni, 45, tuomittu 18‑vuodeksi Brasiliassa, kertoo vapaudessa Helsingin päärautatieasemalla",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-27T07:16:25+02:00",
+      "urls": [
+        {
+          "sign": "64b80e0fc2f04456d0dc5660c6b1ddda6a30e86d7e8db359cfa21f6b5a7d05f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OAJ:n puheenjohtaja Katarina Murto vaatii opettajarekisteriä erityisopettajien koulutustarpeen kartoittamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-27T07:20:36+02:00",
+      "urls": [
+        {
+          "sign": "e23686a4e41356c9dcdf903acf23f215cfb3c7988d70cc9490da74324508c4e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain valtiovarainministeriö lisää Trumpin allekirjoituksen seteleihin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
