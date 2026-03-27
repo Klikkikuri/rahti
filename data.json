@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-27T19:04:53+02:00",
+  "updated": "2026-03-27T19:15:00+02:00",
   "entries": [
     {
       "updated": "2026-03-07T19:13:17Z",
@@ -754,21 +754,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-26T18:03:00+02:00",
-      "urls": [
-        {
-          "sign": "3bf2c4a6653c02f4d01309266372a6b0164e2efe29440acab44bb9130aff85d9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Simo Frangén kertoo taloudellisesta vapaudestaan tehdä vain mieluisia töitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-03-26T18:19:28+02:00",
       "urls": [
         {
@@ -915,21 +900,6 @@
       ],
       "title": "JEF-maat tukevat Ukrainaa, mutta eivät anna sille jäsenyyttä",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-26T20:13:11+02:00",
-      "urls": [
-        {
-          "sign": "e9ac852409da346b163fe8c40277c18f2bd400e5b7cc7d3d6a9eb431f4b731c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ylöjärven ja Tampereen päiväkotilapset jumiutuivat kaappisänkyyn – turvallisuustarkastuksia ja ohjeita lisätty",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5233,6 +5203,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-27T19:15:00+02:00",
+      "urls": [
+        {
+          "sign": "6ed933e46a0d31a12f1a75b5c56ec43cb42f90a020102416d9cd906604c0886a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perheenisä kuvasi Finnairin Airbus‑321:n hätälaskeutumisen Lanzarotella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-27T13:14:49+02:00",
+      "urls": [
+        {
+          "sign": "5922eabc816e419199b1f1e5877ea30b48c10ed665b3fd72e266bee32463a466",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Savonlinja ja muut itä‑suomalaiset linja‑autoyhtiöt harkitsevat kesävuorojen leikkaamista polttoainekustannusten noustessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
