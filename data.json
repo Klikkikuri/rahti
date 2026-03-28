@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-28T16:09:24Z",
+  "updated": "2026-03-28T18:22:22+02:00",
   "entries": [
     {
       "updated": "2026-03-07T19:13:17Z",
@@ -797,21 +797,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-27T12:23:54+02:00",
-      "urls": [
-        {
-          "sign": "8d382440a1ca28d0dfc18cb520224f6d789f17b65ac30cb3f5dc5b45d6edfaad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ampui Torniossa miestä, mutta kukaan ei loukkaantunut – ampumiset harvinaista Lapissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-27T10:21:39Z",
@@ -4877,7 +4862,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-28T16:09:24Z",
+      "updated": "2026-03-28T16:21:28Z",
       "urls": [
         {
           "sign": "9a4c786d3767389bba3fd2630527b89b50e83531baa8ade50202320728f0b9d1",
@@ -4886,7 +4871,7 @@
           ]
         }
       ],
-      "title": "Raimo Helminen uudisti SaiPan hyökkäyspeliä puolivälierissä; pelaaja loukkaantui Tampereella",
+      "title": "Raimo Helminen uudisti SaiPan hyökkäyspeliä puolivälierissä, mutta yksi pelaaja loukkaantui Tampereella",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5235,6 +5220,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-28T18:22:22+02:00",
+      "urls": [
+        {
+          "sign": "f914b6c199b9ce569fe0683d2439e917e06f7708b4afa25598bbf79f7e53a1ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espoon entinen kaupunginjohtaja ja kansanedustaja Pekka Löyttyniemi kuollut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
