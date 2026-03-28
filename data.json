@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-28T09:41:11+02:00",
+  "updated": "2026-03-28T09:42:28+02:00",
   "entries": [
     {
       "updated": "2026-03-07T19:13:17Z",
@@ -2072,21 +2072,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-27T14:51:53+02:00",
-      "urls": [
-        {
-          "sign": "63b0aa829e758de43aedbde4cb817a70fbabecd5022c7ddb60b590879b304552",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin poliisi etsii 12‑vuotiasta poikaa Itä‑Helsingissä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-27T14:57:40+02:00",
@@ -5230,6 +5215,21 @@
         }
       ],
       "title": "Tiger Woods pidätettiin Florida‑onnettomuuden jälkeen epäiltynä rattijuopumuksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-28T09:42:28+02:00",
+      "urls": [
+        {
+          "sign": "ac75e47fc6535fc2f0abca9c72fbe5635bfff2668c877d26620b4d18f1c4df9d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Verstappen kritisoi Red Bullin autoa ja Q2‑suoritusta Viaplayn haastattelussa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
