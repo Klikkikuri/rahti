@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-28T03:19:29Z",
+  "updated": "2026-03-28T05:39:00+02:00",
   "entries": [
     {
       "updated": "2026-03-07T19:13:17Z",
@@ -769,21 +769,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-26T21:13:52+02:00",
-      "urls": [
-        {
-          "sign": "17d28c4b7722daa5f4c96921bcd19768a1cd193580280754678010cf315e92dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU-parlamentti hyväksyi palauttamislain 389–206 – EPP:n kannatus korostui",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-03-26T21:50:16+02:00",
       "urls": [
         {
@@ -872,21 +857,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-27T05:30:35+02:00",
-      "urls": [
-        {
-          "sign": "a4041cb39440bf892dbf80cb4c7988504f969070965ba2d5ba72f18acf778075",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jani Pekkinen kertoo, miten työkuorma johti sotilaan uupumiseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-27T19:44:35+02:00",
@@ -5233,6 +5203,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-28T05:39:00+02:00",
+      "urls": [
+        {
+          "sign": "ede56d6595f58678e1a859215aee1855a292f306ef5d87d5385ed108e935c8fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iran uhkaa Persianlahden desalinaatiolaitoksia, vesiasiantuntija korostaa laillista suojelua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-28T05:30:35+02:00",
+      "urls": [
+        {
+          "sign": "e05e8e6c7356e839c5f1b662e478da61983d445dc55e55eddeb379a5617719fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lappeenrannan hiljainen yhtiö omisti osan Putinin pankista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
