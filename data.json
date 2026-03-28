@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-28T06:11:00+02:00",
+  "updated": "2026-03-28T06:24:30+02:00",
   "entries": [
     {
       "updated": "2026-03-07T19:13:17Z",
@@ -739,21 +739,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-26T21:19:28+02:00",
-      "urls": [
-        {
-          "sign": "ca40a13510801f0b2cddc6f5b7f4cc53bf6cfa67a4b6424a1d1cc418e0d6cb1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lasse Kukkonen kritisoi HIFK:n Petr Kodytekin ulosajoa pudotuspeleissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-03-26T21:50:16+02:00",
       "urls": [
         {
@@ -932,21 +917,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-27T06:00:35+02:00",
-      "urls": [
-        {
-          "sign": "f9b115ca99fa0d041b298cf2e2a4db7f739f1d193ba68d86d7af4c42736a7d31",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela lopettaa tekoälypohjaisen väärinkäytösten etsintähankkeen lainsäädännön epäselvyyksien takia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-27T06:29:00+02:00",
@@ -5233,6 +5203,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-28T06:24:30+02:00",
+      "urls": [
+        {
+          "sign": "6663d7691f9841aab06e27f717c9317fe6590c6f2a1a76033ee2e9f5d41ef684",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iran syyttää USA:ta ja Israelia siviilihyökkäyksistä, Yhdysvaltain sotilaat haavoittuvat Saudi-Arabiassa, Trump uhkaa Natoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-28T06:17:38+02:00",
+      "urls": [
+        {
+          "sign": "67a00f1a3f54697df7728c8f2c4c81500a33ea5427ba6e69602cd25fb5fc722a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bank of America maksaa yli 70 miljoonaa dollaria Epstein‑ryhmäkanteen sovittelusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
