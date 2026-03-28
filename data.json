@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-27T22:55:21Z",
+  "updated": "2026-03-28T01:50:25+02:00",
   "entries": [
     {
       "updated": "2026-03-07T19:13:17Z",
@@ -887,21 +887,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-27T01:22:27+02:00",
-      "urls": [
-        {
-          "sign": "5d8f01c50fe7db4d24c210b6a3fa48a1e7a85cb5d59ce48069c9ff39924ba9e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kevään ylioppilaskirjoitukset päättyvät tänään, 50 400 oppilasta osallistui",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-27T02:08:58+02:00",
@@ -5233,6 +5218,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-28T01:50:25+02:00",
+      "urls": [
+        {
+          "sign": "4eb41971fa1d411be2095e65332112211455d85b231feef08b95e26522d54f43",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "No Kings -liike järjestää miljoonien osallistumisen protestit Trumpin hallintoa vastaan Minnesotaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
