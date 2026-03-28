@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-28T18:12:49Z",
+  "updated": "2026-03-28T20:29:10+02:00",
   "entries": [
     {
       "updated": "2026-03-07T19:13:17Z",
@@ -840,21 +840,6 @@
       ],
       "title": "Korkein oikeus tuomitsi Päivi Räsäsen kiihottamisesta, mutta hylkäsi toisen syytteen",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-27T12:55:40+02:00",
-      "urls": [
-        {
-          "sign": "720829f43442702d10c02924269dd4f61bf15aab9b035dc1cf251284137becf2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusvoimat varoittaa nuorten sotilaiden mahdollisesta lähdöstä – vertaa Norjan ja Tanskan tilanteeseen",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -2224,21 +2209,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-27T23:31:38+02:00",
-      "urls": [
-        {
-          "sign": "7d41833e69dd15695005b28202fbef688c3bbe0f97f43ca9935e8cb7efa93be5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain ulkoministeri Rubio korostaa, että Ukraina‑sota ei ole USA:n sota",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-27T23:39:41+02:00",
       "urls": [
         {
@@ -2252,21 +2222,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-28T00:00:20+02:00",
-      "urls": [
-        {
-          "sign": "50211d14b3bb87fd4d0280abcec96f73be999a49150014821989662c9dd9506d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perheen vanhemmat sytyttivät kodin tulipalon, tuomittiin petoksesta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-28T01:50:25+02:00",
@@ -4517,7 +4472,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-28T18:12:49Z",
+      "updated": "2026-03-28T18:16:06Z",
       "urls": [
         {
           "sign": "9a4c786d3767389bba3fd2630527b89b50e83531baa8ade50202320728f0b9d1",
@@ -4526,7 +4481,7 @@
           ]
         }
       ],
-      "title": "SM‑liigan puolivälierät alkavat lauantaina – SaiPa kohtaa Ässäät, Iltalehti seuraa live",
+      "title": "SM-liigan puolivälierät alkavat lauantaina – SaiPa vs. Ässät, Iltalehti seuraa live",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5235,6 +5190,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-28T20:16:31+02:00",
+      "urls": [
+        {
+          "sign": "c55d5c81950c6e9df6cfb488bd5d3368e76a7635e36e53e39a2626a58b42e1d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brittiläinen olympiaurheilija Mary Rand kuoli 86‑vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-28T20:27:20+02:00",
+      "urls": [
+        {
+          "sign": "97ba5576732cdda81f271d9f0834e7efd00bc8f1e1fbaecaf4bce31edf3670f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mikko Manner protestoi HPK‑puolustajan ulosajoa Nokia‑areenassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-28T20:29:10+02:00",
+      "urls": [
+        {
+          "sign": "b2ca39322b46558159c86bc44e073675a0e8d6591890a5f5ff2f40c3f439f082",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Ink -tapahtuma keräsi ennätysmäärän 170 kansainvälistä tatuointitaiteilijaa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
