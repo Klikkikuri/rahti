@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-29T19:26:23+03:00",
+  "updated": "2026-03-29T19:37:49+03:00",
   "entries": [
     {
       "updated": "2026-03-08T17:32:34Z",
@@ -2402,19 +2402,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-28T20:57:54Z",
-      "urls": [
-        {
-          "sign": "51f5a88eb44f266ca9942003a112dd92f8e428140ff27def5c95323d004ca55b",
-          "labels": []
-        }
-      ],
-      "title": "US:n F‑35‑hävittäjät saapuvat ilman toimivaa tutkaa, osasto varustaa painolastilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-28T23:11:45+02:00",
@@ -5209,6 +5196,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-29T19:37:49+03:00",
+      "urls": [
+        {
+          "sign": "22f000caee6a2a43603fe5c6cb7efc7e0a57b8b0689a3c3acb102685efcc1eb4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bottas kritisoi Cadillacin autoa Japanin GP:ssä: \"Auto liukui, nopeus jäi odotettua heikommaksi\"",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
