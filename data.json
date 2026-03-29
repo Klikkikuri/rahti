@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-29T21:30:12Z",
+  "updated": "2026-03-30T00:51:10+03:00",
   "entries": [
     {
       "updated": "2026-03-09T08:00:41Z",
@@ -2659,21 +2659,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-29T10:32:18+03:00",
-      "urls": [
-        {
-          "sign": "5db99a638284e253633fb449539352c9a45b80fb36d3bc40902fd35f114b51ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkijat tutkivat tomaatin ja Parkinsonin mahdollista yhteyttä – torjunta-aineet keskeisiä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-03-29T10:32:47+03:00",
       "urls": [
         {
@@ -5219,6 +5204,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-30T00:51:10+03:00",
+      "urls": [
+        {
+          "sign": "faeac97e887462a4fdf644367ce49c34999de52d7fe7c045709244f862d1194b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Katariina Souri eroaa perustamaansa Graniittipuolueesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
