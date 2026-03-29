@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-29T07:06:02+03:00",
+  "updated": "2026-03-29T07:18:05+03:00",
   "entries": [
     {
       "updated": "2026-03-08T08:18:28Z",
@@ -1247,21 +1247,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-27T18:16:36+02:00",
-      "urls": [
-        {
-          "sign": "b7f99c2e136870c4e6d7829c2f0294a81d68bc1e3756b6c11dda10ebcd6b8e47",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeri Elina Valtonen varoittaa Lähi-idän konfliktin mahdollisesta maasodasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-27T18:25:05+02:00",
@@ -5205,6 +5190,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-29T07:18:05+03:00",
+      "urls": [
+        {
+          "sign": "81a4ce19a721dd6134fab9465bb5d513de44a69feefde9bd3ea4ed31dce5eeaa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rantanen 1+1 Dallasin voitossa, Kapanen 1+1 Canadiensin voitossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
