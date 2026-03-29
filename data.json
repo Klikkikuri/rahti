@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-29T03:14:23Z",
+  "updated": "2026-03-29T06:25:47+03:00",
   "entries": [
     {
       "updated": "2026-03-08T08:18:28Z",
@@ -784,21 +784,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-27T13:52:43+02:00",
-      "urls": [
-        {
-          "sign": "e474242c272c00fe8adf905d2159e2e6c3e21b119b3ae0c0f55f88a3932139a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seinäjoen makeisalan yrittäjä syytetty väärennetystä suklaasta ja useista rikoksista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-03-27T13:58:51+02:00",
       "urls": [
         {
@@ -1307,21 +1292,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-27T17:35:38+02:00",
-      "urls": [
-        {
-          "sign": "1b7d0a57f8d0941edd9eae453d341beeab11fb09f0bc88d7272a0d36ab66f71c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjän sisäministeriö varoittaa internet-rajoituksiin liittyvistä mielenosoituksista ja uhkaa rangaistuksilla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-27T17:27:57+02:00",
@@ -5205,6 +5175,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-29T06:25:47+03:00",
+      "urls": [
+        {
+          "sign": "ed8dba546faacaabc9c909b9c9328b983c664f8dde88c5d00d22758544457105",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat valmistautuu maahyökkäykseen Iranissa, Iranin vallankumouskaarti uhkaa Yhdysvaltain yliopistoja, huthit jatkavat iskujaan Israeliin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-29T06:19:40+03:00",
+      "urls": [
+        {
+          "sign": "4e86dd94c85716fdcbcad107a56a3759b4e78587c1310b5a2f727ead16887566",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Autoilija ajoi väkijoukkoon Britanniassa, useita loukkaantui",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
