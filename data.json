@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-30T00:07:16+03:00",
+  "updated": "2026-03-30T00:20:28+03:00",
   "entries": [
     {
       "updated": "2026-03-09T08:00:41Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-27T17:28:37+02:00",
-      "urls": [
-        {
-          "sign": "712e2c3d4248f111037221174d58cfa18c82f1cb26f2bafede85397ab7db54d9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Merivoimat lisää läsnäoloaan Itämerellä; paikallinen tunnisti Hämeenmaa‑luokan aluksen Kotkassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-27T17:37:15+02:00",
@@ -2642,21 +2627,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-29T10:25:45+03:00",
-      "urls": [
-        {
-          "sign": "1f8518f283685e373d10cc3404df8fd64b70bfddc079310332d240e66d947c3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Noin 20 valopalloa lensi Helsingin yllä yöllä, syytä ei tiedetä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-29T10:17:12+03:00",
@@ -5219,6 +5189,36 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-30T00:15:51+03:00",
+      "urls": [
+        {
+          "sign": "f7ff566bdf05d3bedd9dd0db834e99b3e7bea41fce3ef32eda0b5b00b685e459",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vegas Golden Knights irtisanoivat Bruce Cassidyn, John Tortorella nimitetty päävalmentajaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-30T00:20:28+03:00",
+      "urls": [
+        {
+          "sign": "3437a6f89d6794bed6e05a08217c6fdf8a41e56575734216bb3aede8963a832a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tunturipöllö lisätty CMS-sopimuksen kansainväliseen suojelulistaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
