@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-30T23:11:06Z",
+  "updated": "2026-03-31T02:39:49+03:00",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -932,21 +932,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-29T20:38:10+03:00",
-      "urls": [
-        {
-          "sign": "a75d29afb77c7b6ec77f7cf462af812a8b45e5bdc82c64a894a0e40abf1edea1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Parainen: Rakennuspalo levittää vaarallista savua, asukkaita kehotetaan pysymään sisätiloissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-29T22:20:41+03:00",
@@ -5222,6 +5207,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-31T02:39:49+03:00",
+      "urls": [
+        {
+          "sign": "eb205f2a8b8c0ef5cde9f6db61212f6e088984d7bc3bf59425d5300a5892915f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Florida governor DeSantis allekirjoitti lain Palm Beachin lentokentän nimeämisestä Donald Trumpin mukaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
