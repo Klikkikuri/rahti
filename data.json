@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-30T23:13:57+03:00",
+  "updated": "2026-03-30T23:17:12+03:00",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-29T18:19:43+03:00",
-      "urls": [
-        {
-          "sign": "75b848df414e5d339c6f98d309fcb616ef576f0aa6d1e4065aa938f715fcc809",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainan drooni pudotti Kouvolan Yli‑Kiikan perheen lähelle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-29T21:13:42+03:00",
@@ -5222,6 +5207,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-30T23:17:12+03:00",
+      "urls": [
+        {
+          "sign": "414f4b85e18eff77709ddc1956ded7fb8b44501862bf98127899ff63edef347c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ihmisoikeusjärjestö: Yli 70 kuollut rikollisjengin hyökkäyksessä Haitin Artiboniten alueella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
