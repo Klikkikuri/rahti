@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-30T23:17:12+03:00",
+  "updated": "2026-03-30T23:31:32+03:00",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -1907,21 +1907,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-30T10:00:31+03:00",
-      "urls": [
-        {
-          "sign": "7332276fd39581a4ca88a45b6fc8f4fc74e5f3d1d8eb990db87dad3849f5816f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Droonit laskeutuivat Suomeen, herättivät kansainvälistä mediahuomiota",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-30T10:14:00+03:00",
@@ -5222,6 +5207,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-30T23:31:32+03:00",
+      "urls": [
+        {
+          "sign": "69f3bbe695f5d502dd345a940bf42cdb7270a66cf37c7e0ff290fa6f69a69f1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina saattaa kohdata vakavan rahoituskriisin kesällä 2026",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
