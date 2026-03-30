@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-31T01:09:29+03:00",
+  "updated": "2026-03-31T01:19:17+03:00",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -1817,21 +1817,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-30T10:13:50+03:00",
-      "urls": [
-        {
-          "sign": "a7cec90e5a651049cbb8af3f669864abf7c785b4e9d937974a0b52f668ca02f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sivun navigaatio ilman varsinaista uutista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-30T10:12:44+03:00",
@@ -5222,6 +5207,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-31T01:19:17+03:00",
+      "urls": [
+        {
+          "sign": "40ca4a24c70bc641c38220dcf7986cf0ad33547ccecd09f7c9eb5bd19ab91b0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat pidentää Lukoilin omaisuuksien myyntiaikaa neljännen kerran",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
