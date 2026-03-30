@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-30T21:12:10+03:00",
+  "updated": "2026-03-30T21:22:44+03:00",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -724,36 +724,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-29T16:56:04+03:00",
-      "urls": [
-        {
-          "sign": "bbe881f1f80a9616b0f3dfb8bec740e77a7d8d0f68182eed559996b203efab48",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Afganistanin viranomaiset raportoivat useita kuolemia ja loukkaantumisia tulvissa ja maanvyöryissä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-29T17:20:22+03:00",
-      "urls": [
-        {
-          "sign": "35cce20bd9950f84a9711b1e5f2ead10ec216c8566bfbda5184d45d00d6360cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainalainen AN196‑drooni pudonnut Kouvolan pellolle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-03-29T17:52:57+03:00",
       "urls": [
         {
@@ -842,21 +812,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-29T18:57:45+03:00",
-      "urls": [
-        {
-          "sign": "65ed05c699818b6019cbdf9ac73a46d0d7d1e5a3e8c6e6980ed85601b2ace39f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Erika Jänkä voitti naisten normaalimatkan SM-kultaa, Suvi Minkkinen jäi jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-29T19:24:01+03:00",
@@ -3049,7 +3004,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-03-30T18:01:16Z",
+      "updated": "2026-03-30T18:17:56Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -3058,7 +3013,7 @@
           ]
         }
       ],
-      "title": "FSB varoittaa venäläisiä – Iltalehti seuraa Ukrainan sotaa",
+      "title": "FSB varoittaa venäläisiä; Iltalehti raportoi Ukrainan sodan tapahtumista",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5214,6 +5169,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-30T16:23:24+03:00",
+      "urls": [
+        {
+          "sign": "3a0fc023b793a89f013b8e1a1967fb64a385c2a2257fe9d740fd1714d6f1447a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Drone crash forces evacuation of resident in Oravala, raises local security concerns",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-30T21:22:44+03:00",
+      "urls": [
+        {
+          "sign": "1c8152566313279c1d8fcd63cf4a2138fc5d5b5be0d416e718d79b418440af9e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen puolustusvoimien tutkimusjohtaja kritisoi Suomen droonitorjunnan viivästymistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-30T21:20:55+03:00",
+      "urls": [
+        {
+          "sign": "9614b749e58535a7a4e548d5e4a23466bacda80674a4204b462e574e50b3ec49",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen viranomaiset räjäyttivät ukrainalaisen droonin Kouvolassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
