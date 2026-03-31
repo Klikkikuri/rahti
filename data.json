@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-31T02:53:21+03:00",
+  "updated": "2026-03-31T03:47:29+03:00",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -1817,21 +1817,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-30T10:25:17+03:00",
-      "urls": [
-        {
-          "sign": "25e35e27e08f2527feb1637324e53884b98ef5174c76aad69c13c5b5dc324842",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hämeen poliisi epäilee 50‑vuotiasta naista huijaavan 100 000 euroa kerätyistä lahjoituksista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-30T10:21:08+03:00",
@@ -5222,6 +5207,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-31T03:47:29+03:00",
+      "urls": [
+        {
+          "sign": "0c0f61fd9828f8279cc2b2e4b3fa4e754a0b918b04cb4289acd832eab47c3609",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arnold Schwarzeneggerin poika voitti NPC Natural Colorado State -kilpailun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
