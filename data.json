@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-31T09:44:57+03:00",
+  "updated": "2026-03-31T09:50:40+03:00",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -812,21 +812,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-30T08:00:42+03:00",
-      "urls": [
-        {
-          "sign": "3d0257b05b696213c8f7c906ff0e90fdd92fb8a4199be6d36f1186827bb1a900",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aasian pörssit laskevat, öljyn hinta nousee",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-30T08:13:15+03:00",
@@ -1892,21 +1877,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-30T14:48:55+03:00",
-      "urls": [
-        {
-          "sign": "050d385fa6a85ef58e5eb36465050955b2ea7b16be09991ee416bdaa3128637c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Verohallinto tarkistaa yli kahden hehtaarin mökkien kiinteistöverot, verot voivat kaksinkertaistua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-30T14:56:05+03:00",
@@ -5245,6 +5215,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-31T09:50:40+03:00",
+      "urls": [
+        {
+          "sign": "a0c9ac4bb902522aa2ecd87ba30a818d86a83074809ba002dd240354366074cc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eläketurvakeskus julkaisi 2025‑vuoden keskipensionin 2 138 euroksi ja totesi 39,8 miljardia euron eläkemenot",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-31T09:40:03+03:00",
+      "urls": [
+        {
+          "sign": "2658ec9b9d5fa4c51871cb7cd00f0822475149083b1bde48c478dbe9415ffe5b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo pitää tänään tiedotustilaisuuden Kaakkois‑Suomen drooneista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
