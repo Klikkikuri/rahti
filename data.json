@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-31T13:57:19+03:00",
+  "updated": "2026-03-31T11:12:58Z",
   "entries": [
     {
       "updated": "2026-03-10T15:09:38Z",
@@ -754,7 +754,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-03-31T07:37:55Z",
+      "updated": "2026-03-31T11:12:58Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -763,40 +763,10 @@
           ]
         }
       ],
-      "title": "Halla‑aho tekee yllättävän vierailun Ukrainaan – Iltalehti seuraa sotaa",
+      "title": "Venäjän keväthyökkäys epäonnistuu – Iltalehti seuraa sotaa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-03-30T13:21:13+03:00",
-      "urls": [
-        {
-          "sign": "ee57840199da8c76ea2335c5ac2428c633fcf086d892400b74b4c547e94f127b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina pyytää Suomelta anteeksi droonien harhautumisesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-30T14:46:15+03:00",
-      "urls": [
-        {
-          "sign": "93c12c8675f593696163f371e9e2c1006f90436dd6e8b6de2053557acc018073",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina pyytää Suomea anteeksi droonien putoamisesta, uskoo syynä Venäjän häirinnän",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-03-30T13:42:39+03:00",
@@ -959,21 +929,6 @@
         }
       ],
       "title": "Radiojuontaja Jone Nikula palasi töihin sydänkohtauksen jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-30T14:51:08+03:00",
-      "urls": [
-        {
-          "sign": "8e220cb35b91b64e6a347e823043f6a2910355738c6f0d30486ba06d938189c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Amnesty International varoittaa FIFA:n MM-kisoissa esiintyvistä ihmisoikeusriskeistä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5249,6 +5204,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-03-31T14:06:27+03:00",
+      "urls": [
+        {
+          "sign": "cf9212c2322915eb3dbe8e99731d01fe270658976ef8aae686a96a0be8865b1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Orpo: Drone‑tapahtumissa olisi pitänyt tiedottaa alueen asukkaita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-03-31T14:05:42+03:00",
+      "urls": [
+        {
+          "sign": "661bc281e8720cfb45c439508ecf59dc9737f774996ff2d8dbcd804690252728",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iran tuhosi Yhdysvaltain AWACS‑koneen Saudi-Arabiassa, mikä heikentää sen sotajohdon kykyä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-03-31T14:01:52+03:00",
+      "urls": [
+        {
+          "sign": "5345efcc78885469be3f5e167d18edce788ab7fa572b8ad85af0e35b2c0a25e7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KalPa menettää hyökkääjänsä, Ässät menettävät puolustajan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
