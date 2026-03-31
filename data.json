@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-03-31T22:23:03Z",
+  "updated": "2026-04-01T01:41:31+03:00",
   "entries": [
     {
       "updated": "2026-03-11T08:19:14Z",
@@ -752,21 +752,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-31T02:53:21+03:00",
-      "urls": [
-        {
-          "sign": "c66b64aa13f0b8a7fc640a0d49892061d5db9a21b2ba01939dd0de2a0912c0b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Estonia warns of drone threats; Russia says it shot down drones over Laukaansuu oil terminal",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-31T04:11:01+03:00",
@@ -5235,6 +5220,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-01T01:41:31+03:00",
+      "urls": [
+        {
+          "sign": "5d1720c498f290ea3cc71611807624cdeb2b23c5c511c4659d9893b8a429d9b9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Väylävirasto siirtää maantieliikenteen nopeusrajoitukset kesäaikaan Etelä- ja Pohjois-Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
