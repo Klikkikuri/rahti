@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-01T10:10:32Z",
+  "updated": "2026-04-01T13:25:44+03:00",
   "entries": [
     {
       "updated": "2026-03-11T16:03:29Z",
@@ -767,36 +767,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-03-31T12:51:13+03:00",
-      "urls": [
-        {
-          "sign": "e5004a01d1ddd27f10788883637ade38f4de3c9263e7de19ac0b39eeec6ca420",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi lopettaa ulkoministeriön tietovuotoon liittyvän esitutkinnan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-03-31T12:57:42+03:00",
-      "urls": [
-        {
-          "sign": "2e82591b7c4e82632edd4d2fa611579b7ec24db4e76868c99f3531f12ccdb3a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sensofusion osti Atol Aviationin – aikoo käyttää sen lentokoneita droonintorjuntaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-31T12:59:27+03:00",
@@ -2505,21 +2475,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-31T21:23:38+03:00",
-      "urls": [
-        {
-          "sign": "42eab8859e16e51b8b95095de7a321d5999b215b88385755c93488f2fea6decb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin pelastuslaitos sammutti ajoneuvon syttämän tulipalon kerrostalon pihalla – alun perin luokiteltiin suureksi rakennuspaloksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-03-31T21:44:05+03:00",
@@ -5230,6 +5185,51 @@
         }
       ],
       "title": "Pelicansin talousongelmat ja oikeusjuttu Lätkäpodin jaksossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-01T13:25:44+03:00",
+      "urls": [
+        {
+          "sign": "5ecd2c06ce6c8cb7fe7b043997cd7e86fefb2203cd18cdbee1adbb145a693053",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin pörssi nousi 1,9 % – Euroopassa osakkeet vahvistuvat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-01T13:21:13+03:00",
+      "urls": [
+        {
+          "sign": "3498f98fe0674aa65c63d5fabd75dafef692342bb81f42cbf82a583122573d34",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rovaniemen miekkaiskussa syyttäjä ei syyttele uhria, kolme muuta syytettyä odottavat oikeudenkäyntiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-01T13:25:42+03:00",
+      "urls": [
+        {
+          "sign": "3f19e20f5b5ecf63192be8dfbdea76e8b265ce8b30122db19d092d1d0151d37a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sota‑asiantuntija varoittaa droonien mahdollisesta vahingosta Suomessa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
