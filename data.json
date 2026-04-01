@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-01T16:44:30Z",
+  "updated": "2026-04-01T19:56:13+03:00",
   "entries": [
     {
       "updated": "2026-03-12T07:36:06Z",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-03-31T19:02:06+03:00",
-      "urls": [
-        {
-          "sign": "576f6fb82f1857c6d536448501a59765ec5eab8b236e66673889dc081805b9fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ja Rajavartiolaitos löysivät pudonneiden droonien osia maastosta ja jäältä Luumäellä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-03-31T19:11:38+03:00",
@@ -1969,21 +1954,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-01T08:24:44+03:00",
-      "urls": [
-        {
-          "sign": "04f5b69dac8cf0a53aaa7d89ac6d98ae20ece0c4906e1a25297cbcf64f808f08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ja Rajavartiolaitos rajoittavat Parikkalan aluetta tuntemattoman ulkomaalaisen droonin takia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-01T08:19:39+03:00",
       "urls": [
         {
@@ -2012,36 +1982,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-01T08:30:18+03:00",
-      "urls": [
-        {
-          "sign": "cff2640265ca0bd2d60abc23253a391b5e09f133be0f81198bbada9bd79dc26b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jalkapallon MM-kisat 2026: Kaikki 48 osallistujamaata ja peliaikataulu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-01T08:31:42+03:00",
-      "urls": [
-        {
-          "sign": "6af453ff1a03e5ff9dd454e545d9d308b6312d7781c5230acb7ee04029c5186b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kape tutkii pariskunnan puutteellista ravitsemusta televisiossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-01T08:54:35+03:00",
@@ -5235,6 +5175,64 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-01T16:50:51Z",
+      "urls": [
+        {
+          "sign": "acf210fc465a4fe20e25ed6b3063ab733477c9762805bf35bc15acb351df72f5",
+          "labels": []
+        }
+      ],
+      "title": "Vuokranantajien lakiasiainjohtaja varoittaa asuntosijoittajia syyskuussa voimaan tulevista lainmuutoksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-01T19:50:34+03:00",
+      "urls": [
+        {
+          "sign": "3283ce92cd9a84c99ebadb93cb1efac8ffaa7a7e714ac53ea458a3abbd497cb0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Renny Harlin muistelee podcastissa köyhästä aloituksesta Los Angelesissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-01T19:56:13+03:00",
+      "urls": [
+        {
+          "sign": "64489dae40cc6c5c8c68aaf7d812fdd294feb16ba57eeaee1f33ac0ca68a7ff2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nato-asiantuntija: Trumpin Nato‑uhkailut tähtäävät Euroopan liittolaisten kääntämiseen Iranin sodan kontekstissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-01T19:48:13+03:00",
+      "urls": [
+        {
+          "sign": "154b94ab3278692ae592c93170d777fb8be3bf125b37946b0f670f5899077d59",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump uhkaa vetää Yhdysvallat pois Natosta, mikä herättää Euroopan huolen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
