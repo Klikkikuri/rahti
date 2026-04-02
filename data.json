@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-02T21:59:08+03:00",
+  "updated": "2026-04-02T22:12:47+03:00",
   "entries": [
     {
       "updated": "2026-03-14T16:55:54Z",
@@ -1654,21 +1654,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-02T10:14:34+03:00",
-      "urls": [
-        {
-          "sign": "28df30087328dc4b1ac2e07c478b663f6e9d112d2eb54532ee752e8bc300f1da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ville Haapasalo muuttaa Georgiaan, vaikka maan ihmisoikeustilanne on heikentynyt",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-02T10:06:47+03:00",
       "urls": [
         {
@@ -1727,36 +1712,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-02T10:18:51+03:00",
-      "urls": [
-        {
-          "sign": "497bc540d8050729f9c6a0fb177a35dd6f5a682b6ca68266c581ec8107f0cd81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seksuaalirikollinen epäilty Christian Brückner muutti alakoulun viereen ja lähti Pohjois‑Saksasta mielenosoitusten jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-02T07:37:36Z",
-      "urls": [
-        {
-          "sign": "5dfeb2a3505759e72fea0192f4eccfde8da7be00d95093d2c3d2f85be80cac4e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Parikkalan kunnanjohtaja: toinen drooni ei aiheuta paniikkia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-02T10:15:30+03:00",
@@ -1847,21 +1802,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-02T10:31:28+03:00",
-      "urls": [
-        {
-          "sign": "7918820c70a783615043b960f284278ddea236c9803c60aaf7c2a0e468ad4bdd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SM‑liigan puolivälierien analyysi: mahdollinen sensaatio‑ottelu lähestyy",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-02T10:32:52+03:00",
@@ -5211,6 +5151,66 @@
       ],
       "title": "Cameron Wright loukkaantui taklauksessa – Tapparan Blichfeld kommentoi tapahtunutta",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-02T22:12:47+03:00",
+      "urls": [
+        {
+          "sign": "216d3e105b9dc93530d50bf431adc04beada1da6a06fa151919de0d1097439da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Myrttinen lanseeraa suolakurkun makuista energiajuomaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-02T22:02:27+03:00",
+      "urls": [
+        {
+          "sign": "78b0465f294fa652af94efffdff39edaf366771653cb38dacfe6666123d1bbed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin käräjäoikeus tuomitsi 30‑vuotiaan miehen kahdeksi vuodeksi raiskauksesta 17‑vuotiaalle Citycenterin wc:ssä",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-02T22:06:50+03:00",
+      "urls": [
+        {
+          "sign": "8d90048f72ecc941f57a302908a42123d8181ca8e62913e3c59305931001f91b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen 15‑vuotias voimistelija sai kritiikkiä, kun hän kääntyi pois Ukrainan lipusta palkintoseremoniassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-02T22:08:12+03:00",
+      "urls": [
+        {
+          "sign": "242636b3c8146093e053277ab71a9e028b786d2d7164f908162e9be33b052ef0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miehet kertovat piilotetuista seksuaalisista mieltymyksistään",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
