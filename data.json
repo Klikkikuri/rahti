@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-03T09:44:39+03:00",
+  "updated": "2026-04-03T09:46:28+03:00",
   "entries": [
     {
       "updated": "2026-03-14T16:55:54Z",
@@ -767,21 +767,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-02T07:25:01+03:00",
-      "urls": [
-        {
-          "sign": "0eaa890ed24ea8822496d5e40b6029bb99a224f31c2ad6935f6664aee9caae07",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kolme ukrainalaista droonia löydetty Suomessa – poliisi tutkii tapahtumaketjua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-02T07:15:00+03:00",
@@ -5205,6 +5190,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-03T09:46:28+03:00",
+      "urls": [
+        {
+          "sign": "2731afeb8a4a8d5d8d89dbc58de4ab8d67bf7bb5620b3bcb048048fc2479967f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kenraali Min Aung Hlaing valittiin Myanmarin presidentiksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
