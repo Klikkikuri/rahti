@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-03T07:03:00+03:00",
+  "updated": "2026-04-03T07:22:58+03:00",
   "entries": [
     {
       "updated": "2026-03-14T16:55:54Z",
@@ -677,21 +677,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-02T05:55:20+03:00",
-      "urls": [
-        {
-          "sign": "33f4c2634ede79aeafaf73322099197626f99d565b006a22f0a222a420b7f9ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heinolan kierrätystehtaalla palo sammutettu, savu ei enää vaarallista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-02T07:39:20+03:00",
@@ -2042,21 +2027,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-02T13:01:51+03:00",
-      "urls": [
-        {
-          "sign": "2fa1a8c376d4f6671e53a8d683100f9c907e57c5d167a5184f46c32b04e4fc8a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donut Labin aprillivideo herättää luottamuskriisin ja viestinnän eettisen kritiikin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-02T13:15:33+03:00",
@@ -5205,6 +5175,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-02T21:02:51+03:00",
+      "urls": [
+        {
+          "sign": "67c1e4fc5b55d81a7d9e280bb4e7a6fc39cd67cca5a60b1659ae841b3ce0ed50",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomessa kasvava piilotettu seksitauti voi vahingoittaa kehoa ja aivoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-03T07:22:58+03:00",
+      "urls": [
+        {
+          "sign": "7868abb95c338d21879f2245dc9ab14c288542439adb1902d3d39d8a0b3bed9f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Geneven suomalaiset voittivat Sveitsin liigassa välierän, Puljujärvi teki voittomaalin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
