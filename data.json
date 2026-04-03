@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-03T05:28:31+03:00",
+  "updated": "2026-04-03T05:35:00+03:00",
   "entries": [
     {
       "updated": "2026-03-14T16:55:54Z",
@@ -739,21 +739,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-04-01T21:00:00+03:00",
-      "urls": [
-        {
-          "sign": "15064d91fe06296916e8d35455b2b5d2d594247527215e369746849ba6422eb8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Timo Kahilainen liittyy Myyrä‑kilpailuun ensimmäistä kertaa ja selittää, miksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-04-01T22:19:14+03:00",
       "urls": [
         {
@@ -857,21 +842,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-02T05:30:35+03:00",
-      "urls": [
-        {
-          "sign": "db78fa604078cc2b0ad1d7a94d8de4ee71630e576a0045b0d8ed333f59be41b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maksuhäiriöt valtion takauksissa kaksinkertaistuvat, takausvastuut yli 20 miljardia euroa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-02T05:30:00+03:00",
@@ -5205,6 +5175,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-03T05:35:00+03:00",
+      "urls": [
+        {
+          "sign": "be580b5ce1494c39020915cd5ae26ecd86ff5231aa0acf696cf2c76c6d5cf13c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ampui hyökkäävän koiran Raisiossa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-03T05:30:35+03:00",
+      "urls": [
+        {
+          "sign": "b935f90b451029b9fff2a6994a55d49c90ad05b6b677e84505ec577486ccfd95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen puolustusvoimat seurasi kahden ukrainalaisen droonin kulkua ilman, että viranomaiset tiedottivat yleisölle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
