@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-03T15:28:52+03:00",
+  "updated": "2026-04-03T15:44:57+03:00",
   "entries": [
     {
       "updated": "2026-03-14T16:55:54Z",
@@ -754,21 +754,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-02T10:25:57+03:00",
-      "urls": [
-        {
-          "sign": "5ea96c14bc7ddc116bf45331c6a796ade904a9c0bb521e0d0bbead797a37c0ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomussalmen kirjasto keskeyttää alle 15‑vuotiaiden omatoimikäytön syyskuun loppuun häiriökäyttäytymisen takia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-04-02T10:26:44+03:00",
       "urls": [
         {
@@ -812,36 +797,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-02T10:29:23+03:00",
-      "urls": [
-        {
-          "sign": "bd2c597dec08c069bfc8c7b545c69e0e3297600afff1d3c5756ed9eab22fa876",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Koripalloliitto poistaa jatkosarjat, laajentaa pudotuspelit kymmenelle parhaalle joukkueelle kaudella 2026‑27",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-02T10:31:56+03:00",
-      "urls": [
-        {
-          "sign": "c4299ac4bafdd095daf6318457268e60a90a1b53099e4af90c0aeb0400b29745",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "James McAvoy ja muut näyttelijät kertovat seksikohtauksissa koetuista kipuista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-02T10:38:46+03:00",
@@ -2612,21 +2567,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-02T20:15:59+03:00",
-      "urls": [
-        {
-          "sign": "df6ecf15f1971d443798590c0cf595fb0ce2d0abdf59ba9ac5f41b66b7d61585",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehonkielitexpertin mukaan Marinin ja Orpon kädet kertovat erilaisesta viestintätyylistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-02T20:24:00+03:00",
@@ -5205,6 +5145,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-03T15:44:57+03:00",
+      "urls": [
+        {
+          "sign": "3814557e0522c2ec0ce0736ba6dd2a94680ad67a813080ede8240797b4b9c58b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump ilmoitti Vancen johtavan uutta petostentorjuntatyöryhmää",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-03T15:41:06+03:00",
+      "urls": [
+        {
+          "sign": "78e97d334869f5e840328a1fdbe2d39b5e44170d49a46e0db484e4b3e6f130d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän ilmaraketti-isku Ukrainaan aiheutti kuolemia ja sähkökatkoksia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-03T15:33:25+03:00",
+      "urls": [
+        {
+          "sign": "3e27ccd25433e7d72ccab0f754678a5045a2ece98fc9fa49717e71c90512e81f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat kritisoivat sisäministeriön viivästystä EU-hälytysjärjestelmän käyttöönotossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-03T15:26:50+03:00",
+      "urls": [
+        {
+          "sign": "7ee690eec9e2e9eb30f5c08aa6bfe5bac340a358047ff8d89fa51669a44997c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HIFK:n joukkue menettää 16 pelaajaa kauden jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
