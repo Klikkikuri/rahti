@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-04T06:45:00+03:00",
+  "updated": "2026-04-04T06:45:35+03:00",
   "entries": [
     {
       "updated": "2026-03-14T16:55:54Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-02T12:53:12+03:00",
-      "urls": [
-        {
-          "sign": "a700bf1593d98d9a703e2bbd831b1d50d81fd1df5ae20d20a51467f39b288b9f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Porvoon Huhtisen koulun väkivaltatapauksen kahtena törkeänä pahoinpitelynä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-02T13:08:13+03:00",
@@ -5213,6 +5198,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-04T06:45:35+03:00",
+      "urls": [
+        {
+          "sign": "c1e8d09a1a31af28a4e9306c80d72e03174000e143aa038da7ed1ceb8d63f3af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kriittisen datan turvaaminen vaatii monipuolista riskienhallintaa, ei yhtä täydellistä ratkaisua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
