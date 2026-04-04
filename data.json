@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-04T05:30:35+03:00",
+  "updated": "2026-04-04T06:00:25+03:00",
   "entries": [
     {
       "updated": "2026-03-14T16:55:54Z",
@@ -917,21 +917,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-02T15:05:07+03:00",
-      "urls": [
-        {
-          "sign": "df373a593b2bfd31a2a56dad52a6db3a86e519174024a1ee326fa8f888f25fbd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV sai Veteraaniperinteen vaalija -kilven Tammenlehvän Perinneliitolta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-02T15:08:48+03:00",
@@ -2539,21 +2524,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-03T10:06:29+03:00",
-      "urls": [
-        {
-          "sign": "e57568683f54a001dda892e293e3b063deab488aebb26952cdf8659b07c28ff3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kampaaja Jenni Muhonen: Asiakkaat vaativat nyt iho‑ ja hiuspohjaystävällisiä, vegaanisia hiusvärejä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-03T09:43:27Z",
       "urls": [
         {
@@ -2627,21 +2597,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-03T10:25:31+03:00",
-      "urls": [
-        {
-          "sign": "01e48734e39665ce3ef2f3a282aa1b886ac0673ea13836b4aced9efb269abd6a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "50‑vuotias mies kuoli tulvaveden alla Ateenan lähellä Kreikassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-03T10:44:54+03:00",
@@ -5209,6 +5164,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-04T06:00:25+03:00",
+      "urls": [
+        {
+          "sign": "77adf5e26986b660b6e0725f7bc1e0750067284d6e3bd0a974debcc9d3d13129",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Traficom varoittaa: vanhoja veneitä on poistettu rekisteristä, tarkista tilanne ja vältä 350 € maksua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-04T06:00:00+03:00",
+      "urls": [
+        {
+          "sign": "2c6aeba6cd31df93571bb3cd7379ee0cbd41b7ede798acf02c939ce68400a8db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Juha Peltola auttaa katoamisten perheitä omien kokemustensa pohjalta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-04T03:00:19Z",
+      "urls": [
+        {
+          "sign": "42f88112d4bad112912bd096092f6c964d18e4f740e912f911e59415be76f12f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "89f18b387b9de0634ebf72aca68509c0ee154660dddc84a9a2b088dd20f7d4ed",
+          "labels": []
+        }
+      ],
+      "title": "Pääekonomisti kertoo, miten ruotsalainen asuntolainojen sijoitusstrategia voi nopeuttaa varallisuuden kasvua Suomessa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
