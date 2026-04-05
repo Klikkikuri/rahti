@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-05T15:44:55+03:00",
+  "updated": "2026-04-05T15:54:13+03:00",
   "entries": [
     {
       "updated": "2026-03-15T15:33:36Z",
@@ -709,7 +709,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-05T12:07:24Z",
+      "updated": "2026-04-05T12:50:55Z",
       "urls": [
         {
           "sign": "e4866b1ed72cff653e120f50f17ba1c13d91047e57a24d6e581194ff17f575be",
@@ -1217,21 +1217,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-04T07:00:00+03:00",
-      "urls": [
-        {
-          "sign": "752d53dfb2041ab64b2e582c23f45b02a697fe949f57b903f46d1e01ed61ce20",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kitchener Rangersin valmentaja Jussi Ahokas kertoo olevan valmis siirtymään NHL:ään sopimusehdollisuudessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-04T07:16:49+03:00",
@@ -2417,21 +2402,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-04T18:00:15+03:00",
-      "urls": [
-        {
-          "sign": "f88ebdf9575416428fb5a5bc44fcfa3bf9d5533a493575e044363d04031ad2ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Siivousammattilainen suosittelee kiehuvaa vettä viemäriin sokeritoukkien torjumiseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-04T18:04:13+03:00",
@@ -5187,6 +5157,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-05T15:54:13+03:00",
+      "urls": [
+        {
+          "sign": "f2dc121e0a58f1febcadce097304e8338a391ca9be421dbd0fbc17710e7a324d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii pääsiäisen aikana Lapissa tapahtuneita vasaralla tehtyjä pahoinpitelyitä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-05T12:46:34Z",
+      "urls": [
+        {
+          "sign": "e6cd345820ef357e0a553baeb1ae4d34e5ef10700a8dd40d05bf6880c6d41499",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies kuoli poliisivankilassa Jyväskylässä, tapaus tutkitaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
