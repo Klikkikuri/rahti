@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-05T22:21:39Z",
+  "updated": "2026-04-06T02:26:44+03:00",
   "entries": [
     {
       "updated": "2026-03-16T10:12:43Z",
@@ -677,21 +677,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-03T18:22:30+03:00",
-      "urls": [
-        {
-          "sign": "3c099868a04dbcf4e5afaac390f2275ead05cfa4f876e9b0a402d20eec5b78ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle‑toimittaja Sean Ricks kertoo, miten hän joutui maksamaan takaisin yli 3000 euroa opintotukea",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-03T18:36:56+03:00",
@@ -5170,6 +5155,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-06T02:26:44+03:00",
+      "urls": [
+        {
+          "sign": "a2a25f35448f41fd259fe57cc80d3695bb34a74950b5aa57db747fc8a3b5f320",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fintraffic ennustaa vilkkainta pääsiäisen paluuliikennettä maanantaina puolenpäivän jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
