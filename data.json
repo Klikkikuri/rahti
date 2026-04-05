@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-05T06:26:17+03:00",
+  "updated": "2026-04-05T06:32:10+03:00",
   "entries": [
     {
       "updated": "2026-03-15T08:26:59Z",
@@ -677,21 +677,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-02T19:56:36+03:00",
-      "urls": [
-        {
-          "sign": "a09f27b819d1b3b46a6628c76e8ecfb92c16b000b1960c574e4ca93c9aa2e49f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan poron kuolema saattoi johtua F‑35‑hävittäjän melusta, sanoo eläinlääkäri",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-02T19:57:44+03:00",
@@ -2327,21 +2312,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-04T09:39:23+03:00",
-      "urls": [
-        {
-          "sign": "12ef75424d6a9d3077b16f61e5c26d11f16bf15c0778933dc6877dd37c3618be",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset suunnittelevat juomien ostamista Virosta ja Ruotsista veron nousun jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-04T09:35:54+03:00",
@@ -5196,6 +5166,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-05T06:32:10+03:00",
+      "urls": [
+        {
+          "sign": "47155e8dc9b6902291263c69b4f857d502e5c48c53f1de5bc9be34ddd12b347c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Drone-hyökkäykset vahingoittivat Kuwaitin voima- ja vesilaitoksia; Iran syyttää Yhdysvaltoja ja Israelia sotarikoksista ja torjuu Trumpin uhkan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-05T06:30:10+03:00",
+      "urls": [
+        {
+          "sign": "b4328298bc36c5aa88df41491cd359ac55a05017532c031493b16a2c94bef6bf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Noora Louhimo hurmaa tuomarit ja yleisön Tähdet, tähdet -kilpailussa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
