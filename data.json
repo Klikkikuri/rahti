@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-06T00:01:26+03:00",
+  "updated": "2026-04-06T01:02:08+03:00",
   "entries": [
     {
       "updated": "2026-03-16T10:12:43Z",
@@ -2584,21 +2584,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-05T08:54:48+03:00",
-      "urls": [
-        {
-          "sign": "9c12324fe8d96b127c4e041d4a3e6e3b6aa66cdf4929161803c54c9d32db3960",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Peter Nyman siirtyi TV‑ankkurista omaan viestintäyritykseen ja nauttii joustavasta työstä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-05T08:57:00+03:00",
       "urls": [
         {
@@ -5170,6 +5155,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-06T01:02:08+03:00",
+      "urls": [
+        {
+          "sign": "f775f230c421fd0859284fa5521fc2084f5bd6ebfb1f822539452e8546df4f10",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harm’s Way -yhtyeen kitaristi Bo Lueders (38) on kuollut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
