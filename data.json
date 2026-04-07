@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-08T01:25:42+03:00",
+  "updated": "2026-04-08T01:33:40+03:00",
   "entries": [
     {
       "updated": "2026-03-18T11:00:56Z",
@@ -557,21 +557,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-06T10:28:05+03:00",
-      "urls": [
-        {
-          "sign": "ffee4cb0e5ec27372a91880b9394bdd93d5079797170fe6d31edb80c31acf91b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dave-myrsky jätti Ruotsissa kymmenet tuhannet kotitaloudet ilman sähköä ja häiritsi junaliikennettä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-06T10:57:00+03:00",
@@ -5115,6 +5100,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-08T01:33:40+03:00",
+      "urls": [
+        {
+          "sign": "b62aa8e307a073a646554ee30695cb29f12a69a5461ece55a91a45dc9ea619c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansainvälinen romanipäivä vietetään 8. huhtikuuta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
