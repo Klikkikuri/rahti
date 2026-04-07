@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-07T05:00:02+03:00",
+  "updated": "2026-04-07T05:20:25+03:00",
   "entries": [
     {
       "updated": "2026-03-17T04:00:29Z",
@@ -1112,21 +1112,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-05T09:23:17+03:00",
-      "urls": [
-        {
-          "sign": "c159b73c2880890f1c615c3a18f8558a58fe4538d6d5ca03962afb75477cff36",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi löysi kadonneen 17‑vuotiaan Tampereelta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-05T09:19:07+03:00",
@@ -2571,21 +2556,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-06T09:15:46+03:00",
-      "urls": [
-        {
-          "sign": "c0963acbfcf217d675bcf2fde2a80292d94f1d6147ced33dc45251a5de2c3d26",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satu Takamaa voitti Vantaan Fitness Classicin ja hänen Instagram‑pakarakuvaan kohdistui valtava huomiota",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-06T09:38:55+03:00",
@@ -5125,6 +5095,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-07T05:20:25+03:00",
+      "urls": [
+        {
+          "sign": "547068278629983cea191bab41d333faf75c49e7106b51b57390bb890a21e586",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump ehdottaa 5,6 miljardia dollaria NASA‑budjetin leikkausta Artemis‑II‑lennon aikana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-07T05:20:00+03:00",
+      "urls": [
+        {
+          "sign": "eb1b7e2a5cd17cf21dc1326c1a09615f3dcab3b29e3f133cfa867318d5d2d9b9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eimi Vainiomäki muistelee 1970‑luvun Pohjois‑Korean elämää ja keittiöapulaisen katoamista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
