@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-07T22:58:36+03:00",
+  "updated": "2026-04-07T23:05:23+03:00",
   "entries": [
     {
       "updated": "2026-03-18T11:00:56Z",
@@ -632,21 +632,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-07T07:42:11Z",
-      "urls": [
-        {
-          "sign": "a2f6f07b60746656bebdc2d2f89460d4b784abe23b7dcf1104e90497d3c94772",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NASA:n Artemis II -lento kiersi Kuun taakse, katkaisi yhteyden 40 minuuttia ja rikkoi Apollo‑13‑ennätyksen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-06T12:13:35+03:00",
@@ -5113,6 +5098,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-07T23:05:23+03:00",
+      "urls": [
+        {
+          "sign": "e09965d80ce8a218a905f1eddec392b04e59b112adf85b091b7257e5d62fe391",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksan kaupunginjohtajat ehdottavat yökäyttökieltoa robottiruohonleikkureille suojellakseen siilejä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
