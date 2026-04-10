@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-10T03:45:15+03:00",
+  "updated": "2026-04-10T04:20:55+03:00",
   "entries": [
     {
       "updated": "2026-03-21T17:52:50Z",
@@ -1757,21 +1757,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-09T11:30:30+03:00",
-      "urls": [
-        {
-          "sign": "26943fd45cf6c116dcc07b1689011a252bf9632d1ef080744f8f2bc97728d818",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kremlin harkitsee Venäjän voitonpäivän paraatin perumista ukrainalaisista pitkän kantaman hyökkäyksistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-09T11:40:06+03:00",
@@ -5188,6 +5173,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-10T04:20:55+03:00",
+      "urls": [
+        {
+          "sign": "c6b04db36c546be858e39582db271db1174adf68369bd7d53cf5eb7f884896f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Polymarketin uudet tilit ansaitsivat miljoonia vedonlyönneillä Iranin tulitauosta ennen virallista ilmoitusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
