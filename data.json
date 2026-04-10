@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-10T02:46:02+03:00",
+  "updated": "2026-04-10T03:02:47+03:00",
   "entries": [
     {
       "updated": "2026-03-21T17:52:50Z",
@@ -5100,21 +5100,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-04-08T21:34:19+03:00",
-      "urls": [
-        {
-          "sign": "c0a500f965012fcd082841010c8f801932386653f714c34be6ae762423c5efc2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "New York Times: Israelin pääministeri Netanjahu painosti Trumpia hyökkäykseen Irania vastaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-04-10T01:25:15+03:00",
       "urls": [
         {
@@ -5188,6 +5173,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-10T03:02:47+03:00",
+      "urls": [
+        {
+          "sign": "07b92ba72453d416b2d284c5818e4ff04a3ccaebb92bb8115eb0d126bbe9258e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Utsjoen pimeät yöt loppuvat – aurinko ei enää laske 12 astetta horisontin alapuolelle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
