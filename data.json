@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-11T09:43:53+03:00",
+  "updated": "2026-04-11T09:58:32+03:00",
   "entries": [
     {
       "updated": "2026-03-21T17:52:50Z",
@@ -812,21 +812,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-10T01:30:03+03:00",
-      "urls": [
-        {
-          "sign": "0b36be16f21a35ba864a82d527795ee009e9191dabea2acab7365dd744f929f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ylen puheenjohtajatentti osoitti, että puolueiden velkajarrun suunnitelmat eivät riitä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-10T02:06:15+03:00",
@@ -2340,21 +2325,6 @@
       ],
       "title": "SDP‑puheenjohtaja Lindtman kritisoi hallituksen ydinasepolitiikan lausetta – se ei riitä",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-10T15:34:16+03:00",
-      "urls": [
-        {
-          "sign": "cab58f65d87def3360ca4827c49d26f27293a7583debb4f7fca69eaac3968dc8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maria Veitola sai tekonivelleikkaus ja pohti ikäkrisiä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5190,6 +5160,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-11T09:55:15+03:00",
+      "urls": [
+        {
+          "sign": "8c54db5079ab35b92a9e3e0341f9212cda90a1fcd720c08e86c5d5891b96de82",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anthropicin Claude Mythos -malli löytää tuhansia kriittisiä haavoittuvuuksia, mutta sitä ei julkaista yleisölle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-11T09:58:32+03:00",
+      "urls": [
+        {
+          "sign": "36572d9ab8eafb981aa41437a8e981b84b6dc9aa1faca5b07af9d6e738c7ac80",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "VPS–Jaron derbyssä kannattajat sytyttivät kiellettyjä soihtuja ja tappelivat, poliisi pidätti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
