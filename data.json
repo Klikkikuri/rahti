@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-12T21:44:58+03:00",
+  "updated": "2026-04-12T21:56:12+03:00",
   "entries": [
     {
       "updated": "2026-03-23T06:24:05Z",
@@ -1307,21 +1307,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-11T13:24:28+03:00",
-      "urls": [
-        {
-          "sign": "e6ccb2cdbb944704911a725d30445df8e27ced8d0d9f84425f148b0ca5abb4b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pankkiholvin räjäytyksessä yksi ryöstäjä sai ikkunalasin kasvoihinsa ja kaatui maahan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-12T08:20:34Z",
@@ -3835,21 +3820,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-12T08:06:49+03:00",
-      "urls": [
-        {
-          "sign": "59c226ba5c8000f7e140362d470790793af10db2fd98d2d0c0e7710c64c9a4bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tietokoneen äänen heikkous johtuu usein asetuksista – helppo korjaus",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-12T12:27:12Z",
       "urls": [
         {
@@ -5212,6 +5182,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-12T21:56:12+03:00",
+      "urls": [
+        {
+          "sign": "d1b4302bfd1b524f120e94a8241c31754d08199c07496e49380a22fcbd572435",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Silva Saarinen ja Henna Blomroos voittivat Champions Cupin frisbeegolfissa Virginiassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-12T21:51:53+03:00",
+      "urls": [
+        {
+          "sign": "af6da265779a5a7f71e7a2a519bcefd54eef81e8326bd2e7b7a36f90e2496e38",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Silva Saarinen ja Henna Blomroos voittivat frisbeegolfin major‑avauskisan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
