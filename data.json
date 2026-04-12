@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-13T02:03:22+03:00",
+  "updated": "2026-04-13T02:19:33+03:00",
   "entries": [
     {
       "updated": "2026-03-23T06:24:05Z",
@@ -677,21 +677,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-10T17:32:28+03:00",
-      "urls": [
-        {
-          "sign": "d1cb2950543e48a7f24923316907b38f728db6451f8d52d83a514b6b62accef5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Timo Soini liittyi Journalistiliittoon tukeakseen nuoria ja vastustaakseen tekoälyn liiallista käyttöä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-10T17:46:06+03:00",
@@ -3492,7 +3477,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-12T22:34:16Z",
+      "updated": "2026-04-12T23:16:48Z",
       "urls": [
         {
           "sign": "e2ab2d382362f24d4a8280375b42d8894482efc46d4b0caf230a9e468f495914",
@@ -3501,7 +3486,7 @@
           ]
         }
       ],
-      "title": "Oppositio Tisza voitti 138 paikkaa, Peter Magyar nimitetty pääministeriksi, Orbánin hallitus lopettaa",
+      "title": "Oppositio Tisza saa 138 paikkaa, Péter Magyar nimitetty pääministeriksi, Viktor Orbánin hallitus päättyy",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5216,6 +5201,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-13T02:19:33+03:00",
+      "urls": [
+        {
+          "sign": "5ebbf6e8a2f8eff8497ac381ddf73483c97f4361ab3debef3f816f4b25c76229",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oppositio voitti Unkarin parlamenttivaalit, Viktor Orbán menetti kahden kolmasosan enemmistön",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
