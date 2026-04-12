@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-12T20:59:59+03:00",
+  "updated": "2026-04-12T21:02:58+03:00",
   "entries": [
     {
       "updated": "2026-03-23T06:24:05Z",
@@ -3460,21 +3460,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-12T07:05:32+03:00",
-      "urls": [
-        {
-          "sign": "6c841b3581734d45f657ed09ab7df79c154d5ae8ba941623700fa054b2712dbb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anatoli Karpov: Venäjän huippushakki on kriisissä, mutta voi nousta maailman huipulle 3–4 vuodessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-12T08:34:00+03:00",
       "urls": [
         {
@@ -5212,6 +5197,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-12T21:02:58+03:00",
+      "urls": [
+        {
+          "sign": "0f0d3787759e554997ec12ec88624e45f4b7106319f694225b2d107cc654a2b9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Volkswagen peittää ID. Cross -prototyypin sisätilat kankaalla ennen ensikoeajoa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
