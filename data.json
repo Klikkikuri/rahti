@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-12T22:57:00+03:00",
+  "updated": "2026-04-12T23:00:09+03:00",
   "entries": [
     {
       "updated": "2026-03-23T06:24:05Z",
@@ -2526,19 +2526,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-12T06:26:43Z",
-      "urls": [
-        {
-          "sign": "20d4138e066ab2ed16e110a0bb96eef8eccb3cdf1f59b363ad6e51cded2dd78d",
-          "labels": []
-        }
-      ],
-      "title": "Trumpin NATO-kriisi voi painaa Helsingin pörssiä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-12T13:00:36+03:00",
@@ -5208,6 +5195,21 @@
       ],
       "title": "Donald Trump kehuu UFC‑ottelijaa Paulo Costaa, sanoo tämän liian hyvännäköiseksi",
       "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-12T23:00:09+03:00",
+      "urls": [
+        {
+          "sign": "eca692f607e95a1d09feeade34d1e749866fcc8233e3711a413181e6be71ddf1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan isä lukitsi 9‑vuotiaan poikansa pakettiautoon yli vuodeksi",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
