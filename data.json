@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-12T02:27:35+03:00",
+  "updated": "2026-04-12T04:25:35+03:00",
   "entries": [
     {
       "updated": "2026-03-22T16:18:19Z",
@@ -2614,19 +2614,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-11T08:06:30Z",
-      "urls": [
-        {
-          "sign": "50d24a2a772595b6f5d64813af91b90c6aedaf5730d3ea09a280234bd6dea312",
-          "labels": []
-        }
-      ],
-      "title": "Norwegianin lentokone lensi 2 metrin korkeudessa ilman ohjaajien huomiota, 172 matkustajaa mukana",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-11T10:53:32+03:00",
       "urls": [
         {
@@ -5189,6 +5176,21 @@
         }
       ],
       "title": "Oulun poliisi käynnistää laajan operaation vaativan tehtävän hoitamiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-12T04:25:35+03:00",
+      "urls": [
+        {
+          "sign": "336c7d822e280e736b13f8e4e4b567ee004f43acc1e20504cef27bf19704770f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kokemäellä alaikäinen poika jäi mönkijän alle, poliisi tutkii onnettomuutta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
