@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-13T21:28:23+03:00",
+  "updated": "2026-04-13T21:44:40+03:00",
   "entries": [
     {
       "updated": "2026-03-24T07:55:16Z",
@@ -947,21 +947,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-12T12:03:11+03:00",
-      "urls": [
-        {
-          "sign": "bd0a9864f6a5b444e295322691b14729ddb8e13501eae04a4f6c63413710c4d2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NOAA: Yhdysvaltain maaliskuun lämpötila 5,2 °C yli pitkän ajan keskiarvon, 132‑vuotinen ennätys",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-12T16:12:06+03:00",
@@ -5096,6 +5081,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-13T21:44:40+03:00",
+      "urls": [
+        {
+          "sign": "bb00423d2dedf3dd73afbe46bec589cef31555f7fe9ae7557196d525df78e4d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lufthansan matkustamohenkilökunta aloittaa kahden päivän lakon keskiviikosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
