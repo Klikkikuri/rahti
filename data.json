@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-13T09:44:38+03:00",
+  "updated": "2026-04-13T09:59:48+03:00",
   "entries": [
     {
       "updated": "2026-03-23T11:27:39Z",
@@ -1324,21 +1324,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-11T20:28:20+03:00",
-      "urls": [
-        {
-          "sign": "a55a262cc2231f66ac1aaffa8a4849e12e95d6bcd750194e61f2c24301245775",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Komissaari: Rahoituksen puute hidastaa Euroopan ja Suomen talouskasvua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-04-11T21:04:17+03:00",
       "urls": [
         {
@@ -1772,21 +1757,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-12T11:32:25Z",
-      "urls": [
-        {
-          "sign": "aeecb6acbe9faef767c8ca38733be09a69d81bfa98ae49639be4121be1c6c8d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi purki Iitin Perheniemen drooni-alueen eristyksen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-12T13:11:24+03:00",
@@ -5015,14 +4985,14 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-13T06:43:53Z",
+      "updated": "2026-04-13T06:53:18Z",
       "urls": [
         {
           "sign": "daa4fffb09a1950773b7d12de4540d34ad1fa75139b2beb4f396908498d2d779",
           "labels": []
         }
       ],
-      "title": "Talousaamu: Unkarin vaalituloksen vaikutukset, Lähi-idän kriisi ja kiinteistöalan työvoimapula – klo 9.30",
+      "title": "Talousaamu käsittelee Unkarin vaalitulosta, Lähi‑idän kriisiä ja kiinteistöalan työvoimapulaa klo 9.30",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5176,6 +5146,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-13T09:59:48+03:00",
+      "urls": [
+        {
+          "sign": "ecb8f93933d59362eb51b289cb33b8e0946a657f1dfeeb6bd8352f9824025cd8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Niklas Anttila voitti suomalaismiehen ensimmäisen major‑kilpailun frisbeegolfissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-13T09:49:53+03:00",
+      "urls": [
+        {
+          "sign": "4e7142aad15bcadbab40e4ca13bfcde8ef3e67aec47713ace3a28c6f3c2593e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pekka Pouta varoittaa suurista kevään päivän‑yötilan lämpötilavaihteluista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
