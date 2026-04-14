@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-15T02:18:39+03:00",
+  "updated": "2026-04-15T02:41:07+03:00",
   "entries": [
     {
       "updated": "2026-03-25T06:45:24Z",
@@ -3709,19 +3709,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-14T09:09:09Z",
-      "urls": [
-        {
-          "sign": "3d2670197f144d1b6a458bb45a4995ac3f4e031df52fd2c3086d30ac7e8ef3ec",
-          "labels": []
-        }
-      ],
-      "title": "Mark Anthony Group osti The Finnish Long Drinkin 275 miljoonan euron kauppahinnalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-14T06:06:28+03:00",
       "urls": [
         {
@@ -5094,6 +5081,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-15T02:41:07+03:00",
+      "urls": [
+        {
+          "sign": "b3272f828f255d6f002bf062389b82f832aa62371b3efd590fd2289204c6263c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turkin presidentti uhkaa Israelia sotilaallisesti, Israelin ministeri syyttää Turkkia tekopyhyydestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
