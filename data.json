@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-15T20:34:46Z",
+  "updated": "2026-04-15T20:47:32Z",
   "entries": [
     {
       "updated": "2026-03-26T07:07:52Z",
@@ -2057,19 +2057,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-15T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1697b23696b22f742585119e67b8b0f423c77c3731ee4aff9ecd476541c9f636",
-          "labels": []
-        }
-      ],
-      "title": "Uusi Rusta avattiin Helsingin Kaisaniemeen, eikä jonoa muodostunut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-15T12:06:46+03:00",
@@ -5096,6 +5083,21 @@
         }
       ],
       "title": "Rehtori Kirk Moore taklasi Pauls Valleyn koulussa aseistautuneen miehen, joka uhkasi oppilaita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-15T20:47:32Z",
+      "urls": [
+        {
+          "sign": "39656a9e463d884d1ee5e2f09596795329094b26cf2ad8480203dcc888168f78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi kertoo, että identiteettivarkauden sakkomaksimi rajoittaa somehuijauksiin puuttumista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
