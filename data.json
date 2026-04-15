@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-15T21:42:30+03:00",
+  "updated": "2026-04-15T21:52:58+03:00",
   "entries": [
     {
       "updated": "2026-03-26T07:07:52Z",
@@ -677,21 +677,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-14T19:53:52+03:00",
-      "urls": [
-        {
-          "sign": "e6872ea40ca5f6dc1f68c237a3efb3db6d733d5b274a7c739c78c2cef549e351",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset MEPit kiittävät Unkarin vaalivoittoa ja odottavat EU-tukien palautumista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-14T19:45:00+03:00",
@@ -5103,6 +5088,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-15T21:52:58+03:00",
+      "urls": [
+        {
+          "sign": "60bee0d6961fa3c73861ec42e51cbdd6b2c49391fa804802285e504594e4f33c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Joutsen törmäsi voimalinjaan ja sytytti maastopalon Haapaveden Pirnestiällä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
