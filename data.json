@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-17T00:51:14+03:00",
+  "updated": "2026-04-17T02:10:50+03:00",
   "entries": [
     {
       "updated": "2026-03-27T06:57:21Z",
@@ -1037,21 +1037,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-16T06:22:56+03:00",
-      "urls": [
-        {
-          "sign": "8739b8a8f9fccc8a51f5393eedf56840991da335a25616ce809673f298badbdd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orbánin hallinto pyrkii tuhoamaan todisteita Venäjän kanssa tehdystä yhteistyöstä ja muokkaamaan valtion omaisuutta ennen vallanvaihtoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-16T06:15:00+03:00",
@@ -2121,21 +2106,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-16T13:03:33+03:00",
-      "urls": [
-        {
-          "sign": "b41fde17b77b1f71e7f109f9d7cf83feadcfd23741fef42296ab927a20a5728e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prinssi Harry puhuu Diana‑äidin kuolemasta ja kuninkaallisuuden vaikutuksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-16T13:09:04+03:00",
@@ -5090,6 +5060,34 @@
         }
       ],
       "title": "Poliisi etsii 82‑vuotiasta miestä Vantaalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-16T22:30:00+03:00",
+      "urls": [
+        {
+          "sign": "33212cbb41c8c4d3a355741b9d8c74b072776ea201bbca387d534e384ec8dc87",
+          "labels": []
+        }
+      ],
+      "title": "Vuosaaressa huolestuttava nuorten tyttöjen aggressiivinen käyttäytyminen",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-17T02:10:50+03:00",
+      "urls": [
+        {
+          "sign": "bc1c5a30a3a6d6a0bde67c6d7849c22e3eb67d08cf7355ffd1b60856a823870d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wall Streetin pörssit sulkeutuivat nousuun",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
