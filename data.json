@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-17T20:43:14+03:00",
+  "updated": "2026-04-17T20:59:44+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -1729,21 +1729,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-17T09:55:51+03:00",
-      "urls": [
-        {
-          "sign": "424779515fca2ee9ec5c3c891edbab7548dd4c70cb3271e236cb7e725a27468f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeri Mari Rantanen selitti, mitä hän tarkoitti \"pilipalikursseilla\" kotoutumiskeskustelussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-17T07:00:03Z",
       "urls": [
         {
@@ -1787,21 +1772,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-17T09:52:10+03:00",
-      "urls": [
-        {
-          "sign": "70d265fed2acea1365c8c65652fc5356b14a46229e699ef8d0d49983e76d49db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "YIT lopettaa 95 työtehtävää ja perustaa datakeskusdivisioonan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-17T10:13:31+03:00",
@@ -5063,6 +5033,34 @@
         }
       ],
       "title": "Taksinkuljettaja ei huomannut miehen jääneen auton alle – oikeus hylkäsi syytteen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-17T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e370467d1f7e70d56e5e4680c7fbcd48ded5df04d3cdbf2513b0e2d7251921a7",
+          "labels": []
+        }
+      ],
+      "title": "Elefantti kantoi kuollutta poikaa yli kaksi kuukautta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-17T20:59:44+03:00",
+      "urls": [
+        {
+          "sign": "d3ac2e61d571a03eb7b6a6930f2838b3a9d85f9701139d643e34c92bb8638948",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KooKoon maalivahti Randelin pelasti joukkueen kriittisissä pudotuspeleissä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
