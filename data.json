@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-18T00:37:04+03:00",
+  "updated": "2026-04-18T00:56:08+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -587,21 +587,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-16T18:48:47+03:00",
-      "urls": [
-        {
-          "sign": "b8b9d1931543bf996300fd380c6612042422e548d92ea9818f2479415115e2dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aili Järvelä ja Joel Järventausta voittivat 40 000 euron Teosto-palkinnon",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-16T19:02:09+03:00",
@@ -5068,6 +5053,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-18T00:56:08+03:00",
+      "urls": [
+        {
+          "sign": "825401bca82ceec257fba6094fcc7d0ee3b00b188a75ad44229345b9bb19dd88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "New Yorkin pörssit sulkeutuivat ennätyskorkeisiin: S&P 500 +1,2 %, Nasdaq +1,5 %, Dow Jones +1,8 %",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
