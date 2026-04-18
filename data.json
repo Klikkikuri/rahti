@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-18T18:08:53Z",
+  "updated": "2026-04-18T21:25:04+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -184,7 +184,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-04-18T20:03:22+03:00",
+      "updated": "2026-04-18T21:16:21+03:00",
       "urls": [
         {
           "sign": "523b37857671a10717643793453a010ffda6a01a6379ee2c18be85d06e095620",
@@ -193,7 +193,7 @@
           ]
         }
       ],
-      "title": "Ranskalainen UNIFIL‑sotilas kuoli Libanonissa, Iran väittää hallitsevansa Hormuzinsalmen ja uhkaa ampua kulkevia öljytankkereita",
+      "title": "Ranskalainen UNIFIL‑sotilas kuoli Libanonissa, Iran uhkaa sulkea Hormuzinsalmen ja ampua aluksia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -587,21 +587,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-17T10:57:29+03:00",
-      "urls": [
-        {
-          "sign": "fe90fe2782b7b3f086c4348415b4f7c125dbaab0210e0b261be371f30d9b74f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Virolaisyrittäjät, jotka polkeivat ukrainalaisten työehtoja, palaavat Meyer Turun telakalle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-17T11:04:55+03:00",
@@ -2179,19 +2164,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-18T07:00:00+03:00",
-      "urls": [
-        {
-          "sign": "e2e34f4ee8851b0bb85a62eed7a243aa64e9e30e08f0cc5fd202f75094edacd5",
-          "labels": []
-        }
-      ],
-      "title": "Poliittinen keskustelu: Pohjoisen rataa kannattaa korostaa Länsiradan sijaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-18T07:00:35+03:00",
       "urls": [
         {
@@ -2205,21 +2177,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-18T07:01:09+03:00",
-      "urls": [
-        {
-          "sign": "e8d0c719e39cd6a0da6fb3789573c6eeb35832be83ef3745edb1cbb388f40576",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Republikaanit varoittavat Trumpin toiminnan heikentävän välivaalivoittoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-18T07:12:00+03:00",
@@ -5068,6 +5025,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-18T21:25:04+03:00",
+      "urls": [
+        {
+          "sign": "ea6541746ca8bddb0553e2a713482b5d09a54d1c0118d163ea0b795f83059bec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Salvini ja Wilders varoittivat \"siirtolaistsunamista\" Milanossa Euroopan patrioottien mielenosoituksessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-18T21:17:18+03:00",
+      "urls": [
+        {
+          "sign": "85abc89b3fce28d666a977dad97a76ed29d9e40aa37e200cae47cfd18e3a3b0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KooKoo voitti 5‑3 vaikka sai 62 minuuttia jäähyjä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-18T21:18:46+03:00",
+      "urls": [
+        {
+          "sign": "df3e04c46f3c04a9ed16db1d31245419d9453fe87f84e296faf608b17825a9d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lukašenka kritisoi Trumpia ja länsimaisia presidenttikausia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
