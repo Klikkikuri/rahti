@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-19T00:05:41+03:00",
+  "updated": "2026-04-19T00:29:01+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -3773,19 +3773,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-04-18T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "aa85352d387a911dd5a7923e0f4a95a2561ef31a5dbaf5d0a93474df9194cce8",
-          "labels": []
-        }
-      ],
-      "title": "Video: Oravan elävä kuljetus pihassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-18T17:06:47+03:00",
       "urls": [
         {
@@ -5068,6 +5055,21 @@
       ],
       "title": "16‑vuotias Timothy Hudson syytetään seksuaalisesta hyväksikäytöstä ja murhasta risteilyaluksella Yhdysvalloissa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-19T00:29:01+03:00",
+      "urls": [
+        {
+          "sign": "f9bea4e3c747e25a4e7d693639a1ed0e06ae48fd427c557cec18df07a9e5f4e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalainen rap-artisti D4vd pidätetty Los Angelesissa 14‑vuotiaan tytön murhasta epäiltynä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
