@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-17T23:10:00Z",
+  "updated": "2026-04-18T03:20:18+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -587,21 +587,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-16T19:02:09+03:00",
-      "urls": [
-        {
-          "sign": "9993a353e632c252eff8fdf5824e40bc888021a429ad22301c762a04cec5849a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump ilmoittaa 10 päivän tulitauosta Israelin ja Libanonin välillä torstaina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-16T19:29:49+03:00",
@@ -5068,6 +5053,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-18T03:20:18+03:00",
+      "urls": [
+        {
+          "sign": "9df284c813d17be56181e4c0ac4c0cdb6fb84e174fb8844aaf594c5aae357fdf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat myöntää uuden tilapäisen luvan venäläisen öljyn merikauppaan 17.4.–16.5.",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
