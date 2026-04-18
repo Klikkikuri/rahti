@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-18T11:42:42+03:00",
+  "updated": "2026-04-18T11:51:52+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -917,21 +917,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-17T10:09:31+03:00",
-      "urls": [
-        {
-          "sign": "be134a6150aecf712aa0b15bebc0ea976a1b86872824ef967197dbe8ed90921d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Soste: Hallituksen sosiaaliturvaleikkaukset tuottavat vain 10 % säästöistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-17T10:12:46+03:00",
@@ -2177,21 +2162,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-17T16:51:44+03:00",
-      "urls": [
-        {
-          "sign": "0acee8d9b54503ce436d07d27985d205e19f4dffbd1c232b608abb74f6f7a912",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen pääministeri Sanna Marin juoksi 10 km 53 min 32 s – aika on selvästi keskimääräistä parempi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-17T16:48:06+03:00",
@@ -5064,6 +5034,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-18T11:51:52+03:00",
+      "urls": [
+        {
+          "sign": "fa9128443fda64137f7e62b56d652ce73316d5e71eeaafc1df69ab15b71469e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Darts-legenda Michael van Gerwen sanoo katsovansa mieluummin pornoa kuin dartsranking-sivustoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-18T11:46:32+03:00",
+      "urls": [
+        {
+          "sign": "efabfe29e469b124373e37f68b2cf2635d9834950ec3823dd98f41c3f0f8bb5d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "b3fdb9a2cb26d7c07839302998876b3b100930528bfccf9f73e6cdca3ab96c50",
+          "labels": []
+        }
+      ],
+      "title": "Aion V – Kiinalainen sähköauto, jonka 35 900 euroinen hinta tarjoaa yllättävän hyvän varustelun ja toimintamatkan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
