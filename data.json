@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-19T09:08:08+03:00",
+  "updated": "2026-04-19T09:24:47+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -587,21 +587,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-17T13:04:30+03:00",
-      "urls": [
-        {
-          "sign": "9fa4d91ddd4a7b9b8e8ba6dfb326f5b48bc07e7bf0f6dd3613b540c884d4b244",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus sai 88–63 äänin eduskunnan luottamuksen köyhyyskeskustelun jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-17T13:10:51+03:00",
@@ -1244,21 +1229,6 @@
         }
       ],
       "title": "Sandra, 14, kertoo Kieksi‑dokumentissa kiusaamisesta, väkivallasta ja perhettä koskevista valheista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-17T20:59:44+03:00",
-      "urls": [
-        {
-          "sign": "36525e6cc76b3f84ec91798c5a0de8465ffee328ac5ef101525b4f22e421a61f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KooKoo voitti SaiPan 4–2 semifinaalin avausottelussa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -2464,19 +2434,6 @@
       ],
       "title": "Antti Kaikkonen kritisoi hallituksen leikkauksia, jotka kohdistuvat heikompiosaisiin",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-18T14:39:46+03:00",
-      "urls": [
-        {
-          "sign": "7a79aca79f62ced610235c8aad69ca6758aa90c33c9bf5f0b097c3ea21ba642f",
-          "labels": []
-        }
-      ],
-      "title": "Uusi jättisilta Tungoksessa – katsaus paikan ulkonäköön",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5072,6 +5029,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-19T09:24:47+03:00",
+      "urls": [
+        {
+          "sign": "2da320a77628e9c50341a89fe2f1d5afd2a2d43fa9cb3574158d072904c579ae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Progressiivinen Bulgaria -koalition Radev johtaa vaaleja, mahdollinen käänne Venäjän suhteissa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-19T09:17:10+03:00",
+      "urls": [
+        {
+          "sign": "1259986eb18e9e371b55639a09f6101523043155758453e3a375042182d2b6a5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syke varoittaa: Saimaassa vedenkorkeus 15 cm alhaisempi kuin tavallisesti toukokuussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-19T09:17:34+03:00",
+      "urls": [
+        {
+          "sign": "530bbfbc79d2923406d37bdf9d1971554cc0f9e8144fda13d2c462d3be88c17c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS: Järvisydämen yritystarina on keksitty – perheväitteet kumottu ja talous- sekä eettiset ongelmat paljastettu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
