@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-19T03:38:51+03:00",
+  "updated": "2026-04-19T04:43:05+03:00",
   "entries": [
     {
       "updated": "2026-03-29T16:00:30Z",
@@ -2522,21 +2522,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-18T11:35:28+03:00",
-      "urls": [
-        {
-          "sign": "3776b539dd20da95cfcca4e8c84b7ec8e45fffdfa9eb3cc6f9d0c18c76d58af8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskenmenon jälkeen Sara Kazi sai sairauslomaa vasta, kun hoitajat vaativat vuotoa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-18T11:40:00+03:00",
@@ -5072,6 +5057,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-19T04:43:05+03:00",
+      "urls": [
+        {
+          "sign": "bcfad344f483aee301e7012936c064942b9ae1dfba2e1c408aaf65a96bebb7d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteenlaitoksen meteorologi Janika Takala ennustaa aurinkoista ja lämmintä kevättä koko Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
