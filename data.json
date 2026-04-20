@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-20T03:10:19+03:00",
+  "updated": "2026-04-20T03:23:18+03:00",
   "entries": [
     {
       "updated": "2026-03-30T03:30:58Z",
@@ -2554,21 +2554,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-19T10:51:42+03:00",
-      "urls": [
-        {
-          "sign": "809e72388d10af7716cd41ea7269437f4ab98dec4c9a6868e03d560e496939cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ministeri Rantanen kritisoi integraatiokursseja, asiantuntijat selittävät luonnollisen kotoutumismallin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-19T11:05:29+03:00",
       "urls": [
         {
@@ -5068,6 +5053,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-20T03:23:18+03:00",
+      "urls": [
+        {
+          "sign": "07192f0043832f6cd64af5c8ea427690e40ac13283ce53876690bfc3c16b57e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nancy Sinatra kutsui Donald Trumpin videon pyhäinhäväistykseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
