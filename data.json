@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-20T14:28:27+03:00",
+  "updated": "2026-04-20T14:41:47+03:00",
   "entries": [
     {
       "updated": "2026-03-31T06:25:25Z",
@@ -542,21 +542,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-18T16:12:40+03:00",
-      "urls": [
-        {
-          "sign": "3131bd6b18f780a99b2ef01cea74d670af7cec8c860211043c80de58503dc5a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Järvenpään pelastuslaitos sammuttaa Mikonkorven 700‑neliöisen varastorakennuksen tulipalon",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-18T16:29:09+03:00",
@@ -2235,36 +2220,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-19T21:30:12+03:00",
-      "urls": [
-        {
-          "sign": "62c9c4bf21a1d2f5d9c0722c23ce176ea452ebfc074c1fd77a412957cc46f5a7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taksikuski puukotti humalaista asiakasta Espoossa, tuomittiin törkeästä pahoinpitelystä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-19T21:40:59+03:00",
-      "urls": [
-        {
-          "sign": "1eb55af5dd3e950eedb3fbf7b80ebdd3793e254c14e9f849e8e6d86083f24fed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Manchester City voitti Arsenalin, fanien \"Paniikki Lontoossa\" -banneri heijasti jännitystä mestaruustaistelussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-19T21:54:37+03:00",
@@ -5091,6 +5046,51 @@
       ],
       "title": "Poliisi esittää useita alaikäisiä vangittavaksi useista vakavista rikoksista Seinäjoella",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-20T14:41:47+03:00",
+      "urls": [
+        {
+          "sign": "c1a567b7a438b558e538e60917d5a59034f211c3b353563e588f83f14c34d6b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois‑Savon hyvinvointialue supistaa 48 sihteeri‑ ja tekstinkäsittelijätyötä, korvaa ne tekoälypohjaisella puheentunnistuksella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-20T14:38:47+03:00",
+      "urls": [
+        {
+          "sign": "5c10f7a5e518142ada22131a3ea01438bce7dbb06c7257659e69adc985916299",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nadi Hammouda on kuvannut Miss Suomi -voittajia alastonkuvissa vuodesta 1995 vuoteen 2024",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-20T14:34:26+03:00",
+      "urls": [
+        {
+          "sign": "62e01516051fdb80e118703565bb72c4085adb447de2e097138f983a647dda7e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lindtmannin Espanja-puhe kritisoitiin – asiantuntija selittää EU-tuen ja kasvun taustat",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
