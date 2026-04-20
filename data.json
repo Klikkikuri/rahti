@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-20T03:39:32+03:00",
+  "updated": "2026-04-20T04:34:07+03:00",
   "entries": [
     {
       "updated": "2026-03-30T03:30:58Z",
@@ -2539,21 +2539,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-19T11:05:29+03:00",
-      "urls": [
-        {
-          "sign": "325e69f5be7d812671a449cc8861b3b8b1fa3bf68fb931c4c101b146da94e391",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Juha Miettinen kuoli Nürburgringin onnettomuudessa, jonka syynä oli radalle valunut öljy",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-19T11:02:30+03:00",
       "urls": [
         {
@@ -5068,6 +5053,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-20T04:34:07+03:00",
+      "urls": [
+        {
+          "sign": "2f25420b80e1d58b98fae4f9c853251bb629496b13228038fec726553905f72a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luoteisvirtaus viilentää ja tuo sateita koko maassa viikon aikana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
