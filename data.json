@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-20T05:00:18+03:00",
+  "updated": "2026-04-20T05:21:17+03:00",
   "entries": [
     {
       "updated": "2026-03-30T03:30:58Z",
@@ -154,7 +154,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-04-19T23:35:03+03:00",
+      "updated": "2026-04-20T05:13:28+03:00",
       "urls": [
         {
           "sign": "523b37857671a10717643793453a010ffda6a01a6379ee2c18be85d06e095620",
@@ -1097,21 +1097,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-18T14:29:53+03:00",
-      "urls": [
-        {
-          "sign": "8cb5b8b15ce0ac65adecdc255f67f46bdcfd287841057ad8e7213e72d20cd581",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Petter Northug sijoittui neljänneksi, ohittaen Johannes Hösflot Kläbon Kobberlöpet‑kilpailussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-18T14:42:27+03:00",
@@ -5068,6 +5053,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-20T05:21:17+03:00",
+      "urls": [
+        {
+          "sign": "aa4961ad80313446d21c0ee85e6d33414042e551fd6ec480664e14949a57f5a6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen bulgarialainen presidentti Rumen Radevinin Progressiivinen Bulgaria -koalitio voittaa 44 % äänistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
