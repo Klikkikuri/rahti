@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-20T23:19:13+03:00",
+  "updated": "2026-04-20T23:56:20+03:00",
   "entries": [
     {
       "updated": "2026-03-31T06:25:25Z",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-19T18:48:13+03:00",
-      "urls": [
-        {
-          "sign": "4835d94ce88e548ba874d589da7d6096fed37ab47baded658bed0d50ec9e9319",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sää viilenee ensi viikon puolivälissä, lämpötilat 5–10 asteeseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-19T18:57:39+03:00",
@@ -5079,6 +5064,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-20T23:56:20+03:00",
+      "urls": [
+        {
+          "sign": "a3fffaab02bcdae109505027ab126c995e4d18b7120b561169445b2501d7a61a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuuban ulkoministerin edustaja vahvisti neuvottelut Yhdysvaltojen kanssa Havannassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
