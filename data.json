@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-22T02:00:35+03:00",
+  "updated": "2026-04-22T02:31:09+03:00",
   "entries": [
     {
       "updated": "2026-04-01T09:20:34Z",
@@ -1909,21 +1909,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-21T10:02:54Z",
-      "urls": [
-        {
-          "sign": "c160463a683051615dda1e7a554cff5eaf0abace0c5befe52a2c1f541c3a59a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Teatteriohjaaja Reijo Paukku, Tampereen Popteatterin perustaja, kuollut 84‑vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-21T12:33:48+03:00",
       "urls": [
         {
@@ -2477,21 +2462,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-21T13:01:27+03:00",
-      "urls": [
-        {
-          "sign": "c96bfebed6469e74b0a5dac481902d8ba8a669f41de59a31e521c22e2d4dfa41",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sovellus mahdollistaa Apple Watchin ja Samsung Galaxy Watchin toiminnan Android- ja iOS-puhelimilla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-21T14:48:22+03:00",
@@ -5109,6 +5079,34 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-21T22:30:00+03:00",
+      "urls": [
+        {
+          "sign": "ad3ff601b2cc11dda5e3c6f6fdc3d43369f944eadab164ff8226c8c70f40337c",
+          "labels": []
+        }
+      ],
+      "title": "Puolalainen humanoidirobotti jahtasi villisikoja Varsovassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-22T02:31:09+03:00",
+      "urls": [
+        {
+          "sign": "7343a2ed2f7b254bb6d2385730b6188dad2cbf4d6d9275a3ef29001561364e48",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän lentojäljät herättävät kysymyksiä – Suomi kiistää osallisuuden",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
