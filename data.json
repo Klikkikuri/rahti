@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-23T01:52:40+03:00",
+  "updated": "2026-04-23T01:59:33+03:00",
   "entries": [
     {
       "updated": "2026-04-02T13:34:58Z",
@@ -1862,21 +1862,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-22T13:16:44+03:00",
-      "urls": [
-        {
-          "sign": "7f1c923545b0f129be6b7d6c5359de9cb738be54242bbed92f5cc73cd5385b5d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "D4VD:n syytetään murhasta ja seksuaalisesta hyväksikäytöstä Los Angelesissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-22T13:28:37+03:00",
@@ -5127,6 +5112,21 @@
         }
       ],
       "title": "The New York Times ylistää Vilma Jään Kaija Saariaho -oopperassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-23T01:59:33+03:00",
+      "urls": [
+        {
+          "sign": "a6880712af6370fbe687a293efe3845da97a1c1292de2ba6de5370018697980c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa neuvoja jokaiselle eläinradan merkille",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
