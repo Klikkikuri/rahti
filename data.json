@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-23T12:58:40+03:00",
+  "updated": "2026-04-23T13:10:26+03:00",
   "entries": [
     {
       "updated": "2026-04-02T13:34:58Z",
@@ -842,36 +842,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-22T14:28:38+03:00",
-      "urls": [
-        {
-          "sign": "09f1fb95ce69589b8ddad1110e238fee61461b4d5e7b6ab6d3f4c98f188d34cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee alle 15‑vuotiasta poikaa sytyttäneen tulipalon Vantaan Backaksen kartanon autiotalossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-22T14:27:25+03:00",
-      "urls": [
-        {
-          "sign": "a9fdfa0b85b74a8fc572617557fd20102a5bc22d496d3826e57726764b995717",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pirkanmaan hyvinvointialue epäilee entistä työntekijää törkeästä petoksesta ja viidestä identiteettivarkaudesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-22T14:32:00+03:00",
@@ -2104,21 +2074,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-22T21:25:41+03:00",
-      "urls": [
-        {
-          "sign": "b3db9319d1908caaa606075ac68739f81e055078ce942bac930a5f7942fa1296",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Milla Granlund ratkaisi TPS:n naisten F‑liigan mestaruuden",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-22T21:26:24+03:00",
       "urls": [
         {
@@ -2219,21 +2174,6 @@
         }
       ],
       "title": "Suomen hallitus ilmoitti 520 miljoonan euron leikkaukset valtionhallintoon ja muihin sektoreihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-22T21:30:55+03:00",
-      "urls": [
-        {
-          "sign": "0afb3e00a5f7dc36a9fd9f5e5390575785a2ad5b310fe7dc9837b414a62a6430",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuopion 162‑vuotias hirsirunkoinen rakennus tuhoutui tulipalossa, asukkaat pelastui",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5156,6 +5096,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-23T13:07:13+03:00",
+      "urls": [
+        {
+          "sign": "fad67b2014d1307e4e8a5dead272478fad6ef992d0b1cd5bae32235c3ddd8a30",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karolinska-instituutin tutkija lopetti hajuveden käytön ftalaattien löydön jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-23T13:10:26+03:00",
+      "urls": [
+        {
+          "sign": "9b30fdb12f4162aa7104e4dca7d02b4598f0ade01acf2d55133960aeabe93f93",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Kristersson: Iranin sota vaikuttaa Ruotsin talouteen odotettua enemmän",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-23T13:01:20+03:00",
+      "urls": [
+        {
+          "sign": "4dc1fdf82324ae73962c9dac4dc5459552ee70704404d0b12cd00d311485acb9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtiovarainministeri Riikka Purra vieraana Ykkösaamussa – lähetä kysymyksesi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-23T13:03:23+03:00",
+      "urls": [
+        {
+          "sign": "794dee341b271af644dff861ff733ad32b3724721801cb0fa23af3e021023e77",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hyundai esitteli Ioniq 3:n – tilava sähköauto, joka latautuu puolessa tunnissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
