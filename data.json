@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-23T15:58:46+03:00",
+  "updated": "2026-04-23T16:15:02+03:00",
   "entries": [
     {
       "updated": "2026-04-02T13:34:58Z",
@@ -647,21 +647,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-22T15:54:33+03:00",
-      "urls": [
-        {
-          "sign": "e1a9bd9e159bc01a34c98a576238aba2a47b11bf70e970ef76051172577f3158",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Metsokukot kamppailevat raivokkaasti – video tallentaa siiveniskut",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-22T16:09:31+03:00",
@@ -1877,36 +1862,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-23T03:27:04+03:00",
-      "urls": [
-        {
-          "sign": "0a65d909f9a93b9b2a266d748f10bc8e8e19cd27e6832d1dfb34d6804362a568",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain laivastoministeri John Phelan erosi erimielisyyksien jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-23T04:09:04+03:00",
-      "urls": [
-        {
-          "sign": "fc554784a75fb01b3c74edec71782766d4dabf54908435ab3c1b39dbe2a0eff2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Forecan ennuste: Etelässäkin voi tulla lunta, viikonlopun aikana sateita koko maassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-23T04:00:15+03:00",
@@ -4620,7 +4575,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-23T14:14:03+03:00",
+      "updated": "2026-04-23T16:01:19+03:00",
       "urls": [
         {
           "sign": "8ea8ede5d020cef19b19c30109ba72132a564a3a7c486e548f4c6db0cabcb28f",
@@ -4629,7 +4584,7 @@
           ]
         }
       ],
-      "title": "Tapparan katsojamäärä pudotuspeleissä nousi vain 60, Ossi Karvonen kritisoi",
+      "title": "Ossi Karvonen kritisoi Tapparan vain 60 katsojan nousua pudotuspeleissä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5188,6 +5143,49 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-23T13:09:30Z",
+      "urls": [
+        {
+          "sign": "f952c8c6d7800c5153b6309ac00763463a79c8c65ba2c359a56a7238c1d92bd1",
+          "labels": []
+        }
+      ],
+      "title": "Hallitus uudistaa YEL‑eläkkeen, Suomen Yrittäjät pitää sitä kohtuullisena",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-23T16:01:00+03:00",
+      "urls": [
+        {
+          "sign": "9c0c4d3cc0618deb0643bf2aac878b85145d7fedd3c169a5bdd16892e2a8941a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uusi Michael Jackson -elokuva saa ankaria arvosteluja, koska seksuaaliset hyväksikäyttösyytökset jätetään pois",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-23T16:15:02+03:00",
+      "urls": [
+        {
+          "sign": "2dd349dd4c822212d058dc74f411850a8fd48d741c9f543721b620effd5a009c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zlatan Ibrahimovic antoi Albin Ekdalille MacBook Pron ilman Å‑Ä‑Ö‑näppäimiä ja kieltäytyi korvauksesta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
