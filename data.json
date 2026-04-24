@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-25T00:53:32+03:00",
+  "updated": "2026-04-25T01:22:10+03:00",
   "entries": [
     {
       "updated": "2026-04-24T19:14:27Z",
@@ -827,21 +827,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-24T00:01:22+03:00",
-      "urls": [
-        {
-          "sign": "6d6f0e941eb5a8cdd7c1ca66ba6d7cce160850cb4ecc4e7f3db3e64569d862dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset yksityissijoittajat lisäävät osakesijoituksia heikosta taloususkosta huolimatta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-24T01:41:59+03:00",
@@ -5203,6 +5188,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-25T01:22:10+03:00",
+      "urls": [
+        {
+          "sign": "abd2708e38ee580443b22f6acf9d8f724fa6cb91a07038e9e54968867ec06c6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa kevätmyrskyn aiheuttamasta vaikeasta ajo-olosuhteesta itä- ja pohjois-Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
