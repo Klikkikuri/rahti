@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-25T02:23:13+03:00",
+  "updated": "2026-04-25T03:08:00+03:00",
   "entries": [
     {
       "updated": "2026-04-24T19:14:27Z",
@@ -1384,21 +1384,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-24T10:18:39Z",
-      "urls": [
-        {
-          "sign": "7dff1d987d673e798fa5d4b02400e902be0bb1f09f44ff782d5f4e6ea6744c2a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela ilmoitti, että häiriö on korjattu ja palvelut toimivat jälleen normaalisti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-24T21:06:34+03:00",
       "urls": [
         {
@@ -2192,21 +2177,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-24T13:04:07+03:00",
-      "urls": [
-        {
-          "sign": "47365de8ed13511d921fbfbca77cdf7e7d3ada9d4eeb29ff387c248392c3af25",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rikollispomo ohjasi 15‑vuotiaiden poikien Korson tulipaloa – pojat kertovat tapahtumista oikeudessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-24T13:12:24+03:00",
@@ -5203,6 +5173,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-25T02:30:57+03:00",
+      "urls": [
+        {
+          "sign": "5b53a4c555c74efad3cda923e3463a7e9781b828dc5e9a6b4fa49bbb4c67e183",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti tarjoaa horoskoopin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-25T03:08:00+03:00",
+      "urls": [
+        {
+          "sign": "449104c5a4b5bb47abc5e6e64f953737e0e390d18175fee0c4af116ebfaf0030",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän ulkoministeri Lavrov syyttää Yhdysvaltoja öljypolitiikasta ja kansainvälisten sääntöjen rikkomisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
