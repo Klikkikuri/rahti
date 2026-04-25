@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-26T02:24:41+03:00",
+  "updated": "2026-04-26T02:43:43+03:00",
   "entries": [
     {
       "updated": "2026-04-05T13:41:06Z",
@@ -2749,21 +2749,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-25T11:24:30+03:00",
-      "urls": [
-        {
-          "sign": "a6b3294fdf7c3e8eaec84f49308e8c82d408e1743d44cdf26b108b8aa05de793",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antti Lindtman tukee hallituksen ydinaserajoitusten poistamista – riski SDP:n kannatukselle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-25T11:36:29+03:00",
       "urls": [
         {
@@ -5180,6 +5165,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-26T02:43:43+03:00",
+      "urls": [
+        {
+          "sign": "4b0d8d8ceb1c20bed979d19d6535c0001a759df7cf108e68423eec89ac1d2115",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uudenkaupungin kalasatamassa pelastettiin veden varaan pudonnut henkilö – pelastajat ja sivulliset mukana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
