@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-26T01:22:27+03:00",
+  "updated": "2026-04-26T02:24:41+03:00",
   "entries": [
     {
       "updated": "2026-04-05T13:41:06Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-24T12:34:50+03:00",
-      "urls": [
-        {
-          "sign": "17be53a1e9ba69a39faad6939218687303e54de6ffaa4d64423b5fcdfa12e0f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tesla aloitti Cybercab‑robotaksin tuotannon, Elon Musk vahvistaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-24T12:57:56+03:00",
@@ -5180,6 +5165,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-26T02:24:41+03:00",
+      "urls": [
+        {
+          "sign": "a9b800e2a4e770827b59979bd4e343bc645a532c1847e0db9200d1aae3a9c0cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pommi räjäytti linja-auton Kolumbiassa, vähintään 14 kuollut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
