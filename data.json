@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-26T22:04:28Z",
+  "updated": "2026-04-27T01:19:26+03:00",
   "entries": [
     {
       "updated": "2026-04-07T06:29:22Z",
@@ -692,21 +692,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-24T21:26:28+03:00",
-      "urls": [
-        {
-          "sign": "0ae5dab62a8c85b7d77a6b316d29041fc99739dee4d9aeb1d13c5e48e95d101f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapin aluevaltuusto tarkistaa Länsi‑Pohjan sairaalan palvelupäätöksen arviointiryhmän vastalauseen jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-24T22:04:13+03:00",
@@ -5213,6 +5198,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-27T01:19:26+03:00",
+      "urls": [
+        {
+          "sign": "fc7e6011339225f987682c822497ce0c137768fe9523a3e5960bafee459931b0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sipri: Maailman sotilasmenojen kasvu hidastui Yhdysvaltojen Ukrainan avun lopettamisen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
