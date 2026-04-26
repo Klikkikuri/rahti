@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-26T20:38:34+03:00",
+  "updated": "2026-04-26T20:50:39+03:00",
   "entries": [
     {
       "updated": "2026-04-07T06:29:22Z",
@@ -662,21 +662,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-24T18:36:36+03:00",
-      "urls": [
-        {
-          "sign": "9d983fb38fc7beb96f64c1bccde93c15e935779de21c9db51c2f4651128a41ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain oikeusministeriö lopettaa Jerome Powelin tutkinnan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-24T19:12:26+03:00",
@@ -5209,6 +5194,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-26T20:50:39+03:00",
+      "urls": [
+        {
+          "sign": "bf59d180d3275ac2f0539ea019849080f6dddd74c509819cc887f4f0099711fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chechen johtajan poika lanseeraa K13‑energiajuoman; Trumpin poika valmistaa yerba‑mate‑juomaa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
