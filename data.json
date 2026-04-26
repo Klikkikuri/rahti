@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-26T07:38:57+03:00",
+  "updated": "2026-04-26T07:56:44+03:00",
   "entries": [
     {
       "updated": "2026-04-05T13:41:06Z",
@@ -692,21 +692,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-24T13:44:38+03:00",
-      "urls": [
-        {
-          "sign": "70d5fc0892282def84b84e54ba59af4285921ff17ed174a6204f181cf99e3470",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seurakuntapastori pidätetty seksuaalirikossyytteen takia Satakunnassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-24T13:59:33+03:00",
@@ -2702,34 +2687,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-25T12:41:29+03:00",
-      "urls": [
-        {
-          "sign": "254a3bcbaff03716b750584d93c392dffc3203ff563b7761083847817f3347f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anne Ramsay kertoo podcastissa mahdollisista muutoksista asumisjärjestelyihin Espanjassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-25T09:41:48Z",
-      "urls": [
-        {
-          "sign": "c54940dbf6241d5960050f15f7a8e55f04eefe8a5b5dbc437a0ab34ceeaa01a1",
-          "labels": []
-        }
-      ],
-      "title": "Hyundai Inster yllättää kapeilla Helsingin kaduilla tilavuudellaan ja ajettavuudellaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-25T12:50:15+03:00",
@@ -5178,6 +5135,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-25T17:19:48Z",
+      "urls": [
+        {
+          "sign": "4fa9965e352178cca4588d09f934286b6a2dcb7f8496388caecb73a2493cc0dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "f288eb9d89055f9d74b6cd158666a852810824187cdf95ec9e4266248c12c5b5",
+          "labels": []
+        }
+      ],
+      "title": "Microsoft poistaa Copilot‑nimen useista Windows 11 -sovelluksista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-26T07:56:44+03:00",
+      "urls": [
+        {
+          "sign": "513830e42b4086fa99bb5c491366ca6bdbdf7f47dffefefaa07f2627b788f249",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jenna Nieminen, 25, kertoo, miten hidradenitis suppurativa pilaa vaatteet ja vaikuttaa arkeen",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-26T07:45:12+03:00",
+      "urls": [
+        {
+          "sign": "d5b860df793c3c7e2501dfd1db34f084f87ead663c99e03b27ce56658f49226d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Martat neuvovat perheitä varautumaan: vesivarasto, ruoka ja tarvikkeet",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
