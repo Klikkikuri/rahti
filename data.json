@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-26T03:44:55+03:00",
+  "updated": "2026-04-26T01:00:04Z",
   "entries": [
     {
       "updated": "2026-04-05T13:41:06Z",
@@ -2734,21 +2734,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-04-25T11:40:44+03:00",
-      "urls": [
-        {
-          "sign": "7a5cb79478932e04e8e3b43edff32d63ef00f9128467eb42cc841b94f504b680",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Päihtynyt mies pakeni ja törmäsi poliisiautoon Mikkelissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-25T11:36:11+03:00",
       "urls": [
         {
@@ -5180,6 +5165,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-26T01:00:04Z",
+      "urls": [
+        {
+          "sign": "03a20826d8f3f420ecc627ae0c797760f23e1052023ec513fe13d38926c4e4a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Salainen palvelu evakuoi presidentti Donald Trumpin Washingtonin hotelli-illalliselta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
