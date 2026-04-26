@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-26T02:43:43+03:00",
+  "updated": "2026-04-26T03:44:55+03:00",
   "entries": [
     {
       "updated": "2026-04-05T13:41:06Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-24T12:57:56+03:00",
-      "urls": [
-        {
-          "sign": "564545ea6a37b74f6e85028e2d0fa15d58b8e8b7c5855f07e5e8d617f6dc0c03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aleksanteri Kivimäki valittaa Vastaamo-tuomuksestaan korkeimpaan oikeuteen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-24T13:06:11+03:00",
@@ -2747,21 +2732,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-25T11:36:29+03:00",
-      "urls": [
-        {
-          "sign": "7db61fe626bd87405a2cde318160b86534cf7a33e6a7f27e6f75e70d326ed00c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Paula Koivuniemen poika Toni Lehti kertoo äidin eläkkeelle siirtymisestä ja perintöprojektista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-25T11:40:44+03:00",
@@ -5180,6 +5150,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-26T03:44:55+03:00",
+      "urls": [
+        {
+          "sign": "b52cda5878760a465f6687080d5c3bb6b030c9ddc4c8ec52794f4c8d64c2e6c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pommi-isku Kolumbiassa aiheutti useita kuolemia, syytettynä FARC-jäsenet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-26T03:43:50+03:00",
+      "urls": [
+        {
+          "sign": "05edea92cea04328a4a971c25fcc2767a45daa00ec381269b57d4af673bf7cb6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump evakuoitiin salaisen palvelun toimesta Valkoisen talon kirjeenvaihtajien illalliselta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
