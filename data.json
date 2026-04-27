@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-27T21:43:23+03:00",
+  "updated": "2026-04-27T21:59:42+03:00",
   "entries": [
     {
       "updated": "2026-04-07T06:29:22Z",
@@ -722,21 +722,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-04-26T15:56:27+03:00",
-      "urls": [
-        {
-          "sign": "fa496dbda93e4024bca2a729aa021b6c1ce3e0806b80bb8e152d2e4bbd2d67c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Purra kiistää lupauksen köyhien etuuksista – puolueohjelmasta ei löydy suoria leikkauksia suomalaisille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-26T16:07:47+03:00",
@@ -2194,21 +2179,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-27T11:16:10+03:00",
-      "urls": [
-        {
-          "sign": "0b4b0e3119cd7b89bb9f57b8248c2c425ddb02f621396d60311327a1c0195999",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Väylävirasto ja poliisi selittävät vuoropysäköintimerkin merkityksen ja aikarajat",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-04-27T11:14:34+03:00",
       "urls": [
         {
@@ -2294,21 +2264,6 @@
         }
       ],
       "title": "Ilveksen tapahtumapäällikkö: Lippujen myynti on pettymys ennen tärkeää ottelua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-27T11:33:15+03:00",
-      "urls": [
-        {
-          "sign": "c417aff9ef204278118b0abaab87392bb542fceb761d131f04eef366a7d97c10",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ampui veitsimiehen, kun etälamautin ei toiminut",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5231,6 +5186,55 @@
       ],
       "title": "Helsingin poliisi varoittaa Vuosaaren alle 15‑vuotiaista rikosryhmästä",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-27T21:45:36+03:00",
+      "urls": [
+        {
+          "sign": "8b1fc6be1b47c8616ea606cc0a7a58636204caecf0700c0651898276b8a40ad8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuningas Charles III ja kuningatar Camilla tapaavat presidentti Trumpin Washingtonissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-27T21:55:16+03:00",
+      "urls": [
+        {
+          "sign": "f95825613ae83de33eee8677276db88aa3d54fbfb59c944d9869dd64a57b3830",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wille Rydman ja Sofia Virta riitelivät A-studiossa terveydenhuollon hintojen nostosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-27T21:59:42+03:00",
+      "urls": [
+        {
+          "sign": "e77e3deb0c7856339d0a198445c875b36fe78cf75f9315ad81c77b2f09bfbda7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "6c36aa3ba968251673252c4e8af746afd5fdabc74e5700458a710758039c37db",
+          "labels": []
+        }
+      ],
+      "title": "Kuningas Charles ja Donald Trump tapaavat Yhdysvalloissa jännittyneessä ilmapiirissä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
