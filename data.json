@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-27T05:10:28+03:00",
+  "updated": "2026-04-27T05:24:57+03:00",
   "entries": [
     {
       "updated": "2026-04-07T06:29:22Z",
@@ -1174,21 +1174,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-25T14:45:21+03:00",
-      "urls": [
-        {
-          "sign": "5d235f041eb9c40050e1ada90503194160bc15d751d6d5f843e7ca2c2d339bbe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP:n puheenjohtaja Lindtman valmistaa välikysymystä hallituksen talouspolitiikasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-04-25T15:15:02+03:00",
       "urls": [
         {
@@ -2294,19 +2279,6 @@
         }
       ],
       "title": "Sébastien Ogier voitti Kanarian MM-rallin, Sami Pajari kolmantena, Oliver Solberg ei saanut pisteitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-04-26T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "d171285b19cf76b91bf51007d2eaac3489e352600a06d99620b2cb5fe2ec8ef3",
-          "labels": []
-        }
-      ],
-      "title": "Keskustelu ADHD:n luokittelun haasteista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5215,6 +5187,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-27T05:19:00+03:00",
+      "urls": [
+        {
+          "sign": "76f09be61a4114e5584ce10007ba1f5d6b0e7f616a453a4b25aad921d9aaae39",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nikotiinipussien käyttö raskaana olevilla kasvaa Helsingin neuvoloissa, terveydenhuollon ammattilaiset varoittavat riskeistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-27T05:24:57+03:00",
+      "urls": [
+        {
+          "sign": "9c0f1a2b2fbb725af42acd08bc0e6e5d98005f5fd87420da3db2063ab42d2b06",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti epäillyn Helsingin kello‑ ja koruliikkeen yön varkaudesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
