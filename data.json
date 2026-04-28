@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-29T01:38:48+03:00",
+  "updated": "2026-04-29T01:48:30+03:00",
   "entries": [
     {
       "updated": "2026-04-08T07:00:54Z",
@@ -2166,25 +2166,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-28T09:39:01Z",
-      "urls": [
-        {
-          "sign": "ebf65f3d7e65b4e66b5d1b92dd20f3e2b619f104dedea7d29e39e1e72636bd4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "fdc0eb608e17b8415ca985d41bb060afeb31460d3b5395c3f8b3e65d26d70fb4",
-          "labels": []
-        }
-      ],
-      "title": "S‑Pankki: perintöjen määrä kasvaa, perintöriidat vähenevät",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-28T12:50:05+03:00",
@@ -5175,6 +5156,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-29T01:48:30+03:00",
+      "urls": [
+        {
+          "sign": "6a04c5688ac9cb6fddc85ba7a2af56b767ad0abb8d51056e749af97175c26423",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "FCC tarkastaa ABC:n toimiluvan Trumpin ja Kimmelin väittelyn jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
