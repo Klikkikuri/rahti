@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-29T00:18:24+03:00",
+  "updated": "2026-04-29T01:06:17+03:00",
   "entries": [
     {
       "updated": "2026-04-08T07:00:54Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-27T18:23:28+03:00",
-      "urls": [
-        {
-          "sign": "3ae8043bbefc9e519c7332be93af8b66d392ff8c8b63bb088d487ae659f4e03d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Veteranipäivän puheessa 100‑vuotias Viljo Pastila korostaa ystävyyden ja toivon merkitystä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-27T18:46:16+03:00",
@@ -5175,6 +5160,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-29T01:06:17+03:00",
+      "urls": [
+        {
+          "sign": "bc219149f83cb02248467758e4d0bab93f15354322e503123a50bf095dd30140",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat julkaisee rajoitetun erän 250‑vuotisjuhlien erikoispasseja, joissa on Donald Trumpin kuva",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
