@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-30T01:19:18+03:00",
+  "updated": "2026-04-30T01:45:12+03:00",
   "entries": [
     {
       "updated": "2026-04-09T11:41:51Z",
@@ -2194,21 +2194,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-29T12:48:10+03:00",
-      "urls": [
-        {
-          "sign": "3128fddafd16c5a30a1868ace421413b6afd8ebb9dd4d82e2a408bb25814bc2b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV ja Elisa neuvottelevat MM-kisojen ilmaiskanavien jakelusta – uhka koskee jopa 800 000 suomalaista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-29T13:01:31+03:00",
@@ -5162,6 +5147,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-30T01:45:12+03:00",
+      "urls": [
+        {
+          "sign": "edf4d74e7bed66dee81775e6bbde9defabb7a13cdb5b105611206e551a6dc314",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eurostat: Suomi yksi EU:n väkilukuun suhteutetuista väkivallan kärjistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
