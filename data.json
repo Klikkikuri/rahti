@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-29T03:24:25+03:00",
+  "updated": "2026-04-29T03:55:45+03:00",
   "entries": [
     {
       "updated": "2026-04-08T07:00:54Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-27T18:54:40+03:00",
-      "urls": [
-        {
-          "sign": "e903f75a57a34d9c46aeb867f287b69d21b71aca877969c03cfd2ba84d74be9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puutiaisia on raportoitu lähes 40 000 kuukaudessa – asiantuntija varoittaa kuivan kevään vaikutuksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-27T19:04:45+03:00",
@@ -5171,6 +5156,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-29T03:55:45+03:00",
+      "urls": [
+        {
+          "sign": "09f241e4ff7d04f8551dd6919d8aba65d287068c035283c90ead0de934de6cd1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuningas Charles tuomitsi poliittisen väkivallan ja Trumpin epäillyn murhayrityksen kongressipuheessaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
