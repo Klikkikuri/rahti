@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-29T17:27:06+03:00",
+  "updated": "2026-04-29T17:43:08+03:00",
   "entries": [
     {
       "updated": "2026-04-09T11:41:51Z",
@@ -679,36 +679,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-04-28T15:55:01+03:00",
-      "urls": [
-        {
-          "sign": "79d1ed24ab0d7a0a42f2f63f223ca9b27a45ff37557f221588e016b14857c408",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Virta ja Rydman kiistelevät sote-leikkauksista Ylen A-studiossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-28T16:02:00+03:00",
-      "urls": [
-        {
-          "sign": "3479697c7e2b9640b11a5930360fb7a1ffa76702b5527edf5f13114319af6ee9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viisi iskelmälegendaa lähtevät yhteiskiertueelle lokakuussa Lahdesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-04-28T16:32:48+03:00",
       "urls": [
         {
@@ -797,21 +767,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-28T17:51:19+03:00",
-      "urls": [
-        {
-          "sign": "35756f4a07c149f22644fba1a3cb8d66f4b7ad2ae21a518d030f0f0ea1fb8d34",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fire Pointin johtaja: FP‑9‑ohjuksen kehitys pitkällä, ensimmäiset iskut Moskovaan tänä vuonna",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-28T17:51:08+03:00",
@@ -1847,21 +1802,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-29T07:00:18+03:00",
-      "urls": [
-        {
-          "sign": "4c68141ea6a49eae09b74b6d272f8b2164e1c8a54fd1f5db43222d65cb40171c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Erikoishammaslääkäri varoittaa kotivalkaisun riskeistä ja suosittelee ammattilaisen hoitoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-29T07:03:17+03:00",
@@ -5152,6 +5092,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-29T17:43:08+03:00",
+      "urls": [
+        {
+          "sign": "4e4fdad5b01c7695bf12fef099f3ad25d2a2d4383b308644031244e3bda4ec5a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opetus- ja kulttuuriministeriö esittelee laajan perusopetusuudistuksen vastauksena oppimistulosten heikkenemiseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-29T17:42:31+03:00",
+      "urls": [
+        {
+          "sign": "d147612bd9dad3f6c3e5e54f915cdc7f18710d8fdd1b71acc519127957fd1fe1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti Aronkylässä 20‑vuotiaan miehen pitkän piippuisen aseen kanssa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-04-29T17:34:58+03:00",
+      "urls": [
+        {
+          "sign": "deffba2788acb93d84bda42d32aa8585a9b5214a1bcefad1afa13d0c37f06554",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti 20‑vuotiaan miehen aseen kanssa Kauhajoen Aronkylässä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-04-29T17:30:12+03:00",
+      "urls": [
+        {
+          "sign": "8c7483cf426be3386963816986798a8dcb9d8c91dac2f2662e308937a45adfe6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "PSG‑Bayern‑ottelussa pallopoika kieltäytyy antamasta palloa Manuel Neuerille",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
