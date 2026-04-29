@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-30T01:45:12+03:00",
+  "updated": "2026-04-30T02:03:04+03:00",
   "entries": [
     {
       "updated": "2026-04-09T11:41:51Z",
@@ -2104,21 +2104,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-29T12:48:59+03:00",
-      "urls": [
-        {
-          "sign": "5b4c0851af6c3b5d90544e1afc6a45b4231b73a87f18f30a3c47b24b0f8c97cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "'Elämää Hitlerin Saksassa' -dokumentti esittelee saksalaisten päiväkirjoja ja holokaustin kauhut",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-29T12:52:44+03:00",
@@ -5160,6 +5145,21 @@
       ],
       "title": "Eurostat: Suomi yksi EU:n väkilukuun suhteutetuista väkivallan kärjistä",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-30T02:03:04+03:00",
+      "urls": [
+        {
+          "sign": "34653607ec9010054733f1f704c15f251a490f18ef37f560e4cefe7506c0c4b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti julkaisee päivittäisen horoskoopin kaikille eläinradan merkeille",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
