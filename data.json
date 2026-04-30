@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-04-30T07:08:04+03:00",
+  "updated": "2026-04-30T07:29:20+03:00",
   "entries": [
     {
       "updated": "2026-04-09T11:41:51Z",
@@ -737,21 +737,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-04-29T07:33:29+03:00",
-      "urls": [
-        {
-          "sign": "03f1ce4e8b1fea34264fafb913372139a7580cbba0705e8ed741b3c7815a8724",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjän internetkatkokset pakottavat pienyrittäjät etsimään uusia ratkaisuja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-04-29T11:47:57+03:00",
@@ -1821,21 +1806,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-29T13:49:16+03:00",
-      "urls": [
-        {
-          "sign": "765483b63defec3342c917c4d30ba5fefa7e83bba6ade95a5c239c9246bb292b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lentoaseman työntekijä kuoli puristuksiin lentokoneen ja wc‑auton väliin – useita epäiltyjä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-04-29T13:51:45+03:00",
@@ -5162,6 +5132,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-30T07:24:08+03:00",
+      "urls": [
+        {
+          "sign": "691e13452ac3b82bdff64d0c2166747685409a4eb80c6040901240f40e06f5bd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanadan MM-joukkueeseen nousee NHL-tähtiä, Kuisma pohtii ylpeyttä ja haasteita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-04-30T07:29:20+03:00",
+      "urls": [
+        {
+          "sign": "2baf9faa86316f0944a0d68ace1935b4c5dea19aba661c721d8db7b1994424c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen selvitys: pakko‑huutokaupat Helsingissä voivat olla jopa 62 % halvempia, mutta riskit kasvavat",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
