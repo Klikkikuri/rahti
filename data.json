@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-01T19:27:14Z",
+  "updated": "2026-05-01T19:42:03Z",
   "entries": [
     {
       "updated": "2026-04-11T14:09:27Z",
@@ -514,7 +514,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-05-01T19:10:00Z",
+      "updated": "2026-05-01T19:42:03Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -523,7 +523,7 @@
           ]
         }
       ],
-      "title": "Trump väittää sodan Iranissa päättyneen ja Yhdysvallat sekä Israel aloittivat yhteisen hyökkäyksen",
+      "title": "Trump väittää Iranin sodan päättyneen ja Yhdysvallat sekä Israel aloittivat yhteisen sotilasoperaation Iranissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -889,21 +889,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-04-30T13:25:01+03:00",
-      "urls": [
-        {
-          "sign": "284d32547af40653c117a826076796f645f99c35acd35b596f9abe77e7518093",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus antaa poliisille oikeuden ampua drooni alas",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-04-30T14:47:32+03:00",
       "urls": [
         {
@@ -977,21 +962,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-04-30T15:27:54+03:00",
-      "urls": [
-        {
-          "sign": "90445f24e73579b25f9b4cac9d09a27a30aec6ee44c837b83aa086d6b41730db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MM‑kisat 2026 Yhdysvalloissa, Kanadassa ja Meksikossa – Täydellinen otteluohjelma",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-04-30T17:25:58+03:00",
@@ -2537,25 +2507,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-01T06:17:39Z",
-      "urls": [
-        {
-          "sign": "ce08a01181c2953ed670daaad0096b90b227c0277fd7286288cab2ca618addb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "8cbc358018030a2a297b5090249f332ff95c38de961c7421c0b84713ef20a4fa",
-          "labels": []
-        }
-      ],
-      "title": "Sari Lounasmeri suosittelee kolme rahastoa, joihin 300 €/kk voi kerryttää 63 000 € kymmenessä vuodessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-01T09:21:41+03:00",
@@ -5156,6 +5107,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-01T22:07:43+03:00",
+      "urls": [
+        {
+          "sign": "e2cc3a186b4245e046737693119a7c52491ac3ebf4cd5fde27fac493e4e8515f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Narges Mohammadi siirretty Zanjanin sairaalaan vakavien terveysongelmien vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-01T22:37:08+03:00",
+      "urls": [
+        {
+          "sign": "46abda054c6d313f4c00e6285812d307689ef862c7f5e7ff795502a7e0bb8b20",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ensihoitajat saapuivat juuri kun vauva syntyi kylpyhuoneen lattialle Vantaan kodissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-01T22:40:56+03:00",
+      "urls": [
+        {
+          "sign": "851f3b7452c5a95780d714c9181e1f368b13df3500347b98fa190ca865a8b994",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vappuhiihtäjä Anu Turpeinen pukeutui kesämekoon ja blondiin naamiaisasuun Paloheinän radalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
