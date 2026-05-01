@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-01T23:52:39+03:00",
+  "updated": "2026-05-02T00:00:43+03:00",
   "entries": [
     {
       "updated": "2026-04-11T14:09:27Z",
@@ -3047,19 +3047,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-05-01T10:04:15+03:00",
-      "urls": [
-        {
-          "sign": "9024d08d3f7d8eebf05fab90805a579f272f367c6362a25f224311a780b2d926",
-          "labels": []
-        }
-      ],
-      "title": "Räsänen (SDP) väittää, ettei mikään hallitus ole jättänyt velkamäätä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-05-01T09:56:30Z",
       "urls": [
         {
@@ -5152,6 +5139,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-02T00:00:43+03:00",
+      "urls": [
+        {
+          "sign": "5791d3d07e0376df565c233401eb04d4171d8c8db70c4384b3d4539bcb45fd6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän talouskasvuennuste puolittui, entinen varaministeri pakeni Yhdysvaltoihin, ja droonihyökkäykset rasittavat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
