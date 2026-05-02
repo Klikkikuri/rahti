@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-02T13:39:16Z",
+  "updated": "2026-05-02T16:56:07+03:00",
   "entries": [
     {
       "updated": "2026-04-11T14:09:27Z",
@@ -1007,21 +1007,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-01T08:03:43+03:00",
-      "urls": [
-        {
-          "sign": "0c3d0e349c4f16d0cec0a1d2177974eb193bc60d0a10c37816884ad9db0cd6f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjan pääministeri Sanchez syyttää Israelia merioikeuden rikkomisesta ja kehottaa EU:ta pakottamaan assosiaatiosopimuksen jäädyttämisen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-05-01T08:03:48+03:00",
@@ -2104,21 +2089,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-05-01T18:27:55Z",
-      "urls": [
-        {
-          "sign": "f4e2ed13ca0296776d66c7dbaa92b986e8a5a53a05610bf3e4bec6b7c6127384",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump asettaa 25 % tullit EU:n auto- ja kuorma‑autotuonnille, EU valmistautuu vastatoimiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-05-01T18:54:44+03:00",
       "urls": [
         {
@@ -2434,19 +2404,6 @@
       ],
       "title": "Ypäjän hevosopistolla kuoli kokeneen ratsastusopettajan 60‑vuotias vappupäivänä",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-01T21:30:00+03:00",
-      "urls": [
-        {
-          "sign": "cf96519b2373c4dcd3888f716eefc943cc9e8d8bbd87dca4504b5bf86c516ebc",
-          "labels": []
-        }
-      ],
-      "title": "Tapparan puolustus on huolestuttavan pieni, varoittaa asiantuntijat",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5093,7 +5050,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-05-02T16:18:53+03:00",
+      "updated": "2026-05-02T16:48:46+03:00",
       "urls": [
         {
           "sign": "9959dec1d65ca5d5f7d517a9394bc4aaa69de47978c896dd8b28eea89347cc04",
@@ -5102,7 +5059,7 @@
           ]
         }
       ],
-      "title": "Tappara ja KooKoo kohtaavat finaalin alkaessa kello 17:00 – MTV Urheilu seuraa",
+      "title": "Tappara, runkosarjan voittaja, ja KooKoo kohtaavat SM-liigan finaalin kello 17:00 – MTV Urheilu seuraa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5166,6 +5123,49 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-02T16:56:07+03:00",
+      "urls": [
+        {
+          "sign": "24d4455eacbf705a8fe2b6ee7d3a95ca39dbd505e1e87735a75da6b18ba9d429",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ari Turunen kuvailee Myllypuron pallohallin katon graffitin puhdistuksen haasteita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-05-02T13:45:10Z",
+      "urls": [
+        {
+          "sign": "0b4e8dee45583c1c6b4594d98d7d31ae40d9094a6b802e03ea06507e8c1b29ae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harri Hepojärvi ennustaa KooKoon voittoa, Timo Kunnari luottaa Tapparaan – SM-liigan finaalit alkavat 2.5.",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-02T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "997ee06d4c255a26e8fd1e5aefe5e1eb87c5ed1d21642cd3b41422b52ad2d815",
+          "labels": []
+        }
+      ],
+      "title": "Yhdysvaltain viranomaiset julkaisevat valvontakamerakuvaa aseistautuneesta ampujasta Trumpin illallisella",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
