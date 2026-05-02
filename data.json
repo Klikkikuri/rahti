@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-02T23:11:20Z",
+  "updated": "2026-05-03T02:27:47+03:00",
   "entries": [
     {
       "updated": "2026-04-12T08:29:20Z",
@@ -2522,21 +2522,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-05-02T10:43:44+03:00",
-      "urls": [
-        {
-          "sign": "4a62b59df9b4c47cced73faf7ca96525d265bdeb4f9d47e667be57fe6d9ad052",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kahvi yhdistetty parempaan paksu- ja peräsuolisyövän selviytymiseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-02T10:59:50+03:00",
@@ -5152,6 +5137,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-03T02:27:47+03:00",
+      "urls": [
+        {
+          "sign": "e69288757c8aebf867040a2e3849158683ffb0bc74f04b35cb497a36f34ea6e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi varoittaa loukkaantuneesta karhusta Mäntyharjulla liikenneonnettomuuden jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
