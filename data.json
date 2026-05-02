@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-02T22:44:03+03:00",
+  "updated": "2026-05-02T22:48:28+03:00",
   "entries": [
     {
       "updated": "2026-04-12T08:29:20Z",
@@ -2597,21 +2597,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-05-02T10:16:10+03:00",
-      "urls": [
-        {
-          "sign": "13e33af973a27d11e42d7ac0caef5045799a22d1c252c21106250788dbbfb31a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti testaa suomalaisten legendaaristen sitaattien tuntemusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-05-02T10:20:06+03:00",
       "urls": [
         {
@@ -5150,6 +5135,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-02T22:48:28+03:00",
+      "urls": [
+        {
+          "sign": "c008f25990b004fa520cf85cfb8eaf932d50302f548415b40e6c3df83c1a36b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Huutokaupan metsästäjät -tähti Darrell Sheets kuoli 67‑vuotiaana, ex‑vaimo jakaa muiston",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
