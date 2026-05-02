@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-02T21:13:04Z",
+  "updated": "2026-05-03T01:01:04+03:00",
   "entries": [
     {
       "updated": "2026-04-12T08:29:20Z",
@@ -692,21 +692,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-05-01T05:42:16+03:00",
-      "urls": [
-        {
-          "sign": "bbd3eea6fb9b458162740a41af06ce4517d4553adb86b19bc4864dae0fe73b0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies kuoli Merikarvian omakotitalon tulipalossa; talo tuhoutui täysin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-01T06:00:35+03:00",
@@ -5150,6 +5135,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-03T01:01:04+03:00",
+      "urls": [
+        {
+          "sign": "9ac97160d7c37e75b83e561c3236ca3133e040a54b98e726219c10286079bde1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jordanian forces bomb drug depots of Syrian rebel groups in as‑Suwayda",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
