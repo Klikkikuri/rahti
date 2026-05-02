@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-03T01:34:05+03:00",
+  "updated": "2026-05-02T22:59:08Z",
   "entries": [
     {
       "updated": "2026-04-12T08:29:20Z",
@@ -692,21 +692,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-05-01T06:00:35+03:00",
-      "urls": [
-        {
-          "sign": "9a1017482e0e912c57d3580aef182a67b334642f87040a5d7aa7241e6f06c99c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannia kieltää tupakan myynnin 2009 jälkeen syntyneiltä – EU:ssa vuosittain 700 000 ennenaikaista kuolemaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-01T07:35:08+03:00",
@@ -2507,19 +2492,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-02T07:34:04Z",
-      "urls": [
-        {
-          "sign": "be6146e4f611b56717d5235af2135a5506f067b9f24a656fff9d54933bd21759",
-          "labels": []
-        }
-      ],
-      "title": "Arabiemiirikunnat irtautuvat OPECista – odotetaan bensinhintojen laskua Suomessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-02T10:29:51+03:00",
@@ -5150,6 +5122,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-02T22:59:08Z",
+      "urls": [
+        {
+          "sign": "f762566a5414364a7b6e8ba6ceb7e661e653a206fcb4a3fd417cc7d16a217b9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump sanoo, että Yhdysvallat vetää yli 5 000 sotilasta Saksasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-03T01:52:25+03:00",
+      "urls": [
+        {
+          "sign": "637584d3502b42e3c83fd747ea56e94ee5269a959d9ce4e7834e4d1d30e207eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump väittää, että Yhdysvallat vetää Saksasta yli 5 000 sotilasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
