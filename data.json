@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-04T06:57:52+03:00",
+  "updated": "2026-05-04T07:05:28+03:00",
   "entries": [
     {
       "updated": "2026-04-14T10:52:34Z",
@@ -647,21 +647,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-05-02T05:31:35+03:00",
-      "urls": [
-        {
-          "sign": "b3b78d7d0cf3b15c923abaff6e267560c2a8676bab60ff6ebbb4de354ab1b2bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saimaalla vesitasot laskevat – kesäasujat ja veneilijät kohtaavat kuivia laitureita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-02T06:00:39+03:00",
@@ -2284,21 +2269,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-05-03T11:25:32+03:00",
-      "urls": [
-        {
-          "sign": "41f3a19b07e6e5f74d92d45f837a67b4eafc47478ef50c69466ebe914fc084ee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rovaniemellä nyrkinisku johti isän kuolemaan; tekijä tuomittiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-05-03T10:54:08+03:00",
       "urls": [
         {
@@ -2658,19 +2628,6 @@
         }
       ],
       "title": "Forecan ennustaa lämpötilan putoavan -10 asteeseen Suomessa viikonlopun aikana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-03T11:27:27+03:00",
-      "urls": [
-        {
-          "sign": "9d7b12ee7d8ea7470e6c2398ff475e5d50056721946535ccc1ac03df456bc060",
-          "labels": []
-        }
-      ],
-      "title": "Epäilty ilmatilaloukkaus itärajalla – tiedot nyt saatavilla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5155,6 +5112,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-04T07:02:37+03:00",
+      "urls": [
+        {
+          "sign": "0a83368971d79aa7448873aba0995c3c6bf417f3d8a7896ccf9bec78b015bc58",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän teini-ikäiset kokevat internetestot ahdistavina ja turhauttavina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-04T07:05:28+03:00",
+      "urls": [
+        {
+          "sign": "66989e1a67a34e95b161aa38723e3b7c5be7872384ef05cfc81d96090e02a279",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Samsungin keskihintaiset puhelimet saivat päivityksen, mutta yksi tärkeä ominaisuus jäi pois",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-04T07:03:15+03:00",
+      "urls": [
+        {
+          "sign": "5dcbe38148e2db0393ef2c638f294af05cee19f3997ccb424328175c2f449d88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EBU rajoittaa yleisöäänet kymmeneen torjuakseen Israelin poliittisen kampanjan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
