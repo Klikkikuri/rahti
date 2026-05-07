@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-07T23:17:58+03:00",
+  "updated": "2026-05-07T23:37:18+03:00",
   "entries": [
     {
       "updated": "2026-04-17T07:00:03Z",
@@ -1877,21 +1877,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-07T12:31:51+03:00",
-      "urls": [
-        {
-          "sign": "e617f1074af404f711144eeacd9b3ca360a71f69ef06184b0022dc0441f7c3dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjä uhkaa iskulla Kiovaan, Suomi sanoo ettei saanut suoraa uhkaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-07T12:43:18+03:00",
@@ -5177,6 +5162,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-07T23:37:18+03:00",
+      "urls": [
+        {
+          "sign": "5bd9b4e4f6a92df8535377da5ac08a355575b53b338ab85ccacb3c31b92c9243",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kremlin vieraslistassa ei ole Serbian presidentti Aleksandar Vučićä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
