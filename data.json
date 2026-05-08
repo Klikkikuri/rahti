@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-08T09:14:15+03:00",
+  "updated": "2026-05-08T09:25:41+03:00",
   "entries": [
     {
       "updated": "2026-04-17T07:00:03Z",
@@ -812,21 +812,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-07T09:00:00+03:00",
-      "urls": [
-        {
-          "sign": "64d9fb310ea679eeb65ff9fd48eedde36c18f63ea1d5c36712d167f14143b12a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Petokatka havaittu Rauman satamassa – Syke varoittaa uhan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-05-07T09:03:40+03:00",
@@ -2267,21 +2252,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-05-07T16:32:28+03:00",
-      "urls": [
-        {
-          "sign": "3c3e1bea8e758e72e156638d4a26f7073995024a9f1325e97d7e89814939dde2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orpo varoittaa naamiointikieltoa: väkivalta ei saa olla mahdollinen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-07T16:33:37+03:00",
@@ -5171,6 +5141,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-08T09:25:41+03:00",
+      "urls": [
+        {
+          "sign": "082a60d1f0f3b81bb5fcfc8419c27f20cc441df9af0b40f3dc8d883454b2ba0d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Haminan satamassa käynnissä pelastustehtävä, hätäkeskus sai hälytyksen kello 7.56",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-08T09:10:22+03:00",
+      "urls": [
+        {
+          "sign": "6fa1b648e4ed1a0f906a48755e3609fc92ec148de036972d6d25522003fcf12f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelkokerroin palaa Neloselle ja Ruudulle uudella sosiaalis-psykologisella konseptilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
