@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-09T01:24:35+03:00",
+  "updated": "2026-05-09T01:41:30+03:00",
   "entries": [
     {
       "updated": "2026-04-19T16:00:57Z",
@@ -662,21 +662,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-05-07T17:57:16+03:00",
-      "urls": [
-        {
-          "sign": "6644bab738a20ccaf7c992386bbb07d6ffc2a96103d9e19fbd57bb86759cb794",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin valtuusto päätti Kaivokadun autottomuuden, kokoomus myönsi kompromissin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-07T18:24:04+03:00",
@@ -5182,6 +5167,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-09T01:41:30+03:00",
+      "urls": [
+        {
+          "sign": "25d2140f72f99c4f6455e879049b14e18ca48da21e3d4e174de91e220d1ecc46",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WHO vahvistaa kuusi Andes-tyypin hantavirustapausta, kaksi suomalaista mahdollisesti altistuneet",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
