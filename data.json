@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-09T23:29:34+03:00",
+  "updated": "2026-05-10T00:16:43+03:00",
   "entries": [
     {
       "updated": "2026-04-19T16:00:57Z",
@@ -662,21 +662,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-05-08T12:34:35+03:00",
-      "urls": [
-        {
-          "sign": "bf8c8bd50b8625f97d94c10d3b0dbffc92df7db6a766730e1596427ac9bb2c11",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ympäristötutkija: Petokatka vakiintuu Rauman satamassa, sen poistaminen on käytännössä mahdotonta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-08T12:59:57+03:00",
@@ -5190,6 +5175,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T00:16:43+03:00",
+      "urls": [
+        {
+          "sign": "f45a7180bb8d36a27bd125341bfd23de7d83f8bd54b37246cc2a0ed563666175",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nuoret kiipesivät Tuusulan linkkitorniin – pelastuslaitos kehottaa vanhempia puhumaan turvallisuudesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
