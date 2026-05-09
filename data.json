@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-10T02:25:54+03:00",
+  "updated": "2026-05-10T02:41:31+03:00",
   "entries": [
     {
       "updated": "2026-04-19T16:00:57Z",
@@ -662,21 +662,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-05-08T13:13:21+03:00",
-      "urls": [
-        {
-          "sign": "b7eb310aa998667031460f0f7f3de208b990dc1b686624fd000685020220f01e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Alexander Stubb esittelee 14 uutta suomalaista nykytaideteosta Mäntyniemen virka-asunnossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-08T13:19:49+03:00",
@@ -5190,6 +5175,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T02:41:31+03:00",
+      "urls": [
+        {
+          "sign": "d2850a1f51155a34bde58a1a37777a873e0809f394400bd99b4c9abbc909f84b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Presidentti Stubb palkitsee 38 äitiä Valkoisen Ruusun -mitalilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
