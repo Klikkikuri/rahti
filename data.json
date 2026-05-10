@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-10T13:38:27+03:00",
+  "updated": "2026-05-10T13:45:00+03:00",
   "entries": [
     {
       "updated": "2026-04-19T16:00:57Z",
@@ -1097,21 +1097,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-08T22:54:10+03:00",
-      "urls": [
-        {
-          "sign": "a788e604e6c254dd288bafc579c5e6ee417bed946ba14d1354a8799e7fe12bb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hämeenkyröläinen voitti 350 000 euroa Eurojackpotissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-05-09T00:21:11+03:00",
@@ -2601,21 +2586,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-09T17:02:48+03:00",
-      "urls": [
-        {
-          "sign": "cd5281a9d542aac43c622127a7535cca33827e1f90d5f5f5a69142a6a6e38b5f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Esko Roine pohtii perheensä näyttelijäsuvun tulevaisuutta ikääntyessä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-09T17:13:00+03:00",
@@ -5190,6 +5160,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-10T13:30:29+03:00",
+      "urls": [
+        {
+          "sign": "bf067ba3ef7631bed4a96312e2dd6824c48b31fe3dd902a6e58087e84727c849",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuholaistorjuja Jonna Rantala selostaa luteiden leviäminen ja torjuntavinkit",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T13:45:00+03:00",
+      "urls": [
+        {
+          "sign": "f2a3cd1c6231de53d65daa9259f1c28200cdb498b1ca3c2228e58bff9986dc5f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metalliviiruja lautasessa? Yksinkertainen puhdistusmenetelmä poistaa tummat jäljet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
