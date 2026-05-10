@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-10T08:32:00+03:00",
+  "updated": "2026-05-10T08:55:50+03:00",
   "entries": [
     {
       "updated": "2026-04-19T16:00:57Z",
@@ -2288,21 +2288,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-05-09T10:14:50Z",
-      "urls": [
-        {
-          "sign": "6c787dba2e4c431826e378f3fc048d7da24077653c07fd0a148a2b64374a6013",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rajavartiolaitoksen lentokone havaitsi laskutelinevian, laskeutui Turun lentokentälle turvallisesti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-05-09T16:29:26Z",
       "urls": [
         {
@@ -2448,51 +2433,6 @@
         }
       ],
       "title": "Suomi voitti Tshekkia 3–2 EHT‑avausottelussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-09T13:02:19+03:00",
-      "urls": [
-        {
-          "sign": "8cd39ac0feb5ecf9e76d4bfd653e427ae94277c43e1c697939b24ee1206cd554",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroviisujen voittanut Sertab Erener kieltäytyi Wienin finaaliesityksestä poliittisten syiden takia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-09T10:07:45Z",
-      "urls": [
-        {
-          "sign": "b3fae7d1f181d92803f192ebd1bce98930b38e25b42b2795266909fa379e6b3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara ja KooKoo kohtaavat SM-liigafinaalin viidennessä ottelussa – kokoonpanot ja loukkaantumiset",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-09T13:02:43+03:00",
-      "urls": [
-        {
-          "sign": "eb4b4b707b71b15da33708cef226551fdea3a92bf06b60463661e1b2625af2f6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapsi‑asiantuntijat pohtivat, millainen on hyvä äiti",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5196,6 +5136,64 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-05-10T05:55:14Z",
+      "urls": [
+        {
+          "sign": "76a26d5a3931d9a363b54f797034027fe3d0a096af5938c6b0fdb1e9a5b68386",
+          "labels": []
+        }
+      ],
+      "title": "Sisu Auto kaksinkertaistaa liikevaihdon – 250 uutta Sisu GTP -sotilasajoneuvoa valmistuu Karjaalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T08:51:29+03:00",
+      "urls": [
+        {
+          "sign": "2526c3435386283d129c301b0e1ed36444d3b70618438b5914101e4b08e651c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Pajari pysyi kolmantena Portugalin MM-rallissa ja pyrkii kaventamaan eroa Thierry Neuvilleen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T08:47:12+03:00",
+      "urls": [
+        {
+          "sign": "921ae9c600171e9d06abdccc11e7fb91a48f54e075e4e69680606be242875e14",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wienin yliopiston tutkijat havaitsivat, että aktiivinen ruskea rasva vähentää valtimotulehdusta lihavilla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T08:55:50+03:00",
+      "urls": [
+        {
+          "sign": "aceb6197989fa44fd59c9e28877330bf31954eb66357d200a21f8706ce9acaa1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Neljä finalistia jakavat 70 000 euroa tasan – 17 500 euroa per henkilö",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
