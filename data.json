@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-10T07:29:53+03:00",
+  "updated": "2026-05-10T07:45:07+03:00",
   "entries": [
     {
       "updated": "2026-04-19T16:00:57Z",
@@ -662,21 +662,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-05-08T14:14:57+03:00",
-      "urls": [
-        {
-          "sign": "1c46dd1cda09c4afc089dccb8b20f9509ffbe008ef633ddea76b1052d831d06b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saaret harjoittelevat öljyonnettomuuksiin varautumista ja ensiapua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-08T14:29:53+03:00",
@@ -5194,6 +5179,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T07:45:07+03:00",
+      "urls": [
+        {
+          "sign": "e72621a6d927c6eac38edbcd1f8b8e4cd01a85e0c5f2e056749b7b8db46a160b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MV Hondius saapui Teneriffan Granadilla de Abonan sataman eturannalle, evakuointi alkaa aamukymmeneltä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
