@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-10T05:07:01+03:00",
+  "updated": "2026-05-10T05:41:36+03:00",
   "entries": [
     {
       "updated": "2026-04-19T16:00:57Z",
@@ -662,21 +662,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-05-08T13:19:49+03:00",
-      "urls": [
-        {
-          "sign": "3956e57e8945894aeb3cbf602f5c721c60b387f57458eb2b8201ccabf18fce32",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle hakee kertojia luovista tekoälyn käyttötavoista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-08T13:40:32+03:00",
@@ -2391,21 +2376,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-05-09T10:38:00+03:00",
-      "urls": [
-        {
-          "sign": "a62b9c7b70e4bbc5c4bea7681a3c1aa4be37ba909caf197fe13cef4d12be7efb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Läheiset kertovat Linda Lampeniuksen käyttäytymisen muutoksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-09T13:32:10+03:00",
@@ -5190,6 +5160,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-10T05:30:35+03:00",
+      "urls": [
+        {
+          "sign": "c87612f81c037356be31d9ba8dd51336cc30ad2f55fe0224389b88bc5154c09a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tilastokeskus luokitteli korkotukilainat julkiseksi velaksi, mikä nosti Suomen velkaa 15 miljardia euroa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-10T05:41:36+03:00",
+      "urls": [
+        {
+          "sign": "a959a881f016ce7b082a5fdb21b4850c139f23ad7b8788121ac2d86387fdfbc6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Myanmarissa löydettiin 11 000 karaatin rubiini",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
