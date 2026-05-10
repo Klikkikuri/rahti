@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-10T18:49:42Z",
+  "updated": "2026-05-10T22:12:10+03:00",
   "entries": [
     {
       "updated": "2026-04-20T05:02:15Z",
@@ -1223,21 +1223,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-05-09T13:57:00+03:00",
-      "urls": [
-        {
-          "sign": "ef54dc89ed8ad1bb486b50b4610d177a28362f88c21090b0567a6409c08a1089",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antti Mustakallio neuvoo pitämään juhlapuheet lyhyinä, ytimekkäinä ja hyvän maun rajoissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-05-09T14:09:42+03:00",
       "urls": [
         {
@@ -2447,51 +2432,6 @@
       ],
       "title": "Sisu Auto:n liikevaihto lähes kaksinkertaistuu ja 250 uutta GTP‑sotilasajoneuvoa valmistuu Karjaalla",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-10T08:51:29+03:00",
-      "urls": [
-        {
-          "sign": "2526c3435386283d129c301b0e1ed36444d3b70618438b5914101e4b08e651c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sami Pajari pysyi kolmantena Portugalin MM-rallissa ja pyrkii kaventamaan eroa Thierry Neuvilleen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-10T08:47:12+03:00",
-      "urls": [
-        {
-          "sign": "921ae9c600171e9d06abdccc11e7fb91a48f54e075e4e69680606be242875e14",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Wienin yliopiston tutkijat havaitsivat, että aktiivinen ruskea rasva vähentää valtimotulehdusta lihavilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-05-10T08:55:50+03:00",
-      "urls": [
-        {
-          "sign": "aceb6197989fa44fd59c9e28877330bf31954eb66357d200a21f8706ce9acaa1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Neljä finalistia jakavat 70 000 euroa tasan – 17 500 euroa per henkilö",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5156,6 +5096,66 @@
       ],
       "title": "Trump väittää, että Iran ei enää aio nauraa Yhdysvalloille",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-05-10T22:09:59+03:00",
+      "urls": [
+        {
+          "sign": "7edcea3c29374d542cc932d6ba485a11e492d03718cd2b47842c772b9314b1de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen jääkiekkojoukkueen vahva MM-ryhmä tähtää kultaan Sveitsissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T22:05:43+03:00",
+      "urls": [
+        {
+          "sign": "1c3358f7cc28d5eb0fd4175a3f3f8bf5825961fab2eb42043f4dfaa9e5a125b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump kutsuu vieraita Valkoiseen taloon – pääsymaksu 1,5 miljoonaa dollaria",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T22:02:35+03:00",
+      "urls": [
+        {
+          "sign": "ef4e3ae9ad8076328766fbe168e3654a844c6ce32d7e32b822609acb3caaeb2a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Linda Lampenius ja Pete Parkkonen saivat poikkeusluvan soittaa viulua livenä Eurovisionissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-05-10T22:12:10+03:00",
+      "urls": [
+        {
+          "sign": "e3c5db700887bec498ca428ffaa2618012c4b224c2cf223dde41afea5c32ffc5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Palokunta sammuttaa tulipalon Myyrmäen vanhassa ammattikoulussa Vantaalla, annettu vaaratiedote",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
