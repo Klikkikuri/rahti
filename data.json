@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-11T03:59:57+03:00",
+  "updated": "2026-05-11T04:29:44+03:00",
   "entries": [
     {
       "updated": "2026-04-20T05:02:15Z",
@@ -692,21 +692,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-05-09T05:01:34+03:00",
-      "urls": [
-        {
-          "sign": "33fad85c91bd75119fccc0c058c32e897f444bf1782498a1bbe3237e9de6c42a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Minja Koskela valittiin USU:n kyselyssä parhaaksi eduskuntapuolueen puheenjohtajaksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-05-09T05:30:35+03:00",
@@ -2271,19 +2256,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-05-10T07:31:42Z",
-      "urls": [
-        {
-          "sign": "76a26d5a3931d9a363b54f797034027fe3d0a096af5938c6b0fdb1e9a5b68386",
-          "labels": []
-        }
-      ],
-      "title": "Sisu Auto:n liikevaihto lähes kaksinkertaistuu ja 250 uutta GTP‑sotilasajoneuvoa valmistuu Karjaalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-05-10T09:37:48+03:00",
@@ -5158,6 +5130,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-11T04:29:44+03:00",
+      "urls": [
+        {
+          "sign": "99cc5de740d0172daed77c4887f3f547d987240937cac68c5a387c2f1f3023d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranilainen rauhannobelisti Narges Mohammadi vapautettiin takuita vastaan sairausperusteella ja siirrettiin Teheraniin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-05-11T04:16:57+03:00",
+      "urls": [
+        {
+          "sign": "8abd54d3d1650e3b29bd7afd4449506b1e755a0a72382e7c5a5251f7942e75f4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zbigniew Ziobro pakeni Yhdysvaltoihin Trumpin myöntämän viisumin jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
