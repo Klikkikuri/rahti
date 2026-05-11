@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-05-11T06:20:00+03:00",
+  "updated": "2026-05-11T06:31:45+03:00",
   "entries": [
     {
       "updated": "2026-04-20T05:02:15Z",
@@ -2603,19 +2603,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-05-10T12:15:00+03:00",
-      "urls": [
-        {
-          "sign": "bd3d451639bc7969bbd46aa5892e8d6f3b3ab08b499ce6ff5488bee92b0a2a8b",
-          "labels": []
-        }
-      ],
-      "title": "Pete Parkkonen käynnisti viisuhuuman Wienissä ja ohjasi innokkaat kuvaajat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-05-10T13:37:23+03:00",
       "urls": [
         {
@@ -5160,6 +5147,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-05-11T06:31:45+03:00",
+      "urls": [
+        {
+          "sign": "d2d8a954309c4a0774883d677d0bbd0e59d71930ff4b0beaedce9c770f71ad58",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vanessa Pettersson pudotti 60 kiloa ja kokee sosiaalisen kohtelun muutoksen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
