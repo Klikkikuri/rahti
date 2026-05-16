@@ -42,4 +42,13 @@ llm:
   - name: gpt-oss-120b
     provider: openrouter
     model: openai/gpt-oss-120b
+
+# Url patterns to filter out early. These can be either simple substrings or regexes (if the pattern starts and ends with "/").
+url_blacklist:
+  - ://www.iltalehti.fi/palat/  # Lyhyet
+
+  # Alma syndicated sisältö
+  - ://www.tekniikkatalous.fi/
+  - ://www.uusisuomi.fi/
+  - ://www.kauppalehti.fi/
     
