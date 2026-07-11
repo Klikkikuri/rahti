@@ -39,16 +39,15 @@ rahti:
 
 
 llm:
-  - name: gpt-oss-120b
-    provider: openrouter
-    model: openai/gpt-oss-120b
+  - name: gemini/gemini-3.1-flash-lite
+    provider: gemini
+    model: gemini-3.1-flash-lite
 
 # Url patterns to filter out early. These can be either simple substrings or regexes (if the pattern starts and ends with "/").
 url_blacklist:
-  - ://www.iltalehti.fi/palat/  # Lyhyet
+  - "://www.iltalehti.fi/palat/"  # Lyhyet
 
   # Alma syndicated sisältö
-  - ://www.tekniikkatalous.fi/
-  - ://www.uusisuomi.fi/
-  - ://www.kauppalehti.fi/
-    
+  - "://www.tekniikkatalous.fi/"
+  - "://www.uusisuomi.fi/"
+  - "://www.kauppalehti.fi/"
