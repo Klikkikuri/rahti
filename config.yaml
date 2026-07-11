@@ -25,6 +25,10 @@ sources:
     type: iltalehti  # Custom iltalehti source type, uses json API instead of RSS
     url: https://api.il.fi/v1/articles/iltalehti/lists/latest?limit=90&image_sizes[]=size138
 
+  - name: Helsingin Sanomat
+    type: sitemap
+    url: https://www.hs.fi/rss/custom/news-sitemap.xml
+
 rahti:
   # Rahti file to push / pull
   url: "https://api.github.com/repos/Klikkikuri/rahti/contents/data.json"
