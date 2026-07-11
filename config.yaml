@@ -9,10 +9,6 @@ sources:
       - https://yle.fi/rss/uutiset/tuoreimmat
       - https://yle.fi/rss/uutiset/luetuimmat
 
-  - name: MTV Uutiset – RSS
-    type: rss
-    url: https://www.mtvuutiset.fi/api/feed/rss/uutiset
-
   - name: MTV Uutiset – Sitemap
     type: sitemap
     url: https://www.mtvuutiset.fi/newssitemap
