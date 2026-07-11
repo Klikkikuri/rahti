@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-11T17:44:51Z",
+  "updated": "2026-07-11T17:57:26Z",
   "entries": [
     {
       "updated": "2026-07-10T15:37:13+03:00",
@@ -3619,7 +3619,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-11T17:44:51Z",
+      "updated": "2026-07-11T17:54:41Z",
       "urls": [
         {
           "sign": "66546ace31ec0bdc3feea51a5a4978e0b3597418177af3d1886e1e4e9c5b31ae",
@@ -4677,7 +4677,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-11T13:25:14Z",
+      "updated": "2026-07-11T17:53:24Z",
       "urls": [
         {
           "sign": "bc58e4d7b8152c5e87622e32d4ba82dcac73a82bfd4eb22e24ba74e8ce9fe914",
@@ -5845,6 +5845,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-11T17:10:28Z",
+      "urls": [
+        {
+          "sign": "881b358004bc1afb865e08d4c6c35850be77d55f0c33eec5c960fe88b9451b14",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "73-vuotias mies hukkui Narvijärvellä Raumalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-11T17:57:26Z",
+      "urls": [
+        {
+          "sign": "ec87506abfede6e4b92fd735744ec504f1d32f08ceba73fd17300a613daab5dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa rajusta ukonilmasta Uudellamaalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
