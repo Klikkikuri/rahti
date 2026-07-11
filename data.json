@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-11T15:28:20Z",
+  "updated": "2026-07-11T15:36:00Z",
   "entries": [
     {
       "updated": "2026-07-10T15:37:13+03:00",
@@ -3004,21 +3004,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-10T16:16:00+03:00",
-      "urls": [
-        {
-          "sign": "ca69b8173235fc54d9b378ebd3057b0f949c6c0fbda52f21a82ee90f7d6c901d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maastopalot vaativat ihmishenkiä Espanjan Almeriassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-11T11:04:00+03:00",
       "urls": [
         {
@@ -4808,7 +4793,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-11T18:22:00+03:00",
+      "updated": "2026-07-11T18:30:00+03:00",
       "urls": [
         {
           "sign": "1565c2d4eb3ff9118326af5386474548c6db57c592e920ebdfb9c8a2385146cb",
@@ -5755,6 +5740,36 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-11T18:30:00+03:00",
+      "urls": [
+        {
+          "sign": "e65421c1533ed2ee8d4ee2811642e297a18b4efd76f54585a579c1f4cbc19f19",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina on iskenyt useisiin venäläisaluksiin Asovanmerellä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-11T15:36:00Z",
+      "urls": [
+        {
+          "sign": "e9e86a5a5fcb15d94d5065cd69ac40be0ba2a18e7df9592b6c089024d7554fa6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liikenneonnettomuus Latviassa vaati useita ihmishenkiä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
