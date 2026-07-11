@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-11T18:28:56Z",
+  "updated": "2026-07-11T18:39:22Z",
   "entries": [
     {
       "updated": "2026-07-10T15:37:13+03:00",
@@ -949,21 +949,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-11T06:30:28+03:00",
-      "urls": [
-        {
-          "sign": "cc590c8bb808b4e981fddacb65dfdbbe31e608ee92112757c2a88fa5de605c0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtiovarainministeri Riikka Purra arvioi hallituksen sisäistä yhteistyötä ja talouspolitiikkaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-11T09:04:07+03:00",
       "urls": [
         {
@@ -1035,21 +1020,6 @@
       ],
       "title": "HJK kohtaa FC Lahden vaikeassa tilanteessa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-11T06:01:11+03:00",
-      "urls": [
-        {
-          "sign": "2be67831ff16126feab21bbc62d2fcafedb7715eba16466d4054285e9fe4ed7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija neuvoo: Näin tunnistat ja hoidat mökin tunkkaisen hajun",
-      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -4707,7 +4677,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-11T18:07:00+03:00",
+      "updated": "2026-07-11T21:31:00+03:00",
       "urls": [
         {
           "sign": "b3cc9af6c447025369a8dcc33e74f9c3a46f92a26de028d9ad8fa4260fff249e",
@@ -5817,7 +5787,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-11T21:27:00+03:00",
+      "updated": "2026-07-11T21:34:00+03:00",
       "urls": [
         {
           "sign": "f3dc35fae68c5f4e92d6ad826a6ae355b5251ad294cd9c6cb5d5fb07fd54edb5",
@@ -5826,8 +5796,8 @@
           ]
         }
       ],
-      "title": "Ilmatieteen laitos varoittaa ukkosista ja rankkasateista Uudellamaalla",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Ilmatieteen laitos varoittaa Uudenmaan rajuista ukkosista ja rankkasateista",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -5875,6 +5845,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-11T18:30:53Z",
+      "urls": [
+        {
+          "sign": "817a1c92047d1ce03a092d27421f5bd3d8a2f4cd240a7525dec4795abe54242f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yleisö voi äänestää Seinäjoen Tangomarkkinoiden voittajia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-11T18:30:36Z",
+      "urls": [
+        {
+          "sign": "83555f0bd285b67008e62432776f151870b0a122712cd619c3b9a2d4f83a0d51",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "bf1515d6b5f95dae1339fd6f8ddc47f6d60ea792bbd3881a8cac8bb98dc7b5bb",
+          "labels": []
+        }
+      ],
+      "title": "Atradius: Yrityspetosten määrä kasvaa ja menetelmät ammattimaistuvat",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-11T18:39:22Z",
+      "urls": [
+        {
+          "sign": "a1f11c5537d4e276e913d5766b7c5e729d8e5740e8f3d3a3b4c42f394a681fa3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilari Hämäläinen liikuttui kyyneliin Tangomarkkinoiden finaalissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
