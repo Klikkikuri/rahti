@@ -46,11 +46,14 @@ llm:
 # Url patterns to filter out early. These can be either simple substrings or regexes (if the pattern starts and ends with "/").
 url_blacklist:
   - "://www.iltalehti.fi/palat/"  # Lyhyet
+  - "://www.mtvuutiset.fi/videot/" # Video - no text
 
   # Alma syndicated sisältö
   - "://www.tekniikkatalous.fi/"
   - "://www.uusisuomi.fi/"
   - "://www.kauppalehti.fi/"
 
-  # Sports
+  # Sports, entertainment
   - "://www.hs.fi/urheilu/"
+  - "://www.hs.fi/pelit/"
+  - "://www.iltalehti.fi/urheilu/"
