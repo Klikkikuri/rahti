@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-13T19:29:37Z",
+  "updated": "2026-07-13T19:44:52Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -154,7 +154,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-13T19:16:43Z",
+      "updated": "2026-07-13T19:44:52Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -2552,21 +2552,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-13T05:57:32Z",
-      "urls": [
-        {
-          "sign": "3ae0536350467b8514742b556e1a295a6a86a6e2533f10409f021122add09d95",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Sam Neill on kuollut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-13T06:14:33Z",
@@ -6186,6 +6171,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-13T19:30:00Z",
+      "urls": [
+        {
+          "sign": "8ea13a5a6b1dc380a9b427d6d215c37091cac72b84fb56b8ca4d8d02f9e992a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brittinaisen pitkäaikaisten oireiden syyksi paljastui neurokystiserkoosi",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
