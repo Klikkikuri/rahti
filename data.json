@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-13T14:43:29Z",
+  "updated": "2026-07-13T14:57:35Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -139,7 +139,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-13T12:50:59Z",
+      "updated": "2026-07-13T14:54:40Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -722,21 +722,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-12T07:30:49Z",
-      "urls": [
-        {
-          "sign": "e082145ef610479e4eb141dfeb4238c6db1b253fb3c8ebdf573454d0b327ff30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain senaattori Lindsey Graham on kuollut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-12T07:25:38Z",
@@ -2327,36 +2312,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-12T18:23:33Z",
-      "urls": [
-        {
-          "sign": "627e428a15e6d14b5c2f4edcca1b715f47d5857f2d1e5e9b927257c94da57bff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lahden Kymijärveen kadonnut mies löytyi hukkuneena",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-12T18:22:35Z",
-      "urls": [
-        {
-          "sign": "4bfd57022f22061a28ed92cb605d191eb481497419c57e180a2c854c216a1b1b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjalaisaituri Lovise Andresen poistui radalta Tampereen GP-kilpailun jälkeen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-12T18:37:25Z",
@@ -6182,6 +6137,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-13T14:45:40Z",
+      "urls": [
+        {
+          "sign": "e1342b876e889e5d51b80e6ae5e9090a943932a8490ea3e35f15c3a5b353ee95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toivo Sukari avasi uudistetun Asko-myymälän Lempäälässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-13T14:55:32Z",
+      "urls": [
+        {
+          "sign": "ca3a56381f36be80aef67a88f98bb7c2fa9414165e3091d6565566369fa810cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii kansanedustajan puolisoa epäillystä kunnianloukkauksesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-13T14:57:35Z",
+      "urls": [
+        {
+          "sign": "ab47f29c7ef95ccb190ea2016f3f482f12bbb456ee42b094343894956332f3e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "95ac6234c74ea0d2d99bce82f93d69558f0bc31e8a1370ebb3fe42f976f36def",
+          "labels": []
+        }
+      ],
+      "title": "Burgas ja Sofia kilpailevat Bulgarian Euroviisujen isännyydestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
