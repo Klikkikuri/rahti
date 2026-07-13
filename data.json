@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-13T02:41:21Z",
+  "updated": "2026-07-13T05:59:00+03:00",
   "entries": [
     {
       "updated": "2026-07-11T07:35:10+03:00",
@@ -679,21 +679,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-11T11:40:00Z",
-      "urls": [
-        {
-          "sign": "7063adb56ed8b0f882425ae629e0dc399611d6bd7eb13a01b6ad805beb7f997a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin prinsessa Estelle osallistui kesäleirille Yhdysvalloissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-11T17:05:00+03:00",
       "urls": [
         {
@@ -737,51 +722,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-11T12:30:00Z",
-      "urls": [
-        {
-          "sign": "d66c7d6cea46cd562d204eab534080744eb2b15b87e6106befb04df1139a71fa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alona Kuusisto kertoo lastensa suhtautuvan ymmärtäväisesti hänen podcast-työhönsä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-11T12:33:17Z",
-      "urls": [
-        {
-          "sign": "9b2efc3db33bb5ac9bc6639763ae1e8138eb7a7d0f91fafdc2dcab39616ed3f6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranin uusi ylin johtaja vannoo kostoa, maa neuvottelee Yhdysvaltojen kanssa Omanissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-11T12:30:25Z",
-      "urls": [
-        {
-          "sign": "6379dad636ef3b945fae5beafd0bf5dc7e03691b9a18768386c260ef4ef0d694",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Painivalmentaja Petra Olli on saanut toisen lapsen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-11T12:50:41Z",
@@ -5877,7 +5817,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-13T01:26:00+03:00",
+      "updated": "2026-07-13T05:59:00+03:00",
       "urls": [
         {
           "sign": "3f5f8bf448243fcea133e69b6f929f782a27b21feef9338fe208ffd72f6ef1fc",
@@ -5886,8 +5826,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat teki sotilaallisia iskuja Iraniin Hormuzinsalmen turvallisuuden varmistamiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Yhdysvallat iski Iranin sotilaskohteisiin ja käytti ensi kertaa meridrooneja",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -6173,6 +6113,66 @@
       ],
       "title": "Kirsi-Marja Aho on kesyttänyt säyneitä Savossa",
       "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-13T02:54:29Z",
+      "urls": [
+        {
+          "sign": "dba7e9a16f48ebacbb243fd37794fef991b1f821922f9bec543a2342e5b2b8a3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat toteutti sotilasiskun Iraniin presidentti Trumpin määräyksestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-13T02:47:06Z",
+      "urls": [
+        {
+          "sign": "3cf8a2af1d79200a96a657f4f6239a1ef4d38c86a9cadcfe654242138de807e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan maastopalojen uhriluku kasvoi, viranomaiset saivat palot hallintaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-13T02:47:00Z",
+      "urls": [
+        {
+          "sign": "028260d2f9224063ae3bd067f6482b9adac72b316a17654e0d991d93f3e23607",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Torniolainen maanviljelijä tuomittiin ympäristön turmelemisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-13T02:57:57Z",
+      "urls": [
+        {
+          "sign": "533e26c20022858b1a0a783264c6f74e9b616a3d44f2c693158dfa9ff29ddca1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtionjohtajat kokoontuvat Pariisiin keskustelemaan Ukrainan tuesta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
