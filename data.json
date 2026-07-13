@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-13T11:28:27Z",
+  "updated": "2026-07-13T14:44:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -212,21 +212,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-11T13:49:16Z",
-      "urls": [
-        {
-          "sign": "e85d4108052fc704affbfd62a01fb18a473beec1959a727a540644a8d54ac32b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Harri Heliövaara ja Henry Patten voittivat Wimbledonin nelinpelin mestaruuden",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-12T08:30:00+03:00",
@@ -2552,21 +2537,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-12T15:12:50Z",
-      "urls": [
-        {
-          "sign": "e9bdf10ad240ef99ed263dd49c6b45cee4f9f1f47ac17dce509c6110284f448f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirja: Popedan viimeinen stadionkeikka oli vaarassa peruuntua Pate Mustajärven terveydentilan vuoksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-12T18:23:00+03:00",
@@ -6023,7 +5993,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-13T14:26:00+03:00",
+      "updated": "2026-07-13T14:44:00+03:00",
       "urls": [
         {
           "sign": "4c8c5edff92e0edb186224a27b193d7cbc801054e54a185a783b38bb0348d02c",
@@ -6032,7 +6002,7 @@
           ]
         }
       ],
-      "title": "Korkein oikeus ei myöntänyt valituslupaa Aleksanteri Kivimäelle Vastaamo-jutussa",
+      "title": "Korkein oikeus hylkäsi Aleksanteri Kivimäen valituslupahakemuksen Vastaamo-jutussa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6171,6 +6141,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-13T11:40:26Z",
+      "urls": [
+        {
+          "sign": "6601ba80af140838df3243a211dd12bd74f22406cb93dd2c6f1fa8fcf07e34aa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lionel Messi kohtaa Englannin ensimmäistä kertaa MM-välierässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-13T11:43:49Z",
+      "urls": [
+        {
+          "sign": "e9cbbab7ccb7f8dc7606c11b17877b89ae8cb077a66af8d840e9aeb871578de7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuopion kaupunki valmistelee Minna Canthin kotitalon Kanttilan peruskorjausta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
