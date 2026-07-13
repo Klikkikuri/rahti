@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-13T12:44:21Z",
+  "updated": "2026-07-13T12:50:59Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -139,7 +139,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-13T12:34:24Z",
+      "updated": "2026-07-13T12:50:59Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -347,21 +347,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-11T22:07:00+03:00",
-      "urls": [
-        {
-          "sign": "cbd17ae1bc1038e0c09bdb06b533286dd0e10129bfd76d7f43c04cdde093891f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Raija Mäntyniemi ja Juho Punkeri valittiin vuoden 2026 tangokuninkaallisiksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-11T22:09:00+03:00",
@@ -2492,21 +2477,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-12T16:21:41Z",
-      "urls": [
-        {
-          "sign": "2bd7ee22527926d7e2483fbcae277e9c6228548fdf7b94d4714cdc3d0d71104d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Päivi Räsäsen matkustuslupa Britanniaan on evätty",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-12T16:26:24Z",
@@ -5914,7 +5884,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-13T12:21:45Z",
+      "updated": "2026-07-13T12:49:47Z",
       "urls": [
         {
           "sign": "0dedcdb97a4e00ec1a7afb75aefa15160d97b367ba797216dfd48ad86f4ae63d",
@@ -5923,8 +5893,8 @@
           ]
         }
       ],
-      "title": "Poliisi eristi Koverharintien Hangossa epäillyn sotilasräjähteen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Poliisi on eristänyt Koverharintien Hangossa epäillyn sotilasräjähteen takia",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -6167,6 +6137,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-13T12:45:54Z",
+      "urls": [
+        {
+          "sign": "95fc200e1888ecaa348c0a4049ef456ec2f1eff5e7d581db7a7a6915754de1b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miss Suomi 2026 -semifinalistit osallistuivat kuvaussessioon hevostallilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-13T15:47:00+03:00",
+      "urls": [
+        {
+          "sign": "c092c5a337c72ce24bdbdf910599f82b465e1aa88543a1f3f10d57adfe49395a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltojen ja Iranin sopimus Hormuzinsalmesta on kariutunut",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
