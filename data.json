@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-13T15:12:44Z",
+  "updated": "2026-07-13T15:24:35Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -392,21 +392,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-12T02:43:13Z",
-      "urls": [
-        {
-          "sign": "2e5d586eea0c2cfdd7b9282b8fdcbf4a3ed31fed42aff68f4d05ea7781f2a95c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ylen selvitys: Googlen tekoäly käyttää kansanedustajien mainoslauseita ja valikoi tietoja sattumanvaraisesti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-12T03:29:58Z",
@@ -2237,21 +2222,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-12T18:37:25Z",
-      "urls": [
-        {
-          "sign": "c868c2d1e74107441dd8bb5984f90fb26b8aa3a87904190e20944e0086e95bf3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espoolainen mies löytyi hukkuneena Lahden Kymijärvestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-12T18:27:24Z",
@@ -6186,6 +6156,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-13T15:22:43Z",
+      "urls": [
+        {
+          "sign": "e8745a6194d0dbc3ef0f14e7dd33e339b7ed966c6b48c85ea50a4d63e50dbd8f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinkiläinen Vilma Koivisto pääsi Bad Bunnyn keikalla lavalle Tukholmassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-13T15:24:35Z",
+      "urls": [
+        {
+          "sign": "3a566fc9d5cf2b4faa85d9740713ad0efa5594ebf229c82d573305dc1016d9dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vinod Khoslan johtama ryhmä ostaa Seattle Seahawksin 9,61 miljardilla dollarilla",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
