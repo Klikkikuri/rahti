@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-14T09:59:00+03:00",
+  "updated": "2026-07-14T10:06:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -977,21 +977,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-13T02:15:00Z",
-      "urls": [
-        {
-          "sign": "a9f4ed7e9566a64b153727c56597ef07c777282b47a4004a8f34adb2637deca5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaalla tuomittiin neljä henkilöä lähes 200 000 euron väärennösrahan maahantuonnista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-13T02:18:05Z",
@@ -2164,21 +2149,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-13T10:45:03Z",
-      "urls": [
-        {
-          "sign": "a71fcb2d8912e0519cfdd1e993a59a75751a1aa8efab1a2835ac3125bd42be5d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donald Trump ei ole toistaiseksi osallistunut jalkapallon MM-kisoihin – odotetaan finaaliin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-13T13:39:00+03:00",
       "urls": [
         {
@@ -2237,21 +2207,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-13T10:49:53Z",
-      "urls": [
-        {
-          "sign": "5da0b3c8cad5361a1e60994bf83f28b52fc76440a2505697953308959914ad8a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapsi jäi auton alle Helsingin Töölössä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-13T10:57:34Z",
@@ -5063,7 +5018,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-14T09:58:00+03:00",
+      "updated": "2026-07-14T10:06:00+03:00",
       "urls": [
         {
           "sign": "7d6133f06abe19918888c9ff02370fc7dbcac0b9888c8045d3d985dff019d56c",
@@ -5072,7 +5027,7 @@
           ]
         }
       ],
-      "title": "Poliisi tutkii Munkkivuoren kirkon lisärakennuksen tulipaloa tuhopolttona",
+      "title": "Poliisi epäilee Munkkivuoren kirkon lisärakennuksen tulipaloa tuhopoltoksi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6186,6 +6141,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-14T07:00:23Z",
+      "urls": [
+        {
+          "sign": "a1b8ac5dd02e81d8d37a90db208a0d398e261b653f5c4b2a18e5ce2498e17226",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aurinkovoiman lisääntyminen laskee sähkön hintaa päiväsaikaan",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T07:04:03Z",
+      "urls": [
+        {
+          "sign": "d8d33eca57b181f1b1b98f720377db0d79ba7d53b066d46bf652aa6f416e513f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "e05b8a32cdf113f985431b017e33d1394cbef41c1bb24403b05b30e731836911",
+          "labels": []
+        }
+      ],
+      "title": "Suojelupoliisi varoittaa Venäjän kyberiskuista yritysten verkkolaitteisiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T06:58:54Z",
+      "urls": [
+        {
+          "sign": "aab704217168e27a0ac105bb5942aa980cb6fd4db7751ef25f184876d898d798",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranin parlamentti käsittelee lakiesitystä Hormuzinsalmen turvallisuuden vahvistamisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
