@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-14T21:19:45Z",
+  "updated": "2026-07-14T21:41:11Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -694,21 +694,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-13T13:19:57Z",
-      "urls": [
-        {
-          "sign": "3002e52bf9dd8c26142e768403c7ec0bffc919e8494d85f9c3d590a2d71d6a6d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Manchester United hankki Andrey Santosin Chelseasta 50 miljoonalla punnalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-13T16:31:00+03:00",
       "urls": [
         {
@@ -947,21 +932,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-13T15:57:02Z",
-      "urls": [
-        {
-          "sign": "6717b2b8ef7651f86300126a60eaa74acdf567a429b261f114436e12a8deab5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rankkasade romutti tien Somerolla – korjaustyöt kestävät viikkoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-13T16:10:22Z",
@@ -6186,6 +6156,36 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T21:30:30Z",
+      "urls": [
+        {
+          "sign": "fdd1e2c0177b4a95739b81aad0e8f72dc807cd1f0de9870ab0fed5197aaa19dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanja voitti Ranskan MM-välierässä – Ranskan hyökkäyspeli jäi aseettomaksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-14T21:41:11Z",
+      "urls": [
+        {
+          "sign": "2408414e852adf23b92a80354cb43dc8f6c156cac51e75a0819769e620d9d339",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan ilmatieteen laitos: Manner-Espanjassa mitattiin mittaushistorian kuumin alkukesä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
