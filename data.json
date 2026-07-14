@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-14T04:54:00+03:00",
+  "updated": "2026-07-14T02:09:00Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -392,21 +392,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-12T09:48:23Z",
-      "urls": [
-        {
-          "sign": "dd739ac8543841e5819b1c800b6d0b8b542691ca4d708e65404f4775ccfe366f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä-Korea otti käyttöön uuden lämpövaroitusjärjestelmän – ensimmäinen varoitus annettiin 38 asteen helteestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-12T10:13:56Z",
@@ -2460,21 +2445,6 @@
       ],
       "title": "Norjalainen sairaalasarja Yhä hengissä kerää kiitosta katsojilta",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-13T07:18:53Z",
-      "urls": [
-        {
-          "sign": "681eb8be39aaef664c8ab705f37443ebe397c5552b6aea40e7db1cf114a01da7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Djurgården ja Halmstad kohtaavat Allsvenskanin ottelussa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5093,7 +5063,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-13T19:52:03Z",
+      "updated": "2026-07-14T02:08:57Z",
       "urls": [
         {
           "sign": "78ca1df8106ac3d0f87db7b2dc19f4e9638f0014dfe017fc4ae141d620d0435e",
@@ -5102,8 +5072,8 @@
           ]
         }
       ],
-      "title": "Viisivuotias tyttö loukkaantui vakavasti puukotuksessa Helsingborgissa – poliisi on ottanut alaikäisen kiinni",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Viisivuotias tyttö loukkaantui vakavasti puukotuksessa Helsingborgissa – alaikäinen otettu kiinni",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -6186,6 +6156,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-14T02:05:14Z",
+      "urls": [
+        {
+          "sign": "3a404244e21e625414d6b4379ab37eb3c5a129dc531d981c8124b28b2060bf83",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "USU-gallup: Perussuomalaiset on suomalaisten vähiten haluttu puolue",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T02:09:00Z",
+      "urls": [
+        {
+          "sign": "8a0ef9b1a6f05f1df4299ed83340f8d2f4c86c74d9b8a1516b6b5f9876545086",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolme avaruuslentäjää suuntaa Kansainväliselle avaruusasemalle Baikonurista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
