@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-14T10:57:39Z",
+  "updated": "2026-07-14T11:13:07Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -754,21 +754,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-13T05:08:50Z",
-      "urls": [
-        {
-          "sign": "740b9ba7638a93dbe9290e88e482ce18c7667abec56c48426595ca5f39ba6de5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seinäjoen tangomarkkinoiden kävijämäärä kasvoi neljättä vuotta peräkkäin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-13T07:07:47Z",
       "urls": [
         {
@@ -782,21 +767,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-13T05:24:37Z",
-      "urls": [
-        {
-          "sign": "8deeae04be9d563b67f5474ec7f891cd12a016547c657694b1b6b6218978b271",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Luonnonvarakeskus ennustaa hyvää mustikka- ja puolukkasatoa, hillasato vaihtelee",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-13T05:41:30Z",
@@ -2477,21 +2447,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-13T15:09:35Z",
-      "urls": [
-        {
-          "sign": "814afbf7b4bd38a3c36e7a3eb949737d025e8f8f03289ac3babaf1beabe77949",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain maahanmuuttovirasto osallisena ammuskelussa Mainessa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-13T15:00:23Z",
@@ -4249,7 +4204,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-14T03:35:00Z",
+      "updated": "2026-07-14T11:00:51Z",
       "urls": [
         {
           "sign": "b36c545eafc0778a4d77479b9aab00595ec51ec44f7b6fcda8807a5a3a9e1a15",
@@ -4258,7 +4213,7 @@
           ]
         }
       ],
-      "title": "Sinilevää on havaittu rannikolla – tuuli estää toistaiseksi levälauttojen rantautumisen",
+      "title": "Sinilevää havaittu rannikolla – tuuli estää toistaiseksi levälauttojen rantautumisen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5438,7 +5393,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-14T13:27:00+03:00",
+      "updated": "2026-07-14T14:09:00+03:00",
       "urls": [
         {
           "sign": "1c8d8c528dd8871acb3012ffb2e6bf70a8a5726b772129dce4c62475927e96a5",
@@ -6186,6 +6141,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T11:01:16Z",
+      "urls": [
+        {
+          "sign": "483fa890f1a0b014e696f8b4a784e7015b6c617048aebe63900815859ea80a3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rajavartiolaitos tutkii iranilaispariskunnan oleskelulupapetosta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T11:11:35Z",
+      "urls": [
+        {
+          "sign": "5df2167ec5c71ff9167baf433acf7e0237857c1ef120657c313d2eda9f335388",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vanhempi konstaapeli Ella Varis on irtisanoutunut poliisin työstä työpaikkakiusaamisen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-14T11:13:07Z",
+      "urls": [
+        {
+          "sign": "6c9a6b75ce79e10c32b6249700f0f3c5ad77646ec8a505fbaf03d46017620dc8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi on saanut valmiiksi esitutkinnan Kajaanin kehitysvammaisten asumisyksikön epäillyistä rikoksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
