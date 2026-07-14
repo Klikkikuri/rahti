@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-14T11:44:40Z",
+  "updated": "2026-07-14T15:00:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -259,21 +259,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-12T15:51:00+03:00",
-      "urls": [
-        {
-          "sign": "168f7fc5b080ba31b89df3020f849c1c3ccd050e7a6cde737802e6c708c308a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Manchester City hankki 17-vuotiaan Jeremy Mongan Leicesteristä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-12T16:23:00+03:00",
       "urls": [
         {
@@ -330,21 +315,6 @@
       ],
       "title": "Ukrainan presidentti Zelenskyi erotti pääministeri Svyrydenkon ja ilmoitti hallituksen uudistamisesta",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-12T16:22:00+03:00",
-      "urls": [
-        {
-          "sign": "e9c449140174ba149ad724243295752162a9d68c8b43bb18119d296afab756dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi: Kaisaniemenpuiston levottomuus on vähentynyt",
-      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -2522,36 +2492,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-13T16:09:13Z",
-      "urls": [
-        {
-          "sign": "fa72e654a951bce46a0ffc5d39d7a37e96c9651f0422fee22786fb4ce6f52109",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Polttoainepula aiheuttaa jonoja ja hintojen nousua Venäjällä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-13T16:09:31Z",
-      "urls": [
-        {
-          "sign": "734e045ee2138c0d9a0c572b606ce7397cd571ceb3b86763de42b8a7107da4e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alankomaalainen jalkapallotuomari Rob Dieperink on kuollut 38-vuotiaana",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-13T19:15:00+03:00",
@@ -6186,6 +6126,66 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T11:57:41Z",
+      "urls": [
+        {
+          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti julkaisi uuden palvelun pörssisähkön hintojen seuraamiseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "2ec3967220951e770713b375a552a8f15c3f98fcca631b8869ee970c43c6d5e2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinkiläinen asukas kritisoi katujen toistuvaa asfaltointia resurssien tuhlauksena",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-14T11:46:33Z",
+      "urls": [
+        {
+          "sign": "7df5b11b28763c92e2eb12d8dba31834ee6a1fcf74e6b805a2c1524ac1dafae2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanja ja Ranska kohtaavat jalkapallon maailmanmestaruuskilpailujen välierässä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-14T14:56:00+03:00",
+      "urls": [
+        {
+          "sign": "0d153328cfecdd10c7674cf724e4026c33c03553393487db5b7801ecea29b7a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump ehdottaa 20 prosentin maksua Hormuzinsalmen kautta kulkevalle rahdille",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
