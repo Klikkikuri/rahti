@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-15T06:10:44Z",
+  "updated": "2026-07-15T06:23:16Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -694,21 +694,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-13T17:15:00Z",
-      "urls": [
-        {
-          "sign": "b86afb43377576fb8d7ece697df1671c4c2d0c2d9e58c49112ce8da875cfaa91",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaan päiväkotipalon syytteet raukesivat sovittelun myötä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-13T17:19:01Z",
       "urls": [
         {
@@ -1277,21 +1262,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-14T04:22:43Z",
-      "urls": [
-        {
-          "sign": "fd32b82cd836187e0a05e770f9e7548b4910198e994ce67eec566cc27e5a56fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat rajoittaa Kongosta palaavien kansalaistensa maahantuloa ebolan vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-14T04:36:02Z",
@@ -6182,6 +6152,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-15T06:23:16Z",
+      "urls": [
+        {
+          "sign": "4b774e76f681fcf5a5b413bf8827b46170f97df1a44017eec6eed7e4cdcf2799",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lounasitu Oy:n ituja yhdistetty salmonellaepidemiaan – toimitusjohtaja kertoo siementen alkuperän olleen epäselvä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-15T06:16:00Z",
+      "urls": [
+        {
+          "sign": "ba86f56ecad27e82c6cf2cdcc3cb3c853cf7c4f8e74c6083ea668ce53d5bbb98",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset ja asiantuntijat varoittavat Venäjän kybervaikuttamisesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
