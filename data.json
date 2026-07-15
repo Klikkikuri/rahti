@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-15T04:37:24Z",
+  "updated": "2026-07-15T04:53:21Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1172,21 +1172,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-14T02:22:49Z",
-      "urls": [
-        {
-          "sign": "120fe98515fbd86b067c1fa7b55150f3641afce0dce3917826043ee21483aeff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä- ja Keski-Suomeen ennustetaan lämmintä säätä, keskiviikkona helteitä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-14T02:26:27Z",
@@ -6179,6 +6164,21 @@
         }
       ],
       "title": "Verotus, kilpailu ja jakeluvelvoite selittävät Suomen ja Ruotsin polttoaineiden hintaeron",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-15T04:53:21Z",
+      "urls": [
+        {
+          "sign": "f8c5de72606aa1757401fd9dc77b681e2157d82898098bf93fd9b7aba36e315d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marjatehtaan ammoniakkivuoto Kainuussa on päättynyt",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
