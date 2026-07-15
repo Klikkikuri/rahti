@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-15T08:57:56Z",
+  "updated": "2026-07-15T12:12:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -254,21 +254,6 @@
         }
       ],
       "title": "Helsingin Sanomat pyytää opiskelijoita vastaamaan kyselyyn taloudesta ja asumisesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-13T15:11:00+03:00",
-      "urls": [
-        {
-          "sign": "5170eb9a0a756e50f52a1bd34b46b58ba80f11f14092d5ec1f57160837c3f737",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroopan komissio valmistelee sosiaalisen median ikärajaa alle 13-vuotiaille vanhempien valvonnassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -2014,21 +1999,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-14T13:12:21Z",
-      "urls": [
-        {
-          "sign": "63a36a0a6f2ffe4574efcb4215ab0ef4b2c53fe4679ef6b24e93a542f62ef320",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Erityisluokanopettaja vangittu epäiltynä törkeästä seksuaalirikoksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-14T12:14:41Z",
       "urls": [
         {
@@ -2222,21 +2192,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-14T13:06:57Z",
-      "urls": [
-        {
-          "sign": "6537c6d64d2e0790f6e6b0c2402b55709076701725fcbf62c700b1dfecbba804",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirjailija Satu Rämö muuttaa Ísafjörðurista Reykjavikiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-14T13:09:41Z",
@@ -6053,7 +6008,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-15T08:50:54Z",
+      "updated": "2026-07-15T09:09:22Z",
       "urls": [
         {
           "sign": "afcc013c402dab41ebf8356aaed60efa53bbe33f37f95f2c916644187b84ba03",
@@ -6113,7 +6068,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-15T08:39:53Z",
+      "updated": "2026-07-15T09:07:31Z",
       "urls": [
         {
           "sign": "baab0cf01dd9ba94401e6fffe37cec1115414ab94ecd699dea166fd3ec78d99d",
@@ -6122,7 +6077,7 @@
           ]
         }
       ],
-      "title": "Kansanedustaja Pia Kauma kertoo sairastuneensa borrelioosiin paarman puremasta",
+      "title": "Kansanedustaja Pia Kauma sairastui borrelioosiin paarman puremasta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6184,6 +6139,51 @@
       ],
       "title": "Työntekijä menehtyi räjähdyksessä Nammon ruutitehtaalla Laukaassa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-15T09:04:45Z",
+      "urls": [
+        {
+          "sign": "12bf15265f17d659d495618ba2d69396d350c886d0acea286fdd3813f2bdea99",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtiontalouden tarkastusvirasto selvittää Jan Vapaavuoren Garden Helsinki -hankkeen avoimuusrekisteritietoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-15T09:00:48Z",
+      "urls": [
+        {
+          "sign": "dbd97840c002beff9a1f55c4f417de7f77e244b47d6de6b1437833cc9d85cfb7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Englanti ja Argentiina kohtaavat jalkapallon MM-kisojen välierässä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-15T12:12:00+03:00",
+      "urls": [
+        {
+          "sign": "b724d6a822babcb4e37e438e237fc18bcbbcf4b7a48791e41f24e6ff84d23f65",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtiontalouden tarkastusvirasto selvittää Jan Vapaavuoren ja Garden Helsinki -hankkeen avoimuusrekisteri-ilmoituksia",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     }
