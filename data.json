@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-15T03:06:03Z",
+  "updated": "2026-07-15T03:22:31Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1217,21 +1217,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-13T23:18:17Z",
-      "urls": [
-        {
-          "sign": "bd2484af803f9c1f03724aab9bfaef57a89d81c5ea0e32722384deb1446715b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi otti kaksi kiinni epäiltynä tuhopoltosta Fontainebleaun metsäpalon yhteydessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-14T00:18:57Z",
@@ -6182,6 +6167,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-15T03:22:31Z",
+      "urls": [
+        {
+          "sign": "7f267543a76bedc1ba100217e9feab2a2b592c8f9a1af9caf6764df2fc7d440b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan viranomaiset vahvistivat maastopalojen uhrien kansallisuudet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
