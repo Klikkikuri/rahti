@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-15T00:31:23Z",
+  "updated": "2026-07-15T00:44:28Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -962,21 +962,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-13T16:30:42Z",
-      "urls": [
-        {
-          "sign": "0ba853b93cada84c4b6aacce7537a32423dc8003a7b1850e2a86253fa44404dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Unkarin parlamentti päätti presidentti Tamás Sulyokin toimikauden perustuslain muutoksella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-13T16:43:09Z",
@@ -6182,6 +6167,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-15T00:44:28Z",
+      "urls": [
+        {
+          "sign": "4e99019602e3b0a8cc0d3ee96a1e703aa2e59790fea2a12e610ba35e4576eb1f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan unioni nimesi 15. heinäkuuta globaalin ilmastokriisin uhrien teemapäiväksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
