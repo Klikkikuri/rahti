@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-15T01:08:30Z",
+  "updated": "2026-07-15T01:43:54Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -139,7 +139,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-14T22:55:38Z",
+      "updated": "2026-07-15T01:43:54Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -209,21 +209,6 @@
         }
       ],
       "title": "Bangkokin baaripalo aiheutti useita kuolonuhreja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-13T08:00:00+03:00",
-      "urls": [
-        {
-          "sign": "e59edefa128e702d5e990d3e273565844664cede012267385429e3032a052382",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sytisinikliini sai myyntiluvan Suomessa, mutta lääke ei ole vielä saatavilla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6182,6 +6167,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-15T04:28:00+03:00",
+      "urls": [
+        {
+          "sign": "ac378a05fa3345f58178d8a55e9a14c7771b429cdea8d08019f96034a8d1e8a5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomussalmella kemikaalionnettomuus: pelastuslaitos varoittaa ammoniakkivuodosta Kurimon ja Siikarannan alueilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
