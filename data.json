@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-15T01:43:54Z",
+  "updated": "2026-07-15T04:59:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2282,21 +2282,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-14T07:15:23Z",
-      "urls": [
-        {
-          "sign": "e5b5fce5c976551f3f44f5004ec48c50de8c7c7b59e08f33e304a830630e406a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "The Guardian suosittelee Porin Yyteriä matkakohteeksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-14T07:28:27Z",
@@ -6169,7 +6154,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-15T04:28:00+03:00",
+      "updated": "2026-07-15T04:59:00+03:00",
       "urls": [
         {
           "sign": "ac378a05fa3345f58178d8a55e9a14c7771b429cdea8d08019f96034a8d1e8a5",
@@ -6178,10 +6163,25 @@
           ]
         }
       ],
-      "title": "Suomussalmella kemikaalionnettomuus: pelastuslaitos varoittaa ammoniakkivuodosta Kurimon ja Siikarannan alueilla",
+      "title": "Suomussalmen kemikaalionnettomuus: pelastuslaitos kehottaa suojautumaan ammoniakkivuodon vuoksi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-15T01:42:28Z",
+      "urls": [
+        {
+          "sign": "60420e0ae8754548b060394bfa004ecccf74e432e8d6f22b0927e2a25bc869d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomussalmella annettu vaaratiedote ammoniakkivuodon vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
