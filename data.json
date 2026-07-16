@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-16T00:29:15Z",
+  "updated": "2026-07-16T04:07:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -285,21 +285,6 @@
       ],
       "title": "Helsingin Sanomien digitaalinen näköislehti on jälleen luettavissa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-14T10:29:00+03:00",
-      "urls": [
-        {
-          "sign": "1236cf0bcbc44927ca2f94dd16af8396460e8c5ce4099691534160ba917e6994",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinkiläinen autokouluopettaja antoi ajo-opetusta ajokiellon aikana",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -2537,21 +2522,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-15T08:01:34Z",
-      "urls": [
-        {
-          "sign": "efe04a75028cd6edb8fee012dbe91bbfad62f95cfd7e25bf1313dae0790ceca0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskusta vaatii hallitukselta luottamusäänestystä Garden Helsinki -hankkeen rahoituspäätöksestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-15T15:37:29Z",
@@ -6182,6 +6152,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-16T01:01:45Z",
+      "urls": [
+        {
+          "sign": "6389fe985af41ec6c9ea1ce2ce1efee67d0cda48b995e1e562ad1cccfde71702",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MTV:n 120 Minutes -ohjelman juontaja Dave Kendall on kuollut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-16T04:07:00+03:00",
+      "urls": [
+        {
+          "sign": "77f3060a3b9aa9b5f5d348808617e287ac320a74ba79aa5ad0fe55c409d5b323",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanadan maastopalojen savu heikentää ilmanlaatua Torontossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
