@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-16T20:11:35Z",
+  "updated": "2026-07-16T23:26:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -272,21 +272,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-14T23:13:00+03:00",
-      "urls": [
-        {
-          "sign": "994a929816d840faa6f9042e33c3d4fff8ef77d73e89fe429c30f04559b9e453",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tyrannosaurus rexin luuranko myytiin 50 miljoonalla dollarilla – tutkijat kritisoivat fossiilien yksityisomistusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-15T00:49:00+03:00",
@@ -2462,21 +2447,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-16T06:47:33Z",
-      "urls": [
-        {
-          "sign": "095aa9346b2595ba19224d3dff6cc0fe318f68140ee2043360ab3e7c45476e81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lionel Messi kiistää väitteet Argentiinan suosimisesta jalkapallon MM-kisoissa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -6197,6 +6167,36 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-16T20:23:41Z",
+      "urls": [
+        {
+          "sign": "3b4195d44c92e9de089a822ec5be4c6cc13a8f7b56a528136742afbeef5195eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: Espoon myöhäisillan rälläköinti oli liikennemerkkien vaihtotyötä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-16T23:26:00+03:00",
+      "urls": [
+        {
+          "sign": "86fdd1dc30fdcdbcf0d35e64917b09d896e95d14dfd41adc43249a08c6081b4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Britannian hallitus valmistelee vahvojen energiajuomien myyntikieltoa alle 16-vuotiaille Englannissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
