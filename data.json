@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-16T20:46:35Z",
+  "updated": "2026-07-17T00:17:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -272,21 +272,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-15T00:49:00+03:00",
-      "urls": [
-        {
-          "sign": "51cff1d4c69006d522151b71db7e72c643b7ac105740c5a305801375b68a98fc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Ann Widdecomben kuolemaa mahdollisena poliittisena rikoksena",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-15T02:00:00+03:00",
@@ -6197,6 +6182,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-17T00:17:00+03:00",
+      "urls": [
+        {
+          "sign": "fb1e31015cc38811c84c8011da69cb0d4df52dc4cb85406ffc823dc781e3afdf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Texasissa varoitetaan vakavista tulvista rankkasateiden vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
