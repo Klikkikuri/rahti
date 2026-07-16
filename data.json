@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-16T19:13:38Z",
+  "updated": "2026-07-16T19:26:01Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2402,21 +2402,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-16T05:42:02Z",
-      "urls": [
-        {
-          "sign": "f6c8342538289b77df81dc3e364324a0161b5f5629da59043ee78524d05b4fe9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Helsingin päärautatieasemalla tapahtunutta tapon yritystä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-16T05:51:12Z",
@@ -5659,7 +5644,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-16T19:13:38Z",
+      "updated": "2026-07-16T19:18:26Z",
       "urls": [
         {
           "sign": "f778042fa622151ffffbfebccd3622c226f16d9db65de34fad0e83965b6cd96c",
@@ -6195,6 +6180,21 @@
       ],
       "title": "Podcast-juontajan kertomus lemmikin lopettamisesta herätti arvostelua sosiaalisessa mediassa",
       "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-16T19:26:01Z",
+      "urls": [
+        {
+          "sign": "c24fc200874cc660b81c22ab200fb4c2b8e903fb9eda4a80ce405a6cb8f2cfc3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii 8-vuotiaan pahoinpitelyä syövyttävällä nesteellä Vaasassa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
