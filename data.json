@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-17T01:10:00+03:00",
+  "updated": "2026-07-16T22:20:10Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1262,21 +1262,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-15T17:20:23Z",
-      "urls": [
-        {
-          "sign": "720542ad2d409594aee4e35f17f1950da3229604d6db9c92762ba614e56fa2d2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU-maat eivät päässeet sopuun uusista Venäjä-pakotteista – öljyn hintakatto jatkuu väliaikaisesti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-15T23:20:00+03:00",
@@ -6197,6 +6182,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-16T22:20:10Z",
+      "urls": [
+        {
+          "sign": "e4b286fddc3ba131471ba1e4aa57f7697f6e5b0d877532372f1a0a175cb60d7c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maailman terveysjärjestö varoittaa ebolaepidemian kiihtymisestä Kongon demokraattisessa tasavallassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
