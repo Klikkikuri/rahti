@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-16T23:26:00+03:00",
+  "updated": "2026-07-16T20:42:52Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -797,21 +797,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-15T12:54:27Z",
-      "urls": [
-        {
-          "sign": "88d6c38e92535479c2c374e33f0051fe059a45ec1cf54b918fefb0f536abcbcb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Telemarkkinointiliitto varoittaa lisääntyneistä huijausviesteistä ja -puheluista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-15T13:03:23Z",
@@ -2522,21 +2507,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-16T06:57:53Z",
-      "urls": [
-        {
-          "sign": "e6416a286f4c4dce9eeed2bc6c3ce0b6750d7a10e3f3cb6a3d1117802f6cc65f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto tarkensi tietoja kevään salmonellaepidemiassa menehtyneiden taustoista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-16T07:11:40Z",
@@ -6197,6 +6167,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-16T18:20:38Z",
+      "urls": [
+        {
+          "sign": "5e5b92ab689f875a9806e902c15bfcc34968cb1ade919a19853eb30f019e0694",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanadan metsäpalojen savu heikentää ilmanlaatua jalkapallon MM-finaalin pelipaikalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-16T20:42:52Z",
+      "urls": [
+        {
+          "sign": "88f344f6b3771b2f97824f1e9bd8d7199196ccf290f14968af08fa9b234532f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump pitää puheen vaalilainsäädännöstä perjantaina",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
