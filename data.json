@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-17T03:17:00Z",
+  "updated": "2026-07-17T06:37:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -512,21 +512,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-15T13:54:44Z",
-      "urls": [
-        {
-          "sign": "b61a1ee40dafef8e7ff2aa5fca5b340709ed64cfabf0844a1732d4d5251336d4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nammon ruutitehtaalla Laukaassa tapahtui räjähdys",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-15T13:05:00+03:00",
@@ -1262,21 +1247,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-15T21:50:06Z",
-      "urls": [
-        {
-          "sign": "11fac456c72349e32bdc90c69dd8aaf9ad5fb96a9baa0a644cf6707db59d3377",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Argentiina eteni jalkapallon MM-finaaliin voitettuaan Englannin 2–1",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-16T01:27:00+03:00",
@@ -2385,21 +2355,6 @@
       ],
       "title": "Englannin maajoukkueen Harry Kanen ja Thomas Tuchelin jatko on epävarmaa MM-välierätappion jälkeen",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-16T07:51:10Z",
-      "urls": [
-        {
-          "sign": "0ad8ef6722fc8c8343bc3f8ed25c1acbb0aedeb456118cd210907634af9bdbda",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee 16-vuotiasta törkeästä pahoinpitelystä Vaasassa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -5974,7 +5929,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-17T05:35:00+03:00",
+      "updated": "2026-07-17T06:37:00+03:00",
       "urls": [
         {
           "sign": "5c0a30287ef5f186a94973e0f770b14f3f20e3731ce95881e7fcc8e959b4e795",
@@ -5983,8 +5938,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Iran jatkavat sotilaallisia iskuja toisiaan vastaan Lähi-idässä",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Yhdysvallat ja Iran laajentavat sotilaallisia iskujaan Lähi-idässä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -6197,6 +6152,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-17T03:30:39Z",
+      "urls": [
+        {
+          "sign": "c9fb4c90edd2e5a352704b2ce5e10549051e2e968b789ac8c619a4430f10c194",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vuokramarkkinoiden kysyntä kasvaa opiskelijoiden muuton myötä – vuokrien kehitys vaihtelee alueittain",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-17T03:34:38Z",
+      "urls": [
+        {
+          "sign": "114537d2e31891bba875317a79ebd77f122f1aa997e27257fe96a807f443ae65",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mustafe Muuse juoksi ennätyksensä 3 000 metrillä Luzernissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-17T03:36:27Z",
+      "urls": [
+        {
+          "sign": "6e5524db4414aa208989110fa139c5cba1702e81aa703863461168346a1e2bcd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "5094a1a1bc5e78dc3cf02cf1af767f301fe37debd0ebf09029528aba15ef0282",
+          "labels": []
+        }
+      ],
+      "title": "Valtiotieteiden maisteri Jarkko Tuominen pohtii koulutusvalintojaan ja työttömyyttään",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
