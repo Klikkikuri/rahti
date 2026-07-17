@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-17T05:37:00+03:00",
+  "updated": "2026-07-17T02:45:00Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -677,21 +677,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-15T13:11:46Z",
-      "urls": [
-        {
-          "sign": "777e635e51bdfefd349f77213113b417b9170ada726ea3ba6e8ab9600b58785f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi etsii vihjeitä Uudessakaupungissa tapahtuneesta taksinkuljettajan ryöstöstä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-15T16:32:00+03:00",
@@ -6197,6 +6182,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-17T02:45:00Z",
+      "urls": [
+        {
+          "sign": "3d9a41cf015c78bbe6a8702c96273d488c26d5d80cf05058ec692cb4abb136ab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pidemmät laina-ajat ja keventynyt lainakatto vauhdittavat asuntokauppaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
