@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-17T02:29:32Z",
+  "updated": "2026-07-17T05:37:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1249,21 +1249,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-15T19:42:48Z",
-      "urls": [
-        {
-          "sign": "ad17f60aee8095d0f1b2e4cb45c2d4904c51922a4c9a4583c917ab9a9deaf5f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Argentiina ja Englanti kohtaavat jalkapallon MM-välierässä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-15T19:32:39Z",
       "urls": [
         {
@@ -2117,21 +2102,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-16T07:28:58Z",
-      "urls": [
-        {
-          "sign": "c66e18074778088e4d1265130871a033cee61558af0ef8f55f60f58bbe597d76",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisina tunnettu Ella Varis kertoo irtisanoutumisensa syistä ja vastaa väärinkäytösepäilyihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-16T06:20:38Z",
@@ -6124,7 +6094,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-17T03:52:00+03:00",
+      "updated": "2026-07-17T05:35:00+03:00",
       "urls": [
         {
           "sign": "5c0a30287ef5f186a94973e0f770b14f3f20e3731ce95881e7fcc8e959b4e795",
@@ -6133,7 +6103,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Iran laajentavat sotilaallisia iskujaan Lähi-idässä",
+      "title": "Yhdysvallat ja Iran jatkavat sotilaallisia iskuja toisiaan vastaan Lähi-idässä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6154,7 +6124,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-17T04:50:00+03:00",
+      "updated": "2026-07-17T05:37:00+03:00",
       "urls": [
         {
           "sign": "73158ff67b360f055c31296531bb89ace8a0bac9a9c4b5a9a003847aa1755afb",
@@ -6163,7 +6133,7 @@
           ]
         }
       ],
-      "title": "Donald Trump väittää Kiinan murtautuneen vuoden 2020 vaalitietoihin",
+      "title": "Donald Trump syyttää Kiinaa vuoden 2020 vaalitietomurrosta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6197,6 +6167,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-17T02:30:23Z",
+      "urls": [
+        {
+          "sign": "adc55e6aef0f6e26f6b6948f41840dc6f17e32d46159ff27ddfe714ec019840d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Microsoft esti Windows-päivityksen jakelun Dell-tietokoneille teknisten ongelmien vuoksi",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-17T02:30:35Z",
+      "urls": [
+        {
+          "sign": "561ee072fa30c160867e561bd5a04defc890c775b5c9cb6d4b2de5e899c11856",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän turvallisuuspalvelu FSB:n kybervakoiluyksikkö on viranomaisten varoitusten kohteena",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
