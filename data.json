@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-16T23:38:23Z",
+  "updated": "2026-07-16T23:47:16Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2477,21 +2477,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-16T07:25:37Z",
-      "urls": [
-        {
-          "sign": "8e741c9a94504d627940bd01f2d3357d5dc000ed631805c2f88033f9b336aab1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Philadelphia Flyers ja Trevor Zegras solmivat nelivuotisen jatkosopimuksen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-16T07:14:50Z",
@@ -6197,6 +6182,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-16T23:47:16Z",
+      "urls": [
+        {
+          "sign": "bc47ee5347ec2192ce91c6714b789402a773340c0c6b3f3067695ff0aa185369",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oligarkki Vadym Jermolajev syyttää Ukrainan sotilastiedustelupalvelua Monacon pommi-iskusta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
