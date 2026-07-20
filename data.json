@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-20T14:29:00+03:00",
+  "updated": "2026-07-20T14:41:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -482,21 +482,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-16T16:20:27Z",
-      "urls": [
-        {
-          "sign": "b685e295508020ed09b3cb2068c0392a4a1e77da77f30afbc9991ded5b4fab60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi selvitti Ella Variksen some-toimintaa – konstaapeli irtisanoutui työpaikkakiusaamisen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-16T19:24:00+03:00",
@@ -2282,21 +2267,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-18T20:27:00Z",
-      "urls": [
-        {
-          "sign": "06099c2680236bf42fb2f6b1beeeee6a5cf382cc6585c21c6acec6a6f441ad87",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain asevoimien sotilaita menehtyi Iranin iskussa Jordaniassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-19T20:15:08Z",
@@ -4984,7 +4954,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-20T14:29:00+03:00",
+      "updated": "2026-07-20T14:41:00+03:00",
       "urls": [
         {
           "sign": "c39035097afbcbbddc6715aa747c3b2c4688f7eea1bd8f6aba6e6cbb7d3eb34a",
@@ -4993,7 +4963,7 @@
           ]
         }
       ],
-      "title": "Hallitus käsittelee Garden Helsinki -hankkeen tiedonantoa, perussuomalaiset jatkaa pääministeri Orpon tukemista",
+      "title": "Hallitus ei enää edistä Garden Helsinki -hankkeen valtiontukea",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5513,7 +5483,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-20T10:29:35Z",
+      "updated": "2026-07-20T11:29:54Z",
       "urls": [
         {
           "sign": "3c4fe3dd2c4d506c9c6a4de85dcecadeca303b41b284162c704294f7e31d1b6b",
@@ -5522,7 +5492,7 @@
           ]
         }
       ],
-      "title": "Andy Burnham aloittaa Britannian pääministerinä – Keir Starmer jätti tehtävänsä",
+      "title": "Andy Burnham aloittaa Britannian pääministerinä, Keir Starmer jättää tehtävänsä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5693,7 +5663,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-20T11:26:48Z",
+      "updated": "2026-07-20T11:35:13Z",
       "urls": [
         {
           "sign": "eeac0d64ad8a7a74859b9b1341d75bf80bbccc1a58912e1e673042dc4982e0ec",
@@ -5702,7 +5672,7 @@
           ]
         }
       ],
-      "title": "Hallitus käsittelee Garden Helsinki -hanketta ja pääministerin esteellisyysselvitystä ylimääräisessä istunnossa",
+      "title": "Hallitus käsittelee Garden Helsinki -hanketta ja pääministerin esteellisyysselvitystä",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6310,6 +6280,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-20T11:40:57Z",
+      "urls": [
+        {
+          "sign": "9f3f2ce7ef9cf9577f25450f852842064c52bcdcb084f6f8bc436be638872a19",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallitus lopettaa Garden Helsinki -hankkeen valtiontuen edistämisen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-20T11:40:42Z",
+      "urls": [
+        {
+          "sign": "e4aa21584f27edd44c7ba9fdff7957a9df1ff5b1ef82b102b93bcdbaa21a908c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii 8-vuotiaan törkeää pahoinpitelyä Vaasassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
