@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-20T19:21:08Z",
+  "updated": "2026-07-20T19:38:46Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1082,21 +1082,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-19T10:32:47Z",
-      "urls": [
-        {
-          "sign": "4ac8b607bf0b982202f64948068bfd15efff2470a91e6ad194608bdd856770e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Drammenin tuhoisa tulipalo tuhosi useita koteja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-19T14:46:13Z",
@@ -2565,36 +2550,6 @@
       ],
       "title": "Kontulan henkirikoksesta epäilty 66-vuotias mies on myöntänyt teon – poliisi esittää vangittavaksi",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-20T06:30:57Z",
-      "urls": [
-        {
-          "sign": "e44512234ba8d97831d840fcddbab2b94ef55b3e233a0a58924395b4f5d2b496",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pysäköintialan yritys Parkkipate muistuttaa: yleisimmät selitykset eivät poista vastuuta pysäköintivirhemaksusta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-20T06:30:23Z",
-      "urls": [
-        {
-          "sign": "2dc9286d6f5412223c2660b4930a49e4f4b28d0bb3d2f5c36dd9aa7466993eb3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dokumentti Puutarhuri, buddhalainen ja vakooja tarkastelee Rob Mooren roolia asbestiteollisuudessa",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -6325,6 +6280,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-20T19:38:46Z",
+      "urls": [
+        {
+          "sign": "31dc787eed1271b0268ac75ff0c5df4ee56086c3406517abc56b18cae1974d0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hyvinkäällä tapahtui kuolemaan johtanut sähkölentokoneen maahansyöksy",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-20T19:31:00Z",
+      "urls": [
+        {
+          "sign": "42f6a1755ab455ef1ef122bd9ce2e879b50c28b18f8d7a7d8e8610191ce9f197",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "28-vuotiasta miestä syytetään Ann Widdecomben murhasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-20T19:30:33Z",
+      "urls": [
+        {
+          "sign": "438b0d82a222e263463e20afb77fd6ca427afc31b419b00e9b36d0e429109514",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jordan Staal muistelee epäilyksiään Sebastian Ahon kyvyistä vuonna 2016",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
