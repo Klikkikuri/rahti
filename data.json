@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-20T01:53:19Z",
+  "updated": "2026-07-20T02:08:23Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -467,21 +467,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-16T10:07:59Z",
-      "urls": [
-        {
-          "sign": "443f6e3afe80f609ad98710bbfdf82ea1401078d9f9345252ff1b5723be6e6de",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroopan komissio hyväksyi viestipalvelu X:n korjaussuunnitelman",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-16T10:27:25Z",
@@ -1667,21 +1652,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-17T03:14:01Z",
-      "urls": [
-        {
-          "sign": "09755225ddcf3cabe8ddabcbd39f2e8a0f47aa52a4e756cc0dba85619cb1f37a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donald Trump syyttää Kiinaa vaalivaikuttamisesta – Kiina kiistää väitteet",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-17T02:30:35Z",
@@ -6246,6 +6216,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-18T09:25:23Z",
+      "urls": [
+        {
+          "sign": "34024f670d8ff93a2099427bd9dcc98e214fcdf3731d32699eae52f84385509f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sosiaali- ja terveysjärjestöjen avustuskeskus perii takaisin lähes puoli miljoonaa euroa KRIS-Oulu ry:ltä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-20T02:08:23Z",
+      "urls": [
+        {
+          "sign": "2f8124b0150befb9612499fa50ea984cabf15c86e25ced3c02cc7db3890cce46",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Työväenpuolueen johtaja Andy Burnham aloittaa Britannian pääministerinä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
