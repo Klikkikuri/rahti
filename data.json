@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-20T21:25:15Z",
+  "updated": "2026-07-20T21:37:40Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2657,21 +2657,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-20T07:15:56Z",
-      "urls": [
-        {
-          "sign": "fee2d85fae0f712558b926e58cb14b589f503a409bf6ef9f3234ea1ce81d7519",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain varapresidentti J.D. Vancen mahdollinen muutto Middleburgiin herättää huolta paikallisissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-20T07:19:44Z",
@@ -6325,6 +6310,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-20T21:37:40Z",
+      "urls": [
+        {
+          "sign": "928db2ae16f2da930c19c9e62588f018ba31e1c609f8ce0fbf6c88c9465689cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat asettaa 50 prosentin tuontitullit kanadalaistuotteille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
