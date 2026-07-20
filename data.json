@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-20T04:25:44Z",
+  "updated": "2026-07-20T04:36:57Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -139,7 +139,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-20T04:09:14Z",
+      "updated": "2026-07-20T04:31:52Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -482,21 +482,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-16T11:12:58Z",
-      "urls": [
-        {
-          "sign": "bf4258f149475e45c621d938b2f9a3f135d0f9e400d3045fb83ace20f271e835",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Onnettomuustutkintakeskus ei tutki Rissalan laskuvarjohyppyonnettomuutta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-19T11:54:06Z",
@@ -1637,36 +1622,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-17T04:30:09Z",
-      "urls": [
-        {
-          "sign": "05a4eefaeccc4a01dc9661f46aac0512d4e21d1cf43f59d512f90d48de03be4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lämpötila laskee jopa 15 astetta ja viikonlopulle on luvassa runsaita sateita",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-17T04:40:38Z",
-      "urls": [
-        {
-          "sign": "0ca754eb6619e3e6f609bfa381dac948c69df0d971782ec9a8b650baf41bf30a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroopan komissio pyytää lisäselvityksiä Helsinki Garden -hankkeen rahoituksesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-17T04:41:25Z",
@@ -6242,6 +6197,51 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-20T04:30:35Z",
+      "urls": [
+        {
+          "sign": "8ce04e52ff1111e4de158e6d2cac7426d84c618fd45a9002d5fdcfebac121c2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi selvittää Ruotsin rahastoeläkemallin soveltamista eläkejärjestelmäänsä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-20T04:30:06Z",
+      "urls": [
+        {
+          "sign": "8a99f8dfc2dd3c7c19c39d28bce955133013f8630c52e3d7b75fb1a55782324b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entiset ukrainalaiset sotavangit syyttävät venäläistä vankilalääkäriä kidutuksesta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-20T04:36:57Z",
+      "urls": [
+        {
+          "sign": "7426467a5b5baea44c6605d9245e815b588b57c0e675567033188d582b70faf4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Argentiinalaisfanit ottivat yhteen poliisin kanssa MM-finaalin jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
