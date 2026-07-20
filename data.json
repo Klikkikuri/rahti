@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-20T04:36:00+03:00",
+  "updated": "2026-07-20T01:53:19Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -139,7 +139,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-20T00:54:08Z",
+      "updated": "2026-07-20T01:50:13Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -469,21 +469,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-16T09:47:25Z",
-      "urls": [
-        {
-          "sign": "abd4187b5e8329e8568349f647aa331835518345ae3e926847b0808a5030ae3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Useissa suomalaisissa verkkopalveluissa on teknisiä häiriöitä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-16T10:07:59Z",
       "urls": [
         {
@@ -495,21 +480,6 @@
       ],
       "title": "Euroopan komissio hyväksyi viestipalvelu X:n korjaussuunnitelman",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-16T10:02:01Z",
-      "urls": [
-        {
-          "sign": "e389117cb1394e5eeb0fb74c0042048bfa3b4c7f94152a76ef91fbc8783e79d8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kotimaisen mansikan saatavuus on heikentynyt ja hinnat nousseet",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -6246,6 +6216,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-20T00:43:32Z",
+      "urls": [
+        {
+          "sign": "f69318f12c810e89d3dd377fe2676437b5f27621917425609fb648706f4177df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanja voitti jalkapallon MM-kultaa – finaalin järjestelyt ja väliaikashow herättivät kritiikkiä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-20T01:53:19Z",
+      "urls": [
+        {
+          "sign": "dbb8bf7e53be39313614651580d233f03c72346d6751f45a5804257cda248119",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jalkapallon MM-finaalissa nähtiin ensimmäinen puoliaikashow – esitys venytti tauon kestoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
