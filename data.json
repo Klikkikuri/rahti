@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-20T20:24:59Z",
+  "updated": "2026-07-20T20:57:20Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -647,21 +647,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-19T12:37:00Z",
-      "urls": [
-        {
-          "sign": "8994888732e587e0c33a0ea8601f14203713895fba60f81ef827ae14c179a867",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kreikan eläkejärjestelmä kohtaa haasteita väestön ikääntyessä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-19T16:51:33Z",
@@ -6325,6 +6310,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-20T20:57:20Z",
+      "urls": [
+        {
+          "sign": "cb7b2691c8a12d7ac9207242f4849f7541856be0f0d2af9e856aaa17263acc40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Louvren Apollonin galleria avautuu yleisölle ilman korukokoelmaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
