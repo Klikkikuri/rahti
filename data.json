@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-21T00:54:00+03:00",
+  "updated": "2026-07-20T22:29:52Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1579,21 +1579,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-19T13:04:45Z",
-      "urls": [
-        {
-          "sign": "03af9b7ba9252bb15741ac4c95cfbb934ef3e58b7b6a35c6bf2a0cf6a571a2c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjois-Suomessa on merkittävä hallanvaara tulevina öinä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-19T16:09:38Z",
       "urls": [
         {
@@ -2595,21 +2580,6 @@
       ],
       "title": "Mies kuoli työhön liittyneessä mönkijäonnettomuudessa Kuusamon Rukalla",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-20T07:16:14Z",
-      "urls": [
-        {
-          "sign": "fc748657ed5178a0616b714f92db899bf4137e9e8280bb75f66b1e2e89ce729c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Madonna esiintyi jalkapallon MM-loppuottelun väliaikashow'ssa",
-      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -6325,6 +6295,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-20T22:29:52Z",
+      "urls": [
+        {
+          "sign": "0c7a1147cf8b54ef6ad80d2b40e293660c899c841fd99daa6bdf7c4ce18d9074",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karjalan prikaatin varusmies menehtyi Vekaranjärvellä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-20T22:26:13Z",
+      "urls": [
+        {
+          "sign": "8b0f8a573ba99f30224ea98d520de02925a44063a20d311347c8f876fa8fd44d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Varusmies on menehtynyt Karjalan prikaatissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
