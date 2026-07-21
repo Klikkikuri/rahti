@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-21T15:13:55Z",
+  "updated": "2026-07-21T15:28:31Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1954,21 +1954,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-20T19:01:01Z",
-      "urls": [
-        {
-          "sign": "032e321e47147d60e842b5567175e77d61a0b3cebd3c7325a6a2454cc8817484",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pienlentokone syöksyi maahan Hyvinkäällä – viranomaiset tutkivat onnettomuutta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-20T16:34:09Z",
       "urls": [
         {
@@ -2282,21 +2267,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-20T19:01:52Z",
-      "urls": [
-        {
-          "sign": "1f1aa624a55b024427b7b61f84b2088c5b596bb8ce2cfb9c1ec2d98fa987406e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi miestä haastaa yhdysvalalaissairaalan oikeuteen 38 vuotta sitten tapahtuneen vauvojen vaihtumisen vuoksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-20T19:21:08Z",
@@ -3769,7 +3739,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-21T18:10:00+03:00",
+      "updated": "2026-07-21T18:21:00+03:00",
       "urls": [
         {
           "sign": "c39dd64c2c1befb78e989b3854dc06298494b20c59f77a13e87503affd50ced5",
@@ -3778,7 +3748,7 @@
           ]
         }
       ],
-      "title": "Eduskunta keskustelee Garden Helsinki -hankkeesta ja äänestää hallituksen luottamuksesta",
+      "title": "Eduskunta käy värikästä keskustelua Garden Helsinki -hankkeesta ja äänestää hallituksen luottamuksesta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6317,6 +6287,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-21T15:20:44Z",
+      "urls": [
+        {
+          "sign": "36f4f64701fdeb2e80f4eec85a1ac92f279e020fffd4098d0a9e6d7164dbce12",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teemu Pukki lahjoitti Suomen cupin finaalissa käyttämänsä jalkapallokengät Urheilumuseolle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-21T15:28:31Z",
+      "urls": [
+        {
+          "sign": "df6ac555df36304c20cbe64e0098e4895298f4c81218713dcc7c112bdb90ca52",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Punkin puremasta aiheutuva alfa-gal-oireyhtymä voi aiheuttaa vakavan liha-allergian",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
