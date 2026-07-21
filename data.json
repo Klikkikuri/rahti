@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-21T16:38:17Z",
+  "updated": "2026-07-21T16:59:20Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -647,21 +647,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-20T10:57:28Z",
-      "urls": [
-        {
-          "sign": "59ea41da7a4ffa401edf28e6cf102032222879337cc9e85aedf439f5e9ae9be4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV:n jalkapallon MM-lähetykset tavoittivat 3,8 miljoonaa suomalaista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-20T11:11:29Z",
@@ -2149,21 +2134,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-20T20:24:59Z",
-      "urls": [
-        {
-          "sign": "37ce75105912dca81f4d837be766161f2ce5455a23e442569fc4add26e848470",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainassa protestoidaan hallinnon muutoksia vastaan samalla kun sotilaalliset iskut jatkuvat",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-20T20:57:20Z",
       "urls": [
         {
@@ -2192,21 +2162,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-20T21:37:40Z",
-      "urls": [
-        {
-          "sign": "928db2ae16f2da930c19c9e62588f018ba31e1c609f8ce0fbf6c88c9465689cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat asettaa 50 prosentin tuontitullit kanadalaistuotteille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-21T04:07:00+03:00",
@@ -3454,7 +3409,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-21T19:13:00+03:00",
+      "updated": "2026-07-21T19:56:00+03:00",
       "urls": [
         {
           "sign": "c39dd64c2c1befb78e989b3854dc06298494b20c59f77a13e87503affd50ced5",
@@ -3463,7 +3418,7 @@
           ]
         }
       ],
-      "title": "Eduskunta äänestää hallituksen luottamuksesta Garden Helsinki -kohun seurauksena",
+      "title": "Eduskunta käy väittelyä Garden Helsinki -hankkeesta ja äänestää hallituksen luottamuksesta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5254,7 +5209,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-21T12:18:11Z",
+      "updated": "2026-07-21T16:56:32Z",
       "urls": [
         {
           "sign": "95aef98dee1b71e7ed6e1555d3c6a14bdadba7812a91485608511c81d7e83c57",
@@ -5263,8 +5218,8 @@
           ]
         }
       ],
-      "title": "Poliisi tutkii Nurmijärvellä tapahtunutta kuolemaan johtanutta nokkakolaria",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Poliisi tutkii vakavaa nokkakolaria Nurmijärvellä",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -6317,6 +6272,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-21T16:45:46Z",
+      "urls": [
+        {
+          "sign": "c97a66f4e66ead4567babf423c39d9e44bfc20f2ba69c6a0d26679ed6959fd74",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Kimmo Grönlund arvioi Garden Helsinki -hankkeen valmistelua ja hallituksen tilannetta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-21T16:54:26Z",
+      "urls": [
+        {
+          "sign": "f5bd476cfe045265c12a2a40a3891202d03b99b5a26ee1b8b5c75a35c606784e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Siivousvaikuttaja Auri Salminen kertoi häidensä kustannuksista sosiaalisessa mediassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-21T16:59:20Z",
+      "urls": [
+        {
+          "sign": "dc15bd895377ef009de7097cfa231e33861b6648a9b794adc27e664b6630e174",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saga Vanninen vaihtaa valmentajaa – Arto Bryggare korostaa urheilijan kommunikaation merkitystä",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
