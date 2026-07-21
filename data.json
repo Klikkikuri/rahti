@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-21T20:44:00+03:00",
+  "updated": "2026-07-21T20:59:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -634,21 +634,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-20T11:53:40Z",
-      "urls": [
-        {
-          "sign": "9f3f2ce7ef9cf9577f25450f852842064c52bcdcb084f6f8bc436be638872a19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus lopettaa Garden Helsinki -hankkeen valtiontuen edistämisen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-20T14:48:00+03:00",
       "urls": [
         {
@@ -795,21 +780,6 @@
       ],
       "title": "Etelä-Karjalan hyvinvointialue uudistaa ensihoidon yöpäivystyksen kiertävällä vuoromallilla",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-20T12:35:50Z",
-      "urls": [
-        {
-          "sign": "30818d20f3af15c1e04a2c42ef4440f4f1e46f462baf29e21dc05c77b58e2931",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Työntekijä menehtyi mönkijäonnettomuudessa Rukalla",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -2839,7 +2809,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-21T17:34:48Z",
+      "updated": "2026-07-21T17:51:42Z",
       "urls": [
         {
           "sign": "38f7b25fd03c29d25d8d8ec03f7f5463071eb5cb79c4711b24d74ec699739fff",
@@ -2848,7 +2818,7 @@
           ]
         }
       ],
-      "title": "Eduskunta käsittelee hallituksen luottamusta ja Garden Helsinki -hankkeen tukea ylimääräisessä istunnossa",
+      "title": "Eduskunta kokoontuu ylimääräiseen istuntoon käsittelemään hallituksen luottamusta ja Garden Helsinki -hankkeen tukea",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -3289,7 +3259,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-21T20:44:00+03:00",
+      "updated": "2026-07-21T20:46:00+03:00",
       "urls": [
         {
           "sign": "c39dd64c2c1befb78e989b3854dc06298494b20c59f77a13e87503affd50ced5",
@@ -3298,7 +3268,7 @@
           ]
         }
       ],
-      "title": "Eduskunta äänestää hallituksen luottamuksesta Garden Helsinki -keskustelun päätteeksi",
+      "title": "Eduskunta käy väittelyä Garden Helsinki -hankkeesta ja äänestää hallituksen luottamuksesta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6304,7 +6274,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-21T20:38:00+03:00",
+      "updated": "2026-07-21T20:59:00+03:00",
       "urls": [
         {
           "sign": "efbb8e68e4c2c3bccc49bdd4746c17204ceea47ecae62a0e9673112b69631282",
@@ -6313,10 +6283,40 @@
           ]
         }
       ],
-      "title": "Espanjalainen Iberdrola ostaa enemmistön sähköverkkoyhtiö Carunasta",
+      "title": "Espanjalainen Iberdrola ostaa 80 prosenttia Carunasta kahdella miljardilla eurolla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-21T17:52:09Z",
+      "urls": [
+        {
+          "sign": "a352bc0a25fea956eb8f54526bb14cf6f622cd5631d767321d5318212058cfa7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iberdrola ostaa enemmistön Carunasta kahden miljardin euron kaupalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-21T17:57:05Z",
+      "urls": [
+        {
+          "sign": "6d6b424804a79f2a16ca9c40f330b80185958873a69b32e62e63b819c69be3c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iberdrola ostaa enemmistön sähkönjakeluyhtiö Carunasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
