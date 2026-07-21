@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-21T08:13:00+03:00",
+  "updated": "2026-07-21T05:26:12Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1052,21 +1052,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-19T17:19:29Z",
-      "urls": [
-        {
-          "sign": "2529148f3d25a83f494c89c9c75114013534da515a6a670c132d233bbdd754c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Polkupyörätaksien suosio kasvoi Ilosaarirockissa sähköpotkulautojen rajoitusten myötä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-18T19:54:00+03:00",
@@ -6308,7 +6293,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-21T08:13:00+03:00",
+      "updated": "2026-07-21T08:26:00+03:00",
       "urls": [
         {
           "sign": "a39981750d24dd317deba3c5a9dee09f6ee1d687997adaa0bba41cceec39dcf3",
@@ -6321,6 +6306,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-21T05:26:12Z",
+      "urls": [
+        {
+          "sign": "71a9a94cbe52876656da99e3d8d0b34d98061d76aa19d4ee3f7bbb7483d877df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Työttömien määrä kasvoi kesäkuussa, uusien avoimien työpaikkojen määrä nousi hieman",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
