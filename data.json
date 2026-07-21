@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-21T18:14:55Z",
+  "updated": "2026-07-21T18:29:33Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -1157,21 +1157,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-21T04:06:36Z",
-      "urls": [
-        {
-          "sign": "b257e45f7c688a0987e29fe688e7456641a611aa03fcc43641ef3c467fd415bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirjailija Koko Hubaran kadonnut tytär on löytynyt",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-20T14:38:52Z",
@@ -2464,36 +2449,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-21T03:52:20Z",
-      "urls": [
-        {
-          "sign": "5e9dd53ba236e9c7bc334810e25fc4944d5a2c13cf07feaecd6987659c56ba26",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirjailija Koko Hubaran kadonnut tytär on löytynyt",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-21T04:00:06Z",
-      "urls": [
-        {
-          "sign": "291a26132a94765898161caca154a25d6cb579f3f72daea3a7ffcd3dbceb295e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuluttajariitalautakunta ratkaisi BMW-auton moottorivauriota koskevan korvauskiistan",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-21T04:00:57Z",
       "urls": [
         {
@@ -2719,7 +2674,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-21T18:14:53Z",
+      "updated": "2026-07-21T18:17:47Z",
       "urls": [
         {
           "sign": "38f7b25fd03c29d25d8d8ec03f7f5463071eb5cb79c4711b24d74ec699739fff",
@@ -3169,7 +3124,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-21T21:14:00+03:00",
+      "updated": "2026-07-21T21:23:00+03:00",
       "urls": [
         {
           "sign": "c39dd64c2c1befb78e989b3854dc06298494b20c59f77a13e87503affd50ced5",
@@ -3178,7 +3133,7 @@
           ]
         }
       ],
-      "title": "Eduskunta antoi luottamuksensa pääministeri Orpon hallitukselle Garden Helsinki -keskustelun päätteeksi",
+      "title": "Eduskunta antoi luottamuksensa hallitukselle Garden Helsinki -keskustelun päätteeksi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6317,6 +6272,51 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-21T18:14:22Z",
+      "urls": [
+        {
+          "sign": "96c406d213fb7a73e1c677779d5eb4f107e2fdaa800065af0fcc36c3acb16a4f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjalainen Iberdrola ostaa enemmistön sähköverkkoyhtiö Carunasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-21T18:24:44Z",
+      "urls": [
+        {
+          "sign": "6eddcd65b15b96c3fc4d3aa0813294827b0bb219dfc1df8621cf09a76099eec0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo antoi eduskunnalle selvityksen Garden Helsinki -hankkeen rahoituksesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-21T18:29:33Z",
+      "urls": [
+        {
+          "sign": "a0e64f8f7c93b7c601df5a1c3e3285cf325cc3ae6045e9d95bb34ef13eb65405",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Björn Steiger -säätiön selvitys: 130 kilometrin nopeusrajoitus voisi vähentää Saksan moottoritiekuolemia",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
