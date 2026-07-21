@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-21T04:07:00+03:00",
+  "updated": "2026-07-21T01:15:07Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -257,21 +257,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-19T13:37:51Z",
-      "urls": [
-        {
-          "sign": "cc83bb8473c15e001fc381faf2045dbafc5c4d93a4ca459e675e68eafa611db6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maailman terveysjärjestö: Elintavat voivat ehkäistä lähes puolet dementiatapauksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-19T14:54:50Z",
@@ -6325,6 +6310,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-21T01:15:07Z",
+      "urls": [
+        {
+          "sign": "ebf582bc3342fd8a70bafd42d4886647c6c7acb8cd5f3d1a5f9077c7b8c9407f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ravustuskausi alkaa tänään – saalisodotukset ovat normaalilla tasolla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
