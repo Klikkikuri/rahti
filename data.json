@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-23T02:00:00+03:00",
+  "updated": "2026-07-22T23:09:50Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2402,21 +2402,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-22T06:37:35Z",
-      "urls": [
-        {
-          "sign": "0a8797eb79c196b73cf6f0332f15eb5cc1bca9a494f0dd75b270b7933a231e84",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaan kaupunginvaltuuston puheenjohtaja Sakari Rokkanen ehdottaa Vantaan ja Helsingin kuntaliitosta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-22T07:43:09Z",
@@ -6321,6 +6306,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-22T23:09:50Z",
+      "urls": [
+        {
+          "sign": "a36fad3cf53bf2a16c1224c54621cec185a44efd340887046fcda98da8241826",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalaiskolumnisti julkaisi kriittisen ennenaikaisen muistokirjoituksen senaattori Mitch McConnellista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
