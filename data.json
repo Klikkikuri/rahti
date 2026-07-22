@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-22T09:04:22Z",
+  "updated": "2026-07-22T12:23:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -362,21 +362,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-07-20T17:36:00+03:00",
-      "urls": [
-        {
-          "sign": "bea9d25bc3fc0914d4d5c8274ea10029531f98d14fb9bca31afd3378cdca353b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi ihmistä otettiin kiinni laittomasta rajanylityksestä Suomussalmella – rajavartiosto kehottaa mökkiläisiä tarkistamaan omaisuutensa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-20T21:14:00+03:00",
@@ -6278,7 +6263,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-22T09:00:55Z",
+      "updated": "2026-07-22T09:21:07Z",
       "urls": [
         {
           "sign": "0af929c8bf2999df517fead4fd84e1eb00c3e040d94e8b6c4cfd66466cbf1cc9",
@@ -6287,8 +6272,8 @@
           ]
         }
       ],
-      "title": "Poliisi etsii kadonnutta 48-vuotiasta naista Tampereen Härmälässä",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Poliisi pyytää havaintoja Tampereen Härmälässä kadonneesta 48-vuotiaasta naisesta",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -6321,6 +6306,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-22T12:23:00+03:00",
+      "urls": [
+        {
+          "sign": "a0fd0681f75a651dfa0ed1e4edc7b69698368284afb37c4bf88226bbd37e656a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Tivoli kamppailee talousvaikeuksien kanssa – jatko ensi keväänä epävarma",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
