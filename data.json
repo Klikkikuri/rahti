@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-22T15:14:11Z",
+  "updated": "2026-07-22T15:27:19Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -797,21 +797,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-21T08:53:22Z",
-      "urls": [
-        {
-          "sign": "aef323972ea886e6233116c8f164f092b9ea49dc3f79f34c20587d44168d24c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyvinkään sähkölentokoneen maahansyöksyn tutkinta jatkuu – pelastusvarjoa ei käytetty",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-21T12:40:00+03:00",
@@ -2132,36 +2117,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-21T18:14:55Z",
-      "urls": [
-        {
-          "sign": "2b9c230e963cdf9c2468031f4d552ab6a2f6f88e6a84d99a8759164394cbde12",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Olympiavoittaja ja soutaja Olaf Tufte on kuollut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-21T18:10:27Z",
-      "urls": [
-        {
-          "sign": "6e56d41110d39b93a6562d0bf4875fc8c9a556f854dd724b73cd528dbc04e283",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tangokuningatar Raija Mäntyniemi haluaa toimia esikuvana romaninuorille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-21T21:11:00+03:00",
@@ -6321,6 +6276,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-22T15:27:19Z",
+      "urls": [
+        {
+          "sign": "a6b5810dc294ea9ce2bbeed964f24aa0fd0da602b867077ed0b03a5bc4657de1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkoministeriö myönsi valtaosan thaimaalaisten marjanpoimijoiden viisumeista yhdelle yritykselle tiukentuneen harkinnan seurauksena",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-22T15:21:44Z",
+      "urls": [
+        {
+          "sign": "c566307055d08f114d77d1bf22d603755248d55fad4acd767e26c30ba833b77a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ministeri Mika Poutala: Hallitus epäonnistui Garden Helsinki -hankkeen valmistelussa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-22T15:22:05Z",
+      "urls": [
+        {
+          "sign": "81562a714210de6dc5841aee8076ed77cff58ae57e5cf07e3d87a95d20260233",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Olympiavoittaja Olaf Tufte kuoli akuuttiin sydänpysähdykseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
