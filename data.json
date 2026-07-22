@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-22T02:43:39Z",
+  "updated": "2026-07-22T02:50:00Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -587,21 +587,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-20T13:18:48Z",
-      "urls": [
-        {
-          "sign": "dc3d4c12fe114ad289a38c96d1b8a079a0e93333cd7e244928cb46f7bb033bef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen vanhimpana pidetty Jylppy-kissa on kuollut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-20T16:24:00+03:00",
@@ -6259,7 +6244,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-22T02:14:48Z",
+      "updated": "2026-07-22T02:43:17Z",
       "urls": [
         {
           "sign": "27e2165186a77b0d1aa183fc8cb888cdf93c1af732ac679cd00001648527069e",
@@ -6268,7 +6253,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat jatkaa sotilaallisia iskuja Iranin kykyjen heikentämiseksi Hormuzinsalmella",
+      "title": "Yhdysvallat jatkaa iskuja Iraniin Hormuzinsalmen turvallisuuden varmistamiseksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6317,6 +6302,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-22T02:50:00Z",
+      "urls": [
+        {
+          "sign": "9a13865473e07af030b68bff8a90c54a6198acec9d4c438b4ce55ca9a753e68a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän sotalaiva suoritti ampumaharjoituksen Englannin kanaalissa – Britannian puolustusministeri kritisoi toimintaa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
