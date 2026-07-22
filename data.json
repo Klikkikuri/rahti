@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-22T18:44:22Z",
+  "updated": "2026-07-22T18:57:10Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -139,7 +139,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-22T17:57:12Z",
+      "updated": "2026-07-22T18:52:57Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -1037,21 +1037,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-21T13:25:55Z",
-      "urls": [
-        {
-          "sign": "4362415e89324be265815ba7bdbc38a641d636801b47b63b6b1e3f016293fda4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan poliisi on nimennyt yhden henkilön epäillyksi Krokstadelvan suurpalon tutkinnassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-21T16:40:00+03:00",
@@ -2299,21 +2284,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-22T04:08:27Z",
-      "urls": [
-        {
-          "sign": "454d9b63cf22da5629d7933c531212f8b0b329468f215e959796afcb9601b5e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donald Trump suunnittelee rinnakkaislääkkeiden tuontitullien nostamista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-22T04:21:21Z",
       "urls": [
         {
@@ -2372,21 +2342,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-22T04:16:39Z",
-      "urls": [
-        {
-          "sign": "60b671cc28986fbaa8a52b1a41290bfacb286de0938eddbd0e02e8ff9b1d4475",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuluttajariitalautakunta: Pysäköintipalvelun ehdot olivat riittävän selkeät",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-22T04:26:33Z",
@@ -6321,6 +6276,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-22T18:50:19Z",
+      "urls": [
+        {
+          "sign": "f333192589e5251283087c9ed35d9fce2da9966a17c6970f3ae97ae640f9c93f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain verovirasto verottaa Espanjan jalkapallomaajoukkueen MM-palkintorahoja",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-22T18:45:37Z",
+      "urls": [
+        {
+          "sign": "026ad49a0753b17eaa33b97e4d677cdfcf2c6b1d0bb471d39b252f3a1335550d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan unioni hyväksyi ehdollisesti Paramount Skydancen ja Warner Bros Discoveryn fuusion",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-22T18:57:10Z",
+      "urls": [
+        {
+          "sign": "cefa81fdb3411bc0db00f5d4586b72e7c18cd70a5adc7904e767ed3938ed11f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Drag-artisti Aarni Mikkola loukkaantui taksimatkalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
