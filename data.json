@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-23T00:15:48Z",
+  "updated": "2026-07-23T00:59:33Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2492,21 +2492,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-22T07:11:52Z",
-      "urls": [
-        {
-          "sign": "f8c3c53cf93253728125ff1e2856c37a2de152a50ab7effd228de3e5ad2ba417",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kallis Citadel-agenttisarja julkaistaan Katsomo+-palvelussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-22T10:06:00+03:00",
@@ -6321,6 +6306,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-23T00:59:33Z",
+      "urls": [
+        {
+          "sign": "ad313957780282af2786d850e86740c70a870d13b121297d31c545ee56155021",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump herätti hämmennystä Iranin tilannetta koskevalla lausunnollaan",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
