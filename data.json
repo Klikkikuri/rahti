@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-23T00:13:14Z",
+  "updated": "2026-07-23T00:15:48Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-21T13:33:16Z",
-      "urls": [
-        {
-          "sign": "8674549653b78329b531f7d5235b97dcee1050c33f03f305b764c580833bdf69",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saga Vanninen vaihtaa valmentajaa ja muuttaa Turkuun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-21T13:49:35Z",
@@ -6321,6 +6306,21 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-23T00:15:48Z",
+      "urls": [
+        {
+          "sign": "61980c021bacf8319de98a51b6a1ed1b0a91fe3d3fcb9a62620df6c85ca1704c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alphabetin toisen vuosineljänneksen tulos ylitti odotukset",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
