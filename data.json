@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-23T22:27:05Z",
+  "updated": "2026-07-23T22:41:44Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2192,21 +2192,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T07:53:10Z",
-      "urls": [
-        {
-          "sign": "8241dae56acda3031befcb998ea68d7aea2933a4c0675f21b3f27f486fad84a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Toimittaja Michael Wolff: Valkoisen talon henkilökunta pitää Melania Trumpia arvaamattomana",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-23T13:50:03Z",
@@ -6394,6 +6379,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-23T22:41:44Z",
+      "urls": [
+        {
+          "sign": "68d865ea8e144d4782a349be74f7583bba48c315d16655e512340204e3618e77",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pyytää havaintoja Oulun Kaakkurissa kadonneesta noin 80-vuotiaasta miehestä – ilmoita 112",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
