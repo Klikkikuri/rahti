@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T01:12:00+03:00",
+  "updated": "2026-07-23T22:27:05Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -752,21 +752,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-22T16:15:59Z",
-      "urls": [
-        {
-          "sign": "8c5266538f70f066330e0ef9061d65dba432c3e9dea323f273eff3f2a4020ab8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Professori Vesa Vares: Jalkapallon MM-kisat ovat poliittisen vaikuttamisen areena",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-22T16:27:30Z",
@@ -6394,6 +6379,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-23T22:27:05Z",
+      "urls": [
+        {
+          "sign": "56d2515b28ebfbde5c0c975a707cffbaaff3a46e479097ec4eca2e132791cafa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain osakkeet laskivat torstaina, Nasdaq 2,2 prosenttia miinuksella – öljyn hinta nousi yli 100 dollariin Lähi-idän jännitteiden vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
