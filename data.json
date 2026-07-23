@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-23T08:28:55Z",
+  "updated": "2026-07-23T11:44:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -2252,21 +2252,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-22T11:52:38Z",
-      "urls": [
-        {
-          "sign": "9e46ccef72c780b6a0b0aafb3d49b2883a600fc9028bba73a340a36221a49d38",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HSL:n sovelluksessa häiriö maksutavoissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-22T11:53:29Z",
@@ -6304,7 +6289,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-23T11:21:00+03:00",
+      "updated": "2026-07-23T11:44:00+03:00",
       "urls": [
         {
           "sign": "ed304f312a72bdd7c5a27bbdd32e52615aded6b7aec8bd52c19f5b22011bb95c",
@@ -6313,10 +6298,25 @@
           ]
         }
       ],
-      "title": "Poliisi selvitti Vaasan lapsen pahoinpitelyn: teolla ei ollut rasistista motiivia",
+      "title": "Poliisi selvitti Vaasan pahoinpitelyn: 8-vuotias ja 16-vuotias roiskuttivat toistensa päälle syövyttävää ainetta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-23T08:34:45Z",
+      "urls": [
+        {
+          "sign": "fa70051aa5d195aa4ce4ec399f23cc35493e9f772d2edf257f8ad588a56b893d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Koskelantien nopeusvalvontakamera tallensi 550 ylinopeutta vuorokaudessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
