@@ -47,6 +47,9 @@ llm:
   - name: gemini/gemini-3.1-flash-lite
     provider: gemini
     model: gemini-3.1-flash-lite
+    generation_kwargs:
+      temperature: 0.0
+      service_tier: "flex"
 
 # Url patterns to filter out early. These can be either simple substrings or regexes (if the pattern starts and ends with "/").
 url_blacklist:
