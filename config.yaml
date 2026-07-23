@@ -25,6 +25,11 @@ sources:
     type: sitemap
     url: https://www.hs.fi/rss/custom/news-sitemap.xml
 
+skip_processing:
+  # Skip processing articles with these labels.
+  labels:
+    - "paywalled=true"  # Skip paywalled articles. Note that this is a label, not a filter. The label is added by the source if the article is paywalled.
+
 rahti:
   # Rahti file to push / pull
   url: "https://api.github.com/repos/Klikkikuri/rahti/contents/data.json"
