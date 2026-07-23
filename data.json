@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-23T01:32:51Z",
+  "updated": "2026-07-23T02:01:45Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -842,21 +842,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-21T13:49:35Z",
-      "urls": [
-        {
-          "sign": "4f85aa192c9747281c29b5fb38363fa40827e45816d242cb16cbce04627c2412",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keski-Suomen rankkasateiden vaurioittamat tiet on pääosin korjattu – vain yksi tieosuus yhä suljettu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-21T16:52:00+03:00",
@@ -6321,6 +6306,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-23T02:01:45Z",
+      "urls": [
+        {
+          "sign": "70ffb8f639e6c473bf9d4a8a0ff2444d9ae10a57471e6eeaa6ac53b696732334",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen tuonti Venäjältä kasvoi alkuvuonna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
