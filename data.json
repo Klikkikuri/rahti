@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T19:28:14Z",
+  "updated": "2026-07-24T19:43:52Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -334,21 +334,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-23T16:29:00+03:00",
-      "urls": [
-        {
-          "sign": "0359f6f6478ceacaf35bf766fd5d90f58a87fcd68e65f767c1a3d8da00b1a3cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Öljyn hinta nousi yli sadan dollarin Punaisenmeren iskujen seurauksena",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-23T16:41:00+03:00",
       "urls": [
         {
@@ -544,21 +529,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-23T15:02:19Z",
-      "urls": [
-        {
-          "sign": "54887f98722234cb96f1463656341e5fe70e8155f572d24621f4c46746f45459",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etsintäoperaatio jatkuu maanvyöryn jälkeen Chongqingissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-23T18:00:00+03:00",
       "urls": [
         {
@@ -617,21 +587,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-23T15:25:04Z",
-      "urls": [
-        {
-          "sign": "c92d649381b81ee1120bc5449d69ce69f9834445a32c684323b15a8e9dc9bc07",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuopiorockin kulkulupajärjestelyt sujuvat Rönön saaren asukkaiden mukaan hyvin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-23T15:31:55Z",
@@ -2539,38 +2494,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-24T07:13:53Z",
-      "urls": [
-        {
-          "sign": "e9200362af7ca286b85ea408bd8f53d7757b45204c66d85eb6b09916fb814069",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Los Palacios y Villafranca lahjoitti maailmanmestareille tomaatteja heidän painonsa verran",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-24T07:01:40Z",
-      "urls": [
-        {
-          "sign": "ca4d7ea47f78feaec2714913fe38390d1c04bdc875749c48238b09b47810fccb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-24T07:06:43Z",
       "urls": [
         {
@@ -2614,21 +2537,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-24T07:18:20Z",
-      "urls": [
-        {
-          "sign": "ea43f0a108893e1e19e2a56d8254f78f53ca894d27055f942e0e64e80a7ba65c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "13-vuotias Petja sai hauesta pureman uimaretkellä Tuusulassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-24T07:28:38Z",
@@ -6212,7 +6120,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-24T19:28:14Z",
+      "updated": "2026-07-24T19:35:46Z",
       "urls": [
         {
           "sign": "00f88f67aae2e31eccfe5f08bf441db1efe1e681267d1b325ec99fc6c0c1669d",
@@ -6221,7 +6129,7 @@
           ]
         }
       ],
-      "title": "ICC:n jäsenmaiden enemmistö äänesti Karim Khanin erottamisesta häirintäsyytösten vuoksi",
+      "title": "ICC:n jäsenmaiden enemmistö on päättänyt erottaa Karim Khanin häirintäsyytösten vuoksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6372,6 +6280,96 @@
         }
       ],
       "title": "Saara Keskitalo voitti SM-kultaa 100 metrin aitajuoksussa varaslähtöuhan jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T22:41:00+03:00",
+      "urls": [
+        {
+          "sign": "62d39025867f54f85e077222683d02dcdfad385b4ad2e71bc9a05921b69abc86",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tulipalo Porvoonkadulla Helsingissä johti vakavaan loukkaantumiseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T19:39:49Z",
+      "urls": [
+        {
+          "sign": "526327f01deb4bdb34868ae79d038a1df77c94e0f516f760b3e1999e26575725",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Irlannin poliisi pysäytti merkittävää pommia kuljettaneen naisen Pohjois‑Irlannin rajalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T19:34:18Z",
+      "urls": [
+        {
+          "sign": "1fb273005b6b772b3401fc0fcc71b99edd3afaaa3d1db6f03cb3530959dfc87c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yksi henkilö loukkaantui vakavasti kerrostalopalossa Helsingin Porvoonkadulla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T19:43:52Z",
+      "urls": [
+        {
+          "sign": "f0b59c1a09a19be9dd4e8df99ec4ae308ba108d73b30a2a8c7081b1312ee3c14",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nathalie Blomqvist jäi pois Kalevan kisojen 1500 metriltä osallistumisen vahvistamatta jäämisen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T19:35:58Z",
+      "urls": [
+        {
+          "sign": "01e40a11473b7cb4f9c98b9d8e97318491987e726a5288a518ec649f49f337f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansainvälisen rikostuomioistuimen pääsyyttäjä Karim Khan erotettu häirintäsyytösten vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T19:41:52Z",
+      "urls": [
+        {
+          "sign": "8b38800eda9245b5a01e5624154eac437b6aa4f7981a7683e39191d582c61cb0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Katsojien aiheuttama tilanne johti Einor Rubion vakavaan loukkaantumiseen Tour de France -etapilla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
