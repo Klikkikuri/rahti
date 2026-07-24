@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T16:54:23Z",
+  "updated": "2026-07-24T17:14:41Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -349,21 +349,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-23T12:59:09Z",
-      "urls": [
-        {
-          "sign": "dd446f6176a217461d355a315325673c19dcaadb40910f70f32b775f71b61640",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sanoittaja Anna-Mari Kaskiselle myönnettiin Juha Vainio -palkinto",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-23T13:06:12Z",
       "urls": [
         {
@@ -377,21 +362,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-23T16:06:00+03:00",
-      "urls": [
-        {
-          "sign": "654c86db63680d4d0293ea39947341e6868cb4548e5e127639b750fbb18e2337",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirjailija Eeva Kilven muistotilaisuus järjestetään Helsingissä 25. heinäkuuta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-23T13:08:28Z",
@@ -660,21 +630,6 @@
       ],
       "title": "Ministeri Wille Rydman hylkäsi korkealle arvioituja tutkimushankkeita",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-23T14:28:42Z",
-      "urls": [
-        {
-          "sign": "e88fa2f6b55dcb167949bc8b1bd30473047021b9ae74095effb2a97eaccb8ed1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sähkökatko Kampissa ja Töölössä – noin 2 000 asiakasta ilman sähköä",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -1375,23 +1330,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-23T16:13:00+03:00",
-      "urls": [
-        {
-          "sign": "d47c88e60d756a2c1c52eb685c4c12f68bcea5b84707467394025a210a1d50f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-23T19:14:54Z",
       "urls": [
         {
@@ -1563,23 +1501,6 @@
       "urls": [
         {
           "sign": "955d96ba7723e745573178d07749ce013394dedbd73b1eb4c7a9567f78bacd59",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T16:07:00+03:00",
-      "urls": [
-        {
-          "sign": "562e0e9fd000ec6d7736de9a06e256c85bfcca745636df01a0c8b5510155de44",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -2263,38 +2184,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-24T04:04:08Z",
-      "urls": [
-        {
-          "sign": "31381180b2bccf952865ff28d96c1e0c619c2255f17bafb3e9ea8a22c990fdab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotta Haralan perjantain startti Jyväskylässä epävarma – Bryggare varoittaa juoksemisesta kipeällä jalalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-24T04:05:13Z",
-      "urls": [
-        {
-          "sign": "a726cbcfbd083f6c3f02835fc2e2fc2bec8eb5365edfe4c6ce4ac240eea25d1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-24T04:05:14Z",
@@ -6379,6 +6268,115 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T20:04:00+03:00",
+      "urls": [
+        {
+          "sign": "c6e402579b1d69eb3c76985c38321847f0654c3e750b40a28f9f78c040e09c9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luksusmuoti omaksuu surffielämäntyylin – board short -kesä nousi trendiksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T17:00:18Z",
+      "urls": [
+        {
+          "sign": "c9d24feb183291d25f870199b16bcfb6e36ceb9124a63af3d81719f165af9b79",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "016bb0c6bfc66569d5c0facb9207c809048ae1ec17ab484f83a7ea6c84253851",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T17:13:20Z",
+      "urls": [
+        {
+          "sign": "cb5c4dd7b6487e23638915907b58ab75df98784dc6a949503c5b0d7acf7fd7ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luke:n mukaan mustikkaa runsaasti monilla alueilla – sadekuurot voivat pilata marjastuksen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T17:14:41Z",
+      "urls": [
+        {
+          "sign": "02e9ec43fe7ff66fdbe9b71091997ceef14b1ee4073fd6102b96190f6fcd1ee9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elenia kuvaa sähköverkkojaan drooneilla tänä kesänä ensimmäistä kertaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T20:06:00+03:00",
+      "urls": [
+        {
+          "sign": "3800a4b142e99b8e96f6e8c15e07356427e8cf3aacb8de32c9fc363d5e4f8dbb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeuskansleri vaatii täsmennyksiä sote-avustusasetukseen – hallituksen kiista jatkuu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T17:00:00Z",
+      "urls": [
+        {
+          "sign": "eb0219a8812f0d6d3a8d36169076beab5e28f0894b797f3676e712b1f437ae08",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oprah Winfrey selittää, miksi häntä kutsutaan Oprahiksi vaikka syntymätodistuksessa lukee Orpah",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
