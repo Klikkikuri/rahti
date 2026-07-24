@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T19:59:34Z",
+  "updated": "2026-07-24T20:00:10Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -2430,21 +2430,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T07:31:18Z",
-      "urls": [
-        {
-          "sign": "29dff02af5c4f2871cd077a36b3e652e7ff5527e7fea48a8188d3ff5e2c45c7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi lähetti Ukrainaan kemiallisten, biologisten ja säteilyuhkien torjuntaan tarkoitettua materiaaliapua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-24T07:10:00Z",
@@ -6373,6 +6358,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-24T20:00:10Z",
+      "urls": [
+        {
+          "sign": "fb44f826b0a9db84c3101adc0cae4c66d2a8fcd777e2d8af2fb6f1d3bd9f2fdf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meg Draperin vanhemmat vaativat ilmaista B-meningokokkirokotetta kaikille 15 vuotta täyttäneille teineille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
