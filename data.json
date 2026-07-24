@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T10:24:13Z",
+  "updated": "2026-07-24T10:37:41Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -589,21 +589,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-23T08:10:56Z",
-      "urls": [
-        {
-          "sign": "2c9a6b22675e19de361ab5e1c105c63cfd903899f578d6bdfe41a51d00dba9b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii tapon yritystä Helsingin Pasilassa – epäilty otettu kiinni",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-23T11:00:00+03:00",
       "urls": [
         {
@@ -674,21 +659,6 @@
         }
       ],
       "title": "Museokortti-järjestelmään asetetaan hintakatto museolippujen korvauksille",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-23T08:15:24Z",
-      "urls": [
-        {
-          "sign": "890ba9eea661655e796ea88c361725281db6f237dcc9d60fe4e8a1d77bd949d8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kelan tilasto: Opintolainojen takaisinmaksuvaikeudet ovat lisääntyneet merkittävästi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -2269,21 +2239,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-23T15:49:53Z",
-      "urls": [
-        {
-          "sign": "ffccc0bec83306a6ccb012ef5f9c19b5b0d5f95855f536f5d25528725de622e1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroopan keskuspankki pyytää kansalaisilta palautetta uusista euroseteliehdotuksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-23T15:45:18Z",
       "urls": [
         {
@@ -2954,23 +2909,6 @@
       "urls": [
         {
           "sign": "c4733e5e48cd51b489c7584c0e39e0b76fd26f2c366f93fb88222dce636d318d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T10:00:00+03:00",
-      "urls": [
-        {
-          "sign": "08be9896bf5ca70ebc5a3c5e980158ed89f5c8faad0370f346bd87d805e7e39e",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -6408,6 +6346,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T10:32:35Z",
+      "urls": [
+        {
+          "sign": "4a762770755051677611a106196220018f0bce54faad57e4cfcd3f85f75912e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän tullikorotus leikkasi lannoitekuljetukset Suomeen murto-osaan – ammoniakkia ja nikkelikiveä kulkee yhä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T10:36:31Z",
+      "urls": [
+        {
+          "sign": "f26b7dd212e9f537a39b44852e4f4732d0f21e144d6721f848c43eb6601b895f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toyota BZ4X Touring tarjoaa paljon tilaa ja tehoa mökkikäyttöön, mutta rengasmelu häiritsee",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T13:29:00+03:00",
+      "urls": [
+        {
+          "sign": "b0596503b6d31cb218f02fe6f0d0e7838c6f293d8d5407cb8bf5250396b735ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Virtuaaliset ostossovellukset tarjoavat tilauskokemuksen ilman todellisia ostoksia somessa ja keräävät käyttäjätietoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T10:37:41Z",
+      "urls": [
+        {
+          "sign": "602dd4fe53e1ee39b0a8d1b6c1d7ae1fae1cad9df50f71bb95b5b7c09d23ab48",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskalaiset tutkijat: Linnunlaulun kahdeksan perusosaa vaihtelevat ympäristön mukaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
