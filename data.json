@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T20:43:55Z",
+  "updated": "2026-07-24T20:51:37Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -392,21 +392,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-07-23T14:11:43Z",
-      "urls": [
-        {
-          "sign": "0cc13f1cebadfa2ad354da38103570360ec023b2b09009a85c570c7326a1e2a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anthony Joshua palaa nyrkkeilykehään traagisen onnettomuuden jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-23T17:19:00+03:00",
@@ -6345,7 +6330,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-24T20:42:36Z",
+      "updated": "2026-07-24T20:51:33Z",
       "urls": [
         {
           "sign": "a2a74392ee2e1875c335bbdd3cb1ef1dc2817403648957215adc1ffd0eb5528f",
@@ -6354,7 +6339,7 @@
           ]
         }
       ],
-      "title": "Heinolan jätteenkäsittelylaitos syttyi tuleen – alueelle annettu vaaratiedote",
+      "title": "Heinolan Myllyojan jätteenkäsittelylaitoksella syttyi suuri palo – alueelle annettu vaaratiedote",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6373,6 +6358,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T20:51:37Z",
+      "urls": [
+        {
+          "sign": "06481664012169c14c04948691a10d7364d378f84cc74f145739edcb8bed71d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuusakosken jätteenkäsittelylaitos palaa Heinolassa – vaaratiedote annettu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
