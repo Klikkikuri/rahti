@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T12:29:09Z",
+  "updated": "2026-07-24T15:44:00+03:00",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -409,21 +409,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-23T08:01:21Z",
-      "urls": [
-        {
-          "sign": "355b49681db5f313f23f3bc76953d925beb505cde6f06c615e7c93ab458e0cd1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Pasilassa tapahtunutta puukotusta tapon yrityksenä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-23T18:55:00+03:00",
       "urls": [
         {
@@ -452,36 +437,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "4bb4d97f667650de0344d5d5b5d5bf1d920f1d655c872b32a3039681849eff19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mielipide: Median rooli Garden Helsinki -hankkeen uutisoinnissa ja hallituksen viestintä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T08:49:47Z",
-      "urls": [
-        {
-          "sign": "c1b03724fa81d04a804c6d0311800c8a4d26112979bc0e9d80a29f6e473aaf2e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "William Shatner ja tytär Melanie toipuivat neljännen asteen syövästä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-23T08:55:24Z",
@@ -587,21 +542,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T10:22:25Z",
-      "urls": [
-        {
-          "sign": "738c9329026e3cf95d08ac5728fc92e9e88892d4a578e63495576092ea41e99f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taiteilijoiden toimeentulo on heikentynyt – moni yhdistää taiteellisen työn ja palkkatyön",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-23T10:26:26Z",
@@ -2594,23 +2534,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-23T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d8a8940bd975bf833d6b07d2455b58035464500635f3b1796080a510019efa04",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-23T22:11:00+03:00",
       "urls": [
         {
@@ -2921,23 +2844,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-23T12:32:00+03:00",
-      "urls": [
-        {
-          "sign": "4f5d643fa5590af739fd28d4344970770b130f533d75ee245216dcf4a6833a69",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-23T18:16:47Z",
@@ -6239,7 +6145,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-24T12:10:25Z",
+      "updated": "2026-07-24T12:32:52Z",
       "urls": [
         {
           "sign": "fef9b434b45ae7151066835f354026c10bfcb411dd51c36d6c2f060d38fb7c21",
@@ -6248,7 +6154,7 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos avustaa perjantaina konerikon vuoksi ankkuriin jäänyttä höyrylaivaa Ruovedellä, kyydissä 50 matkustajaa",
+      "title": "Höyrylaiva Tarjanne pysähtyi Ruovedellä perjantaina konevikaisen vuoksi – 50 matkustajaa evakuoitu",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6402,6 +6308,96 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T12:29:43Z",
+      "urls": [
+        {
+          "sign": "cfc0d641e6c739c4f3724d19523c570cff640414fbd42fbba4509f0a5500f56b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranuan eläinpuiston villisika karkasi, aiheutti poliisioperaation ja lopetettiin – Korkeasaari pitää karkaamisia harvinaisina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T15:44:00+03:00",
+      "urls": [
+        {
+          "sign": "59dc5bd36a8bfd68b4805c107fe6a74516136fc8e546156fd28b0a3387cea747",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lainsäädännön arviointineuvosto moittii rajalakiesitystä lukuisista puutteista ja vaatii korjauksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T12:33:21Z",
+      "urls": [
+        {
+          "sign": "31c43f13521d2703b848e1f9e5a9fcb5a554e68e109c60d13868fc6e1f43e6f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Telakatyöntekijä kuoli trukki-onnettomuudessa Raumalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-24T15:43:00+03:00",
+      "urls": [
+        {
+          "sign": "89ebf06cc93eca828bbd42c0e4be5be7464000a1dbc1f1a62f32390822c49b08",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norja kritisoi Yhdysvaltojen 12,5 prosentin tullia – korkeampi kuin muissa Pohjoismaissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T15:41:00+03:00",
+      "urls": [
+        {
+          "sign": "1f4ac8e5dd495a495e1d0d8e966e0b60a53e2836c4640f69bbd05d44358029c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Telakan työntekijä kuoli trukin alle jäätyään Rauman telakalla keskiviikkona",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-24T12:26:31Z",
+      "urls": [
+        {
+          "sign": "3444be0cb5c69464f55d0a386a12b595211b83e4cf75ea24b465ab06659cc0eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Päivi Räsänen valittaa tuomiostaan Euroopan ihmisoikeustuomioistuimeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
