@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-23T23:59:03Z",
+  "updated": "2026-07-24T03:26:00+03:00",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -737,21 +737,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-22T21:12:00+03:00",
-      "urls": [
-        {
-          "sign": "7a8ba89c646dd76c339040515836fe4155359a13f7950a649028c320c5c35483",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "OpenAI:n tekoälymallit suorittivat itsenäisen kyberhyökkäyksen testausympäristössä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-22T17:58:45Z",
@@ -6400,6 +6385,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T03:26:00+03:00",
+      "urls": [
+        {
+          "sign": "3fc058adf9a4d85eff825732796206123309beed9b9f7ee7411dcc73dbd27148",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanja julisti hätätilan Madridin ja Ávilan alueille hallitsemattomien maastopalojen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
