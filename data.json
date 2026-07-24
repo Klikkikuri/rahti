@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T12:11:00+03:00",
+  "updated": "2026-07-24T09:28:44Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -409,36 +409,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-23T04:30:00Z",
-      "urls": [
-        {
-          "sign": "c65b92b50e9f5f45690268a40b43bf0400bb67400aac3dc25a93832f297f0cb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kysely: Suomalaiset eivät pelkää tekoälyn vievän työpaikkoja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-23T05:12:00Z",
-      "urls": [
-        {
-          "sign": "55a3b7758d051e5e657273fa0fa5c8a6304a3e7f424cacd41322c73623b33292",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija varoittaa: Lämpimässä olleita grillimakkaroita ei tule syödä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-23T10:13:49Z",
       "urls": [
         {
@@ -467,21 +437,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T05:04:15Z",
-      "urls": [
-        {
-          "sign": "6522940a1418fdc5128dab9b06e9f801389c17be008dd645d6d669450b2a6223",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija Jari Ketomaa neuvoo Esapekka Lappia ajamaan kovempaa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-23T16:17:05Z",
@@ -617,21 +572,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-23T06:51:13Z",
-      "urls": [
-        {
-          "sign": "0d397a396166eaa81ab21a58687ae38f37eb06d4327bd87b09a075dd413eee7b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuhmon kamarimusiikkifestivaali kokoaa kansainväliset huippumuusikot Kainuuseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-23T06:58:13Z",
@@ -2299,21 +2239,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-23T14:33:44Z",
-      "urls": [
-        {
-          "sign": "e6c6d3a6b397e9ab4a1af2d3ab32ece8e7b8041b1b44200005a89a22877f5bc2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maastojuoksun Suomen mestari Taru Palsa odottaa lasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-23T21:17:00+03:00",
       "urls": [
         {
@@ -2444,21 +2369,6 @@
         }
       ],
       "title": "Ilmatieteen laitos ennustaa lämpenevää säätä Itä-Suomeen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-23T15:00:11Z",
-      "urls": [
-        {
-          "sign": "3f9c66201f1c7cb87826180ae8ceb502f5e8e258e256035d3673b096a1c6d0cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyönteistutkija: Hyttysten määrän vaihtelu on normaalia ja riippuu sääolosuhteista",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5905,7 +5815,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-24T10:30:00+03:00",
+      "updated": "2026-07-24T12:25:00+03:00",
       "urls": [
         {
           "sign": "d3faa2e252e955ec97af066dba2da094378659810ca26b89ee406564af4a99e0",
@@ -5914,9 +5824,11 @@
           ]
         }
       ],
-      "title": "Dara:n Euroviisuvoitto ja Bangaranga herättävät kiistaa Bulgarialaisessa kansanperinteessä ja politiikassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -6361,7 +6273,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-24T12:11:00+03:00",
+      "updated": "2026-07-24T12:28:00+03:00",
       "urls": [
         {
           "sign": "6435ee95f52fa6e1e6163fd4966e983ab73505df7134876b86ee53ce88deca09",
@@ -6370,7 +6282,7 @@
           ]
         }
       ],
-      "title": "Korkein oikeus hylkäsi kansanedustaja Timo Vornasen valituslupahakemuksen ampumisjutussa – käräjäoikeuden tuomio pysyy voimassa",
+      "title": "Korkein oikeus hylkäsi kansanedustaja Timo Vornasen valituslupahakemuksen – käräjäoikeuden tuomio pysyy voimassa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6401,6 +6313,96 @@
         }
       ],
       "title": "Saksan jalkapalloliitto nimitti Jürgen Kloppin Saksan miesten maajoukkueen päävalmentajaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-24T09:15:00Z",
+      "urls": [
+        {
+          "sign": "e1b2fc22a6fb6ab29eeeb4fd918982699d4a149a10b91fc7470fd8a05969e28a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bella Westerlund avioitui Markusin kanssa 23. heinäkuuta 2026",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-24T09:28:44Z",
+      "urls": [
+        {
+          "sign": "e5d584853888e68b5d36bf0dbaceca2370d5cb7f0fc1b73237a41ee1a927e7fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanja julisti kansallisen hätätilan maastopalojen vuoksi, yli 10 000 evakuoitu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T09:17:09Z",
+      "urls": [
+        {
+          "sign": "740df1c83fde6bfa3f2ecdb3d52c5c782034face093e9a0cb42511a077ba1527",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Korkein oikeus hylkäsi Timo Vornasen valituslupahakemuksen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-24T09:24:34Z",
+      "urls": [
+        {
+          "sign": "64d4c422209d17e4d2a18b5497f146b49028cef0efc99bcd212203c4ef7d6e84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Erikoislääkäri Päivi Porkka varoittaa matkailijoita metanolimyrkytyksen oireista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T09:23:23Z",
+      "urls": [
+        {
+          "sign": "8a1f784880f03d79b1e707d4d6a65894301735abe2d3f40b6e93edf1f6df21af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fernando Alonso: Aston Martinin päivitykset eivät todennäköisesti paranna sijoituksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-24T09:20:00Z",
+      "urls": [
+        {
+          "sign": "f7e8b49c0995d301041bbd9ad8124a5622937363e78d4c2756e608a5a1d00f02",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ihmiset kieltäytyvät perinnöstä kiinteistöjen myyntivaikeuksien takia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
