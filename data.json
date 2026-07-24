@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-24T05:42:49Z",
+  "updated": "2026-07-24T05:52:31Z",
   "entries": [
     {
       "updated": "2026-07-03T08:43:04Z",
@@ -602,21 +602,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-23T02:30:35Z",
-      "urls": [
-        {
-          "sign": "1fb25a281434afe56d0827430dbc14600ec33ebd2ccaa072d98cb3eaadd15b3a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nordea tarjoaa asiakkailleen aktiivisuuden seurantaan perustuvaa vakuutusturvan korotusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-23T02:55:00Z",
@@ -4334,23 +4319,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-23T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d967f52f96bdac252f1be4fed10a36effcdbfb292680b70927b2c0969352699c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-23T18:08:25Z",
       "urls": [
         {
@@ -5766,7 +5734,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-24T05:09:00Z",
+      "updated": "2026-07-24T05:52:31Z",
       "urls": [
         {
           "sign": "d5927deae5b75c6aa6750dd0ab73a5f0598a43e9f6214c5c7168400194f2037e",
@@ -5775,7 +5743,7 @@
           ]
         }
       ],
-      "title": "Kehäradan junaliikenne kulkee taas – auto oli ajautunut raiteille Kivistön ja Aviapoliksen välillä",
+      "title": "Auto ajautui junaradalle Kehäradalla – 60 matkustajaa evakuoitiin busseilla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5903,7 +5871,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-24T08:41:00+03:00",
+      "updated": "2026-07-24T08:50:00+03:00",
       "urls": [
         {
           "sign": "992f388ff67db5d77d0bf41e487f562ec9bc820ee8c24388bcfe32afff455be7",
@@ -5912,7 +5880,7 @@
           ]
         }
       ],
-      "title": "Henkilöauto putosi junanraiteille Vantaan Viinikkalassa – kehäradan liikenne poikki aamulla",
+      "title": "Henkilöauto putosi junanraiteille Vantaan Viinikkalassa – junaliikenne keskeytyi, 60 matkustajaa evakuoitu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6400,6 +6368,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-24T05:48:15Z",
+      "urls": [
+        {
+          "sign": "3c740adfc46a3cc4a7a9b9f5d656fd96e8b5e28da0c5879c2851e99b0e9e50db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jäätelökioskien hygieniaongelmat yleisiä – Sastamalan kioski sai huonoimman Oiva-arvosanan viiden vuoden laiminlyönnin jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-24T08:45:00+03:00",
+      "urls": [
+        {
+          "sign": "a9468ff32fd2cd915fa8cd35f74bc2d1436c35b099d83e3fa255b6f9621cd9a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
