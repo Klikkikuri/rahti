@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T05:42:33Z",
+  "updated": "2026-07-25T05:58:50Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -499,21 +499,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-07-23T21:22:54Z",
-      "urls": [
-        {
-          "sign": "c808515f2df6c6c8fc03eb707e2110629ba4fda5f6e5ad97648ad5121f2641b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat asettaa uudet 10–12,5 prosentin tuontitullit noin 60 kauppakumppanilleen perjantaista alkaen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-23T22:00:00+03:00",
@@ -2329,21 +2314,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T10:12:14Z",
-      "urls": [
-        {
-          "sign": "2cdc8c13c63b0420339a90717f666b899308377cbeb4923a3620a67dddc60130",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sää lämpenee viikonlopuksi – lämpötilat nousevat yli 20 asteen etelässä ja idässä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-24T10:05:56Z",
@@ -6379,6 +6349,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-25T05:58:50Z",
+      "urls": [
+        {
+          "sign": "5c8b077f90fd6df8001bd8b3404274c0523cc8d82e2e1dec75ee4ad118a38a11",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina on iskenyt kahdeksan kertaa Venäjän suurimman verkkokaupan Wildberriesin tiloihin – perustaja Tatjana Kim on maan rikkain nainen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-25T05:56:14Z",
+      "urls": [
+        {
+          "sign": "c3b0fac69cd74c5d07ec4b414ca09e27001d6bf4d9e50e597385243a93ace33d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rajavartiolaitos tutkii kahta epäiltyä ihmisten salakuljetusta Valko-Venäjältä Suomeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
