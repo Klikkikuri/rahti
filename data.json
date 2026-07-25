@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T20:08:22Z",
+  "updated": "2026-07-25T20:15:38Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -454,21 +454,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T09:37:01Z",
-      "urls": [
-        {
-          "sign": "f965fd7a616642a2c8912db5cd3ab4defc4b9eec38f8e64abec98d24e8791bf7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eettinen marjabisnes on Suomessa mahdotonta, sanoo lappilainen yrittäjä Tiia Muotkavaara",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T09:44:36Z",
@@ -6373,6 +6358,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T20:15:38Z",
+      "urls": [
+        {
+          "sign": "96e30a64eb7684089549dbf7421dd93bf0d77bcd5b5bee72246968ebbf63c33f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ihminen kuoli maastopalossa Valencian lähellä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
