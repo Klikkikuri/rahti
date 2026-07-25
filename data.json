@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T14:59:15Z",
+  "updated": "2026-07-25T15:14:43Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -334,23 +334,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-24T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "0342493152dcc0c597db4203d011d962ff320b6af642f333bbebc33348c7bf5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-24T11:14:00+03:00",
       "urls": [
         {
@@ -597,21 +580,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T08:34:49Z",
-      "urls": [
-        {
-          "sign": "5a275a9940ab00f61c5a09d35a1e027f089cddc8cb84bc2b3d01a9c14cd9d6d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viikonlopun sateet nostivat järvien vedenkorkeuksia keskimääräiselle tasolle monilla alueilla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T11:59:00+03:00",
@@ -2752,21 +2720,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-24T18:19:03Z",
-      "urls": [
-        {
-          "sign": "12258754373c4e9544dd07d0024b946bbdc6d7baff03b0e380f667f1a11a3e53",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nathalie Blomqvist unohti ilmoittautua naisten 1500 metrille Kalevan kisoissa ja jäi pois kilpailusta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-24T18:19:58Z",
@@ -6118,7 +6071,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-25T14:52:23Z",
+      "updated": "2026-07-25T15:10:06Z",
       "urls": [
         {
           "sign": "b21ffe2fc66247c73ffc8290d000888f8a0cfe1a0650068b752913d653e85096",
@@ -6127,7 +6080,7 @@
           ]
         }
       ],
-      "title": "Wilma Heltelä kilpailee Kalevan kisojen naisten seiväsfinaalissa Jyväskylässä – viimeinen kilpailu ennen EM-kisoja",
+      "title": "Wilma Heltelä kilpailee naisten seiväsfinaalissa Kalevan kisoissa Jyväskylässä – viimeinen kilpailu ennen EM-kisoja",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6225,7 +6178,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-25T14:46:26Z",
+      "updated": "2026-07-25T15:14:43Z",
       "urls": [
         {
           "sign": "7244938d6f889f2eda40170f55b4f543c02f86c84dac517a51dde928c8ef58d6",
@@ -6234,7 +6187,7 @@
           ]
         }
       ],
-      "title": "Lando Norris johtaa Unkarin GP:n aika-ajoa – Hamilton toisena, Leclerc kolmantena, Bottas jäi ensimmäiseen osioon",
+      "title": "Lando Norris otti paalupaikan Unkarin GP:ssä – Hamilton jäi 0,012 sekunnin päähän",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6373,6 +6326,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T15:14:25Z",
+      "urls": [
+        {
+          "sign": "66c6c41c845fd881b1078777b2b1b6f2c3930d9f258a6ee3d68a131044ea8d30",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kenian lakimies ja somevaikuttaja Ella Mukabane voi ostaa 130 euron farkut",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-25T15:00:03Z",
+      "urls": [
+        {
+          "sign": "80f8affb8d58c5bc6de38804cee89957ed73a5caeed1b2b36a8a4bbeb974ad6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tokion kuvernööri Yuriko Koike kehottaa toimistotyöntekijöitä pukeutumaan kesällä rennosti – herättää keskustelua sukupuolten tasa-arvosta ja jalkakarvoista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "b1b82df6d45978d99137b0039932022d16a8dda0e5cbc382ed467cd555718f88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen tulee pitää päästökauppa tiukkana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
