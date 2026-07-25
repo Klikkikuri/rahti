@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T07:59:11Z",
+  "updated": "2026-07-25T08:01:05Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -488,23 +488,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-24T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "ed162a665975df84694f454f04557b863bc817988a95c6fcb8bf8b35e4fef589",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-24T20:17:00+03:00",
       "urls": [
         {
@@ -578,36 +561,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-24T02:40:00Z",
-      "urls": [
-        {
-          "sign": "9ebd6e27daf493507a22955273bd93f287ce4acb0288d63c0a4e9e333dc7e7e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Googlen sakot voivat vähentää Suomen EU-jäsenmaksuja jopa 70 miljoonalla eurolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-24T02:54:47Z",
-      "urls": [
-        {
-          "sign": "04e077aaf6721ce1a732266463198e7cb3a86f2cac2adc6ff4341f6a668c29e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanja julisti hätätilan Madridin alueelle maastopalojen vuoksi – Ranska pyytää EU:n apua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-24T03:03:50Z",
@@ -6375,6 +6328,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-25T07:40:42Z",
+      "urls": [
+        {
+          "sign": "9fba70db5cb223994e9b41252dc325241b52aba659f2654d73ea0d99bd820da6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ampui miehen Madisonissa – mielenosoituksia seurasi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-25T08:01:05Z",
+      "urls": [
+        {
+          "sign": "10f670dec0131de5e2ab4bbaf6378ffbb3e16d2b5844dfa23467e3ef49e80d95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansainvälinen olympiakomitea ei voi tutkia Infantinon osuutta Balogunin pelikiellon purkamisessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-25T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "59fdcb49df975fb2c9c3b0db05ee7a5ff1fcba9e4a56bc856ea3a3ea5df1b16f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
