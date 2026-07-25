@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T20:31:26Z",
+  "updated": "2026-07-25T23:58:00+03:00",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -396,21 +396,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-24T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "15316d6107d59049064038e88e5bd65f5cda05d1da79cd393a39ad6dd2f473c2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asukkaat vaativat läpinäkyvämpää valvontaa muuttokorjauksiin Hekassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-24T14:52:09Z",
       "urls": [
         {
@@ -466,21 +451,6 @@
         }
       ],
       "title": "Lieksan kristillinen opisto palautti 130 000 euroa valtionavustuksia virheellisen kustannusilmoituksen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-24T09:37:13Z",
-      "urls": [
-        {
-          "sign": "99da056651841c4968b00da92058e6f4cf045a192611a81416dc680aa37345c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi lopetti Saarijärvellä loukkaantuneen karhun – vammat todennäköisesti tappelusta toisen karhun kanssa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -6373,6 +6343,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T23:58:00+03:00",
+      "urls": [
+        {
+          "sign": "86dbc51d4b501c7b556abd754682362b797cc9dadaa1e99ec3f102f18580a16f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Berliinin pride-tapahtumassa useita loukkaantuneita – poliisi epäilee väkijoukkoon ajoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-25T20:45:49Z",
+      "urls": [
+        {
+          "sign": "7e61d0f1c36acf9bbdf13648905c11c55577927b3a62f01e16e6bb87c1f1283b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liittovaltion valitustuomioistuin hylkäsi Trumpin hallinnon yrityksen kiristää postiäänestystä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
