@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T08:01:05Z",
+  "updated": "2026-07-25T11:28:00+03:00",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -473,21 +473,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-24T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d8557e230da80f14428263b44a4cba5446b6f3912f6545a55c22ad88ee37f91e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pierre Cardin laajentaa brändiään vaatteista autoihin ja viineihin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-24T20:17:00+03:00",
       "urls": [
         {
@@ -501,21 +486,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T01:42:09Z",
-      "urls": [
-        {
-          "sign": "42e73c6a3a3651e8817d7ba6433043260aaaddb1e35ab354613180948d0cff0c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranska pyytää EU:n pelastuspalvelumekanismin aktivointia metsäpaloihin ja saa neljä lentokonetta sekä kaksi helikopteria",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T04:15:09Z",
@@ -576,21 +546,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-24T03:00:00Z",
-      "urls": [
-        {
-          "sign": "a62c9a0c830586ee619b9f0b69d6b6dd7a018344b7103ebacc19816a7fd27889",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Israelin siirtokuntalaisten väkivalta Länsirannalla kiihtyy – viranomaisten käskyjä ei noudateta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-24T09:40:00+03:00",
@@ -5409,7 +5364,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-25T10:03:00+03:00",
+      "updated": "2026-07-25T11:22:00+03:00",
       "urls": [
         {
           "sign": "c242cc5364f4f08430d7cd5686fed10439093834adcda763ec72122930d04fc9",
@@ -5418,7 +5373,7 @@
           ]
         }
       ],
-      "title": "Arvaamattomat tuulet uhkaavat levittää maastopaloja Ranskassa ja Espanjassa lauantaina – yli 200 000 evakuoitu",
+      "title": "Ranskan ja Espanjan maastopalot pakottavat yli 200 000 ihmistä evakuoitumaan – Espanja julisti kansallisen hätätilan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6374,6 +6329,51 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-25T08:22:56Z",
+      "urls": [
+        {
+          "sign": "c3f6a104789594981db860f16eb71c1b437ed67e46a98e51c9548a6497a6ef6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oliver Solberg on tyytyväinen asemaansa ja uskoo kaventavansa eroa MM-kärkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-25T08:19:06Z",
+      "urls": [
+        {
+          "sign": "3431ae5497f4810d91226ffb1b3f4d6336d1b76db85cc6192aa9d91498d06e54",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toinen tulipalo syttyi Kuusakosken Heinolan tehtaalla – syynä epäilty litiumakku",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-25T11:28:00+03:00",
+      "urls": [
+        {
+          "sign": "54ff8bb99da3c1e8704c9e7ab5bdbe48da1a575e060cfabc6edd0243183bffcb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalainen poptähti D4vd syytetään teini-ikäisen tytön seksuaalisesta hyväksikäytöstä, raskaudesta ja murhasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
