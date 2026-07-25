@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T19:28:14Z",
+  "updated": "2026-07-25T19:40:56Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -79,7 +79,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-25T18:18:35Z",
+      "updated": "2026-07-25T19:40:54Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -88,7 +88,7 @@
           ]
         }
       ],
-      "title": "Zelenskyi esittää kovan väitteen Venäjästä – Iltalehti seuraa",
+      "title": "Yhdysvallat varoittaa Ukrainaa WSJ:n mukaan",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -681,21 +681,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-24T10:52:22Z",
-      "urls": [
-        {
-          "sign": "fb8ce92b4bd4e3d122728620b661c598c346496d18d98850d07df0ee363afbb4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ahti: Suhde Shirly Karvisen kanssa tuntuu aikuismaisemmalta kuin aiemmat suhteet",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-24T11:27:05Z",
@@ -2904,36 +2889,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-25T04:40:44Z",
-      "urls": [
-        {
-          "sign": "2463158027220bc87d5d5abb87a97048c45e342c62c75403ecbd738ec64c6fe6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Konsta Alatupa kertoo ruokasoodan parantaneen hänen 400 metrin aikansa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-25T05:00:04Z",
-      "urls": [
-        {
-          "sign": "9dd6160d30480fb3a25abee92bee7beba7ed50c328ab989ad4c1714b69a037f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lakritsituotteiden glykyrritsiini voi nostaa verenpainetta ja aiheuttaa rytmihäiriöitä – asiantuntijat vaativat selkeitä varoituksia pakkauksiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-25T04:52:00Z",
@@ -5900,7 +5855,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-25T19:25:54Z",
+      "updated": "2026-07-25T19:37:28Z",
       "urls": [
         {
           "sign": "c4d9b8ef4db61f61d8c7c2fbb5309a58e6958d4e043f2f10da980c74de8df8b6",
@@ -5909,7 +5864,7 @@
           ]
         }
       ],
-      "title": "Linda Lampenius ja Pete Parkkonen kruunasivat Anders Wiklöfin 80-vuotissyntymäpäiväjuhlat Maarianhaminassa",
+      "title": "Linda Lampenius ja Pete Parkkonen esiintyivät Anders Wiklöfin 80-vuotisjuhlissa Maarianhaminassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6367,6 +6322,57 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-25T19:40:56Z",
+      "urls": [
+        {
+          "sign": "4fdcd97eec81f9b155775973653fab828f01361a1b51b04f89a02721091039e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "46add78486736c89953895d3b796d60ccc3315b2ee2063fcd969c992abb36c55",
+          "labels": []
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T19:32:31Z",
+      "urls": [
+        {
+          "sign": "801a6e181164d253fdc94d4dbb74d374176bea6366178f9fb190477c644ab799",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wilma Heltelä voitti Kalevan kisojen seiväsfinaalin sateen keskeyttämästä kisasta huolimatta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T19:18:03Z",
+      "urls": [
+        {
+          "sign": "de100b3fdf7f065aa1045a01a20e3a2f4066d8f0eb0f7e5ff7357f37957c3370",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Madridin suurlähetystö: maastopalot osittain hallinnassa, savua kaupungissa mutta ei uhkaa keskustaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
