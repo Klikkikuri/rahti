@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T13:43:20Z",
+  "updated": "2026-07-25T13:51:05Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -501,23 +501,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-24T10:07:00+03:00",
-      "urls": [
-        {
-          "sign": "6e060dcd490f7e0cf6574e0d6ff75168284ec258905445733637e1c33a035fdd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-24T07:16:47Z",
@@ -2666,21 +2649,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-24T16:54:23Z",
-      "urls": [
-        {
-          "sign": "8a68d30d401eff1fb2f36852abd86d0292fed9103a4d9da8943c6b9b8879c9da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tanskan 21-vuotiaan naisen isä kertoo tyttärensä metanolimyrkytyksestä Laosissa ja varoittaa turisteja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-24T19:45:00+03:00",
       "urls": [
         {
@@ -2709,23 +2677,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T17:00:18Z",
-      "urls": [
-        {
-          "sign": "c9d24feb183291d25f870199b16bcfb6e36ceb9124a63af3d81719f165af9b79",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-24T20:00:00+03:00",
@@ -6377,6 +6328,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T13:51:05Z",
+      "urls": [
+        {
+          "sign": "4b69b014fb263952819ac0e42d3accc08e0a6c70e89c662933648176da531d62",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eeva Kilven muistotilaisuus Karjalatalossa: Jukka Kilpi ja Jenni Haukio muistelivat kirjailijaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T13:33:36Z",
+      "urls": [
+        {
+          "sign": "0293582def13662011043bea95fee3ebcaefd717613bade42b3a6a29d3d9a049",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Abdul Husseinin UFC-debyytti: vastus vaihtui lyhyellä varoajalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T16:45:00+03:00",
+      "urls": [
+        {
+          "sign": "49e2997ae0f5021cbbb570715fe63171a3a66a3c41004a3fc35f6eddd3adf0b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Omalääkärijärjestelmän heikentyminen uhkaa hoitopolkujen toimivuutta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
