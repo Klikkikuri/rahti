@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-25T23:16:39Z",
+  "updated": "2026-07-25T23:59:06Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -392,21 +392,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-24T09:52:34Z",
-      "urls": [
-        {
-          "sign": "1cecbdcaab0b9b3ea411dc2888948848a9f1ee4c17dd8f101fad37e0f314ce2d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Konecranesin tilaukset kasvoivat 13,4 prosenttia toisella vuosineljänneksellä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T10:14:09Z",
@@ -2990,21 +2975,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-25T06:40:12Z",
-      "urls": [
-        {
-          "sign": "a31ecbcb352f7e1014e845f533643b08b4269bbeddcb2fcb66e1d3743357d6b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Qstock-festivaali aiheutti runsaasti järjestyshäiriöitä Oulussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-25T09:30:00+03:00",
@@ -6099,7 +6069,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-26T01:18:00+03:00",
+      "updated": "2026-07-26T02:46:00+03:00",
       "urls": [
         {
           "sign": "86dbc51d4b501c7b556abd754682362b797cc9dadaa1e99ec3f102f18580a16f",
@@ -6108,7 +6078,7 @@
           ]
         }
       ],
-      "title": "Valkoinen auto ajoi väkijoukkoon Berliinin pride-tapahtumassa – useita loukkaantuneita, tapahtuma keskeytetty",
+      "title": "Valkoinen auto ajoi väkijoukkoon Berliinin pride-tapahtumassa – useita uhreja, mukaan lukien kuolonuhri",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6377,6 +6347,36 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-25T23:53:45Z",
+      "urls": [
+        {
+          "sign": "2f53fea1049f32ce15ff5f160dcce8da4e6605bbdf13ff26ae0dc62ca3d34da2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eppu Normaali soitti viimeisen festivaalikeikkansa Kuopiorockissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-25T23:59:06Z",
+      "urls": [
+        {
+          "sign": "622f30ca8d1ff9e3c70891b90128fab3a8b73081ed6c0db8789baf9b1dbbeb11",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mallorcalla mielenosoitus liikaturismia vastaan kerää 30 000 osallistujaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
