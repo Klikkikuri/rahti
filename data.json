@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T07:28:54Z",
+  "updated": "2026-07-26T07:45:01Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -407,36 +407,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T15:20:00+03:00",
-      "urls": [
-        {
-          "sign": "c21241bf102804bdf9dad3d31e81882efef6c0ef1cfb33db713bc3d9f147ce60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cap Ferret’n maastopalot pakottivat Helka Immonen perheineen evakuoitumaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T12:22:10Z",
-      "urls": [
-        {
-          "sign": "35bf0b221f619bc8d2968ed67cf5e5e9033968ce28a6f7e29af61fd8190b07ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies kuoli forkliftin alle jäätyään Rauman telakalla – poliisi epäilee törkeää kuolemantuottamusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T12:29:43Z",
@@ -3165,23 +3135,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-25T11:37:11Z",
-      "urls": [
-        {
-          "sign": "3135750e53e1f0e18a5168ac521fe83b41289806826b2e80e80c8f9b6d2550b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-25T23:11:50Z",
       "urls": [
         {
@@ -5182,7 +5135,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-26T09:14:00+03:00",
+      "updated": "2026-07-26T10:43:00+03:00",
       "urls": [
         {
           "sign": "86dbc51d4b501c7b556abd754682362b797cc9dadaa1e99ec3f102f18580a16f",
@@ -5191,7 +5144,7 @@
           ]
         }
       ],
-      "title": "Pakettiauto ajoi väkijoukkoon Berliinin pride-tapahtumassa – kuolonuhri ja useita loukkaantuneita, epäilty islamistiyhteyksissä, poliisi etsii helikopterilla",
+      "title": "Mies ajoi pakettiautolla väkijoukkoon Berliinin pride-tapahtumassa – yksi kuoli, useita loukkaantui, epäilty islamistiyhteyksissä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5242,7 +5195,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-26T05:29:16Z",
+      "updated": "2026-07-26T07:45:01Z",
       "urls": [
         {
           "sign": "42add6697afed8425a68728e38e346464d96291b70f90a1e558d9eb887162959",
@@ -5251,7 +5204,7 @@
           ]
         }
       ],
-      "title": "Auto ajoi väkijoukkoon Berliinin Pride-tapahtuman läheisyydessä – uhreja ja loukkaantuneita, epäilty tunnistettu",
+      "title": "Auto ajoi väkijoukkoon Berliinin Pride-festivaaleilla – uhreja ja loukkaantuneita, epäilty tunnistettu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6381,6 +6334,51 @@
       ],
       "title": "Maisemakahvilan raparperipiirakka on klassikko, jonka resepti onnistuu aina",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T10:41:00+03:00",
+      "urls": [
+        {
+          "sign": "0db99050765bd5d4742c86b4900ac47da89a02a5ae72c7adc5084b85759fed03",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "UNESCO hyväksyi 13 Alvar Aallon suunnittelemaa kohdetta maailmanperintöluetteloon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-26T07:39:51Z",
+      "urls": [
+        {
+          "sign": "87d49ff253501aea52dd8e7cbe3530ffd77cbbc2b64f6b305f68918ed9ede18c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Unesco hyväksyi Alvar Aallon arkkitehtuurin maailmanperintölistalle – kahdeksas suomalainen kohde",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-26T07:31:51Z",
+      "urls": [
+        {
+          "sign": "b0b104f90b189d7a2486f0e6dbae500b24dbb6d9139bf11fa79bc5418e7bef61",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuukka Taponen starttasi F3-Unkarin kisassa paalulta mutta rengasrikko pudotti hänet kuudenneksi – Freddie Slater voitti ensimmäisen F3-osakilpailunsa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
