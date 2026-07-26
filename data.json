@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T21:28:40Z",
+  "updated": "2026-07-26T21:37:13Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -332,21 +332,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T19:34:18Z",
-      "urls": [
-        {
-          "sign": "1fb273005b6b772b3401fc0fcc71b99edd3afaaa3d1db6f03cb3530959dfc87c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yksi henkilö loukkaantui vakavasti kerrostalopalossa Helsingin Porvoonkadulla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T19:35:58Z",
@@ -6394,6 +6379,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T21:37:13Z",
+      "urls": [
+        {
+          "sign": "f8c9fc6e28f2a3e5247ee451e1d1110d066757b6a942cd52f9d8663c11a2e0be",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan presidentti Macron kutsuu hätäkokouksen maastopalojen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
