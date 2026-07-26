@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T04:30:29Z",
+  "updated": "2026-07-26T04:49:26Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -394,21 +394,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-24T10:46:49Z",
-      "urls": [
-        {
-          "sign": "7a228a7d85a3342c41209bf112bc09428b1955e8e62d2f5b98b963e26864bfe3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotta Harala jää pois Kalevan kisoista takareisivaivan vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-24T11:04:54Z",
       "urls": [
         {
@@ -692,21 +677,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T12:26:31Z",
-      "urls": [
-        {
-          "sign": "3444be0cb5c69464f55d0a386a12b595211b83e4cf75ea24b465ab06659cc0eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Päivi Räsänen valittaa tuomiostaan Euroopan ihmisoikeustuomioistuimeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-24T12:51:13Z",
@@ -6379,6 +6349,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T04:49:26Z",
+      "urls": [
+        {
+          "sign": "ea8c48bb969dd5e3b13e5f92cebaf0b1588e8fe08312f9dabe6b7af4fbae37e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lapin liitto harkitsee maakuntalaulun vaihtamista – Kymmenen virran maa saattaa jäädä historiaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-26T04:45:00Z",
+      "urls": [
+        {
+          "sign": "c6a6cfade315c9cd045644f5c4db8fadeef4e5842882f93a9a27a48774ab91ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän kielen opiskelijamäärät laskevat Suomessa hyökkäyssodan vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
