@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T16:29:31Z",
+  "updated": "2026-07-26T16:43:03Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -347,21 +347,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T16:29:01Z",
-      "urls": [
-        {
-          "sign": "f94510ef98cc7d903e52202adbd06fb640a78bd8fcd3dc0cdfa70e0556e3b460",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Strand keskusteli Carunan toimitusjohtajan kanssa Iberdrolan ostosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T16:35:11Z",
@@ -2927,21 +2912,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-25T20:31:26Z",
-      "urls": [
-        {
-          "sign": "3e6973564155a16bc1a8e4900d4d3dc12fd1104db0f0cb75fce9c6d6c869b270",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Zelenskyi: Venäjä aikoo vastaanottaa 30 000 pohjoiskorealaista sotilasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-26T19:00:00+03:00",
@@ -5562,7 +5532,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-26T13:23:49Z",
+      "updated": "2026-07-26T16:42:14Z",
       "urls": [
         {
           "sign": "a54276cb99d9aafc81d9f2af0e3d7f7aee64bdc25abc82928acd492a2724b6bd",
@@ -5571,7 +5541,7 @@
           ]
         }
       ],
-      "title": "Mallorcan asukkaat järjestävät Palmassa mielenosoituksen liikaturismia vastaan – tuhansia odotetaan paikalle",
+      "title": "Mallorcan asukkaat järjestävät Palmassa mielenosoituksen liikaturismia vastaan – tuhansia odotetaan paikalle poliisin läsnäollessa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5592,7 +5562,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-26T16:33:00+03:00",
+      "updated": "2026-07-26T19:34:00+03:00",
       "urls": [
         {
           "sign": "9dd3878ea533876357056173f0774fa3a97fc73a8e6b13fbd2bd4ba8a70f6188",
@@ -5601,7 +5571,7 @@
           ]
         }
       ],
-      "title": "Vesikatko sulki vessat ja ravintolat Gatwickin lentoasemalla",
+      "title": "Vesikatko sulkee vessat ja ravintolat Gatwickin lentoasemalla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6296,7 +6266,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-26T16:29:31Z",
+      "updated": "2026-07-26T16:32:54Z",
       "urls": [
         {
           "sign": "c44f7ee7cfb2a44494772fd8a13a145ef9be1d8cae65f531be4eb6cbb76fea43",
@@ -6305,7 +6275,7 @@
           ]
         }
       ],
-      "title": "Teemu Suninen voitti Puolan EM-rallin ja johtaa EM-sarjaa",
+      "title": "Teemu Suninen ajoi ensimmäiseen EM-rallivoittoonsa Puolassa ja jatkaa sarjan kärjessä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6386,6 +6356,36 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-26T16:43:03Z",
+      "urls": [
+        {
+          "sign": "02eaa0087693480d618c5d51f30aa1b5209794a8b022bab7177a3eea204c8a78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Roope Salminen ja Vivian Nick-Salminen julkaisivat lisää hääkuvia ja tarinoita Instagramissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T16:42:33Z",
+      "urls": [
+        {
+          "sign": "24f0cf6ba8912fe81e42bbf180339937e548781b8c2ae6cc4408fb249037ee26",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nina Ervastilla ei pysty maksamaan lapsensa matkaa mummolaan kesällä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
