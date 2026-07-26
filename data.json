@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T04:56:00+03:00",
+  "updated": "2026-07-26T02:27:01Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -3051,21 +3051,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-25T07:00:17Z",
-      "urls": [
-        {
-          "sign": "0ccb91accb02cff52ff5cdf34efffbdb4414b59fadb6848ad3543a884c9a2e1f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maailman jokaisessa maassa käyneet matkailijat kehuvat Suomea ja nostavat esiin Ahvenanmaan Märket-saaren",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -6377,6 +6362,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-26T02:27:01Z",
+      "urls": [
+        {
+          "sign": "2aceb57507fa150d34d2c8eaa3fb236d1ba4a05c282b22581577842131a80a11",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi ennustaa sadekuuroja ja ukkosia lähes koko maassa sunnuntaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
