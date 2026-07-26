@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T13:41:04Z",
+  "updated": "2026-07-26T13:53:01Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -482,21 +482,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-24T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "c59bdec83dfea14b7fc881094fb9d8573aa527857a086a217a1b6ed6f494171e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vanhemmat antavat alaikäisille alkoholia kotona, asiantuntijat varoittavat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-24T16:05:56Z",
@@ -3137,23 +3122,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-25T17:03:08Z",
-      "urls": [
-        {
-          "sign": "5ca31a253e34c46cb2666078eea332a961afbb4021fdd6b98a2478a9ad11c8f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-25T17:09:21Z",
@@ -6185,7 +6153,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-26T12:51:59Z",
+      "updated": "2026-07-26T13:43:48Z",
       "urls": [
         {
           "sign": "d8baa45a780a93577f5dbb3b3d21b563e228176447e78c01db0cba72cc8c90e0",
@@ -6194,7 +6162,7 @@
           ]
         }
       ],
-      "title": "Äkkitulva vaati useita kuolonuhreja turistialueella Weiyuanin piirikunnassa",
+      "title": "Taifuuni Noul aiheutti äkkitulvan Weiyuanin piirikunnassa – useita kuolonuhreja ja satojatuhansia evakuoituja",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6260,7 +6228,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-26T13:11:56Z",
+      "updated": "2026-07-26T13:52:40Z",
       "urls": [
         {
           "sign": "bc4585344dd2dd0d58c4d4d44d07ae81dd7d6d93d45f30b3d544d678eeac63b2",
@@ -6269,7 +6237,7 @@
           ]
         }
       ],
-      "title": "Lando Norris otti kauden ensimmäisen paalupaikan Unkarin GP:ssä – Charles Leclerc vaikeuksissa lähdössä",
+      "title": "Lando Norris vaati tallimääräystä Unkarin GP:ssä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6377,6 +6345,36 @@
         }
       ],
       "title": "Heather Locklear kertoo elävänsä parasta aikaansa ja seurustelevansa Lorenzo Lamasin kanssa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T16:45:00+03:00",
+      "urls": [
+        {
+          "sign": "55156932fd92adeaefe6e6ff0c1fdc7ba38611daae79310843d92eda09601cef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karvin selvitys ehdottaa oppisopimuskoulutuksen lisäämistä nuorten työllisyyden parantamiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-26T13:53:01Z",
+      "urls": [
+        {
+          "sign": "43a32197a79aaf0fedc51fd5f8170a84972d9790e673b159241804f3af1fc7c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden 12 kysymyksen kesäjuoma-testi kertoo, mikä juoma sopii persoonallisuutesi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
