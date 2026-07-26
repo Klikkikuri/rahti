@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T03:59:27Z",
+  "updated": "2026-07-26T04:07:40Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -512,21 +512,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T11:35:23Z",
-      "urls": [
-        {
-          "sign": "53e25c44510875486d9478a1107e3842ee70d36de154146a05d57e12fed1f0da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina on iskenyt useita kertoja Venäjän Wildberries-varastoihin – asiantuntija: kohde osa sotakoneistoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-24T11:59:29Z",
@@ -2977,36 +2962,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-25T07:36:34Z",
-      "urls": [
-        {
-          "sign": "3769204864df63cf95b1389a8a5b8d9c39cda7835885ec0c22c78f1078b2fc32",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Niina Backman: Perimenopaussi aiheutti murhanhimoa miestään kohtaan – hormonihoito helpotti oireita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-25T07:59:11Z",
-      "urls": [
-        {
-          "sign": "4e9e4899340de857d73bd36451b05b565d2d56250f94dc77065f110ab3d56491",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi sai kymmenen marjastajan eksymistehtävää kesäkuun alusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-25T07:49:41Z",
       "urls": [
         {
@@ -3202,21 +3157,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-25T08:42:58Z",
-      "urls": [
-        {
-          "sign": "77c0c112a790830b72b26cd40aa532bc4c7d908619a212fd53d231ed6ef9b99e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "IFK Mariehamnin liigataival uhkaa päättyä – 22 vuoden putki katkolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-25T08:55:26Z",
@@ -6375,6 +6315,68 @@
       ],
       "title": "Poliisi ajoi karhun pois Harjavallan keskustasta",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-26T04:00:03Z",
+      "urls": [
+        {
+          "sign": "293b416ced3d629489be6c25154ebdf7e3f0a6f0e401faa82e3252b919e27ee0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harala ja Tainio ystävystyivät treenileirillä – Tainio kommentoi naisurheilijoiden seksualisointia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T04:07:40Z",
+      "urls": [
+        {
+          "sign": "d6f37985c6470f87fa6f9525fdb2f993b5af297e7963460cfc9ce76a3b5241a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T04:01:37Z",
+      "urls": [
+        {
+          "sign": "04e967346ff7ea350004cb2199b7ab3a24448436dcd9970c34748cfeee4ae44c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ozempic-jalat ovat seurausta nopeasta painonpudotuksesta, eivät lääkkeen haittavaikutuksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T04:01:00Z",
+      "urls": [
+        {
+          "sign": "d713615109bf0d90c263426ffd6db50c43e33292cb8a567d0efb65ffbb6208ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus tuomitsi 18-vuotiaan miehen kahdeksi vuodeksi vankeuteen Espoon koulun puukkoiskusta",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
