@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-26T19:30:31Z",
+  "updated": "2026-07-26T19:54:43Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -332,21 +332,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-24T17:53:09Z",
-      "urls": [
-        {
-          "sign": "7009e06c7b75f0f524af0d7f1926123d1f5efb0b277efce99ba920a818872017",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump: Yhdysvallat tutkii Euroopan unionin kauppakäytäntöjä teknologiajättiä koskevien sakkojen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-24T19:34:18Z",
@@ -3358,21 +3343,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-26T06:00:21Z",
-      "urls": [
-        {
-          "sign": "c79eed678c3afc01dbe4615a601e980b693efbcde6628e171a7480a4f1713aa0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pentti Hietasen miljoonakoti Kangasalta löysi ostajan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -6393,6 +6363,36 @@
         }
       ],
       "title": "Räppäri Sean 'Diddy' Combs tappeli vankilassa ja vartijat siirsivät hänet eristysselliin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-26T19:53:21Z",
+      "urls": [
+        {
+          "sign": "3937605f0f354b2c1bdd9a9cb0eae7e1e50aff65a3124a317ae22e2b10c5ae4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bosnialaiset kiipeilijät kuolivat lumimyrskyssä Elbrusilla Venäjällä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-26T19:54:43Z",
+      "urls": [
+        {
+          "sign": "96f5d9693d27b85a0d0deb544d20ee86a0cf70f9c492c35dea01e9996dff7f39",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sebastian Urbaniak pyysi julkisesti anteeksi Ewa Swobodalle vuosien häirinnästä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
