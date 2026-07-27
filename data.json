@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T18:00:00Z",
+  "updated": "2026-07-27T18:12:35Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -427,21 +427,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-26T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "0b751d7c6c034df9d0dbe788b8a3781a08549113182e8d8a9caba8102a3ffc12",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Teatterinjohtaja Matti Miikkulainen kuoli Kouvolassa 82-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -2459,38 +2444,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-27T03:34:17Z",
-      "urls": [
-        {
-          "sign": "d634f6bf31f0befa3b2c417b29bb39196da95c01e47fdf810079901c2ff30f7e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mallorcan asuntojen hinnat nousseet kestämättömälle tasolle – paikalliset protestoivat liikaturismia vastaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T03:35:46Z",
-      "urls": [
-        {
-          "sign": "f4c129a728bd7063c514414987a643fb9fd6edd3a8edb8e79a2a9735868e9b8e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T03:48:59Z",
@@ -6447,6 +6400,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T18:12:35Z",
+      "urls": [
+        {
+          "sign": "8ddd1095f9d7fbf4989a507770cdc2c6f7e34da50bcb8eeb514750fe49007baf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oprah Winfrey kertoi, että hänen oikea nimensä on Orpah",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T21:06:00+03:00",
+      "urls": [
+        {
+          "sign": "ac584081602e52f6ad3a0879aacf8d71ee9f846bc482d0b528070e8dfd0db81e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi ja Trump tapaavat tiistaina keskustellakseen ilmaiskutauosta rauhanneuvottelujen käynnistämiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-27T18:12:13Z",
+      "urls": [
+        {
+          "sign": "6e9cead7a1e23da04f89e0f50d82bfca7d893616a1dc477e061ac6925869822b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sinikka eksyi tutussa metsässä sieniretken aikana – häpeä esti avun pyytämisen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
