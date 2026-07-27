@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T18:59:52Z",
+  "updated": "2026-07-27T19:12:21Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -2431,27 +2431,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-27T04:30:02Z",
-      "urls": [
-        {
-          "sign": "45723659665dbfe40471f9362beda37de70da5bab87c1e844f298cff819bf89a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "fea9ef8343a15e4e584c7ed2021be568a04ee45eabf2f5326d69e0f4b70e874f",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-27T04:11:54Z",
       "urls": [
         {
@@ -2492,36 +2471,6 @@
         }
       ],
       "title": "Poliisi pidätti 15-vuotiaan Seattlen ruokafestivaalin ammuskelusta – useita kuollut ja loukkaantunut",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T04:40:17Z",
-      "urls": [
-        {
-          "sign": "aee17201d1b65766c0b3e9eba7d16aa85fc7c3444a5393442155534539c1a25a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kari Mette Stenerud kuoli ratsastusonnettomuudessa Norjan maajoukkueharjoituksissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T04:32:14Z",
-      "urls": [
-        {
-          "sign": "09098a123748428391e06f3c285337f838764519cf1c88faf8a34045a488fa17",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suuri ompelukisa jää pois Yleltä – tilalle tulee neulontakilpailu Game of Wool",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6445,6 +6394,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-27T19:12:21Z",
+      "urls": [
+        {
+          "sign": "7e5cf8e6951e7cbca0d14de2cda374cdbdc4d0abda4c71cd8ffdc5ce0745dfc5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helena Saarikoski julkaisi Elsa Saision ja Timo Välisaaren intiimin hääpuheen ja kuvan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T19:06:01Z",
+      "urls": [
+        {
+          "sign": "0784953e08fb2a645cdc5e6f8e2c261a58da230d12b481c354d4139b55853340",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukkonen ja voimakkaat sateet saapuvat Suomeen – varoituksia annettu koko maahan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T19:10:38Z",
+      "urls": [
+        {
+          "sign": "0f1d160a9d61886274784ee38477f0ae4e0179f6175ecb90fb6edb3297443caf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rovanperä vihjaili Instagramissa mahdollisesta rallikaksikosta Halttusen kanssa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
