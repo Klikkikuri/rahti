@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T12:57:08Z",
+  "updated": "2026-07-27T13:12:15Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -49,7 +49,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-27T12:06:58Z",
+      "updated": "2026-07-27T13:07:53Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -58,7 +58,7 @@
           ]
         }
       ],
-      "title": "Zelensky antaa tiukan vastauksen Iranin uhkaukseen – Iltalehti seuraa sotaa",
+      "title": "Zelensky vastaa tiukasti Iranin uhkaukseen – Iltalehti seuraa Ukrainan sotaa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -486,21 +486,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-25T15:17:46Z",
-      "urls": [
-        {
-          "sign": "59d109391b03dc7ab2f64733d1ba35e08f4afdba032bfdf5b3dd6f283ad114f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset evakuoivat yli 260 000 ihmistä maastopalojen vuoksi Ranskassa ja Espanjassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-25T18:45:00+03:00",
@@ -2789,23 +2774,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-26T17:17:53Z",
-      "urls": [
-        {
-          "sign": "ed52e82802c0a0801738a805ac03eddd55206abac5b8a17ef2213878babc18b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-26T18:34:23Z",
@@ -6361,7 +6329,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-27T12:50:37Z",
+      "updated": "2026-07-27T13:01:08Z",
       "urls": [
         {
           "sign": "1e2c9d97e370c99b8fd82dc402acf97fa675f0139603e6de49c94957aef86010",
@@ -6370,7 +6338,7 @@
           ]
         }
       ],
-      "title": "Veitsi-isku Pariisissa loukkasi kolme naista – epäilty pidätetty",
+      "title": "Veitsi-isku Pariisissa haavoitti useita naisia – epäilty pidätetty",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6421,7 +6389,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-27T12:57:08Z",
+      "updated": "2026-07-27T13:06:01Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -6430,10 +6398,40 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ilmaisi huolensa ohjusvarastoista – Trump hyllytti eskalaatiosuunnitelman, Iltalehti seuraa",
+      "title": "Yhdysvallat ja Israel jatkavat iskuja Iraniin – Iran vastaa ohjusiskuilla",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T13:07:20Z",
+      "urls": [
+        {
+          "sign": "b11adba53343358ce810ba73be0138d87accae3eeda4008ba54ebb01803e133a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uni Kumpulainen joutuu maksamaan 20 euroa yöllisestä vessakäynnistä vammaispalvelulain uudistuksen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T13:12:15Z",
+      "urls": [
+        {
+          "sign": "fbda4a4b2cbca63d08c7dbecafcc5cda473930b497eb242fb787e33612a12abb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Israelin sotilaiden tarkastuspisteen viivästys johti palestiinalaisnaisen sikiön kuolemaan ambulanssissa Länsirannalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
