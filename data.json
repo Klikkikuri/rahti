@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T20:40:16Z",
+  "updated": "2026-07-27T20:49:31Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -2596,21 +2596,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-27T06:05:04Z",
-      "urls": [
-        {
-          "sign": "614d01ee4233741c8f28fc4bef6293a044cb555b3a72d525b12a051bafeb92b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Savonlinnalaisen Reilu-ravintolan tekoälyllä luotu mainos aiheutti ihmetystä sosiaalisessa mediassa – annokset näyttävät avaruusolennon sormilta ja sisältävät virheitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T06:00:28Z",
@@ -6436,6 +6421,21 @@
         }
       ],
       "title": "Venäjä ilmoittaa olevansa avoin uusille ehdotuksille Ukrainaa koskien",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T20:49:31Z",
+      "urls": [
+        {
+          "sign": "eaa3ab1e7778f78f383cb607014e7a3e6897e4823676dc4f58dbcc6dd09584e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itä-Suomen poliisi etsii 12- ja 16-vuotiaita poikia Pieksämäellä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
