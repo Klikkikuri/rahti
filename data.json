@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T13:12:15Z",
+  "updated": "2026-07-27T16:28:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -381,23 +381,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-25T16:00:00+03:00",
-      "urls": [
-        {
-          "sign": "2ee6142674823776ec325a5df0e5ba7d1f9f7c635079d0d7ebcf6e87e5b7a4de",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-25T16:45:00+03:00",
       "urls": [
         {
@@ -533,21 +516,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-25T16:22:21Z",
-      "urls": [
-        {
-          "sign": "c68624afa65abb040ac7aa5cbe81ae91f977ce5bc4b19731b6abe8ed0396318d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyväskylän keskustassa liikkuva korppi on noussut paikalliseksi julkkikseksi – asiantuntija varoittaa ruokkimasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-25T16:33:06Z",
@@ -2806,21 +2774,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-26T17:23:03Z",
-      "urls": [
-        {
-          "sign": "34272d8cc558e261d7492b7b0713589da31eec4469048e2d1a1fe4261f5c3dc2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sainzin ohitus Piastria herätti laajaa kritiikkiä Unkarin GP:ssä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-26T20:28:00+03:00",
       "urls": [
         {
@@ -2866,21 +2819,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-26T17:33:14Z",
-      "urls": [
-        {
-          "sign": "cd164b1c52b6f13dbfdc0c334ee7be290f5057c18bf537eca5b8bb26059efbc3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "TikTok-tähti Rebecca Luna kuoli eutanasiaan Alzheimerin taudin vuoksi 25. heinäkuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-26T17:58:26Z",
@@ -6432,6 +6370,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T16:28:00+03:00",
+      "urls": [
+        {
+          "sign": "8b9cdd7f1379f1fc52c59693e2f8e8f425fc97297c0bffad9cf5c7eb5c698703",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bordeaux’n lähellä riehunut maastopalo uhkaa kaupunkia – yli 220 000 evakuoitu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-27T13:21:02Z",
+      "urls": [
+        {
+          "sign": "e624b86760554aeadc1d5dba3c0c26b6c5b7e4c78b268346910d64048c18b74c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opiskelijoiden tukileikkaukset ja turistien lyhyataikaiset vuokrat lisäävät Rovaniemen asuntopulaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T13:15:27Z",
+      "urls": [
+        {
+          "sign": "cafa4f2520a9faeaed2dd62ba2d4c5876119686904d2be04bfce9c4335d2b18e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump arvosteli Springsteeniä ja koomikoita Valkoisessa talon illallisella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T13:26:46Z",
+      "urls": [
+        {
+          "sign": "c07e810a44936f1d366392e5dae1924046018ec2658ae36a38856a853b1530de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainalainen Vladyslav Sirenko tyrmäsi Ruotsin Otto Wallinin Madison Square Gardenissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
