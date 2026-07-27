@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T16:28:00+03:00",
+  "updated": "2026-07-27T16:44:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -364,23 +364,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-25T16:04:00+03:00",
-      "urls": [
-        {
-          "sign": "1d4eda323e87e32233d2b614b75a429a96afa22b06d442c61466ee2672e30e2f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-25T16:45:00+03:00",
       "urls": [
         {
@@ -518,21 +501,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-25T16:33:06Z",
-      "urls": [
-        {
-          "sign": "1ed1a9b654717c0c2c48bd68feb3dc9eccbf8eb51368a73ae8a1b00fbfb3daac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Israelin armeija pidätti yli 70 epäiltyä Länsirannalla väkivaltaisuuksien jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-25T20:15:00+03:00",
       "urls": [
         {
@@ -608,36 +576,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-25T19:28:14Z",
-      "urls": [
-        {
-          "sign": "fb597b788068f3cea99f355e6a0fb539c1a594a5b62d2dbcbaa55ad506caabdc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orbán sanoo Unkarin pitäneen käyttää veto-oikeutta Venäjän pakotteisiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-25T19:18:03Z",
-      "urls": [
-        {
-          "sign": "de100b3fdf7f065aa1045a01a20e3a2f4066d8f0eb0f7e5ff7357f37957c3370",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Madridin suurlähetystö: maastopalot osittain hallinnassa, savua kaupungissa mutta ei uhkaa keskustaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-25T20:15:38Z",
@@ -2819,21 +2757,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-26T17:58:26Z",
-      "urls": [
-        {
-          "sign": "66f50ba5d3e1575743992b435d7b5254ea5099f8d8d6142d0acde42ee0cdebae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijat kertovat häirinnästä ja huonosta palvelusta Turkissa matkustaessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-26T20:48:00+03:00",
@@ -6147,7 +6070,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-27T12:29:44Z",
+      "updated": "2026-07-27T13:36:20Z",
       "urls": [
         {
           "sign": "ad3edd41844ef68b54f0284f765b6374044ad2cb46f1fb329abf8f5326620c29",
@@ -6156,7 +6079,7 @@
           ]
         }
       ],
-      "title": "Puolalainen nainen kuoli Berliinin Pride-iskussa lauantaina",
+      "title": "Merz ihmettelee, miten valvonnassa ollut epäilty pääsi toteuttamaan Berliinin Pride-iskun",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6430,6 +6353,81 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T13:36:49Z",
+      "urls": [
+        {
+          "sign": "d7722a620cec166cc7f0ace826cf1c98075a3917be179fc0f320d86efa4bf36f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilkka Kilpimaa: Garden Helsinki -tukipäätöksen peruminen on puhtaasti poliittinen kohu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T13:30:00Z",
+      "urls": [
+        {
+          "sign": "0cdadfa07197c9eb74d90e3bb480e172a9c6ea23ce4d70fbd425d57e690c757c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yleisö kunnioitti Oliver Treen alter egoja edustavia nukkeja kolmessa arkussa muistotilaisuudessa Santa Cruzissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T13:36:25Z",
+      "urls": [
+        {
+          "sign": "7ff5e3c4eb7b8f0d80a7fcd74e832e979aa5b6020e75255f56e714d02e10d65f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vanhan Pullolan sillan purkutyöt alkoivat Hämeenlinnassa – liikenne yhdellä kaistalla, ruuhkia mahdollisia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T13:33:55Z",
+      "urls": [
+        {
+          "sign": "9d1d2bb4345f22626be0618de28e6366ee14a32b1c65b8c31e22214e6ce3ec38",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "DNA:n kysely osoittaa: suomalaiset haluavat paremman kotiverkon, mutta modeemin sijoittelu ja vanhat laitteet heikentävät yhteyttä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T16:44:00+03:00",
+      "urls": [
+        {
+          "sign": "803ea9738ee4298bc1c384018f2e70410094950b68c1f1a64d9edbb604442804",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Gunther von Hagens, Body Worlds -näyttelyiden luoja, on kuollut – toivoi omaa ruumistaan plastinoitavan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
