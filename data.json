@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T03:07:00Z",
+  "updated": "2026-07-27T06:23:00+03:00",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -362,21 +362,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-25T06:30:00+03:00",
-      "urls": [
-        {
-          "sign": "d7cddddc72c35d192f7af48da83e17b73ab6a20a151f2781f9ca11817f235743",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS10 suosittelee kymmentä kirjaa ikääntymisestä ja muistelmista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-25T03:45:35Z",
@@ -6394,6 +6379,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T06:23:00+03:00",
+      "urls": [
+        {
+          "sign": "d4340c079a48e683384b0b932f3e896cf7ec6b6d94f03308e0b89dd24ec56758",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ampui Berliinin pride-iskun epäillyn – isä uskoo pojan olevan aivopesty",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
