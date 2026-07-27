@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T03:35:46Z",
+  "updated": "2026-07-27T03:52:00Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -347,21 +347,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-25T03:30:35Z",
-      "urls": [
-        {
-          "sign": "4f8c312792914efa68526e6acbeb18859ce96f25333291df912452829b5477bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat tarkastavat satoja tuhansia lasikaiteisia parvekkeita – vikoja löytyy lähes jokaisessa tarkastuksessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-25T03:45:35Z",
@@ -736,21 +721,6 @@
         }
       ],
       "title": "Noah Lyles voitti Yhdysvaltain 100 metrin mestaruuden ajalla 9,79 – sivusi omaa ennätystään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-25T07:01:00Z",
-      "urls": [
-        {
-          "sign": "4b00db8804e0037f5250cfcdac2e3185ac3ba79246b736d4d8103a17604ed73c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Immu Ilmén torjuu 'vasikka'-väitteen ja kutsuu sitä törkeäksi loukkaukseksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -3263,21 +3233,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-26T08:30:19Z",
-      "urls": [
-        {
-          "sign": "8949e21aa9dbc714955620166a489b18e9c73f10c363951bfbb7ccb13a7cfd04",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sebastian Aho toi Stanley Cup -pokaalin Qstock-festivaaleille Oulussa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-26T08:43:53Z",
@@ -6223,7 +6178,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-27T06:02:00+03:00",
+      "updated": "2026-07-27T06:50:00+03:00",
       "urls": [
         {
           "sign": "f14b29f32f07ee9d14d9098ac28c91bc9722b78195b0a00b2ac8893f9b96ae8f",
@@ -6232,7 +6187,7 @@
           ]
         }
       ],
-      "title": "Maanantain vastaisena yönä ammuskelu Seattle Centerin puistoalueella vaatinut kuolonuhreja ja loukkaantuneita",
+      "title": "Maanantain vastaisena yönä ammuskelu Seattle Centerin puistoalueella on johtanut kuolonuhreihin ja loukkaantumisiin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6395,6 +6350,51 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T03:48:59Z",
+      "urls": [
+        {
+          "sign": "53c7d1e0f78edfeccaa60e9f469487bd51a45db0b07b167a5dfdfd83a6748d85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vanhan Rauman pihojen esittelytapahtuma veti lähes 90 000 kävijää – Anne Holgerin pihalla yli 7 000 vierailijaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T03:52:00Z",
+      "urls": [
+        {
+          "sign": "24cf192ab2ae9d69726a827fe003ea2fa57b9f95746db5413bc21fe00bdca6b0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kardiologian professori Juhani Junttila neuvoo tunnistamaan sydänpysähdyksen ja antamaan ensiapua",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T03:45:49Z",
+      "urls": [
+        {
+          "sign": "8cc874892332db61058b5a83bd8dc2f5a1c6caa568b172316443aba3be7a9a39",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sauli Koskinen kertoo dataroaming-virheen johtaneen noin 4000 euron puhelinlaskuun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
