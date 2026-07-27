@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T04:41:36Z",
+  "updated": "2026-07-27T04:49:57Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -756,21 +756,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-25T08:22:56Z",
-      "urls": [
-        {
-          "sign": "c3f6a104789594981db860f16eb71c1b437ed67e46a98e51c9548a6497a6ef6b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oliver Solberg on tyytyväinen asemaansa ja uskoo kaventavansa eroa MM-kärkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-25T08:19:06Z",
@@ -6400,6 +6385,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T04:49:57Z",
+      "urls": [
+        {
+          "sign": "7b7e4b1e5089e44eacf9258bc0da75f5fad57c78f798b2b5bbdd3cbb60855392",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ampuminen Seattlen ruokafestivaalilla sunnuntai-iltana vaati useita uhreja – poliisi otti kaksi epäiltyä kiinni",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
