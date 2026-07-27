@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T20:13:00+03:00",
+  "updated": "2026-07-27T17:28:58Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -445,23 +445,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-26T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "896ec5e61992fc0191061c9fe88f396ace4cc7a8f0bbafcdc93b5cea2f483a1d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-26T04:49:00+03:00",
       "urls": [
         {
@@ -487,21 +470,6 @@
         }
       ],
       "title": "Länsi-Suomi saa voimakkaita sateita ja ukkosia, Itä-Suomi lämpenee hellelukemiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-26T03:45:35Z",
-      "urls": [
-        {
-          "sign": "bc0282c38e3384de3712dcc076c247643af5e4b388010713bdb107687db7f63b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tekoäly löytää ohjelmistovirheitä, mutta niiden nopea korjaus takaa tietoturvan",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -2341,21 +2309,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-27T00:38:26Z",
-      "urls": [
-        {
-          "sign": "d08d2ad08da96b3d49814c7b0ff06230ed5727afeb069a6328a940ddf6c80479",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Berliinin pride-iskun epäilty Abdul Ballout sai surmansa poliisioperaatiossa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-27T00:59:16Z",
       "urls": [
         {
@@ -2369,21 +2322,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-27T01:31:18Z",
-      "urls": [
-        {
-          "sign": "0502532bfa31780e65a15f0f3cc1824d0a8940b4afd95382abfc46dccdaa70ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos varoittaa runsasta sadetta ja ukkosia maanantaina ja tiistaina Suomessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T01:43:26Z",
@@ -6438,7 +6376,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-27T17:11:00Z",
+      "updated": "2026-07-27T17:17:47Z",
       "urls": [
         {
           "sign": "9f967440a77aade91e8e56ea7403a79e503c420ad441afda7a0a2916d9538521",
@@ -6447,7 +6385,67 @@
           ]
         }
       ],
-      "title": "Maastopalot pakottavat satojatuhansia pakenemaan Ranskan ja Espanjan alueilla – Macron vierailee tuhoalueella",
+      "title": "Maastopalot pakottavat satojatuhansia pakenemaan Ranskassa ja Espanjassa – Macron vierailee tuhoalueella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T17:28:58Z",
+      "urls": [
+        {
+          "sign": "b2f614ba2a53011129a6d6aa7bff2907d47303b39dec19dc1e91f1bec3b90ea0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos: tiistaina ukkosia ja rankkaa sadetta, lännessä tulvariski",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T20:15:00+03:00",
+      "urls": [
+        {
+          "sign": "2aa7785f09cbb0d19015f0bdc4a009bd632f70a70b24cc3fe9e461b031b26b8e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinkiläinen lukija kritisoi Helsingin pyöräkaistojen liiallista tilavarustusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-27T17:28:42Z",
+      "urls": [
+        {
+          "sign": "81b792516594d896a6e0b5b63f158578a0c4e21084e53557a8eb6e8dd4054160",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "BMW vetäytyy Pariisin autonäyttelystä prioriteettien muutoksen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T17:28:22Z",
+      "urls": [
+        {
+          "sign": "cdc26541767b70b6d52dfd6704b436bee243cc0fe2380ff053774cd91f1a0e0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti Elijah Bieniemyn äitinsä ampumisesta Virginiassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
