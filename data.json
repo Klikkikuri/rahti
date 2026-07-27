@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T22:13:35Z",
+  "updated": "2026-07-28T01:22:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -353,23 +353,6 @@
       "urls": [
         {
           "sign": "f5efeccdb3474d98f6ec28ad6ce18cc8329c542284b4ac0314d36409dc8484b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-26T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b85b78714cd00e339ec984ef0762dc5317346ce199380394997ed133de0475f3",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -6439,6 +6422,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-28T01:22:00+03:00",
+      "urls": [
+        {
+          "sign": "c395e99025ea5fbb4d13ad2ec316fe67f37d25963d25ba3deb300267d795463a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ICC:n jäsenvaltiot erottivat pääsyyttäjä Karim Khanin häirintäsyytösten vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
