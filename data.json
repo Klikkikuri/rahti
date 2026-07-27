@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T00:05:53Z",
+  "updated": "2026-07-27T00:38:26Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -3237,21 +3237,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-26T07:00:10Z",
-      "urls": [
-        {
-          "sign": "1de2be40077a28e6fbb5dfbc25ac8341c1e69c6367e89176974425794eb1dd8d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sairaanhoitaja Maarit ja potilas Jere kertovat suhteestaan ja haasteistaan neliraajahalvauksen jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-26T12:39:37Z",
       "urls": [
         {
@@ -6396,6 +6381,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T00:38:26Z",
+      "urls": [
+        {
+          "sign": "d08d2ad08da96b3d49814c7b0ff06230ed5727afeb069a6328a940ddf6c80479",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Berliinin pride-iskun epäilty Abdul Ballout sai surmansa poliisioperaatiossa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
