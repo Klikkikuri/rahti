@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T02:30:35Z",
+  "updated": "2026-07-27T02:51:47Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -366,21 +366,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-25T02:55:04Z",
-      "urls": [
-        {
-          "sign": "a6d7de699efc836837c9b9eb50f899adb8e5cdce81f9ab3ebbeffad01a7c4890",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sää vaihtelee lauantaina–maanantaina: idässä aurinkoista, lämmintä, lännessä sateita, maanantaina ukkosriski",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-25T03:30:35Z",
       "urls": [
         {
@@ -544,21 +529,6 @@
       ],
       "title": "Laura Loomer tapasi Zelenskyin Kiovassa ja myönsi olleensa väärässä Ukrainasta",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-25T05:23:14Z",
-      "urls": [
-        {
-          "sign": "3c34a728b93f38ef2b1f3cb51271fa567836e0522db21e57b7d0d2eebe2788e5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rajavartiolaitos epäilee järjestelmällistä ihmissalakuljetusta Valko-Venäjältä Suomen kautta Eurooppaan",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -6394,6 +6364,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T02:51:47Z",
+      "urls": [
+        {
+          "sign": "f96a42b407ff170ae0cc593c019a90b00d538a2e6c56de666dc60f7f78463f36",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukkosrintama tuo sateita ja mahdollisia helteitä Suomen eri osiin viikon alussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T02:45:00Z",
+      "urls": [
+        {
+          "sign": "68f7d4dcf5c5adc5252aefd5470f49fa76b21aeeb5137498dce2c0246cc3f5ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus tuomitsi ystävän isän teini-ikäisen tytön koskettelusta asuntoautossa – tuomio aleni sovinnon vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
