@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T02:09:23Z",
+  "updated": "2026-07-27T02:30:35Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -364,21 +364,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-25T02:13:24Z",
-      "urls": [
-        {
-          "sign": "0794c01ed834e27eed9fa0aa768211c2bf10fea7680a811bad8b69ca79e0790d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump vitsaili kolmannesta kaudesta ja kehui salaisen palvelun agenttia Valkoisen talon toimittajaillallisella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-25T02:55:04Z",
@@ -6394,6 +6379,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T02:30:35Z",
+      "urls": [
+        {
+          "sign": "15d3e19e6eb9b591ca523c9ddb932f15ddcbb67d6db3f6123bef0765165ef8ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaiset hakevat yhä enemmän maksujärjestelyä verovelkojensa vuoksi – keskiarvo 4400 euroa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
