@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T23:25:00+03:00",
+  "updated": "2026-07-27T20:40:16Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -550,21 +550,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-26T08:52:54Z",
-      "urls": [
-        {
-          "sign": "c4853450b1113d79d10893a21b9ac38b1481fcd7b8861f66b6c5895b0d7f4543",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "UNESCO:n maailmanperintökomitea hyväksyi Aalto Works -sarjan maailmanperintöluetteloon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-26T16:04:00+03:00",
@@ -2611,21 +2596,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-27T06:00:52Z",
-      "urls": [
-        {
-          "sign": "bff74b52b136b2b04fceccc3d6ecdced2945e824bf7c41d38da1751ed6ef1af4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lähteiden mukaan Real Madrid hankkii Yan Diomanden RB Leipzigistä yli 100 miljoonalla eurolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T06:05:04Z",
@@ -4722,7 +4692,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-27T16:25:36Z",
+      "updated": "2026-07-27T20:40:16Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -4731,7 +4701,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel jatkavat iskuja Iraniin – Iran vastaa ohjusiskuilla, Israel hyökkäsi Libanoniin",
+      "title": "Yhdysvallat ja Israel jatkavat iskuja Iraniin – Iran iski ohjuksin Yhdysvaltain tukikohtiin, Israel hyökkäsi Libanoniin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6439,6 +6409,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T20:39:53Z",
+      "urls": [
+        {
+          "sign": "268ea0565b50bdabf4c72a9f578dfd93fef2981eaa5bdc1f416893c73a681604",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Macron varoittaa Ranskan maastopalojen sammuttamisen olevan vaikeaa lähiviikkoina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T20:32:14Z",
+      "urls": [
+        {
+          "sign": "24403542698d41aa8a8f9511143672f8692c540ee681b5635ae5d622ebad2680",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä ilmoittaa olevansa avoin uusille ehdotuksille Ukrainaa koskien",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
