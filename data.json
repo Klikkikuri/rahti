@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T07:11:00+03:00",
+  "updated": "2026-07-27T04:30:02Z",
   "entries": [
     {
       "updated": "2026-07-06T11:43:00Z",
@@ -754,36 +754,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-25T07:40:42Z",
-      "urls": [
-        {
-          "sign": "9fba70db5cb223994e9b41252dc325241b52aba659f2654d73ea0d99bd820da6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ampui miehen Madisonissa – mielenosoituksia seurasi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-25T08:01:05Z",
-      "urls": [
-        {
-          "sign": "10f670dec0131de5e2ab4bbaf6378ffbb3e16d2b5844dfa23467e3ef49e80d95",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansainvälinen olympiakomitea ei voi tutkia Infantinon osuutta Balogunin pelikiellon purkamisessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-25T11:00:00+03:00",
@@ -3277,23 +3247,6 @@
       "title": "Helsingin Lauttasaaren asukas löysi lepakon parvekkeeltaan päiväsaikaan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-26T09:00:21Z",
-      "urls": [
-        {
-          "sign": "89ca36ed699256ce9531cded1f44ff7ba30de9c6e8ce2a92ad145a66b83a80ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -6118,7 +6071,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-27T07:11:00+03:00",
+      "updated": "2026-07-27T07:27:00+03:00",
       "urls": [
         {
           "sign": "f14b29f32f07ee9d14d9098ac28c91bc9722b78195b0a00b2ac8893f9b96ae8f",
@@ -6127,7 +6080,7 @@
           ]
         }
       ],
-      "title": "Ammuskelu Seattle Centerin ruokafestivaalissa maanantain vastaisena yönä johti kuolonuhreihin ja loukkaantumisiin",
+      "title": "Ammuskelu Seattle Centerin ruokafestivaalissa johti kuolonuhreihin ja loukkaantumisiin – poliisi otti kaksi epäiltyä kiinni",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6396,6 +6349,57 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T04:17:11Z",
+      "urls": [
+        {
+          "sign": "49b2f5b9bb7e2ffc924d702bb084d2956b5af6ebca9b0b7368bef9e99b821f9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Britannian pääministeri Andy Burnham isännöi Ukrainan presidentti Zelenskyiä, vakuuttaa tuen Ukrainalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T04:30:02Z",
+      "urls": [
+        {
+          "sign": "45723659665dbfe40471f9362beda37de70da5bab87c1e844f298cff819bf89a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "fea9ef8343a15e4e584c7ed2021be568a04ee45eabf2f5326d69e0f4b70e874f",
+          "labels": []
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T04:11:54Z",
+      "urls": [
+        {
+          "sign": "a3d2ad14c2bc3adcfdc5bba8b382b62fc339607b84748f36a0418187e53aabc8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dani Olmo hylkää Argentiinan apuvalmentajan anteeksipyynnön ja väittää tämän valehtelevan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
