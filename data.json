@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T17:28:58Z",
+  "updated": "2026-07-27T17:44:53Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -458,21 +458,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-26T03:59:27Z",
-      "urls": [
-        {
-          "sign": "01a15144bb65931c99b4827d005c6183662f67deaddb505bb01af2c0d2041ff4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Suomi saa voimakkaita sateita ja ukkosia, Itä-Suomi lämpenee hellelukemiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-26T04:49:26Z",
@@ -2354,21 +2339,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-27T02:09:23Z",
-      "urls": [
-        {
-          "sign": "b4b46b160e68d086809911aabbaed6796274fc7d0f6161ca22ca71d1fefc0c28",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Usher komensi fania pois lavalta Nashvillen konsertissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-27T02:30:35Z",
       "urls": [
         {
@@ -2427,42 +2397,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-27T03:02:03Z",
-      "urls": [
-        {
-          "sign": "139578878f484854c7b023888a85ef633b76b299d580f52c995a0c6280eeccc7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "83e47501a28e70f088bba9dbec2f18951fd245524965418fe0ea699335297473",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T03:01:32Z",
-      "urls": [
-        {
-          "sign": "1e77778d62c3108ff9c3b91596431c40f143e6ff1aadd49ca2e1cd8c913ff0e7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Podcastissa Alona Kuusisto kertoo eronneensa seksin puutteen vuoksi ja kokeneensa väkivaltaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T03:07:00Z",
@@ -6376,7 +6310,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-27T17:17:47Z",
+      "updated": "2026-07-27T17:44:53Z",
       "urls": [
         {
           "sign": "9f967440a77aade91e8e56ea7403a79e503c420ad441afda7a0a2916d9538521",
@@ -6385,7 +6319,7 @@
           ]
         }
       ],
-      "title": "Maastopalot pakottavat satojatuhansia pakenemaan Ranskassa ja Espanjassa – Macron vierailee tuhoalueella",
+      "title": "Macron vierailee maastopalojen alueilla – 320 000 evakuoitu Ranskassa ja Espanjassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6446,6 +6380,66 @@
         }
       ],
       "title": "Poliisi pidätti Elijah Bieniemyn äitinsä ampumisesta Virginiassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T17:43:21Z",
+      "urls": [
+        {
+          "sign": "113859eeac281134da2f7ce6c81c5ca747d39c76d1b7656d77547693177f1d81",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukkosmyrsky voi aiheuttaa vaaran suihkussa, vesihanoilla ja sähkölaitteilla kotona",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T17:33:45Z",
+      "urls": [
+        {
+          "sign": "0665e41fb476d10875521a24ff02f8c842aba4862cf93fe876ca940ea78b8896",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat saivat harvinaista videokuvaa aavekoirasta Boliviassa – tutkimus viittaa lajin olevan ylempi kuin luultiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T17:44:52Z",
+      "urls": [
+        {
+          "sign": "91d7979215e2454ed94c08fef8a8a331b7456c563f0214b52eeae5f9099ca708",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Argentiinan presidentti Javier Milei sanoo muiden maiden olevan kateellisia Argentiinan menestyksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-27T17:31:16Z",
+      "urls": [
+        {
+          "sign": "adaa240fc18773b32f5970956564a0c664164d65a9844ffb443425cf1ac046f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Leonard Iancu tuomittiin neljän vuoden ja kuukauden vankeuteen – pyyntö käydä sairaan äidin ja lapsen luona Romaniassa hylättiin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
