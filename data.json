@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-28T12:40:54Z",
+  "updated": "2026-07-28T12:56:17Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -355,23 +355,6 @@
       "urls": [
         {
           "sign": "6607ca805b066e4aa320e93772cca74674e3f7e5f2c84f081cdf1faa3bb1796c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-27T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "296a163b8ae7fa8cd883a924d226455be72f758eb13b5fb1b463ab4795b639dd",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -2768,21 +2751,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-27T17:43:21Z",
-      "urls": [
-        {
-          "sign": "113859eeac281134da2f7ce6c81c5ca747d39c76d1b7656d77547693177f1d81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukkosmyrsky voi aiheuttaa vaaran suihkussa, vesihanoilla ja sähkölaitteilla kotona",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-27T17:33:45Z",
       "urls": [
         {
@@ -2808,21 +2776,6 @@
         }
       ],
       "title": "Argentiinan presidentti Javier Milei sanoo muiden maiden olevan kateellisia Argentiinan menestyksestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T17:31:16Z",
-      "urls": [
-        {
-          "sign": "adaa240fc18773b32f5970956564a0c664164d65a9844ffb443425cf1ac046f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Leonard Iancu tuomittiin neljän vuoden ja kuukauden vankeuteen – pyyntö käydä sairaan äidin ja lapsen luona Romaniassa hylättiin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -5018,7 +4971,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-28T11:34:11Z",
+      "updated": "2026-07-28T12:56:17Z",
       "urls": [
         {
           "sign": "fd20d984f4e14e0817e04c09515cf27e99ac333f63c2f2a0b5c8afcf75ac2815",
@@ -5027,7 +4980,7 @@
           ]
         }
       ],
-      "title": "Kumamoton maanjäristys saavutti Shindo-tason 7 – useita kuollut ja rakennuksia sortunut",
+      "title": "Kumamoton maanjäristys saavutti Shindo-tason 7 – useita kuollut ja kymmeniä loukkaantunut",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6442,6 +6395,51 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-28T12:51:01Z",
+      "urls": [
+        {
+          "sign": "9f1cca592060b76fa3b1b7e55345b8b58afa9a3794d2df6f66d7cfb02a4d8123",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Škoda Transtech pyytää KKV:tä keskeyttämään ratikkahankinnan – väittää Stadlerin saaneen etua ja hintojen ylittävän budjetin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T15:47:00+03:00",
+      "urls": [
+        {
+          "sign": "a1d3fc7a9d5d1a51be0f940610cf6c5c13a153cbe472e90d5f124aeb58ffc82a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bordeaux’n lähellä riehuva maastopalo synnytti vaarallisen tuli- tai palopilven, joka voi aiheuttaa tornadoita ja repiä puita juurineen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-28T12:48:11Z",
+      "urls": [
+        {
+          "sign": "532ce17a1910e06bfa3bcdc8d54af7fdfcc8621cdd9ec65ad332c3573267ed2b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi löysi Isis-uskollisuutta osoittavan videon Berliinin pride-iskun epäillyn puhelimesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
