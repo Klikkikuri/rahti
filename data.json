@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-28T03:34:19Z",
+  "updated": "2026-07-28T03:54:00Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -428,21 +428,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-26T10:02:44Z",
-      "urls": [
-        {
-          "sign": "47eb8cc1b4630a3e95785ecf63ca6d4341cbacc512b55f0b52844f835a18521e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maastopalo leviää Bordeaux'n lähellä, yli 220 000 evakuoitu ja 42 000 hehtaaria palanut",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-26T13:15:00+03:00",
       "urls": [
         {
@@ -672,21 +657,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-26T13:43:48Z",
-      "urls": [
-        {
-          "sign": "d8baa45a780a93577f5dbb3b3d21b563e228176447e78c01db0cba72cc8c90e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taifuuni Noul aiheutti äkkitulvan Weiyuanin piirikunnassa – useita kuolonuhreja ja satojatuhansia evakuoituja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-26T14:50:57Z",
       "urls": [
         {
@@ -747,21 +717,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-26T13:33:36Z",
-      "urls": [
-        {
-          "sign": "716c00df1e0e204ce145f4fb053d052a04017db6c861724394152a602fc28181",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heidi Salminen alitti EM-rajan ja juoksi henkilökohtaisen ennätyksensä Kalevan kisoissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-27T14:14:00+03:00",
@@ -6441,6 +6396,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-28T03:47:00Z",
+      "urls": [
+        {
+          "sign": "3144103e4630c48025c8ecbcd319e42179c12fe5144aab402b72e895f0502f95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Unesco lisäsi Aalto Works -kokonaisuuden maailmanperintöluetteloon – Suomen kahdeksas kohde",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-28T03:54:00Z",
+      "urls": [
+        {
+          "sign": "861ac21b6059220a29621f3408b78ffb5dc9246bdae40f6125eec42b950bd113",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääkäri: Kävelyongelmat voivat kertoa terveysriskeistä – hakeudu hoitoon muutosten ilmetessä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-27T10:58:02Z",
+      "urls": [
+        {
+          "sign": "b7bcc3d63df82325daa7c901a7397265742c7a0abcc869dabee68ee9713905ed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MOT:n tutkimus: Vantaan jättiareenan rahoituksen taustalla epäilty sijoitushuijari – nainen käyttänyt useita nimiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
