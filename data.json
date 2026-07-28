@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-28T03:10:52Z",
+  "updated": "2026-07-28T03:25:00Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -670,21 +670,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-26T12:15:11Z",
-      "urls": [
-        {
-          "sign": "75dbbf26b7d92188e6ef995ce30fd3a3dd3eb003eb7888aecee19cfff646e24f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ravintolaristidasta alkunsa saanut ampuminen Töysän yksityisasunnolla – poliisi otti kiinni neljä, kukaan ei loukkaantunut",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-26T12:46:53Z",
@@ -2585,21 +2570,6 @@
         }
       ],
       "title": "Koirien välittämä ekinokokki voi tuhota maksan ennen oireiden ilmenemistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T07:45:07Z",
-      "urls": [
-        {
-          "sign": "51d0d24d105f50ed176782ff9e87d975c1dc6911aa9989829d50f666807e77b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "New York Islanders neuvottelivat Patrik Laineen leirin kanssa tryout-sopimuksesta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6436,6 +6406,38 @@
       "title": "Asiantuntija kehottaa välttämään Mallorcan sesonkiaikaa liikaturismin vuoksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T03:25:00Z",
+      "urls": [
+        {
+          "sign": "259ecdd3c2d0eaee2204d9f28937cee4047c339818789736ec8a3b01ecaa14cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nea Berglund on huolissaan Gironde-maastopaloista viinitilallaan Bordeaux'n lähellä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-28T03:15:49Z",
+      "urls": [
+        {
+          "sign": "5842d30fff254cc7f4f2e1da986197cb11d3cb8c11791897d3ac55af2fe68436",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
