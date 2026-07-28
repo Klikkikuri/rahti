@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-28T10:00:01Z",
+  "updated": "2026-07-28T10:11:16Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -443,21 +443,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-26T20:48:00+03:00",
-      "urls": [
-        {
-          "sign": "e3409b4cb04068e8a0c716832e2bb27f12b7e77e9a936e807ecb8851a89560c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan Bordeaux'n lähellä riehuva metsäpalo ajoi suomalaisperheen yöllä evakkoon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-26T17:45:01Z",
       "urls": [
         {
@@ -811,21 +796,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-27T03:52:00Z",
-      "urls": [
-        {
-          "sign": "24cf192ab2ae9d69726a827fe003ea2fa57b9f95746db5413bc21fe00bdca6b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kardiologian professori Juhani Junttila neuvoo tunnistamaan sydänpysähdyksen ja antamaan ensiapua",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-27T07:04:04Z",
@@ -2779,36 +2749,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-27T14:57:35Z",
-      "urls": [
-        {
-          "sign": "1407c706159c43090a74042ce9c8e00ac3321d411753cffc112557acb69eb7e1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lakritsituotteet voivat nostaa verenpainetta – asiantuntija varoittaa terveysriskeistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T14:45:38Z",
-      "urls": [
-        {
-          "sign": "0269cba7a0bcae6f9ceb0900c1f5dbb8c455d995e65550bce2a0b7d0ed4232b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Naistuomari loukkaantui yrittäessään rauhoitella tappelua FC Metzin ja Fortuna Sittardin harjoitusottelussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-28T09:55:00+03:00",
@@ -6427,6 +6367,68 @@
       ],
       "title": "Lidl:n muovipussien myynti laski 27 prosenttia kesäkuussa vuodentakaisesta",
       "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T10:03:11Z",
+      "urls": [
+        {
+          "sign": "26d466f6d3b1964e840df24455b35bc4fb4877e3301998b82fd574c55113ff37",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranska valitsi Zinédine Zidanen jalkapallomaajoukkueen päävalmentajaksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T10:03:54Z",
+      "urls": [
+        {
+          "sign": "fcdd487d8baf8c5b44aff0505099516ec18c0595a0afe85ae544feb326ec427d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Terveysministeri Chris Baryomunsi julisti Ugandan ebolavapaaksi tiistaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-28T13:01:00+03:00",
+      "urls": [
+        {
+          "sign": "aa4100b74dc2bbf6e6e0c7ab96e02acdc89095026b220db1c33135915f5cddf4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-28T10:11:16Z",
+      "urls": [
+        {
+          "sign": "fc2e8804acae29ac14f9160be6f8610c446741c49430637bcbefe2859e786da5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vuokramökkiläiset haluavat vuokramökiltään poreammeen, ilmastoinnin ja lähellä rantaa sijaitsevan kohteen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
