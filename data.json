@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-28T11:14:14Z",
+  "updated": "2026-07-28T14:22:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -368,21 +368,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-26T21:51:29Z",
-      "urls": [
-        {
-          "sign": "499242b1c88100885586838eae64a96403b264c8da31035a2dc15faa41522b20",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian pääministeri Andy Burnham tapaa Ukrainan presidentin Zelenskyin maanantaina laivastotukikohdassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-27T02:00:00+03:00",
       "urls": [
         {
@@ -430,36 +415,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-27T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "71143bb20e1bd1bba8495924075d2eb5a078305a883c65a16e99ba99a921f1c3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jokaisella lapsella tulisi olla yhtäläinen mahdollisuus oppia elvytystaitoja peruskoulussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-26T23:14:37Z",
-      "urls": [
-        {
-          "sign": "8e2319c379cf328bff9683ce3ba7c4e1b65b803e40f9e2a3fb186ca3b53ddb65",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Omakotitalo palaa Savonlinnassa Mäntykadulla – savua leviää asuinalueelle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-27T00:05:53Z",
@@ -5457,7 +5412,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-28T13:35:00+03:00",
+      "updated": "2026-07-28T14:20:00+03:00",
       "urls": [
         {
           "sign": "e14c24002093c192b0bc1702605b1eb32fb389b27c3a19d41a67e9a0f02ee71a",
@@ -5466,7 +5421,7 @@
           ]
         }
       ],
-      "title": "Maanjäristys voimakkuudeltaan 7,1 iski Kumamotossa – loukkaantuneita ja ihmisiä jumissa kauppakeskuksessa",
+      "title": "Tiistaina maanjäristys voimakkuudeltaan 7,1 iski Kumamotossa – loukkaantuneita ja ihmisiä jumissa kauppakeskuksessa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6442,6 +6397,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-28T11:16:18Z",
+      "urls": [
+        {
+          "sign": "fc77a82e4f13e5e89b7eb4bf4944ed9d0d2c742ef73fe328e34e734ee0a60dd7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: Räjähdetehtaan läheisyydessä kiinniotetut miehet syyttömiä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-28T14:22:00+03:00",
+      "urls": [
+        {
+          "sign": "dcbf32db45fef0fd4c9bd4570067c6974391503dd18cc07e29a53dc8e6b48b76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksikerroksinen rakennus palaa Mäntsälässä – pelastuslaitos varoittaa savusta, ei henkilövahinkoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-28T11:14:24Z",
+      "urls": [
+        {
+          "sign": "950cb9429c60987e438b64897f54417126394a420f7da41f0c522fd4844fad33",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mäntsälän teollisuusalueella palaa suuri rakennus – keskustaan annettu vaaratiedote savusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
