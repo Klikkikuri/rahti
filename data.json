@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-28T10:42:55Z",
+  "updated": "2026-07-28T13:57:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -506,21 +506,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-27T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "57b3185d767e362a5281960e15620d536aa33f04d30a576dae6e61cb7a72f1b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aulis Tenkanen kuoli 92-vuotiaana Helsingissä – intohimona sukututkimus",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -2736,40 +2721,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-27T15:28:43Z",
-      "urls": [
-        {
-          "sign": "17b8592cbe835df357674d8abed31d8960c04b568079d6c976393e359d95cd66",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hypon toimitusjohtaja Ari Pauna varoittaa koulupiiririskin kasvusta Helsingin asuntomarkkinoilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T15:23:21Z",
-      "urls": [
-        {
-          "sign": "b8daeb6591fa146e4d2d17061e18a0d65976179499aa5c55145769bae1161538",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "99c9fb2160d31b692fe7774db63e66a298265013cf301886615d26bf86ce55db",
-          "labels": []
-        }
-      ],
-      "title": "Bonnie Tylerin perhe striimaa hautajaiset maailmanlaajuisesti Swanseassa 17. elokuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T15:33:12Z",
@@ -6429,6 +6380,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-28T10:46:50Z",
+      "urls": [
+        {
+          "sign": "efdbf09a96528e6ba625c3eead3926b0579254709f3c1b92a26f42e9409f4854",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus tuomitsi ruotsalaisen jääkiekkovalmentajan kolmeksi vuodeksi vankeuteen kokaiinin salakuljetuksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T13:57:00+03:00",
+      "urls": [
+        {
+          "sign": "b69bb2c6fdf5a201d5d8d2e3583b8285e9d344233918fceb371de9b995199839",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-28T10:48:54Z",
+      "urls": [
+        {
+          "sign": "73ee0f1952085ccaa792c693572eff688f61887fdf70a4409c4c5f15efb0a14f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset julistivat hälytystilan Aurinkorannikolla Länsi-Niilin viruksen leviämisen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
