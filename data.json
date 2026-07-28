@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T23:50:12Z",
+  "updated": "2026-07-28T00:12:52Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -49,7 +49,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-27T21:24:18Z",
+      "updated": "2026-07-28T00:09:36Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -58,7 +58,7 @@
           ]
         }
       ],
-      "title": "Zelensky tapaa Yhdysvaltain senaatin – odotetaan äänestystä Venäjä-pakotteista",
+      "title": "Pentagon viivyttelee Ukrainalle hyväksytyn avun käyttöä – Reuters",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -426,21 +426,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-26T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "3a2c1d5c13fae62edd7b736fc397304bd3eae103281bcd3a2cdbcf32bf148f06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jalkapalloseurat tulisi edistää lasten monipuolista liikuntaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-26T09:07:00Z",
@@ -2603,21 +2588,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-27T06:56:38Z",
-      "urls": [
-        {
-          "sign": "f40f0c5db35050aa66da99f535b926bc511bf03dc5fe9dfdd832f30cf6aa4df3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marjaana Lehtinen kertoi nöyryyttävästä punnitsemiskokemuksesta neuvolassa yli 170-kiloisena",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T07:05:09Z",
@@ -6436,6 +6406,38 @@
       "title": "Trump väittää USA:n ja Iranin käyvän hyviä neuvotteluita – Iran kiistää keskustelujen olemassaolon",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-28T00:12:52Z",
+      "urls": [
+        {
+          "sign": "e6793746ecde3c44663f12a0cf26ba650f73a82522a33738c038377755bb839a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karoline Leavittin avioliitto 60-vuotiaan Nicholas Riccion kanssa herättää keskustelua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T03:00:00+03:00",
+      "urls": [
+        {
+          "sign": "eb5095a588db74444583296eda49bc57b80a34b0e8ecd0a28cbda0187f36b917",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
