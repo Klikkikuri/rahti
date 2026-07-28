@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-28T17:39:00+03:00",
+  "updated": "2026-07-28T14:54:00Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -411,23 +411,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-27T09:54:00+03:00",
-      "urls": [
-        {
-          "sign": "5b9116322a219b98714a9792af738e88ea43bcaa36823f3e0564841de4d365bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-27T06:18:46Z",
       "urls": [
         {
@@ -456,36 +439,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-07-27T06:54:44Z",
-      "urls": [
-        {
-          "sign": "37327251d2585b634518bd2e33d09d295307dff685cdd209aa191a8f67d9414f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Åbo Akademin tutkimus: Ruotsinkielinen Pohjanmaa muistuttaa sinistä vyöhykettä, mutta ei vielä täytä kriteerejä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-27T07:02:36Z",
-      "urls": [
-        {
-          "sign": "78ab363b2867dceab66085294357fb30670dc9a86258472a10b151a69bdc9385",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset havaitsivat coloradokuoriaisia kuudella paikkakunnalla Itä- ja Kaakkois-Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-27T07:05:01Z",
@@ -2357,7 +2310,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-28T13:57:11Z",
+      "updated": "2026-07-28T14:52:48Z",
       "urls": [
         {
           "sign": "9f967440a77aade91e8e56ea7403a79e503c420ad441afda7a0a2916d9538521",
@@ -2366,7 +2319,7 @@
           ]
         }
       ],
-      "title": "Ranskan maastopalot jatkuvat Gironden alueella – 320 000 evakuoitu, Macron vierailee paloalueella",
+      "title": "Ranskan maastopalot jatkuvat Gironden alueella – Macron vierailee, varoittaa uudesta helleaallosta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -2550,36 +2503,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-27T19:38:14Z",
-      "urls": [
-        {
-          "sign": "551fdeb3472294787522313b76e66914acd09acd9e74562b02104aa6c01d72b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tommy Fury väittää rintamaidon juomisen kasvattaneen lihaksiaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T19:36:29Z",
-      "urls": [
-        {
-          "sign": "35a2f24ad637b968864533fe68e065f2a9033a3a3806a8fabd425db9e9dd7c1d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee Halsuan miestä tapon yrityksestä ja törkeästä rattijuopumuksesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-27T19:50:26Z",
@@ -6337,7 +6260,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-28T17:39:00+03:00",
+      "updated": "2026-07-28T17:49:00+03:00",
       "urls": [
         {
           "sign": "9e0cb5caa88c7267ac5f07e2e23a85841445bbae246cd4c5053af7bed721a3ff",
@@ -6346,7 +6269,7 @@
           ]
         }
       ],
-      "title": "Säiliölaiva ajoi karille Norjassa – räjähdys aiheutti tulipalon laivalla",
+      "title": "Poliisin mukaan säiliölaiva ajoi karille Skjærhaldenin lähellä – räjähdys aiheutti tulipalon laivalla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6440,6 +6363,83 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T14:50:04Z",
+      "urls": [
+        {
+          "sign": "b6f2df7639f906f34fa26e35578ec52a2f87b3001cea319c15837746ce666d4d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee Australian jalkapalloilija Cristian Volpatoa kokaiinin käytöstä nopeusylityksen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T14:47:23Z",
+      "urls": [
+        {
+          "sign": "edbfc13f8c46cd4304f55a3c6468a979e057faa37a3caa7816e6724a602092cc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "The Beatles vihjaa Rubber Soul -albumin juhlavuoden kokoelmaa – uutinen luvattu huomiselle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-28T14:47:45Z",
+      "urls": [
+        {
+          "sign": "b447bbe819910f6ef4e48d0ecadb89eec59a1cb4f932ea9c47805757c0a2ebbe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Xpeng tuo L03-sähkökatumaasturin Suomeen – hinta alkaa 36 900 euroa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T17:53:00+03:00",
+      "urls": [
+        {
+          "sign": "497048e9c73df9f32e7ea219d814d20bfa68c01d796d6baabbbf7a269388d850",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-28T14:54:00Z",
+      "urls": [
+        {
+          "sign": "ef9e9e5e92c83a9daf3df88e933ec7d6a2c581c9c8cadee119baa703ea6be9a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Presidentti Alexander Stubb tapasi yhdysvaltalaissenaattoreja ja osallistui Lindsey Grahamin hautajaisiin Washingtonissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
