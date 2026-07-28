@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-27T23:15:37Z",
+  "updated": "2026-07-27T23:50:12Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -413,23 +413,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-26T11:31:00+03:00",
-      "urls": [
-        {
-          "sign": "7e944fa9c73dda5f8ad00f61e3402134bca0b3fa219104c9774543dbaf7b3207",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-26T08:43:53Z",
       "urls": [
         {
@@ -440,21 +423,6 @@
         }
       ],
       "title": "7-vuotias Miles Phillipsin linnulaulu leviää Australiassa – yli 1,5 miljoonaa katselua",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-26T08:37:53Z",
-      "urls": [
-        {
-          "sign": "494ebf55c6d979e7f7df019278a7fad9ea1ff4dbf479cdadda4af4efd738a3d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "El Niño uhkaa nostaa maissin hintaa ja aiheuttaa pakolaisvirran Afrikassa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -2647,21 +2615,6 @@
         }
       ],
       "title": "Marjaana Lehtinen kertoi nöyryyttävästä punnitsemiskokemuksesta neuvolassa yli 170-kiloisena",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-27T06:45:43Z",
-      "urls": [
-        {
-          "sign": "7d72a024e5ee88d63e5d1b4abbd8ee9f8c6f7b7a19a8a2dd72c6424fdbcf7917",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin Truth Social -tilille julkaistiin kymmeniä tekoälykuvia Iranin sodasta ja mahdollisesta jatkokaudesta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6439,6 +6392,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T23:48:03Z",
+      "urls": [
+        {
+          "sign": "7d7ec575a6de2c09636233d16641b8330fe45513601c9cacf8182b6569f9e8a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pentagon viivästyttää Ukrainan 400 miljoonan dollarin avun käyttöä vuoteen 2029",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-27T23:50:12Z",
+      "urls": [
+        {
+          "sign": "280a29c48e8f7dd12babdefcf1f994b8b8cc2a0ebe26dac0b73dae90609dec91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat pitää Andrew ja Tristan Tatet vangittuina – he vastustavat luovutusta Britanniaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-28T02:50:00+03:00",
+      "urls": [
+        {
+          "sign": "2575b825aab29d3d4861820d02a2e1598d9175075bc1ebb3093a18661deb4155",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump väittää USA:n ja Iranin käyvän hyviä neuvotteluita – Iran kiistää keskustelujen olemassaolon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
