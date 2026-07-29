@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T03:59:25Z",
+  "updated": "2026-07-29T07:02:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -621,21 +621,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-27T16:45:00+03:00",
-      "urls": [
-        {
-          "sign": "3c114e15a8899160ffee936813823e92bfea5f44153261d32441d72f0fc473ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Herttoniemen liikuntapuiston uudistus epäonnistui – 4,2 miljoonaa euroa meni hukkaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-27T13:59:08Z",
       "urls": [
         {
@@ -649,23 +634,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-27T17:00:00+03:00",
-      "urls": [
-        {
-          "sign": "6afbcd7760afc6ba8a1ccf80a78970cccc118920121f9975dee9ecbf856fedaa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-27T14:00:00Z",
@@ -2828,21 +2796,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-28T08:35:12Z",
-      "urls": [
-        {
-          "sign": "9c5e574be5c419e4d1fe010e1f6f7c982c3f9a6ce1a1e15d706be4138c0befcc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mercedes-Benz julkisti Suomessa uuden täyssähköisen C-sarjalaisen – 753 km toimintamatka",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-28T11:45:00+03:00",
@@ -6446,6 +6399,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T04:00:52Z",
+      "urls": [
+        {
+          "sign": "a514f9b588f304b02f8cc4067cc3e9139dd8b1b4349f520301aa749266ea0821",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eniten ihmisiä kuoli Suomessa vuonna 2022",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e76b0b3eb240ba4b47ef79751197be8db3474397f62b798723bd394008257b41",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-29T07:02:00+03:00",
+      "urls": [
+        {
+          "sign": "14e7a6b3286e7e1e2107db84353af092f70af6caf400dbea6e6fc35cdc553a6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU epäröi asettaa pakotteita venäläisomisteiselle irlantilaiselle alumiinitehtaalle, vaikka sen tuotanto päätyy Venäjän aseisiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
