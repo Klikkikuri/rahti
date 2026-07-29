@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T07:30:00Z",
+  "updated": "2026-07-29T07:42:48Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -488,21 +488,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-27T19:15:00+03:00",
-      "urls": [
-        {
-          "sign": "c2f33499b53dbcd223a20f2312bac91143d9e1780b8a1d54ce43761502ff5332",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karjalan kielen elpyminen edellyttää valtion tukea ja lainsäädännöllistä asemaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-27T16:18:10Z",
       "urls": [
         {
@@ -516,21 +501,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-27T16:18:35Z",
-      "urls": [
-        {
-          "sign": "8f02a9baac82a0aec99038245ce1e6a6e65a3453adb1fe2395640a817648b10b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Patrik Laine pelaa Team Moxiesissa Floridan kesäkiekkoliigassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-27T16:21:00Z",
@@ -2982,21 +2952,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-28T12:40:54Z",
-      "urls": [
-        {
-          "sign": "5172055e10b73682ce34ced880a5d5bd795bc19e5c43c52e0ae5e54d5f4af13e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kestävyysjuoksija Annemari Sandell haki avioeroa ja sai lähestymiskiellon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-28T13:41:58Z",
       "urls": [
         {
@@ -5078,7 +5033,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-29T04:15:09Z",
+      "updated": "2026-07-29T07:32:59Z",
       "urls": [
         {
           "sign": "6cd0ac7c4d35e6ecc2cd18df88cffa465a6c10979a196cf520786d72b0175ccc",
@@ -5087,7 +5042,7 @@
           ]
         }
       ],
-      "title": "MTV:n kyselyn mukaan vain 17 prosenttia aikoo tilata alkoholia kotiovelle",
+      "title": "MTV:n kysely: Vain 17 prosenttia aikoo tilata alkoholia kotiovelle",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6459,6 +6414,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T10:37:00+03:00",
+      "urls": [
+        {
+          "sign": "0914c91bda5c678820726a5db49ae943d2c03e6d1378f9e04e563b24a8a64bd7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-29T07:42:48Z",
+      "urls": [
+        {
+          "sign": "ba62eb9b31fd9befccfe652383139c389ac20edda5f3ae268602fc0ac9779c5e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KHL:n palkkakuninkaat selviävät – vain Aleksandr Barabanov tienaa yli 100 miljoonaa ruplaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T07:37:16Z",
+      "urls": [
+        {
+          "sign": "b19b7ed4515ff1b79928ddba4f8beca0288af4eb8fae79e02edb8bc180ccb7ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä etsintäkuulutti Telegramin perustajan Pavel Durovin terrorismiepäilyn vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
