@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T03:10:23Z",
+  "updated": "2026-07-29T03:19:21Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -2751,21 +2751,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-28T07:31:57Z",
-      "urls": [
-        {
-          "sign": "a491f6af6f9ce2b0a7e2c5fe81927eef7d5d5edebc80d0bf03df28ebd7bbbd19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Palsanmäkien huutokauppayhtiön tulos putosi yli puolella edellisvuodesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-28T10:42:55Z",
@@ -6442,6 +6427,23 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-29T03:19:21Z",
+      "urls": [
+        {
+          "sign": "be55f47573b6927bded621deeb20513e64a632355d440e3954078d30dccb8d60",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
