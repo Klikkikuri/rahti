@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T16:38:54Z",
+  "updated": "2026-07-29T16:49:26Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -411,21 +411,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-28T07:59:39Z",
-      "urls": [
-        {
-          "sign": "ba15b9b9e44a6b6281ee6e2be030173e8df7c67a46abf386ec99164c439494d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusvoimat purki tilapäisen ilmailun ja meriliikenteen rajoitusalueen itäisellä Suomenlahdella klo 10.20",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-28T13:36:00+03:00",
       "urls": [
         {
@@ -790,21 +775,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-28T11:38:11Z",
-      "urls": [
-        {
-          "sign": "1d1a60694bacd77b7f332bb1362ef84af5da11694acd50a8597d0063c2c83aa0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ekaluokkalaisten määrä laskee edelleen – elokuussa aloittaa 50 000 uutta oppilasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-28T14:04:22Z",
@@ -6449,6 +6419,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T16:49:26Z",
+      "urls": [
+        {
+          "sign": "65dfa910e90768296b4e0c4fa859c7d4f2793cef87ec8c5971cc6546f56e1f0d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranska karkottaa RT Francen entisen johtajan Xenia Fedorovan disinformaatiosyytösten vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-29T16:45:01Z",
+      "urls": [
+        {
+          "sign": "2fe7dfe5c7b120b8d3f96f6eee1e62cdaf250b5b67ddb3acb8dc46797986ef98",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tyhjät räystäspääskyn pesät viivästyttävät Hailuodon lauttojen siirtoa Turkuun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
