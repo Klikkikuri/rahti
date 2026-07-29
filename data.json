@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T20:34:43Z",
+  "updated": "2026-07-29T20:55:32Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -424,21 +424,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-28T10:19:41Z",
-      "urls": [
-        {
-          "sign": "788ed18ee2a76a61088eacc9b621d0cda185e149fe0774a837a925e37e647837",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkoinen fosfori vuoti Yhdysvaltain Osanin lentotukikohdassa Etelä-Koreassa – asukkaille annettu evakuointikehotus",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-28T11:06:46Z",
@@ -6455,6 +6440,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T20:55:32Z",
+      "urls": [
+        {
+          "sign": "ebbd013902867afd2c88b13e6bf872b01d6f6c1117db6663527a3517928e141a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metan tulos laski 14 prosenttia tekoälykustannusten, oikeuskulujen ja irtisanomisten vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
