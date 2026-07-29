@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T23:01:40Z",
+  "updated": "2026-07-29T23:43:00Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -619,21 +619,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-28T14:17:39Z",
-      "urls": [
-        {
-          "sign": "0caad40d1a29309ec47bbfbc51b77af2363499857021c5c7c1180a905fe30e49",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tankkerialus syttyi tuleen räjähdyksen jälkeen Hvalerissa, miehistö turvassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-28T14:11:00Z",
       "urls": [
         {
@@ -754,23 +739,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-28T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "009d1d1384babe839d75bb585c4fdcd48fc9df3eb037a515ff5980b9ec632225",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-28T14:54:26Z",
@@ -2246,21 +2214,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-29T07:08:41Z",
-      "urls": [
-        {
-          "sign": "c98136632f8efbceed3ad11a344ac5057c8c676c48296d615630754030bcd207",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perävaunua vetänyt auto törmäsi toiseen henkilöautoon Kuopiossa – molemmat autot pahoin vaurioituivat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-29T07:12:07Z",
@@ -6451,6 +6404,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-30T02:35:00+03:00",
+      "urls": [
+        {
+          "sign": "2ddacae9b1020ed92dca45c89bc78e37ba66e26ea0a81bb7fda535f39755ada9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä iskee Kiovaan ballistisilla ohjuksilla – useita räjähdyksiä, tulipaloja kolmessa rakennuksessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-29T23:30:29Z",
+      "urls": [
+        {
+          "sign": "b7a101b6859ce05e3ef1802e229378a95105f380ef9309451856aac026701bae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "YK:n turvallisuusneuvosto aloittaa tänään keskustelut seuraavan pääsihteerin valinnasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-29T23:43:00Z",
+      "urls": [
+        {
+          "sign": "2147a2ab7c55bd7e422b03872484b226bc5effd78622840b19e29d28c0be2c13",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies, joka puukotti Salman Rushdieta silmään, sai terrorismituomion Yhdysvalloissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
