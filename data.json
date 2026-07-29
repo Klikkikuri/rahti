@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T21:44:00+03:00",
+  "updated": "2026-07-29T21:51:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -426,21 +426,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-28T09:19:07Z",
-      "urls": [
-        {
-          "sign": "8064bb94e5b1a43b21a72b1ee3b8c9abfff4cc000c0e3fe85320c7d58076dfe5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Zinedine Zidane aloittaa Ranskan miesten maajoukkueen päävalmentajana – sopimus ulottuu vuoteen 2030",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-28T09:40:24Z",
       "urls": [
         {
@@ -499,23 +484,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-28T13:57:00+03:00",
-      "urls": [
-        {
-          "sign": "b69bb2c6fdf5a201d5d8d2e3583b8285e9d344233918fceb371de9b995199839",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-28T11:06:46Z",
@@ -2359,21 +2327,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-29T05:30:16Z",
-      "urls": [
-        {
-          "sign": "d9ab95c2610048bfd5f09521158402ebdbe885f42df1739940df96bab978d6b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uutiskatsaus kattaa väkivallantekoja, onnettomuuksia ja ilmiöitä Suomessa ja maailmassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-29T05:52:27Z",
@@ -6003,7 +5956,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-29T21:12:00+03:00",
+      "updated": "2026-07-29T21:45:00+03:00",
       "urls": [
         {
           "sign": "b3ad4bbc837b852af2ecaf468bc8802974e262db8b9cad827064e30b3ed167e7",
@@ -6012,7 +5965,7 @@
           ]
         }
       ],
-      "title": "Kreikan maastopalot vaatineet pelastajien henkiä – Lesbokselta evakuoitu ruotsalaisia ja norjalaisia",
+      "title": "Kreikan ja Turkin maastopalot vaatineet pelastajien henkiä – Lesbokselta evakuoitu ruotsalaisia ja norjalaisia",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6125,7 +6078,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-29T17:22:11Z",
+      "updated": "2026-07-29T18:41:19Z",
       "urls": [
         {
           "sign": "67bc910a51addcb0a86ab422dad255ee742a1c34baac111fa1c65eff1b181bf6",
@@ -6134,7 +6087,7 @@
           ]
         }
       ],
-      "title": "Erotuomari Salim Ghandagha sai lyönnin ja potkun päähän tiistain Nelosen ottelussa",
+      "title": "FC Eaglesin pelaaja löi ja potki erotuomaria päähän Tuusulan Nelosen ottelussa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6459,6 +6412,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-29T18:50:26Z",
+      "urls": [
+        {
+          "sign": "7867c21e8a7e92249e95d235997286a01d8454cdffbaf26123375090ad150110",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Renny Harlin avautuu harvinaisessa videossa: tuntenut syyllisyyttä elämänsä aikana ja löytänyt rauhan Suomen kesässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T18:48:53Z",
+      "urls": [
+        {
+          "sign": "302ca993fa14a7cda800d014657d7f81cbf5dbe1b55204f458feef2b61d7d6b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastajat kuolivat Kreikassa maastopaloja sammuttaessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-29T21:51:00+03:00",
+      "urls": [
+        {
+          "sign": "ccb7fbc37b2b115b525d2f69702cb391dbb088dd6129387fcabd5b4565402b31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
