@@ -1,5 +1,8 @@
 # The default Klikkikuri configuration file
 
+BOT_ID: "Klikkikuri"  # Official Bot identifier
+BOT_USER_AGENT: "Mozilla/5.0 (compatible; Klikkikuri/{Version}; +{Home-page})"  # User agent string
+
 sources:
   - name: Yle Uutiset
     type: rss
