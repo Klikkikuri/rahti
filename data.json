@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T17:43:00+03:00",
+  "updated": "2026-07-30T14:49:14Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -364,21 +364,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-29T08:53:37Z",
-      "urls": [
-        {
-          "sign": "fd20d984f4e14e0817e04c09515cf27e99ac333f63c2f2a0b5c8afcf75ac2815",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maanjäristys Lounais-Japanissa tiistaina aiheutti kuolemia, loukkaantumisia ja kadonneita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-28T11:04:50Z",
       "urls": [
         {
@@ -633,23 +618,6 @@
       "title": "Venäjän FSB antoi kansainvälisen pidätysmääräyksen Telegramin perustajalle Pavel Duroville",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T13:00:00+03:00",
-      "urls": [
-        {
-          "sign": "dd6666d271b75160fea71698f5e1349857de6543c36112be6eb7ab39349b9879",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -987,21 +955,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T13:00:01Z",
-      "urls": [
-        {
-          "sign": "4423881e940493f6fc0a5f2f2f0698fabd72237b7de02f6070cd699de8676a81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Blockfest aikoo vähentää meluhaittoja monin toimenpitein",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-29T16:08:00+03:00",
@@ -2248,21 +2201,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-29T23:01:40Z",
-      "urls": [
-        {
-          "sign": "53cc155c8d7d92f57c20f145a7189d9139324937643bbf4f6c897fb92fad37a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos vei kaksi loukkaantunutta sairaalaan Vuosaaren kerrostalopalossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-30T02:00:00+03:00",
@@ -6469,6 +6407,68 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-30T17:45:00+03:00",
+      "urls": [
+        {
+          "sign": "1af9d206426a15572b079224d8e7e1472e17c9612ca32e8533fb27a3bb54eede",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-30T14:49:14Z",
+      "urls": [
+        {
+          "sign": "59bc214026a4d4173f1c3e1746e8e4723ae13c94f7821fe4c08f424f58786a76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelaaja löi ja potkaisi erotuomari Salim Ghandagha päähän jalkapallo-ottelussa Tuusulassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T14:45:26Z",
+      "urls": [
+        {
+          "sign": "ee3a689582034227c0afd166c5c23831f2cafc697704bff34823690eec7b4db0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekninen vika keskeytti Ylen uutislähetyksen torstaina ennen kello viittä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-30T14:48:32Z",
+      "urls": [
+        {
+          "sign": "60ca0e89127fd231cf17ca5dfd169eafe1dd072aaaf439a3f8366ae9b71942ab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lewandowski hylkäsi 200 miljoonan euron Saudi-tarjouksen haluten pelata Barcelonassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
