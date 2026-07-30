@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T01:37:52Z",
+  "updated": "2026-07-30T02:00:17Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -801,23 +801,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-28T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "a7810c7209cd8739bfe721a4257af404e98766fb5c541520c0954ff9213e8265",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-28T15:53:44Z",
@@ -2306,21 +2289,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-29T07:20:33Z",
-      "urls": [
-        {
-          "sign": "e295127d9f7aadcfc579161882f8d8c97a55e8c8b3f4bae23126e734a5aaaf67",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Riikka Purra myöntää koulushoppailun ja kutsuu sitä inhimilliseksi reaktioksi segregaatioon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-29T10:37:00+03:00",
@@ -6449,6 +6417,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T02:00:17Z",
+      "urls": [
+        {
+          "sign": "886911213138fbf3e081caebc70530fb3ebcfc08ef819d9a2b349620ed7ff1dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ihmiskunta kuluttaa resursseja 1,73 maapallon verran – ylikulutuspäivä on 30. heinäkuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T05:00:00+03:00",
+      "urls": [
+        {
+          "sign": "b8dda1d6333008588907090010e878f6137978191b16edda03d6510805383b0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maailman ylikulutuspäivä on tänään 30. heinäkuuta – kulutus vaatii 1,73 maapalloa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
