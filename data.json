@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T09:25:35Z",
+  "updated": "2026-07-30T09:41:17Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -424,21 +424,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-28T19:19:13Z",
-      "urls": [
-        {
-          "sign": "119e460ad2322bf771e562e9492a407237270a2d953b712f19fa6f7ea6302fbc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies kuoli traktorionnettomuudessa Kiteellä tiistai-iltana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-28T19:53:00Z",
@@ -912,21 +897,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-29T07:14:30Z",
-      "urls": [
-        {
-          "sign": "336d92f1a863ebfb3adf34539ba13942b8bd62771d682f2afd4f0b6981c18705",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Raportti: Antisemitismi on noussut uudeksi normaaliksi useissa maissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-29T07:18:34Z",
       "urls": [
         {
@@ -937,21 +907,6 @@
         }
       ],
       "title": "Fortum aloittaa Loviisan ydinvoimalaitoksen vuosihuollon sunnuntaina – ensin kakkosyksikkö, sitten ykkösyksikkö",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-29T07:17:40Z",
-      "urls": [
-        {
-          "sign": "81a076c519e92abcde0b639ef4cfc57f660cf482ee091bb82f6d002329b43e0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Neljä naista syyttää Jared Letoa seksuaalirikoksista – BBC:n dokumentti",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -2426,21 +2381,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-29T14:23:04Z",
-      "urls": [
-        {
-          "sign": "71508c04f3108041c2281ca1de0c6d98b3fc9aa869ca163fe07a120c1572bf8d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Topias Vilén sai jatkosopimuksen Devilsin kanssa MM-leirin jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-29T14:16:53Z",
@@ -6286,7 +6226,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-30T12:12:00+03:00",
+      "updated": "2026-07-30T12:30:00+03:00",
       "urls": [
         {
           "sign": "28437e39e9c526b301a1bb29159360e774f1a6f3ab0625344280caaa5e2f8d69",
@@ -6449,6 +6389,68 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T09:35:17Z",
+      "urls": [
+        {
+          "sign": "c6f7f25203e352b91577832d0ca1f0bde96e1db7d87639b94bef941784871369",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T09:29:20Z",
+      "urls": [
+        {
+          "sign": "41df2fe2a80be61ceb93246d2daeacf91ee0e05704c4399499cd02701ee4e7bf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oliver Antman siirtyy Rangersista Anderlechtiin nelivuotisella sopimuksella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-30T09:41:17Z",
+      "urls": [
+        {
+          "sign": "027bad639f23c8e7623f8e9c78b8de76b813dadc0c833aa6fb9d1b86719643ae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmavoimat keskeytti Hawk-lennot teknisen vian vuoksi ja perui Midnight Hawks -näytöksen sekä MM-rallin avajaisylilennon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-30T09:32:22Z",
+      "urls": [
+        {
+          "sign": "df680118690ca0723f45c0a6c55f74595cf8ea4bfb108625c4309e7536864e0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelaaja pahoinpiteli erotuomarin kesken jalkapallo-ottelun Tuusulassa – sai väliaikaisen pelikiellon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
