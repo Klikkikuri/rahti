@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T02:23:03Z",
+  "updated": "2026-07-30T02:42:25Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -634,21 +634,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-28T14:47:23Z",
-      "urls": [
-        {
-          "sign": "edbfc13f8c46cd4304f55a3c6468a979e057faa37a3caa7816e6724a602092cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "The Beatles vihjaa Rubber Soul -albumin juhlavuoden kokoelmaa – uutinen luvattu huomiselle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-28T20:00:00+03:00",
       "urls": [
         {
@@ -664,21 +649,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-28T14:54:00Z",
-      "urls": [
-        {
-          "sign": "ef9e9e5e92c83a9daf3df88e933ec7d6a2c581c9c8cadee119baa703ea6be9a8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Alexander Stubb tapasi yhdysvaltalaissenaattoreja ja osallistui Lindsey Grahamin hautajaisiin Washingtonissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-28T14:54:26Z",
@@ -2199,21 +2169,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-29T07:26:03Z",
-      "urls": [
-        {
-          "sign": "6d751554cbc45c46b33eba50accf122a6d7162794a5a8881ffca52cb34783be7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nanna Karalahti kertoo uudesta suhteestaan: tasainen ja eheyttävä kokemus",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-29T07:17:40Z",
@@ -6447,6 +6402,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-30T02:35:26Z",
+      "urls": [
+        {
+          "sign": "e1491968da7ae3d3510b33fe1b292a4ee0aa8d75747fbaba1f8eaa9f2e2130ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa rajusta ukonilmasta ja voimakkaista ukkospuuskista Pohjanmaalla, Ranualla ja Posioissa torstaista lauantaihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T02:42:25Z",
+      "urls": [
+        {
+          "sign": "2567002d4cd3618f9ed83010d6af3ec43c5acd83a7e722b6f8d5e20b29c310c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen meteorologi ennustaa hellettä torstaina ja ukkoskuuroja perjantaina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-30T02:30:35Z",
+      "urls": [
+        {
+          "sign": "d71cbf82aa9d220fb13618d7e20a20b676ea12143f5dc5bc18f1e3219aef1b99",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viron tekoälyneuvonantaja Luukas Ilves: tekoäly voi lisätä työpaikkoja Virossa, kun Suomi tavoittelee julkisen sektorin säästöjä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
