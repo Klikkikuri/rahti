@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T14:28:46Z",
+  "updated": "2026-07-30T17:43:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -546,21 +546,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-29T12:19:00+03:00",
-      "urls": [
-        {
-          "sign": "ed46075c845e40ee9ef838f1c295596389ca812a0d3611b2f8d3202547853478",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iran suunnitteli iskua Ukrainan satamaan – diplomatia esti tilanteen kärjistymisen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-29T09:43:08Z",
       "urls": [
         {
@@ -927,21 +912,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T12:55:48Z",
-      "urls": [
-        {
-          "sign": "9c24674ad72f5ca0be124c46a7e0d985a912956bb63b8a4caa5d1e7ec2de65eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduskunta käsittelee Timo Vornasen jatkoa kansanedustajana syysistuntokautena",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-29T15:49:00+03:00",
@@ -2290,21 +2260,6 @@
         }
       ],
       "title": "Pelastuslaitos vei kaksi loukkaantunutta sairaalaan Vuosaaren kerrostalopalossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-29T22:37:04Z",
-      "urls": [
-        {
-          "sign": "8ee051cbe9a38192d35c4531cfe8558928dbf2ee8e2c6260d315f09505d9a9c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "San Marcon munkkiluostarin apteekista löytyi 1800-luvun juomaresepti, joka muistuttaa Coca-Colaa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6426,7 +6381,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-30T14:21:11Z",
+      "updated": "2026-07-30T14:32:20Z",
       "urls": [
         {
           "sign": "dbf53819eccf7d4d3914947141af677f9d026a9f1c27ca45ef49310767d74d3a",
@@ -6435,7 +6390,7 @@
           ]
         }
       ],
-      "title": "Afrikkalainen sikarutto löytyi ensimmäistä kertaa Suomessa villisian porsaista Virolahdella",
+      "title": "Ruokavirasto totesi ensimmäistä kertaa afrikkalaisen sikaruton Suomessa villisian porsaista Virolahdella",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6469,6 +6424,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T17:43:00+03:00",
+      "urls": [
+        {
+          "sign": "aeb83da1b4dac0e3d03e6ac1804805b1282dd9549e9f45e98fe6f0f5eb305abe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee koulunkäynninohjaajaa lasten salakuvauksesta ja lapsipornokuvien hallussapidosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-30T14:34:40Z",
+      "urls": [
+        {
+          "sign": "1c3a60cb64f766fd7ea4d516a8c1e542769fadb2a0b78e044865f402be4874fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Stanfordin tutkijat löysivät tekoälyn avulla uuden laihdutuslääkekandidaatin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T14:30:44Z",
+      "urls": [
+        {
+          "sign": "eed0e3bca2c82942144c5f62ebe92538539678a91f9badd3ab4fc87b2d9cd721",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veteraaniheittäjät Rinne ja Yli-Hallila tähtäävät MM-kisoihin Etelä-Koreassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
