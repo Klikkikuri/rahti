@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T08:41:00+03:00",
+  "updated": "2026-07-30T09:00:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -424,23 +424,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-28T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "497048e9c73df9f32e7ea219d814d20bfa68c01d796d6baabbbf7a269388d850",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-29T08:55:00+03:00",
       "urls": [
         {
@@ -456,21 +439,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-28T15:33:17Z",
-      "urls": [
-        {
-          "sign": "40c8a268d8fc8ce0348557a3ef25c83c558cc767aac614045c5d7f9b55196273",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fire Pointin asevalmistus vahvistaa Ukrainan kykyä iskeä syvälle Venäjälle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-28T15:48:24Z",
@@ -5487,7 +5455,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-30T08:41:00+03:00",
+      "updated": "2026-07-30T08:52:00+03:00",
       "urls": [
         {
           "sign": "2ddacae9b1020ed92dca45c89bc78e37ba66e26ea0a81bb7fda535f39755ada9",
@@ -5496,7 +5464,7 @@
           ]
         }
       ],
-      "title": "Venäjän ballistiset ohjukset iskivät Ukrainaan, Puolassa Lublinin alueelta löytyi 10‑metrinen kraatteri",
+      "title": "Venäjä iski Ukrainaan ballistiohjuksilla – poliisi löysi Puolasta 10‑metrisen kraatteri",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6303,7 +6271,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-30T08:34:00+03:00",
+      "updated": "2026-07-30T08:52:00+03:00",
       "urls": [
         {
           "sign": "4274ac88b596cd374d339ee1c1043a5e8dee84615448b2424379faed4e51f22e",
@@ -6312,7 +6280,7 @@
           ]
         }
       ],
-      "title": "Suomen talouskasvu jatkuu yllättävän vahvana – BKT kasvoi 0,9 prosenttia huhti–kesäkuussa, työttömyys nousi 11,4 prosenttiin",
+      "title": "Suomen talouskasvu vahvistui huhti–kesäkuussa – BKT kasvoi 0,9 prosenttia, työttömyys nousi 11,4 prosenttiin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6449,6 +6417,38 @@
       ],
       "title": "Harri Syrjänen jakaa Instagramissa lohi-avokadosalaatin reseptin",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-30T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "1560a457d42aea7e7be58efe72fb6195bb90d13fe20a8f6f267cc495deccd311",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-30T05:54:43Z",
+      "urls": [
+        {
+          "sign": "1be321b649a17f737501d7c9a3f8cd7d3983e4458ea9dd78a0b6c0338adc8c42",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan metsäpalot voivat heijastua ruokakauppojen hyllyille – Suomessa omavaraisuus suojaa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
