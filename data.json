@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T16:12:10Z",
+  "updated": "2026-07-30T16:24:35Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -409,7 +409,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-30T07:00:03Z",
+      "updated": "2026-07-30T16:24:35Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -437,21 +437,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T09:45:36Z",
-      "urls": [
-        {
-          "sign": "15c87539b94da5976c0bfe24bd2c04652d88ee856275051a76b11aa2a161d2a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ari Lahti tyrmää Fifan suunnitelman myydä MM-kisojen osuutta sijoittajille – Palloliitto harkitsee uudelleen tukeaan Infantinolle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-29T09:46:00Z",
@@ -2336,21 +2321,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-30T03:33:00Z",
-      "urls": [
-        {
-          "sign": "5e1d7964601d9ac1994b04be1e6a8bbe6f53033a2126dd8bcada089024c6b6e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Julkkiskokki Stefan Richter testasi yhden euron talon ostamista Sisiliassa – sai korkean verenpaineen ja joutui sairaalaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-30T06:30:00+03:00",
       "urls": [
         {
@@ -2398,23 +2368,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-30T03:36:12Z",
-      "urls": [
-        {
-          "sign": "d1bdb910c7f86d27c71ff9e273021e05cef37f17512673ebbf544218d7e1ce84",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-30T03:39:10Z",
       "urls": [
         {
@@ -2428,21 +2381,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-30T03:35:28Z",
-      "urls": [
-        {
-          "sign": "3546d6fd2b423b902db5328a7d3d729d0a1ed948562db01c9bce55ced559227c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Auto törmäsi betonisuojaan Turun kehätiellä – kuljettaja loukkaantui",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-30T03:52:49Z",
@@ -6465,6 +6403,66 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-30T16:22:31Z",
+      "urls": [
+        {
+          "sign": "c54fb5069e1f2b250cfb7bd461a4146f401e6ff16057edfc36f5cde3af290a61",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Petter Solberg sai kunniagallerian Mobilia-museossa ja harmittelee, ettei ottanut Timo Jouhkin tarjousta vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T16:15:26Z",
+      "urls": [
+        {
+          "sign": "b1092c49878802c4a67316088085b43f4934326356c147b279de04975bff461b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aki Peltokosken lemmikki-iguaani karkasi Järvenpäässä – omistaja pelkää sen kuoleman lähestyvän",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-30T16:22:06Z",
+      "urls": [
+        {
+          "sign": "59ba4496664eab7a82a428ea30f5660a7b5d422f325a045aca20493280e6f3d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äänitteet vuodelta 2016–2017 paljastavat Joe Bidenin muistiongelmat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-30T16:15:14Z",
+      "urls": [
+        {
+          "sign": "4a660a90a1c5d486d6deb5e787bc895920a7078356a0c7c420636733cd61d8ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lidl:n korttimaksamisen häiriö aiheutti tuplaveloituksia noin 200 asiakkaalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
