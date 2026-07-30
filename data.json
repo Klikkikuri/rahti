@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T00:49:27Z",
+  "updated": "2026-07-30T04:25:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -664,21 +664,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-28T14:35:59Z",
-      "urls": [
-        {
-          "sign": "520c4f392dbc2f7c673450476c0c96b066337e0ff1a3c031d313dcfe07ed3a9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Pankki toteaa asuntojen hintojen laskun olleen tarkoituksellista – hinnat alimmillaan lähes kymmeneen vuoteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-28T14:47:23Z",
       "urls": [
         {
@@ -785,21 +770,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-28T18:45:00+03:00",
-      "urls": [
-        {
-          "sign": "94f2e567431415e09c4d3821d5f5e1f686e6e8d577571fb96ee923f06326fa6b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide Kirkkonummelta: Merimetson kannan pienentäminen vaatii metsästystä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -6449,6 +6419,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-30T01:19:49Z",
+      "urls": [
+        {
+          "sign": "712ad18be0b24e2c7b6909b7391f2712dfe40d11e5163f8156cf013710f8a5ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rio de Janeirossa ja São Paulossa useita ihmisiä kuoli myrskytuulten aiheuttamassa kaaoksessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-30T04:25:00+03:00",
+      "urls": [
+        {
+          "sign": "ea344719455b7bead68737da96c9858ff27e08f583b6ead1a38f63c71ed11056",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat teki yöllä voimakkaita iskuja Iraniin vastauksena ohjusiskuyritykseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
