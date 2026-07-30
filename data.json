@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-29T23:43:00Z",
+  "updated": "2026-07-29T23:52:13Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -632,21 +632,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-28T14:20:53Z",
-      "urls": [
-        {
-          "sign": "8f2235fc2bc5e43ff7a22c4d31d958d879da6101a53046d346c22ac6b1caa7f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keski-Suomen käräjäoikeus tuomitsi 43-vuotiaan miehen 11 vuoden vankeuteen seksuaalirikoksista alaikäisiä vastaan Jyväskylässä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-28T14:25:27Z",
@@ -6406,7 +6391,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-30T02:35:00+03:00",
+      "updated": "2026-07-30T02:46:00+03:00",
       "urls": [
         {
           "sign": "2ddacae9b1020ed92dca45c89bc78e37ba66e26ea0a81bb7fda535f39755ada9",
@@ -6415,7 +6400,7 @@
           ]
         }
       ],
-      "title": "Venäjä iskee Kiovaan ballistisilla ohjuksilla – useita räjähdyksiä, tulipaloja kolmessa rakennuksessa",
+      "title": "Venäjä ampui ballistisia ohjuksia Kiovaan torstain vastaisena yönä – useita räjähdyksiä, tulipaloja kolmessa rakennuksessa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6449,6 +6434,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-29T23:52:13Z",
+      "urls": [
+        {
+          "sign": "5d79703a39b256492d937e2fcfdff5a867e71e8d7d97cd66d483bb78f674b656",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fedin korkopäätös laski Wall Streetia, öljyn hinnat nousivat Lähi-idän jännitteiden vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
