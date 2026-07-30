@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T08:12:02Z",
+  "updated": "2026-07-30T08:21:25Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -501,38 +501,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-29T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9a4f44afeba2162a01a1ed1c7255c05af03fa71d282b9f97dd7a49c24c51dd82",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "19f5b968928080ebec77f8f1ac17f4942ca2cf7550aa2145c5425f42a02d55ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Punainen Risti markkinoi SOS-passia – potilaan tiedot voivat pelastaa hengen hätätilanteessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-29T06:46:00+03:00",
       "urls": [
         {
@@ -837,21 +805,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T05:28:27Z",
-      "urls": [
-        {
-          "sign": "e65248186c4932abee0ba407fb8ba57fdfe0d97e177edabfba4937e0b2876234",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin hallinto aikoo lopettaa Medicare-lääkkeiden liittovaltion tuet yli 65‑vuotiaille joulukuussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-29T08:31:00+03:00",
@@ -4686,7 +4639,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-30T11:09:00+03:00",
+      "updated": "2026-07-30T11:17:00+03:00",
       "urls": [
         {
           "sign": "2ddacae9b1020ed92dca45c89bc78e37ba66e26ea0a81bb7fda535f39755ada9",
@@ -5502,7 +5455,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-30T10:48:00+03:00",
+      "updated": "2026-07-30T11:18:00+03:00",
       "urls": [
         {
           "sign": "4274ac88b596cd374d339ee1c1043a5e8dee84615448b2424379faed4e51f22e",
@@ -5511,7 +5464,7 @@
           ]
         }
       ],
-      "title": "Suomen talouskasvu jatkuu yllättävän vahvana – ennusteet lupaavat jopa kahden prosentin kasvua vuonna 2024",
+      "title": "Suomen talouskasvu yllättävän vahvaa – ennusteet viittaavat jopa kahden prosentin vuosikasvuun",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5699,7 +5652,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-30T06:00:24Z",
+      "updated": "2026-07-30T08:21:25Z",
       "urls": [
         {
           "sign": "443f0ff1148bc20cf69dfcff4a9225daf9beeb901d75397cbc6a3625000930a4",
@@ -5708,7 +5661,7 @@
           ]
         }
       ],
-      "title": "Venäjän iskut Ukrainaan aiheuttivat pamauksia Itä-Puolassa",
+      "title": "Tusk kertoo Venäjän iskujen loukanneen Puolan ilmatilaa – pamauksia kuultiin Itä-Puolassa",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6454,6 +6407,51 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-30T08:17:24Z",
+      "urls": [
+        {
+          "sign": "03ff56ff83d945376892929b5583acc2a32763caead01c654685d7ef5e299645",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helteessä Saksassa on kuollut lähes 10 000 ihmistä – suurin osa yli 75-vuotiaita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-30T11:18:00+03:00",
+      "urls": [
+        {
+          "sign": "49c1f3ea46e9ccfc3493369e129947b3d6ec49282f70aeaa28e2e55a885de1c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HSL totesi ympäristöbonusjärjestelmänsä tehottomaksi ja lopettaa sen 2026 alussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-30T10:27:00+03:00",
+      "urls": [
+        {
+          "sign": "25617640e3b2868dd58a51707a3387be58b0e50652f01418ff696f083fc69b16",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan Blues Union valitsi Helge Tallqvistin ensimmäiseksi suomalaisaksi Euroopan Blues Hall of Fameen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
