@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T02:13:21Z",
+  "updated": "2026-07-31T02:20:20Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -437,21 +437,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T13:53:51Z",
-      "urls": [
-        {
-          "sign": "2d447c50601e688bad7e173f49540fd2979aa805045ed5df9124d95ddf870b30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Varkaat veivät traktoreiden laitteita ja teräsputkia yli 60 000 euron edestä Etelä-Pohjanmaalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-29T14:01:00Z",
@@ -6471,7 +6456,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-31T05:00:00+03:00",
+      "updated": "2026-07-31T05:20:00+03:00",
       "urls": [
         {
           "sign": "e2e7aea850ffea875ffad69995cf8bc32b1cd70d67e366e4b70bcfff6b1f487c",
@@ -6480,10 +6465,25 @@
           ]
         }
       ],
-      "title": "Ilmatieteen laitos varoittaa perjantain ukkosista: mahdollisia voimakkaita sateita, tuulipuuskia ja sähkökatkoja",
+      "title": "Ilmatieteen laitos ennustaa perjantaille ukkoskauden salamarikkain päivää – varoituksia voimakkaista sateista ja tuulista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-31T02:20:20Z",
+      "urls": [
+        {
+          "sign": "627f36c9986b24993ccc72b1d8f113d9d4e3cf5cb2f9fbe7b41601ecccb58eb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hamas vahvistaa sopimuksen konfliktin lopettamiseksi Israelin kanssa ja odottaa takaajien sekä Trumpin rauhanneuvoston varmistavan noudattamisen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
