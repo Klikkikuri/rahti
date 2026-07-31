@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T21:28:00+03:00",
+  "updated": "2026-07-31T18:41:56Z",
   "entries": [
     {
       "updated": "2026-07-31T12:14:55Z",
@@ -439,21 +439,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-30T14:56:00+03:00",
-      "urls": [
-        {
-          "sign": "aa66ff542d17eb758369da5e657d520ad42eee2cef8640b167364269988c8d19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pitbullin konsertti peruttu Riiassa – suomalaiset fanit juhlivat kadulla letkajenkkaa tekokaljuissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-30T15:00:00+03:00",
       "urls": [
         {
@@ -711,21 +696,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T14:45:26Z",
-      "urls": [
-        {
-          "sign": "ee3a689582034227c0afd166c5c23831f2cafc697704bff34823690eec7b4db0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tekninen vika keskeytti Ylen uutislähetyksen torstaina ennen kello viittä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-30T14:48:32Z",
@@ -2289,36 +2259,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T04:34:21Z",
-      "urls": [
-        {
-          "sign": "84999a7980b2c4046e9f95e6fc8e2e25a9da204a462ed8e8f0bbd590db194d28",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Janni Hussi kertoo liikuttuneensa pienen tytön kolmesta tunnista odottaneen fanin kohtaamisesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-31T04:35:50Z",
-      "urls": [
-        {
-          "sign": "8a59a789b8f55f2006b728d8586777e3a1203397aab675ac4095cc52d9b48787",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Christian Forss muistelee Jani Wickholmin kuolemaa: \"Sydän valahti\".",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T04:55:30Z",
@@ -6454,6 +6394,66 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T18:37:40Z",
+      "urls": [
+        {
+          "sign": "14d518265c129886b35fec55afbc96d54b64fb49dc0e7e57ce603d49b0de7091",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Irina Shayk seurustelee NBA-tähti Devin Bookerin kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T18:41:56Z",
+      "urls": [
+        {
+          "sign": "84a97ce80e9d16a8b302dd2b7684f78a994d5516209684141968fc01e6f8d423",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eurooppaa uhkaavat voimakkaat ukkoset viikonloppuna, Suomi nauttii lämpimästä kesäsäästä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T21:41:00+03:00",
+      "urls": [
+        {
+          "sign": "d7b32b02c3d93ef33b950b93d5db1b09cb1e05d94ae38bb8e13dfddbf55c5f30",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Simon Afram vaatii Netflixiltä 105 miljoonan dollarin korvauksia kadonneesta Fortitude -elokuvasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-31T18:30:03Z",
+      "urls": [
+        {
+          "sign": "ce5d642bd65c5842fcf1e76b62f68b6baf6e0fd2c75d011afd7fef5c782aff0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Geenitutkimus tunnisti suomalaisen veteraani Armes Henry Lahti Oregonin metsästä löytyneiden jäänteiden perusteella 2025",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
