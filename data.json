@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T17:54:04Z",
+  "updated": "2026-07-31T18:09:33Z",
   "entries": [
     {
       "updated": "2026-07-31T12:14:55Z",
@@ -619,21 +619,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T13:35:00Z",
-      "urls": [
-        {
-          "sign": "9b61e4a2d9720a3713ca7a5b3da888243ab91abeef2ddd67eac6e5c6cf72ca30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ford ja Aramark selvittävät kioskien maksuvirheitä työntekijöiden irtisanomisten jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-30T13:42:09Z",
@@ -2231,21 +2216,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-31T04:03:38Z",
-      "urls": [
-        {
-          "sign": "bb3c2db75aa45266781e0895a18542f3b060cc6bdea88bb74733ef7a9739e692",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Real Madrid hankki Carlos Espíä Levantesta 25 miljoonan euron siirrolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-31T07:50:13Z",
       "urls": [
         {
@@ -2258,23 +2228,6 @@
       "title": "Nepalilainen vuorikiipeilijä Nirmal Purja on kateissa lumivyöryssä Pakistanissa – etsinnöissä löydetty useita ruumiita",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-31T04:00:12Z",
-      "urls": [
-        {
-          "sign": "d2396ade2e07120ba9ca86ec3df790a3670a14dc01e9b84e491a31ddbad4eca4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -6456,6 +6409,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T18:00:00Z",
+      "urls": [
+        {
+          "sign": "5612cb75970edafaab530d756ca56487663bcd1931cfa241d15d899acaacfa40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU varoittaa metsäpalojen leviämisestä Portugaliasta ja Espanjasta laajalle Eurooppaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T17:57:43Z",
+      "urls": [
+        {
+          "sign": "189cbfb1085bce444276e306084761f8d5cd91960cab65243cf5d6b451cb4f0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SpaceX:n Falcon 9 -yläaste törmää Kuuhun ensi keskiviikkona",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-31T18:09:33Z",
+      "urls": [
+        {
+          "sign": "07eb360958604ae041b4a17642b5fec8624ee3fc246ef788138a5ca2f3ca3212",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lotta Harala ilmoittaa lopettavansa urheilu-uransa kauden 2026 jälkeen – työstää elämäkertaa ja harkitsee valmentamista",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
