@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T04:13:47Z",
+  "updated": "2026-07-31T04:28:49Z",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -439,21 +439,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-29T15:38:07Z",
-      "urls": [
-        {
-          "sign": "49698407c057dbb823f3d8962f5f50777d01803eea0c267629e1ea0de9dae1fd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Omakotiliitto tukee kaksoiskuntalaisuutta ja vaatii uutta selvitystä – näkee sen vahvistavan kuntien elinvoimaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-29T21:17:00+03:00",
       "urls": [
         {
@@ -529,23 +514,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-29T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "43fbb0bf40c95d16a8f50b203037cb5cdf5ad2a56d097c52b81313d6d49fa943",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-29T21:45:00+03:00",
       "urls": [
         {
@@ -558,23 +526,6 @@
       "title": "Kreikan ja Turkin maastopalot vaatineet pelastajien henkiä – Lesbokselta evakuoitu ruotsalaisia ja norjalaisia",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-29T20:03:00+03:00",
-      "urls": [
-        {
-          "sign": "86e6513b468de8e8d771d2a1aaa3d630d64bddf4d7fae62dea704400b4750428",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5814,7 +5765,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-31T01:45:00+03:00",
+      "updated": "2026-07-31T07:15:00+03:00",
       "urls": [
         {
           "sign": "db4d3215d77f361f0c3b9b4038461237d87b724fbeaca042882e106afe885dac",
@@ -5823,7 +5774,7 @@
           ]
         }
       ],
-      "title": "Espanja lähettää sotilaita Ceutaan vahvistamaan rajavalvontaa siirtolaisvyöryssä",
+      "title": "Espanja vahvistaa Ceutan rajavalvontaa sotilailla siirtolaisvyöryn jälkeen Marokosta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6499,6 +6450,51 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T07:21:00+03:00",
+      "urls": [
+        {
+          "sign": "a967d67cbaea02b362d6585026003be288abc9847502c04093fed4bae2b577a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastusjoukot löysivät kadonneen tytön kuolleena veneturman jälkeen Ruotsin Tjörnin edustalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-31T04:28:49Z",
+      "urls": [
+        {
+          "sign": "bdafd10f2b8233d8d86ff898ec3e4d4b9093bfd9e384ce8c91a8ccab74e6d9c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Färjestad purki Cal Footen sopimuksen vastareaktion vuoksi kaksi päivää julkistamisen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-31T07:20:00+03:00",
+      "urls": [
+        {
+          "sign": "aeab0234df4d79f9b01ae131c02858d0e9f6f400220013a37d8d6c9a81a5015f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen ohjus putosi Puolan maaperälle – viranomaiset tutkivat tapausta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
