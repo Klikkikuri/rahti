@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T08:39:37Z",
+  "updated": "2026-07-31T11:59:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T15:00:41Z",
@@ -486,23 +486,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-30T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "08c4898e516d5c4da9d8f16b0a0712ef93454c2583c6c58921476a4e2111611f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-30T17:00:00+03:00",
       "urls": [
         {
@@ -638,21 +621,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T05:09:25Z",
-      "urls": [
-        {
-          "sign": "97178a00aeb4acfacf1bdf23c6dd478341735a49d1b22b81f3afbf61dde96a60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ogier uskoo vielä mahdollisuuteen kymmenenteen MM-titteliinsä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-30T13:17:00+03:00",
@@ -835,36 +803,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-30T06:46:47Z",
-      "urls": [
-        {
-          "sign": "49b40b66bea3cf9ae84ad85ab574e84fe524bd74875b576bf3bee02ffda0967a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskalaisopiskelija sai 600 Singaporen dollarin sakon nuoltuaan mehupillin ja palautettuaan sen automaattiin Singaporessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-30T06:47:02Z",
-      "urls": [
-        {
-          "sign": "1bee4834a49815827ec24c26a5b3ffa78ffdbe4ed9300305e2b02bffe1950c5e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä sai uutta tietoa kolmen kehitysvammaisen kaltoinkohteluepäilystä Kajaanissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-30T07:12:48Z",
@@ -2304,21 +2242,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-07-30T13:02:02Z",
-      "urls": [
-        {
-          "sign": "dfd656c770c0463adcc1a812b9dc9eb65c5f87b6ae4e9b663c8afcdfbde90f81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "George ja Amal Clooney evakuoituivat Brignolesista Ranskan maastopalojen takia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-30T13:12:41Z",
       "urls": [
         {
@@ -2379,21 +2302,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T13:02:12Z",
-      "urls": [
-        {
-          "sign": "d5d441d6ea82ab5612c5726963c74a9115b534f1176f01e46c96b4c7fa2999f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi sai valmiiksi esitutkinnan laajasta salakuvausvyyhdistä kouluissa ja yksityistilaisuuksissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-30T13:05:41Z",
@@ -4486,7 +4394,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-31T11:28:00+03:00",
+      "updated": "2026-07-31T11:59:00+03:00",
       "urls": [
         {
           "sign": "db4d3215d77f361f0c3b9b4038461237d87b724fbeaca042882e106afe885dac",
@@ -4495,7 +4403,7 @@
           ]
         }
       ],
-      "title": "Espanja vahvistaa Ceutan rajavalvontaa sotilailla yli 40 000 marokkolaisen saapumisen jälkeen",
+      "title": "Yli 40 000 ihmistä on tunkeutunut Ceutaan Marokosta – Espanja lähettää sotilaita rajavalvonnan vahvistamiseksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6470,6 +6378,96 @@
         }
       ],
       "title": "Lidl nosti suosikkikahvinsa hintaa 200 prosenttia – myynti laski hieman",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T08:46:20Z",
+      "urls": [
+        {
+          "sign": "4b6c078f1d265778b956ecece39a7b6473c612973068e67e9f2f432e1f2b0119",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "23-vuotias Tino Keväänranta debytoi Soketin kanssa Kuninkuusraveissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T11:45:00+03:00",
+      "urls": [
+        {
+          "sign": "d8f586d4170d2c2dcc3638e54ba603d4a0b3be7b75fd3ba3d29aed6d4d175d0b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itähelsinkiläinen vanhempi kertoo, että koulun maahanmuuttajataustaiset oppilaat eivät heikentäneet lasten oppimistuloksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-31T08:53:55Z",
+      "urls": [
+        {
+          "sign": "496b43701f1e4eb108ee9b0100d488685fbfc0b9d4fcc47cb852cdc3dc81d97f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin viranomaiset pidättivät norjalaisen rahtilaivan kapteenin huviveneen törmäyksen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T08:52:34Z",
+      "urls": [
+        {
+          "sign": "a606ffa28d70cc92efed83a469fe8c27e3080ceda988a0ccc1a1cda8ca6d8727",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Afrikkalainen sikarutto löytyi villisioista Virolahdessa – ensimmäinen tapaus Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T08:45:25Z",
+      "urls": [
+        {
+          "sign": "cbf5295570bb1eb78c7e6bf4ba5189e24f7539ddd1e111b53403c1991ebd4c95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sisäministeri Rantanen: Espanja on epäonnistunut Schengen-alueen ulkorajan suojelussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-31T08:55:10Z",
+      "urls": [
+        {
+          "sign": "5657ea2e5e0a0c94171ccf0a64be0ea73899d6ad0e01da99bb6b2a7f23e032bf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marc Cucurella pelaa hiukset auki, jotta hänen autistinen poikansa erottaa hänet kentältä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
