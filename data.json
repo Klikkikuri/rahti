@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T20:05:56Z",
+  "updated": "2026-07-31T20:30:12Z",
   "entries": [
     {
       "updated": "2026-07-31T12:14:55Z",
@@ -668,21 +668,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T15:00:29Z",
-      "urls": [
-        {
-          "sign": "2631cdb3e02b124524cf56e0058ee0f79400ad7b2c100013272d0cca7de7bb19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Unesco liitti Alvar Aallon suunnittelemat putkat Seinäjoen Aalto-keskuksessa maailmanperintöluetteloon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-30T18:00:00+03:00",
@@ -2580,21 +2565,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-31T06:54:25Z",
-      "urls": [
-        {
-          "sign": "082f1e6a487072971988b6be5a1e91b79acdb3791d9bc3825183e116111cca74",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ympäristökeskus ja Merivoimat poistivat 60 000 litraa öljyä Ilmarisen hylystä Utön edustalta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-07-31T09:56:00+03:00",
       "urls": [
         {
@@ -2730,21 +2700,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T07:19:10Z",
-      "urls": [
-        {
-          "sign": "82169be7cd605b013ebefa2d37483f1f020fd4b63db9b4b63e2f6fdde3390f2c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Teemu Suninen myöntää kisatahdin olevan uuvuttavaa ja tavoittelee Suomen rallissa kolmen joukkoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T07:22:32Z",
@@ -6451,6 +6406,51 @@
         }
       ],
       "title": "SpaceX:n Falcon 9 -raketin yläosa törmää Kuuhun 5. elokuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T20:16:36Z",
+      "urls": [
+        {
+          "sign": "c80b532ebb85f9e0a46f3c0eb9099f6194b410df41c9222adb5cf542aa894cb8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain merijalkaväen F-35B-hävittäjä putosi San Diegossa – lentäjä pelastautui heittoistuimella",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T20:30:12Z",
+      "urls": [
+        {
+          "sign": "79aa620596dded3cd0a55ab672c5dbd11581615b452b713c2159b42a30feab26",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan maiden johtajat vaativat välitöntä ja koordinoitua vastausta Ceutan siirtolaistilanteeseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T20:25:08Z",
+      "urls": [
+        {
+          "sign": "10f7cd2d3de9a24b070abbb3a8b60e438dbfc54b1a682f276d6673260ed7e49a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin ehdotukset Venäjä-pakotteisiin voivat vaikeuttaa Ukrainan tukemista USA:ssa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
