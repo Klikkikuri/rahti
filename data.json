@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T17:41:44Z",
+  "updated": "2026-07-31T17:54:04Z",
   "entries": [
     {
       "updated": "2026-07-31T12:14:55Z",
@@ -439,23 +439,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-30T14:23:00+03:00",
-      "urls": [
-        {
-          "sign": "b64109c4b492594ee737686fb918d3ccbe06ce8f97d52bc055cbd289c05817e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-30T14:41:00+03:00",
       "urls": [
         {
@@ -698,36 +681,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-30T14:11:04Z",
-      "urls": [
-        {
-          "sign": "69c648f280dc2efe1161ca98e4df4af73a9f59aebcb0c11b5dcd5a8a97a0f537",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto totesi afrikkalaisen sikaruton villisioissa Virolahdella – ensimmäinen tapaus Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-30T14:03:27Z",
-      "urls": [
-        {
-          "sign": "26a20f370162dbbb0cf4daf1433f7bde45d84369e03f08a871387addbb55a908",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija Vanhanen arvostelee Hegsethin testosteronitestisuunnitelmaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-30T17:01:00+03:00",
       "urls": [
         {
@@ -786,21 +739,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T14:30:44Z",
-      "urls": [
-        {
-          "sign": "eed0e3bca2c82942144c5f62ebe92538539678a91f9badd3ab4fc87b2d9cd721",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Veteraaniheittäjät Rinne ja Yli-Hallila tähtäävät MM-kisoihin Etelä-Koreassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-30T17:45:00+03:00",
@@ -2184,21 +2122,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-31T03:38:55Z",
-      "urls": [
-        {
-          "sign": "57ed95e3bf4ee906b632fe46632c4cb60559609008c98d61ea0f0ae8220b6017",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asukkaat vastustavat Helsingin koulurajamuutoksia – pelkäävät yhteisön hajoamista ja pitkiä koulumatkoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T03:40:00Z",
@@ -6458,6 +6381,81 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-07-31T17:51:18Z",
+      "urls": [
+        {
+          "sign": "93d54a7b0b410717ad491f9e169c02a0445012a2b5c15ca7279341bf16de71e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jenni Karjalainen voitti Miss International Finland -kilpailun ja lähtee edustamaan Suomea Tokiossa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T20:49:00+03:00",
+      "urls": [
+        {
+          "sign": "c979afb6128de6deba003c84f65d56b6f6411dca1d864029ea176e7cf5789e30",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yli 50 000 siirtolaista pyrki Ceutaan – Espanja sulki Melillan rajan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-31T17:52:58Z",
+      "urls": [
+        {
+          "sign": "ca745d0fbcd81653e57f866fe98ca40425c1f91284152d88855e58c20e08d5f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Neljä yhdysvaltalaista perhettä haastoi Metaa, TikTokia, Snapchatia ja YouTubea oikeuteen lastensa itsemurhien vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T17:54:04Z",
+      "urls": [
+        {
+          "sign": "8a82f3720a7a9079098f6258edec160134941cb7739a7bbbbba63766b4eb212a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rantanen valmistelee sisärajatarkastusten palauttamista Ceuta-tilanteen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T17:53:37Z",
+      "urls": [
+        {
+          "sign": "9d24b396465f6d86bb292e29ebca3a41d89bf70e42a6819d3d919c0d6a1da855",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "The task is to produce a headline in Finnish. I'll output just the headline string. No extra commentary. I'll ensure it follows the rules. Final answer: Komiat-ilmiö, sosiaalinen media vetävät nuoria lavatanssiin – Valasrannan leirillä nuorimmat 14-vuotiaita}Komiat-ilmiö, sosiaalinen media vetävät nuoria lavatanssiin – Valasrannan leirillä nuorimmat 14-vuotiaita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
