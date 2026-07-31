@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-30T23:55:59Z",
+  "updated": "2026-07-31T03:07:00+03:00",
   "entries": [
     {
       "updated": "2026-07-10T08:26:48Z",
@@ -664,23 +664,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-29T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "41a4002ba5d13dd2e486d63f70665b353d8225697ab2441b7edd703838eef561",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-29T19:29:00+03:00",
       "urls": [
         {
@@ -861,21 +844,6 @@
       ],
       "title": "Yhdysvaltain keskuspankki Fed pitää ohjauskoronsa ennallaan",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-29T18:00:38Z",
-      "urls": [
-        {
-          "sign": "d17eb634ba6caab8638b0972854379b49d7d2c80b5308a24ec8518f29dac41ef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus määräsi Kuopion taloyhtiön uimaportaat purettavaksi – yhdenvertaisuusperiaate loukattu",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -6486,6 +6454,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-07-31T00:02:12Z",
+      "urls": [
+        {
+          "sign": "f3a0943a2cbcef5c34a32f8defecfe3e1c612dd1ed41e442c021206770414088",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Amazonin nettotulos yli kolminkertaistui huhti–kesäkuussa pilvipalveluiden ja tekoälyn kasvun myötä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-07-31T03:07:00+03:00",
+      "urls": [
+        {
+          "sign": "e986cd6c42fd25f852c74ece9f3bf86f231fe966b49000e8d7935c2a33c37a19",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi poikaa löysi ammuksen magneettikalastuksessa Joensuun satamassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
