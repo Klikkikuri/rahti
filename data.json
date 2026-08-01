@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T19:50:10Z",
+  "updated": "2026-08-01T20:20:16Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -484,21 +484,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-31T11:36:59Z",
-      "urls": [
-        {
-          "sign": "9a1de428e1bbc2dba5fece98a00978a1007324ed594c4211e68a70b3d237120b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ari Puroaho huipensi vuoden punnerrushaasteen tänään 365 punnerruksella Vantaan Korsossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-31T19:37:00+03:00",
       "urls": [
         {
@@ -527,21 +512,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-31T08:46:20Z",
-      "urls": [
-        {
-          "sign": "4b6c078f1d265778b956ecece39a7b6473c612973068e67e9f2f432e1f2b0119",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "23-vuotias Tino Keväänranta debytoi Soketin kanssa Kuninkuusraveissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-31T08:53:55Z",
@@ -692,23 +662,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T13:00:00+03:00",
-      "urls": [
-        {
-          "sign": "547571542186214b7541fcc3aec9ad2cde1ccbd55b856654da7a7882524bff42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-31T10:04:39Z",
@@ -3005,21 +2958,6 @@
         }
       ],
       "title": "Mykhailo Mudryk voi palata peleihin heti dopingrikkomuksen tunnustamisen jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-01T05:34:48Z",
-      "urls": [
-        {
-          "sign": "f8ae5834f35495435daa1957c379330e3244ac5714ebcf262eeefef61456abea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tori.fi:n tietojen mukaan marjojen myynti kasvoi yli 50 prosenttia tänä kesänä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6499,6 +6437,66 @@
       ],
       "title": "Turistilentokone putosi Nazcan linjojen yllä Perussa – useita kuoli",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-01T19:47:13Z",
+      "urls": [
+        {
+          "sign": "9579fbf2c78e589b4942a039b5f84f6dbbd3ff2f162642d908af8491ce4013e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turistikone syöksyi maahan Perussa – useita kuollut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-01T20:15:42Z",
+      "urls": [
+        {
+          "sign": "082921f737c5a2e4e621b83d4f57108239b6bfa03ee5516b75905f91942cd7ca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain ulkoministeriön kartta sijoitti Afrikan maat vääriin paikkoihin Aids 2026 -konferenssissa Rio de Janeirossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T23:17:00+03:00",
+      "urls": [
+        {
+          "sign": "26e04bf7e25cadfe2c22e147091c7fcb265f7f14b99b53dce6cadb14bc282f2a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turistilentokone syöksyi maahan Nazcan linjojen lähellä Perussa lauantaina – ei selviytyjiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-01T20:20:16Z",
+      "urls": [
+        {
+          "sign": "aee38d6372f7c85701fde0ff698f557c428764c60e08347570d308318bef2bcb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Sebastien Lecornu sanoo Ranskan maastopalot olevan hallinnassa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
