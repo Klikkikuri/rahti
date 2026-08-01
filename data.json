@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-07-31T23:03:03Z",
+  "updated": "2026-07-31T23:55:13Z",
   "entries": [
     {
       "updated": "2026-07-31T23:03:03Z",
@@ -486,21 +486,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T15:25:23Z",
-      "urls": [
-        {
-          "sign": "af5f6ea9dc9c43feac4b86a40e0384680a45e1d3023ef8691acd294436f35f1c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uefa aikoo boikotoida MM-kisoja Fifan sijoitusosuuksien myynnin vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-30T15:20:00Z",
@@ -6466,6 +6451,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-07-31T23:55:13Z",
+      "urls": [
+        {
+          "sign": "3e0d5f2bc9d67305e4b66212b4a990f871d0cc76c20a873074fb1b0602f6f98c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sosiaali- ja terveysministeriö laajentaa vesirokkorokotuksen aikuisille tänään",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
