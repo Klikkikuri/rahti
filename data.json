@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T00:29:23Z",
+  "updated": "2026-08-01T00:42:14Z",
   "entries": [
     {
       "updated": "2026-07-31T23:03:03Z",
@@ -486,21 +486,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-30T15:34:12Z",
-      "urls": [
-        {
-          "sign": "213e7b558926f865180aa8eebdfaa0e3522033cdbee9e7582f547d1e78826e4f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "ABC:n mukaan FCC uhkaa peruuttaa lähetyslisenssit pelotellakseen mediaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-30T15:26:44Z",
@@ -6466,6 +6451,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T00:42:14Z",
+      "urls": [
+        {
+          "sign": "51753e093c85d0c19967dd3ac79aa9f30158b7a24d21250863c539013f1b5eb8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tulipalo syttyi Pyhän Vasilin katedraalissa Moskovan Punaisella torilla lauantaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
