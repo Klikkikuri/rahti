@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T12:27:00+03:00",
+  "updated": "2026-08-01T12:45:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T07:27:44Z",
@@ -437,36 +437,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-07-30T21:40:49Z",
-      "urls": [
-        {
-          "sign": "c3ad0d69ffbf5caf09b239f1f84658764ec39ef84dcde21f75cab02457bc9cf7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi löysi kadonneen tytön kuolleena Ruotsin veneonnettomuuden jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-30T22:08:45Z",
-      "urls": [
-        {
-          "sign": "142619f9956628a2cf9a5eedae770d1fb4497db7f2d3b303bb6e555c93c4a0b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Applen huhti–kesäkuun tulos ylitti odotukset, osake laski jälkipörssissä ja Tim Cook väistyy toimitusjohtajan paikalta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-31T20:33:00+03:00",
@@ -2724,21 +2694,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-31T13:05:40Z",
-      "urls": [
-        {
-          "sign": "b82d0b8cd06177c2299fadcb0c05eeef7ed00d2e4c32505850ad869691f41833",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotta Harala lopettaa urheilu-uransa kuluvan kauden jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T13:06:26Z",
@@ -5333,7 +5288,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-01T09:11:23Z",
+      "updated": "2026-08-01T09:44:25Z",
       "urls": [
         {
           "sign": "33b94cde5968c6b171447982c5dea40b04d22568442183f0b1eba761216daab1",
@@ -5342,7 +5297,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari kolmantena Jyväskylän MM-rallissa – Ogier johtaa 26,7 sekunnin erolla",
+      "title": "Sami Pajari jahtaa Ogieria Jyväskylän MM-rallissa – ero 26,7 sekuntia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6384,7 +6339,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-01T12:23:00+03:00",
+      "updated": "2026-08-01T12:45:00+03:00",
       "urls": [
         {
           "sign": "5c181aef58edcae40a1f452308ec1d1b40795967dcf9e098ce42a6d59a64359c",
@@ -6472,6 +6427,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T09:35:43Z",
+      "urls": [
+        {
+          "sign": "2b02cdd12225f6e2ec4b3ee9719573d64234d4f92b618429a5b0f9a67aa1356c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Orpo vaatii EU:lta nopeaa toimintaa Ceutan tilanteeseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T09:42:19Z",
+      "urls": [
+        {
+          "sign": "b93bbd4eacfee1f6c6bdec38ac055f4c0314615d8d7b1d4fd286270d64abda11",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tarratoimikunnan aktivisti liimasi itsetyydytystä käsittelevän tarran tytön selkään Suviseuroissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-01T09:35:55Z",
+      "urls": [
+        {
+          "sign": "10ffdb5e83c6e3eacf3bcf54b80118f64bed387d617e8160a1f663f6969ea8ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset vahvistavat kymmenien siirtolaisten kuolleen Ceutan rajanylityksessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
