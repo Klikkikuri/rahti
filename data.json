@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T07:27:53Z",
+  "updated": "2026-08-01T07:39:29Z",
   "entries": [
     {
       "updated": "2026-08-01T07:27:44Z",
@@ -428,23 +428,6 @@
       "urls": [
         {
           "sign": "44e6b295289833c40eb0de47cdefd43a2acdb06a1b69741772299c4ad42db493",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "98de1700a72075e608e08ec574179c71257d1111c380e7c5d6511f6bdb02f764",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -2730,21 +2713,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T11:10:02Z",
-      "urls": [
-        {
-          "sign": "a42fa303998422a650cf7204863ebfbb3d9ba71b576c563af443a068e23e4cf1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kerrostetut korut tekevät paluuta muotiin – yhdistele eri pituisia ketjuja, rannekkeita ja sormuksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T11:09:48Z",
@@ -5635,7 +5603,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-01T03:36:41Z",
+      "updated": "2026-08-01T07:31:56Z",
       "urls": [
         {
           "sign": "09fd90dbf79e45d695fec32eecad93b3d4de48ec61c548006fa4d05bbff4f7c3",
@@ -5644,7 +5612,7 @@
           ]
         }
       ],
-      "title": "Venäjän ohjusisku tappoi useita ihmisiä Kiovassa yöllä",
+      "title": "Venäjän ohjusisku yöllä Kiovassa tappoi ja haavoitti ihmisiä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -5834,7 +5802,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-01T07:16:24Z",
+      "updated": "2026-08-01T07:37:02Z",
       "urls": [
         {
           "sign": "33b94cde5968c6b171447982c5dea40b04d22568442183f0b1eba761216daab1",
@@ -5843,7 +5811,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari ajaa kolmantena Jyväskylän MM-rallissa, Ogier kärjessä 26,7 sekunnin erolla",
+      "title": "Sami Pajari jatkaa kolmantena Jyväskylän MM-rallissa, Ogier johtaa 26,7 sekunnin erolla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6455,6 +6423,38 @@
       ],
       "title": "Sisäministeri Mari Rantanen käynnistää valmistelun sisärajatarkastusten palauttamiseksi",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T10:30:00+03:00",
+      "urls": [
+        {
+          "sign": "cf30ce073bc74db1cdfb303c83bf5f24e75d99467464bc0d9820243777554cbc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-01T07:39:29Z",
+      "urls": [
+        {
+          "sign": "5a69b503a60c620e57f3fc19c963c5058ba539c4e9164df615f7dfced938f99f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän hyökkäys Suomeen voisi saada tukea Iranilta, Pohjois-Korealta ja Kiinalta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
