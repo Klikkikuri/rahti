@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T07:39:29Z",
+  "updated": "2026-08-01T07:54:59Z",
   "entries": [
     {
       "updated": "2026-08-01T07:27:44Z",
@@ -421,23 +421,6 @@
       "title": "Emily Wilson kritisoi Christopher Nolania Odysseus-elokuvasta – Joyce Carol Oates puolustaa ohjaajaa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-30T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "44e6b295289833c40eb0de47cdefd43a2acdb06a1b69741772299c4ad42db493",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -2788,21 +2771,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T11:22:26Z",
-      "urls": [
-        {
-          "sign": "e09144af194709a8c1898acb12983e6079fe8afd693d1652374b476bffcfa641",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi löysi Puumalan sillalta hypänneen miehen kuolleena Saimaasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T11:20:56Z",
@@ -5802,7 +5770,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-01T07:37:02Z",
+      "updated": "2026-08-01T07:54:59Z",
       "urls": [
         {
           "sign": "33b94cde5968c6b171447982c5dea40b04d22568442183f0b1eba761216daab1",
@@ -6457,6 +6425,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T07:49:37Z",
+      "urls": [
+        {
+          "sign": "2b8274e9445b07421b169fca4b206bfa98eebb9348610566387f4364b284d317",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastajat vapauttivat joutsenpoikasen siimasta Joensuussa – vanhemmat ensin uhkailivat, sitten kiittivät",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T10:53:00+03:00",
+      "urls": [
+        {
+          "sign": "6902291f1ded49d0ea43b5f6c27d8f21b6e3969df5890ddde52416c809825a4e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Latvia sulki Valko-Venäjän vastaisen rajansa teknisistä syistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
