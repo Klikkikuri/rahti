@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T10:14:52Z",
+  "updated": "2026-08-01T10:28:57Z",
   "entries": [
     {
       "updated": "2026-08-01T07:27:44Z",
@@ -454,40 +454,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-31T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "5723eaeb2d63d443c13cfc9ae799b434132c8fde76206e4ea34d307e775ff37f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-31T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "087b31ad979ad030cf0316b07176093d54ee4be825b97cf85be8b1dc71b78ea5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-31T07:45:00+03:00",
       "urls": [
         {
@@ -546,21 +512,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-31T02:30:35Z",
-      "urls": [
-        {
-          "sign": "4dd225e68591877fc160741a857c9b6494a37c21022ba266812ec9952a0b7a16",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi eläinten hyvinvointilaki aiheuttaa aasipulan Suomessa – tuonti ulkomailta kasvaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-31T02:43:02Z",
@@ -1563,21 +1514,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-31T14:00:13Z",
-      "urls": [
-        {
-          "sign": "d00a0ac9fe5c1118445b748c99d4c13aeab0d52550a60ea35c14f58202ee0d88",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen ministerit tukevat Melonin ehdotusta Espanjan tilapäisestä Schengen-erottamisesta Ceutan tilanteen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T12:33:29Z",
@@ -2818,21 +2754,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T14:06:19Z",
-      "urls": [
-        {
-          "sign": "314fdf555f31ad3399373bc097e4f779c0dd27d88e175e07fd6bbd67de78f191",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi maantietovisa testaa maailman tuntemusta – kymmenen kuvaa, neljä vaihtoehtoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-31T14:08:46Z",
@@ -6219,7 +6140,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-01T13:04:00+03:00",
+      "updated": "2026-08-01T13:25:00+03:00",
       "urls": [
         {
           "sign": "5c181aef58edcae40a1f452308ec1d1b40795967dcf9e098ce42a6d59a64359c",
@@ -6472,6 +6393,85 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-01T10:28:57Z",
+      "urls": [
+        {
+          "sign": "d1dd363f7e71091876efe7250ac63a9aa41eb8de8a52d37d95462ae6c5a74ad5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan sisäministeri: historiallisen suuri maastopalo Bordeaux'n lähellä hallinnassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-01T13:28:00+03:00",
+      "urls": [
+        {
+          "sign": "a7684c937f9613649fbc37a69a2bfaa0e9f5afab227576fdb9afa5953ba37396",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-01T10:19:26Z",
+      "urls": [
+        {
+          "sign": "18a9798b649c3eb3e5e36c68e945a2deb47f8119a177f0d5684ea16e85aa4346",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-01T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "bd14516f4efe8e4d9730b8565ea78a497076cdc3a7ea09fc101acf6513305195",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuluttajat: Suomalaisten mansikoiden laatu ja säilyvyys ovat heikentyneet",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-01T10:21:50Z",
+      "urls": [
+        {
+          "sign": "93008afa1816bca440f47c52325e50d407819d43432902f56363666b4f6bdc45",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äidin vaahtokarkkien paisto aiheutti 3-vuotiaan pojan hengenvaaralliset palovammat Helsingissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
