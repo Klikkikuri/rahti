@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T04:37:21Z",
+  "updated": "2026-08-01T04:52:24Z",
   "entries": [
     {
       "updated": "2026-08-01T03:21:48Z",
@@ -377,21 +377,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-31T09:05:01Z",
-      "urls": [
-        {
-          "sign": "610c561d2b0b85e30befb4fa1eea1a3582dce30977c38b83c75ebe3b424fef18",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläinen kapteeni pidätetty Ruotsin veneturmassa – epäillään kuolemantuottamuksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -6472,6 +6457,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-01T04:52:24Z",
+      "urls": [
+        {
+          "sign": "43a01de9d3387c228a3ee811ed441612a1ad04518e27543546c7c18d10df262d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brasilian Gabriel Morales antaa ralliohjeita suomeksi Emil Lindholmin kartturina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
