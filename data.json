@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T21:27:18Z",
+  "updated": "2026-08-01T21:39:49Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -2901,25 +2901,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T06:00:03Z",
-      "urls": [
-        {
-          "sign": "83274fd9b7232e59a46ded281234ba528f592fe4b16c287f0a1837d65906930c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "aac5268aae0bd6b1d124499c77917b55bb95042de1b6d6996d5f815892e5b9d9",
-          "labels": []
-        }
-      ],
-      "title": "Tekoäly-yhtiöt ostavat ja tuhoavat vanhoja kirjoja koulutusdataksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T05:45:00Z",
@@ -6499,6 +6480,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-01T21:39:49Z",
+      "urls": [
+        {
+          "sign": "e3d15d6484306608defbbecd4925e19eb3b265a3897db673badc66b7891ff4bc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi sakotti seitsemää MM-rallin kuljettajaa ja määräsi kuudelle väliaikaisen ajokiellon siirtymien ylinopeuksista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
