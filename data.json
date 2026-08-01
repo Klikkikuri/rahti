@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T03:00:15Z",
+  "updated": "2026-08-01T03:21:48Z",
   "entries": [
     {
-      "updated": "2026-08-01T02:14:04Z",
+      "updated": "2026-08-01T03:21:48Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Venäjän isku Kiovaan aiheutti useita kuolonuhreja – Iltalehti seuraa sotaa",
+      "title": "Venäjän isku Kiovaan aiheutti kuolonuhreja – Iltalehti seuraa sotaa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -561,21 +561,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-30T16:08:17Z",
-      "urls": [
-        {
-          "sign": "37eb61253472a31d41a52ecf8d073c8474adc8258f9a301fafbeb9dbd48709b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyväskylän MM-ralli käynnistyi – Rovanperä ajoi näytösajon Corollalla, käsijarru ei toiminut ei toiminut",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-30T22:43:00+03:00",
@@ -6468,6 +6453,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-01T03:15:35Z",
+      "urls": [
+        {
+          "sign": "360c832d4bcc53c3c99b16544b2d38e0af380ed53198eb616d5d942b48c0aa3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin poliisi valvoi ja hääti romaneja yli kymmenen vuoden ajan – MOT paljasti Tarkka-operaation",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
