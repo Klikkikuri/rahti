@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-01T19:13:12Z",
+  "updated": "2026-08-01T19:25:04Z",
   "entries": [
     {
       "updated": "2026-08-01T19:04:40Z",
@@ -966,21 +966,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T11:09:48Z",
-      "urls": [
-        {
-          "sign": "429e6274995a1974e713bd4e239b1c3ad2b967164e2cf3fd62f4fd5bf92e543b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Metsähallitus löysi saimaannorpan kuutin kalaverkkoon kietoutuneena Rantasalmen suojausalueella",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-31T11:26:45Z",
@@ -2796,23 +2781,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-01T03:30:36Z",
-      "urls": [
-        {
-          "sign": "770b18951a2b2402bfffceecdec0e7179f9442227c35be28e76b9c8bd4bb1e0c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T07:00:00+03:00",
@@ -6503,6 +6471,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-01T19:15:36Z",
+      "urls": [
+        {
+          "sign": "4f27e228300aafd94cd0cd145c5e41cd8b16384ad89c58929e13ea37fa4fd9e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lotossa ei täysosumia – ensi viikon potti nousee 4 miljoonaan euroon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-01T19:25:04Z",
+      "urls": [
+        {
+          "sign": "55ff0d3044c6e10e7a26008e8c531bafd78ce1136eccec753a8f0afb4d28296b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chelsea sai 10 miljoonan punnan sakot ja siirtokiellon agenttisääntöjen rikkomisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
