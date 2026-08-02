@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T06:58:42Z",
+  "updated": "2026-08-02T07:12:16Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -409,21 +409,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-31T17:09:00+03:00",
-      "urls": [
-        {
-          "sign": "e2e7aea850ffea875ffad69995cf8bc32b1cd70d67e366e4b70bcfff6b1f487c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukkosmyräkkä ja kaatosade saapuivat Helsinkiin perjantaina iltapäivällä – varoituksia sähkökatkoista ja taajamatulvista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-31T03:00:20Z",
       "urls": [
         {
@@ -512,21 +497,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-31T11:03:24Z",
-      "urls": [
-        {
-          "sign": "569bcb914100b425cc81f61f4068b004569b64cffcd9cb12a3ad9b179d26da1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vähikkälän kyläläiset vaativat turvallisuustakuita ennen ilotulitevaraston laajentamista.",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-31T11:26:45Z",
@@ -2877,23 +2847,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T10:19:26Z",
-      "urls": [
-        {
-          "sign": "18a9798b649c3eb3e5e36c68e945a2deb47f8119a177f0d5684ea16e85aa4346",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T13:15:00+03:00",
@@ -6224,7 +6177,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-02T05:36:07Z",
+      "updated": "2026-08-02T07:09:40Z",
       "urls": [
         {
           "sign": "5f6ae930b74de961feefee792778fb29550a500d6328d86c5b16d40040527ced",
@@ -6233,7 +6186,7 @@
           ]
         }
       ],
-      "title": "Venäjä kertoo torjuneensa yli 600 ukrainalaista droonia yön aikana",
+      "title": "Venäjä torjui yli 600 ukrainalaista droonia yön aikana",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -6526,6 +6479,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T07:10:47Z",
+      "urls": [
+        {
+          "sign": "8fc9e9a6a764acc8604ff6006dc9dc8bcb537de7ab70324cb19f906a1d727814",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lymfahierojien mukaan lymfakävely vähentää turvotusta ja keventää oloa jo 20–30 minuutissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T07:12:16Z",
+      "urls": [
+        {
+          "sign": "898cecc74e6628f3fece3af14f8185ca5e23680a0be79ab45336b252483bb151",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Simo Santapukki rakentaa Eric Lloyd Wrightin taloa Heinolassa yli 20 vuotta ilman aikataulua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "c9bd8d15d3a0ae8dae620dad250a57a0c51459622197dce4c17362ed4efacb8a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
