@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T16:12:33Z",
+  "updated": "2026-08-02T16:25:38Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -575,38 +575,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "75eb448fd47d5d3fd5939c899d834e8750254a669bc6676dc24d689ada09a5ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "14cc4efe344d9c3aae768f36f4d0195cd14a8ffc513bac82bd7cd881020dea35",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Professori emerita Maire Inkeri Honkanen kuoli 101-vuotiaana Helsingissä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -2729,21 +2697,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-01T19:31:10Z",
-      "urls": [
-        {
-          "sign": "f2c91a70ce1eb89aa61fafdf466ec4502eb77c5b15361755704ec30367433190",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lewis Hamiltonin ajama Mercedes-AMG GT R myynnissä Suomessa – autovero nostaa hintaa noin 75 000 eurolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-01T19:42:24Z",
       "urls": [
         {
@@ -2755,21 +2708,6 @@
       ],
       "title": "Laulaja Madison Beer meni kihloihin NFL-pelinrakentaja Justin Herbertin kanssa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-01T19:35:11Z",
-      "urls": [
-        {
-          "sign": "33684be589b9cbbd3bdbc8af343eb83e365656c6619bec06d6703089e2959348",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotossa ei täysosumaa tänään – ensi viikolla jaossa neljä miljoonaa euroa",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -6525,6 +6463,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T16:25:38Z",
+      "urls": [
+        {
+          "sign": "8273ca87933d2df01c342a2b31c405a2dc95386a6928c714b53c4172e872d005",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "AC Oulu katkaisi voitottoman putkensa 1–0-voitolla Ilveksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T16:19:45Z",
+      "urls": [
+        {
+          "sign": "a4558f876e24eca4c1fd4358564eb0cb348938881dce3a0773a93fa469c3586e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sääasemat tallensivat heinäkuussa -2°C pakkaslukeman ja 219,9 mm sadekertymän Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T19:15:00+03:00",
+      "urls": [
+        {
+          "sign": "8fbad5d7b6d98ab38d9eb565f9f2e34061f4bda55ac608ad2f1b9c70ee04cbb5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tilojen kilpailukyky ja investointikyky takaavat maatalouden menestyksen Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T19:18:00+03:00",
+      "urls": [
+        {
+          "sign": "3bc0d59ee06d4a3305837132d8d351bbc111132c67aa9dca8bb3c0bc516e97cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Spider-Man: Brand New Day saavutti historian toiseksi parhaan avajaisviikonlopun Yhdysvalloissa ja Kanadassa 355 miljoonalla dollarilla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
