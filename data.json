@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T17:41:35Z",
+  "updated": "2026-08-02T17:56:43Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -1201,21 +1201,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T11:00:01Z",
-      "urls": [
-        {
-          "sign": "c0c714810c7f0037aa46ddff11edd6fb5a8320c5ce627ba522a4b14dc43af801",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK hankki kanadalaisen hyökkääjän Jake Leschyshynin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-01T11:24:43Z",
@@ -2451,21 +2436,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-01T20:50:40Z",
-      "urls": [
-        {
-          "sign": "66288809014bf0f3ca17617655ad2d57155314590c3205ff18d1a08e59b3140c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lentokone syöksyi maahan Perussa Nazcan lähellä – Kaikki koneessa olleet menehtyivät",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-02T05:08:00+03:00",
       "urls": [
         {
@@ -2509,51 +2479,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T21:39:49Z",
-      "urls": [
-        {
-          "sign": "e3d15d6484306608defbbecd4925e19eb3b265a3897db673badc66b7891ff4bc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi sakotti seitsemää MM-rallin kuljettajaa ja määräsi kuudelle väliaikaisen ajokiellon siirtymien ylinopeuksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-01T21:49:34Z",
-      "urls": [
-        {
-          "sign": "e3002f66999971432489d7a618bdbf7ff2e8c72cb596df5bffbf8907fc6e0805",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sébastien Ogier kiitti kartanlukijaansa sairaalaviestissä – \"Huolehti minusta tärskyn jälkeen\\",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-01T22:07:37Z",
-      "urls": [
-        {
-          "sign": "ec80268dcbc037540920708562d7db23307b524e153621a83cd1e1341897fced",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Vincent Pastore on kuollut 80-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-02T02:00:00+03:00",
@@ -6521,6 +6446,81 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T17:55:59Z",
+      "urls": [
+        {
+          "sign": "b7494d73427245fd58ed897520743fd003902ca89b008938ca399fd76683b225",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auto syttyi tuleen Tuusulanväylällä – kuljettaja selvisi vahingoitta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T17:51:42Z",
+      "urls": [
+        {
+          "sign": "f66b4a2f0a19ede70abb0c37c9f89271a407e5fe6a7ec022626e92567d31f3bc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eppu Normaali päättää uransa Ratinan stadionilla – manserock säilyy",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T17:49:06Z",
+      "urls": [
+        {
+          "sign": "b6e8f272f95dd8939e083ee41578269b4b7349613ae9a0253145003158da2126",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtteri Bottas sijoittui viidenneksi Tšekin Hlinskon sorapyöräilykilpailussa ja lunasti paikan sorapyöräilyn MM-kisoihin – julkaisi hilpeän päivityksen Instagramissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T17:56:43Z",
+      "urls": [
+        {
+          "sign": "4d3b8e797c064b97eca97064bb423d94956f8703656efddd81ecc89fcfdcca77",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Phil Collins kertoo lähes kuolleensa huhtikuussa 2024 ja lopettaneensa alkoholin käytön",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T17:47:04Z",
+      "urls": [
+        {
+          "sign": "8cf089fb1f3ad37a8484398a0e27f8b11b7a9a0bbf9d36ed4374e1fa056c019c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Honda Prelude e:HEV yhdistää sporttisen ajokokemuksen ja hybriditeknologian",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
