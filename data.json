@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T20:25:09Z",
+  "updated": "2026-08-02T20:44:47Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -437,21 +437,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T03:45:35Z",
-      "urls": [
-        {
-          "sign": "45464e63d9219b94b96e702196de8c4716eea9891c01f7ba0ff98dad929bda08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Shadia Rask: Kansalaisuuskoe määrittää suomalaisuuden alarajan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-01T04:00:39Z",
@@ -2821,25 +2806,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-02T05:32:09Z",
-      "urls": [
-        {
-          "sign": "7978bb957cf77a124b2cd4945e6987043aacd07be37d16501cbf64cd27b4df9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "f3adbf98526775b597e4bf692494b7fd59b4edc19ad15b21d0de6377c17ca78e",
-          "labels": []
-        }
-      ],
-      "title": "Yli 1 100 tekoälyasiantuntijaa vetoaa Yhdysvaltain hallitukseen kehittyneiden tekoälymallien kehityksen hidastamiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-02T07:09:40Z",
       "urls": [
         {
@@ -2868,21 +2834,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-02T05:51:22Z",
-      "urls": [
-        {
-          "sign": "dc905ffa71adbbb5754d7aac247fc52c74488d180d02c4ddd6fcd989a5efc7d3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Messi palasi kentille Inter Miamin tasapelissä Columbusta vastaan 2–2",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-02T05:57:30Z",
@@ -6518,6 +6469,51 @@
         }
       ],
       "title": "Poliisi etsii Jyväskylän Kuohu-Vesankan alueella kadonnutta iäkästä miestä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T20:38:39Z",
+      "urls": [
+        {
+          "sign": "31a9ae8484c154c357165b5d16d18f172c4eb24b735a50697b4b46426a29f5df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Romania lähetti kaksi F-16-hävittäjää ilmaan droonin ilmatilaloukkauksen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T20:30:10Z",
+      "urls": [
+        {
+          "sign": "b205f70efa6865f898cc3560b782d0fe019a15563745a9a7304e39a5f66e7fba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastuslaitos varoittaa rakennuspalon aiheuttamasta terveydelle vaarallisesta savusta Imatran Mansikkalassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T20:44:47Z",
+      "urls": [
+        {
+          "sign": "97e230fcf576686d70ac4e21dc2d8eb5a24cafe39dfa78bf5a9e9d2c6959172c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Imatralla Mansikkalassa iso rakennus palaa – pelastuslaitos antoi vaaratiedotteen savusta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
