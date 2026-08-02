@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T02:44:00+03:00",
+  "updated": "2026-08-01T23:51:54Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -2826,21 +2826,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-01T06:35:40Z",
-      "urls": [
-        {
-          "sign": "7c20fb6dc53d481f748f42b0dd649a84f96622b2a1851c54f59e9528ce39f280",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kahdeksan Veikkausliigajoukkuetta teki tappiota, neljä oli voitollisia viime vuonna",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T06:55:00Z",
@@ -6501,6 +6486,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-01T23:51:54Z",
+      "urls": [
+        {
+          "sign": "e6c32b20eeaa9284d5e7158732f8b59ce11f30dc7a3e0a32bf2608d3a655e74b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Sanomat julkaisi Helena Petäistön kuolinilmoituksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
