@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T16:43:11Z",
+  "updated": "2026-08-02T20:00:00+03:00",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -439,21 +439,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-31T17:53:37Z",
-      "urls": [
-        {
-          "sign": "9d24b396465f6d86bb292e29ebca3a41d89bf70e42a6819d3d919c0d6a1da855",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "The task is to produce a headline in Finnish. I'll output just the headline string. No extra commentary. I'll ensure it follows the rules. Final answer: Komiat-ilmiö, sosiaalinen media vetävät nuoria lavatanssiin – Valasrannan leirillä nuorimmat 14-vuotiaita}Komiat-ilmiö, sosiaalinen media vetävät nuoria lavatanssiin – Valasrannan leirillä nuorimmat 14-vuotiaita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-31T18:30:03Z",
       "urls": [
         {
@@ -512,23 +497,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f0c1451edc8226bce2a6fed6df14caab52b89e13e1bb650ad4d6fa8f9cf0d1b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-31T23:55:13Z",
@@ -2603,36 +2571,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-01T19:38:22Z",
-      "urls": [
-        {
-          "sign": "24dfdc737620c5f28ed14ccc2eac928183629636cbdcbb5c2f36f2599c2727fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sami Pajari sanoi Sébastien Ogierin tehneen virheen Jyväskylän rallissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-01T19:42:24Z",
-      "urls": [
-        {
-          "sign": "9f2e48056b345863baaf10c610d91718f5b41e8768ebc6de1f2854eafb762dc6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laulaja Madison Beer meni kihloihin NFL-pelinrakentaja Justin Herbertin kanssa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T19:50:10Z",
@@ -6521,6 +6459,68 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "b054aa321824a78b3330f0b3c057d6a250ee5b319e8775491a5966d932d31d78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T16:46:52Z",
+      "urls": [
+        {
+          "sign": "01ff36600f76db925cb0f1e340fb15401a8c921ae6f12db02358fa329a8af33e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teemu Suninen menetti WRC2-voiton 30 sekunnin aikasakolla Jyväskylän rallissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T16:59:12Z",
+      "urls": [
+        {
+          "sign": "26d42a56a679fd14cec801b7138c44231cf4ee5519b7b82ff8d502fa42cfcb3f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mandimai Sundberg kertoo IBS:stä ja siihen liittyvästä häpeästä podcastissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T16:58:20Z",
+      "urls": [
+        {
+          "sign": "610a376f6357e90f532f05b501356ba0a8c4988c5f21f4e56881d6cf81766b95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaiset rakensivat Kostamuksen kaupungin Neuvostoliitossa – työntekijät kuvailevat työtä, elämää ja onnettomuuksia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
