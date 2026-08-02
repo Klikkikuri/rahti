@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T15:29:37Z",
+  "updated": "2026-08-02T15:39:24Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -1222,21 +1222,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T08:31:23Z",
-      "urls": [
-        {
-          "sign": "f86d99e6e5b4c305f07b2766fa97016ab48cb3e50ef5bbc1723adff3e578c05d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastajat irrottivat joutsenen poikasen siimasta – vanhemmat lauloivat kiitoslaulun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-01T11:45:00+03:00",
@@ -6525,6 +6510,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T15:39:24Z",
+      "urls": [
+        {
+          "sign": "65cf6031728c0b1ed56135e9abf767bcbcd690e14d0cf7a6691cf3a8ddcf8415",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastuslaitos evakuoi matkustajat karille ajaneesta aluksesta Outokummussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
