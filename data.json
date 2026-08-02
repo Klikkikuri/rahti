@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T21:41:12Z",
+  "updated": "2026-08-03T00:57:00+03:00",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -497,23 +497,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T09:30:00+03:00",
-      "urls": [
-        {
-          "sign": "90e1277010324b05b1677fc9e18f7399ff801e773f2fc6a01931e5679a0f9ab1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-01T10:00:00+03:00",
@@ -6517,6 +6500,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T00:57:00+03:00",
+      "urls": [
+        {
+          "sign": "741e904747f1d1ca1e900b8b6f95f593f371a6b65a45cb6a9cdc5f529540a939",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump perui uudet iskut Iraniin, ilmoitti neuvottelujen alkavan maanantaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
