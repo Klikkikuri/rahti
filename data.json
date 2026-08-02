@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T19:26:16Z",
+  "updated": "2026-08-02T19:38:54Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -437,21 +437,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T03:15:35Z",
-      "urls": [
-        {
-          "sign": "360c832d4bcc53c3c99b16544b2d38e0af380ed53198eb616d5d942b48c0aa3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin poliisi valvoi ja hääti romaneja yli kymmenen vuoden ajan – MOT paljasti Tarkka-operaation",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-01T03:45:35Z",
@@ -1064,21 +1049,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T11:24:43Z",
-      "urls": [
-        {
-          "sign": "56871df6a7385f90b9dde98483560d13e9bffb7c60c66590d7f5ff2ab6446b8b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanja asentaa kelluvaa estettä Ceutan edustalle rajoittaakseen siirtolaisvirtaa Marokosta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-01T11:28:35Z",
@@ -6521,6 +6491,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T19:38:54Z",
+      "urls": [
+        {
+          "sign": "26da0b19050805b25525af9c89caf4119cf5148a98caad4547e11c55f30c6f85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tunkkaus nousi kuntoilijoiden uudeksi hittilajiksi – kilpailu Kolilla viikonloppuna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T19:38:05Z",
+      "urls": [
+        {
+          "sign": "294745f39420cfa08701a0e2bddc2c61a20ab32895e94019fab3bba1c76f7de8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lula hakee jatkokautta Brasilian presidenttinä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
