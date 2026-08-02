@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T20:44:47Z",
+  "updated": "2026-08-02T20:58:18Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -437,21 +437,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T04:00:39Z",
-      "urls": [
-        {
-          "sign": "0ee6619eb92b9fad4f0404e4bd6fe77e97157d80710dde7bcb41feb1ac3df7e9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lauri Myllyvirta: Ilmastointi lämpöpumppujen avulla voi vähentää hellekuolemia ja tukea puhdasta energiasiirtymää",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-01T04:30:35Z",
@@ -1079,21 +1064,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T11:43:48Z",
-      "urls": [
-        {
-          "sign": "e2ac60f496e740c4f7378dc2440ec8bb6b70cf2b03390a8f55f8c34585c92261",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uefa kritisoi Fifan puheenjohtaja Infantinoa lupauksien rikkomisesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-01T11:49:11Z",
@@ -6504,7 +6474,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-02T20:44:47Z",
+      "updated": "2026-08-02T20:58:18Z",
       "urls": [
         {
           "sign": "97e230fcf576686d70ac4e21dc2d8eb5a24cafe39dfa78bf5a9e9d2c6959172c",
@@ -6513,10 +6483,40 @@
           ]
         }
       ],
-      "title": "Imatralla Mansikkalassa iso rakennus palaa – pelastuslaitos antoi vaaratiedotteen savusta",
+      "title": "Pelastuslaitos antoi vaaratiedotteen Imatralla palavasta Linnalan koulurakennuksesta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T20:34:02Z",
+      "urls": [
+        {
+          "sign": "5766cfa19e2c430e8a6259d40736807c31371dfe677faa2d22ad0bd5d9803232",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Linnalan vanha koulu palaa Imatralla Mansikkalassa – savu aiheuttaa terveysvaaran",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T20:51:00Z",
+      "urls": [
+        {
+          "sign": "4189ded9ea3211f469e8fbd4615a2d9ec8c2126cc9896d6066a9d4a48772c2df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä-Karjalan pelastuslaitos varoittaa terveydelle vaarallisesta savusta Imatran Mansikkalassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
