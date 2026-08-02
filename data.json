@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T09:58:39Z",
+  "updated": "2026-08-02T13:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -364,21 +364,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-07-31T19:15:00+03:00",
-      "urls": [
-        {
-          "sign": "5df6ff73ec3b0b0c7d7a3c9411b15ca912fc5de0eb0a31a7d353c38677da9857",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Emily Wilson kritisoi Christopher Nolania Odysseus-elokuvasta – Joyce Carol Oates puolustaa ohjaajaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-30T19:53:57Z",
       "urls": [
         {
@@ -482,21 +467,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-31T13:40:37Z",
-      "urls": [
-        {
-          "sign": "0504672a18d1cb4b747a3b36de725c876d0fc49170df350de15847f5c0ec769a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Unkari ajaa Paksin ydinvoimalan alas ensimmäistä kertaa 44 vuoteen Tonavan alhaisen veden vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-07-31T14:01:17Z",
@@ -6526,6 +6496,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T09:42:34Z",
+      "urls": [
+        {
+          "sign": "0fc9cdd0397269c1ca436cfd4fcb39dadcb593bdcfbdf825c042f728d9174aab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle järjestää chatin Jyväskylän MM-rallin tapahtumista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T13:00:00+03:00",
+      "urls": [
+        {
+          "sign": "89af367a80899f875c233de9d70f6cb88ffd110e71782ff345a0fb396da113dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
