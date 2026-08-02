@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T18:43:59Z",
+  "updated": "2026-08-02T18:59:49Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -571,23 +571,6 @@
       "title": "Venäjä hyökkäsi Kiovaan ohjuksilla ja drooneilla – useita kuollut ja haavoittunut, Ukrainan ilmatorjunta torjui vain yhden ohjuksen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T09:00:00+03:00",
-      "urls": [
-        {
-          "sign": "69164df92b807b40628da215f952478cee1ddc867adc9c28dfec0564f198b6b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -2701,21 +2684,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-02T03:02:17Z",
-      "urls": [
-        {
-          "sign": "f5d5f33190eec9b5ec9aa64ffb70106cdd08eee5aab7a15fdc1f0cbe2d6abf61",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Juontaja kokeilee MDMA:ta Ylen dokumentissa – tavoitteena tiedonvälitys huumeiden vaaroista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-02T06:00:00+03:00",
       "urls": [
         {
@@ -2822,21 +2790,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-02T03:31:52Z",
-      "urls": [
-        {
-          "sign": "1699d214a08a9663383b247652b4b84953ce01c9453281d124b110ddcdc8b31a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hopea-diamiinifluoridi pysäyttää lasten hampaiden reikiintymisen ilman porausta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -6176,7 +6129,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-02T20:25:00+03:00",
+      "updated": "2026-08-02T21:50:00+03:00",
       "urls": [
         {
           "sign": "daf7d5fed22e8d5614d0d733ae39d92ffc40e4c28ab887c19ecc647059067608",
@@ -6185,7 +6138,7 @@
           ]
         }
       ],
-      "title": "Ultrakevyt lentokone päätyi järveen Kuohun kylässä Jyväskylässä sunnuntai-iltana – pelastustoimet käynnissä",
+      "title": "Ultrakevyt lentokone kaatui järveen Kuohun kylässä Jyväskylässä sunnuntai-iltana – sivullinen pelasti kaksi ihmistä soutuveneellä, ei loukkaantumisia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -6524,6 +6477,51 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T18:59:49Z",
+      "urls": [
+        {
+          "sign": "e2a0c524cc49bfd7e3d55aa83a5c3558705400c18e73fc5fbb296471bdf2eadc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskalainen opiskelija sai Singaporen sakot nuoltuaan mehukoneen pilliä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T21:51:00+03:00",
+      "urls": [
+        {
+          "sign": "e2cc362a4ec8c7e2f445a0096df4e550e7cbca3f760ae44067b50cca7fb88e5d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalainen vuorikiipeilijä kadonnut Matterhornilla – varusteet löytyivät Sveitsin puolelta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T18:48:48Z",
+      "urls": [
+        {
+          "sign": "2106217d4b4c554b38537528ae7cfc3ba3302724a92a0bb9ee7ffbe429c238f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bussi ja matkailuauto törmäsivät Italiassa – useita kuollut ja kymmeniä loukkaantunut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
