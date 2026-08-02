@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T12:29:25Z",
+  "updated": "2026-08-02T12:41:29Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -1072,21 +1072,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-01T03:30:00Z",
-      "urls": [
-        {
-          "sign": "b6f41b667efaa5fd80a5d372139e08f24125c7b493b9ad2786096ecd26724b65",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Minipikseli-strutsinpoikanen vahvistuu päivä päivältä, mutta tarvitsee Janne Granholmin apua syömiseen ja juomiseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-01T07:00:00+03:00",
       "urls": [
         {
@@ -1102,21 +1087,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T03:57:00Z",
-      "urls": [
-        {
-          "sign": "05f4c63011ba3cc43d6c66911448c28a0dec3fb0dd251797f2e4806a8d3cae08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sosiaali- ja terveysministeriö laajentaa vesirokkorokotuksen aikuisille ilman tautisuojaa tänään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-01T03:45:35Z",
@@ -2832,21 +2802,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-01T15:09:56Z",
-      "urls": [
-        {
-          "sign": "49f5eb5ad9d73f1c06093cb12e0ef96cb1f32d871db6d4c49c7e12617fe92957",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Grybauskaitė: Putin sanoi Liettualle Helsingissä 2010: \"Polvistu tai olet vihollinen\\",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T18:00:00+03:00",
@@ -6530,6 +6485,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T12:40:16Z",
+      "urls": [
+        {
+          "sign": "1e0dbba8406bce024d5a4f514aa65395cfd8246dda237026761205f1db8fc17b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin pelastuslaitoksen ambulanssi joutui kolariin Itäväylällä sunnuntaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T12:36:17Z",
+      "urls": [
+        {
+          "sign": "2a7a5f51a7c46c4c45c908d0bd01c6b3d0d7e0c9fed16dd18e17c461fe75f585",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjalainen maanviljelijä löysi aasinsa elossa maastopalon jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T12:41:29Z",
+      "urls": [
+        {
+          "sign": "873059b33097443f02da50272efc5c888435c4952b3c90421dc14e9d69d3e0da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Israelin ilmaiskut Gazaan jatkuvat Trumpin rauhansopimuksesta huolimatta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
