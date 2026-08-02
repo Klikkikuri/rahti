@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T05:58:19Z",
+  "updated": "2026-08-02T09:09:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -724,21 +724,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-07-31T16:45:00+03:00",
-      "urls": [
-        {
-          "sign": "b94c21a5d4ace648851e55202defd8120a5647e4c090dde49562af46367b1806",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Päiväkodin johtajan kelpoisuutta ei saa heikentää – vaaditaan kasvatustieteen maisterin tutkinto",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-31T14:01:17Z",
       "urls": [
         {
@@ -780,21 +765,6 @@
       ],
       "title": "Tutkija oikaisee Rantasen puheita: Espanjaa ei voida erottaa Schengen-alueesta",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-07-31T17:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f948a8ff0c5a840af97d6fae4184a1adb810ae9f6f5818b77a31dd68d3d2de84",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ville Ranta käsittelee kesän aiheita marjanpoiminnasta tekoälyyn",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -2860,36 +2830,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-01T09:21:58Z",
-      "urls": [
-        {
-          "sign": "3a4d5f35b01cd91809021e2b2c0e5594838fb2ac266f7e101816cd5093ecfa4a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yli 300 palomiestä taistelee maastopaloa vastaan suositun rantakohteen Porto Germenon lähellä Ateenassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-01T09:35:43Z",
-      "urls": [
-        {
-          "sign": "2b02cdd12225f6e2ec4b3ee9719573d64234d4f92b618429a5b0f9a67aa1356c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orpo vaatii EU:lta nopeaa toimintaa Ceutan tilanteeseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T09:42:19Z",
@@ -6507,6 +6447,85 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T09:09:00+03:00",
+      "urls": [
+        {
+          "sign": "75851ca270f17db45b02e21f87432615c69caa87f06a5b07ead12ba6c2ca2cfb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Café Ursulan rakennuslupa lainvoimainen – uusi kahvila avataan ensi keväänä tai kesänä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T06:01:57Z",
+      "urls": [
+        {
+          "sign": "39065170c4ba4d839412c90c8764689f6fd6f0f6fbb85d1207a6cad027595c4e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Voimanostaja Roosa Valkola vastaa lihaskuntoon liittyvään kritiikkiin huumorilla ja kannustaa naisia voimaharjoitteluun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "019a49be13fc93a369d66069e7b0535944d539b9952125502747cd7023f310b8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T06:02:22Z",
+      "urls": [
+        {
+          "sign": "eb04233c75cc71b73ccf8f549c16326a4075d6d9f40b76760ef8f9bc37b56115",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T06:00:20Z",
+      "urls": [
+        {
+          "sign": "87665b7783258790bcb01059e4f3e3f060d0b207cda8f7b927e6a97f3c9542a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pub Markus järjestää neljännen Elovapina-festivaalin Äänekoskella 7.–8. elokuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Äks"
     }
   ]
 }
