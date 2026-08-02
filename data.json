@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T07:43:11Z",
+  "updated": "2026-08-02T10:58:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -499,36 +499,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-07-31T11:26:45Z",
-      "urls": [
-        {
-          "sign": "8d6b25490730729c08bf7a72b83c70da38e337926f927c36762f355cd8ab7d60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanja nopeuttaa Ceutaan laittomasti tulleiden siirtolaisten palauttamista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T11:20:56Z",
-      "urls": [
-        {
-          "sign": "3e8b07e5b51ece553ae3a54fe9168306d8464a63f4b73b87a8345ec5a0bc6cc0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Epäilty törkeä ryöstö kahvilassa Espoossa kello 13 – sivulliset estivät pakenemisen, poliisi otti tekijän kiinni",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-07-31T11:32:25Z",
       "urls": [
         {
@@ -737,23 +707,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1cdc41a7dd982c2a80e86843603bc2363618beddd8bc8c8edf9a3092ddd02d25",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-31T18:26:00+03:00",
@@ -6524,6 +6477,51 @@
       ],
       "title": "Venäläinen rahtialuksen kapteeni epäillään liikenneturvallisuuden vaarantamisesta ja kuolemantuottamuksesta Ruotsin veneonnettomuudessa",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T02:41:09Z",
+      "urls": [
+        {
+          "sign": "bc2051f4b8ee6ba2379e6381584126fabf0b5548fe205530f9e0552403651e79",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sébastien Ogier ajoi ulos Västilän erikoiskokeella Jyväskylän MM-rallissa – kuljettaja ja kartanlukija vietiin sairaalaan tarkastuksiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T07:55:56Z",
+      "urls": [
+        {
+          "sign": "d6faa4df197151b3240c44b21ab93fa0c75b83936013be7068de4531a62f2c84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Pajari johtaa Jyväskylän MM-rallin päätöspäivää ja voi rikkoa Kalle Rovanperän ennätyksen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T10:58:00+03:00",
+      "urls": [
+        {
+          "sign": "1f9af0f9a96ba850636733e9a496a0a67ef51499587840c4b4c3c72f0cd92edd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus paljastaa korallien laajemman levinneisyyden ja turva-alueita – suojelu kuitenkin riittämätöntä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     }
