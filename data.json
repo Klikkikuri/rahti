@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T02:55:00Z",
+  "updated": "2026-08-02T03:02:17Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -707,21 +707,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T16:08:00+03:00",
-      "urls": [
-        {
-          "sign": "f96bc39379ca46c054a4484348363fee8b8e78c52309451ee0ca41740d4b8cf6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nuori mies yritti ryöstää Gallen-Kallelan museokahvilaa puukolla Espoossa – sivulliset taltuttivat, poliisi otti kiinni",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-07-31T11:32:25Z",
@@ -2783,21 +2768,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-01T07:10:45Z",
-      "urls": [
-        {
-          "sign": "8cbb4d6ced0786e083f5c255f79c23b821999f32afeba42a5af6ab9705af51fd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trivial Pursuit 1987 -visa: Testaa yleistietosi 12 kysymyksellä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-01T07:01:59Z",
       "urls": [
         {
@@ -2871,21 +2841,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T07:23:25Z",
-      "urls": [
-        {
-          "sign": "83f236c367853c4d5d590adb06d5e04cbbb5b71524bfb8d435f432ce034c6661",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "ITIA asetti venäläiselle tennispelaajalle lähes viiden vuoden kilpailukiellon korruptiosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T07:27:51Z",
@@ -6499,6 +6454,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T03:02:17Z",
+      "urls": [
+        {
+          "sign": "f5d5f33190eec9b5ec9aa64ffb70106cdd08eee5aab7a15fdc1f0cbe2d6abf61",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Juontaja kokeilee MDMA:ta Ylen dokumentissa – tavoitteena tiedonvälitys huumeiden vaaroista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T06:00:00+03:00",
+      "urls": [
+        {
+          "sign": "bcaf8f49d961c06874f8350befa161f5c79d435139aeb89696ca9b49d79610da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T03:02:13Z",
+      "urls": [
+        {
+          "sign": "1fa28df42c6c4d766982c9bf096ca8011303945bede3409c0069fe8225815b48",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
