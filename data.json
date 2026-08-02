@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T22:41:25Z",
+  "updated": "2026-08-03T01:58:00+03:00",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -467,21 +467,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T06:28:01Z",
-      "urls": [
-        {
-          "sign": "f2a0768e1161669c6c1086293124336030dfc7b51b1dac4719514da15fcc4ceb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus hylkäsi David Hearnin syytteet – Lincoln Memorial -heijastusaltaan vaurio aiheutui virheellisestä asennuksesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-01T06:34:40Z",
@@ -6502,7 +6487,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-03T01:25:00+03:00",
+      "updated": "2026-08-03T01:58:00+03:00",
       "urls": [
         {
           "sign": "741e904747f1d1ca1e900b8b6f95f593f371a6b65a45cb6a9cdc5f529540a939",
@@ -6511,10 +6496,25 @@
           ]
         }
       ],
-      "title": "Trump perui Iraniin suunnitellut iskut ja ilmoitti neuvottelujen alkavan maanantaina",
+      "title": "Trump ilmoitti Iranin neuvottelujen alkavan maanantaina ja peruneensa uudet iskut",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T22:52:00Z",
+      "urls": [
+        {
+          "sign": "01172c95adb0be1a443aa2c6d8d2d5db6a4fd6a6c0de41e012aeb4bb74c923eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen Venezuelan presidentti Maduro toivottaa tervetulleeksi hallinnon ja opposition väliset neuvottelut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
