@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-02T10:43:34Z",
+  "updated": "2026-08-02T10:59:31Z",
   "entries": [
     {
       "updated": "2026-08-01T19:36:24Z",
@@ -649,23 +649,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-31T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "ef8baa5672638214ac12c6e80123b4f16956c83a8028ec3a502fd19be06ef0f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-07-31T17:07:36Z",
       "urls": [
         {
@@ -833,21 +816,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-07-31T18:07:53Z",
-      "urls": [
-        {
-          "sign": "aa47f5ab99a4c9da0282b12930459203016d85bc99dde8a316a21633cd24e3f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotta Harala ilmoittaa lopettavansa urheilijan uransa tämän kauden jälkeen – kiitti ex-puolisoaan ja valmentajaansa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-07-31T21:28:00+03:00",
       "urls": [
         {
@@ -891,36 +859,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-07-31T18:41:22Z",
-      "urls": [
-        {
-          "sign": "5952194aff8f01177c52e4c86d6852f66f0afea57ecc237ff5788504877ddee8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sami Pajari ajoi yhdellä kädellä ja puhdisti tuulilasin rättiä Suomen MM-rallissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-07-31T19:09:09Z",
-      "urls": [
-        {
-          "sign": "25d98d6d04e37a082592758dc7287da5f2f2522cecdf9906cc5da06001b5be04",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsalaiset jalkapallofanit riehuivat Tallinnassa – vahingoittivat stadionia ja pahoinpitelivät kaksi miestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-07-31T22:13:36+03:00",
@@ -2804,21 +2742,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-01T13:04:10Z",
-      "urls": [
-        {
-          "sign": "c795c3bfeb6dc781cf48eafeb37520efcc719d412dbfa4bed2b945e122dc0bd8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tokmannin myymä yhdistelmälukko aukenee sekunneissa ilman koodia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-01T13:04:00Z",
       "urls": [
         {
@@ -2847,21 +2770,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T13:17:51Z",
-      "urls": [
-        {
-          "sign": "e6cdca96a073941789639268ce61c719459642e5ad863a6f1c3bda492bbc533c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK hankki kanadalaisen keskushyökkääjän Jake Leschyshynin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-01T13:27:55Z",
@@ -5575,7 +5483,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-02T10:43:34Z",
+      "updated": "2026-08-02T10:58:22Z",
       "urls": [
         {
           "sign": "49c0b40c6473a37ed2061858c0c62c25ddf3e4193f00999e26ba3ff73a8460b9",
@@ -5584,7 +5492,7 @@
           ]
         }
       ],
-      "title": "Jari-Matti Latvala voitti WRC2-luokan, Sami Pajari johtaa Jyväskylän MM-rallia ennen sunnuntain Power Stagea",
+      "title": "Sami Pajari johtaa Jyväskylän MM-rallia ennen sunnuntain Power Stagea, Latvala voitti WRC2-luokan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6528,6 +6436,100 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-02T10:56:25Z",
+      "urls": [
+        {
+          "sign": "7281aee16d4666ac11bb17a69759fa419e9f2646eef006b9a91f425fdd4c22c6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Infantino menettää luottamuksen FIFA:n johdossa kaupallisoikeussuunnitelman epäonnistuttua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T10:53:34Z",
+      "urls": [
+        {
+          "sign": "e92a56d77fb71763bc1493df76bb9a107fa31a29921390c60a01a79bc9df349b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-02T13:45:00+03:00",
+      "urls": [
+        {
+          "sign": "34b52de0bc3ddf561887923bf847e9d172b1c166376aa6a5701d529fb76640c3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-02T10:53:27Z",
+      "urls": [
+        {
+          "sign": "b7148969c107060d3dd95e7a51c6b4b2ce462dd9deeb8ea5e95aa29e5083b718",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ceutan siirtolaisryntäyksessä uhriluku nousi – Espanja asentaa kelluvan meriesteen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T10:44:33Z",
+      "urls": [
+        {
+          "sign": "e9de1191c580e01bdc905089f288e14e00b565daa560c6cc4e3a907874ec750a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi otti kaksi henkilöä kiinni Sastamalan epäillystä henkirikoksesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-02T10:59:31Z",
+      "urls": [
+        {
+          "sign": "76fa0869913489942602258184d15ba3868b2f59398422ca7ae887ba836682c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ministerit saivat 499 euron VIP-paketin Jyväskylän MM-ralliin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
