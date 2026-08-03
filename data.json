@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T02:52:00Z",
+  "updated": "2026-08-03T03:01:26Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -2592,21 +2592,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-02T06:31:04Z",
-      "urls": [
-        {
-          "sign": "de8e679b810ac5ffec2502602f3ea3d38534f1c74901282bb138a9f835862977",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Christoffer Strandberg ei pese pyykkiä – kotityöt jaettu puolison kanssa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-02T06:56:24Z",
       "urls": [
         {
@@ -2622,21 +2607,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-02T06:49:06Z",
-      "urls": [
-        {
-          "sign": "36aacb36c6f735130bad3e9a80c779995b0f7710101f6df8cd358b2b531db5f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Matalapaine viilentää Suomen säätä – helteitä ei odoteta, sade- ja ukkoskuuroja Lapissa ja itäosissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-02T06:58:42Z",
       "urls": [
         {
@@ -2650,21 +2620,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-02T06:49:52Z",
-      "urls": [
-        {
-          "sign": "f07ae3e5de1a54aca77fbb61b7b65e68d96ab59378f730e62c13f22d8b178632",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mikko Rantanen sai yhden ottelun pelikiellon taklattuaan Alexander Romanovia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-02T07:10:47Z",
@@ -6515,6 +6470,57 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-03T03:01:26Z",
+      "urls": [
+        {
+          "sign": "1c81c12a4a843a7869ca4e4aa560d3e879db3beb7e257c515b2a780299faff8c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ari Puroaho punnersi vuoden aikana yli 66 800 kertaa – haaste päättyi Vantaan Ankkapuistossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T03:00:22Z",
+      "urls": [
+        {
+          "sign": "c91965050185cc3c02f712a2d15097777bc01247687c282462904c63a53221e7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "b9604e11c666647109a4362270d0eb117053322f3d80e15c7586f0afb8bd1381",
+          "labels": []
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T03:01:15Z",
+      "urls": [
+        {
+          "sign": "2de31d48106a7a3f3fcbe2cd62f6b7797c3842f69f3c17678cd015cef7355f72",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Klovnimurhaaja Sheila Keen-Warren vapautui vankilasta vuonna 2024",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
