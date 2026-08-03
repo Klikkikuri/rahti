@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T01:38:31Z",
+  "updated": "2026-08-03T01:59:42Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -452,21 +452,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T08:00:59Z",
-      "urls": [
-        {
-          "sign": "79f4eda1d3633d0b9092e87578a4c59bf4f1511763976b7c49eeeb3a50160f26",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yli 300 pelastajaa sammuttaa maastopaloa Porto Germenon rannikolla Kreikassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-01T08:40:52Z",
@@ -6517,6 +6502,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T01:59:42Z",
+      "urls": [
+        {
+          "sign": "f746c5fdac81182f2ffb2cd90ceff4de18de45965dd1d9886c7a89fd79b64038",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtakunnansovittelijan toimisto jatkaa ammattikorkeakoulujen työriidan sovittelua tänään kello 13",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
