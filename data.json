@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T13:00:00+03:00",
+  "updated": "2026-08-03T10:12:35Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -439,51 +439,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T18:42:00+03:00",
-      "urls": [
-        {
-          "sign": "3080f66318611cd8c358b3ae748cdb9893dfea8ebc62bd806ac5d690d0b23404",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset nostivat uponneen huviveneen merestä ja vaativat rahtialuksen kapteenia vangittavaksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T15:44:05Z",
-      "urls": [
-        {
-          "sign": "d81cbcdffdfe512d8cb6f78444db3c5f4d180feb68752a16b83a36ce59d1ea61",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kazakstanin presidentti Tokajev vaati Putinia jäädyttämään Ukrainan sodan – öljynviennin häiriöt kasvavat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T15:39:19Z",
-      "urls": [
-        {
-          "sign": "3357ea4849d55ee233068862e782780d5ed0b169d0ba0905f7938201b24b41ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos pelasti vauvan ja koiran lukitusta autosta Kouvolassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-01T18:45:00+03:00",
@@ -2858,21 +2813,6 @@
       ],
       "title": "Kreikan poliisi pidätti afganistanilaisen miehen epäiltynä brittinaisen surmasta – ruumis löytyi matkalaukusta",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-02T14:51:33Z",
-      "urls": [
-        {
-          "sign": "f78aec5f1cdf63909646e06b6a07cf503c02731122976d50f9a9c531485ca80a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian kuninkaallinen perhe noudattaa tarkkoja vessaan liittyviä etikettisääntöjä",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -6525,6 +6465,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T10:11:32Z",
+      "urls": [
+        {
+          "sign": "80247f6da0244f7e312e875b59d9b0fd8efadbec8e5b96ee0e6dd6abf3d45587",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Noin 50 000 siirtolaista ylitti Ceutan rajan Marokosta, monet palasivat pian takaisin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T10:03:04Z",
+      "urls": [
+        {
+          "sign": "e787b40a7c0a5e5786bb4012fc456ba29804ac18b6a3aa0ed349365abb903708",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Malian viranomaiset vapauttivat entisen pääministerin Moussa Maran vankilasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T10:12:35Z",
+      "urls": [
+        {
+          "sign": "68a5a009c4cf324a3a4f09b47920d6dcd08d57b8c26347bcf1dc4016c4e0afdf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pirkanmaan uimahallit sallivat uima-asun käytön saunassa – tavoitteena lisätä saavutettavuutta ja yhdenvertaisuutta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T13:07:00+03:00",
+      "urls": [
+        {
+          "sign": "1ab1e12746057e0c7d159714d5fd5044cdab0045b82504dfe68cb2b671d103b1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OP korjaa teknistä vikaa, joka viivästyttää palkkojen ja eläkkeiden siirtoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
