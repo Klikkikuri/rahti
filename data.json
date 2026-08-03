@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T11:48:22Z",
+  "updated": "2026-08-03T12:01:29Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -409,23 +409,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-01T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "29f057bfa83385e73b07af7482543f4c1b7fc6aee0878880afafb07f1caa9a94",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-01T16:21:43Z",
       "urls": [
         {
@@ -505,21 +488,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T17:55:24Z",
-      "urls": [
-        {
-          "sign": "19c810435f37daf5db44e3d1eab02bc773938c2e6e51a5e672f10382696c9e44",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vapaa-ajan kalastajat vaihtavat istutetut kirjolohet luonnonkaloihin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-02T05:20:32Z",
@@ -6557,6 +6525,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-03T12:01:29Z",
+      "urls": [
+        {
+          "sign": "3149224c54c02aa0beb22b0c52c51a401463c205e1c98095cfadce9fbe2abe47",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan hallitus korostaa, että Ceutan kautta tulleet siirtolaiset eivät voi liikkua vapaasti Schengen-alueelle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "7034d95d490c522c0ef7a1e878f1b8cef6019e187d652ab6edbef03c1a38bb24",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin asukkaat haluavat tyhjät vanhat talot yhteisökäyttöön",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
