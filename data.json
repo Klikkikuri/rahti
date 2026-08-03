@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T19:32:59Z",
+  "updated": "2026-08-03T22:47:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -473,23 +473,6 @@
       "urls": [
         {
           "sign": "65a9f7231520442affa478d42bd7c9fa6dcbf7850cddf3b41918f09a6c12f3bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-02T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "8bb8def6cf633ab1d4d8cedee85459553d2404eaecf98ca26fc236ee77c4a445",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -2652,21 +2635,6 @@
         }
       ],
       "title": "Nuorukainen pahoinpiteli keski-ikäisen miehen Kemissä Satama Open Air -festivaalin lähellä – uhri kriittisessä tilassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-03T06:59:34Z",
-      "urls": [
-        {
-          "sign": "2bcab1c00eb52aff768c10020768487c44f4616f151ce52a09a5456b52eeb6d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Doc Martin -tähti Natalia Dontcheva on kuollut",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -6524,6 +6492,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-03T22:47:00+03:00",
+      "urls": [
+        {
+          "sign": "6a9db64722f7994eeafe3e3ced99958c0a7530d92c15709c36c9c15d39520a5a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän mukaan Ukrainan drooni-isku aiheutti kuolemia Mustanmeren rannalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-03T19:46:10Z",
+      "urls": [
+        {
+          "sign": "a22c1fb8ed746765cf2fe7101f0d98391ea954ba1c230cc84f21deec194b521d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuottaja kertoo BBC:n olevan hermostunut Trump-vitseistä Trumpin 10 miljardin kanteen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
