@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T16:56:45Z",
+  "updated": "2026-08-03T17:12:43Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -469,23 +469,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-02T10:00:00+03:00",
-      "urls": [
-        {
-          "sign": "c9bd8d15d3a0ae8dae620dad250a57a0c51459622197dce4c17362ed4efacb8a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-02T11:49:21Z",
       "urls": [
         {
@@ -723,21 +706,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-02T11:14:13Z",
-      "urls": [
-        {
-          "sign": "12959eaebbd7fee11b71d33e8e8461ae08ed818a6f14cdec60fdfdf17d0d1cfe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sami Pajari voitti Jyväskylän MM-rallin ja rikkoi Kalle Rovanperän nuorimman voittajan ennätyksen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-02T14:30:00+03:00",
       "urls": [
         {
@@ -766,21 +734,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-02T11:44:49Z",
-      "urls": [
-        {
-          "sign": "791e2206a0237723be5b73deaf2f578171a8cce34cbc9e099473a3725356ba6c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MM-ralli 2026 käynnistyy 14 kilpailulla – Toyota ja Ogier puolustavat mestaruuksia, pistetilanteet päivittyvät artikkeliin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-02T12:14:46Z",
@@ -2447,57 +2400,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-03T03:01:26Z",
-      "urls": [
-        {
-          "sign": "1c81c12a4a843a7869ca4e4aa560d3e879db3beb7e257c515b2a780299faff8c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ari Puroaho punnersi vuoden aikana yli 66 800 kertaa – haaste päättyi Vantaan Ankkapuistossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-03T03:00:22Z",
-      "urls": [
-        {
-          "sign": "c91965050185cc3c02f712a2d15097777bc01247687c282462904c63a53221e7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "b9604e11c666647109a4362270d0eb117053322f3d80e15c7586f0afb8bd1381",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-03T03:01:15Z",
-      "urls": [
-        {
-          "sign": "2de31d48106a7a3f3fcbe2cd62f6b7797c3842f69f3c17678cd015cef7355f72",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Klovnimurhaaja Sheila Keen-Warren vapautui vankilasta vuonna 2024",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-03T08:13:47Z",
       "urls": [
         {
@@ -2605,21 +2507,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-03T03:31:54Z",
-      "urls": [
-        {
-          "sign": "d1ef25a9f344474b14aa3d2bab29fbea30482cd18e64eb0db87bbea6b1847a0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Monet yksinkertaiset keinot helpottavat vatsan turvotusta nopeasti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-03T03:52:00Z",
@@ -6532,6 +6419,113 @@
       ],
       "title": "Järjestäjä myöntää ottelupalkkiot edelleen maksamatta Porissa",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T17:12:43Z",
+      "urls": [
+        {
+          "sign": "019e310a0d85eec8310f6898e62d233119d3521e43d15cd4e33038d0d4fbcc89",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tampereen perusopetusjohtaja aikoo siirtää kouluvuoden alkamista myöhemmäksi huoltajien kritiikin vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T17:01:00Z",
+      "urls": [
+        {
+          "sign": "471ea1df9f94ee37b897b437db51707cd54ba5bfa4a5778bb3e8aaaf2f2ba580",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat: Putin jatkaa sotaa vaikka kaikki suunnitelmat epäonnistuneet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T17:03:16Z",
+      "urls": [
+        {
+          "sign": "9a61ab2204520234d0044f83a294b9a730071ee754580f4b3cc5a0c7f6cfd10f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "f45c3c757534cc9fc46914572ed940f55b5352edc0a3aaa086d3dc76aecf27ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU:n ulkopuolelta tulevien maahanmuuttajien työllisyys Suomessa on muuta EU:ta heikompi – syinä talouden vaihtelut ja keskittyminen pääkaupunkiseudulle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-03T17:02:00Z",
+      "urls": [
+        {
+          "sign": "a9a320088b7244242cf967d91b0f920123dfaa164971dfa8da78b9e5a8f4a54d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskanbulldoggi Iza osallistui Kalifornian koirasurffauksen MM‑kisoihin viidettä kertaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-03T17:06:16Z",
+      "urls": [
+        {
+          "sign": "92907150fea8e44f2c771a7835aa3403386d94305bef4519471c252c08f1b4da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Katsojat reagoivat Petollisten uusiin kilpailijoihin – Ina Mikkola saa kehuja, osa pettynyt julkkiskierrätykseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T17:05:37Z",
+      "urls": [
+        {
+          "sign": "3f6c419ebcc741c7ca249ede234dfe3779eeed459d71db36ee1d8b5d9b1a9ed6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HSY kehottaa keräämään pudonneet omenat pois pihoilta rottien houkutuksen estämiseksi",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
