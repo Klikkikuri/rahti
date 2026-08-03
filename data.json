@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T21:55:14Z",
+  "updated": "2026-08-03T22:07:50Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -848,21 +848,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-02T14:14:23Z",
-      "urls": [
-        {
-          "sign": "2714196ff40aa31cd54386063d0fcbae21a77f6f0e3a2c903d568de14a7ddf98",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Professori Hanna Tuominen: Ceutan tapahtumat hyödyttävät laitaoikeistoa ja Venäjää",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-02T14:25:12Z",
@@ -6520,6 +6505,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T22:07:50Z",
+      "urls": [
+        {
+          "sign": "2a102f5c61eb4344b2bba6c1fd439e355d80cea21b9f2cd6a2331b267055b498",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuuban sähköverkko romahti uudelleen polttoainepulan ja Yhdysvaltojen öljysaarton vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
