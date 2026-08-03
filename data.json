@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T16:11:06Z",
+  "updated": "2026-08-03T16:23:34Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -439,7 +439,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-03T14:49:32Z",
+      "updated": "2026-08-03T16:19:59Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -448,7 +448,7 @@
           ]
         }
       ],
-      "title": "Trump kertoi lykänneensä mahdollisen Iranin iskun sosiaalisessa mediassa – Israelin väitetään tukevan päätöstä, Iran kiistää väitteet",
+      "title": "Trump lykkäsi Iranin iskun – vaatii sopimusta, Israelin väitetään tukevan, Iran kiistää",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -466,23 +466,6 @@
       "title": "Café Ursulan rakennuslupa lainvoimainen – uusi kahvila avataan ensi keväänä tai kesänä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-02T09:00:00+03:00",
-      "urls": [
-        {
-          "sign": "019a49be13fc93a369d66069e7b0535944d539b9952125502747cd7023f310b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -642,21 +625,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-02T09:55:28Z",
-      "urls": [
-        {
-          "sign": "59deb5143455d4c1524299fb208d333928c220779a0a60a7ee786fd87f5e00d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Unkarin hallitus sulkee Paksin ydinvoimalan sunnuntaina Tonavan alhaisen vedenpinnan vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-02T13:00:00+03:00",
@@ -2263,21 +2231,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-02T21:09:18Z",
-      "urls": [
-        {
-          "sign": "766fa7d275c26614654f32c1362de33f2bc0fab73521117c3708dcae83f3675d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Paige Spiranac jakoi äitinsä kuvan – fanit kehuvat äidin ulkonäköä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-02T21:01:00Z",
       "urls": [
         {
@@ -2477,21 +2430,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-02T23:22:15Z",
-      "urls": [
-        {
-          "sign": "0f48ea7b1d5b4e6f3f6b6ea56d7a154dca134c42b643c4004d7bf94b900258cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marokon sisäministeriö julkaisi tiedot Ceutan siirtolaiskaaoksen kuolonuhreista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-02T23:39:55Z",
@@ -6536,6 +6474,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T16:20:53Z",
+      "urls": [
+        {
+          "sign": "727cd8ca9bba2da49368c9594a20e492092c4e04a4551e9ec6585ad8b78dad61",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansanedustaja Pauli Kiuru vaatii Pirkanmaan kuntia käsittelemään saunauima-asukäytäntöä lautakunnissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T16:18:37Z",
+      "urls": [
+        {
+          "sign": "af8f9bd8168278fced24dd7c8a49420337108d9d09938e51d34fbb3e4b759fe7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hakkerit murtautuivat Bonavan järjestelmiin – asiakkaiden henkilötiedot vaarassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T16:23:34Z",
+      "urls": [
+        {
+          "sign": "564c7e7cceb9c67020a36ec35be7e3d187b5a0d7a2a13246a2c818f255aade23",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruokavirasto kielsi liikkumisen ja marjastuksen Vappu Kuokan kotialueella afrikkalaisen sikaruton vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T19:18:00+03:00",
+      "urls": [
+        {
+          "sign": "b87c0798d8160d84116a02c5a1a7e03b03495935f3354dc5072e59f6c79918dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä ja puolustus valittivat Roope Mustosen tuomiosta Ukrainassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
