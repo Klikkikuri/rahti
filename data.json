@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T08:58:53Z",
+  "updated": "2026-08-03T09:13:26Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -469,21 +469,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-01T17:45:00+03:00",
-      "urls": [
-        {
-          "sign": "8ed8eae50db6254c1119f34c8fad020d13d28290b477f0b0c9728a0b2b260ce6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henkilö kuoli kilpaveneiden törmäyksessä Kotkan Hovinsaaren edustalla lauantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-01T14:48:09Z",
       "urls": [
         {
@@ -809,21 +794,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T19:10:56Z",
-      "urls": [
-        {
-          "sign": "969950202699a018e8745142e7025afdba2d054346d46678eeb252388a9d8a79",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi määrää seitsemälle rallikuskille sakon ylinopeudesta – kuusi saa väliaikaisen ajokiellon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-01T19:15:36Z",
@@ -2894,36 +2864,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-02T14:13:54Z",
-      "urls": [
-        {
-          "sign": "023a3719c41651e2027a0cf0e584612ffbfdeb3cdd7e96422d93141060416f5e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi henkilöautoa törmäsi nokkakolarissa Vaasassa – kolme vietiin sairaalaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-02T14:01:30Z",
-      "urls": [
-        {
-          "sign": "d1cd1c788e0425a64d3c1937891773a8d2499fba5bff36958987710370405fb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti tarjoaa Suomen historian visan, jossa voi saada täydet 12 pistettä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-02T14:02:00Z",
       "urls": [
         {
@@ -2937,21 +2877,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-02T14:22:53Z",
-      "urls": [
-        {
-          "sign": "9f1663797898354b1df9d3b88897cee8038054b4d01c3b7da4a2685dedd87e1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karhu hyökkäsi marjastajan kimppuun Lyckselessä Ruotsissa – tapausta tutkitaan työtapaturmana",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-02T14:14:23Z",
@@ -3027,21 +2952,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-02T14:30:00Z",
-      "urls": [
-        {
-          "sign": "d7a5e4cefbf5aacc080e5d38265e7015d576e2a125c7dd0924fe6daab2e49951",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus hylkäsi rovaniemeläismiehen huumausainerikossyytteet rikkinäisen postilaatikon vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-02T14:31:30Z",
@@ -6519,6 +6429,98 @@
       ],
       "title": "Israel kritisoi Trumpin Gaza-suunnitelmaa",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-03T12:00:00+03:00",
+      "urls": [
+        {
+          "sign": "3b8d76a613055c1bd8d7f1fd958be7d18985dd8e1c012a9f2a68e1a278c475dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-03T09:13:26Z",
+      "urls": [
+        {
+          "sign": "f38f4f92884b1eb1fcff83af920ff90e7cf3e0134a64d378e8112a9fa0c19198",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SJK hyötyy levosta, HJK kohtaa vireen ja kierrätyspaineet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T09:01:17Z",
+      "urls": [
+        {
+          "sign": "624a5c51c0f89a01b9991f5ba8b1d51497e0659e33c3350ef296aae9c05538db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uefa uhkaa Infantinoa oikeustoimilla ja vaatii hänen eroa Fifan puheenjohtajasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T09:09:15Z",
+      "urls": [
+        {
+          "sign": "d83e299bc73d5b06ff9cb3fbc7d230bbf92e4d74ce263b077a36e8f6763cfb5c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Big Brother Suomi palaa syksyllä ruutuihin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T09:12:49Z",
+      "urls": [
+        {
+          "sign": "dd828f35c63f4894fc3ad1340981b4474187526075fe65fc5ae30bc9d0f4e510",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Politiikan puskaradio: Orpon kesäloma meni pilalle hallitushankkeen ja Valmet Automotive -kohun vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-03T09:00:00Z",
+      "urls": [
+        {
+          "sign": "61b1203878632b30892c01e35fd1433bcda3c7470efef15b5151339cbb508593",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Big Brother Suomi palaa MTV:lle",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
