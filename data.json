@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T21:11:20Z",
+  "updated": "2026-08-03T21:55:14Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -469,23 +469,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-02T12:05:00+03:00",
-      "urls": [
-        {
-          "sign": "65a9f7231520442affa478d42bd7c9fa6dcbf7850cddf3b41918f09a6c12f3bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-02T13:00:00+03:00",
       "urls": [
         {
@@ -820,21 +803,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-02T13:54:10Z",
-      "urls": [
-        {
-          "sign": "01b96d22a94e60c6647a93f7a4ec4ef535d2885e0a651658197f27a9cf853c0b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi sammutushelikopteria törmäsi Ateenan lähellä sammuttaessaan maastopaloa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-02T13:56:45Z",
@@ -2837,21 +2805,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T07:45:42Z",
-      "urls": [
-        {
-          "sign": "871c52e27759b5f7b0260514fda28106383f5c7a44345ddfc66316e72ded5cf3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos sammutti tulipalon Jyväskylän sairaalan sähkötilassa – kukaan ei loukkaantunut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-03T07:51:07Z",
@@ -6522,6 +6475,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-04T00:49:00+03:00",
+      "urls": [
+        {
+          "sign": "5d96d256bf3a73bc4b1fc0b3764619f86dc8e383dbf8db16d81a8fe4c2b63660",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän oppositiopoliitikko Boris Nadeždin pakeni Venäjältä ja on nyt Pariisissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-03T21:53:39Z",
+      "urls": [
+        {
+          "sign": "939605557e17f0be7e7b79bf3fc3cc05cf37c1d031f45fe6d1af55ad81809b4c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain osakemarkkinat nousivat maanantaina, Dow Jones ennätykseen Trumpin Iran-uutisen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T21:55:14Z",
+      "urls": [
+        {
+          "sign": "c41902c6cbc7148e853ab110274dcbbf7b921bbec8c26f2592289a974dc22302",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: Viagran vaikuttava aine sildenafiili voi estää syövän leviämistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
