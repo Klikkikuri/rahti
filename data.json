@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T02:00:00+03:00",
+  "updated": "2026-08-04T02:44:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -454,21 +454,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-02T15:45:00+03:00",
-      "urls": [
-        {
-          "sign": "1efb6bb0a35f0d534d7d71f0584311e6c3b621b540e54fee6c212ad515ec5830",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Wes Streetingin omaelämäkerta kuvaa luokkanousua Itä-Lontoon köyhyydestä puolustusministeriksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-02T12:52:32Z",
       "urls": [
         {
@@ -754,21 +739,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-02T15:29:01Z",
-      "urls": [
-        {
-          "sign": "3dbc64146f3eb0a05787798e7bb2c45591832005565b2a3616836db993a7a641",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Apulaisoikeusasiamies: sosiaali- ja terveysmaksujen korotukset uhkaavat tehdä palvelut tarvitsijoiden ulottumattomiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-02T15:25:41Z",
@@ -6520,6 +6490,36 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-04T02:44:00+03:00",
+      "urls": [
+        {
+          "sign": "b7d9ec201af49f87c9e0cc5c4afde13319b0a4952aa9ed24aa19ba87cb9ca466",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tulipalo vahingoitti entistä äärioikeiston päämajaa Otsolassa Hyvinkäällä maanantai-iltana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-03T23:41:31Z",
+      "urls": [
+        {
+          "sign": "7c0ca49bc4fe74c76896e942920ae21a6d0a2d7538f5e5ece3fb0c2339c58079",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kerrostaloasunnossa räjähti Vaasassa, asukas loukkaantui vakavasti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
