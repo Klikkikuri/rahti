@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T09:13:26Z",
+  "updated": "2026-08-03T09:28:04Z",
   "entries": [
     {
       "updated": "2026-07-13T14:00:46Z",
@@ -424,21 +424,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-01T14:09:12Z",
-      "urls": [
-        {
-          "sign": "d85dd701230c9bf09720744479002cbb6cf2becb28831d6ecc0dbbf0890e39db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat arvostelevat Trumpin jäänmurtajakauppoja Suomelle – liian monta alusta, puutteellinen valvonta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-01T14:15:27Z",
       "urls": [
         {
@@ -511,23 +496,6 @@
       "title": "Trump ohitti normaalit hankintasäännöt jäänmurtajakaupoissa Suomen kanssa – NYT paljastaa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-01T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "c16422ceba172eeceb508e60e46c76b4947137ad1f5a54f5a9566b21c64bd3c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -794,21 +762,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-01T19:15:36Z",
-      "urls": [
-        {
-          "sign": "4f27e228300aafd94cd0cd145c5e41cd8b16384ad89c58929e13ea37fa4fd9e1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotossa ei täysosumia – ensi viikon potti nousee 4 miljoonaan euroon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-02T05:20:32Z",
@@ -6521,6 +6474,51 @@
       ],
       "title": "Big Brother Suomi palaa MTV:lle",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-03T12:23:00+03:00",
+      "urls": [
+        {
+          "sign": "0df49720a739559a1c459b85cdf10e21eb8df17fdf5d9573ab02fc1e058775e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Discover Airlines aloittaa suorat lennot Frankfurtin ja Savonlinnan välille kesällä 2027",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-03T09:20:10Z",
+      "urls": [
+        {
+          "sign": "250a4a529392f823aa7d35a250bb69481858f0edc4c9d5c7ff269aef488c5937",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rahtialus ajoi huviveneen päälle Tjörnin edustalla – kapteeni vangittu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-03T09:28:04Z",
+      "urls": [
+        {
+          "sign": "eebcd8e58a72b6fced80a951cd6f66c52da379f98a50849a80d0b49ebca255d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaisjoukkueet kilpailevat edelleen eurokilpailujen liigavaiheista – menestys voi tuoda miljoonia",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
