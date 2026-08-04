@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T14:27:55Z",
+  "updated": "2026-08-04T14:42:19Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -484,36 +484,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-03T10:20:00+03:00",
-      "urls": [
-        {
-          "sign": "6d4a7a66eb9b71a80ec5ac841e3077bb11f9099cbf60aefcf996fc1b94f401c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi-Seelanti teki englannista kolmannen virallisen kielen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T10:15:00+03:00",
-      "urls": [
-        {
-          "sign": "dad51666562f843fec9e28f67432ca5e757e76cfde03d7ca31b434aec9f73124",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaalainen päiväkotijohtaja väittää, että maisterin tutkinto ei ole välttämätön johtotehtävässä.",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-03T10:30:00+03:00",
       "urls": [
         {
@@ -528,21 +498,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "aaf78a65a95442d5e29ca14f48d09e1ebb761d813fc511b6befe96f47c300671",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lounasravintoloiden hinnat nousseet noin 15 euroon – lounasetu nyt 14 euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -736,21 +691,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-03T11:07:30Z",
-      "urls": [
-        {
-          "sign": "911e6a5738dee6dd1626387b9f35cd728116fd9bbcbeceed346be75a56795f6f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkoisen Volvo-katumaasturin kuljettaja otti yhteyttä poliisiin Seinäjoen pyöräilijäonnettomuuden jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-03T11:21:51Z",
       "urls": [
         {
@@ -869,21 +809,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T12:43:46Z",
-      "urls": [
-        {
-          "sign": "ed1df6be737bdc28f4355ebe36b8a9684039be2eb68878f1e432835d7ad782e1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmavoimat jatkaa Hawk-lentoja Mk 66 -koneilla, Mk 51 -koneet tutkinnan vuoksi maassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-03T12:57:25Z",
@@ -6524,6 +6449,83 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-04T17:30:00+03:00",
+      "urls": [
+        {
+          "sign": "37d41b504ab2535483b112b881a3e95040f90fb353f3984f450ba0fdb2638240",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-04T14:42:19Z",
+      "urls": [
+        {
+          "sign": "5d8c111cd494cfb07b6ab0e3d60283840c3a22d69ff36c70e61c6da24a45d4df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Stenbergin mukaan aivot pitää ohjelmoida uudelleen arkeen loman jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-04T14:40:30Z",
+      "urls": [
+        {
+          "sign": "285b687734f52763286c4f7df3260b080270e61d637ae38727982442730485fe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tanska pidentää varusmiespalveluksen 11 kuukauteen ja ottaa naiset asevelvollisuuden piiriin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T17:31:00+03:00",
+      "urls": [
+        {
+          "sign": "9e52df4308b3bec89fdb1a431e738b7b9484baee05c8351021c2fb26ed0c377c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen sotilas ampui sotilaita ja siviilejä Krimillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-04T17:32:00+03:00",
+      "urls": [
+        {
+          "sign": "55b2b1b2ea3416c951954c04a366bf42643d2be0300cd486a5558eb374e150de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alok Yadav, 21, jäi työttömäksi Woltin tilien vuokrauskieltopäätöksen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
