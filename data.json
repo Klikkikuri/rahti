@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T18:43:00+03:00",
+  "updated": "2026-08-04T15:51:12Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -499,38 +499,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-03T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "66e81437015d4419224ad89baad76bb715947c73febf09ad875c5f804057cebf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henkilöstön arvostaminen ratkaisee kotihoidon haasteet",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "3b8d76a613055c1bd8d7f1fd958be7d18985dd8e1c012a9f2a68e1a278c475dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-03T12:23:00+03:00",
       "urls": [
         {
@@ -715,21 +683,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-03T12:57:25Z",
-      "urls": [
-        {
-          "sign": "0db9edbd484f334062d7709c53b11090429833971d13fccfbe19948cd7e605a7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nauru vaihtoi nimensä Naoeroksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-03T16:00:00+03:00",
       "urls": [
         {
@@ -745,21 +698,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T13:01:00Z",
-      "urls": [
-        {
-          "sign": "338bf387f34facf6f561ce111cdee943efb89dd9436cf120dce831e296224470",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dokumentti valottaa Salatut elämät -sarjan ikonisten kohtausten kuvausprosessia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-03T13:03:39Z",
@@ -6524,6 +6462,68 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-04T15:40:50Z",
+      "urls": [
+        {
+          "sign": "2ea21ad0083a0dfae853e597c13d62108aa8658635efca5b0db61c34b8384959",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Louna Kasvio kahdeksas EM-10 km avovesiuinnissa Pariisissa – kertoi työnnetyn sivuun loppusuoralla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T15:51:12Z",
+      "urls": [
+        {
+          "sign": "ac95a88f198bd33d89635decba389814b547ffcdabe66718da4340b23973f2a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pirkanmaan uimahallit sallivat uimapuvun käytön saunassa – tavoitteena madaltaa kynnystä uimahalliin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "06d08fac84e8083c519734ae3e33f76a79b0b6fbb3bfd0e2ffd9723fd5e82349",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kulttuurialan apurahariippuvuus estää taiteilijoiden kaupallistamisen – yrittäjyyskoulutus puuttuu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-04T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "3acb7b96d28d6db2b53c7359bcf96f49d7b4ffebff8f37db3723b1fedd61e5d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
