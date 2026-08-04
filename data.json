@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T03:25:54Z",
+  "updated": "2026-08-04T03:40:00Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -497,21 +497,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-02T14:02:00Z",
-      "urls": [
-        {
-          "sign": "a6817f5261302c75b696fac71a3094772ceccc2392831f70ffb4232685d7b3ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Juhani kertoo, että iso penis vaikuttaa seksuaaliseen suorituskykyyn ja aiheuttaa esineellistämistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-02T14:25:12Z",
@@ -1895,21 +1880,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-02T16:55:00+03:00",
-      "urls": [
-        {
-          "sign": "bacad71ccea368deba5127d63252c757e2887ec6936f5a0e447e2e9d26f82a63",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Andrei Makarevitš: Kantani ei ole muuttunut, vaikka tuen Israelin puolustusvoimia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-03T05:28:28Z",
       "urls": [
         {
@@ -2428,21 +2398,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T08:43:43Z",
-      "urls": [
-        {
-          "sign": "a85edaa47a74be8bc8ebf26658f05681acb84080b31f0b884b5fe9df736e8fbf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi Anniina Valtonen julkaisi Instagramissa koskettavan viestin esikoiselleen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-03T08:28:22Z",
@@ -6511,7 +6466,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-04T03:25:54Z",
+      "updated": "2026-08-04T03:40:00Z",
       "urls": [
         {
           "sign": "2359c9cf9c2cca2b9e6d7139723690a17914c6f4887636723d05a3c4752969d2",
@@ -6520,8 +6475,55 @@
           ]
         }
       ],
-      "title": "Puolustusvoimat asetti ilma- ja meriliikenteen rajoituksen itäisellä Suomenlahdella mahdollisten lennokkien torjumiseksi",
+      "title": "Puolustusvoimat rajoitti ilma- ja meriliikennettä itäisellä Suomenlahdella lennokkien varalta",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "a459feb5cec7ede86cfd25c0f7c636cf48d07e59bfa00b222b05b19e8297cd26",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-04T03:30:05Z",
+      "urls": [
+        {
+          "sign": "8f924f3d997cf2ce3095016507f627dc8fd5397dce79f35ca83ebf1c9a3538fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Voimamieslegenda Markku Suonenvirta selvisi vakavasta selkäleikkauksesta ja opettelee kävelemään uudestaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-04T03:30:00Z",
+      "urls": [
+        {
+          "sign": "479726c9de38a575020503dfc5ef30b979311ae1df98740be3136a4545948528",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuomas Tuomi-Nikula pelasti veden varaan joutuneen miehen mökkijärvellä juhannuksena",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
