@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T14:57:04Z",
+  "updated": "2026-08-04T15:11:24Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -484,40 +484,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-03T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "9f0dc8ac5435c81ef64b23b45da58bcbe591cbfb8536a42170dfcd6b636b6e4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T10:56:00+03:00",
-      "urls": [
-        {
-          "sign": "5f1d5b16558f7087bb7da5cd5c3d92a1641b91da326e718b0b7cbc856ddde264",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-03T14:01:00+03:00",
       "urls": [
         {
@@ -826,21 +792,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-03T12:58:03Z",
-      "urls": [
-        {
-          "sign": "82862e31724d63473d0c6e827201592f56dac108ad5e21803a90f03e8b35c588",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä ei syytä Kainuun prikaatin kuvia somessa jakannutta varusmiestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-03T13:08:05Z",
       "urls": [
         {
@@ -899,21 +850,6 @@
       ],
       "title": "Mies kuoli saatuaan yhden nyrkiniskun Satama open air -festivaalialueella Kemin keskustassa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-03T12:56:09Z",
-      "urls": [
-        {
-          "sign": "69ab83879c90032b30f3663b967ed42b44728f473657bb8a995281031068fdae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi kaipaa silminnäkijöitä Kaarinan ulosajossa – kuljettajaa epäillään rikoksista",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -6526,6 +6462,68 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-04T15:11:24Z",
+      "urls": [
+        {
+          "sign": "1f10f38495779a944ed8b9ff04f02fdbe80c575ddb20fa6dfa6cc4ef5fc17c1c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lämpöhalvaus saattaa olla aiheuttanut leijonien kuoleman Taman eläintarhassa Japanissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-04T15:03:12Z",
+      "urls": [
+        {
+          "sign": "86b582e512bd3df2bc8b569b705ac776f77a8d144c0bbeece31cdf16de81bbcd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Räjähdys Vaasan kerrostalon ylimmässä kerroksessa loukkasi asukkaan vakavasti – poliisi epäilee alkoholintislauslaitteistoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-04T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "ad1f4588523f655deb1461565ccb2f3bee2752f226212d18cf2fc6df679b60c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-04T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "0eaeb352859078e9ee48ad892da5018fee3de4b075dc55308be3916e184f8240",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ceutan siirtolaiskriisi herätti EU:n sisäministerien hätäkokouksen ja poliittista hyväksikäyttöä Euroopassa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
