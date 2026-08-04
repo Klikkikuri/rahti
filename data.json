@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T21:08:29Z",
+  "updated": "2026-08-05T00:27:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -8448,6 +8448,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-04T21:15:35Z",
+      "urls": [
+        {
+          "sign": "b50fa10c33ff0ab39852655e4d78fb52c8737dbf9fa29ff390908d00595fa957",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Buckinghamin palatsi: Prinsessa Eugenie sai tyttövauvan Portugalissa maanantai-iltana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T00:27:00+03:00",
+      "urls": [
+        {
+          "sign": "ab087d8166479bc7ca81fab18e5db0a64ef811141cb6fab0db1a0f73d7d600d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
