@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-03T23:51:57Z",
+  "updated": "2026-08-04T00:13:06Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -467,21 +467,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-02T15:51:00+03:00",
-      "urls": [
-        {
-          "sign": "757fb1cace9f2892e2b17e87272365370e77dfef9a8436fcc8132c3de5d0b6c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ambulanssi ja henkilöauto kolaroivat Itäväylällä Vartiokylässä – ei loukkaantuneita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-02T13:10:00Z",
@@ -6507,7 +6492,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-03T23:51:57Z",
+      "updated": "2026-08-04T00:13:06Z",
       "urls": [
         {
           "sign": "9a1303d007c892a19e68fdaca044576b170571b55db0152b88273afbdcc9753f",
@@ -6516,10 +6501,25 @@
           ]
         }
       ],
-      "title": "Räjähdys Vaasan Ristinummella aiheutti vakavan loukkaantumisen ja asuntojen käyttökiellon",
+      "title": "Räjähdys Vaasan Ristinummen kerrostalossa loukkasi yhden vakavasti, aiheutti asuntojen käyttökiellon",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-04T03:04:00+03:00",
+      "urls": [
+        {
+          "sign": "e9bbd24a52f8ccb11c6bf922783a1976c767152541ccbe3167c17150aaef47cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Räjähdys kerrostaloasunnossa Vaasassa loukkasi yhden vakavasti ja evakuoi noin kaksikymmentä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
