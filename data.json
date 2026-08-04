@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T02:38:37Z",
+  "updated": "2026-08-04T02:50:00Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -452,36 +452,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-02T13:10:00Z",
-      "urls": [
-        {
-          "sign": "829310c5116fe6aabc713a8062594a0b7eb293f97735d3a5fe9e15120af762d2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "OPEC+ lisää öljyntuotantoa 188 000 tynnyrillä päivässä syyskuusta alkaen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-02T13:12:52Z",
-      "urls": [
-        {
-          "sign": "bea73f1f68f1b930bc6813575eca9719423b70f7036f023c95f38eb5c1ab0c6a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jari-Matti Latvala voitti Rally2-luokan Suomen MM-rallissa kolmannella yrityksellään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-02T13:36:22Z",
@@ -2545,23 +2515,6 @@
       "title": "Kartanlukija Julien Ingrassia: Sébastien Ogier menetti tajuntansa ja sai lievän aivotärähdyksen Jyväskylän MM-rallin ulosajossa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-03T08:12:37Z",
-      "urls": [
-        {
-          "sign": "30642cc09d7591bdad7d813e6c2962a416a0e55611ce8d712991c25e49665623",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -6520,6 +6473,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T02:50:00Z",
+      "urls": [
+        {
+          "sign": "deaaae97d3cf745b5668e71420f41e63901caa89fe83b3830bce85806bf63a6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Laittomien rajanylitysten määrä EU:hun laski 37 prosenttia – Välimeren reitit yhä vilkkaimmat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T02:46:39Z",
+      "urls": [
+        {
+          "sign": "c528f083e0304b6f219c84c0733575ede8c6db9c81bf7468cb086c59ac3790ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "25 osavaltiota haastaa Trumpin hallinnon oikeeseen tuontitullien vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T02:47:09Z",
+      "urls": [
+        {
+          "sign": "efa532cc42f8e41946a54335c1082f5e3531f0f3ee4980170e5a124f1ab5a2f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa huviveneilijöitä kovaa länsituulta Perämerellä tiistaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
