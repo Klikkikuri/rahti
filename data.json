@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-04T17:38:29Z",
+  "updated": "2026-08-04T17:56:43Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -655,21 +655,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-03T13:57:28Z",
-      "urls": [
-        {
-          "sign": "f98c87c274cea9c4c66fc9a098a653e0e59103c8dfb9ebd86f7c656abc6de400",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hormuzinsalmeen jumittuneet laivat voivat levittää haitallisia lajeja maailman meriin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-03T16:45:00+03:00",
       "urls": [
         {
@@ -852,21 +837,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T14:47:15Z",
-      "urls": [
-        {
-          "sign": "ac6137ed83b4f233f44cdf8e17ace9cb205820e01f8134f8e7bfb544c5b5cb39",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jens Kukka hakee valtiolta yli kahta miljoonaa euroa korvauksia vapaudenmenetyksestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-03T18:00:00+03:00",
@@ -2490,21 +2460,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-04T05:04:08Z",
-      "urls": [
-        {
-          "sign": "950626c5b5e0470a7c056c5270b241f7ae16964324597593cc41a519294804b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karviainen on väheksytty mutta ravinteikas marja – kypsyy nyt",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-04T05:00:57Z",
       "urls": [
         {
@@ -2533,21 +2488,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-04T05:23:22Z",
-      "urls": [
-        {
-          "sign": "f077bd6c86fbd6ce58044bfa4775c7c560a1abc4ebf2701b1dbeef47287d06ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brynén kunta tarjoaa Haaland-safari -kierroksia turisteille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-04T05:19:10Z",
@@ -6516,6 +6456,66 @@
       ],
       "title": "Audi julkisti uuden lippulaiva-SUV Q9:n – suurin katumaasturi mallistossa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-04T17:45:39Z",
+      "urls": [
+        {
+          "sign": "f2b2f840984385c3ca84d4a228a98971a8164db2453cc8ca5dc99a80be8887c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HIFK Fotboll päättää yhteistyön päävalmentaja Telmo Mannisen kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-04T17:54:00Z",
+      "urls": [
+        {
+          "sign": "00319a58482968e44d732e70281464c3e401fa51a0ea8827066912d8a1612656",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuuban sähköverkko palasi toimintaan laajan katkon jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-04T17:45:01Z",
+      "urls": [
+        {
+          "sign": "47a1367d8ff355381c6bf6d5d2615deb0adb994d960cafa2a7e061f6387258da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jääkiekon Mestarien liiga koetaan taloudellisesti rasittavaksi – seurojen harkitaan vetäytyvän",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-04T17:56:43Z",
+      "urls": [
+        {
+          "sign": "4b6462adc7406c1467351e0bdeceecc9c1c4c1e46c953a15344f495fb1a11e2b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tradeka-Yhtiöt aloittaa Café Ursulan purkamisen elokuussa – tilalle rakennetaan uusi kahvila-ravintola",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
