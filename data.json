@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T01:55:01Z",
+  "updated": "2026-08-05T02:08:41Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -8773,6 +8773,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-01T16:39:08Z",
+      "urls": [
+        {
+          "sign": "89f4d59f085c4c0ebf8d59bf4dee4ebd20db9da0c43b304b85541fcc8815aebb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nirmal Purja ja kiipeilyseurue kuolivat lumivyöryssä Broad Peakillä Pakistanissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T02:08:41Z",
+      "urls": [
+        {
+          "sign": "64111bf412da6f6f931d02d84a32ae4338bd36be485b10334d4aa4aca5ac77f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän yölliset iskut aiheuttivat kuolemantapauksen ja haavoittumisia Kiovassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
