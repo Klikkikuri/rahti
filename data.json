@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T11:38:27Z",
+  "updated": "2026-08-05T11:58:36Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -6582,21 +6582,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-02T20:06:07Z",
-      "urls": [
-        {
-          "sign": "b8a5620ff24fe9ed5d4330d676458768e6524cf2e4f864577dde8113c44873a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lula tavoittelee neljättä kautta Brasilian presidentinvaaleissa lokakuussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-03T11:00:00+03:00",
       "urls": [
         {
@@ -11407,6 +11392,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T11:53:48Z",
+      "urls": [
+        {
+          "sign": "4b4ae0667b0084703f2b769fbcd61bd1fb4748ccc2f38649071d7733683a4425",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin poliisi tuomitsee Dennis Pastersteiniin kohdistuvan somejulkaisun ja tutkii kunnianloukkausepäilyälyttäminen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T11:58:36Z",
+      "urls": [
+        {
+          "sign": "2cfe6fe01f7c2697dcb20d4f084ecbe300f4a27590cd488e84c63dc5f2890366",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisijohtaja Dennis Pasterstein jätti tutkintapyynnön Ilkka Vainion somepostauksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T11:49:08Z",
+      "urls": [
+        {
+          "sign": "6e6ee91dad28a2b42467869c8aafd0102150c6a2327c334b7d4aca08988cb0f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "AZ:n kannattajat rikkoivat hiljaisen hetken Rob Dieperinkin muistolle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
