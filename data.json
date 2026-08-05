@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T12:26:37Z",
+  "updated": "2026-08-05T12:37:47Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -11642,6 +11642,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T12:29:52Z",
+      "urls": [
+        {
+          "sign": "a08ee4b08d2ff6f854173b487df5699de40e2a59c0c131855f2b1dac86d22b71",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nuori nainen kuoli moottoripyörän ulosajossa Kuopiossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T12:34:57Z",
+      "urls": [
+        {
+          "sign": "33c346acfecae3e9a64a8bc4cce2e9b86d71c28e15306697f9197175112169f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Timo Soini arvostelee perussuomalaisten maahanmuuttopolitiikkaa Orpon hallituksessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T12:37:47Z",
+      "urls": [
+        {
+          "sign": "772eaf65622b33485bf9a2032470a129672df5d9d33af86e9c911d99dd170a53",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fernando Alonso osti ainutlaatuisen Lamborghini Sianin Monacossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
