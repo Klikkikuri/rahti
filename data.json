@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T10:14:21Z",
+  "updated": "2026-08-05T10:20:18Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -10893,6 +10893,70 @@
       "title": "Jäätelökioski myi 4400 pehmistä Jäätelöiden yönä Turussa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T10:12:38Z",
+      "urls": [
+        {
+          "sign": "89a1707962b8a7fa706da88d4890bcb22eddbe145a2bc4c342b52840544ba253",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Evakuoidut asukkaat saavat palata Vaasan Ristinummin kerrostaloon räjähdyksen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "5d3c331bd815fdecfa969264bf5159e15ec934e410c666139e5c86418ea1dd24",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Työnohjaaja Maarit Slätis vaatii työelämään enemmän yhteisöllisyyttä ja avointa keskustelukulttuuria",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T10:16:57Z",
+      "urls": [
+        {
+          "sign": "4a213f957e9e957af2c0b8e763f68d670601d5534ae6bb6f37d8cab9aa70b958",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "9-vuotiaana auton törmäyksessä loukkaantunut Olli Keränen varoittaa nyt kypärän käytöstä ja varovaisuudesta kouluteillä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T10:20:18Z",
+      "urls": [
+        {
+          "sign": "3d4c1e6f27ecf01c5cb141f8617641d84b8194b83422c1759282e7aad266cbb8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Prinssi Ali bin Al Hussein syyttää FIFAa ja Gianni Infantinoa kiristyksestä Jordanian jalkapalloliiton palkintorahoista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
