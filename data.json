@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T03:21:45Z",
+  "updated": "2026-08-05T03:44:43Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -394,7 +394,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-04T13:57:15Z",
+      "updated": "2026-08-05T03:44:43Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -403,7 +403,7 @@
           ]
         }
       ],
-      "title": "Trump kertoi lykkänneensä mahdollisen iskun Iraniin ja perusteli päätöstä sopimuksen nopealla valmistumisella",
+      "title": "Trump lykkäsi mahdollisen iskun Iraniin ja väitti Israelin tukevan päätöstä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -8790,7 +8790,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-05T02:08:41Z",
+      "updated": "2026-08-05T03:34:06Z",
       "urls": [
         {
           "sign": "64111bf412da6f6f931d02d84a32ae4338bd36be485b10334d4aa4aca5ac77f9",
@@ -8799,11 +8799,9 @@
           ]
         }
       ],
-      "title": "Venäjän yölliset iskut aiheuttivat kuolemantapauksen ja haavoittumisia Kiovassa",
+      "title": "Venäjän yölliset iskut aiheuttivat kuolemia ja haavoittumisia Kiovan alueella",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -9021,6 +9019,113 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T03:30:37Z",
+      "urls": [
+        {
+          "sign": "714c6a47f64fe45a857332e28725acb4ff972b7da56db7b834fdd63b048a10d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mo Gilliganin 28 päivän friteeratun kanan dieetti Netflix-dokumentissa heikensi terveyttä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T03:30:00Z",
+      "urls": [
+        {
+          "sign": "dfa7cdd3dafd97a90cbf7b228223d17717c35a6dd1c3b2382526051ec547945d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SpaceX:n Falcon 9 -raketin osa törmää Kuuhun noin 8 700 km/h nopeudella – odotettu kraatteri yli 17 metriä leveä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T03:40:55Z",
+      "urls": [
+        {
+          "sign": "42380178c2d30aeef3291b9ea8e13306332e6e0b05afc2e11a07391e21642446",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinki siirtää koulujen oppilaaksiottoalueiden rajoja Itä-Helsingissä vuodesta 2027 alkaen tasoittaakseen oppilasmääriä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T03:36:06Z",
+      "urls": [
+        {
+          "sign": "60e9181d1d04b38bf456a3e9e6c2a942dc379e0799557f1f143d3b84d95e1123",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fifan puheenjohtaja Gianni Infantino kutsuu hätäkokouksen kritiikin ja paineen keskellä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T03:41:41Z",
+      "urls": [
+        {
+          "sign": "f1a0ca618484456d137e7e55d21db21596a7f179f7d1c10f4b6a3c8569bc8b32",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset evakuoivat yli 600 ihmistä Guatemalan Fuego-tulivuoren purkauksen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "7b18efbd3d2e372785483f7bd6a62d756184c6d00b5aeb2d56333515026f2395",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T03:30:33Z",
+      "urls": [
+        {
+          "sign": "5dbde6eb564042ec2bb47e6cce77a3a5387a9e697b49abe9df4a8f6a6f3d8bc2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "IPV Reds Oy:n toimitusjohtaja poisti kommentaattori Jari Beloffin Superpesis-lähetyksistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
