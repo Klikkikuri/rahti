@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T18:52:38Z",
+  "updated": "2026-08-05T19:14:37Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -3428,21 +3428,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-04T09:44:02Z",
-      "urls": [
-        {
-          "sign": "04f481e80f0558f16cae98377343b60bab56c2b451343169f6e364e42992f3ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin golfvoitto kyseenalaistetaan – videolla hän rikkoo sääntöjä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-04T09:59:17Z",
       "urls": [
         {
@@ -3548,21 +3533,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-04T10:01:13Z",
-      "urls": [
-        {
-          "sign": "47cdba7ec475f8863041d6155994f5c580f23706db33ae3496d6547020a7f602",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset tutkijat hidastivat rintasyövän kasvua estämällä MYC-proteiinin energiankäyttöä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-04T10:02:08Z",
@@ -12619,6 +12589,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T19:14:37Z",
+      "urls": [
+        {
+          "sign": "d50342747e8eb1d2bd57bb9115beca21958f250194165fed7bc1ae9ace68df12",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Neljä urheilijaa katosi Glasgow'ssa Kansainyhteisön kisojen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T19:02:47Z",
+      "urls": [
+        {
+          "sign": "3f0241dfa063e35e755139a437bb761fa622cafe68d4c6409cd978b624caa8a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin sanoo rauha pelottaa venäläisiä enemmän kuin sota",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
