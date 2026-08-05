@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T10:28:00+03:00",
+  "updated": "2026-08-05T07:41:31Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -439,7 +439,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-05T04:24:18Z",
+      "updated": "2026-08-05T07:41:21Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -448,7 +448,7 @@
           ]
         }
       ],
-      "title": "Venäjän iskut Kiovaan ovat tappaneet ja haavoittaneet useita ihmisiä – IL seuraa sotaa",
+      "title": "Kiovan iskussa on useita kuollut ja loukkaantunut – Zelensky pyytää liittolaisilta ilmatorjuntaohjuksia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -9992,6 +9992,85 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T07:41:10Z",
+      "urls": [
+        {
+          "sign": "1d0c1c34b9b68850f5005bfd98536904a973720d8e4f53e5928b76646c4a7aa0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Moottoripyörän kuljettaja menehtyi henkilöauton nokkakolarissa Nurmijärvellä – poliisi epäilee kuljettajaa törkeästä rattijuopumuksesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T07:41:31Z",
+      "urls": [
+        {
+          "sign": "c40fe90afe65222828d42bc85f8809418547d836461e8c119e2509bb7cbad58a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teknologiateollisuus raportoi tilausten kasvusta ja parantuneista näkymistä – epävarmuus maailmantaloudessa jatkuu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T10:40:00+03:00",
+      "urls": [
+        {
+          "sign": "7836b9086a7b43dda335958d5cb06660d916f4c9bd8c5af50e2fd22c8922ba5b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Blind Channel palaa tauolta: uusi albumi Painstream julkaistaan lokakuussa, paluukeikka Helsingissä marraskuussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T10:36:00+03:00",
+      "urls": [
+        {
+          "sign": "cd98d2f0dbdc11a083be0209b84f2e8299609f293a2e171929783c4e4a7f930c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T07:30:35Z",
+      "urls": [
+        {
+          "sign": "ab397fb74451589e28a163954a86765c59ae3eb9974c72f5b2d31c23ef65676b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Romuyrittäjä Antti Manninen listasi Suomen parhaat ja huonoimmat automallit – Toyotat kärjessä, Fordin kaksoiskytkinvaihteistot heikoimmat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
