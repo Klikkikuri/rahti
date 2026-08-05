@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T05:11:56Z",
+  "updated": "2026-08-05T05:28:49Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -9462,6 +9462,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T05:28:49Z",
+      "urls": [
+        {
+          "sign": "ad1767811bcea571b78be39abc0a44b7b77af710acf6e51e14cfbf9826906e81",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Afrikkalaisen sikaruton metsärajoitukset pakottivat Lappeenrantalaisen koirakouluttajan perumaan tunnit",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T05:09:25Z",
+      "urls": [
+        {
+          "sign": "535507adc80baa014f8a137bbf8d362b32a695f88e9b484cf761bd4ad30238c6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Gianni Infantino kutsui koolle kriisikokouksen Rabatiin – MM-kisojen myyntisuunnitelma peruttu, kritiikki jatkuu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
