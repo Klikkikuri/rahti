@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T05:57:47Z",
+  "updated": "2026-08-05T06:12:56Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -5760,7 +5760,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-04T18:30:00+03:00",
+      "updated": "2026-08-05T09:09:00+03:00",
       "urls": [
         {
           "sign": "c9332dd983980bea544367275925edfec532245671261a125f9ceb9aa35f0d37",
@@ -5897,7 +5897,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-04T18:45:00+03:00",
+      "updated": "2026-08-05T09:09:00+03:00",
       "urls": [
         {
           "sign": "3acb7b96d28d6db2b53c7359bcf96f49d7b4ffebff8f37db3723b1fedd61e5d1",
@@ -9554,6 +9554,83 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T09:04:00+03:00",
+      "urls": [
+        {
+          "sign": "5e0889a2c4f660dd49ede4ab90a17cc1c60f9deeb3b7f9cbc2bd28f793a0440d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Töölönlahden kevyen liikenteen kaista kapenee työmaan vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T06:07:17Z",
+      "urls": [
+        {
+          "sign": "c31483b7a055f0ffa3f8cb99b72a2a4352717116cca1c75ff45290089a508a92",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolmasosa varhaiskasvatuksen opettajista kokee väkivaltaa työssään – johtaja: lapset eivät osaa ilmaista tunteita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "98312e6af26111e2621cb5b898a165663d7a5ce7bef7bfc1b543f9e9b1e1f6a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T06:12:56Z",
+      "urls": [
+        {
+          "sign": "b415653e0fe09b1fb90fc329b0559bc628b1d8397c0f08f86d727e92365a8567",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Heka lisää vartiointia ja kameroita Postipuiston häiriöiden vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T05:59:59Z",
+      "urls": [
+        {
+          "sign": "41e77b644c935709deb8fc71041c654a009878eb9f4e9c0a0b462fbf12482805",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HKFoodsin liikevaihto kasvoi yli viisi prosenttia, mutta kustannusten nousu syö kannattavuutta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
