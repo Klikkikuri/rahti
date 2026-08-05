@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T20:57:36Z",
+  "updated": "2026-08-05T21:39:32Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -3670,21 +3670,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-04T11:21:54Z",
-      "urls": [
-        {
-          "sign": "af11400024eb27eedf6acb73085776b9feb23c2cfa019b60f71832537e9f8e52",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Thierry Neuville kritisoi Suomen MM-rallia liian nopeaksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-04T11:24:15Z",
@@ -12666,6 +12651,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T21:39:32Z",
+      "urls": [
+        {
+          "sign": "2279ee5142570e85fc0bf689ca3747e17fc5a07870399fbc85ebecd1a84d510c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ceutan viranomaiset varautuvat mahdolliseen elokuun rajanylitykseen sosiaalisen median viestien perusteella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
