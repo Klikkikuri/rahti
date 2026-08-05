@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T06:23:56Z",
+  "updated": "2026-08-05T06:41:38Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -8604,7 +8604,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-05T02:00:00+03:00",
+      "updated": "2026-08-05T09:37:00+03:00",
       "urls": [
         {
           "sign": "61f2a16ec28e4b7df6bd38ab6b8183a8d259e2b0ffae83a9ff673a35e2b79c6f",
@@ -9661,6 +9661,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T06:38:04Z",
+      "urls": [
+        {
+          "sign": "162601e13803d65458aa8933b8b729a466c6e41612951bb57a09ceb848aa2959",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksan poliisi tutkii Leipzigin lentokentän kiitoradan lähellä löytynyttä epäilyttävää esinettä – lentoliikenne häiriintyi yön aikana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T06:41:38Z",
+      "urls": [
+        {
+          "sign": "e58205b2dc5d5775a5a249d6154291319c20590772dbc9b5af68a28520c6a685",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Samsungin magneettinen varavirtalähde peittää Galaxy S26 Ultran kameralinssin – käyttäjät kritisoivat ulkonäköä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T06:36:27Z",
+      "urls": [
+        {
+          "sign": "1577df2667a099c4373d44679b29ae5c0486da7bbfba0dfea447c993974159bf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opposition kritisoi hallituksen yhteisöveron alennusta – ei kasvutoimi, varoittaa velkaantumisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
