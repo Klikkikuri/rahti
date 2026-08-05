@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T13:14:58Z",
+  "updated": "2026-08-05T16:27:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -7719,21 +7719,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-03T03:20:00Z",
-      "urls": [
-        {
-          "sign": "56f1415fec221906fb250c2ffc73f0a81a72b20a83a96cc8de67fee60c31ef4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainan prikaatin video paljastaa metsän täynnä venäläisten droonien valokuitujohtoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-03T05:30:00+03:00",
       "urls": [
         {
@@ -9983,7 +9968,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-05T07:53:44Z",
+      "updated": "2026-08-05T13:22:06Z",
       "urls": [
         {
           "sign": "6eebd77aa1e9ad69817e8bef759b49a25ff7fc5c7319f84ecdc4c512b1f4805b",
@@ -9992,11 +9977,9 @@
           ]
         }
       ],
-      "title": "Eteläinen kiitotie suljettiin Leipzig-Hallen lentokentällä epäilyttävän esineen vuoksi",
+      "title": "Poliisi löysi Leipzig-Hallen lentokentältä droonin räjähteellä, DHL:n rahtikone osui tuntemattomaan esineeseen",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -11225,7 +11208,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-05T15:07:00+03:00",
+      "updated": "2026-08-05T16:27:00+03:00",
       "urls": [
         {
           "sign": "b139275d672fb25eacab408385a1fb64edf11165284a8680d6fea1fd4dd5b0fc",
@@ -11234,7 +11217,7 @@
           ]
         }
       ],
-      "title": "Postin jakeluvirhe ohjasi noutopostiasiakkaiden postia Lietosta Helsinkiin ja takaisin viikoiksi Turussa",
+      "title": "Postin jakeluvirhe aiheutti viikkojen postiviiveitä Turun noutopostiasiakkaille",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -11864,6 +11847,68 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T13:17:55Z",
+      "urls": [
+        {
+          "sign": "2b00113a338dca29c737ac410c98d46572834b1d05e5a61c9a2925aa5025bf94",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "K-ryhmä: Prisman tukkumyyntiä kokeiltiin vuosia sitten, mutta hanke lopetettiin vähäisen kysynnän vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T13:24:03Z",
+      "urls": [
+        {
+          "sign": "a645dc584a0a69ee4550cfe21adc284b43c7b41b721a104c4eb8087398cbea2d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jätehuolto löysi heitetyn miljoonan euron lottokupongin ja palautti sen italialaiselle naiselle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T13:15:11Z",
+      "urls": [
+        {
+          "sign": "f0d5e8bd22768b3f58d72f86d882410afaec2f3b0cfa7fa564a30b4ba8d19e94",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KRP epäilee 17 Konecranesin työntekijää yrityssalaisuuden rikkomisesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T13:22:07Z",
+      "urls": [
+        {
+          "sign": "31eb5ce4075c13ab05911b548c6efc85f5bbd66332b15007c12ba6ce2e3c802d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Superpesis-pelaaja Kasperi Kaksonen pahoittelee huumausaineen käyttörikosta ja jättää Kiteen Pallon toiminnan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
