@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T03:44:43Z",
+  "updated": "2026-08-05T07:00:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -9113,7 +9113,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-05T03:30:33Z",
+      "updated": "2026-08-05T03:58:34Z",
       "urls": [
         {
           "sign": "5dbde6eb564042ec2bb47e6cce77a3a5387a9e697b49abe9df4a8f6a6f3d8bc2",
@@ -9122,10 +9122,74 @@
           ]
         }
       ],
-      "title": "IPV Reds Oy:n toimitusjohtaja poisti kommentaattori Jari Beloffin Superpesis-lähetyksistä",
+      "title": "IPV Reds Oy:n toimitusjohtaja poisti Jari Beloffin Superpesis-lähetyksistä – syyksi kerrottu liian negatiivinen kommentointi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T03:52:00Z",
+      "urls": [
+        {
+          "sign": "98cadcb39b06d3052317e79a39187b0ca2647193079a162a93d87da24ed58dae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kirurgin vakava hoitovirhe uhkasi potilaan henkeä – lääkäri menetti lupansa pysyvästi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "00fbc360b6b0620fac2044047e6bc8bab68b52d05cdaf137614de856e2c96613",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T03:46:48Z",
+      "urls": [
+        {
+          "sign": "10ac159ae0939b02b709973f2fd1008dd9eb77468f85a84b2cbf2b9740f57a6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T03:50:00Z",
+      "urls": [
+        {
+          "sign": "42c190e96e97c36c164460f267b99da8a8f87e0e81dfb4d425ebdb779ea11837",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mökkikaupan arvo nousi alkuvuonna, kauppojen määrä laski 1,6%",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
