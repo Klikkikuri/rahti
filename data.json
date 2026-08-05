@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T21:50:55Z",
+  "updated": "2026-08-06T01:02:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -6422,21 +6422,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-03T05:30:00+03:00",
-      "urls": [
-        {
-          "sign": "26e04bf7e25cadfe2c22e147091c7fcb265f7f14b99b53dce6cadb14bc282f2a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turistilentokone syöksyi maahan Nazcan linjoilla Perussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-03T12:57:00+03:00",
       "urls": [
         {
@@ -12683,6 +12668,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-06T01:02:00+03:00",
+      "urls": [
+        {
+          "sign": "497d76a80d549c60bb1805306583402623df38843fdde65fac415f690b462933",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksan sisäministeri Dobrindt pitää Leipzigin lentokentän räjähdedroonia hybridioperaationa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
