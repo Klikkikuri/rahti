@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T08:28:37Z",
+  "updated": "2026-08-05T08:45:04Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -10353,6 +10353,83 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T11:32:00+03:00",
+      "urls": [
+        {
+          "sign": "54429955a4a69c7d06fee23d52172c7e7170e50508aa8e5344622258abe2092d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "DHL:n rahtikone törmäsi tuntemattomaan esineeseen ja teki hätälaskun Hannoveriin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T08:45:04Z",
+      "urls": [
+        {
+          "sign": "209ace29edb3b85c35d8445e4b42f72a496bee65ba698b09e17f40cc27e60ba5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Skanska varoittaa: Datakeskusrakentaminen uhkaa tyrehtyä työvoimapulan vuoksi Suomessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T08:39:21Z",
+      "urls": [
+        {
+          "sign": "2ff227dbcf7650baf897897d7807b908acd365c1cf4da3b8812090ae7d1c1a6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Georgina Rodriguez vastasi kehon arvosteluun: 'Arvo ei perustu ulkonäköön'",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T08:44:42Z",
+      "urls": [
+        {
+          "sign": "1ccc4f6c9ee6434176d7b6ba5f1a852f1c270982c69c853dea21fd5b8af80775",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Linda Lampeniuksen asu keräsi kehuja, mutta Pernilla Wahlgren pudotti vahingossa viulun Allsång på Skansen -ohjelmassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T08:38:49Z",
+      "urls": [
+        {
+          "sign": "a093c1791c68760b269bd31058a1b2b77244e07fadf2c846cb55ca6e2dbc77d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Drooni häiritsi Leipzig-Hallen lentokentän liikennettä – useita lentoja ohjattiin muualle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
