@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T09:42:00Z",
+  "updated": "2026-08-05T12:59:22+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -439,7 +439,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-05T08:23:32Z",
+      "updated": "2026-08-05T09:50:39Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -448,7 +448,7 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda vahvistuu Suomen Nato-jäsenyyden jälkeen – asiantuntijat varoivat disinformaatiosta",
+      "title": "Venäjän propaganda voimistuu Suomen Nato-jäsenyyden jälkeen – asiantuntijat varoivat disinformaatiosta ja mustamaalauksesta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -10678,7 +10678,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-05T09:34:00Z",
+      "updated": "2026-08-05T12:59:22+03:00",
       "urls": [
         {
           "sign": "a24da229bee977353d839859de51fd80af1618385088c24389244d6044618443",
@@ -10687,7 +10687,7 @@
           ]
         }
       ],
-      "title": "Puuilo siirtää bideesuihuit bideesuihkut lukollisiin kaappeihin varkaiden estämiseksi",
+      "title": "Puuilo siirtää bideesuihkut lukollisiin kaappeihin estääkseen varkauksia",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -10724,6 +10724,68 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T09:56:21Z",
+      "urls": [
+        {
+          "sign": "b56221809221af45f096a8e76ab0284994a95d8579c179a7192c22065207ee4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Evakuoidut palaavat koteihinsa Ateenan luoteispuolella maastopalojen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T12:54:00+03:00",
+      "urls": [
+        {
+          "sign": "91ff5b0ab5e9f105b6265683c1011580023c60e59005254d925297cfd9bad98f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T09:46:19Z",
+      "urls": [
+        {
+          "sign": "8c61b888aa3c5d9e48d3c35b0c748e76eddd0309245137f156c77113315d6935",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kim Yo-jong syytti keskiviikkona Japania sotilaallisen vahvistumisen kiihdyttämisestä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T09:55:43Z",
+      "urls": [
+        {
+          "sign": "4cc70fa47029c2eb5ee974411f61535f03f90d91224947f4fb82fa375166a691",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkija Laura Wiman: hyvinvointivaltio mahdollinen nollakasvussa, Purra vaatii numeerisia laskelmia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
