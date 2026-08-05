@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T07:13:36Z",
+  "updated": "2026-08-05T10:28:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -394,7 +394,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-05T07:06:02Z",
+      "updated": "2026-08-05T07:27:46Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -403,7 +403,7 @@
           ]
         }
       ],
-      "title": "Trump väitti Iranin iskun lykätyksi ja Israelin tukevan päätöstä – Iran kutsui väitteitä valheiksi",
+      "title": "Israel hylkäsi Trumpin suunnitelman Iranin konfliktin ratkaisemiseksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -8497,7 +8497,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-05T09:23:00+03:00",
+      "updated": "2026-08-05T10:25:00+03:00",
       "urls": [
         {
           "sign": "46fc2bbafe8c50b0308e3c3711c574d63d19234f89728ca59600ae6f6752229f",
@@ -8506,7 +8506,7 @@
           ]
         }
       ],
-      "title": "Fuego-tulivuoren purkaus pakotti noin 1 700 asukasta evakuoitumaan Guatemalassa keskiviikkoaamuna",
+      "title": "Fuego-tulivuoren purkaus aiheutti evakuointeja – lähes 2 000 ihmistä joutui lähtemään kodeistaan Guatemalassa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -9911,6 +9911,87 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T10:15:00+03:00",
+      "urls": [
+        {
+          "sign": "6b9f62e9a2f780c827ff17e661fd24733455f0a8f20802a6622c3de01cbcbed3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Väärät ruokalistamerkinnät buffetissa voivat vaarantaa keliaakikoiden ja allergikkojen terveyden",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T07:25:49Z",
+      "urls": [
+        {
+          "sign": "1b5862086daac8f0db5d1faab7ad1bc74a7c7ba65464070b2662dd4d1b5dbea6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Impulsiiviset ihmiset sairastuvat sydän- ja verisuonitauteihin kolmanneksen todennäköisemmin, ranskalaistutkimus osoittaa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T07:18:33Z",
+      "urls": [
+        {
+          "sign": "9f7855b768833523b237df54e5c48321369f62c87712e7fbafffefcaa6f7de38",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainalainen perhe avasi kahvilan Imatran uudessa matkakeskuksessa kesän alussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T10:25:00+03:00",
+      "urls": [
+        {
+          "sign": "f7c3d6d472d97025082601fd7d03cf1697c2654c714598ad1884c414fe45b13f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ursa ennustaa osittaista auringonpimennystä Suomeen ensi viikon keskiviikkona – jopa 85 prosenttia Auringosta peittyy",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T10:28:00+03:00",
+      "urls": [
+        {
+          "sign": "25e19087390f1c81d3e1b8179fa0f15a9dcc6975b951034004f89b03ebf79f41",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
