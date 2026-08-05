@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T02:30:39Z",
+  "updated": "2026-08-05T02:49:03Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -8852,6 +8852,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-05T02:45:00Z",
+      "urls": [
+        {
+          "sign": "5e5d22ab977a39ee70ed93ae4a7e9cd62d06b66ebdabf93750feb57d9b6abecf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan puolustusmenot kasvavat nopeasti – EU:n menot ennustetaan 454 miljardiin euroon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-05T02:49:03Z",
+      "urls": [
+        {
+          "sign": "85d112cf6b55093958bde863d4e1562a7432c68fd7214c0b5358a71c23328961",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kilvettömällä moottoripyörällä ajanut mies pakeni poliisia ylinopeudella Pohjois-Pohjanmaalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T02:12:41Z",
+      "urls": [
+        {
+          "sign": "0ebfdab304169aff87647482ac1ce546318c254419c78da800fceeb25e9d4e74",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU kieltää brasilialaisen lihan tuonnin syyskuun alusta antibioottisääntöjen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
