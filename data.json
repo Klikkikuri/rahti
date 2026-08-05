@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T01:03:46Z",
+  "updated": "2026-08-05T01:26:36Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -8745,7 +8745,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-05T01:03:46Z",
+      "updated": "2026-08-05T01:26:36Z",
       "urls": [
         {
           "sign": "e00e716379f3886648bf4405121cfdc53402cc92859b5793ef09a7d2647635d1",
@@ -8758,6 +8758,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T04:21:00+03:00",
+      "urls": [
+        {
+          "sign": "32258d0d8918769fae9be765196d0cf761a41bd34c266915123fc63dcfff7822",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti miehen Trumpin golfklubin läheltä Los Angelesissa – aseita löytyi autosta ja kotoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
