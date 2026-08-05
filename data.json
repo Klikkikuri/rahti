@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-05T11:00:00+03:00",
+  "updated": "2026-08-05T08:13:02Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -10199,6 +10199,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-05T08:01:06Z",
+      "urls": [
+        {
+          "sign": "b85cab926867c7f0e8df839806b7aa843369c8e731fcab159554a49a48ce72c3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KRP epäilee suomalaisyrityksen työntekijöitä liikesalaisuuden rikkomisesta kilpailijan perustamiseksi",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T08:00:07Z",
+      "urls": [
+        {
+          "sign": "5d835ea323ec4b6505603b74876ee6d05a997b72772164b6632865d115a3f237",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kalevan Prisman apulaismanageri Jussi Sorri avasi uuden tukku-osion",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-05T08:13:02Z",
+      "urls": [
+        {
+          "sign": "2dc307a429db7482a83f11a86160f23ba6987b586767eff2f473ba43d2533cf8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Käyttäjä poistaa älypuhelimen riippuvuutta aiheuttavat sovellukset asetuksilla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
