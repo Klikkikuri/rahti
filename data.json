@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-06T06:15:09Z",
+  "updated": "2026-08-06T06:43:33Z",
   "entries": [
     {
       "updated": "2026-07-17T07:00:43Z",
@@ -948,21 +948,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-03T16:23:34Z",
-      "urls": [
-        {
-          "sign": "564c7e7cceb9c67020a36ec35be7e3d187b5a0d7a2a13246a2c818f255aade23",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto kielsi liikkumisen ja marjastuksen Vappu Kuokan kotialueella afrikkalaisen sikaruton vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-03T20:29:00+03:00",
@@ -4087,21 +4072,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-04T13:48:00Z",
-      "urls": [
-        {
-          "sign": "d8f0af3e32e1e812ee182934629d41a0c679156cc9da2eee3ee3320e78430a9c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin pelastuslaitos irtisanoi pelastajan vakavan laiminlyönnin vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-04T16:45:00+03:00",
       "urls": [
         {
@@ -5361,21 +5331,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-03T12:23:00+03:00",
-      "urls": [
-        {
-          "sign": "0df49720a739559a1c459b85cdf10e21eb8df17fdf5d9573ab02fc1e058775e1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Discover Airlines avaa suoran Frankfurt–Savonlinna–Frankfurt -lennon kesällä 2027",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-03T13:00:00+03:00",
@@ -11562,7 +11517,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-06T06:18:00+03:00",
+      "updated": "2026-08-06T09:42:00+03:00",
       "urls": [
         {
           "sign": "497d76a80d549c60bb1805306583402623df38843fdde65fac415f690b462933",
@@ -11571,7 +11526,7 @@
           ]
         }
       ],
-      "title": "Saksan sisäministeri: Leipzigin lentokentältä löydetty räjähdedrooni on hybridioperaatio",
+      "title": "Räjähdedrooni löytyi Leipzigin lentokentältä – sisäministeri: hybridioperaatio mahdollinen",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -12385,7 +12340,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-06T04:30:00Z",
+      "updated": "2026-08-06T05:49:50Z",
       "urls": [
         {
           "sign": "cdad3c9c73f3d8cad5c7fc4f043c1a59ed245ee6f576e1629a44af791cb5ed3b",
@@ -12394,9 +12349,11 @@
           ]
         }
       ],
-      "title": "Mika Moring saa syytteet Saara Arvan taposta – oikeudenkäynti alkaa Pohjois-Savon käräjäoikeudessa",
+      "title": "Mika Moringin tapauksen oikeudenkäynti alkaa Pohjois-Savon käräjäoikeudessa – syytteenä Saara Arvan tappo",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12569,7 +12526,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-06T05:02:56Z",
+      "updated": "2026-08-06T06:43:33Z",
       "urls": [
         {
           "sign": "d58abcaec07dd6bde55baf162403d7f6bf8fb9fe7e6219cac85189c7ef7d44b9",
@@ -12578,7 +12535,7 @@
           ]
         }
       ],
-      "title": "Mika Moring saa syytteen taposta ja törkeästä vapaudenriistosta Saara Arvan kohtaan Pohjois-Savon käräjäoikeudessa",
+      "title": "Mika Moringille luettiin syyte taposta ja törkeästä vapaudenriistosta Saara Arvan kohtaan Pohjois-Savon käräjäoikeudessa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -12796,6 +12753,51 @@
       ],
       "title": "Hyväntuulentien nopeusrajoitus laskettu 50 km/h:iin tietyön vuoksi – liikenne sujuu malgré ruuhkia",
       "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-06T06:33:10Z",
+      "urls": [
+        {
+          "sign": "ae56d71346feeb84cacc7b3a9529d324824d9078f3266f1c9a7957d8a0266786",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Makeuttamaton hiilihapotettu vesi voi tukea painonhallintaa, tutkimus ehdottaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-06T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "d20047cb3cac5608711f202ac754e3cd1a2310f01f96c266e431972430cb7ed3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Alppikylän kadut täyttyvät romuautoista – asukkaat epäilevät läheisen teollisuusalueen kauppiaiden jättäneen ne sinne",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-06T06:22:25Z",
+      "urls": [
+        {
+          "sign": "0ebb75da432d9b67610e6d27059f5e4f5a29c1344697e4bc95ab0576e5f4ce2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harvian liikevaihto kasvoi huhti–kesäkuussa 52,8 miljoonaan euroon, Pohjois-Amerikka vauhditti kasvua",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
