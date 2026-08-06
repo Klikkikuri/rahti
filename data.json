@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-06T03:43:24Z",
+  "updated": "2026-08-06T06:52:00+03:00",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -5768,23 +5768,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-03T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "426301d8b1dc0e34ff29a16b0e67970a8a995b762b11aca8541e6aff21c24a7e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-03T12:23:00+03:00",
       "urls": [
         {
@@ -5938,21 +5921,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-03T13:01:00Z",
-      "urls": [
-        {
-          "sign": "338bf387f34facf6f561ce111cdee943efb89dd9436cf120dce831e296224470",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi Asian ytimessä.doc -dokumentti paljastaa, miten Salatut elämät -sarjan ikonisimmat kohtaukset tehtiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12800,6 +12768,36 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-06T06:52:00+03:00",
+      "urls": [
+        {
+          "sign": "abb47ac1e4213926149bc46b5d26272e16381b834d6103da63dbb00ee4e9edd1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perussuomalaisten kannatus nousi 15,6 prosenttiin – suurin kasvu Ylen mittauksessa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-06T03:22:00Z",
+      "urls": [
+        {
+          "sign": "57383a1ed4863b8364900af62f0cdb70af6715da7398e84f9f86e970f713e890",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies paritti Tinderissä tapaamansa naisen ja syyllistyi ihmiskauppaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
