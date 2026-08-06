@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-06T02:11:56Z",
+  "updated": "2026-08-06T02:26:27Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -6140,23 +6140,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-03T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "9f0dc8ac5435c81ef64b23b45da58bcbe591cbfb8536a42170dfcd6b636b6e4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-04T18:22:12Z",
       "urls": [
         {
@@ -6230,21 +6213,6 @@
       ],
       "title": "Verohallinto: Tämän vuoden suurin jäännösvero on 136 000 euroa.",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-03T10:35:37Z",
-      "urls": [
-        {
-          "sign": "556d83f3b6e37890ce470f436f655072e04fe9647044085750f89c106c8e412d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Big Brotherin voittajat ja julkisuuteen nousseet kilpailijat vuosilta 2005–2022",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -12768,6 +12736,51 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-06T02:26:27Z",
+      "urls": [
+        {
+          "sign": "470520c71a11e67c7733162adb6ef864c0051e54911ce7809ac265bafe92b1c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Terveydelle vaarallista savua ilmassa Janakkalan Tervakoskella – asukkaita kehotetaan pysymään sisätiloissa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-06T03:20:00+03:00",
+      "urls": [
+        {
+          "sign": "8c1f3f11f04d006d019fe758fe18dc32b259268156c014ab74d33c4712433ec2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Electronic Arts myyty 55 miljardilla dollarilla – ostajina Saudi-Arabian PIF, Silver Lake ja Affinity Partners",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-06T02:11:36Z",
+      "urls": [
+        {
+          "sign": "78bdf8f05441e378c0045ce62539e6014224baa84fd6bb67f01f9d003455a087",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtiovarainministeriö julkaisi budjettiehdotuksensa: 92,2 miljardia euroa, 12,9 miljardia alijäämäinen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
