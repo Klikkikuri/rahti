@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-06T05:06:31Z",
+  "updated": "2026-08-06T05:42:22Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -792,21 +792,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-03T15:01:03Z",
-      "urls": [
-        {
-          "sign": "8e843bdf26fd7b14fb6c7a551b1abec6d0b03327e8127415cfcf37cef7f0a1f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Israelilaiset tutkijat: Sildenafiili rajoittaa syövän leviämistä hiirikokeissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-03T15:12:59Z",
@@ -4175,36 +4160,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-04T13:37:13Z",
-      "urls": [
-        {
-          "sign": "0de763018558101fbaca6efd32630fc0e8a7d27b709bd9b4cc617e969aa298ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heinäluoma vaatii pääministeri Orpoa kommentoimaan Rantasen Schengen-puheita",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-04T13:32:03Z",
-      "urls": [
-        {
-          "sign": "2e633e4e33100346d2a2ef30b41be6ab9e0ee0c5ebb5a64e704763d3f0119dbe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nainen hukkui Turun Uittamon venelaiturilla tiistaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-04T13:36:44Z",
@@ -7773,7 +7728,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-05T08:01:06Z",
+      "updated": "2026-08-06T05:07:53Z",
       "urls": [
         {
           "sign": "b85cab926867c7f0e8df839806b7aa843369c8e731fcab159554a49a48ce72c3",
@@ -7782,7 +7737,7 @@
           ]
         }
       ],
-      "title": "KRP epäilee suomalaisyrityksen työntekijöitä liikesalaisuuden rikkomisesta kilpailijan perustamiseksi",
+      "title": "KRP:n esitutkinta Konecranesin entisten työntekijöiden liikesalaisuusrikoksesta on valmis",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -12794,6 +12749,68 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-06T05:00:52Z",
+      "urls": [
+        {
+          "sign": "2db44efe774ffb770a6f2cb4806c8729b1a1e1eb278364f25778978f65eaf4e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äänekoski Gamesissa tulostaso jäi odotettua heikommaksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-08-06T05:25:27Z",
+      "urls": [
+        {
+          "sign": "5fe5805e0a597614ce065207bb03bec2e90d0eda7b1b9ce31879d015b6659cec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliitikot pohtivat, mitkä valtion etuudet säilyttävät indeksisuojan tulevina vuosina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-06T05:42:22Z",
+      "urls": [
+        {
+          "sign": "a24d6092511f270e5c17592dddc460c264d17c4eb045933126426b9359bf09af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "19-vuotias venäläinen jääkiekkoilija Amir Khanov kuoli yllättäen treffeillä Ufassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-06T05:28:13Z",
+      "urls": [
+        {
+          "sign": "ba3ec7f9c35707519f8a9e0417f374a84cd1a22dca19b079470ba584f999ec8a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Italia on antanut punaisen hellevaroituksen 27 kaupunkiin koko maassa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
