@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-06T00:52:29Z",
+  "updated": "2026-08-06T02:11:56Z",
   "entries": [
     {
       "updated": "2026-07-16T06:17:27Z",
@@ -6187,21 +6187,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-03T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "aaf78a65a95442d5e29ca14f48d09e1ebb761d813fc511b6befe96f47c300671",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lounasedun korotus nostaa ravintolalounaiden hintoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-03T13:15:00+03:00",
@@ -12749,6 +12734,40 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-06T02:11:56Z",
+      "urls": [
+        {
+          "sign": "0b20e2f4a89dee4cf253ca13d93afa6925d99233f7cf1bbed1e405142ca00339",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meksikon terveysministeriö aloitti ruoka- ja vesitestaukset yli kymmenessä hotellissa brittituristien syklosporiaatitapausten jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-06T05:00:00+03:00",
+      "urls": [
+        {
+          "sign": "a343393f435771676cc0780764736cefacc7e0dff4a0217eb94750f0f7533d94",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
