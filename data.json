@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-09T00:00:00+03:00",
+  "updated": "2026-08-09T01:07:00+03:00",
   "entries": [
     {
       "updated": "2026-07-19T08:28:22Z",
@@ -823,21 +823,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-06T03:42:56Z",
-      "urls": [
-        {
-          "sign": "7d6840b79c9e7a194a8828b09724a90c14c7ea1245360f0f04b8d6b795283ebf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uuden-Seelannin pääministeri Luxon ehdottaa kansanäänestystä vaalijärjestelmän muuttamiseksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-06T06:52:00+03:00",
       "urls": [
         {
@@ -944,21 +929,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-06T03:44:53Z",
-      "urls": [
-        {
-          "sign": "c12852cff3018b527a2c1e9973baba17465abe19a3cac5a0ac83bf7f76418ea3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Energiajätekasa palaa Hyötymäen kierrätysasemalla Tervakoskella – vaaratiedote annettu savun vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -5455,21 +5425,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-07T09:05:45Z",
-      "urls": [
-        {
-          "sign": "77ad03a30c4f42222dbff6d60fbf976fa6bed11966cf976759ccf9dff97307f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen pääministeri Keijo Liinamaa kuoli juoksulenkillä 1980 - epäillään KGB:n yhteyttä uhkauksiin ennen kuolemaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-07T06:32:08Z",
@@ -11981,7 +11936,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-09T00:00:00+03:00",
+      "updated": "2026-08-09T01:07:00+03:00",
       "urls": [
         {
           "sign": "dd6a30ef24a65369b24117770dd30bf8b1fe9c127daaad4409a75092fd74fc8a",
@@ -12975,6 +12930,51 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-08T19:31:34Z",
+      "urls": [
+        {
+          "sign": "0da59c0c41ce1ceab5e23174572c3226faa3b039183e32d271630d6ea22a5b58",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "21-vuotias mies vangittu epäiltynä sarjasta seksuaalirikoksia Turussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-08T21:17:10Z",
+      "urls": [
+        {
+          "sign": "9f5ae9240d06096dedb9fe23d8fe33731ade33164e1bf651b0658645b71e76d3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kahden linja-auton törmäys vaati 22 kuolonuhria Nigerissä – 17 uhria sotilaita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-08T21:51:19Z",
+      "urls": [
+        {
+          "sign": "763de43df8de1cdc88078ad248b6c0925d1c2a14d5f510d7caf24a614610995a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eppu Normaali jätti jäähyväiset 50-vuotisella urallaan Tampereen Ratinan stadionilla lähes 100 000 katsojan edessä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
