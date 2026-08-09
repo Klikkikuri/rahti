@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-09T01:22:00Z",
+  "updated": "2026-08-09T01:45:08Z",
   "entries": [
     {
       "updated": "2026-07-19T08:28:22Z",
@@ -349,7 +349,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-08T13:02:15Z",
+      "updated": "2026-08-09T01:45:08Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -670,21 +670,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-06T07:23:44Z",
-      "urls": [
-        {
-          "sign": "97dcae2b3cb8530bb213f11786d28bbf87da714c66e3efbefd6efd6cb9481c05",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Malaysia Airlinesin lentäjä jäi kiinni Jakartassa 26 kilon huumelastin kanssa – kuljetti yli 70 000 ekstaasitablettia",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-06T13:25:18Z",
@@ -11362,7 +11347,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-08T14:56:33Z",
+      "updated": "2026-08-08T20:40:28Z",
       "urls": [
         {
           "sign": "fb115c4f2a20f5a2054b3fb892c9ba3d53ed65c72db95b28fe9c795d37629d84",
@@ -11849,7 +11834,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-08T16:46:28Z",
+      "updated": "2026-08-08T19:10:29Z",
       "urls": [
         {
           "sign": "f0f8d7e372815beca3c99d8ce1a6d60e2b2ad2123d3ef66628c478b4811c0343",
@@ -12968,6 +12953,23 @@
       "title": "Saksalainen turistibussi kaatui Norjassa, useita loukkaantui",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-07T08:56:50Z",
+      "urls": [
+        {
+          "sign": "2fc47a5a861c514f53833aaa572b15277d4d2b7045b63ec47679f472adf455ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi varoittaa: mopoilijat jättävät pysähtymismerkin noudattamatta ja pakenevat – kolme tapausta viikossa Länsi-Uudellamaalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
