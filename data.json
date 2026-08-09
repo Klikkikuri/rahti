@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-09T03:25:28Z",
+  "updated": "2026-08-09T03:45:35Z",
   "entries": [
     {
       "updated": "2026-07-19T08:28:22Z",
@@ -732,23 +732,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-06T05:58:14Z",
-      "urls": [
-        {
-          "sign": "fec16d6d2e062853fefb540647fe684a8dad593cf5c82ffaeeb1db0351e53cda",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SRV:n liikevaihto kasvoi huhti–kesäkuussa 199,6 miljoonaan euroon",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-06T06:00:22Z",
@@ -4951,23 +4934,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-07T10:19:29Z",
-      "urls": [
-        {
-          "sign": "954a000ebb02ea50664282b28e00d2a46fb5ec63ac5d4ab54cf92b3f3966375e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-07T07:28:40Z",
       "urls": [
         {
@@ -5831,21 +5797,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-07T10:22:35Z",
-      "urls": [
-        {
-          "sign": "fc052fb3d35eb65d8e4498ba52f0edfc90122b46d8c118b774b57e16948f0215",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Englannin MM-kisapelaaja Ivan Toney sai syytteen pahoinpitelystä lontoolaisessa yökerhossa tapahtuneesta joulukuun tapauksesta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-07T12:41:07Z",
@@ -12986,6 +12937,55 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-09T03:45:35Z",
+      "urls": [
+        {
+          "sign": "c0824252cd9e5816231e70823a605ddaebb4e5befb823a03daa2f96116436206",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulla Järvi: Finland's unhealthy optimism harms those in need while democracy erodes and depression rises as rational response to injustice",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-09T03:30:29Z",
+      "urls": [
+        {
+          "sign": "ea881afe5e900d006652a378638e737b722cd35f539f66708afc7bf19cc82106",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nopea kävely voi vähentää muistisairauden riskiä ikääntyneillä, tutkimus osoittaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-09T03:31:22Z",
+      "urls": [
+        {
+          "sign": "be8eb6cce08aa852f4da930c333023e266c160a160d819ada09ac19856d7a5e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
