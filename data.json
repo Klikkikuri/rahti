@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-09T02:54:00Z",
+  "updated": "2026-08-09T03:25:28Z",
   "entries": [
     {
       "updated": "2026-07-19T08:28:22Z",
@@ -640,23 +640,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-06T06:30:00+03:00",
-      "urls": [
-        {
-          "sign": "91957f94e03be891e8f895eb880d49036901bd072af62238c52d18e7aa3c4b54",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-06T06:52:00+03:00",
       "urls": [
         {
@@ -1042,21 +1025,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-06T07:41:46Z",
-      "urls": [
-        {
-          "sign": "2cccde058dcc1290c011a47a9883d70dcecc7332ccbb52d74c6f47ea74b24d61",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kasper Paananen siirtyy Kalmariin lainasopimuksella, jossa on osto-optio",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-06T07:45:15Z",
@@ -1775,21 +1743,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-06T07:56:39Z",
-      "urls": [
-        {
-          "sign": "3c119e579d3376bf9d29507ac77b701520771f8bbf58ad1fb51bd84965602116",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina ei kyennyt torjumaan yhtään Venäjän ballistista ohjusta keskiviikon iskussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-06T11:47:00Z",
@@ -5423,21 +5376,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-07T10:06:32Z",
-      "urls": [
-        {
-          "sign": "80407100701f295b7f24f629425c964050ee5776cf39d3b998aa97b98c9e91c2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henkilö hukkui Kantolammella Kuusamossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-07T11:52:06Z",
@@ -11958,7 +11896,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-08T20:00:00+03:00",
+      "updated": "2026-08-09T06:02:00+03:00",
       "urls": [
         {
           "sign": "cd3fc0ddcc57daaa011e38a42aeb892cc174d46e8d061b42914fa6ff41446f3c",
@@ -12969,6 +12907,85 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-09T03:00:27Z",
+      "urls": [
+        {
+          "sign": "b1fb1f2a1c992ad2b06504e1fff8f5bf9c3641ed0cabd8ebfeb9c3fbfc233a6e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-09T03:25:28Z",
+      "urls": [
+        {
+          "sign": "5b679c7949400e09d036d95503dbbfb4ba6a02a557d3bd60152185f8252ca66d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hätätila julistettu Brittiläisessä Kolumbiassa maastopalojen vuoksi – yli 20 000 evakuoitu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-09T03:07:00Z",
+      "urls": [
+        {
+          "sign": "0f3afd81fef83077b35b504afe63c0ab5e22e8843135431cf70eaa7882308e1e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mika Moringia syytetään Saara Arvan taposta ja törkeästä vapaudenriistosta - oikeudenkäynti alkoi Kuopiossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-09T03:00:41Z",
+      "urls": [
+        {
+          "sign": "43426d1a94860024f312aecf70d4742c68e38d7e2aa2ed279fba46bf30014634",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Autoilijoita kehotetaan tarkkaavaisuuteen koulujen alkamisen myötä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-08-09T06:02:00+03:00",
+      "urls": [
+        {
+          "sign": "75f39e9f04a48c6d1743828e368ca2d97510bca28b14ea6952ba4bfbe58b5741",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain asevoimien komentaja Dan Caine etsii tietä ulos Iranin sodasta – sotilaalliset vaihtoehdot käyvät vähiin",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
