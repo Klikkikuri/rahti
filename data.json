@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-14T19:59:17Z",
+  "updated": "2026-08-14T23:14:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -184,7 +184,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-14T18:00:33Z",
+      "updated": "2026-08-14T20:07:07Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -193,9 +193,11 @@
           ]
         }
       ],
-      "title": "Iran ja Yhdysvallat eivät päässeet sopuun tulitauosta – sopimus romahti Trumpin julistuksen jälkeen",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin, tappaan maan ylimmän johtajan",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -700,23 +702,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T13:16:00+03:00",
-      "urls": [
-        {
-          "sign": "824d3d8c3232438dd71929fe9fd14b9b093eeae31d335adc3dac43f30d7efce0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-12T12:12:52Z",
@@ -2181,21 +2166,6 @@
         }
       ],
       "title": "Isla Tuomi, 7, aloitti ensimmäisen luokan Helsingissä – isoveli Toivo opasti koulutien alussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-12T11:30:36Z",
-      "urls": [
-        {
-          "sign": "1e2d5eba132355bb6e00f14a1926774021732a137613d0629a245221de04fb4f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies ja nainen vangittu epäiltynä taposta Turun Lausteella – uhri löytyi kuolleena kerrostalon edestä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -3858,21 +3828,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-13T14:26:07Z",
-      "urls": [
-        {
-          "sign": "4ec29963d01acb630a9b1664e49b7db7516ed21416bea77ffc7da41164a7b4b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jorvin sairaalan odotustilassa näkyi vahingossa aikuisviihdettä – Hus pahoittelee tapahtunutta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T15:38:53Z",
@@ -6822,21 +6777,6 @@
       ],
       "title": "Wilma Heltelä voitti EM-hopeaa seiväshypyssä ja kiitti valmentajaansa Tero Pitkämäkeä",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-13T14:20:24Z",
-      "urls": [
-        {
-          "sign": "af1963c93cf108f8cab9cc5a823cecdc2f6990e75df181255b4f9734207d84cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Edis Matusevičius ilmaisi surunsa Oliver Helanderin karsiutumisesta EM-kilpailujen keihäsfinaalista",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -10137,7 +10077,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T19:45:53Z",
+      "updated": "2026-08-14T20:08:26Z",
       "urls": [
         {
           "sign": "74022c5ec4951271d7ad05b91eaa1e9df8bd10ed42a30fb163e2b0d955d4eb60",
@@ -10146,7 +10086,7 @@
           ]
         }
       ],
-      "title": "Silja Kosonen voitti moukarinheiton EM-kultaa, Wilma Heltelä sai hopeaa ja Juho Alasaari eteni seiväshypyn finaaliin EM-kisoissa 2026",
+      "title": "Silja Kosonen voitti moukarinheiton EM-kultaa, Wilma Heltelä hopeaa ja Juho Alasaari eteni seiväshypyn finaaliin – kolme suomalaista keihäänheittäjää karsiutui EM-kisoissa 2026",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
@@ -13072,6 +13012,66 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-14T20:02:10Z",
+      "urls": [
+        {
+          "sign": "0ca132f09b1666913a6c7e31a4abe3187834510de4e018d66f94cbe25a15ce3f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: tienvarresta löydetty matkalaukku sisälsi seksinuken, ei ruumista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-14T19:56:39Z",
+      "urls": [
+        {
+          "sign": "386f3ed3001ec2a9175d34a7e5fbd124721f9b93d446a3d96be88e9eb3badf4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen Cambridgen professori Jason Arday löydettiin kuolleena Lontoossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-14T23:14:00+03:00",
+      "urls": [
+        {
+          "sign": "00ae09b95f8041eff5022d40ce20c0dcf38ee7882ec0d2e4a398e188217d72a5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cambridgen professori Jason Arday on kuollut plagiaattisyytösten keskellä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-14T20:11:35Z",
+      "urls": [
+        {
+          "sign": "ba55de38ebd49a7c6c0395cdfaeaa52294020f7c9a4058c9fab56fe65003a9db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "16‑vuotias Kaitlyn Hurlstone voitti leukemian rankkojen hoitojen jälkeen – äiti kerää varoja yksityishoitoihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
