@@ -32,6 +32,7 @@ skip_processing:
   # Skip processing articles with these labels.
   labels:
     - "paywalled=true"  # Skip paywalled articles. Note that this is a label, not a filter. The label is added by the source if the article is paywalled.
+    - "type=video"  # Skip video articles
 
 rahti:
   # Rahti file to push / pull
