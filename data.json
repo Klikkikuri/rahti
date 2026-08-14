@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-14T21:40:20Z",
+  "updated": "2026-08-14T21:53:03Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -4849,23 +4849,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T15:18:08Z",
-      "urls": [
-        {
-          "sign": "f0a0fa8462b6e3b8264e336307b2d05fe257f9a0b50f4d3e7f4785f05eebc1a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampere suunnittelee kasvojen peittämiskieltoa kouluihin – päätös valtuustossa syyskuussa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T12:08:54Z",
@@ -13077,6 +13060,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-14T21:53:03Z",
+      "urls": [
+        {
+          "sign": "5c3f4018d50671b4f7855381e41da8f62412ba7f02b59d0c105bfa1c2d812547",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Gianmarco Tamberi voitti korkeushypyn Euroopan mestaruuden 232 sentillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
