@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-14T20:44:25Z",
+  "updated": "2026-08-14T23:54:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -991,23 +991,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-12T13:18:00+03:00",
-      "urls": [
-        {
-          "sign": "4fa65e789a58cc0400ab779d8ab6cdc4757986dabfffa92a056e4644cff97a99",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nordic Urban suunnittelee Tallinnaan yli kaksinkertaista merikylpylää Helsingin Allas Poolia vastaavasta konseptista",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -9052,7 +9035,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-14T19:19:44Z",
+      "updated": "2026-08-14T20:51:44Z",
       "urls": [
         {
           "sign": "95241dec3e0c82eb4eda24def80bf9e9ac08af5826e921890969ceaaf531571a",
@@ -9061,7 +9044,7 @@
           ]
         }
       ],
-      "title": "Nadia Battocletti voitti toisen EM-kultansa, Warholm jahtaa neljättä peräkkäistä mestaruutta",
+      "title": "Werro voitti EM-800 metrin finaalin, Warholm saavutti neljännen peräkkäisen kultamitalinsa",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -9987,7 +9970,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T20:34:13Z",
+      "updated": "2026-08-14T20:51:55Z",
       "urls": [
         {
           "sign": "74022c5ec4951271d7ad05b91eaa1e9df8bd10ed42a30fb163e2b0d955d4eb60",
@@ -9996,7 +9979,7 @@
           ]
         }
       ],
-      "title": "Silja Kosonen voitti moukarinheiton EM-kultaa, Wilma Heltelä sai hopeaa ja Juho Alasaari eteni seiväshypyn finaaliin – kolme suomalaista keihäänheittäjää karsiutui EM 2026",
+      "title": "Silja Kosonen voitti moukarinheiton EM-kultaa, Wilma Heltelä hopeaa ja Juho Alasaari eteni seiväshypyn finaaliin – kolme keihäänheittäjää karsiutui",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
@@ -12955,7 +12938,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-14T23:29:00+03:00",
+      "updated": "2026-08-14T23:48:00+03:00",
       "urls": [
         {
           "sign": "00ae09b95f8041eff5022d40ce20c0dcf38ee7882ec0d2e4a398e188217d72a5",
@@ -12964,7 +12947,7 @@
           ]
         }
       ],
-      "title": "Cambridgen professori Jason Arday kuoli Etelä-Lontoossa perjantaina iltapäivällä plagiaattisyytösten keskellä",
+      "title": "Cambridgen sosiologian professori Jason Arday löytyi kuolleena Etelä-Lontoosta plagiaattisyytösten keskellä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13079,6 +13062,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-14T23:54:00+03:00",
+      "urls": [
+        {
+          "sign": "b95c56883693fd8459da5f323bf4bd21fed48e4e722658a500d620ebf56a37f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luigi Mangione myönsi ampuneensa UnitedHealthcaren toimitusjohtaja Brian Thompsonin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
