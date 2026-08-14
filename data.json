@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-14T19:41:42Z",
+  "updated": "2026-08-14T19:59:17Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -484,21 +484,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-09T16:32:41Z",
-      "urls": [
-        {
-          "sign": "fb6c21dd19bb1b77faebac3bb9e4fda31a0b4015a64c6f6f32704f7dcacfbea9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Useita ihmisiä haavoittui ammuskelussa Holbækissä Tanskassa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-12T12:01:12Z",
@@ -4328,21 +4313,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T14:12:03Z",
-      "urls": [
-        {
-          "sign": "baa8f7c0e65385acf35ea7369ee5b087a830d2235d3744bf2230913fb295c0c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Testi paljastaa: Oletko sinäkin puhelimen orja? 10 kysymystä mittaa kännykkäriippuvuutta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T07:53:12Z",
@@ -10167,7 +10137,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T19:04:17Z",
+      "updated": "2026-08-14T19:45:53Z",
       "urls": [
         {
           "sign": "74022c5ec4951271d7ad05b91eaa1e9df8bd10ed42a30fb163e2b0d955d4eb60",
@@ -10176,7 +10146,7 @@
           ]
         }
       ],
-      "title": "Heltelä voitti hopeaa, Kosonen kultaa ja Alasaari eteni finaaliin yleisurheilun EM-kisoissa 2026",
+      "title": "Silja Kosonen voitti moukarinheiton EM-kultaa, Wilma Heltelä sai hopeaa ja Juho Alasaari eteni seiväshypyn finaaliin EM-kisoissa 2026",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
@@ -13071,6 +13041,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-14T19:59:17Z",
+      "urls": [
+        {
+          "sign": "e3a3860ae63f14aac782ba9f446ba835496e22ac667ece41b31997485dd432b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump: Lentotukialuksen komennus ei ole läheskään riittävän pitkä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-14T19:55:06Z",
+      "urls": [
+        {
+          "sign": "89a50e6d1b9c8d5735111f33b885a45e4d6268037d29c68ce09c635ae3e07077",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Juoksija Smilla Kolbe kertoo rasistisesta some-vihausta ja vaatii enemmän kunnioitusta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
