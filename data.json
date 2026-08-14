@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-14T21:53:03Z",
+  "updated": "2026-08-14T22:03:38Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -5287,21 +5287,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T15:18:55Z",
-      "urls": [
-        {
-          "sign": "5234a1931e5fba0b518935a57694b38de592c8ec76ec92a6baa701da5573d36c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Veera Selänteen poikaystävä Jameson ihastui Suomen saunaan ja mökkeilyyn – Teemu Selänne kehuu: 'Tosi kelpo kaveri' ",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T19:35:49Z",
@@ -12861,7 +12846,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-14T23:48:00+03:00",
+      "updated": "2026-08-15T01:00:00+03:00",
       "urls": [
         {
           "sign": "00ae09b95f8041eff5022d40ce20c0dcf38ee7882ec0d2e4a398e188217d72a5",
@@ -12870,7 +12855,7 @@
           ]
         }
       ],
-      "title": "Cambridgen sosiologian professori Jason Arday löytyi kuolleena Etelä-Lontoosta plagiaattisyytösten keskellä",
+      "title": "Cambridgen sosiologian professori Jason Arday erosi plagiaattisyytösten jälkeen ja löytyi kuolleena Etelä-Lontoosta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13072,6 +13057,23 @@
         }
       ],
       "title": "Gianmarco Tamberi voitti korkeushypyn Euroopan mestaruuden 232 sentillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-14T22:03:38Z",
+      "urls": [
+        {
+          "sign": "d964ce91ca04cecee4149003a3dc314d26565375e5adad49676c6144c5649b8c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Owen Ansah uhkaa menettää EM-kultansa kieltäydyttyään dopingtestistä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
