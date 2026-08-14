@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-14T22:03:38Z",
+  "updated": "2026-08-14T22:51:50Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -884,21 +884,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-11T16:07:17Z",
-      "urls": [
-        {
-          "sign": "52ce9b16e26ffb19e1cfdd896f48e0e186b4d5ba28ed38011ad8b483792c38aa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnwatch eroaa yritysvastuun neuvottelukunnasta – taustalla pitkään jatkuneet ongelmat ja KPMG:n verovälttelytapaus",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-12T05:55:58Z",
@@ -13079,6 +13064,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-14T22:51:50Z",
+      "urls": [
+        {
+          "sign": "12d85dee0aa5a714115e60f77bdfa2120f9a7b0e1171ff3514f09f044d8451b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cambridgen yliopiston professori Jason Arday löytyi kuolleena kotoaan plagiaattisyytösten jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
