@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T05:59:58Z",
+  "updated": "2026-08-15T06:01:17Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1178,21 +1178,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-12T17:13:00+03:00",
-      "urls": [
-        {
-          "sign": "2887a01e23decb6c9ca5321d53d698c4246ce94d37d96a9d1785a8d68b2c04da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Munkkiniemen ala-aste aloitti lukuvuoden työmaan vieressä – piikkaustyöt ja räjäytykset jatkuvat, mutta koulun toiminta pyritään pitämään häiriöttömänä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-12T20:17:08Z",
@@ -2376,21 +2361,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T17:51:26Z",
-      "urls": [
-        {
-          "sign": "486d1ec7b9d3cfa132ae05f2e34a25d612d77f7b762ac1427b393af0124179dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Osittainen auringonpimennys näkyi Suomessa keskiviikkoiltana – katso lukijoiden kuvia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-12T17:17:19Z",
@@ -4094,21 +4064,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-12T17:35:00+03:00",
-      "urls": [
-        {
-          "sign": "1f38248812fae9f4d06a3d8d2b659aa1aef51af1881a2358913960baa555b22b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nils Torvalds asettuu ehdolle eduskuntavaaleissa Varsinais-Suomen vaalipiirissä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-13T11:21:01Z",
       "urls": [
         {
@@ -4660,21 +4615,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T17:53:35Z",
-      "urls": [
-        {
-          "sign": "091d7a36e7d6affc93a982390c58f26af36a30dbcbdaa38a8bc4152f93e34e46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suurlähettiläs: Trumpin mukaan Suomi on esimerkki muulle Euroopalle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T20:17:48Z",
@@ -13119,6 +13059,72 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-15T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "3e945c91c118cda671a01757dcd42aeb9f9872fd8774404ff38ff86ee5f2a250",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T06:00:47Z",
+      "urls": [
+        {
+          "sign": "2480b913639ee623c93eb44d1eb733c720ccfbf1fd8b1d2232fda0f3928ca23f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T06:01:17Z",
+      "urls": [
+        {
+          "sign": "eb534c1aebf615cf01f3014c6eaf0e584c47f040cbaa65fd60e5d2c499c644ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaiset pesevät puhtaita vaatteita turhaan – kuluttaa vaatteita ja kuormittaa ympäristöä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "870723442217cb2fa4680d5725b05484ec71279fdcd8cfec9695518f0d90c289",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kokoomuksen Partanen kehottaa hallituskumppaneita ilmoittamaan kantansa lasten ja nuorten someikärajasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
