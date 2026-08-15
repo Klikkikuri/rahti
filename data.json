@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T04:00:02Z",
+  "updated": "2026-08-15T04:13:46Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -717,21 +717,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-12T16:10:00+03:00",
-      "urls": [
-        {
-          "sign": "aa5db2472f2c0270e4f910d9c33166be8a3018af0d073d60029b1f649717777f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lindtman vaatii Orpoa puuttumaan perussuomalaisten kansanedustajan rasistiseksi koettuun kirjoitukseen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-12T08:48:29Z",
       "urls": [
         {
@@ -807,21 +792,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-12T05:55:58Z",
-      "urls": [
-        {
-          "sign": "d0d744605d4c4d726398dc4ed597d5624c08f970878bb7654863326fde1a0e0e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Osittainen auringonpimennys näkyy tänään koko Suomessa – katseluun tarvitaan suojalasit tai siivilä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-12T11:59:16Z",
@@ -1102,21 +1072,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T13:15:00Z",
-      "urls": [
-        {
-          "sign": "6be05e7653b258e625c72770f7def0b2aa5457ff425178802a9dc1279f89de9d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aada Länsiluoto kertoo saaneensa järkyttävän viestin tuntemattomalta – viitasi edesmenneeseen isään",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-12T20:09:06Z",
@@ -1874,21 +1829,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T13:24:07Z",
-      "urls": [
-        {
-          "sign": "2a03ab04246c863c700f303f9ad0ed397f21272426ff1237bab65f09a7584570",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Isla Tuomi, 7, aloitti ensimmäisen luokan Helsingissä – isoveli Toivo opasti koulutien alussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-12T17:09:21Z",
@@ -6801,7 +6741,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-14T08:37:49Z",
+      "updated": "2026-08-15T04:13:46Z",
       "urls": [
         {
           "sign": "6d94150df8b4f380c563721ed718b5c5e5a1175555e106219f5d3f15a30acc77",
@@ -6814,9 +6754,11 @@
           "labels": []
         }
       ],
-      "title": "Juho Alasaari haastaa Armand Duplantisin seiväshypyn karsinnassa EM-kisoissa Birminghamissa perjantaina",
+      "title": "Suomalaisurheilijat kilpailevat lauantaina EM-kisoissa Birminghamissa",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -12837,7 +12779,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T04:12:00+03:00",
+      "updated": "2026-08-15T07:05:00+03:00",
       "urls": [
         {
           "sign": "ed82f2c0e78940fc913a8e3e93a3fb71ed910e49bc96602acdd0d34c58541fc7",
@@ -12846,7 +12788,7 @@
           ]
         }
       ],
-      "title": "7,7:n maanjäristys ravisteli Itä-Indonesiaa lauantaiaamuna – tsunamivaroitus annettu",
+      "title": "7,7:n maanjäristys iski Itä-Indonesiaan lauantaiaamuna – tsunamiaaltoja mitattu, varoitus annettu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13092,6 +13034,70 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "cc9bcb75b234289b879c6796a2ef0db5ff2b6cf7355bd93c2073b722241db07f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T03:58:00Z",
+      "urls": [
+        {
+          "sign": "ea13ac98a9351c2c033c095e77e9b0a2744daec20412ef34480d0a326569eac7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Päivi rikkoi lapsuutensa väkivallan kierteen ja rakensi vakauden lapsilleen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-15T03:45:35Z",
+      "urls": [
+        {
+          "sign": "1f548bfbf262766aa1fee817d31ea5f0b9f2e2530c0be71ab6570bc6dd980b85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "AI:n kanssa jutteleminen lisää yksinäisyyttä tutkimuksen mukaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-15T03:57:00Z",
+      "urls": [
+        {
+          "sign": "7832a18eb0d4fc5ed18388b03c1ea37f3d8bb532a866eadbd4368165ad94b822",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen naisten keihäänheittäjät karsiutuivat EM-finaalista – asiantuntijat kehottavat liiton johtoa toimimaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
