@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T05:30:06Z",
+  "updated": "2026-08-15T05:39:33Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -815,21 +815,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-12T07:33:46Z",
-      "urls": [
-        {
-          "sign": "b1c8429fe1f80a9f30bc41b4e3ed6e230f6b2b9a04ca88033840b3f05d0ed0b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porin merivartioasema vaatii Herrainpäivien rannalle parempia varoituskylttejä merivirtausten vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-11T11:51:09Z",
       "urls": [
         {
@@ -875,23 +860,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T14:04:11Z",
-      "urls": [
-        {
-          "sign": "c4de5a8818c4ef72d7fbb66c30a595eb03ba291970b58966ce7fd5c5cb463e9f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Sea Life sai kolme uutta lehmärauskua Lontoosta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-12T18:33:00+03:00",
@@ -4889,21 +4857,6 @@
       ],
       "title": "Katariina varoittaa muita: Facebookista ostetut Eppu Normaalin liput paljastuivat väärennetyiksi",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-13T17:29:51Z",
-      "urls": [
-        {
-          "sign": "574746832c7b9675e8b96cc2d460585fc9fda223c8131f3ae17d2fcaf0878352",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Uudenmaan hyvinvointialue keskeytti 290 000 euron viestintäkonsulttihankinnan Uncle Tell Oy:ltä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13111,6 +13064,53 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-15T05:33:00Z",
+      "urls": [
+        {
+          "sign": "bf5d9d78cdf4883e4871f9dfbec57c538929574b36105fe209c13fc90fbccfdf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sienineuvoja Anu Brask neuvoo kuljettamaan sienet korissa tai paperipussissa, ei muovipussissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-15T05:39:33Z",
+      "urls": [
+        {
+          "sign": "82a0a4ea979ecc0588602db0a917419495de6c329e3585885bbb946ec4f9a2e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nottingham Forestin omistaja Evangelos Marinakis haastoi Crystal Palacen oikeuteen kannattajien loukkaavasta lakanasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T05:33:02Z",
+      "urls": [
+        {
+          "sign": "d7cc238d28f190e0593f86a4299a1ae32284c099186405e348541dfc0a78da3b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maa- ja metsätalousministeriö valmistelee varusmiesten lähettämistä Kaakkois-Suomeen afrikkalaisen sikaruton torjuntaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
