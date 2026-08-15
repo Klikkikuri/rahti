@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T00:19:27Z",
+  "updated": "2026-08-15T03:40:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -612,21 +612,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-12T05:20:58Z",
-      "urls": [
-        {
-          "sign": "34bc332a3c0a86704cd265a549d5267cf695fabc086175dac2689b535eb52b81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cristiano Ronaldo meni naimisiin Georgina Rodríguezin kanssa Portugalin rannikolla",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-12T12:26:06Z",
       "urls": [
         {
@@ -993,21 +978,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T15:26:00+03:00",
-      "urls": [
-        {
-          "sign": "028fad900161e28f22eae703bdd0962310d4cfe5660287154fabcd71b1d53905",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ceutaan odotetaan uutta siirtolaisjoukkoa Marokosta 15. elokuuta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-11T11:51:09Z",
@@ -13077,6 +13047,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T03:40:00+03:00",
+      "urls": [
+        {
+          "sign": "c1fd67dd3646cc43602e5f420eeaff40ada041f5f9481278266b81a9663c4c6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Netflix sulkee Helsingin Moonloot- ja Los Angelesin Night School -pelistudiot",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T00:31:48Z",
+      "urls": [
+        {
+          "sign": "d9381e5929b960b972d59c8d78cf391c32e76774051773369d4782b94e4b0b69",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "7,7 magnitudinen maanjäristys Floresin saaren lähellä Indonesiassa laukaisi tsunamivaroituksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
