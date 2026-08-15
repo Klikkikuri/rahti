@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T05:05:00+03:00",
+  "updated": "2026-08-15T02:15:00Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -2599,21 +2599,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T12:04:41Z",
-      "urls": [
-        {
-          "sign": "162e42b13ef843fa77367e9129b7368db76082e3da0867f5de26dc57446b74c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaisten eduskuntaryhmän puheenjohtaja Jani Mäkelä jättää auki, käsitelläänkö kansanedustaja Mauri Peltokankaan kirjoituksia ryhmässä. Mäkelän mukaan aikaisin mahdollinen ajankohta olisi syyskuun alussa, jos asiaa käsitellään. Tuolloin eduskunta palaa istuntotauolta.",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-13T09:30:00+03:00",
@@ -13084,6 +13069,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T02:15:00Z",
+      "urls": [
+        {
+          "sign": "da5eea5a8a258539c6bd3b04b5b5cd11d6edd12e3a0bddea39a752173852fcf3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rehtorit vaativat lisää kouluterveydenhoitajia, psykologeja ja kuraattoreita sekä parempaa viranomaisyhteistyötä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
