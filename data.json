@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T03:36:04Z",
+  "updated": "2026-08-15T04:00:02Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -4945,21 +4945,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-13T16:13:33Z",
-      "urls": [
-        {
-          "sign": "34ca2b5c217f0bf87d4ea0952b8b104d85a9c9e96c9500cfeb98363a558c3b0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Julian Weber ja Jakub Vadlejch karsivat EM-finaaliin terveyshaasteista huolimatta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-13T16:42:00+03:00",
       "urls": [
         {
@@ -5326,21 +5311,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T16:08:09Z",
-      "urls": [
-        {
-          "sign": "57ba19cd3c6cccbca219a48abb11b3b6cea4544f5ddaf9fb35933cec8d7dee51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laulaja Ilta Silva valmistui kätilöksi joulukuussa 2024 – kertoo rakastavansa työtä vaikka musiikkiura vie nyt voiton",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T07:36:52Z",
@@ -13089,6 +13059,38 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T03:53:17Z",
+      "urls": [
+        {
+          "sign": "2a7fdd29be9ba4f98dcec77f9d8cb18a669b528327b08e41f704a03399d82d38",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aku Partasen kilpakävelyvauhti yllättää – testissä hän jätti tavallisen kävelijän kauas taakse",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T04:00:02Z",
+      "urls": [
+        {
+          "sign": "df4021500a71979ae74236d237f043ecb7c562b4839e2f857dc340febff75d3b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sean King kiittää Sanna Marinin Taiwan-puhetta realistiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
