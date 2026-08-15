@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T04:28:35Z",
+  "updated": "2026-08-15T04:41:34Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -231,7 +231,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-14T11:20:13Z",
+      "updated": "2026-08-15T04:31:09Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -240,9 +240,11 @@
           ]
         }
       ],
-      "title": "Lavrov: Venäjä odottaa Yhdysvalloilta vastauksia – Iltalehti seuraa sotaa",
+      "title": "IL seuraa Ukrainan sotaa: tarjoaa liveseurantaa ja analysoi Venäjän propagandaa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -4855,21 +4857,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T16:59:38Z",
-      "urls": [
-        {
-          "sign": "13f93901cf6fd3859a0f4dae23bd7014782df2bcb53c8b9ffba861cd8a63bb98",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anita Włodarczyk sijoittui neljänneksi EM-moukarifinaalissa – 'Mitali oli aivan ulottuvillani'   ",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-13T17:42:15Z",
       "urls": [
         {
@@ -6489,21 +6476,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T16:44:34Z",
-      "urls": [
-        {
-          "sign": "88b51e0a845bc5debe8eaf35118db1166b44b42c47c7a61b7105a42e2954bdce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taksinkuljettajaa epäillään kahdesta törkeästä kuolemantuottamuksesta Itäväylän onnettomuudessa – rattijuopumusnimike lieventyi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T03:52:00Z",
@@ -13101,6 +13073,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T04:30:34Z",
+      "urls": [
+        {
+          "sign": "59b50ba5d3e0d909bb057fee8c22382a6be902d9eebe61e0d811ffd9851b0422",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marjastajien yli 1500 mustikkatautihavaintoa keskittyvät Etelä-Suomeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T04:41:34Z",
+      "urls": [
+        {
+          "sign": "d152ffee2001542f2ea187a82e32886a4d4992662f6ee7ebc9ee24501cbcc1c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Christy Knowings kuoli astmakohtauksen jälkeen 11. elokuuta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
