@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T08:43:49Z",
+  "updated": "2026-08-15T08:58:19Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -738,21 +738,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T18:33:00+03:00",
-      "urls": [
-        {
-          "sign": "13542863b98a8d655bd368f27be580c0a488fe401d4c4c903deb265cfa54d407",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Uudenmaan hyvinvointialue teki 290 000 euron konsulttihankinnan ilman kilpailutusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-12T18:38:42Z",
@@ -4875,21 +4860,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T21:40:04Z",
-      "urls": [
-        {
-          "sign": "1c95bcffe685a4c79639cfb107334348c4420110ce2b22ac5a83071d3ec57aa7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Wilma Heltelä voitti seiväshypyn EM-hopeaa tuloksella 475",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-13T14:26:12Z",
       "urls": [
         {
@@ -5151,21 +5121,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T21:30:44Z",
-      "urls": [
-        {
-          "sign": "faa830e8a8bedf132301c03491c8a710b07bafd172892181326ed0d8b27ee3ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Daniel Ståhl jäi neljänneksi EM-kisojen kiekonheiton finaalissa Birminghamissa 2026",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T20:08:38Z",
@@ -13142,6 +13097,53 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T08:58:19Z",
+      "urls": [
+        {
+          "sign": "093b9661f1eb073dfdbbfb7c86abe73d5a51341e0ac5e58d5afcd81bb573922b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen hoitaja Tiina Säynätsalo auttoi synnytyksessä VR:n junassa tiistaina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T08:57:19Z",
+      "urls": [
+        {
+          "sign": "e6d57109367df446771ff4913d74a623766b832d880f8fa19a22ff9857458f25",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Enni Nurmi paransi ennätystään EM-kävelyssä ja torjui kisaturisti-väitteet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T11:45:00+03:00",
+      "urls": [
+        {
+          "sign": "e4abf84443d0dc822a677a4ef48ac9f1f89bbfd1e9789c07dadb912ea94d0694",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tarik Ahsanullah uskoo markkinatalouden ja joustavan sääntelyn luovan pitkäjänteisen asuntopolitiikan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
