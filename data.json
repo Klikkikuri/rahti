@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T15:59:45Z",
+  "updated": "2026-08-15T16:12:41Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -849,23 +849,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "7acf2229e9c0bf6b5470a0c147c3d90345eb07bd62eb404e0a774ed5fddd7fae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-11T07:45:41Z",
@@ -3604,21 +3587,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T05:49:44Z",
-      "urls": [
-        {
-          "sign": "5786a5a1bcfd1f881c629353fc96ac6abae9c4879393659bb9ed6b4ff4842256",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tekoälyn väärinkäyttö rikoksissa kasvaa – asiantuntijat vaativat sekä teknologian kehittäjiltä että kansalaisilta valveutuneisuutta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12777,7 +12745,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-15T17:58:00+03:00",
+      "updated": "2026-08-15T18:15:00+03:00",
       "urls": [
         {
           "sign": "71fa0bd77891bf08d9415100d1c3b20e6518d37f689411e85328ec15778bb914",
@@ -12786,11 +12754,9 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos, poliisi ja Rajavartiolaitos etsivät mahdollisesti kadonnutta ihmistä Lauttasaaren edustalla",
+      "title": "Pelastuslaitos, poliisi, Rajavartiolaitos lopettivat etsinnät Lauttasaaren edustalla – uimaria ei löytynyt",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13233,6 +13199,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T19:00:00+03:00",
+      "urls": [
+        {
+          "sign": "05d22eab5d0ed0315e005f9c27b718c24ab06bb92e22aa0a4df15cc07ef697ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "VR avasi junayhteyden Oulusta Haaparantaan – matkustajat kehuvat uutta yhteyttä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T16:12:41Z",
+      "urls": [
+        {
+          "sign": "c187f7255e8b744a6d0728b0e5891b2f9f3984035a83bccd7d16eaae547a29c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ayla Hallberg Hossain epäilee pystyvänsä hyppäämään EM-finaalissa loukkaantumisen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
