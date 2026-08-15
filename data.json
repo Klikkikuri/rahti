@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T02:00:00Z",
+  "updated": "2026-08-15T05:05:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -2381,21 +2381,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T15:42:00+03:00",
-      "urls": [
-        {
-          "sign": "7643ab31f115e61bea1e3cd46e469f1801ea98c7f0da9f5e15ac26207157ee5e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinki aidasi osan Kaivopuistosta Yhdysvaltain suurlähetystön juhlia varten",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-13T06:30:00+03:00",
@@ -13084,6 +13069,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-15T05:05:00+03:00",
+      "urls": [
+        {
+          "sign": "160eb05ee6f0f43c41d2cf88e1dcc9e66b65802391b7b39576b6260ff5f7ae7b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viljankuivaamo ja työkoneet tuhoutuivat palossa Lohjan Osuniemellä lauantaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
