@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T04:41:34Z",
+  "updated": "2026-08-15T04:54:50Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -644,21 +644,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-12T07:18:52Z",
-      "urls": [
-        {
-          "sign": "44bc8b8c05c2b0f59c177ff8d3417ef82842ad63718e071382448681a0be5133",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee Lounais-Suomen elinvoimakeskuksen virkamiestä lahjusten ottamisesta – rikoshyöty yli 20 000 euroa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-12T12:12:52Z",
       "urls": [
         {
@@ -762,21 +747,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-12T07:07:58Z",
-      "urls": [
-        {
-          "sign": "3dc11abb6efa4c5487ccdc27b96aacfd9071fef4915f4565c5984fd4910d8764",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle lähettää suoran auringonpimennyksen striimin Vaasan Sundomista kello 20.20",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T13:41:00+03:00",
@@ -1709,21 +1679,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T13:55:00Z",
-      "urls": [
-        {
-          "sign": "165aed9bad8507cffab1cd77ffe637fe770d17ae983164ce13cc4a2c1a99ba21",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pitkäaikainen päivittäinen alkoholinkäyttö voi johtaa maksasairauteen vaikka määrältään kohtuulliselta tuntuisikin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-12T21:01:35Z",
@@ -13104,6 +13059,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T04:48:32Z",
+      "urls": [
+        {
+          "sign": "a026f8e4d324ff437391a7ba31e95d01b3b9cb4ba149c07cb8d6edcecfde6f35",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helleraja saattaa rikkoutua lauantaina lounais-Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-15T04:47:03Z",
+      "urls": [
+        {
+          "sign": "dc8ac060585eed62b168f7c7a433eba87dd2ca91a2b8f340ae4e50799249d44d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venezuela vapauttaa 131 poliittista vankia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-15T04:54:50Z",
+      "urls": [
+        {
+          "sign": "a5c6432eb88d1f8cfd49f3f79b7938d8b03bba9d34764ddae4eb50873ef697bf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan keskiviikkoinen hyökkäys Novorossiiskin satamaan keskeytti vilja- ja öljytoimitukset ja vaurioitti useita laivoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
