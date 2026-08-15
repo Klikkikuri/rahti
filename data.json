@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T22:22:02Z",
+  "updated": "2026-08-15T22:54:47Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -383,21 +383,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-14T11:04:41Z",
-      "urls": [
-        {
-          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden palvelu näyttää pörssisähkön 48 tunnin hintakehityksen varttitunnin tarkkuudella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-08T03:00:55Z",
       "urls": [
         {
@@ -601,23 +586,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-12T21:47:36Z",
-      "urls": [
-        {
-          "sign": "5186c30075fc4a60cc8fe3b313e505d069ede3bfb2e71ae5a660c8034eefb0d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkoisen talon lehdistösihteeri Karoline Leavitt jättää tehtävänsä perhesyistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-12T21:50:39Z",
@@ -3748,21 +3716,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T08:33:00+03:00",
-      "urls": [
-        {
-          "sign": "19e64d855845c96d0f5313a114cec2897e5c1302230d2303797ab8f224bd80d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "OP Uusimaa muutti remontoituun historialliseen pankkirakennukseen Aleksanterinkadulle",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-14T02:51:54Z",
@@ -13275,6 +13228,53 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T01:45:00+03:00",
+      "urls": [
+        {
+          "sign": "397a56a8783febd12f09be4331cf16eba1a916ea6f9f1ea290b406c7a74c76a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Belgian historian suurin maastopalo pakottaa yli 600 ihmistä evakuoitumaan Liègen provinssissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T21:32:23Z",
+      "urls": [
+        {
+          "sign": "779b1f9437e144a14d440148f8fc4d9dfe0019682d18a2185b70889fbb1cee27",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ella Junnila tyytyväinen kymppisijaansa korkeusfinaalissa Birminghamissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-15T22:54:47Z",
+      "urls": [
+        {
+          "sign": "a95f64a144c661d7d44847fc02a062a14a20a8cc8061dd4fde71215035266fd3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Foster kiistää Meghanin sivuuttamisen punaisella matolla – tervehdittiin jo aiemmin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
