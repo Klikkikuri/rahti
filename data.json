@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-14T23:48:50Z",
+  "updated": "2026-08-15T00:19:27Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -4561,25 +4561,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T15:29:39Z",
-      "urls": [
-        {
-          "sign": "7465817e40f11ac10be6db89a7e122dba2bf5dec326ae1a8be13b0b63b32adca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "44c71460d13f9a5aaca314f1949b11c32e910e29c61b768c0d9900205c4021d4",
-          "labels": []
-        }
-      ],
-      "title": "Elisan showroom-päällikkö testasi älylaseja historian kokeessa – antoi 4/5 oikeaa vastausta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T15:47:38Z",
@@ -13081,6 +13062,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-15T00:19:27Z",
+      "urls": [
+        {
+          "sign": "0bb98c248dc6d711a06ced0cb766bbabfb30e2f29cc52f1977d23ba347b29223",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump uhosi julistavansa Hormuzinsalmen Yhdysvaltojen alueeksi – Iran kiistää väitteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
