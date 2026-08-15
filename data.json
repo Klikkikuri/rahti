@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T21:37:07Z",
+  "updated": "2026-08-15T22:07:56Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -631,21 +631,6 @@
       ],
       "title": "Yhdysvallat ja Kolumbia sopivat yhteisoperaatioista huumekartelleja vastaan",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T21:01:35Z",
-      "urls": [
-        {
-          "sign": "d42cd945ebabd916ae11e6a56884216d0eda72f0bbf731f469cf1f91915cea43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "OP:n ekonomistit: Suomen talous kasvaa tänä ja ensi vuonna kaksi prosenttia",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5610,21 +5595,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T10:56:22Z",
-      "urls": [
-        {
-          "sign": "a894d45e034d9afd1212c158861a766e12c2567eec8f868ba838e18cd2f6d81a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Van Renterghem kiistää hyväksyneensä raiskausfantasioita – sanoo tulleensa väärinymmärretyksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T08:30:08Z",
@@ -13270,6 +13240,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T22:07:56Z",
+      "urls": [
+        {
+          "sign": "4c337a9a0d02896619f48681e3e2ca7deeb4bbaea78cd85f16d5bee09e44ff21",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Edis Matusevičius sairasti EM-finaalissa ja sijoittui kuudenneksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T21:52:03Z",
+      "urls": [
+        {
+          "sign": "ef10b899b5fdb83789b5a62e772f26ca7ed70c579178e9361e58cdb31426354e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zimbabwen lauttaturman uhrien määrä jatkaa nousuaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
