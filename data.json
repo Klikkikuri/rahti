@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T20:15:06Z",
+  "updated": "2026-08-15T20:29:49Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -645,21 +645,6 @@
         }
       ],
       "title": "Yhdysvallat ja Kolumbia sopivat yhteisoperaatioista huumekartelleja vastaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T19:20:45Z",
-      "urls": [
-        {
-          "sign": "061e78dee951079efedb9601dbab33099dc26e57c3d4957688530e25aece73f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Osittainen auringonpimennys kokoontutti suomalaisia yhteen eri puolilla maata – pilvet osittain haittasivat näkyvyyttä",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -5915,23 +5900,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-14T10:43:34Z",
-      "urls": [
-        {
-          "sign": "3d13c81bc511f0d9a6db370edf7ad9f805c199c3ccb18321ac05619744b61709",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-14T11:25:43Z",
       "urls": [
         {
@@ -9811,7 +9779,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T20:12:46Z",
+      "updated": "2026-08-15T20:25:13Z",
       "urls": [
         {
           "sign": "1df81a91c785615ff7f0f392facba779bd283dc3ba38a1fd1d14c653a7492104",
@@ -9820,10 +9788,11 @@
           ]
         }
       ],
-      "title": "Martti Vainion kisaennätys rikkoutui – Topi Parviainen pettyi EM 2026 yleisurheilun lauantaina",
+      "title": "Iltalehti seuraa EM 2026 yleisurheilun lauantaita: kävelymaratoni, puolimaratoni ja illan finaalit",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -9928,7 +9897,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T20:15:06Z",
+      "updated": "2026-08-15T20:26:26Z",
       "urls": [
         {
           "sign": "98e65c26713f38bf6c10b4c0f71f0893ffde14f1a7c4c2e70c6071627d510d76",
@@ -9937,7 +9906,7 @@
           ]
         }
       ],
-      "title": "Parviainen sijoittui kahdeksanneksi keihäsfinaalissa, Junnila ylitti 183 cm mutta ei 188 cm, Muuse rikkoi Suomen ennätyksen 10 000 metrillä",
+      "title": "Julian Weber voitti keihään EM-kultaa ennätyksellä 90,40 – Nick Thumm hopeaa, Topi Parviainen kahdeksas",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13268,6 +13237,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T20:29:49Z",
+      "urls": [
+        {
+          "sign": "fce8d2caf5c7753c3218c7116a2359082de5206f9fb5175e8547a96ef9496bed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomella hyvä mahdollisuus keihäsmitaliin EM 2026:ssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T20:28:52Z",
+      "urls": [
+        {
+          "sign": "f4b59c3c76222de516477f8ae467c94987c46af77740f9fb9d96746a5567d9af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset: Kolumbian maanjäristyksen uhrien määrä kasvaa, satoja kateissa ja tuhansia loukkaantuneita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
