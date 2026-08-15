@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T12:00:05Z",
+  "updated": "2026-08-15T12:14:50Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -695,23 +695,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-12T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "61d4bb42a36f590f53ef74510455ae5abd2b75a74379047720c4c217703bffca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-10T06:49:47Z",
       "urls": [
         {
@@ -1048,21 +1031,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-12T19:45:00+03:00",
-      "urls": [
-        {
-          "sign": "f6b490ef03ae01bc7d697f09824dfa485efd1db74313e793cd81b2743cfbb599",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sdp:n puheenjohtaja Antti Lindtman kritisoi perussuomalaisia palkansaajan pettämisestä Lahden torilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-13T04:00:39Z",
@@ -4185,21 +4153,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T05:00:37Z",
-      "urls": [
-        {
-          "sign": "0e899321bc74f977910f694b269704820740820e6af1d82d582ea80ba3a75f03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyalomma-puutiaisia löydetty ensimmäistä kertaa aikuisina Suomessa – voivat levittää Krimin-Kongon verenvuotokuumevirusta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-13T20:06:21Z",
@@ -11574,7 +11527,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T11:40:20Z",
+      "updated": "2026-08-15T12:14:50Z",
       "urls": [
         {
           "sign": "1df81a91c785615ff7f0f392facba779bd283dc3ba38a1fd1d14c653a7492104",
@@ -12810,7 +12763,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-15T11:59:59Z",
+      "updated": "2026-08-15T12:00:23Z",
       "urls": [
         {
           "sign": "20447d8c2f8dff218270af9d3dbf0568bff5fc923415fe6d7f4ec6908593c0b7",
@@ -12819,7 +12772,7 @@
           ]
         }
       ],
-      "title": "Josefiina Lahtinen ja Joonas Hyttinen avioituivat 14. elokuuta 2026",
+      "title": "Josefiina Lahtinen ja Joonas Hyttinen avioituivat 14.8.2026, julkaisivat hääkuvat",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -12925,7 +12878,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-15T11:02:44Z",
+      "updated": "2026-08-15T12:11:41Z",
       "urls": [
         {
           "sign": "741acfd173838e6b1430187580e7e103e8b1e1f6996ffa80b428dfea087b411f",
@@ -12934,7 +12887,7 @@
           ]
         }
       ],
-      "title": "Mopoilijat järjestävät mielenosoituksen Helsingissä tänään parantaakseen välejä poliisiin",
+      "title": "Mopoilijoiden mielenosoitus alkaa Helsingissä Tattarisuolta klo 15 – tavoitteena parantaa välejä poliisiin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
@@ -13052,7 +13005,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-15T12:00:05Z",
+      "updated": "2026-08-15T12:13:21Z",
       "urls": [
         {
           "sign": "d13fd88426de6169902ce655e1241a41c50f5383646d89f0cf72e2095b9905a2",
@@ -13061,9 +13014,10 @@
           ]
         }
       ],
-      "title": "Kaksi bussia kolari Myllypurossa loukkasi useita ja pysäytti Kehä I:n liikenteen",
+      "title": "Kaksi bussia törmäsi Helsingin Myllypurossa – useita loukkaantuneita, Kehä I:n liikenne poikki",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
+        "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
@@ -13118,7 +13072,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T14:41:00+03:00",
+      "updated": "2026-08-15T15:13:00+03:00",
       "urls": [
         {
           "sign": "01ba2a96d46542b0c3cb947289c1128d2f8aba7b946416638f65e7f669829d37",
@@ -13127,7 +13081,7 @@
           ]
         }
       ],
-      "title": "Kaksi bussia kolaroi Myllymestarintiellä Myllypurossa – useita loukkaantuneita",
+      "title": "Kaksi bussia kolaroi Myllymestarintiellä Myllypurossa – Kehä I:n liikenne poikki, useita loukkaantuneita",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13150,7 +13104,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T11:55:33Z",
+      "updated": "2026-08-15T12:00:16Z",
       "urls": [
         {
           "sign": "47a3691c9c7652da0f7e3e511a4e4f8fe0bc6b7322afa6d42a8711a45d729131",
@@ -13159,9 +13113,11 @@
           ]
         }
       ],
-      "title": "Linja-auto törmäsi toisen bussin perään Helsingin Myllypurossa tänään – useita loukkaantuneita",
+      "title": "Kaksi bussia törmäsi peräänajossa Myllypurossa – useita loukkaantuneita, liikenne poikki Kehä I:llä",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13180,6 +13136,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-15T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "b5d3552d3543ca3a2ee0e521c36fd292889816331520582dc017cdf794713c1b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansalaiset vaativat laajempaa hyvinvoinnin mittaristoa kuin BKT – Tilastokeskus pohtii BKT:n ennakkotietojen luopumista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T15:11:00+03:00",
+      "urls": [
+        {
+          "sign": "a5e93f5b004767219e9330adcba77c5d17e8dc848f2a3f540899fb544e8a40b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mopoilijat osoittivat mieltään Tattarisuolla – haluavat parantaa välejä poliisiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T12:09:59Z",
+      "urls": [
+        {
+          "sign": "276553e5d4377022d658eeb7c22f081366c74e6fe9a7c5de139372a907beaf8d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SUL:n johtajat vaativat tarkkaa lippuhinnoittelua Helsingin 2030 EM-kisoihin Birminghamin yleisöpettymyksen jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
