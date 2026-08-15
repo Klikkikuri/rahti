@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T22:07:56Z",
+  "updated": "2026-08-15T22:22:02Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -6122,21 +6122,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T10:59:57Z",
-      "urls": [
-        {
-          "sign": "af22fc321e07edf703f1f6e37909c115d18df98d148f0ead5eba85bff5cc8ba3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjän media raportoi Stubbin kehuvan venäläisiä ja kulttuuria sekä kritisoivan hallinnon toimia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T11:09:51Z",
@@ -13274,6 +13259,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-15T22:22:02Z",
+      "urls": [
+        {
+          "sign": "d802a0c319b20264cda9b0545f2feb32130a6c9ce645b75d41ed0de9e8f5d002",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arto Bryggare nimesi Mustafe Muusen päivän lampaan yleisurheilun EM-kisoissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
