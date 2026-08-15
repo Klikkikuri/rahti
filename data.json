@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T16:30:02Z",
+  "updated": "2026-08-15T16:40:46Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -787,23 +787,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-12T16:05:42Z",
-      "urls": [
-        {
-          "sign": "cb8802567a8bd0745b725a3dc42dc2adc8eb9002cc305ad45e398c660a085d2b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nils Torvalds asettuu RKP:n eduskuntaehdokkaaksi Varsinais-Suomessa – tavoitteena pelastaa puolueen kansanedustajapaikka",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-13T05:28:39Z",
       "urls": [
         {
@@ -1319,21 +1302,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T06:04:18Z",
-      "urls": [
-        {
-          "sign": "48100c00e42683c6a96689b3c7d5ee1bb6b0622272c6973a7bb8b19d40e32f81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Silja Kosonen voitti moukarinheiton EM-kultaa tuloksella 76,28 – kuudes suomalaisnainen yleisurheilun Euroopan mestarina",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-13T09:41:12Z",
@@ -11292,7 +11260,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T09:09:38Z",
+      "updated": "2026-08-15T16:37:23Z",
       "urls": [
         {
           "sign": "dd64e79d04f01a906b49f27e1b650b4b4875675a79bd0cc90f20c66a884aab0a",
@@ -13231,6 +13199,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T16:40:46Z",
+      "urls": [
+        {
+          "sign": "01a8f3cf2f2284fad435926e2ac159c0ff7ad211ef1c1da3a2f458e1c8b23038",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marokon viranomaiset pysäyttivät yli 100 siirtolaista yrityksessä ylittää Ceutan raja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-15T16:36:47Z",
+      "urls": [
+        {
+          "sign": "d5813e109d9d8fc2ced8118b6a5faabdde956285e683c4462d999a05830464fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jokerit johtaa Marski Cupin finaalia SaiPaa vastaan 5–0 kahden erän jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
