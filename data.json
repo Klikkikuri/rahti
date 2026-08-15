@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T18:59:45Z",
+  "updated": "2026-08-15T19:15:27Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1412,21 +1412,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T08:29:00+03:00",
-      "urls": [
-        {
-          "sign": "2bd0fa72e751c63da1d0495df7ea3531dc7f6f5f648122ad3954ed2be079f2ee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Auringonpimennys näkyi Euroopassa keskiviikkoiltana – täydellinen osassa Espanjaa ja Islannissa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -9918,7 +9903,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T18:44:10Z",
+      "updated": "2026-08-15T19:07:56Z",
       "urls": [
         {
           "sign": "1df81a91c785615ff7f0f392facba779bd283dc3ba38a1fd1d14c653a7492104",
@@ -9927,7 +9912,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa yleisurheilun EM 2026 lauantaita: kävelyn maraton ja puolimaraton käynnistävät päivän, illalla Parviainen, Junnila ja Muuse tavoittelevat sijoituksia",
+      "title": "EM 2026 yleisurheilun lauantai: aamulla kävelyn maraton ja puolimaraton, illalla Parviainen, Junnila ja Muuse kilpailevat sijoituksista",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -10035,7 +10020,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T18:39:38Z",
+      "updated": "2026-08-15T19:15:27Z",
       "urls": [
         {
           "sign": "98e65c26713f38bf6c10b4c0f71f0893ffde14f1a7c4c2e70c6071627d510d76",
@@ -10044,7 +10029,7 @@
           ]
         }
       ],
-      "title": "Viesti joukkueet karsiutuivat – illalla Parviainen, Junnila ja Muuse kilpailevat EM-finaaleissa",
+      "title": "Ella Junnila ylitti 183 cm korkeushypyssä, Topi Parviaisen keihäsheitto jäi 71,93 metriin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13249,6 +13234,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T22:14:00+03:00",
+      "urls": [
+        {
+          "sign": "d0b9d61f3efce6fdf2e23e3b0c0f32e7e8b9d6e485c0807b96bc637ab1c688cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liechtenstein muuttaa kruununperimysjärjestystään – vanhin lapsi perii kruunun sukupuolesta riippumatta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
