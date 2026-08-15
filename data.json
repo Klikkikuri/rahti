@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T13:21:00+03:00",
+  "updated": "2026-08-15T10:44:01Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -691,21 +691,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-12T18:38:42Z",
-      "urls": [
-        {
-          "sign": "3944f21c512d89e42c7b6972ebe0ffbac1bea4c142d9fde0ef8a62b3006a32ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV:n lukijat ikuistivat osittaisen auringonpimennyksen eri puolilla Suomea",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-12T17:06:00Z",
@@ -5079,21 +5064,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-14T02:45:34Z",
-      "urls": [
-        {
-          "sign": "f2890835483123ade2414aa9849f170e310a8112dde776606471a00b4241a53d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ricki Lake kertoo elämäntilanteestaan: painonpudotus, uusi aviomies ja kodin menettäminen tulipalossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-14T03:00:35Z",
       "urls": [
         {
@@ -5249,21 +5219,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-14T03:03:47Z",
-      "urls": [
-        {
-          "sign": "9f2d42a72bc272aa379cf755e38fcf61d867c585b060e89022baf672b7d7924d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uber Eatsin tilaukset ja ansiot jäävät vähäiseksi Suomessa – lähetit kertovat hiljaisesta kysynnästä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13160,6 +13115,57 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-15T10:27:36Z",
+      "urls": [
+        {
+          "sign": "270a94b646a0f7edd7e8764a7f3ab9eb0a65443e130ca5bf88b66f7a5d1e247f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pyytää havaintoja sinipaitaisesta miehestä Joensuun pahoinpitelystä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-15T10:30:47Z",
+      "urls": [
+        {
+          "sign": "eaa14f931e2827b480ad5d21cc2f9dc18e6884a09d2595affddc614d8be5a78b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "b5ab0c829c0b03d58066003b1af1b5cb5cecd6adde72b186e0ce48a6ac018ae4",
+          "labels": []
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-15T10:44:01Z",
+      "urls": [
+        {
+          "sign": "20447d8c2f8dff218270af9d3dbf0568bff5fc923415fe6d7f4ec6908593c0b7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Love Island -ohjelmasta tutut Josefiina Lahtinen ja Joonas Hyttinen avioituivat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
