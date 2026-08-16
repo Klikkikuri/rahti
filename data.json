@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T16:20:26Z",
+  "updated": "2026-08-16T16:42:22Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -456,21 +456,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-13T17:22:00+03:00",
-      "urls": [
-        {
-          "sign": "a7090b704fa7c0b0f0e02d8ce5915ac226a0682a791f077fb0e20b2f5c25bb86",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto laajentaa sikaruton ydinaluetta seitsemän kilometriä pohjoiseen uusien tautitapausten vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-11T11:51:09Z",
@@ -5480,21 +5465,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T04:00:02Z",
-      "urls": [
-        {
-          "sign": "df4021500a71979ae74236d237f043ecb7c562b4839e2f857dc340febff75d3b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sean King kiittää Sanna Marinin Taiwan-puhetta realistiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T07:00:00+03:00",
       "urls": [
         {
@@ -5591,21 +5561,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T04:16:22Z",
-      "urls": [
-        {
-          "sign": "a87116efdbd3a8f6a5d93e1dc8bbcdfecb354117e9a1541e070e5d434e160b86",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos varoittaa rankkasateista ja ukkosista viikonlopuksi useilla alueilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T04:17:34Z",
@@ -13383,6 +13338,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T16:42:22Z",
+      "urls": [
+        {
+          "sign": "50524e16a4b009d1eecf47fb80e790f5ef6501ccc0cc419e0d848b71644329ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veera Kivirinta sijoittui kuudenneksi naisten 50 metrin rintauinnin EM-finaalissa Pariisissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T19:02:00+03:00",
+      "urls": [
+        {
+          "sign": "fc1329ef8d136655f259915d95daf86592206c4a2278bf7664b551750f633245",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump haluaa siirtää lentotukialusten komentosiltaa keskemmälle ja palata höyrykatapulteihin – maksaisi miljardeja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T16:38:00Z",
+      "urls": [
+        {
+          "sign": "aeb4d7d2ad803f0ab1a8f7cc05055aed2045c9c6e2b9791e84c61e488a85317d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Julkistettiin Superpesiksen pudotuspeliparit – Veto aloittaa Pattijoen Urheilijoita vastaan, Jymy kohtaa Mailan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
