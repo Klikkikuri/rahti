@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T21:26:30Z",
+  "updated": "2026-08-16T21:44:30Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -5763,21 +5763,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T08:41:31Z",
-      "urls": [
-        {
-          "sign": "be4a8669233ba14382237a7b7df397b7bd91551df73c47fff57374d5d7defafc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaisvalmentaja Kari Heikkilä pelasti venäläismaalivahdin hengen ohjaamalla hänet pois Lokomotivin lennosta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T09:47:35Z",
       "urls": [
         {
@@ -5825,21 +5810,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-15T08:33:43Z",
-      "urls": [
-        {
-          "sign": "ee92df9bbd52a70014d518a3d69674ec72beb3f16b6320da262b036f1a168502",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arsenal ja Manchester City kohtaavat Community Shieldin Cardiffissa – vetovihje yli 2,5 maalia",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T08:58:19Z",
@@ -13387,6 +13357,38 @@
       "title": "Armand Duplantis ei osallistu Suomi–Ruotsi-yleisurheilumaaotteluun Helsingissä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T21:35:11Z",
+      "urls": [
+        {
+          "sign": "702e20266fc3eedf3893fcc1ebc537b622ef59eeded25f8b4cc10776b315c6e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finnair jätti Wilma Heltelän turistiluokkaan EM-hopeamitalin jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T21:44:30Z",
+      "urls": [
+        {
+          "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranin ja Yhdysvaltojen neuvottelut väliaikaisesta sopimuksesta pysähtyneet – IL seuraa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
