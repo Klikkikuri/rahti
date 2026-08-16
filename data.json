@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T10:44:37Z",
+  "updated": "2026-08-16T10:51:35Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -748,21 +748,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-13T15:50:49Z",
-      "urls": [
-        {
-          "sign": "095a65c9f705591f011b08c5761b565fd5aef0af5eaeb26d73cde53385b32b53",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "19 norsua kuollut salaperäiseen sairauteen Keniassa kesäkuusta lähtien",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-13T17:21:00+03:00",
       "urls": [
         {
@@ -1367,23 +1352,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T14:52:00+03:00",
-      "urls": [
-        {
-          "sign": "f367697279afb2acc48a4c215910dc81b9a634df515bdc2b1e03ba8e2cfdf055",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-13T16:52:07Z",
       "urls": [
         {
@@ -1925,21 +1893,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T10:34:06Z",
-      "urls": [
-        {
-          "sign": "49f94988af2b8cf2b8bfd188859ec9716bc00dbfbb93b04d72e6a9005b40610d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lumo-kotien voitto kasvoi seitsenkertaiseksi vuokra-asuntojen tarjonnan vähetessä pääkaupunkiseudulla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-14T02:00:00+03:00",
@@ -5681,21 +5634,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-14T17:55:06Z",
-      "urls": [
-        {
-          "sign": "e2f8b7afb139d6afd84080c3f78e1b3813c5f6dba3e7c8c55e6b9bcd2ab93a03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aku Partanen sairastui tasapainohermon tulehdukseen, jätti kevään kisat väliin ja kilpailee EM-puolimaratonilla 15. elokuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-14T16:25:59Z",
       "urls": [
         {
@@ -6016,21 +5954,6 @@
         }
       ],
       "title": "Aku Partanen menetti hampaan Tervaleijona-pastillia purressaan – Cloetta lähetti korvaukseksi makeisia ja tsemppikirjeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-14T18:02:42Z",
-      "urls": [
-        {
-          "sign": "c06897851dfa8b7bbd31896d4f44f1317c6bede393706fc1fd525566e901c478",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putin tähtää Naton ja EU:n romahdukseen vuoteen 2026 mennessä, kertoo New York Times",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13342,6 +13265,89 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T10:49:01Z",
+      "urls": [
+        {
+          "sign": "03bda4014614aabc39dd53e5f234db012e620b8c7f0f4ef47bd3eeb2ffc24f1e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio voitti EM-maratonin – presidentti Stubb soitti onnittelut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T10:46:37Z",
+      "urls": [
+        {
+          "sign": "2a027d8a09914cfda99d33ba932d418d3100eb67192ec024b357521c1190b7d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Matkustaja kertoo verta täynnä olevasta bussista Kehä I:n kolarissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T13:47:00+03:00",
+      "urls": [
+        {
+          "sign": "af319d96a06f7126461f4f015b434ef788876b1e48e788b7e972d87affeef031",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rod Stewart perui kiertueensa sydänvaivojen takia, kun taas monet iäkkäät rocktähdet jatkavat keikkailua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T10:51:35Z",
+      "urls": [
+        {
+          "sign": "5cb80b5e327cece26bebab357d86ff63713c5a7cf777582ed1492a4a41642bc4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio voitti EM-maratonin, tapasi perheensä Birminghamissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T10:42:14Z",
+      "urls": [
+        {
+          "sign": "5a8727777a17bb5c1fb7b71ca8425f6e47cd7861a6e1bf38549b2e2c4a2c9f88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio voitti Euroopan maratonin mestaruuden Birminghamissa – ensimmäinen suomalainen nainen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
