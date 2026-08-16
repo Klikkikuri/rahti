@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T08:11:45Z",
+  "updated": "2026-08-16T08:30:03Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -586,23 +586,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-13T13:00:00+03:00",
-      "urls": [
-        {
-          "sign": "800110f43166a2be3899bc77b60c50cfce08557f83ed62b70ec6a089d2d373a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-16T04:22:11Z",
@@ -4996,21 +4979,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T14:41:19Z",
-      "urls": [
-        {
-          "sign": "c3594e9c646e6079d5ef94be6021e2549e9478bcb8797aeaf8c8f3365d5d4c7b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Romanssihuhut Alisa Vainiosta ja Janne Saarinen levisivät – Vainio ymmärtää kiinnostuksen mutta ei kommentoi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-14T13:29:53Z",
       "urls": [
         {
@@ -5225,23 +5193,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-14T15:08:26Z",
-      "urls": [
-        {
-          "sign": "bac3a3467f05630420511d7825dacd3ef95568c5201ace25e8e9c2df30af2aa4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Professori Tomi Voutilainen: Länsi-Uudenmaan hyvinvointialueen viestintähankinta ilman kilpailutusta virheellinen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-14T15:13:36Z",
       "urls": [
         {
@@ -5366,21 +5317,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T15:14:00Z",
-      "urls": [
-        {
-          "sign": "4aac2d52fbb3bfffe4180434bb8927b53824d989f0cf4a97ae6430983d03d8c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hanna-Maria Hintsa ja Anssi Hintsa jättivät yhdessä avioerohakemuksen – erossa jo kaksi vuotta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T14:43:06Z",
@@ -5546,21 +5482,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T15:13:05Z",
-      "urls": [
-        {
-          "sign": "a3a94f950992d4c027a767ad62eba95ac27c8ae27bdfd67c52672ca348f2ea70",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Open AI julkaisee Chat GPT -sovelluksen Linuxille",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T18:00:00+03:00",
@@ -12423,7 +12344,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T06:42:11Z",
+      "updated": "2026-08-16T08:30:03Z",
       "urls": [
         {
           "sign": "477d21fbcda86fc9183f04d6ea3fa5f86a76f4fbf0e0045a68009d40c0d88844",
@@ -12432,9 +12353,11 @@
           ]
         }
       ],
-      "title": "Venäjän ohjusisku Kiovassa yöllä aiheutti tulipaloja ja loukkaantumisia",
+      "title": "Venäjä teki ohjusiskun Kiovaan yöllä – tulipaloja ja loukkaantumisia",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12649,7 +12572,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T08:05:58Z",
+      "updated": "2026-08-16T08:21:41Z",
       "urls": [
         {
           "sign": "e0d0c188685748f333ca5f43bdb6602d03f18e9f96abfd38e0561cb389bf64cb",
@@ -12658,7 +12581,7 @@
           ]
         }
       ],
-      "title": "Alisa Vainio lähtee suosikkina EM-maratoniin",
+      "title": "Alisa Vainio lähtee suosikkina rajuun EM-maratoniin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
@@ -12825,7 +12748,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T08:11:45Z",
+      "updated": "2026-08-16T08:15:59Z",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -12834,7 +12757,7 @@
           ]
         }
       ],
-      "title": "Alisa Vainio johtaa naisten EM-maratonin Birminghamissa yli kolmen minuutin erolla",
+      "title": "Alisa Vainio voitti naisten EM-maratonin Birminghamissa yli neljän minuutin erolla",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -12872,7 +12795,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T07:27:37Z",
+      "updated": "2026-08-16T08:24:43Z",
       "urls": [
         {
           "sign": "b9f53065ed50803a9e7ba01860aaccef32fdd07ecdad50d07784ef750cc8f7ee",
@@ -12883,7 +12806,9 @@
       ],
       "title": "Puolalainen bussi nuorten aerobic-kilpailijoita kuljettaessa suistui tieltä Unkarissa – useita kuollut ja loukkaantunut",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12934,7 +12859,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T06:39:14Z",
+      "updated": "2026-08-16T08:29:08Z",
       "urls": [
         {
           "sign": "92466ea76fe8070c8686f6da680ca9c77bbd0f7e0a2dbcdf9340ee6c5ee42226",
@@ -12943,7 +12868,7 @@
           ]
         }
       ],
-      "title": "Kahden bussin peräänajo Kehä I:llä Myllypurossa loukkasi useita ihmisiä",
+      "title": "Kehä I:n bussikolarissa loukkaantui useita ja poliisi keskusteli kuljettajan kanssa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13331,6 +13256,83 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T11:21:00+03:00",
+      "urls": [
+        {
+          "sign": "8b8bb1c03652c4b797dd33d70f45ff55483850b4ec41da21a4e56f889de0bb18",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liitokalmarit ehdolla Britannian vuoden selkärangattomaksi – voivat liitää jopa 30 metriä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T08:19:12Z",
+      "urls": [
+        {
+          "sign": "4cf8104cddac9fc259c9eb56fe7424fd3c495870f0321baf965b307c3183873e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Silja Kosonen voitti EM-kultaa ja kiitti Senni Vireniä tuesta – pariskunta kertoo tunteikkaasta hetkestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T07:48:51Z",
+      "urls": [
+        {
+          "sign": "0451da56cf97d0caaeac6607cbe857b56396fe4cf7884a657fa64d01650b8cab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden musavisa haastaa testaamaan 1980-luvun kappaleiden sanoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T08:22:07Z",
+      "urls": [
+        {
+          "sign": "b1feeec3e69f318cc455d26e5793b992e836c38a586fe364daf3006b0b2a44d6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jamal Musiala lyyhistyi kentälle Bayern Münchenin ottelussa Leipzigia vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T08:15:57Z",
+      "urls": [
+        {
+          "sign": "5814125ceca0ec43e9d11a0c573bb2638e50b05ba926e2c9f8ade24ce9ee15fe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen Sibelius-Akatemian professori ja rehtori Erkki Rautio on kuollut 94-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
