@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-15T23:30:22Z",
+  "updated": "2026-08-16T00:20:35Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -556,21 +556,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-12T22:10:40Z",
-      "urls": [
-        {
-          "sign": "d56d4c96965d952a05732b7d2253c6fdf61075fcedcf04044b45dc6191633e5c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Silja Kosonen voitti moukarinheiton Euroopan mestaruuden tuloksella 76,28",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-10T06:49:47Z",
       "urls": [
         {
@@ -586,21 +571,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-12T21:50:39Z",
-      "urls": [
-        {
-          "sign": "10f4e5754990590cd5e675e43764b71c1a03f7ff584b4110f7d44a8b443330d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat ja Kolumbia sopivat yhteisoperaatioista huumekartelleja vastaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-12T14:00:47Z",
@@ -13278,6 +13248,36 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T00:20:35Z",
+      "urls": [
+        {
+          "sign": "b48def70753529488dccc443feeab5b8810fd79cbdcf5bc2540fb59ac401a6aa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi lopetti esitutkinnan Rotenbergien Långvik-kaupasta näytön puutteen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T00:15:07Z",
+      "urls": [
+        {
+          "sign": "b39539bfd693912e1367c86630074a6665269089a0a4018dd8cf080cc51bf622",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hurrikaani Lala uhkaa Havaijin Big Islandia – ensimmäinen suora osuma 30 vuoteen mahdollinen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
