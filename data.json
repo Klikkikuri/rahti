@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T04:06:35Z",
+  "updated": "2026-08-16T04:22:11Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -697,7 +697,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T05:58:31Z",
+      "updated": "2026-08-16T04:22:11Z",
       "urls": [
         {
           "sign": "04f49bba9dcf999746c6fadfde63f96a41a3d25247feef13a882b552b75ec75d",
@@ -706,7 +706,7 @@
           ]
         }
       ],
-      "title": "Yleisurheilun EM-kisat 2026 järjestetään Birminghamissa 10.–18. elokuuta – artikkeli esittelee ohjelman ja suomalaisurheilijat",
+      "title": "Yleisurheilun EM-kisat 2026 Birminghamissa 10.–18. elokuuta: artikkeli esittelee ohjelman ja suomalaisurheilijat",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -1007,21 +1007,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T10:04:05Z",
-      "urls": [
-        {
-          "sign": "a933dc97ca73ee6b2565a528cdf60c6bd0ed3a86f047d8f884ea9ce2a3b46e0a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kätevällä kikalla saat hammastahnan viimeisetkin rippeet ulos tuubista",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-13T07:11:59Z",
@@ -3481,7 +3466,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T04:13:46Z",
+      "updated": "2026-08-16T04:20:00Z",
       "urls": [
         {
           "sign": "6d94150df8b4f380c563721ed718b5c5e5a1175555e106219f5d3f15a30acc77",
@@ -3494,10 +3479,11 @@
           "labels": []
         }
       ],
-      "title": "Suomalaisurheilijat kilpailevat lauantaina EM-kisoissa Birminghamissa",
+      "title": "Alisa Vainio juoksee naisten maratonin EM-kisojen päätöspäivänä Birminghamissa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13301,6 +13287,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T04:13:57Z",
+      "urls": [
+        {
+          "sign": "477d21fbcda86fc9183f04d6ea3fa5f86a76f4fbf0e0045a68009d40c0d88844",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä ohjuksella iski Kiovaan yön aikana – tulipaloja useilla alueilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
