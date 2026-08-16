@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T18:25:14Z",
+  "updated": "2026-08-16T18:44:30Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1561,21 +1561,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T04:30:00Z",
-      "urls": [
-        {
-          "sign": "ad46257fa20d4a84ac8cdc1d571915965d1aa757b72b7de73b371ca4e24e71ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun yliopiston asiantuntija: Ihmisen elinikä voi mahdollisesti nousta 150 vuoteen jos vanhenemista hidastetaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T06:21:54Z",
@@ -5584,38 +5569,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T06:37:36Z",
-      "urls": [
-        {
-          "sign": "8d4cda86534b34fc70e9456b7657c9e522bdb111cf351661b535321b0f737af4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Neymar voi siirtyä Inter Miamiin Messin ja Suárezin joukkuetoveriksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-15T06:30:14Z",
-      "urls": [
-        {
-          "sign": "33c15d3ced9365944995ce41577852bfd0640f100b69f625ea2f88cac66e70ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin salakuuntelu paljasti Mika Moringin alistavaa ja väkivaltaista puhetta naisia kohtaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T06:39:58Z",
       "urls": [
         {
@@ -9043,7 +8996,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T16:18:00+03:00",
+      "updated": "2026-08-16T21:36:00+03:00",
       "urls": [
         {
           "sign": "397a56a8783febd12f09be4331cf16eba1a916ea6f9f1ea290b406c7a74c76a4",
@@ -9052,7 +9005,7 @@
           ]
         }
       ],
-      "title": "Historiallinen maastopalo Hautes Fagnesissa on polttanut yli 3000 hehtaaria ja aiheuttanut yli 600 ihmisen evakuoinnin",
+      "title": "Historiallinen maastopalo Hautes Fagnesissa jatkaa leviämistä – yli 3000 hehtaaria palanut, yli 600 ihmistä evakuoitu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -10046,7 +9999,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T10:22:21Z",
+      "updated": "2026-08-16T18:44:30Z",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -13387,6 +13340,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T18:40:41Z",
+      "urls": [
+        {
+          "sign": "a675e87f3c5988044ccaba7f8220949f3278d794751eb73def7084689806b328",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "16-vuotias kuoli alfa-gal-allergiaan syötyään makkaraa – tautia todettu myös Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T18:38:59Z",
+      "urls": [
+        {
+          "sign": "d87bf6810ee1f8103ce8b780abdf8b0b5c6b60e5d899172a3f99e36ab0132b75",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Matalapaine tuo viileämpää ilmaa ja sateita Suomeen – helteet päättyvät, lämpötila nousee ensi viikolla Etelä-Suomessa yli 20 asteeseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T18:26:25Z",
+      "urls": [
+        {
+          "sign": "0f411fa283ab4d46ea50e20aa136c8df029856da046f83700ff86bf2247d4e84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SpaceX laukaisi kaksi Falcon 9 -rakettia 38 minuutin välein – uusi ennätys",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
