@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T03:30:06Z",
+  "updated": "2026-08-16T06:40:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -693,21 +693,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T02:30:35Z",
-      "urls": [
-        {
-          "sign": "eb4e59bd2533a195fedd593d912f61d3a53614cebc074cc27d4afeb7a9fee5ce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Siviilipalvelusvelvollisia voitaisiin jatkossa määrätä kertauspalvelukseen poikkeusoloissa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T03:40:37Z",
@@ -2869,23 +2854,6 @@
         }
       ],
       "title": "Länsi-Uudenmaan poliisi on saanut valmiiksi esitutkinnan 15 seksuaalirikosepäilystä – epäilty kiistää kaikki teot",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T09:25:00Z",
-      "urls": [
-        {
-          "sign": "ec20bee8c0db9743dacc724ed65a10aacb1ce3cf505ae97e653548ce8965140e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV näyttää kaikki Liigan ja Mestiksen ottelut kaudella 2026-2027, Jokerit palaa pääsarjaan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -8597,7 +8565,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T19:17:00+03:00",
+      "updated": "2026-08-16T06:40:00+03:00",
       "urls": [
         {
           "sign": "ed82f2c0e78940fc913a8e3e93a3fb71ed910e49bc96602acdd0d34c58541fc7",
@@ -8606,7 +8574,7 @@
           ]
         }
       ],
-      "title": "Voimakas maanjäristys ravisteli Floresin saaren rannikkoa Indonesiassa lauantaina, kymmeniä kuollut, tuhansia evakuoitu",
+      "title": "Voimakas 7,7:n maanjäristys ravisteli Floresin saaren rannikkoa Indonesiassa lauantaina, yli 50 kuollut ja tuhansia evakuoitu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13295,6 +13263,38 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T03:39:47Z",
+      "urls": [
+        {
+          "sign": "e9710bfce2bc13d82097c1cb83966f35c6b60481122df685c7f6486d0c4d4cd3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjalainen Nato-hävittäjä ampui droonin alas Romaniassa sunnuntaiaamuna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T03:30:35Z",
+      "urls": [
+        {
+          "sign": "cbcc991944d6e6f2b115193b4fa42cc5fe1d42c4378cc56999d94f33ed2085ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Korkeakoulutetut nuoret jäävät ilman töitä kokemusvaatimusten vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
