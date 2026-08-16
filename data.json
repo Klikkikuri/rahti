@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T21:49:31Z",
+  "updated": "2026-08-16T22:29:41Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -697,38 +697,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1455b851884ec3c47143bd0b18dec1112fc4569016e19769b8e4eaabc1d0b227",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T16:52:07Z",
-      "urls": [
-        {
-          "sign": "568d4282e4af82f2be9a8168ea0de5d8d93404e4ed34eabe921544e2cc1edf09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kun Sibiry Konate muutti Suomeen, hänet alettiin nähdä auttajana: 'Kolonialismi rikkoi paljon' is moderately clickbaity because it uses a personal narrative hook ('Kun... muutti Suomeen') followed by a colon and a provocative quote that implies a strong ideological stance. While grounded in the article's content, the structure leans into emotional appeal and contrast (Finland vs. expectations of wealth) to draw attention, which is characteristic of clickbait. However, it remains factually anchored and not exaggerated, so it does not reach high levels of sensationalism.",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-14T09:57:29Z",
@@ -5795,21 +5763,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-15T08:58:19Z",
-      "urls": [
-        {
-          "sign": "093b9661f1eb073dfdbbfb7c86abe73d5a51341e0ac5e58d5afcd81bb573922b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen hoitaja Tiina Säynätsalo auttoi synnytyksessä VR:n junassa tiistaina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T09:20:52Z",
@@ -13390,6 +13343,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T22:28:37Z",
+      "urls": [
+        {
+          "sign": "377ec9b7056d976695f3c5e17f382e1659e973aa62845e7530ba2fc8042cf93c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump määrää Yhdysvaltojen puolustusministerin supistamaan tänään alkavaa Etelä-Korean sotaharjoitusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T01:16:00+03:00",
+      "urls": [
+        {
+          "sign": "2e6c1de1e13bc391da366b0f7385e118e95ee6d2128ee8f0b9e953a194ace7f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Useita teinipoikia kuoli ja useita loukkaantui kahden auton törmäyksessä Irlannissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T22:29:41Z",
+      "urls": [
+        {
+          "sign": "481e591583aa1f8556be77aa994dea84c828914b9d55c457a20328e94f261247",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump ohjeistaa pienentämään Yhdysvaltojen osallistumista Etelä-Korean sotaharjoituksiin viitaten Pohjois-Korean kanssa hyviin väleihin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
