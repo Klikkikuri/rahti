@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T06:42:11Z",
+  "updated": "2026-08-16T09:59:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -701,21 +701,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T12:13:00+03:00",
-      "urls": [
-        {
-          "sign": "5d824df0c27306d0288453e707f419b659319e0c49dd50e294f9c65770c16f95",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroviisut 2027 järjestetään Bulgarian Burgasissa – finaali 15. toukokuuta 2027",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-13T10:21:41Z",
@@ -12972,7 +12957,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T06:42:08Z",
+      "updated": "2026-08-16T06:51:23Z",
       "urls": [
         {
           "sign": "e0d0c188685748f333ca5f43bdb6602d03f18e9f96abfd38e0561cb389bf64cb",
@@ -12981,7 +12966,7 @@
           ]
         }
       ],
-      "title": "Alisa Vainio lähtee suosikkina rajuun EM-maratoniin",
+      "title": "Alisa Vainio lähtee suosikkina haastavaan EM-maratoniin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13147,7 +13132,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T06:30:24Z",
+      "updated": "2026-08-16T06:52:06Z",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -13156,7 +13141,7 @@
           ]
         }
       ],
-      "title": "Ainoa suomalainen juoksija Alisa Vainio jahtaa EM-maratonin kultaa Birminghamissa",
+      "title": "Alisa Vainio johtaa EM-maratonin Birminghamissa – vauhti rikkoo Suomen ennätyksen",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13316,6 +13301,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T09:59:00+03:00",
+      "urls": [
+        {
+          "sign": "c3c2bea2c65fcc5def126ef590b1fd5408f198452ac18dd52d89a00b69e1ef0b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
