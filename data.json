@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T12:12:17Z",
+  "updated": "2026-08-16T12:26:30Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1094,21 +1094,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T12:08:54Z",
-      "urls": [
-        {
-          "sign": "138af0772586740a8fb7c9a5a2dbf0e2709c1eb21610f05ad9c75eb08959e147",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turun koulujen kännykkäkielto parantaa työrauhaa opettajien mukaan, mutta oppilaat kokevat sen rajoittavana",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T13:43:26Z",
@@ -5735,21 +5720,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T19:19:09Z",
-      "urls": [
-        {
-          "sign": "fb405c4b53dddfe3ad078173d558237c2c17ba0f9b00d3cf90e7e6b027d9a9ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Zelenskyi vaatii lisää Patriot-ohjuksia ja korostaa perheajan tarvetta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T19:10:50Z",
@@ -13359,6 +13329,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T12:26:30Z",
+      "urls": [
+        {
+          "sign": "e20353c7a81809d6241eb2229d19588e579a76da014453e06f42da3502cd8b8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T12:16:51Z",
+      "urls": [
+        {
+          "sign": "13b4c9800b63502cfc08c6c63d999b5ee976a4b19c04d25e4739a6339f56c461",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lapin AMK:n vetypowered pienoiskuorma-auto pidentää toiminta-aikaa ja toimii pakkasessa – päästöt vain vettä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
