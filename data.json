@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T19:13:49Z",
+  "updated": "2026-08-16T19:28:21Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1137,21 +1137,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T16:02:24Z",
-      "urls": [
-        {
-          "sign": "abb97590df0bc2d5eb4e6d7d9f488282fbb1e67e397a8637e6442600b29abd37",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen Järvensivun asukkaat vaativat autiotalojen purkua turvallisuussyistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-14T02:00:00+03:00",
@@ -9905,7 +9890,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T19:13:49Z",
+      "updated": "2026-08-16T19:28:21Z",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -13385,6 +13370,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T19:13:59Z",
+      "urls": [
+        {
+          "sign": "48a4acaf23c43a093d8a3706f4e796663ad137a16a294d236f3ce6fef779bda8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lasse Virén antoi Alisa Vainiolle koiran lelun mitalienjaossa – Vainio kutsui hetkeä ainutlaatuiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
