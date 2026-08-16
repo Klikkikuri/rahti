@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T17:12:56Z",
+  "updated": "2026-08-16T20:30:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -714,21 +714,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "591cd43f2c31497c5d3d9d3784019d854d6cb1c1027afe99998947cda1c8aa97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiina avasi konttireitin Koillisväylää pitkin, mutta kaupallinen läpimurto on vielä kaukana",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-13T18:39:00+03:00",
       "urls": [
         {
@@ -759,23 +744,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d079ce3c049fc83176617f5566f17d9ea264653ae11cad595208bb2f8c6e4683",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-13T20:00:00+03:00",
@@ -1608,21 +1576,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T03:32:00Z",
-      "urls": [
-        {
-          "sign": "1d2562f7b9985960baf2f703b2705a1454c730f760d822d6046fa709c95f38b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen talous kääntyy kasvuun haasteista huolimatta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T03:49:00+03:00",
@@ -13383,6 +13336,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T17:15:33Z",
+      "urls": [
+        {
+          "sign": "2ea9fff4866f8648a5961aafba9345335482bd6e58843359f92562c162222c39",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jürgen Klopp myöntää, että hänen aikaisemmat lausuntonsa median kritiikistä olivat virhe",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T20:15:00+03:00",
+      "urls": [
+        {
+          "sign": "788c91cbf47fd2d5a42116bbce45311132e1448ba6f4bfe748df6afa60f7697f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luonnonvarakeskuksen ja Helsingin yliopiston tutkijat: Metsäojitettujen soiden ennallistaminen tulee tehdä harkiten",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T20:30:00+03:00",
+      "urls": [
+        {
+          "sign": "ea89f7fc062594642c6fe76bcdc12bf31409c366c830a310c1f30ad0c56155c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itätuulenkujan jalankulkusillan valmistuminen viivästyy – Tapiolan asukkaat kärsivät tilapäisjärjestelyistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
