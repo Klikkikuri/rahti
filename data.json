@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T19:33:45Z",
+  "updated": "2026-08-16T23:00:02+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1452,21 +1452,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T04:51:40Z",
-      "urls": [
-        {
-          "sign": "f2a72fcde427aa9d113c08794a499ee5d06925e9fa11f2de046b9e477d0cb524",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eetu ja Sanna Love Island Suomesta muuttavat avoliittoon Espooseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T07:00:00+03:00",
@@ -5650,21 +5635,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T07:19:07Z",
-      "urls": [
-        {
-          "sign": "b8b59591f0eaada6f596a9ef48e162d5f9a82f7757886c61a95544091a6fd3ef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "AfD:n Ulrich Siegmund tavoittelee Sachsen-Anhaltin pääministerin paikkaa – voisi olla Saksan ensimmäinen äärioikeistolainen osavaltionjohtaja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T10:15:00+03:00",
@@ -9860,7 +9830,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T19:33:45Z",
+      "updated": "2026-08-16T23:00:02+03:00",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -9870,7 +9840,7 @@
         }
       ],
       "title": "Alisa Vainio voitti naisten EM-maratonin Birminghamissa yli neljän minuutin erolla ja rikkoi kisaennätyksen",
-      "clickbaitiness": "Moderately Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13387,6 +13357,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T19:53:36Z",
+      "urls": [
+        {
+          "sign": "d9f0f53b6e4dbe60beac3f630d9327a1d828d704af48a835732569630670516c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Slipknot ilmoitti Sid Wilsonin erottamisesta yhtyeestä, mutta poisti myöhemmin tiedotteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T19:49:14Z",
+      "urls": [
+        {
+          "sign": "3fd06f34eb7873f2fd36d6caba099ae5aaa5b402152ebb05898182bb257939e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Armand Duplantis sai väärän akkreditoinnin matkalla EM-finaaliin, mutta ei häiriintynyt valmistautumisestaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
