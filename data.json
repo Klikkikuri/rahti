@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T14:12:53Z",
+  "updated": "2026-08-16T14:23:46Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -680,21 +680,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T14:05:56Z",
-      "urls": [
-        {
-          "sign": "2ba0b555463b81774a4941db8cb96d87cda3081978cc527a0b74536fcab0f790",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "IF Metall keskeyttää lähes kolme vuotta kestäneen työtaistelun Teslaa vastaan Ruotsissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T17:21:00+03:00",
@@ -1389,23 +1374,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-13T20:06:21Z",
-      "urls": [
-        {
-          "sign": "32f1ba086b8b37039cbeb9fbfe110a748690bf20bce6ce879c668d1b0e70db29",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puola esti Venäjän kansalaisen suunnitteleman salamurhayrityksen Yhdysvaltain ja Ukrainan kaksoiskansalaista vastaan Varsovassa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-13T15:52:48Z",
       "urls": [
         {
@@ -1658,21 +1626,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T14:21:54Z",
-      "urls": [
-        {
-          "sign": "33d851602068e1f28634ecc02cbc9d55ac85a2af8c3507f973960da72d6551ee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto laajensi afrikkalaisen sikaruton ydinaluetta Kymenlaaksossa pohjoiseen uusien tartuntojen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-14T02:00:00+03:00",
       "urls": [
         {
@@ -1686,21 +1639,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T20:08:38Z",
-      "urls": [
-        {
-          "sign": "97ffcee2b43ede8fdc49d28401039b9087131dd0f88d76f4470a88fc78f0f8a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjä kritisoi Japanin lausuntoja Putinin Kuriilien-saarivierailusta loukkaavina",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T02:31:59Z",
@@ -3596,24 +3534,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T21:00:58Z",
-      "urls": [
-        {
-          "sign": "74022c5ec4951271d7ad05b91eaa1e9df8bd10ed42a30fb163e2b0d955d4eb60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Silja Kosonen voitti moukarinheiton EM-kultaa, Wilma Heltelä hopeaa ja Juho Alasaari eteni seiväshypyn finaaliin – kolme keihäänheittäjää karsiutui",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T12:40:00+03:00",
@@ -13237,7 +13157,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T14:07:45Z",
+      "updated": "2026-08-16T14:19:13Z",
       "urls": [
         {
           "sign": "ebd701944bfe1a9f6eb847b0cc8679a42fe1dbc8efab4bbfc9ef23f4942756cb",
@@ -13246,7 +13166,7 @@
           ]
         }
       ],
-      "title": "Aatu Turpeinen jäljitti murtovarasta tekoälyn avulla verstaamurron jälkeen",
+      "title": "Aatu Turpeinen käytti tekoälyä jäljittääkseen verstaamurron tekijän",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13363,6 +13283,84 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T14:23:46Z",
+      "urls": [
+        {
+          "sign": "a507d80b864aee356ffaa2a3397044078b3d3b82d437767ef0bde54c463469e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi selvitti Lassilan liikenneonnettomuuden ja aseepäilyn – asetta ei löytynyt, ketään ei otettu kiinni",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T14:17:00Z",
+      "urls": [
+        {
+          "sign": "b8b3f893af81082c2162ccb4fd7d162dc6ee27cccc308302dc8e254440bae997",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kreikkalaisen jogurtin kysyntä kasvaa Suomessa, kaupoissa on ajoittain pulaa ja valmistaja lisää tuotantokapasiteettia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T13:31:20Z",
+      "urls": [
+        {
+          "sign": "36ea9b04e9341af1e497fc85451e3bfe4aac469d937cb4e6252d743ae96220ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeusministeriö ja tietosuojavaltuutettu varoittavat sivullisten yksityisyyden vaarantumisesta, jos Supo saa tiedusteluoikeuden koteihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T14:15:21Z",
+      "urls": [
+        {
+          "sign": "80119886c4f90fc55015b31a1739b69e0241ea974ba8c45510d98d2452633591",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset evakuoivat satoja ihmisiä Kreikan Salamisin saarelta metsäpalojen takia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T14:15:36Z",
+      "urls": [
+        {
+          "sign": "1bedd54eeea2038474a6dfc03998e1eca8c6e2a229812e442949c1a87ab69d02",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Djurgården hävisi AIK:lle 1–3 Tukholman derbyssä – kotiyleisö buuasi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
