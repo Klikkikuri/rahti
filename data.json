@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T18:44:30Z",
+  "updated": "2026-08-16T18:58:02Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -930,21 +930,6 @@
       ],
       "title": "Toimitusjohtaja Aapo Mäki: Teen 50-tuntista työviikkoa, ei pitänyt vanhempainvapaata – Yle kysyy kokemuksia liiallisesta työnteosta",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T15:52:48Z",
-      "urls": [
-        {
-          "sign": "8381610c44c80caa3d144966f3a8ab23f331cc78c9be0f8d20e5b4b981fde636",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ajoi takaa 16-vuotiasta mopoilijaa 80 km/h kevyen liikenteen väylällä - nuori kaatui metsätiellä sohjoon",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5616,23 +5601,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T06:53:52Z",
-      "urls": [
-        {
-          "sign": "6f7268503e9f18ad13bf9f89d2068427da3fc44e836621681b04bfe0cd529402",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Duplantis varoitti Šeriä vaarallisesta hypystä EM-seiväskarsinnassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T06:52:58Z",
       "urls": [
         {
@@ -5759,21 +5727,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T07:00:19Z",
-      "urls": [
-        {
-          "sign": "afb76a1e7c0f61d58f2e790edc69fb4f8dba0a02350ababc7fed5d0d93c419e1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Johtaja Markus Syrjänen selittää, miten 55 000 euron hankinta kasvoi 290 000 euroon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T07:19:07Z",
@@ -9999,7 +9952,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T18:44:30Z",
+      "updated": "2026-08-16T18:58:02Z",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -10010,9 +9963,7 @@
       ],
       "title": "Alisa Vainio voitti EM-maratonin Birminghamissa yli neljän minuutin erolla ja rikkoi kisaennätyksen",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13385,6 +13336,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T18:52:00Z",
+      "urls": [
+        {
+          "sign": "99b1cb09acae6de2d625649eb0589231c3b7493ef1209e56586104b1f5d21e7c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Silja Kosonen ei osallistu keskiviikon Motonet GP:hen Espoossa nilkkavamman vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T16:52:19Z",
+      "urls": [
+        {
+          "sign": "acdb4eb436d8d5e75a0e674bf65a0f83b5d62f1e3bac68301daae4689f9393b1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio hakee kansainvälistä maratonmenestystä ja neuvottelee korkeista starttirahoista EM-voittonsa jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T18:45:39Z",
+      "urls": [
+        {
+          "sign": "c3599ff0ff904b38d9cc022b5b5b36f10b2ca327bed358179a6121e19412de6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Microsoft poisti toistamiseen Windows 11:n 32 Gt RAM-suosituksen ohjekeskuksestaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
