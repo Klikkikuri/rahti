@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T18:02:48Z",
+  "updated": "2026-08-16T18:25:14Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -684,21 +684,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T15:45:26Z",
-      "urls": [
-        {
-          "sign": "b62ed8b6cffffd44f928e8c69898e833ff41989eb800f4b4428be5fb6dac456a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Moroccanoil lopettaa Euroviisujen pääsponsorina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-13T20:00:00+03:00",
       "urls": [
         {
@@ -1366,23 +1351,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T03:52:00Z",
-      "urls": [
-        {
-          "sign": "665b169f736f33cfac7c61ea8cac78318b377b8db0f789cc753e04f62578e49e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vyötärölihavuus ja D-vitamiinin puutos lisäävät kuolemanriskiä 123 prosentilla yli 50-vuotiailla",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T05:25:33Z",
@@ -5599,21 +5567,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T06:18:01Z",
-      "urls": [
-        {
-          "sign": "73fccbfc2fd5e6ae1082f84e6ba72fc4bc3f4f6dfeeb4a02ab29a842aead6e71",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pippa Laukka varoittaa: lomalla juotu alkoholi heikentää suomalaisten palautumista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T06:42:47Z",
@@ -13387,6 +13340,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T10:47:02Z",
+      "urls": [
+        {
+          "sign": "68570d0707087cd37f0ba2dd43c4c52431f49fef7ff38092c90d840d614b59f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "PKS Sähkönsiirto hakee lisäaikaa ja lievennyksiä sähkömarkkinalain toimitusvarmuusvaatimuksiin – siirtomaksujen nousu voi olla 500–1000 euroa vuodessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T18:22:47Z",
+      "urls": [
+        {
+          "sign": "62607d93c995d1782ab98872b51bcd4de3884bfe6983c368147e2920ea344d65",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Silja Kosonen nilkkavaivan vuoksi pois Espoon GP-kilpailusta – Timanttiliigan Chorzowin kisakin epävarma",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T18:25:14Z",
+      "urls": [
+        {
+          "sign": "8e2ba186a08db2b679ae9dd3a7f9c7c289992b644c8b478961c7557ccd81a28d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cristiano Ronaldo kertoo, että tuleva kausi voi olla hänen viimeisensä – jatkaa Al-Nassrissa ja pohtii elämää jalkapallon jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
