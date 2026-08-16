@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T06:07:00+03:00",
+  "updated": "2026-08-16T03:30:06Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -4913,21 +4913,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-14T11:31:31Z",
-      "urls": [
-        {
-          "sign": "083bc5267ec66922cf81f45484b2e93dbc3c43f946442dc5406a3cf0101f2673",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii törkeää pahoinpitelyä Vantaan Myyrmäessä – uhri löytyi asunnon pihalta verisinä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-14T14:17:00+03:00",
       "urls": [
         {
@@ -4990,21 +4975,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T11:51:35Z",
-      "urls": [
-        {
-          "sign": "574c938212228dd6a5ec394e0791be2b206e88c664c689b98e212b582edc3c09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vilma Peltonen kertoo olevansa sinkku ja aloittavansa taidemaalarin opinnot",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T12:41:47Z",
@@ -13282,6 +13252,38 @@
       "urls": [
         {
           "sign": "f522b5c92f2699529cbfec33b2e2e56fd28707a52cc4c68aa796f6ebc6045fde",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T03:29:23Z",
+      "urls": [
+        {
+          "sign": "3e57d9fb8c291f1c0cc750f29f673d7fbaf9cc700a6fde1cf9d2006ac02d6f0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kookos on terveellinen, mutta sen rasva voi nostaa LDL-kolesterolia – kookosmaito taas laskee sitä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T03:30:06Z",
+      "urls": [
+        {
+          "sign": "6d4452cdb46739e2a9068b5ffc7e0540954906de726d5cf9abcf89d095b9143f",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
