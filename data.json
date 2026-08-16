@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T15:23:33Z",
+  "updated": "2026-08-16T15:36:53Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -182,23 +182,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-15T01:40:45Z",
-      "urls": [
-        {
-          "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranin ja Yhdysvaltojen neuvottelut eivät etene – väliaikaisen sopimuksen elvyttäminen jumissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -5471,21 +5454,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T00:19:27Z",
-      "urls": [
-        {
-          "sign": "0bb98c248dc6d711a06ced0cb766bbabfb30e2f29cc52f1977d23ba347b29223",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump uhosi julistavansa Hormuzinsalmen Yhdysvaltojen alueeksi – Iran kiistää väitteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T03:40:00+03:00",
@@ -12890,7 +12858,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T14:05:27Z",
+      "updated": "2026-08-16T15:35:31Z",
       "urls": [
         {
           "sign": "c55affd22ce968a4586102508bf15454bffed7b2ff80f7bd81f7573b5c7f4ed0",
@@ -12899,8 +12867,8 @@
           ]
         }
       ],
-      "title": "Kehä I:n turmabussista puuttui automaattijarrutusjärjestelmä – syynä pelko haamujarrutuksista",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Kehä I:n bussiturmassa puuttui automaattijarrutusjärjestelmä – konsernijohtaja perustelee haamujarrutusten riskillä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13370,6 +13338,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T15:36:53Z",
+      "urls": [
+        {
+          "sign": "5330105d5252419cf585574c9842ccf88140c2ff726b3b6e13d3bfe805cfa67c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio voitti EM-maratonin Birminghamissa ja sai rannekorun A- ja J-kirjaimilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T15:33:30Z",
+      "urls": [
+        {
+          "sign": "68dbfbaab407522f35a2136f52390b8d6051a480fc4fff64fc32a6df3a09cdce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Novak Djokovic hävisi Cincinnatiin toisella kierroksella ja kertoi kärsivänsä hermotoimintaan vaikuttavasta terveysongelmasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
