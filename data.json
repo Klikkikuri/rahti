@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T11:14:41Z",
+  "updated": "2026-08-16T11:26:20Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1271,23 +1271,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T16:32:05Z",
-      "urls": [
-        {
-          "sign": "fa526edbb6b56545ee1474f8da78ca6b9712df1d9a08edfb231b5dd559d7ce9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kolumbian maanjäristyksen uhriluku nousee – viranomaiset vahvistavat ainakin 273 kuollutta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-13T19:00:00+03:00",
       "urls": [
         {
@@ -1549,21 +1532,6 @@
       ],
       "title": "Ruotsin parlamentti laski rikosoikeudellisen vastuun alaikärajan 14 vuoteen vakavimmissa rikoksissa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T11:25:06Z",
-      "urls": [
-        {
-          "sign": "f126f1e4d0084b7b8d64196f9f3cfb9b87f753bd17b851d6d5f49c90bbe3da88",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syksyn 2024 teatteri-ensi-illat käynnistyvät elokuussa – useat produktiot jo loppuunmyytyjä",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5752,21 +5720,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T18:24:01Z",
-      "urls": [
-        {
-          "sign": "a493eaf846254ce86b063a58a4dc91156d95f2d7026ec6d497486e463da009fc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ryan Reynolds kehottaa Yhdysvaltoihin kyllästyneitä muuttamaan Suomeen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T18:27:44Z",
@@ -13353,6 +13306,55 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T11:19:34Z",
+      "urls": [
+        {
+          "sign": "559515ba123c12b5e91010cab49c35db9b3ae661034a55af0b87e65e3b7d2318",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eläinmatkailun kasvu herättää huolta eläinten hyvinvoinnista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T11:26:20Z",
+      "urls": [
+        {
+          "sign": "1df1c12a572e4816317895d60ffa146bedde5577eccdbcd44ac283a11ae3dbdb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio voitti EM-maratonin Birminghamissa ylivoimaisella erolla, valmentaja Viskari kiittää sitoutumista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T11:18:11Z",
+      "urls": [
+        {
+          "sign": "c019ae944ea7a9ce0210d4f620cc7b233b5c17eab23caca9ca5d84d411c5087b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Festivaalijärjestäjä kieltäytyy hyvittämästä lippuja Abbathin kahden minuutin keikan jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
