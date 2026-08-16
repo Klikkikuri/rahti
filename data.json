@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T16:14:10Z",
+  "updated": "2026-08-16T16:20:26Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -662,21 +662,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T17:21:00+03:00",
-      "urls": [
-        {
-          "sign": "611a093916d90ae2d22e7535fbed76862553d48928af274b15108e8af135eeed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Uudenmaan hyvinvointialue peruu 290 000 euron konsulttihankinnan valmisteluvirheen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1556,21 +1541,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T03:05:00Z",
-      "urls": [
-        {
-          "sign": "acd92177f475e411fe470f3c2131c13b5d1d1569a280bfcb3a1adedc0dbd6e0e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nainen sytytti tulipalon Tampereen kerrostaloasunnossa – tuomittiin vankeuteen ja korvauksiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T03:52:00Z",
@@ -5508,23 +5478,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T03:53:17Z",
-      "urls": [
-        {
-          "sign": "2a7fdd29be9ba4f98dcec77f9d8cb18a669b528327b08e41f704a03399d82d38",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aku Partasen kilpakävelyvauhti yllättää – testissä hän jätti tavallisen kävelijän kauas taakse",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T04:00:02Z",
@@ -13381,6 +13334,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T16:17:55Z",
+      "urls": [
+        {
+          "sign": "bcb02e9b98458e5663cefaf8c7435de127c6e1d9fe9678856a25dcde5a2c5e66",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T16:20:26Z",
+      "urls": [
+        {
+          "sign": "29157174195da9b6fcd141ae101c4fe47af5f2c9da602670d64a262cd197c057",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Djurgårdenin päävalmentaja Jani Honkavaara kritisoi tuomaritoimintaa AIK-derbyssä – kapteeni Adam Ståhl kutsuu tilannetta skandaaliksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T19:15:00+03:00",
+      "urls": [
+        {
+          "sign": "615431e986cd7d12b915ac768e08d23d4847f724c8626f97c9eca06e7c0df9d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruokatuotteiden ilmastopäästöt tulee tehdä näkyviksi ja vertailukelpoisiksi – yrityksille tarvitaan yhteinen laskentamalli ja tuki",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
