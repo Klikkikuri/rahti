@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T05:14:59Z",
+  "updated": "2026-08-16T05:27:24Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -633,21 +633,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T04:55:19Z",
-      "urls": [
-        {
-          "sign": "fce403356986137b2cb029fad0bff12fad797fe774780cb85e10433402ae4799",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lohikosken apteekki suljetaan ryöstöjen ja työturvallisuushuolen vuoksi Jyväskylässä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T13:00:00+03:00",
@@ -4681,21 +4666,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T12:41:47Z",
-      "urls": [
-        {
-          "sign": "db47d62b26a0ce53891fcfbbc6ae4d6c23f2e310ec57b52b2325729b76dddb0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump määrää laivaston palaamaan höyrykatapultteihin lentotukialuksilla",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T11:04:28Z",
@@ -13312,6 +13282,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T05:27:24Z",
+      "urls": [
+        {
+          "sign": "e0d0c188685748f333ca5f43bdb6602d03f18e9f96abfd38e0561cb389bf64cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio lähtee aamulla kultajahtiin EM-kisojen päätöspäivänä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T05:21:48Z",
+      "urls": [
+        {
+          "sign": "61fb10460fce8d8736c3655ca5cbebf2d1582c103d24a7d2952c6980a81ff3af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iissä sunnuntaiaamuna ukkosmyrsky katkaisi sähköt lähes 5 000 asiakkaalta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
