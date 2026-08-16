@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T08:42:00+03:00",
+  "updated": "2026-08-16T05:46:30Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -947,23 +947,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T11:42:00+03:00",
-      "urls": [
-        {
-          "sign": "a78dcb9f359d2d473bb0efc4faa4929d03709f4fc83b312031bf7020db445d4e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-13T07:52:10Z",
@@ -12998,7 +12981,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T04:13:57Z",
+      "updated": "2026-08-16T05:46:30Z",
       "urls": [
         {
           "sign": "477d21fbcda86fc9183f04d6ea3fa5f86a76f4fbf0e0045a68009d40c0d88844",
@@ -13007,7 +12990,7 @@
           ]
         }
       ],
-      "title": "Venäjä ohjuksella iski Kiovaan yön aikana – tulipaloja useilla alueilla",
+      "title": "Venäjän ohjusisku Kiovassa yöllä aiheutti tulipaloja ja loukkaantumisia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13316,6 +13299,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T08:45:00+03:00",
+      "urls": [
+        {
+          "sign": "4c09518fe686f8e837e99e3f7a33fe31ca62c68fb33bab3e5b969c13ad44e375",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
