@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T16:42:22Z",
+  "updated": "2026-08-16T16:58:52Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -763,23 +763,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T15:24:28Z",
-      "urls": [
-        {
-          "sign": "b11bbc461e67a9a852663aca4c2942bd8af6c3ac9719d1903713dd1f93117bfa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Räjähdys Rotterdamin satamassa: yksi kuollut, kuusi loukkaantunut",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-13T18:39:00+03:00",
       "urls": [
         {
@@ -906,21 +889,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T17:28:00+03:00",
-      "urls": [
-        {
-          "sign": "2c685904468c023dce7f73e921d8a32ce980eff17e12d5cdce57f1ada6afc458",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viikin kirjasto pysyy suljettuna vesivahingon vuoksi ainakin vuoden loppuun saakka",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-13T19:30:00+03:00",
@@ -1674,21 +1642,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T03:23:55Z",
-      "urls": [
-        {
-          "sign": "305ca18e2e0d059fd2a4a3970635d2d1c59f5b51d1167567b0d584c2e0589b80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskassa pidätetty teini epäiltynä Bordeaux'n läheisen maastopalon sytyttämisestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T03:32:00Z",
@@ -5561,38 +5514,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T04:17:34Z",
-      "urls": [
-        {
-          "sign": "38c9fb91d4d1cfe5c1fb5a3eae40ff483808b1917f66bbd7a6ea94ec6750a97f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EM-kisojen Birminghamissa Schwuchowin poismeno, Röhlerin paluu ja Warholmin ylivoima – maratonkävelyjen aikataulu herättää huolta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-15T04:30:34Z",
-      "urls": [
-        {
-          "sign": "59b50ba5d3e0d909bb057fee8c22382a6be902d9eebe61e0d811ffd9851b0422",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marjastajien yli 1500 mustikkatautihavaintoa keskittyvät Etelä-Suomeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T04:41:34Z",
@@ -13384,6 +13305,85 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T16:57:19Z",
+      "urls": [
+        {
+          "sign": "2b272a9e0b2d00cebdb2cc12054f6dd285ae766904e71a4a8fa2f0862412d759",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veera Kivirinta sijoittui kuudenneksi ja puhkesi itkuun EM-finaalin jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T19:33:00+03:00",
+      "urls": [
+        {
+          "sign": "394213a0ac5df582fd51831eb90b611f02f914cfd7d4c242e095d59c28ae81ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mäkelänkadun peruskorjaus etenee – työt voivat aiheuttaa melua myös öisin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T16:58:18Z",
+      "urls": [
+        {
+          "sign": "ae8774d8c654e7690e04b07250cd76ef38e254aa20eb271341d1d6fc9ff6ac7f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oululainen Matti Närhi, 77, kuvaa märkälevyvalokuvauksella – hidasta vastakohtaa digikuville",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T16:22:19Z",
+      "urls": [
+        {
+          "sign": "117eeb2860379408854cfd9d7a8f01f67f61adba73b5e4c82116d63de1c96a09",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sukkien jäljet nilkoissa voivat viitata terveysongelmiin – joissakin tapauksissa tarvitaan lääkärin hoitoa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T16:58:52Z",
+      "urls": [
+        {
+          "sign": "ea4b349a9be170d146b14af8e70a02c66df43685f46527dc2d3bcf632ea07ec7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "FC Inter voitti AC Oulun 3–2 rankkasateen runtelemassa ottelussa – selostaja Miska Peltoniemi naureskeli kentän kunnolle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
