@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T15:58:00+03:00",
+  "updated": "2026-08-16T13:06:58Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -231,7 +231,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-16T07:04:30Z",
+      "updated": "2026-08-16T13:06:58Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -240,7 +240,7 @@
           ]
         }
       ],
-      "title": "Massiivinen drooniaalto saapuu Moskovaan – Iltalehti seuraa Ukrainan sotaa",
+      "title": "Venäjän propaganda kohdistuu Suomeen Nato-jäsenyyden jälkeen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -1346,23 +1346,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T17:09:03Z",
-      "urls": [
-        {
-          "sign": "76807a29b6bae2e2db67c985f7aea36e7716ebfa1ac531b6e792e0673961f21d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FIA sallii venäläisten ja valkovenäläisten kilpailijoiden palata kansainvälisiin moottoriurheilukilpailuihin ilman rajoituksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-13T18:47:53Z",
@@ -5673,23 +5656,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T19:25:10Z",
-      "urls": [
-        {
-          "sign": "c0cce86e9247738f3c9716a6e6e1c223990e442afb73168e7f5ccc000c2637a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Wilma Heltelä nimeää Silja Kososen 2020-luvun parhaaksi suomalaisurheilijaksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T19:34:45Z",
@@ -13363,6 +13329,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T13:02:34Z",
+      "urls": [
+        {
+          "sign": "d59370cdc84f7f2e4e232f9b2d6a0347b83a988517c19676cf486ed28aad57ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Armand Duplantis pitää vihkisormustaan piikkareidensa nauhoissa EM-finaalissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T13:06:00Z",
+      "urls": [
+        {
+          "sign": "f23da28b88cf155392048b13fc5fadaaa2fbbc15c75876835c52ccf09fbdf30e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijät kertovat katsojien sekoittavan heidät Salatut elämät -hahmoihinsa – jotkut väistävät heitä kadulla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
