@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T07:27:37Z",
+  "updated": "2026-08-16T07:44:47Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -539,23 +539,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-13T12:49:00+03:00",
-      "urls": [
-        {
-          "sign": "6789e9693c9bcd6b01c6b9347e1b72391ab81d5c5326952ee13f007470720ac2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-10T06:49:47Z",
       "urls": [
         {
@@ -759,21 +742,6 @@
       ],
       "title": "EBU muutti Euroviisujen sääntöjä: aseellisessa konfliktissa oleva maa ei voi isännöidä, ikäraja nousi 18 vuoteen",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T08:36:01Z",
-      "urls": [
-        {
-          "sign": "719787ceaa35351cfc07d1e9814d4f4424e1f84eaf40d2dc5419c653916a5556",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun yliopiston tutkijat havaitsivat kahvinjuonnin yhteyden kehonkoostumukseen ja hormoneihin",
-      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5330,21 +5298,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T14:30:25Z",
-      "urls": [
-        {
-          "sign": "9f90f10118c83f28856ce0a028043266eb911d17d0e78358e47a9f4478a13032",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ingebrigtsen mukaan Kerrin poisjäänti EM-kisoista pilaa lajin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T15:08:26Z",
@@ -12722,7 +12675,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T05:59:09Z",
+      "updated": "2026-08-16T07:33:15Z",
       "urls": [
         {
           "sign": "25a3c08202f3dd9a54319f58b6811b10f66925930012e0ba8441d141e7c89b32",
@@ -12731,9 +12684,11 @@
           ]
         }
       ],
-      "title": "Trooppinen myrsky Lala aiheuttaa rankkasateita ja sähkökatkoja Havaijilla – lentoja peruttu, hätätila julistettu",
+      "title": "Trooppinen myrsky Lala aiheuttaa rankkasateita ja voimakkaita tuulia Havaijilla",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12769,7 +12724,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T07:25:10Z",
+      "updated": "2026-08-16T07:44:47Z",
       "urls": [
         {
           "sign": "e0d0c188685748f333ca5f43bdb6602d03f18e9f96abfd38e0561cb389bf64cb",
@@ -12778,10 +12733,11 @@
           ]
         }
       ],
-      "title": "Alisa Vainio lähtee suosikkina EM-maratoniin",
+      "title": "Alisa Vainio lähtee suosikkina rajuun EM-maratoniin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -12944,7 +12900,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T07:25:51Z",
+      "updated": "2026-08-16T07:41:25Z",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -12953,7 +12909,7 @@
           ]
         }
       ],
-      "title": "Alisa Vainio johtaa naisten EM-maratonin Birminghamissa – eroa kärkeen yli kaksi minuuttia",
+      "title": "Alisa Vainio johtaa naisten EM-maratonin Birminghamissa – eroa kärkeen yli kolme minuuttia",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13321,6 +13277,53 @@
       "title": "Sadetta ja ukkoskuuroja on luvassa sunnuntaina ja maanantaina keskisessä ja pohjoisessa Suomessa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T07:31:37Z",
+      "urls": [
+        {
+          "sign": "cf3e8d4936f638dc234b50b8db2f7907284fbec940be741c40ea845ee85b5ac0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuore tutkimus: Kuluminen ja huono kunto ärsyttävät eniten suomalaisissa kodeissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T10:30:00+03:00",
+      "urls": [
+        {
+          "sign": "ccae627b00cd352c8b14ea5c6de241c6d3639f3a7b98b63e96a6abed62310dfb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS kokoaa viikon uutiskuvat: Lindtmanin älylasit, auringonpimennys, kuivuus ja Manilan tulvat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T07:40:23Z",
+      "urls": [
+        {
+          "sign": "2030dc0c3b3d077fcd5e8fef1f10d91890bb79e30f00dc19f29d776201931ada",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ei ole vielä päässyt kuulemaan Myllypuron bussiturman kuljettajaa, onnettomuuden syy epäselvä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
