@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T12:43:10Z",
+  "updated": "2026-08-16T15:58:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1015,23 +1015,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T15:21:00+03:00",
-      "urls": [
-        {
-          "sign": "7a043b9e10ed20137c47b90b03a7db493899a1f84f9b08587fbca9114633eb51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-13T13:08:15Z",
       "urls": [
         {
@@ -1485,21 +1468,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T16:41:37Z",
-      "urls": [
-        {
-          "sign": "62fd99a290f6ec5837b8ba34c5b70cc3e9be3f5e0399d8762ec737cdb9cfa9dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Niklas Friman valittiin TPS:n kapteeniksi – kolmas liigaseura, jossa hän toimii kipparina",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-13T18:34:36Z",
@@ -12481,7 +12449,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T12:27:00+03:00",
+      "updated": "2026-08-16T15:58:00+03:00",
       "urls": [
         {
           "sign": "5aebc614e69bd4cb8188019bb63adb0e81e13ad1e57c9fbacfea0264d761c147",
@@ -12490,7 +12458,7 @@
           ]
         }
       ],
-      "title": "Sellisti ja Sibelius-akatemian professori Erkki Rautio on kuollut 94-vuotiaana",
+      "title": "Sellisti ja Sibelius-akatemian professori Erkki Rautio on kuollut",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13365,6 +13333,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T12:03:56Z",
+      "urls": [
+        {
+          "sign": "08e14284967737546ab659660c146fe943bcc9d4d32812a5650225a8e2f05634",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii tapausta, jossa poliisi osoitti aseella sivullista Tampereella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T15:47:00+03:00",
+      "urls": [
+        {
+          "sign": "851a9f4b104cc33e6b6ee5d8b0f2fba680a83f708d609f07194bfc5c30de0eb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin nuoret kalastavat yhä enemmän ja välttävät puhelimen tuijottamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
