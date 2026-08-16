@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T04:39:36Z",
+  "updated": "2026-08-16T04:52:11Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1938,23 +1938,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T10:24:46Z",
-      "urls": [
-        {
-          "sign": "fa0d18a7675de44c62d90338a742a00b76bde684378e13ec6248762a4658d90c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP vaatii maahanmuuttajien sitoutumista suomalaisiin arvoihin ja ehdottaa sosiaaliturvan sitomista kielen opiskeluun",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-13T12:08:54Z",
       "urls": [
         {
@@ -2062,21 +2045,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T04:26:17Z",
-      "urls": [
-        {
-          "sign": "60d53f9ebd5e09cfded1d2f68aa4aa47be4265e2bb12b8584e2234b9e1796114",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaisten Peltokangas syyttää SDP:tä islamistien ja kiintiöministerin tavoittelusta – kirjoitus herätti rasismisyytöksiä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T12:47:40Z",
@@ -13304,6 +13272,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T04:51:12Z",
+      "urls": [
+        {
+          "sign": "3abe606dffb9d21fc65a9cbabc32b56b53559197dc7eff8149f4e8971d7fc0ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maanjäristys Indonesiassa lisää kuolonuhrien määrää",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T04:52:11Z",
+      "urls": [
+        {
+          "sign": "0c68fab00d51bf9753d58b2f860d20437dded6fbf2a8198230f7908f7b7ee0ca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veikkolassa asukkaat heräävät jäteauton meteliin – tilapäinen jätepiste Puronsuuntiella aiheuttaa häiriötä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
