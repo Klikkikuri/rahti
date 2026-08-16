@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T06:13:20Z",
+  "updated": "2026-08-16T06:30:24Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -588,21 +588,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-13T05:28:39Z",
-      "urls": [
-        {
-          "sign": "e442ee4d73ba9de0fc7f76914ea6ad4f5c34c4b458ff3df0a9672c7192e46d1d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeri Elina Valtonen vierailee Ahvenanmaalla perjantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-11T07:45:41Z",
       "urls": [
         {
@@ -870,23 +855,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "104819b0ead665512ff922fe53fad672241ed1c7c4f233ec1df855dac092109d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Husin suunnitelma siirtää Päiväyksikkö Vuori Peijakseen uhkaa heikentää autististen lasten hoidon laatua",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-13T20:41:00+03:00",
@@ -3516,21 +3484,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T11:33:38Z",
-      "urls": [
-        {
-          "sign": "f81b24cad781481317f56ca682767fd7d2b9924345db0d3422834c7ad9c888dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjois-Savon käräjäoikeus teki maastokatselmuksen Saara Arvan löytöpaikalla Vesannolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T10:56:00+03:00",
@@ -13305,7 +13258,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T06:13:20Z",
+      "updated": "2026-08-16T06:30:24Z",
       "urls": [
         {
           "sign": "d424680c13416a72df96aa12673243675657f5b74deca46fb3761f8d0b9d18c4",
@@ -13314,11 +13267,56 @@
           ]
         }
       ],
-      "title": "Alisa Vainio jahtaa EM-maratonin kultaa Birminghamissa – ainoa suomalainen juoksija kisassa",
+      "title": "Ainoa suomalainen juoksija Alisa Vainio jahtaa EM-maratonin kultaa Birminghamissa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T06:20:23Z",
+      "urls": [
+        {
+          "sign": "01f33fb57166ac6a1617398406d818f865e71ea91e6656ee8aad22dc583364d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjalainen F-18-hävittäjä ampui alas Moldovan suunnasta tulleen droonin Romaniassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T09:13:00+03:00",
+      "urls": [
+        {
+          "sign": "ab5e90db2555e7198e929c63ba8cf908dbbf1391e5a151f7643cff22044e42cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bussi suistui tieltä ja kaatui Unkarissa – useita kuollut ja loukkaantunut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T06:15:27Z",
+      "urls": [
+        {
+          "sign": "b9f53065ed50803a9e7ba01860aaccef32fdd07ecdad50d07784ef750cc8f7ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolalainen bussi ajautui ojaan Unkarissa – useita kuollut ja loukkaantunut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
