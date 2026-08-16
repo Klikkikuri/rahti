@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T17:39:28Z",
+  "updated": "2026-08-16T17:59:43Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -588,21 +588,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T15:43:31Z",
-      "urls": [
-        {
-          "sign": "c786347dc2365f4381dd8d32426d720b9eccf2a2c78764f57feedada3a5d5652",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Janne Taalas nimitettiin Suomen uudeksi YK-suurlähettilääksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-13T12:03:18Z",
       "urls": [
         {
@@ -694,21 +679,6 @@
         }
       ],
       "title": "Nokia lakkauttaa Hangzhoun tutkimus- ja tuotekehitysyksikön Kiinassa – 1 600 työpaikkaa vähenee",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T18:28:00+03:00",
-      "urls": [
-        {
-          "sign": "65f69b847711a5b495be19ad9d5f39abc8e75f49b9a6169dde2bbd823c91c580",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus määräsi Hekalta vuokranneen miehen maksamaan 4 000 euroa vuokrasaatavia ja 3 500 euroa oikeudenkäyntikuluja Airbnb-vuokrauksen vuoksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5452,23 +5422,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T05:30:06Z",
-      "urls": [
-        {
-          "sign": "7cb94f79da213b2e45efbc9a10f7cb39b9a77a74afddc07f39a24cf2b4c9aac7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi kertoo useista puhelinhuijauksista ja antaa ohjeet suojautumiseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T08:28:00+03:00",
       "urls": [
         {
@@ -5533,21 +5486,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T05:39:33Z",
-      "urls": [
-        {
-          "sign": "82a0a4ea979ecc0588602db0a917419495de6c329e3585885bbb946ec4f9a2e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nottingham Forestin omistaja Evangelos Marinakis haastoi Crystal Palacen oikeuteen kannattajien loukkaavasta lakanasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T05:33:02Z",
@@ -13383,6 +13321,72 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-16T17:50:03Z",
+      "urls": [
+        {
+          "sign": "8c74f64facb07bdb99e350e5c16803014c277cf842a7c9423d3178bf59d088c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Flow-festivaalin Perhesunnuntai tarjosi lapsille kurkkumopoajelua, disko-tanssia ja DJ-työpajaa Helsingin Suvilahdessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T17:33:13Z",
+      "urls": [
+        {
+          "sign": "3d2a53e352eaf99e111e6b442639c07347ee2432dbaf4a903732091f20d1fa80",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lappeenrannan kaupunki harkitsee Alisa Vainion palkitsemista rahapalkinnolla tai tontilla EM-maratonvoiton jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T17:59:43Z",
+      "urls": [
+        {
+          "sign": "1de9cf45c8ed6a22d3d4ff6b00e12d06c75e170981963d48d18a893817cc13de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vuokralaiset usein jättävät mökin ilmoituksen lukematta, mikä johtaa pettymyksiin ja huonoihin arvosteluihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T20:44:00+03:00",
+      "urls": [
+        {
+          "sign": "cad392537da12ab717b5f19aca4dbf87e8aa24ef7f96edad06955cd837d126cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Surukohtaus laukaisee aivoissa hälytystilan, kivun ja kaipauksen samanaikaisesti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
