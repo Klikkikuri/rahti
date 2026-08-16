@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T12:26:30Z",
+  "updated": "2026-08-16T12:43:10Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1128,21 +1128,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T12:24:14Z",
-      "urls": [
-        {
-          "sign": "6ca77ff62816e71a00a66ed685c753a858c28509e8c94d2fe94fdb8df1a9f686",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansainvälisten hakijoiden määrä suomalaisiin korkeakouluihin laskenut – hakemusmaksu, työtilanne ja viisumiprosessi mainittu syinä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-13T15:45:26Z",
       "urls": [
         {
@@ -1173,21 +1158,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T12:47:40Z",
-      "urls": [
-        {
-          "sign": "59905209479753221e1d14af3a7c445588c4c031c75a7e23a706d64795956656",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "VR etsii perhettä tiistai-iltana junassa syntyneelle vauvalle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T20:00:00+03:00",
@@ -13205,7 +13175,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T15:01:00+03:00",
+      "updated": "2026-08-16T15:32:00+03:00",
       "urls": [
         {
           "sign": "4db7ac935492da0b9d135cef3512711d300195e91afac571b79a1ac4d07672ec",
@@ -13214,7 +13184,7 @@
           ]
         }
       ],
-      "title": "Sisä-Suomen poliisi selvittää, epäilläänkö poliisia aseella uhkailusta sivullista Tampereella",
+      "title": "Sisä-Suomen poliisi tutkii epäilyä poliisin aseella uhkailusta sivullista Tampereella",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13359,6 +13329,38 @@
       ],
       "title": "Lapin AMK:n vetypowered pienoiskuorma-auto pidentää toiminta-aikaa ja toimii pakkasessa – päästöt vain vettä",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T12:43:10Z",
+      "urls": [
+        {
+          "sign": "8b176fb249d0a62f61041c74bab71ee002b07628dc078c929b618c5d86192b76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Japanin avaruusluotain lähtee tutkimaan Marsin kuita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-16T12:42:47Z",
+      "urls": [
+        {
+          "sign": "2b1a1390ec1dbda2c099a247a8e2738c6624d543fd4a1e902f517746e685b0d6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainion voitto Euroopan mestaruudessa maratonissa ilahduttaa Lappeenrantalaisia",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
