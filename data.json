@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T16:45:00+03:00",
+  "updated": "2026-08-16T16:55:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1730,21 +1730,6 @@
         }
       ],
       "title": "EU:n päästökaupan muutokset poistavat vihreän siirtymän edelläkävijät järjestelmästä heikentäen kilpailukykyä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T16:01:00+03:00",
-      "urls": [
-        {
-          "sign": "5b08325d497342e1f124bd0dbe942af7ad28732e084c61e3c58cf0d34f40775d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alppikadun väkivallanteosta otettu kiinni kaksi ihmistä – poliisi epäilee törkeästä pahoinpitelystä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13356,6 +13341,23 @@
       "title": "Oulun kaupunki ja Ukrainan suurlähetystö esittelevät venäläisen Geran-2 -lennokin Rotuaarilla",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T16:55:00+03:00",
+      "urls": [
+        {
+          "sign": "4dc81e018ec610ed6b8ff1a6118403f95b019aa34775679f0f9056c022e3f069",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiinalaisviranomaiset varoittavat tekoälyn vahvistamasta pseudohistoriasta: väitteet länsimaisen sivilisaation kiinalaisesta alkuperästä leviävät internetissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
