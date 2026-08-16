@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-16T14:45:00+03:00",
+  "updated": "2026-08-16T15:00:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -882,23 +882,6 @@
       "urls": [
         {
           "sign": "16b70059a35433599dd5f92166c77b95cb562e0841c8058574d728f89bd8eb04",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T15:15:00+03:00",
-      "urls": [
-        {
-          "sign": "06c91b9c8a94149571fa5c326ac9388c4bc3f83ccad2cb9181f6641d5d35a656",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -5735,36 +5718,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T18:40:51Z",
-      "urls": [
-        {
-          "sign": "18bcf33dbe51b75eb479cb7a0ebbd72da7d184168070d5dbf9399c047fb91dc4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tomi Lehtonen sai pallon päähänsä – kommenttaja kehotti kameraa pois",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-14T18:48:52Z",
-      "urls": [
-        {
-          "sign": "6a72ecde052b23b698058f7272dce115cc323129dc182b258cd1085b3049acad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Stubb löysi Kekkosen aikaisia alkoholijuomia Kultarannan kellarista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-14T19:31:01Z",
@@ -10757,7 +10710,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T14:09:00+03:00",
+      "updated": "2026-08-16T14:50:00+03:00",
       "urls": [
         {
           "sign": "397a56a8783febd12f09be4331cf16eba1a916ea6f9f1ea290b406c7a74c76a4",
@@ -10766,7 +10719,7 @@
           ]
         }
       ],
-      "title": "Belgian historian suurin maastopalo Hautes Fagnesissa pakottaa yli 600 ihmistä evakuoitumaan",
+      "title": "Historiallinen maastopalo Hautes Fagnesissa on polttanut yli 3000 hehtaaria, yli 600 ihmistä evakuoitu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13329,7 +13282,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-16T14:45:00+03:00",
+      "updated": "2026-08-16T14:59:00+03:00",
       "urls": [
         {
           "sign": "4db7ac935492da0b9d135cef3512711d300195e91afac571b79a1ac4d07672ec",
@@ -13338,13 +13291,13 @@
           ]
         }
       ],
-      "title": "Sisä-Suomen poliisi selvittää, syyllistyikö poliisi rikokseen aseella uhaten sivullista Tampereella",
+      "title": "Sisä-Suomen poliisi selvittää, syyllistyikö poliisi aseella uhkailuun sivullista Tampereella",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T11:41:17Z",
+      "updated": "2026-08-16T11:46:55Z",
       "urls": [
         {
           "sign": "e3b64e84e7ab7b425597468017c2aabe53a878a68aa45c3fcebdd0c45bc2a0b7",
@@ -13353,9 +13306,58 @@
           ]
         }
       ],
-      "title": "Poliisi osoitti asetta kansalaiselle Tampereella keskiviikkoiltana",
+      "title": "Poliisi osoitti asetta kansalaiselle ja kehotti poistumaan autolta Tampereella – tapausta tutkitaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T11:50:41Z",
+      "urls": [
+        {
+          "sign": "354083ba23b1ca84c93a711a24d0e2a4bb59ba01b1a1c31a3f3781200ab02334",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Risto Mikkolan kesäkurpitsa-mustikkakakku – mehevä vaihtoehto porkkanakakulle",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-16T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "8424553519e2271b975c5d1254b47f38848d8523ae8ad4d112e9e2784bab42e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaisurheilijat kuluttavat energiaa kiristämällä leukoja suorituksessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T11:59:21Z",
+      "urls": [
+        {
+          "sign": "beba355817d1a57309af138f2b2a3266b73a31a466c2f4ee96ebf62e2e0eefd9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Apulaistietosuojavaltuutettu huomautti Suekia Lotta Haralan henkilötietojen julkaisemisesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
