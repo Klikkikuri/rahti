@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T02:26:00+03:00",
+  "updated": "2026-08-16T23:58:48Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -5701,23 +5701,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T09:09:36Z",
-      "urls": [
-        {
-          "sign": "2f0c52f164af1ec2e1f2c84fb48122dc48a5115571473dc498dc5b5700feb802",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alma Hätönen kertoo illallisen ajoittuvan Italiassa myöhemmin kuin Suomessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T08:55:00Z",
@@ -13388,6 +13371,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-16T23:58:48Z",
+      "urls": [
+        {
+          "sign": "754e5f60545539386bfe174297fd027422d7b62687819d131278adbb1aaa782d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bloomberg: Lähi-idän maat kuljettavat öljyä salaa Hormuzinsalmen läpi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
