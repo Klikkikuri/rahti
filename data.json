@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T16:14:45Z",
+  "updated": "2026-08-17T16:23:25Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -735,21 +735,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T12:19:19Z",
-      "urls": [
-        {
-          "sign": "135c49f4ee27242fcf1bbe9d380190e080a90f4bce146ead66e0783d5e92020c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Junaliikenne Oulusta Haaparantaan käynnistyi maanantaina – ensimmäinen vuoro lähes 40 vuoteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-14T12:51:56Z",
       "urls": [
         {
@@ -1261,23 +1246,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T16:14:07Z",
-      "urls": [
-        {
-          "sign": "cff29586b02e997b5d61baa91628d6ec56906093def28d91c2cdb58e333cce26",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jääkoneen tekemä reikä jäähän keskeytti Kärppien ja Sportin harjoitusottelun",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-14T16:35:53Z",
       "urls": [
         {
@@ -1291,21 +1259,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T14:36:00+03:00",
-      "urls": [
-        {
-          "sign": "aabd340e0cd37a7571c2517805fe3909f889dcfcbcb53482fd66dbcebebcd660",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii vakavaa väkivallantekoa Vantaan Myyrmäessä – yksi kiinniotettu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-14T16:20:00+03:00",
@@ -1462,36 +1415,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T16:02:33Z",
-      "urls": [
-        {
-          "sign": "f42b5ac4a96e42debf31acc6d10c37d1b5ba19450f586e32cc91e0acfda19f89",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brasilian poliisi löysi varastetut Matissen teokset ja pidätti epäillyn päätekijän São Paulon läheltä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T15:58:03Z",
-      "urls": [
-        {
-          "sign": "d03e05a35db9d750f8b0578b185abbb5d621cd4159c3072c98b5a1515c8d987c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nooralotta Neziri palaa arvokisoihin seitsemän vuoden tauon jälkeen – juoksee Birminghamin EM-viestissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T16:55:00Z",
@@ -13391,7 +13314,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T16:14:45Z",
+      "updated": "2026-08-17T16:23:25Z",
       "urls": [
         {
           "sign": "a5fc44c0a0ed712f432af11a474e450da3a3b77c53e278f307fab194d086678c",
@@ -13400,7 +13323,7 @@
           ]
         }
       ],
-      "title": "VR:n Intercity-juna myöhästyy 70–90 minuuttia Turun ja Loimaan välillä henkilövahingon vuoksi",
+      "title": "Henkilö kuoli raideliikenneonnettomuudessa Turussa – VR:n juna myöhästyy 70–90 minuuttia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13436,6 +13359,88 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T16:02:24Z",
+      "urls": [
+        {
+          "sign": "93ef2d3d4970caf33ca59ec39769eeebf8fba0b1fc701604ad3796fd5d687997",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Klaus Törnudd, entinen ulkoministeriön alivaltiosihteeri, on kuollut 94-vuotiaana Helsingissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T16:02:26Z",
+      "urls": [
+        {
+          "sign": "cfb88b225bfabce96c2f4efcf53bda5ec61bcb5de3c2f6d9ed0ec29b74739d64",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suek päivittää dopingrikkomusten uutisointikäytäntönsä saatuaan tietosuojavaltuutetun huomautuksen Lotta Haralan tapauksesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T16:18:17Z",
+      "urls": [
+        {
+          "sign": "7eb2d2d7255528e976bae546ad46f4173d0791d2be4f1bf1c9f3cb00e197d743",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kalajoen paloalue vihertynyt viisi vuotta myöhemmin – pelastustoimen kehittynyt ja matkailukohde syntynyt",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T14:38:29Z",
+      "urls": [
+        {
+          "sign": "604445cf7c0e3dbec696042cfb2e5ffc79ed29d01e5d718e64b9fdb4cfaa7832",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T19:15:00+03:00",
+      "urls": [
+        {
+          "sign": "e7efde6289f773f3f6ffa6c558f672fd938ae0e10728f2fc755bb62cd7bf1ee4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ceutan kriisi osoittaa EU:n ulkoistetun rajapolitiikan altistavan ulkopuoliselle painostukselle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
