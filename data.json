@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T03:14:41Z",
+  "updated": "2026-08-17T03:29:55Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -682,21 +682,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T18:40:22Z",
-      "urls": [
-        {
-          "sign": "88f128991c9ea71fd3c71970f47bbb43cdfecef23ba6be0326d623cfd123a428",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ecuadorin poliisi takavarikoi 370 kiloa kokaiinia, jonka paketeissa oli Erling Haalandin kuva",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-13T18:43:20Z",
       "urls": [
         {
@@ -994,21 +979,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T21:14:00+03:00",
-      "urls": [
-        {
-          "sign": "6cae46c6a9796c6b1f807283a7cd64074c219538b4350ff30c0ada16e13af236",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "32 maata tuomitsi Iranin teloitukset – Iran syytti kritisoijia tekopyhyydestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-14T02:01:38Z",
       "urls": [
         {
@@ -1215,21 +1185,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T06:21:54Z",
-      "urls": [
-        {
-          "sign": "c84e0291337254585611c1bb5ea69e8ffd7d01a7978f512d6676c6300e8e7092",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jon Rahm jättää LIV-kiertueen kauden päätteeksi – saudirahoitteinen kiertue vaikeuksissa rahoittajien menetyksen jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T05:46:49Z",
@@ -13396,6 +13351,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T03:29:55Z",
+      "urls": [
+        {
+          "sign": "d3df3fa77de0b6a29fc091fcd493b0bf336873df416755d4b5f82d5bf857b0a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Hayden Panettiere on kuollut 36-vuotiaana, kertoo edustaja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T03:22:00Z",
+      "urls": [
+        {
+          "sign": "ad11e09b449ec7195c18476f451f1f44469af58d2ff51b96f26426b3bed90274",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Astrofyysikko Adam Becker: Marsin myrkyllinen pöly uhkaa Muskin Mars‑siirtokuntasuunnitelmaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T06:22:00+03:00",
+      "urls": [
+        {
+          "sign": "475ea5bebdb8d160397f41b215180f9251eee88f8bc6dd3ec9b820df26975039",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Hayden Panettiere kuoli 36-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
