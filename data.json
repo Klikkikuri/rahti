@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T02:22:29Z",
+  "updated": "2026-08-17T02:33:00Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -697,21 +697,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-13T17:05:14Z",
-      "urls": [
-        {
-          "sign": "131317b40e0c5722e385a552eb067b0ffe3340564c592466fe915a2453540d5a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keniassa elefantteja kuollut salaperäiseen tautiin – 19 tapausta kesäkuusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-13T18:43:20Z",
       "urls": [
         {
@@ -1382,21 +1367,6 @@
       ],
       "title": "Havaijin osavaltioon julistettiin hätätila trooppisen Lala-myrskyn lähestyessä",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T05:32:51Z",
-      "urls": [
-        {
-          "sign": "317af72af9096010896add97095f8d9f22da5f82f276b428488023e73e161f9b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Verottaja: Jalostettu metsäsieni tai marja ei ole verovapaa",
-      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -5704,25 +5674,6 @@
       ],
       "title": "Teollisuusliiton puheenjohtaja Riku Aalto: Työnantajapuoli tavoittelee porvarihallitusta vaikka SDP voittaisi vaalit",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-15T09:30:25Z",
-      "urls": [
-        {
-          "sign": "632899be072faf6eed211a82dfa39c4efa738eca9470a03ce72164060218e611",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "bed44f52a5ca9ddbfcffc03d298269804348cd315c3a05d0055e5d7ee3526c02",
-          "labels": []
-        }
-      ],
-      "title": "Raskaana oleva Anni Vuohensilta sai teinipojalta yllättävän onnittelun Lidlissä Lempäälässä",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13394,6 +13345,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T02:30:35Z",
+      "urls": [
+        {
+          "sign": "33cd633bb68d5bd3d1c5ab6d8b75ff1361974e8ddd9b8916a92077b7437fdf07",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Akavan puheenjohtaja Maria Löfgren vaatii tekoälyn tuottavuushyödyn verottamista ja osaamisen kehittämistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T02:33:00Z",
+      "urls": [
+        {
+          "sign": "4b9bdaaaadf8e074d3e28eace73f5990310a25b892b8ea5d45417a8854ace82d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Emilie Kiser myöntää virheen: poika oli veneessä ilman pelastusliivejä ja pyytää anteeksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T02:30:43Z",
+      "urls": [
+        {
+          "sign": "d03be374a2f4bcf1434b14e224c1d9deed3c23c13009992a31977c5c9f827e70",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin otti uudelleen käyttöön vanhan Il-96-koneen hämäyskoneeksi 10. elokuuta Novosibirskiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
