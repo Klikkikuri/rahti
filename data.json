@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T20:40:51Z",
+  "updated": "2026-08-17T20:56:08Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -154,7 +154,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-17T13:16:19Z",
+      "updated": "2026-08-17T20:45:56Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -163,8 +163,8 @@
           ]
         }
       ],
-      "title": "Venäjä etsintäkuulutti Trumpin hallinnon ministerin pojan",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Venäläinen ohjus tippui Moldovaan – IL seuraa tilannetta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -949,21 +949,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T13:31:31Z",
-      "urls": [
-        {
-          "sign": "9aca433673c1a18881348664303e7182043db49df05c113fcc14e4be0e60daf2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan perustuslakineuvosto hyväksyi avustetun kuoleman lain, mutta vaatii tarkennuksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-14T16:35:53Z",
@@ -10827,7 +10812,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T14:27:00+03:00",
+      "updated": "2026-08-17T23:50:00+03:00",
       "urls": [
         {
           "sign": "b2e9efc8fdd54424e683e0af13d12673cc15b15cc2308b81c5fb69a6604705ec",
@@ -10836,8 +10821,8 @@
           ]
         }
       ],
-      "title": "Kushner neuvotteli Hamasin ja Netanjahun kanssa Gazan rauhansuunnitelman elvyttämiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Kushner neuvotteli Hamasin ja Netanjahun kanssa Gazan rauhansuunnitelman elvyttämiseksi, mutta läpimurtoja ei saavutettu",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13486,6 +13471,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T20:56:08Z",
+      "urls": [
+        {
+          "sign": "773c79282ec871da88e3e084a6650c7845322a0ce302708cd92e5cf9a3f4f4fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luigi Mangionen oikeudenkäyntiä lykätty – seuraava käsittely 10. joulukuuta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
