@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T07:44:00+03:00",
+  "updated": "2026-08-17T05:11:57Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -917,21 +917,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T23:38:00+03:00",
-      "urls": [
-        {
-          "sign": "5034e33c6607447f3d2c7147f3ba00d042d6f6080288be4a60a66d93cd4b6f18",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putin vieraili Kuriilien saarilla, joita Venäjä hallitsee ja Japani pitää omanaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-14T02:01:38Z",
@@ -2883,21 +2868,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-14T07:35:12Z",
-      "urls": [
-        {
-          "sign": "df021662bb90a59e1324568c2bb624b5a91cfe4320173ec7e969c572b71accd0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nikolai Alho lopettaa Huuhkajien maajoukkueuran",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5581,21 +5551,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T12:00:23Z",
-      "urls": [
-        {
-          "sign": "20447d8c2f8dff218270af9d3dbf0568bff5fc923415fe6d7f4ec6908593c0b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Josefiina Lahtinen ja Joonas Hyttinen avioituivat 14.8.2026, julkaisivat hääkuvat",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T10:44:30Z",
       "urls": [
         {
@@ -5709,23 +5664,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T11:31:48Z",
-      "urls": [
-        {
-          "sign": "e72f9741ccff02ee5531c88e0edc976c5ebeef203cf845cb9e1e62891817a599",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi etsii Joensuussa pahoinpitelystä epäiltyä sinipaitaista miestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T14:16:25Z",
@@ -13407,6 +13345,72 @@
       ],
       "title": "Kuluttajariitalautakunta hylkäsi Esan 450 euron korvausvaatimuksen autopesulalle – hyvitykseksi 99 euroa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T05:11:57Z",
+      "urls": [
+        {
+          "sign": "559a310ee6d0df13c1b8b8079bf970df8dba72c085a9745a9509719f32e937eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viki ja Köpi Show laajenee YleX:lle – lähetykset alkavat 31. elokuuta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T05:00:25Z",
+      "urls": [
+        {
+          "sign": "905a8e32a3972fde0e39c2a6ab7241315efacd08262853cf6157314864954c14",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lilli Fantin video lapsensa vegaanisesta ruokavaliosta herätti laajan keskustelun sosiaalisessa mediassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "ac34276ef3616d9db88c6cf2169592929310e2e2cddfcd5f8424f9b46f5309f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T05:03:22Z",
+      "urls": [
+        {
+          "sign": "bfafe2ef7b4ded61092fe89af17a69488b69bc149fafb34c196d9e2e7ffd22be",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Armand Duplantis varoittaa urheilijoita syömästä kanaa tikka masalaa ennen kisaa – vatsavaivat uhkasivat EM-kultaa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
