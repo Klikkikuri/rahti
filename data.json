@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T03:29:55Z",
+  "updated": "2026-08-17T03:36:19Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -964,21 +964,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-13T21:52:00+03:00",
-      "urls": [
-        {
-          "sign": "00e76a50c4fd78a157791614c50417dd3e5c50374c242b4983a4252f12751c23",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kaupunki purki Itäkeskuksen Kusitornin alueen kehittämisen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-14T02:01:38Z",
       "urls": [
         {
@@ -1670,21 +1655,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T06:27:15Z",
-      "urls": [
-        {
-          "sign": "3e17e98ac1c928e9df6ffb6cbca3b5f537c083dbff1e663d4809bd035ac9c835",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen inflaatio oli 2,1 prosenttia heinäkuussa – polttoaineet ja sähkö kallistuivat eniten",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-14T09:20:00+03:00",
       "urls": [
         {
@@ -1775,21 +1745,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T06:30:00Z",
-      "urls": [
-        {
-          "sign": "e5e447f9c07b9ebccb64cf87e02f989518ec9d8dbd4ed3b577e958a3c7a4050d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aleksi Korpijaakko kertoo opetelleensa olemaan yksin kevään kohun jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T08:05:43Z",
@@ -5601,23 +5556,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T10:02:36Z",
-      "urls": [
-        {
-          "sign": "342af33e10995c4b48ada2b4aa28be25da95d1fdbf393ad379210eaef30d4199",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T13:14:00+03:00",
       "urls": [
         {
@@ -5650,21 +5588,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T10:14:15Z",
-      "urls": [
-        {
-          "sign": "f8ef94a43fd23653fc3c4f9cf716221856c1b62200ad3ab663c1b844e1d94688",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jerry Jokinen paransi ennätystään ja sijoittui kymmenenneksi EM-kilpailussa Birminghamissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T10:06:34Z",
@@ -5761,27 +5684,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T10:30:47Z",
-      "urls": [
-        {
-          "sign": "eaa14f931e2827b480ad5d21cc2f9dc18e6884a09d2595affddc614d8be5a78b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "b5ab0c829c0b03d58066003b1af1b5cb5cecd6adde72b186e0ce48a6ac018ae4",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T12:00:23Z",
@@ -13400,6 +13302,104 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T03:30:42Z",
+      "urls": [
+        {
+          "sign": "47d4fa700188ecc7306775205e048a8a3af690c55061a7fdbaeacca87d222e5b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio voitti EM-maratonin prototyyppikengillä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T03:36:19Z",
+      "urls": [
+        {
+          "sign": "12bb6ae53db9b6379fbed0f14f207d1443021d3ce13b3a8b4877053cef27e58e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Hayden Panettiere on kuollut 36-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T03:35:27Z",
+      "urls": [
+        {
+          "sign": "46b5746a977d56ea836a9db8e1ff04447efa8e635692f2cb4b36377dbbc07123",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Amy Hunt voitti neljä EM-kultaa, Dina Asher-Smith kahdeksannen mestaruuden Birminghamin EM-kisoissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T03:31:28Z",
+      "urls": [
+        {
+          "sign": "458ffee25d4abd5eabbd336d597c4c62f4edf6c2bfaefa13acda0bfd70d79fa6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Hayden Panettiere on kuollut 36-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "1f4022a55a73f64e3ae0182cda9eb6571e2c5b12a55f37a4482044a3fed0fd80",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T03:33:09Z",
+      "urls": [
+        {
+          "sign": "e0ec649863c21d20a3f954def278ffee3d8073b66d73d96225df4c0465961c1c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
