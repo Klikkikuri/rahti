@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T12:28:33Z",
+  "updated": "2026-08-17T12:37:42Z",
   "entries": [
     {
       "updated": "2026-07-27T14:00:09Z",
@@ -695,21 +695,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-14T06:24:50Z",
-      "urls": [
-        {
-          "sign": "340166cd67300a9597de80cade902d9172d9b763f3c9f00aac13652608664ac2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Olvin liikevaihto kasvoi 15 prosenttia ja tulos 21 prosenttia toisella vuosineljänneksellä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-14T06:30:03Z",
       "urls": [
         {
@@ -940,23 +925,6 @@
       "title": "Helsingin asukasluku ylitti 700 000",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T11:55:00+03:00",
-      "urls": [
-        {
-          "sign": "e4d5a76f71fb6654db0b7305aaae44ca623141d5ca06b1205796c3a6f4552536",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1903,21 +1871,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T13:09:20Z",
-      "urls": [
-        {
-          "sign": "09f232da6ffeed1d782a4294358e287ac5d78b62e1f8a0716549021bf32f66be",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rankkasateet aiheuttivat tulvia, kuolonuhreja ja liikennehäiriöitä Japanin Chibassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T17:52:00+03:00",
@@ -3626,21 +3579,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T21:28:17Z",
-      "urls": [
-        {
-          "sign": "1df81a91c785615ff7f0f392facba779bd283dc3ba38a1fd1d14c653a7492104",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen yleisurheilijat jäivät ilman mitaleja EM 2026 lauantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T09:04:39Z",
@@ -13267,7 +13205,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T12:12:40Z",
+      "updated": "2026-08-17T12:37:42Z",
       "urls": [
         {
           "sign": "15dab8631738da10a380d4d429c962837dab1ce1818b010cbf6db192dfbe4053",
@@ -13276,11 +13214,10 @@
           ]
         }
       ],
-      "title": null,
-      "clickbaitiness": null,
+      "title": "Alisa Vainio saapuu Suomeen maanantaina – IL lähettää saapumisen suorana",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13422,6 +13359,68 @@
       ],
       "title": "Poliisi kirjasi yhdeksän rikosilmoitusta Flow-festivaalin rannekkeiden luvattomasta vaihdosta",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T15:37:00+03:00",
+      "urls": [
+        {
+          "sign": "bd6e6952c41787f964e33b447e4d1eec67b9eabc00b9c2938876040787628a8f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan tietosuojaviranomainen: Elixian asiakkailla on oikeus kieltäytyä valokuvauksesta, mutta kieltäytyminen tulee perustella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T12:28:25Z",
+      "urls": [
+        {
+          "sign": "58f53fb7cd067b26e83f513bacef5332a9e5cd32958ed64b61efe2afec57fbe4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Andy Burnham vaihtoi viestejä Trumpin kansliapäällikkönä esiintyneen huijarin kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T12:31:39Z",
+      "urls": [
+        {
+          "sign": "922078e7d26f2c3a39c8e7597495e084789021a4f4fb3e88de4611499c2fcb6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Somelääkäri Ari Miettinen on kuollut 50-vuotiaana Kuopiossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T12:31:05Z",
+      "urls": [
+        {
+          "sign": "b90bd56a2781d8e295376f426b818eeb46975aefae8ab6bca409870f3cbc12b5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle kysyy suomalaisten asumismieltymyksistä: omistusasunto vai vuokra-asunto",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
