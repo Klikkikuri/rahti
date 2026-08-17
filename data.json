@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T18:29:57Z",
+  "updated": "2026-08-17T18:41:36Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -1240,21 +1240,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T17:10:24Z",
-      "urls": [
-        {
-          "sign": "2260b2f31a5439a6e620d91a1fcee855fc67452ff4322dc15a5c5630763f808d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finlay Tarling kuoli auton törmäyksessä Portugalin ympäriajossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T17:52:06Z",
@@ -5479,36 +5464,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T08:50:56Z",
-      "urls": [
-        {
-          "sign": "65269c533209ee947532ac1ef5584988bf3d974e9a9f3e8e345edae8ba2d1afd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laura Lepistö sai kolmannen lapsensa Naistenklinikalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-16T08:54:53Z",
-      "urls": [
-        {
-          "sign": "4730224e5d856a7a0227317286e5b16a79c96689849aeed6a64de76553e01824",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alisa Vainio voitti EM-maratonin Birminghamissa ajalla 2.22.26",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T09:19:35Z",
       "urls": [
         {
@@ -5619,23 +5574,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T09:00:56Z",
-      "urls": [
-        {
-          "sign": "995910936bd19ca882f62d8059252bebbf737fad1dc501d6597efe683e6d9c70",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-16T09:05:00Z",
@@ -12158,7 +12096,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-17T17:44:00+03:00",
+      "updated": "2026-08-17T21:34:00+03:00",
       "urls": [
         {
           "sign": "63d1d6b4432cd265c458d0a9848e2d6fbb7170dce6cb260e6e8f63e740077e4e",
@@ -12167,7 +12105,7 @@
           ]
         }
       ],
-      "title": "Venäjän oppositiopoliitikko Lev Shlosberg sai 11 vuoden ja 1 kuukauden vankeustuomion Ukrainan sodan kritisoinnista",
+      "title": "Oikeus tuomitsi Lev Shlosbergin 11 vuoden ja 1 kuukauden vankeuteen Ukrainan sodan kritisoinnista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13458,6 +13396,70 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T18:40:51Z",
+      "urls": [
+        {
+          "sign": "0cd6e741286195ea2c82516e2666ca9cd45b92c1a5b73744cdbad605f80846de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iso-Britannian hallitus ilmoitti rahoittavansa päästöttömien ajoneuvojen teknologiaa 150 miljoonalla eurolla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T18:33:54Z",
+      "urls": [
+        {
+          "sign": "2735665a4ecaef718fb324f317da39ac6f34df7f63335bc6f900dfb43cee01f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Matkustaja kuvasi Ruotsin Jas 39 Gripen -hävittäjän Itämerellä läheltä laivaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T18:41:36Z",
+      "urls": [
+        {
+          "sign": "e557eafa9d010eb97c0d828ec446e63878f07f769459837ce18c1d69127e2d25",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fabienne Königstein keskeytti EM-maratonin lantion kivun vuoksi, syyttää miesmaratoonareilta työnnöstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T18:15:46Z",
+      "urls": [
+        {
+          "sign": "7caa91fdd8e6cda8e01dad4ee89f444bc85003a64ee7443f8dbeeb9b5a07eeb9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NHL-kokemusta omaava Kasper Björkqvist liittyy Ässien riveihin 31.10. saakka",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
