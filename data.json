@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T00:10:56Z",
+  "updated": "2026-08-17T03:26:00+03:00",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -5751,23 +5751,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-15T09:20:00Z",
-      "urls": [
-        {
-          "sign": "142550a55d4bb51336018473d2a3bdf4ba3355a25cc3b86de3ac551036ecdb0a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkomaalainen ylitti Venäjän ja Suomen rajan laittomasti Imatralla ja haki turvapaikkaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T09:16:09Z",
@@ -13313,7 +13296,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T02:26:00+03:00",
+      "updated": "2026-08-17T03:26:00+03:00",
       "urls": [
         {
           "sign": "565303e0abd78407dbc5ea7ee7f2c860f8186dc5b47b2c3776a435abd8742f3c",
@@ -13322,7 +13305,7 @@
           ]
         }
       ],
-      "title": "Trump ylistää Pohjois-Koreaa ja määrää USA:n vähentämään osallistumista Etelä-Korean sotaharjoitukseen",
+      "title": "Trump ylistää Pohjois-Koreaa ja määräsi USA:n vähentämään osallistumista Etelä-Korean sotaharjoitukseen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13386,6 +13369,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T00:14:12Z",
+      "urls": [
+        {
+          "sign": "3597da7b9828522e5cdcc4d45556c4ea55aa9d3e446511c9b4a4051275fe4311",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Katsojat pakenivat elokuvateatterista Kolumbiassa katsojan pierun aiheuttaman löyhkän vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     }
