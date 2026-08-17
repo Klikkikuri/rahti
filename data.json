@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T03:36:19Z",
+  "updated": "2026-08-17T03:51:00Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -1326,21 +1326,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T06:36:42Z",
-      "urls": [
-        {
-          "sign": "27bd3e0fb560226cc032abaa9f04c3ccdeefbb45e24039b2609b3cd1038f2914",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Polvinen: Poliisin mopoilijakommentti menee yli",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-14T11:00:00+03:00",
       "urls": [
         {
@@ -1730,21 +1715,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T23:04:00+03:00",
-      "urls": [
-        {
-          "sign": "1e0e5747abd276381b13e2a2ba89e4c3cb0affa7596f57e817ccad38ccbfbc40",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tonavan alhainen vedenpinta pakotti Romanian sulkemaan ainoan ydinvoimalan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-14T08:05:43Z",
@@ -5696,21 +5666,6 @@
         }
       ],
       "title": "Josefiina Lahtinen ja Joonas Hyttinen avioituivat 14.8.2026, julkaisivat hääkuvat",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-15T10:53:01Z",
-      "urls": [
-        {
-          "sign": "e4e10ad8b644faed03b1021e4727bfeca5d261e1414f2165eeebb61ba5103103",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liettuan Edis Matusevičius voi yllättää keihäsfinaalissa – suomalaisille ei mitalitoivoa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13400,6 +13355,54 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T03:30:37Z",
+      "urls": [
+        {
+          "sign": "d6c6670ebb1183ade66c0ea51c2d1a56931f615bf0a918c2012a0741eda5e6a3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marko Hietala kertoo käyttäneensä alkoholia pelkojensa ja masennuksensa käsittelyyn",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T05:55:00+03:00",
+      "urls": [
+        {
+          "sign": "e1ba8b3df3712dd41f98fde2e53f4ccbbcaf87b3449b85ef45d449352103e1ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miljonääripariskunta pystytti Puolan Konotopien kylässä 55,6 metriä korkean Neitsyt Maria -patsaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T03:51:00Z",
+      "urls": [
+        {
+          "sign": "89ea224799c55b0315f735b196d6435b1748875154d832d00fd14ec7ef0acebb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat suosittelevat portaiden nousemista – sydänkuoleman riski voi pienentyä jopa 39 prosenttia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
