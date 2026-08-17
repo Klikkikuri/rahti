@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T19:41:44Z",
+  "updated": "2026-08-17T19:59:32Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -1210,21 +1210,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T17:52:06Z",
-      "urls": [
-        {
-          "sign": "3b1c4497d12bc0e79591d7441d460e8cd83364551f6074fccccfb3ec8deb4188",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Alexander Stubb löysi Kekkosen aikaisen juomakokoelman Kultarannan perunakellarista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T20:33:00+03:00",
@@ -5585,21 +5570,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T09:36:26Z",
-      "urls": [
-        {
-          "sign": "20da571ebd55ff527dea20765a5d229dc40d7a71c976fd912bcd3409899de4da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satu Taiveaho avioitui Ville-puolisonsa kanssa maalaismaisemissa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T09:41:13Z",
       "urls": [
         {
@@ -5664,21 +5634,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T10:09:12Z",
-      "urls": [
-        {
-          "sign": "16c84a37dc2fd2a5889d35afdebe3c525bf1315ac4f0d199737493337c954c09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antti Kurvinen ehdottaa droonien käyttöä villisikojen jäljittämiseen sikaruton leviämisen estämiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T09:54:05Z",
       "urls": [
         {
@@ -5724,21 +5679,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T10:12:27Z",
-      "urls": [
-        {
-          "sign": "fd4a276be7b3e2d1dea1892d9e45cb2c5bd7013c67782ee02fa314bd75004975",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alisa Vainio ja Janne Saarinen suutelivat Birminghamin EM-maratonin jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-16T13:15:00+03:00",
@@ -5852,21 +5792,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T10:27:03Z",
-      "urls": [
-        {
-          "sign": "4853a51c65ac27b612dbe032fb989be475d5e6fda4220c30cea345fd8a160911",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henri Alén: älä huuhtele raakaa valkuaista sisältäviä astioita kuumalla vedellä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-16T10:49:01Z",
@@ -13476,6 +13401,89 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T19:40:37Z",
+      "urls": [
+        {
+          "sign": "e2927909f0f588fafaecec07e598acde8e0e7c1193fbc284f96de41a768b7cf1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kevin Lamour erosi Fifan operatiivisen johtajan tehtävistä kritisoituaan Infantinon MM-kisojen yksityistämissuunnitelmaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T19:59:32Z",
+      "urls": [
+        {
+          "sign": "6fdc3fc58f12b33d6866795237a11ef00e118d22ced8c7f9cc5e4d000f1f461d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "0c245c24639dc41287827d53c05fe25707985c83535f94823ee2e0ad252ac2c7",
+          "labels": []
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T19:29:22Z",
+      "urls": [
+        {
+          "sign": "a5b99cc9f1560250bc3a746b1487a0afd6b7e6510f40c48ac98ab9479d37daae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lapin käräjäoikeus tuomitsi 16–17‑vuotiaan pojan seksuaalisesta ahdistelusta 15‑vuotiaalle tytölle – sakkorangaistus ja korvaukset",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T19:59:07Z",
+      "urls": [
+        {
+          "sign": "9d05ca0fd6b027fb5c36b0eca8ab5d7d56eea96cfad79711f5b5c4b8ca533a76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kasperi Kapanen ja Matleena Laakso ostivat talon Edmontonista – perhe muuttaa uuteen kotiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T19:54:45Z",
+      "urls": [
+        {
+          "sign": "4dcb8aa386d282f523160e57242686649ca19efcb370a68a6c26dcb9a431a20b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hayden Panettiere luopui tyttärensä huoltajuudesta ennen kuolemaansa – tytär asuu nyt Ukrainassa isänsä kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
