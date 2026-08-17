@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T04:01:22Z",
+  "updated": "2026-08-17T04:28:44Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -214,7 +214,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-17T03:14:41Z",
+      "updated": "2026-08-17T04:22:19Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -223,8 +223,8 @@
           ]
         }
       ],
-      "title": "Kaja Kallas vaatii voimakasta vastausta Venäjän propagandalle – Iltalehti seuraa sotaa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Venäjän propaganda vahvistunut Suomen Nato‑jäsenyyden jälkeen – Iltalehti tarkastelee keinoja ja vaikutuksia",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -5784,21 +5784,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T11:20:20Z",
-      "urls": [
-        {
-          "sign": "733bbd473af5d1d84527f0e5bc4a4dafeb8ef8736917de4076fcaca592dda92a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump määrää Yhdysvaltain laivaston käyttämään Suomi-mallia alusten rakentamisessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T11:35:53Z",
@@ -13195,7 +13180,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-17T06:22:00+03:00",
+      "updated": "2026-08-17T07:22:00+03:00",
       "urls": [
         {
           "sign": "475ea5bebdb8d160397f41b215180f9251eee88f8bc6dd3ec9b820df26975039",
@@ -13204,11 +13189,9 @@
           ]
         }
       ],
-      "title": "Näyttelijä Hayden Panettiere kuoli 36-vuotiaana",
+      "title": "Näyttelijä Hayden Panettiere kuoli 36‑vuotiaana",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13405,6 +13388,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T04:28:44Z",
+      "urls": [
+        {
+          "sign": "db2127a8782d97e9c3008d5e0f9ad3a4bb56135c4352a76b2f3bcab9a5eaf5b7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elina Kanerva löysi uuden rakkaan – toivoo ikäistään kumppania",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
