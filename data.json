@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T00:53:52Z",
+  "updated": "2026-08-17T01:46:03Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -648,21 +648,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-13T16:54:34Z",
-      "urls": [
-        {
-          "sign": "bc4fb86a5474c4d7002a551c2f37739bdfc79d94b794d10be536f214c4f886fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Louen kyläkauppa Tervolassa konkurssiin – yrittäjä ja paikalliset näkevät silti mahdollisuuden jatkolle",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T20:17:48Z",
@@ -5653,21 +5638,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-15T09:27:01Z",
-      "urls": [
-        {
-          "sign": "3f1e8f6c600219f347eeb62e4fcb5d0cbf106a2c16f4eb1618e4f5d03dead654",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Veera Kivirinta rikkoi Suomen ennätyksen 50 metrin rintauinnissa Pariisin EM-kisoissa ajalla 30,17",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13386,6 +13356,40 @@
       ],
       "title": "USS Abraham Lincolnin miehistö raportoi ruokapulasta ja mielenterveysongelmista Iranin läheisyydessä – perheet kritisoivat Trumpin kommenttia",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T01:46:03Z",
+      "urls": [
+        {
+          "sign": "26809b8608674ac4884d85a3fbca2b23e14d65de45908cf1a4f6048a6d6d2e23",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kongon ebolaepidemia on maan historian laajin ja kuolettavin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T01:45:02Z",
+      "urls": [
+        {
+          "sign": "5695fa134b40e0fac9d229bdc78ff3ebb518761962d013ded5e317fa4c99d54c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Neljä Antonello da Messina -teoksia varastettiin sisilialaisesta museosta – arvo yli 13 miljoonaa euroa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
