@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T03:51:00Z",
+  "updated": "2026-08-17T04:01:22Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -680,21 +680,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-13T18:43:20Z",
-      "urls": [
-        {
-          "sign": "8df936a0181c8a3c0e7f08f6b74868c4a7d38549cfa1c9f0bb435ec652368f44",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin parlamentti laski rikosoikeudellisen vastuun alaikärajan 14 vuoteen vakavimmissa rikoksissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-13T19:28:53Z",
@@ -5688,23 +5673,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T11:00:08Z",
-      "urls": [
-        {
-          "sign": "688a64c2501441076ef86e7e4bb2031d2dd11f69e1eab34c37c48ea4321141b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T11:03:00Z",
       "urls": [
         {
@@ -5782,21 +5750,6 @@
       ],
       "title": "Maria Ohisalo kertoo ensimmäisistä töistään ja nuoruuden rahankäytöstään",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-15T11:19:32Z",
-      "urls": [
-        {
-          "sign": "c08bc0898ce81881331990d13cf20ef349d52a27e388668a3a614c5ff94b9f3b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MM-sankari Ferran Torres siirtyy Barcelonasta Paris Saint-Germainiin",
-      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13403,6 +13356,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T04:00:32Z",
+      "urls": [
+        {
+          "sign": "98ca0841d2a7fef646fbe7d9206b4169ac82d7ade04beca2da650545867bccd8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Appelqvist: Suomen työllisyys kääntyy nousuun jo tänä vuonna, työttömyyden lasku odotettavissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T04:01:22Z",
+      "urls": [
+        {
+          "sign": "988555a681a22c206bd6cb41b0f51b162040e80fbb55960829b1ebcb3c5ee7f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Italia voitti EM 2026 mitalitaulukon kymmenellä kultamitalilla, Suomi kymmenes kahdella kullalla ja yhdellä hopealla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T03:48:03Z",
+      "urls": [
+        {
+          "sign": "393ad0ab02ebad8618e5e1204cfd607a1bd74c377e060bdf0db2e00d4167dbe9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opiskelijajärjestöt tavoittelevat miljoonien euron kerrostalon ostamista Helsingissä HYY:n tilojen puutteen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
