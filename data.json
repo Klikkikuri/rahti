@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T11:58:12Z",
+  "updated": "2026-08-17T12:12:40Z",
   "entries": [
     {
       "updated": "2026-07-27T14:00:09Z",
@@ -742,23 +742,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "e2c73702e85a3e6623175657aa43baf08a5af637f64e119daf9a581552c71570",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-14T06:30:03Z",
       "urls": [
         {
@@ -1178,21 +1161,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T12:54:49Z",
-      "urls": [
-        {
-          "sign": "5273e41efea311792444340478ff90d1822c2a89a4d3ce73338ca7c5f2f7d0d3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin ja mopoilijan epäillään rikoksista Tuusulan takaa-ajon jälkeen – poika leikattu vakavien vammojen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T14:17:00+03:00",
@@ -5734,21 +5702,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-15T20:29:49Z",
-      "urls": [
-        {
-          "sign": "fce8d2caf5c7753c3218c7116a2359082de5206f9fb5175e8547a96ef9496bed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomella hyvä mahdollisuus keihäsmitaliin EM 2026:ssa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-15T20:28:52Z",
       "urls": [
         {
@@ -5764,23 +5717,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T21:12:12Z",
-      "urls": [
-        {
-          "sign": "777e4df7bf0c1d03eab8b4737195dd0c0fc9389b4908f00fc263f0214f8d97e5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Silja Kosonen palasi Suomeen EM-kultamitalin jälkeen – sai bisnesluokan korotuksen lennolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T21:00:05Z",
@@ -13423,6 +13359,71 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T12:12:40Z",
+      "urls": [
+        {
+          "sign": "15dab8631738da10a380d4d429c962837dab1ce1818b010cbf6db192dfbe4053",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T12:08:42Z",
+      "urls": [
+        {
+          "sign": "c836ed1695aeaceab2e03ff2259da3dfa734c6be62537558f5df526ddc8de67e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: Hayden Panettieren kuolemaan ei liity rikosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "bb4306b0d266bf0f6fc2165620e9989332f2da186f9365bfbb39a0ce66058618",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Yrittäjät: Kasvu vaatii yrittäjyyttä tukevia veroratkaisuja, ei pk-yrittäjien kannustimien heikentämistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T12:07:22Z",
+      "urls": [
+        {
+          "sign": "c1306ad44d621e2f919151f70ac9e7391970ca28335b457461655f9bdf5eda5c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Anniina Valtonen sai toisen lapsen – julkaisi rehellisen kuvan synnytyksestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
