@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T03:26:00+03:00",
+  "updated": "2026-08-17T00:53:52Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -5620,21 +5620,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-15T09:20:52Z",
-      "urls": [
-        {
-          "sign": "e6d57109367df446771ff4913d74a623766b832d880f8fa19a22ff9857458f25",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Enni Nurmi paransi puolimaratonkävelyn ennätystään EM-kisoissa ja vastasi kisaturisti-kritiikkiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T11:45:00+03:00",
@@ -13386,6 +13371,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T00:53:52Z",
+      "urls": [
+        {
+          "sign": "d2710915eed830bb7a55bfdf71a8e1851b9fca2394f40fe52fde3844e6fe9057",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "USS Abraham Lincolnin miehistö raportoi ruokapulasta ja mielenterveysongelmista Iranin läheisyydessä – perheet kritisoivat Trumpin kommenttia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     }
