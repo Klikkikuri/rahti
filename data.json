@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T19:29:14Z",
+  "updated": "2026-08-17T19:41:44Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -1362,21 +1362,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T17:24:49Z",
-      "urls": [
-        {
-          "sign": "126848b40f70f27c5ce004851d1a5f6ebe416acaf4945cb42a956303a3bb0760",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainian droonit iskivät Wildberriesin logistiikkakeskukseen ja öljynjalostamoon Baškortostanissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T20:52:00+03:00",
@@ -13474,6 +13459,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T19:41:44Z",
+      "urls": [
+        {
+          "sign": "23197fc16c4d0cdaeb43fd14bb140bff5ea1862681ac03fbbdce043ad6a95788",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin apulaispormestari Shawn Huff vaatii tarveperustaista rahoitusta koulujen kielitaitojen parantamiseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
