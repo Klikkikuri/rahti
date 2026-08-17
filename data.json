@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T20:28:17Z",
+  "updated": "2026-08-17T20:40:51Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -1411,21 +1411,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T19:10:50Z",
-      "urls": [
-        {
-          "sign": "be0cbbe4747dedeeaec9b2434c7b7f4fe292b6945565a1568b62c7d9d71d462c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EHC Biel-Bienne teki vuoden mittaisen pelaajasopimuksen Jeff Skinnerin kanssa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T19:34:45Z",
@@ -13486,6 +13471,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T20:40:51Z",
+      "urls": [
+        {
+          "sign": "95976d6b20cffcf8eded05c479694cc98574a0a340ed17a911e1c8d6e2236ad9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kushner: Hamasin aseistariisunta voi edetä seuraavan kuukauden aikana yhdysvaltalaiskenraalin valvonnassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
