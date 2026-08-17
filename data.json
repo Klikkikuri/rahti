@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T19:59:32Z",
+  "updated": "2026-08-17T23:08:00+03:00",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -1362,21 +1362,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T18:03:04Z",
-      "urls": [
-        {
-          "sign": "69302f325cb056ca38947177c6f09339a1da862f596d7b7f1dba921e4c1dfadb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK voitti Pelicansin 4–2 harjoitusottelussa – 71 rangaistusminuuttia, ulosajo ja tappelu",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T14:28:03Z",
@@ -13017,7 +13002,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-17T20:42:00+03:00",
+      "updated": "2026-08-17T23:08:00+03:00",
       "urls": [
         {
           "sign": "30cce2f68baa84bbcbc61c53ce65fd430dcbbbabe27ef2f286ecd4b38a0028dd",
@@ -13026,7 +13011,7 @@
           ]
         }
       ],
-      "title": "Näyttelijä Hayden Panettiere kuoli 36‑vuotiaana Etelä‑Carolinassa",
+      "title": "Ensihoitajat löysivät näyttelijä Hayden Panettiereen kuolleena Etelä‑Carolinassa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13484,6 +13469,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T19:49:25Z",
+      "urls": [
+        {
+          "sign": "c25260576d34b124af996a60bd28cc95a2afc5b6c168ec55e09cb3d997717072",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan ilmavoiman mukaan venäläinen risteilyohjus putosi Moldovaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
