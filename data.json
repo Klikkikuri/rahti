@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T02:33:00Z",
+  "updated": "2026-08-17T03:00:03Z",
   "entries": [
     {
       "updated": "2026-07-27T06:18:46Z",
@@ -214,7 +214,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-17T02:06:10Z",
+      "updated": "2026-08-17T02:51:27Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -223,8 +223,8 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda Suomeen lisääntyy Nato-jäsenyyden jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Kaja Kallasilta antaa voimakkaan vastauksen Venäjän toimiin – Iltalehti seuraa Ukrainan sotaa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1041,21 +1041,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T05:34:54Z",
-      "urls": [
-        {
-          "sign": "6e808bfb290dcc080a3bf31b6a2085f6c93162bde1a1b4497a75a8435928bac3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusvoimat purki itäisen Suomenlahden ilma- ja meriliikenteen rajoitukset drone-uhkan vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-13T19:46:29Z",
       "urls": [
         {
@@ -1130,21 +1115,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-13T17:29:31Z",
-      "urls": [
-        {
-          "sign": "c3d3300ceada5be101d7d40e42270c05da10786732b6839fd8a432584c663f8b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Inarin sisarukset kasvattavat orvoksi jäänyttä poronvasaa kotonaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -5661,21 +5631,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T09:34:06Z",
-      "urls": [
-        {
-          "sign": "67059a47d3bb6647a9cce7b4515df2933a7b618a3c4e1350c42a218c48bc73e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Teollisuusliiton puheenjohtaja Riku Aalto: Työnantajapuoli tavoittelee porvarihallitusta vaikka SDP voittaisi vaalit",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-15T12:58:00+03:00",
@@ -13394,6 +13349,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T02:46:33Z",
+      "urls": [
+        {
+          "sign": "9b09152c8ffb0cdf9c0b3c5fa44032656e7c47e2d4cf58d2eba4c228a8db6f35",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Seinäjoella satoi yli 100 millimetriä sadetta yön aikana – sateet jatkuvat maanantaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T03:00:03Z",
+      "urls": [
+        {
+          "sign": "694b3ee21964cd71ed414317e5e77276bd3b6d10824f3d27ffee586fdafce247",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T02:58:00Z",
+      "urls": [
+        {
+          "sign": "b7bbdb736bcb65b0bc6b0473889b39403061cb05a5cc93e278b42ed06bdc10d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainio voitti EM-kultaa, Italia kahmi yli 20 mitalia ja naisten pituushyppy ratkesi kahden sentin erolla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
