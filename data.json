@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T16:23:25Z",
+  "updated": "2026-08-17T16:39:02Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -673,38 +673,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-14T12:24:33Z",
-      "urls": [
-        {
-          "sign": "2eba9cac60d542433157915eb6ca82322015c5228e5a8765a260e441d8f574dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin yliopisto harkitsee valitusta hallinto-oikeuteen Rydmanin hylkäämästä tutkimusrahoituksesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T14:56:00+03:00",
-      "urls": [
-        {
-          "sign": "5f3e732cd378d10b2bc8762bc2ccb0215960a9398d6c4e1f668534ef2ec28a6e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-14T10:12:39Z",
       "urls": [
         {
@@ -748,23 +716,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "09b66d6d756fcb6d66dd3db31251eb82ddaef210cde226c04a559b80bb48e999",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin seudun kauppakamari vaatii Suomen osallistumista Tallinnan–Helsinki-tunnelin suunnitteluun",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-14T14:25:03Z",
@@ -1584,21 +1535,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T16:25:59Z",
-      "urls": [
-        {
-          "sign": "39ca805e91767c0551bb6431b2cb825faf8363915430b1ed5b2cca2f4913ac0a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Luigi Mangione myönsi ampuneensa UnitedHealthcaren toimitusjohtajan Brian Thompsonin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T17:18:15Z",
@@ -5437,23 +5373,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T06:30:51Z",
-      "urls": [
-        {
-          "sign": "373750b3402da0c5a8f65e6e538797842e93da12a3cc4acec2552417a22f751d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bianca Morales, 60, kertoo uransa käännekohdasta: hylkäsi iskelmäpopin ja valitsi jazzin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T06:40:44Z",
       "urls": [
         {
@@ -5498,21 +5417,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-16T06:41:47Z",
-      "urls": [
-        {
-          "sign": "a712d18e8fd348c7ec1792249337003ea7a4ea15eb50a9f1b49866ca3fca613a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alisa Vainio ja Janne Saarinen kiistävät suhdehuhut – keskittyvät Birminghamin maratoniin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13440,6 +13344,100 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T16:39:02Z",
+      "urls": [
+        {
+          "sign": "609c73780760c7df856926d3a9fadc43af4d595d1955253f4f986568e3987294",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trevian kokoaa yli kymmenen miljardin euron infrastruktuurirahaston Pyhäjoen ydinvoimahanketta varten",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T16:34:43Z",
+      "urls": [
+        {
+          "sign": "3a4ae625055bf1443d55cec5465d81e7c115bc149e5e08bdb3fba0ed98894d7d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Strategiajohtaja Olli Kärkkäinen vastaa tekoälykritiikkiin: tekoäly voi puolustaa hyvinvointivaltion ydintä nostamalla tuottavuutta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-17T16:10:20Z",
+      "urls": [
+        {
+          "sign": "358c83f71ab4f4bc801337cb2ee39578bae4f138a5a959593154463851fcc6cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lappeenrantalainen sikatilallinen Timo Ikonen sai poikkeusluvan jatkaa sikatalouttaan Virolahden sikaruttoepidemian jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-17T19:32:00+03:00",
+      "urls": [
+        {
+          "sign": "4030b20effe211d27f554d66675aeae2c38d87da026df8d68f31cb1f4d956757",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Diplomaatti Klaus Törnudd kuoli Helsingissä 94‑vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-17T16:03:22Z",
+      "urls": [
+        {
+          "sign": "522cc5c77410647d4a619c6dc1f2eb8cf432118d6099aa53f7aa24ba8d7d6f21",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tomaatit voivat saastua raa'an lihan bakteereista – Käytä erillisiä välineitä tai pese huolellisesti",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-17T19:36:00+03:00",
+      "urls": [
+        {
+          "sign": "cf97d8f2cc9a4e38503831f41abddb0c76b65cf8586fdaa5d4625da5544098d6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanye West konsertoi Pietarissa 10.–11. lokakuuta Gazprom-areenalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
