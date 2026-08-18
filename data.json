@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T20:28:31Z",
+  "updated": "2026-08-18T20:43:00Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -139,7 +139,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-18T20:28:31Z",
+      "updated": "2026-08-18T20:34:39Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -148,7 +148,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa – Venäjän propagandan keinot avattu",
+      "title": "Iltalehti seuraa Ukrainan sotaa – Venäjän propaganda pyrkii horjuttamaan Suomen tukea Ukrainalle",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -5033,21 +5033,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-17T12:31:39Z",
-      "urls": [
-        {
-          "sign": "922078e7d26f2c3a39c8e7597495e084789021a4f4fb3e88de4611499c2fcb6a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Somelääkäri Ari Miettinen on kuollut 50-vuotiaana Kuopiossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-17T12:31:05Z",
       "urls": [
         {
@@ -5157,23 +5142,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-17T13:10:38Z",
-      "urls": [
-        {
-          "sign": "0ea3c846658603d58d2aa33b2c3a4f283ffedd337cc6e81af5941ce5096e69a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Alexander Stubb valitsi Vibae-merkin ruskeat tennarit Ahvenanmaan vierailulle – hinta 295 euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-17T13:04:47Z",
@@ -13491,6 +13459,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-18T20:43:00Z",
+      "urls": [
+        {
+          "sign": "8ad3f4afc94c5e2b2836ed09e1b2e415c280f80f067909c094cd9d1892cc92c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itä-Suomen hovioikeus tuomitsi miehen hoitolapsiin kohdistuneista seksuaalirikoksista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T20:38:59Z",
+      "urls": [
+        {
+          "sign": "1e3da49ece4324f3bb36b2bdad0ee9f5fdcc3a9a4b050119a27bafd7e9804e5f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viro epäilee Venäjää Tallinnassa tehdystä puolustusyhtiön rakennuksen tuhopoltosta – epäillyt on tunnistettu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
