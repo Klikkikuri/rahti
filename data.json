@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T01:38:23Z",
+  "updated": "2026-08-18T01:47:24Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -5715,23 +5715,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-16T11:28:50Z",
-      "urls": [
-        {
-          "sign": "4fc5b9b9724201fe64e39af52a4a29544cb424da41de708fc852a7492e7b15ce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alisa Vainio voitti EM-maratonin ja juoksi uuden ennätyksen ajalla 2.22.26",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-16T15:32:00+03:00",
@@ -13495,6 +13478,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T01:47:24Z",
+      "urls": [
+        {
+          "sign": "b4ac57527c79efb500151a83bd07159705e4c341ccda4e0b6e1d6bf8e97d5357",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bussikuski menetti tajuntansa Ruotsissa – matkustajat ohjasivat bussin pysähtymään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
