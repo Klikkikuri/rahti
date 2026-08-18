@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T04:00:04Z",
+  "updated": "2026-08-18T04:30:02Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -688,21 +688,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T15:12:51Z",
-      "urls": [
-        {
-          "sign": "4aec5a95055b32554ed9771684b48d3066455b0a8af788bc4a89841720c4b2a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arbogassa Ruotsissa rivitalopalo vaurioitti kymmeniä asuntoja ja loukkasi useita ihmisiä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-14T16:35:53Z",
       "urls": [
         {
@@ -960,21 +945,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T20:32:00+03:00",
-      "urls": [
-        {
-          "sign": "8ce2e760cfa6f6b9dc57f1473d80bfa552471b04a97011363df7de927dbf13ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marokko ja Espanja lisäävät joukkoja Ceutan rajalla estääkseen lauantaisen siirtolaisryntäyksen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-14T20:52:00+03:00",
@@ -1370,23 +1340,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-15T03:00:00Z",
-      "urls": [
-        {
-          "sign": "8eb6f85d594e33b161c2d9fa8b22f4bc00bc07fb22e7922d69be14990b7b91ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus pohtii, riittääkö näyttö Mika Moringin tuomitsemiseen Saara Arvan taposta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-15T03:00:35Z",
@@ -5637,36 +5590,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T13:21:01Z",
-      "urls": [
-        {
-          "sign": "7eed09d34a0e5603856decfabaca383ed9d65e14e1515890977620b498b55ec4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "George Reevesin kuolema: itsemurha vai murha – epäilyt jatkuvat",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-16T13:18:59Z",
-      "urls": [
-        {
-          "sign": "55a2c207f9cb47c105c836165908f498877f5285bae2ae6166a6cedab65436db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Päivi Kaltio sai neljä kylkiluun murtuman humalaisen miehen kaaduttua hänen päälleen Eppu Normaalin konsertissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T13:22:14Z",
       "urls": [
         {
@@ -5740,21 +5663,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-16T13:31:11Z",
-      "urls": [
-        {
-          "sign": "e3b4be9c5dcef563cfbdaab9719dd6a46f34e639cb4d5f39b777f06f8811fd5a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Android 17 näyttää sinisen pisteen, kun sovellus käyttää sijaintia taustalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-16T13:38:45Z",
@@ -13492,6 +13400,104 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "0c366f1d6c0a6eeab4389d5637d732a3a8430fff1a401a7167517ce9c76cbef2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-18T04:00:47Z",
+      "urls": [
+        {
+          "sign": "537f75bfc508422b0a9fefed6b800d483120bd94e1405c6f09b21a5d40838a9d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uusi podcast nostaa esiin Ruotsin vaietun köyhyyskeskustelun ja taloudellisen eriarvoisuuden",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T04:00:09Z",
+      "urls": [
+        {
+          "sign": "30d114e559d6ffdf188411691056ca74831982fb0b671520d9a3001409c4a0fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T04:30:02Z",
+      "urls": [
+        {
+          "sign": "ac20dc470249f93b323e9f390188151fd45afbd6792979b7e3af60c54374bdea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "12‑vuotias Siiri Solalinna esittää kauhuroolia elokuvassa Pahanhautoja – esitetään tänään Teema & Fem -kanavalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T04:11:30Z",
+      "urls": [
+        {
+          "sign": "1c80c9fca115b65d098f5893fc131e50caee3a69bd659c5a69517a76bd22b26d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brittiläinen yleisurheiluvalmentaja Leon Baptiste kateissa Marokossa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T03:26:15Z",
+      "urls": [
+        {
+          "sign": "d51f9234ac92ee10bbb6c21057f0c11a977615bfa4e818f029bc95e5e45a72fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SUL myöntää mitalibonukset Silja Kososelle, Alisa Vainiolle ja Wilma Heltelälle syksyllä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
