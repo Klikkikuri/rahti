@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T06:10:46Z",
+  "updated": "2026-08-18T06:40:46Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -154,7 +154,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-18T06:10:46Z",
+      "updated": "2026-08-18T06:21:42Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -163,8 +163,8 @@
           ]
         }
       ],
-      "title": "Venäjä: Yli 600 droonia havaittu Moskovan yllä",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "IL seuraa Ukrainan sotaa: liveseuranta ja Venäjän propagandan analyysi",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -686,38 +686,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T16:50:39Z",
-      "urls": [
-        {
-          "sign": "00cda38618b93e9913bfaba6a8ac71be91c32fef4064aa7f8cde19b14ea5c499",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Luigi Mangione myönsi ampuneensa UnitedHealthcare-toimitusjohtajan liittovaltion oikeudessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T16:40:44Z",
-      "urls": [
-        {
-          "sign": "6c26c0b84a9876caff70c7edf5dd12aaca5f8a80da6a3d82dc246e462129da5d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Sanomat poisti tekoälyllä muokatun Instagram-kuvan virheen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-15T10:46:00+03:00",
       "urls": [
         {
@@ -840,23 +808,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T06:44:23Z",
-      "urls": [
-        {
-          "sign": "d35b375a35b707b504beb66ffbe0617686bc6dfe9cf814763be14aaedfb3cd06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henkilöauto pyöri katon kautta Sodankylän Kurkiaskantiellä – useita nuoria loukkaantui, vakavia vammoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T23:54:00+03:00",
@@ -1448,23 +1399,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-15T07:00:00Z",
-      "urls": [
-        {
-          "sign": "55693c9edb99d4066ce5bd2f5b20922265d01bf73aadd9898bb7bfdabaad972d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laulaja Diandra täytti 32 vuotta 12. elokuuta ja sai 100 ruusun kukkakimpun",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-15T10:00:00+03:00",
       "urls": [
         {
@@ -1529,21 +1463,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T07:20:19Z",
-      "urls": [
-        {
-          "sign": "5425a07e9c796721368948bd28b5f592df8097f91cb6808de47e19631c59a701",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nuori mies kuoli ulosajossa Puolangan Utajärvellä lauantaiaamuna",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-15T07:29:23Z",
       "urls": [
         {
@@ -1591,21 +1510,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T07:45:25Z",
-      "urls": [
-        {
-          "sign": "e2c458b56810b0c4ca1646a5d378b2f7b4ee4a64c91b15567f9e7d4e7fac3896",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cambridgen professori Jason Arday löytyi kuolleena Lontoossa plagiointisyytösten jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-15T11:00:00+03:00",
@@ -5710,40 +5614,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T15:51:41Z",
-      "urls": [
-        {
-          "sign": "bb2fff8286569632dd05a5bc13ab2c553a047105f199b671006df53aa8d5cc28",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rankkasateet ja ukkosmyräkkä aiheuttivat tulvia Tampereella ja Pohjanmaalla – salama iski vapaa-ajan asuntoon Kurikassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-16T15:46:12Z",
-      "urls": [
-        {
-          "sign": "dcef4a4d72ebfbbe8f651f418d15493cd2aa76b8325743898fec5c997c583958",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "f79019c62fa984b65c51fcfd6cae664e98c5ed47539fb09087c50ebeb2860b9a",
-          "labels": []
-        }
-      ],
-      "title": "Viisi tuhkarokkotapausta Ruotsissa elokuussa – yhteys Urkult-festivaaliin, kävijöitä kehotetaan tarkkailemaan oireita",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T15:53:19Z",
       "urls": [
         {
@@ -5793,21 +5663,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-16T15:47:09Z",
-      "urls": [
-        {
-          "sign": "b941fe5c570906a8104e5fd4a55f50a25ace7f65ed413c0658cbeb697464fa9b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi The Sound of Music -lapsinäyttelijää on kuollut – loput säilyttäneet läheiset välit",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T16:10:54Z",
       "urls": [
         {
@@ -5843,23 +5698,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-16T16:08:35Z",
-      "urls": [
-        {
-          "sign": "30507c86c559db39eb45c48df17900a639d3adabf5f9ff9088e1289d036dddf6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi pidätti epäilyttävän miehen Birminghamin EM-stadionilla – turvallisuushälytys viivästytti urheilijoiden ja katsojien kyyditystä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-17T10:36:00+03:00",
       "urls": [
         {
@@ -5877,21 +5715,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T16:14:10Z",
-      "urls": [
-        {
-          "sign": "abc639e3e5df779797053b1408a8efd028024483fed4c86f6415a7f5cae1f101",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arsenal voitti Manchester Cityn 3–0 Community Shieldissä Cardiffissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T16:05:33Z",
       "urls": [
         {
@@ -5907,23 +5730,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T16:17:55Z",
-      "urls": [
-        {
-          "sign": "bcb02e9b98458e5663cefaf8c7435de127c6e1d9fe9678856a25dcde5a2c5e66",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-16T16:20:26Z",
@@ -10573,7 +10379,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-17T18:00:00+03:00",
+      "updated": "2026-08-18T09:36:00+03:00",
       "urls": [
         {
           "sign": "cb34bc809266e5aab7800c6c7fc57c1505f97a507cb7fa73d2628c783faed01c",
@@ -13511,6 +13317,194 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-18T05:48:21Z",
+      "urls": [
+        {
+          "sign": "ef5bd242b9f787009b6e09a6686dfaf3c518c40e86f4e9f545915f41443805e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallituksen sosiaaliturvaleikkaukset vähensivät pienituloisten tuloja 828 euroa ja lisäsivät suurituloisten tuloja yli 2000 euroa – Laboren raportti",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T06:21:47Z",
+      "urls": [
+        {
+          "sign": "116714fb06cbec41115e67629ecdf12552bc27cfc7fe36986fcd716be77522fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kim Kardashian ja Lewis Hamilton jaksoivat romanttisia yhteiskuvia Instagramissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T06:30:55Z",
+      "urls": [
+        {
+          "sign": "30779be8f9c2f6716c5147c956fb187248bbbdb140b2bb38238579b78dd22206",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viisi lounasvaihtoehtoa, joissa bakteeririski on mahdollinen – tarkista nämä seikat ennen syömistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T06:26:22Z",
+      "urls": [
+        {
+          "sign": "cf1db33e9e8b6595bba8a7551e91a8abdbe79132e88f55c4d3e1225e19f375c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan hellekesä pienentää viinisatoa ja nostaa juomien hintoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-18T06:22:58Z",
+      "urls": [
+        {
+          "sign": "02410fa19da85518e6692814f87ffe07a32eeecd10f3f2fc8d688c3abdd241e7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä aloittaa esitutkinnan poliisin aseella uhkaamisesta sivullista Tampereella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-18T06:38:45Z",
+      "urls": [
+        {
+          "sign": "587c71a25f6020af6f81818606e371ec4596abd0bd7e08c6b978da148f90e611",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SUH kertoo heinäkuussa hukkuneen yli kymmenen ihmistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-18T06:25:07Z",
+      "urls": [
+        {
+          "sign": "202bca650da1addf21958dc44f6cf406f2b33a92857f1dc90980d57776a9b76a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Susilauma tappoi kolme lammasta Pyhtäällä – aitaus alle 100 m asutuksesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T06:40:46Z",
+      "urls": [
+        {
+          "sign": "fe207ce31793d9c8bdc3cf5c2ac4c8cf9e5ad7bfc7984a3235b11c3ca24abf0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Laaja sadealue saapuu Itä-Suomeen ja Kainuun keskiviikkona – sademäärät 10–40 mm",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T06:15:53Z",
+      "urls": [
+        {
+          "sign": "531b59533f8bf2ef211070acde2a691cd7dea13ef151afd817d60dfbcba4e7f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä aloittaa esitutkinnan poliisin aseella uhkaamisesta Tampereen Villilässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T06:15:12Z",
+      "urls": [
+        {
+          "sign": "701bd91ca35e2723b423fd170b53df60f890c6dc84e2bcf22f4c153a80ef0e51",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Enemmistö suomalaisista kannattaa sosiaalisen median kieltoa alle 15-vuotiaille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T06:00:35Z",
+      "urls": [
+        {
+          "sign": "d0621807be941be26acd1891d17f6fda29ad9599706069b264fb7ea9dbad1622",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Omistusasujien asumismenot nousevat vuokra-asujia enemmän tänä vuonna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T05:49:48Z",
+      "urls": [
+        {
+          "sign": "78641536fec650c8447a939640109ed3b5e185c53b8283929a805e801e4c4ed0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mercedes ei suunnittele tallimääräystä Antonellin eduksi vaikka Hamilton on noussut MM-sarjan kakkoseksi",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
