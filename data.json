@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T02:16:00+03:00",
+  "updated": "2026-08-19T02:42:00+03:00",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -940,23 +940,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-16T06:59:41Z",
-      "urls": [
-        {
-          "sign": "05a10ef3ae572866edc8780724456442565dd3cc8ac971295b3614b459b3ac5c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "AI-yritykset ostavat ja tuhoavat kirjoja tekoälyn koulutusdataksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-16T07:04:00Z",
@@ -5067,25 +5050,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-17T13:44:10Z",
-      "urls": [
-        {
-          "sign": "ef3e64e4843ba2473d526729690c1604869e0650daa020635d38c76ec6ac622d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "8f4a006ad8e831526634332fe042bed0899573a0006c80f2449b3d89e6e893e9",
-          "labels": []
-        }
-      ],
-      "title": "Android-haittaohjelma ohjaa maksut rikollisille puheluhuijauksen avulla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-17T13:21:23Z",
@@ -13351,7 +13315,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T02:16:00+03:00",
+      "updated": "2026-08-19T02:42:00+03:00",
       "urls": [
         {
           "sign": "a577c3242f65c25b8c5544a9b22ca8144477eb716c39435cc7d8d49afe8bbda1",
@@ -13360,9 +13324,11 @@
           ]
         }
       ],
-      "title": "WSJ: Trump haluaa tavata Kim Jong-unin jo tänä syksynä",
+      "title": "WSJ: Trump haluaa tavata Pohjois-Korean johtajan Kim Jong-unin vielä tänä vuonna",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13494,6 +13460,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-18T23:30:49Z",
+      "urls": [
+        {
+          "sign": "5c4ed7436a885526a2ea37d922e6f9ebaaee467d910a127bd9e5183690f3cb2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WSJ: Trump tavoittelee tapaamista Kim Jong-unin kanssa marraskuussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T23:18:57Z",
+      "urls": [
+        {
+          "sign": "9308a0780f0da23700bb8a55d38b48dec7f4b25c5d79daac91a5aff88bede404",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WSJ: Trump pyrkii tapaamaan Pohjois-Korean johtajan Kim Jong-unin loppuvuodesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
