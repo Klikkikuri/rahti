@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T03:04:00Z",
+  "updated": "2026-08-18T03:26:19Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -750,21 +750,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T14:43:06Z",
-      "urls": [
-        {
-          "sign": "6ac9ee952fdbc0b59a2fa613191f93d4d4ddf60857a1b06981a60be77b7e4985",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brasilian poliisi löysi São Paulon kirjastosta varastetut kahdeksan Henri Matissen teosta São Bernardo do Camposta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-14T14:47:12Z",
       "urls": [
         {
@@ -1082,23 +1067,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T14:28:03Z",
-      "urls": [
-        {
-          "sign": "0cae325aed22f46b15af319c27f750f6216dd42f4d61377cb7e86f6fccbce96e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kymenlaaksossa todettu uusi afrikkalaisen sikaruton tartunta – tautitapauksia nyt 15",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-14T21:57:00+03:00",
@@ -7657,7 +7625,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-17T20:28:17Z",
+      "updated": "2026-08-18T03:07:32Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -7666,7 +7634,7 @@
           ]
         }
       ],
-      "title": "Trump uhkaa pommittaa Omania, jos se estää Iranin vastaiset toimet – Iran ei suostu sopimukseen",
+      "title": "Trump uhkaa pommittaa Omania, jos se estää Yhdysvaltojen Iranin-vastaiset toimet",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13491,6 +13459,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-18T03:01:35Z",
+      "urls": [
+        {
+          "sign": "8b2db77e57d672b88d75e01709f753fd2f5df0bc1b5a3a3a06ec44e2ce844e37",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jantunen ja Nkamhoua kohtaavat El Clásicossa joulukuussa – Markkanen vitsailee keränneensä kiristysmateriaalia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T03:26:19Z",
+      "urls": [
+        {
+          "sign": "d405b3a0590798dd1b98fb3d7a4e083214deab3a12cebb8f616ad9b1487e006c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Satakunnan hyvinvointialue hakee 75 miljoonan euron säästöjä välttääkseen itsenäisyytensä menettämisen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
