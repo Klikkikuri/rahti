@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T21:33:38Z",
+  "updated": "2026-08-18T22:13:53Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -686,23 +686,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-15T22:14:00+03:00",
-      "urls": [
-        {
-          "sign": "d0b9d61f3efce6fdf2e23e3b0c0f32e7e8b9d6e485c0807b96bc637ab1c688cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liechtenstein muuttaa kruununperimysjärjestystään – vanhin lapsi perii kruunun sukupuolesta riippumatta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-15T19:26:04Z",
       "urls": [
         {
@@ -1085,21 +1068,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T06:40:44Z",
-      "urls": [
-        {
-          "sign": "69c74e3cb5938f3cec05fb4003c51a7ff3586e98cae49ee31f45d61fba281016",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolalainen linja-auto suistui tieltä Itä-Unkarin moottoritiellä sunnuntaiyönä – useita kuollut ja loukkaantunut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-16T09:37:00+03:00",
@@ -13460,7 +13428,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-19T00:04:00+03:00",
+      "updated": "2026-08-19T01:01:00+03:00",
       "urls": [
         {
           "sign": "d298972a85ffec01789810df0a0d41174c5a5f8f746afb0965b095626c22587a",
@@ -13469,7 +13437,7 @@
           ]
         }
       ],
-      "title": "Tutkimus: Yli 60-vuotiaiden elimistö ei viilene kuumuudessa yhtä tehokkaasti kuin nuorempien – jo aiempaa matalammat lämpötilat vaarallisia",
+      "title": "Tutkimus: Kuumuus on yli 60-vuotiaille vaarallista jo aiempaa matalammissa lämpötiloissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13490,6 +13458,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T22:13:53Z",
+      "urls": [
+        {
+          "sign": "417b0e43a529b3abeac8c6ff29cb9885b05f1d9e5d582a88c1e1df689c218c1e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Israel iski Syyrian lentotukikohtaan, jonne Turkki on tuomassa joukkoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-19T01:01:00+03:00",
+      "urls": [
+        {
+          "sign": "779d3fccc6b8d8e4f623ff95427fe3ecd6e762f55c91f04dbbbe85ca5a9a05bc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan ex-puolustusministeri vaatii vaaleja sodan aikana, arvostelee hallintoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
