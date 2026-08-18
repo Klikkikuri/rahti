@@ -5700,21 +5700,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T11:18:11Z",
-      "urls": [
-        {
-          "sign": "c019ae944ea7a9ce0210d4f620cc7b233b5c17eab23caca9ca5d84d411c5087b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Festivaalijärjestäjä kieltäytyy hyvittämästä lippuja Abbathin kahden minuutin keikan jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-16T11:44:40Z",
       "urls": [
         {
@@ -13490,6 +13475,24 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T00:54:39Z",
+      "urls": [
+        {
+          "sign": "bc568798694778228bd39842108ac23c9011521263894f9590684722073f63c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Stora Enson Kaukopään tehtaalla Imatralla mäntyöljysäiliö repesi ja syttyi palamaan – ei henkilövahinkoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
