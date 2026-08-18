@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T01:47:24Z",
+  "updated": "2026-08-18T02:10:33Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -1210,23 +1210,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T19:30:27Z",
-      "urls": [
-        {
-          "sign": "69cc90683e71c5e7cb516bc462afbdf20c6b6b78bea684a2c03e1de35ba1d0fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Flow Festival -kävijät suosivat käytettyjä vaatteita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-14T19:59:17Z",
@@ -13495,6 +13478,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T02:10:33Z",
+      "urls": [
+        {
+          "sign": "4802def1f00dffd6826ca3c1de9be537da313c5249c7daf0b6c713f9c61a621b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venezuelan kesäkuun maanjäristysten uhrien määrä ylitti 6 400",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
