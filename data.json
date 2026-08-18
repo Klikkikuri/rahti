@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T23:11:00+03:00",
+  "updated": "2026-08-18T20:28:31Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -139,7 +139,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-18T17:27:39Z",
+      "updated": "2026-08-18T20:28:31Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -148,8 +148,8 @@
           ]
         }
       ],
-      "title": "Venäjä väitetysti käyttää keskitysleirikeinoa vierassotilaisiin – Iltalehti seuraa Ukrainan sotaa",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Iltalehti seuraa Ukrainan sotaa – Venäjän propagandan keinot avattu",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -701,21 +701,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T21:12:00+03:00",
-      "urls": [
-        {
-          "sign": "cca31a108f628686bd6099c26b981f6bf492e7f42327ca41f5ae7e8aafc00f4a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Japanilainen lastenlääkäri Shuichi Yatsuga toi mölkyn Japaniin – yli kolme miljoonaa pelaa nyt",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-15T22:14:00+03:00",
       "urls": [
         {
@@ -1083,21 +1068,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T06:20:23Z",
-      "urls": [
-        {
-          "sign": "01f33fb57166ac6a1617398406d818f865e71ea91e6656ee8aad22dc583364d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjalainen F-18-hävittäjä ampui alas Moldovan suunnasta tulleen droonin Romaniassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-16T14:02:00+03:00",
@@ -13243,7 +13213,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-18T22:41:00+03:00",
+      "updated": "2026-08-18T23:20:00+03:00",
       "urls": [
         {
           "sign": "5a2345f15412518c11e4203bdfe90a5eab5b19328533fd026b5a23cf737dd0cc",
@@ -13252,7 +13222,7 @@
           ]
         }
       ],
-      "title": "Öjyntorjunta käynnissä Linnansaarensa Nellisuuspuiston alueella – moottoriöljyä jopa 800 litraa Honkivedessä",
+      "title": "Rahtialuksesta vuoti noin 800 litraa moottoriöljyä Haukiveteen – torjunta käynnissä Linnansaaren kansallispuistossa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13491,6 +13461,36 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T20:17:15Z",
+      "urls": [
+        {
+          "sign": "ce7c1bcb0679958721554527aa8cf6be6dff24fe3b5e3c50ca51861dc4647769",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvalloissa alkoi oikeudenkäynti: 29 osavaltiota syyttää Metaa lasten riippuvuuden aiheuttamisesta ja vaatii 200 miljardin dollarin korvauksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T23:18:00+03:00",
+      "urls": [
+        {
+          "sign": "675b7f1f667ae65808c1b961b7eb562fdc148a5251f42148a815b938cd38ce47",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pubiketju JD Wetherspoon kieltää kaiutinpuhelut ja musiikin soittamisen ilman kuulokkeita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
