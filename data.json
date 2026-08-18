@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-17T23:47:25Z",
+  "updated": "2026-08-18T03:55:00+03:00",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -748,21 +748,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-14T13:46:26Z",
-      "urls": [
-        {
-          "sign": "ac7dcc8fdf8d2b55d7503ff0488bf88fe67829e54016d5eabe09504f16ed9a0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Joensuun Jääkarhut laittavat laajentumissuunnitelmat tauolle jäsenmäärän laskun vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-14T15:00:52Z",
       "urls": [
         {
@@ -1068,23 +1053,6 @@
       "title": "Mopoilijat osoittavat mieltään Kansalaistorilla lauantaina liennyttääkseen välejä poliisin kanssa",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-14T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "8e0bdd33e52fc4003072ac824b216457b0bd8b764766dee4a3cd9a0fdf359619",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13490,6 +13458,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T03:55:00+03:00",
+      "urls": [
+        {
+          "sign": "9bf6291b3793e8d4180ca4305464b041938746b22a3b6e49540af4e66e126b47",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen risteilyohjus räjähti Moldovan ilmatilassa lähellä Ukrainan rajaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-18T00:54:50Z",
+      "urls": [
+        {
+          "sign": "63dfb06c1e9c5fabc73eef67023b08ba5c6df7f69c70690567fa919599a8cf6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sambian presidentti Hichilema voitti vaalit ensimmäisellä kierroksella noin 60 prosentin äänillä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
