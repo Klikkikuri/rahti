@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T10:05:15Z",
+  "updated": "2026-08-18T10:26:32Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -686,21 +686,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-15T09:50:00+03:00",
-      "urls": [
-        {
-          "sign": "b4f3380286dba2c191be2941ff7cfa274903bbea083fcd28dca346a91356964f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nuoret loukkaantuivat ulosajossa Sodankylässä perjantai-iltana – kuljettajaa epäillään törkeästä liikenneturvallisuuden vaarantamisesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-17T09:05:00+03:00",
       "urls": [
         {
@@ -829,23 +814,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-15T10:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d6af72dbff82cdccb48c8ecc9b11d2793de4b3c5a1577739178d8bafde237f52",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-15T07:02:33Z",
@@ -5509,57 +5477,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T00:10:57Z",
-      "urls": [
-        {
-          "sign": "754e5f60545539386bfe174297fd027422d7b62687819d131278adbb1aaa782d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bloomberg: Lähi-idän maat kuljettavat öljyä salaa Hormuzinsalmen läpi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-17T00:14:12Z",
-      "urls": [
-        {
-          "sign": "3597da7b9828522e5cdcc4d45556c4ea55aa9d3e446511c9b4a4051275fe4311",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Katsojat pakenivat elokuvateatterista Kolumbiassa katsojan pierun aiheuttaman löyhkän vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-17T00:53:58Z",
-      "urls": [
-        {
-          "sign": "d2710915eed830bb7a55bfdf71a8e1851b9fca2394f40fe52fde3844e6fe9057",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "USS Abraham Lincolnin merimiesten perheet kritisoivat Trumpin kommenttia aluksen pitkästä komennuksesta ja huonoista olosuhteista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-17T01:46:03Z",
       "urls": [
         {
@@ -9767,7 +9684,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T20:41:00+03:00",
+      "updated": "2026-08-18T13:24:00+03:00",
       "urls": [
         {
           "sign": "6f4a66164a577b7e2a578bc175d990dc62e49e5c394b12f3d1f6f56192bcf012",
@@ -9776,8 +9693,8 @@
           ]
         }
       ],
-      "title": "Yksityinen helikopteri putosi Kreikan Sífnos-saarella – useita kuolonuhreja",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Brittipariskunta ja kreikkalainen lentäjä kuolivat yksityisen helikopterin turmassa Sífnos-saarella maanantaina",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13542,6 +13459,81 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T10:26:32Z",
+      "urls": [
+        {
+          "sign": "b494e060977f7db026d551ae8a4f089c15a5bf52fb4e5ea891e33425b83e8023",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Velipekka Nummikoski siirtyy Veikkauksesta pääministeri Orpon esikunnan neuvonantajaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T10:16:36Z",
+      "urls": [
+        {
+          "sign": "096b3e0783fa11f49287184880acab91c9fca971de136282e1d6df923edff1f4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SUH kehottaa kysymään 'Onko kaikki hyvin?' vedessä pelastamaan henkiä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T10:20:21Z",
+      "urls": [
+        {
+          "sign": "e965f1a4eae84cf726c11f49295ba7be380bbf02ee6cd7d2b4c708e4004f6057",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntija Tuukka Mård kommentoi Petteri Orpon solmion käyttöä ja huomauttaa pienistä tyylimokista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "f607150fe34790e0a54baa14ddfb11e1f7e39b5b76655acac50c3a0b4b42cf93",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vanhemmat vaativat puuttumista jalkapallojoukkueen kiusaamiseen ja joukkuehengen vahvistamista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-18T13:20:00+03:00",
+      "urls": [
+        {
+          "sign": "1bcb2da1cb0e512fa1eb50b42ae1254b50b1f11c87793c5476a271921ddf41cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin käräjäoikeus tuomitsi siivousyrityksen edustajat ehdolliseen vankeuteen laittomista kynnysrahoista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
