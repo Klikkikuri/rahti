@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T04:30:02Z",
+  "updated": "2026-08-18T04:39:02Z",
   "entries": [
     {
       "updated": "2026-07-28T11:04:50Z",
@@ -671,23 +671,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-14T15:13:36Z",
-      "urls": [
-        {
-          "sign": "51600cc0bae5ab996fa4eb179b10f1d597261ff4ac9d08f21ff574ae1329acdb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin hallinto pyytää korkeinta oikeutta kumoamaan Valkoisen talon tanssisalin rakennuskiellon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-14T16:35:53Z",
       "urls": [
         {
@@ -792,21 +775,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-14T15:48:22Z",
-      "urls": [
-        {
-          "sign": "03257e552106774199657d04f06da8e77610cd3ce19ddaeae954b807b7f32490",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arja Saijonmaa välttelee omaa kuvaansa dokumentissa Laula minulle Arja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -1372,21 +1340,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-15T03:36:04Z",
-      "urls": [
-        {
-          "sign": "6fd88751229bd256dbe8218d759473259b424db4935e759383101aa5d12599b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump aikoo julistaa Hormuzinsalmen Yhdysvaltojen alueeksi – Iran torjuu väitteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-15T07:00:00+03:00",
@@ -5603,21 +5556,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-16T13:43:03Z",
-      "urls": [
-        {
-          "sign": "8b774e94ecc9a4ea064e085db3210cd11e3bfdeb5359817f22a58c3481e09533",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi pyytää omistajaa tunnistamaan Asikkalassa löytyneen saunalautan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-16T13:43:13Z",
@@ -13493,6 +13431,74 @@
         }
       ],
       "title": "SUL myöntää mitalibonukset Silja Kososelle, Alisa Vainiolle ja Wilma Heltelälle syksyllä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-18T04:30:35Z",
+      "urls": [
+        {
+          "sign": "e9eb0b08a4c7178105ae8d787326f7f9c0f0a08810acc33c1a4b97c11380ed6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: Hallituksen leikkaukset ja veronalennukset vähentävät pienituloisten tuloja 828 eurolla ja lisäävät hyvätuloisten tuloja 2137 eurolla vuodessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T04:32:49Z",
+      "urls": [
+        {
+          "sign": "c0e3bb9a717b75287ef18c88d2a605d20caf1680a2ad0b0cb46e0174f40605ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "c93653f7daad2603a7a21010254f8da29f682e7ecded52424bf587cc1eaafff3",
+          "labels": []
+        }
+      ],
+      "title": "Porin Ässät vahvistavat hyökkäystään Kasper Björkqvistin loppukauden sopimuksella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T04:39:02Z",
+      "urls": [
+        {
+          "sign": "4e4393c41c06588cc7e47ac2022f643b1936acd2ccb2c8863108422e93dbd487",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä varoittaa Britanniaa seurauksista Ukrainan brittivalmisteisten droonien iskujen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-18T04:36:40Z",
+      "urls": [
+        {
+          "sign": "34dd4d01bbd9250bb558de1190522fc1892a6461d40613ce84c67f482ceae6d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sote-järjestöjen leikkaukset siirtävät palvelut hyvinvointialueille – uhkaa ruuhkia ja työpaikkojen menetyksiä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
