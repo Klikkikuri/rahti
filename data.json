@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-18T20:43:00Z",
+  "updated": "2026-08-18T21:00:01Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -1130,21 +1130,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-16T06:33:45Z",
-      "urls": [
-        {
-          "sign": "4ef18b04a230b19573698b251dbb8aa7204d14e0a87981a27cc802ebfb5cb7fa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Neova aikoo nostaa turvetta Ruotsissa, aktivistit levittävät auringonkukan siemeniä estääkseen toiminnan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-16T06:33:43Z",
@@ -5398,24 +5383,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-17T13:17:32Z",
-      "urls": [
-        {
-          "sign": "b92336059c9fde452962aedfba0298e961dcec634388ad25d4cdde8f616aa82a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sosiaali- ja terveysministeri Wille Rydman: Uudet avustuskriteerit eivät ole syrjiviä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-17T14:09:00Z",
@@ -13491,6 +13458,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T21:00:01Z",
+      "urls": [
+        {
+          "sign": "85ef73b4ebbe9ed9a2a7312a2d987f68c5332fff8f00cb84158fca475c9ed812",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helteet ovat vaatineet kymmeniä ihmishenkiä Kanariansaarilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-18T20:57:31Z",
+      "urls": [
+        {
+          "sign": "ddbbe6f63baac9f0e782c8ed0f9540cc31ae9f8798f4f2303da1ca93c3f0aacb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ZZ Topin rumpali Frank Beard on kuollut 77-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
