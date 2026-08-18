@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T00:04:00+03:00",
+  "updated": "2026-08-18T21:33:38Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -5338,21 +5338,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-17T13:20:21Z",
-      "urls": [
-        {
-          "sign": "a13eaa17f6520f9a86f80710df81bdca31f3e7572633715ed8f8d4c0d88c328d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laulaja Robin Packalen meni naimisiin Aura Ansaharjun kanssa Turussa lauantaina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-17T13:44:44Z",
@@ -13490,6 +13475,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-18T21:33:38Z",
+      "urls": [
+        {
+          "sign": "a81500d47c0d0997b3575f8c0945a04b39b0562a035136294d68a8ab2ed5e634",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sähkön hinta nousee keskiviikkona elokuun korkeimmalle – syynä heikko tuulivoima ja Olkiluoto 3:n vika",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
