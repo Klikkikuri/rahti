@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T01:09:00+03:00",
+  "updated": "2026-08-19T22:42:53Z",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -5063,23 +5063,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T14:44:10Z",
-      "urls": [
-        {
-          "sign": "e48864d7a88c150292e510acab8f441fa3222ffb52bb1aa3cc1914fd7fcb4253",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi aikoo vastata Yhdysvaltain kyselyyn Trumpin ulkopolitiikasta ja puolustusmenoista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-18T14:38:31Z",
@@ -13340,7 +13323,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T01:09:00+03:00",
+      "updated": "2026-08-20T01:42:00+03:00",
       "urls": [
         {
           "sign": "a41181e5a0be7ebd706ab881cbf76f780b33d15bff007a808b6da99eda5a670f",
@@ -13349,7 +13332,7 @@
           ]
         }
       ],
-      "title": "Venäjä teki ohjusiskun Kiovaan aikaisin torstaina – lastensairaala vaurioitui, pormestari Klytško vahvistaa",
+      "title": "Venäjä tekee ilmaiskuja Kiovaan – kerrostalo osittain romahtanut, lastensairaala vaurioitunut, uhreja raportoitu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13398,6 +13381,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-19T22:42:53Z",
+      "urls": [
+        {
+          "sign": "d78adc16b399fd428b1b56de80a154b914033dd36a353cdc27e5dbb6bdb09896",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän Habarovsk-sukellusvene aloitti merikokeet Vienanmerellä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
