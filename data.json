@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T09:29:09Z",
+  "updated": "2026-08-19T12:40:00+03:00",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -761,23 +761,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-16T14:00:00+03:00",
-      "urls": [
-        {
-          "sign": "6fc1d1f5ea8a0523065e8a18e1bd0f6e2646d15e01d393ccf9ebdc18c315658c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-16T15:32:00+03:00",
       "urls": [
         {
@@ -1371,23 +1354,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T19:13:59Z",
-      "urls": [
-        {
-          "sign": "48a4acaf23c43a093d8a3706f4e796663ad137a16a294d236f3ce6fef779bda8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lasse Virén antoi Alisa Vainiolle koiran lelun mitalienjaossa – Vainio kutsui hetkeä ainutlaatuiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-16T19:06:22Z",
@@ -5206,36 +5172,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-18T04:00:04Z",
-      "urls": [
-        {
-          "sign": "63bf240111320f5882b2b573a472043fdbb5f5a1cdb6cec312c4b93e40df7c40",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin seudun kauppakamari: yritysten suhdannenäkymät kääntyivät positiivisiksi ensimmäistä kertaa neljän vuoden aikana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-18T03:45:07Z",
-      "urls": [
-        {
-          "sign": "6a79f70a12ae2712a2efb09846501fa23151fd80c5c91a86ccc645a3c90307f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläinen Za ruljom -lehti vertaili Suomen Sisu GTP 4x4 -panssariajoneuvoa venäläisiin K-53949 Phoenix- ja ZA-SpN Titan -malleihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-18T02:30:35Z",
       "urls": [
         {
@@ -5285,23 +5221,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-18T04:00:09Z",
-      "urls": [
-        {
-          "sign": "30d114e559d6ffdf188411691056ca74831982fb0b671520d9a3001409c4a0fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-18T04:30:02Z",
@@ -13399,7 +13318,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-19T12:29:00+03:00",
+      "updated": "2026-08-19T12:37:00+03:00",
       "urls": [
         {
           "sign": "d4ecd1dc956d5d9332681f5669ea6ee975a8599d3454390b2bed7c1f2d982f67",
@@ -13408,8 +13327,87 @@
           ]
         }
       ],
-      "title": "Poliisin etälamautus Rinnekodissa Espoossa johti kehitysvammaisen miehen kuolemaan – läheiset vaativat välitöntä hoitoa",
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-19T09:39:32Z",
+      "urls": [
+        {
+          "sign": "8ec0b7c44c32b967d11f487559a75ca702948a6e69c2c5461148be12557cd391",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Työministeri Marttinen vastustaa EU:n hankinta-asetusta, joka kumouttaisi Suomen kilpailulainsäädännön",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T09:36:04Z",
+      "urls": [
+        {
+          "sign": "f915aadad69491243a2206dbf831579c704668b4c2b755bfa09399c92a949c84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uimapukujen käyttö saunassa aiheutti silmäoireita – asiantuntija selittää syyn",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T09:31:31Z",
+      "urls": [
+        {
+          "sign": "f609882826b98c3179adbf2c5c3c0dcac809036aa7c396cea3f57841e51c639f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii Suomussalmen törkeää petosta, jossa uhria painostettiin hevosten ja ajoneuvojen hankintaan",
       "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-19T09:33:00Z",
+      "urls": [
+        {
+          "sign": "6e2fd27aa1db9a2a945770dc13dc2459c821fc9787a871712b3371b165f3b617",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin poliisi pyytää ilmoittamaan luulöydöistä Katja Miinalaisen katoamistapauksen tutkinnassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T12:40:00+03:00",
+      "urls": [
+        {
+          "sign": "54adad2f2081df17d8289528a8fb08f30a9c1910b2ff24946750293fe23b73e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskustan kansanedustaja Eerikki Viljanen kyseenalaistaa Huoltovarmuuskeskuksen kiistot ulkomaisesta rukiista ja nostaa asiasta kirjallisen kysymyksen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     }
