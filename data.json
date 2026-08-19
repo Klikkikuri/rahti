@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T21:41:14Z",
+  "updated": "2026-08-20T01:09:00+03:00",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -722,23 +722,6 @@
       "urls": [
         {
           "sign": "81c2e334d215efe8c6350187db588533d7b48cb297552b82635193020c1ba622",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-17T11:50:00+03:00",
-      "urls": [
-        {
-          "sign": "fc7c0b7def6591f7ced9480658c71f25ca9a03b03725f9510e8b04e0c48b5bd2",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -13402,6 +13385,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-20T01:09:00+03:00",
+      "urls": [
+        {
+          "sign": "a41181e5a0be7ebd706ab881cbf76f780b33d15bff007a808b6da99eda5a670f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä teki ohjusiskun Kiovaan aikaisin torstaina – lastensairaala vaurioitui, pormestari Klytško vahvistaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
