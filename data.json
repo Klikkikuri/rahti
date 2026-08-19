@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T00:58:47Z",
+  "updated": "2026-08-19T01:05:21Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -5049,23 +5049,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-17T14:00:40Z",
-      "urls": [
-        {
-          "sign": "847020ca72b359f2a45468d4d7d1716dc5cec37969e8f08e5d783ba8f7a2d983",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-17T14:08:13Z",
@@ -13490,6 +13473,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-19T01:05:21Z",
+      "urls": [
+        {
+          "sign": "09f75edae58a66ee86c8ed7b5dcce3de56de313823dc51ccb203fcaf29ac336e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harrison Ford palaa Indiana Jonesin rooliin Disney Worldin uudessa ajolaitteessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
