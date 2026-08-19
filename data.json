@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T01:42:33Z",
+  "updated": "2026-08-19T02:32:49Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -782,23 +782,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-16T05:02:00Z",
-      "urls": [
-        {
-          "sign": "9fa43d26f1e474a1a4cf527b8392d9c0584eea6c6e76b2ac6e87c176f9ff7529",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Esko Kovero: Miia Laitelan kuolema vaikutti syvästi, toipuminen oli vaikeaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-16T05:33:58Z",
       "urls": [
         {
@@ -1004,40 +987,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-16T07:52:55Z",
-      "urls": [
-        {
-          "sign": "4c70bda81bc957927903c01db4cc86ec9610472b595480c55726aa1f2703b5be",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sibelius-Akatemian sellonsoiton professori Erkki Rautio on kuollut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-16T08:02:39Z",
-      "urls": [
-        {
-          "sign": "a9d05ba34da85fa1ab8698293cc7264963d077c34c50969469252c3a7b627287",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies avasi auton oven Tampereella – sisältä häntä osoitettiin aseella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-16T11:07:00+03:00",
@@ -13488,6 +13437,54 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T02:32:49Z",
+      "urls": [
+        {
+          "sign": "86f7cfcaf0137ee0e19d0378d6dda275c9992d415924ec28ff7cd63c3107a9a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arabiemiraatit jäädyttää kaupankäynnin Iranin kanssa – syyttää ohjusiskusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-19T02:31:43Z",
+      "urls": [
+        {
+          "sign": "f1b8efdca5687501c14d72aa83249b3d0eddc3d5c18572dff8f6168b45a4cf1f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kauden ensimmäiset revontulet näkyivät yöllä osassa Suomea, sää jatkuu sateisena",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-19T02:30:35Z",
+      "urls": [
+        {
+          "sign": "168ee48c36eef1a7516ebc16e152a8fe808cbe75bd2f3da2a05590c50250f07d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Schengen-alueella tilapäisistä rajatarkastuksista on tullut pysyvä käytäntö – tutkijat: järjestelmä ei kaadu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
