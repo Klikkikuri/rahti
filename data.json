@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T03:18:00+03:00",
+  "updated": "2026-08-19T03:30:00+03:00",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -829,23 +829,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-16T08:45:00+03:00",
-      "urls": [
-        {
-          "sign": "4c09518fe686f8e837e99e3f7a33fe31ca62c68fb33bab3e5b969c13ad44e375",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-16T20:56:26Z",
@@ -13494,6 +13477,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T03:30:00+03:00",
+      "urls": [
+        {
+          "sign": "a509d1ab90413c4c127a049134fa746c702d9d01cb102b244d9445bfb5784920",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiinanharjakoira Jinny Lu valittiin maailman rumimmaksi koiraksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
