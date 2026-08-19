@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T20:20:45Z",
+  "updated": "2026-08-19T20:46:23Z",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -784,24 +784,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-17T09:33:00Z",
-      "urls": [
-        {
-          "sign": "dcf314a0b6fbdf8e64b6707b4c91be5376a4ce6674458fa8cc2f70f6db1e5749",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alko keventää sekä kuohuviini- että still-viinipulloja vähentääkseen ilmastopäästöjä – koskee yli 1 400 juomaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-17T12:01:00+03:00",
@@ -13410,6 +13392,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T20:46:23Z",
+      "urls": [
+        {
+          "sign": "1ec35702636144e36885a6ea4a905ad3cb986a3e923c2739e94f558a91de49da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tähtitieteilijät havaitsivat Linnunradan nopeimman tähden S301 – nopeus noin 25 000 km/s",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
