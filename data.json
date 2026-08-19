@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T11:29:59Z",
+  "updated": "2026-08-19T11:44:25Z",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -1089,7 +1089,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T05:40:34Z",
+      "updated": "2026-08-19T11:44:25Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -1098,8 +1098,8 @@
           ]
         }
       ],
-      "title": "IL seuraa: Trump harkitsee lisää talouspakotteita Iranille – jännitteet jatkuvat",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Yhdysvaltain ja Israelin iskut Iraniin jatkuvat, Trump harkitsee uusia pakotteita – Iltalehti seuraa",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -5023,21 +5023,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-18T06:00:35Z",
-      "urls": [
-        {
-          "sign": "6cc492b49ed8774cb5f00a542ae703e336c70436ac6b7682d90dcc5a6d383f58",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lari Lohikosken itse rakentama laite ohjaa lämmitystä pörssisähkön halvimman hinnan mukaan ja tuottaa merkittäviä säästöjä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-18T05:11:59Z",
       "urls": [
         {
@@ -5244,21 +5229,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-18T06:15:12Z",
-      "urls": [
-        {
-          "sign": "701bd91ca35e2723b423fd170b53df60f890c6dc84e2bcf22f4c153a80ef0e51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Enemmistö suomalaisista kannattaa sosiaalisen median kieltoa alle 15-vuotiaille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -9767,7 +9737,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-18T23:11:00+03:00",
+      "updated": "2026-08-19T14:34:00+03:00",
       "urls": [
         {
           "sign": "bbceb99bd6f77de79a3cb33c3855cdba1ebe7945611fa5254ab1590f7d55a17f",
@@ -12575,7 +12545,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-19T12:37:00+03:00",
+      "updated": "2026-08-19T14:43:00+03:00",
       "urls": [
         {
           "sign": "d4ecd1dc956d5d9332681f5669ea6ee975a8599d3454390b2bed7c1f2d982f67",
@@ -13392,7 +13362,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T11:29:59Z",
+      "updated": "2026-08-19T11:31:04Z",
       "urls": [
         {
           "sign": "d907fe5ea7a317fe76adc133e6f4b128145caf7dc74f13372e09e78904be98f0",
@@ -13401,9 +13371,41 @@
           ]
         }
       ],
-      "title": "Noora Louhimo ja Tuure Kilpeläinen liittyvät Elämäni biisin solistiksi",
+      "title": "Noora Louhimo ja Tuure Kilpeläinen liittyvät Elämäni biisin vieraiksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T11:43:50Z",
+      "urls": [
+        {
+          "sign": "dc583fd3714a8842e77d0d61dd6982d5d1f5221abed06e104d7e08bd8dd1b995",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SVT:n asiantuntija arvioi: Ruotsin hallituskannatus on laskussa ja vain ihme voi kumota oppositiolle syntyneen kymmenen prosentin eron",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T11:42:55Z",
+      "urls": [
+        {
+          "sign": "6aa0094e246f7b7a1969d24703758639a58efaaf7d9e2bf239cae3256c467072",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin uuden Prisma-tukun suosituin tuote on viiden litran eräöljy",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
