@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-19T03:30:00+03:00",
+  "updated": "2026-08-19T00:58:47Z",
   "entries": [
     {
       "updated": "2026-07-29T06:31:54Z",
@@ -1004,23 +1004,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-16T07:40:23Z",
-      "urls": [
-        {
-          "sign": "2030dc0c3b3d077fcd5e8fef1f10d91890bb79e30f00dc19f29d776201931ada",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ei ole vielä päässyt kuulemaan Myllypuron bussiturman kuljettajaa, onnettomuuden syy epäselvä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-16T07:52:55Z",
@@ -13140,7 +13123,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-19T01:01:00+03:00",
+      "updated": "2026-08-19T03:53:00+03:00",
       "urls": [
         {
           "sign": "d298972a85ffec01789810df0a0d41174c5a5f8f746afb0965b095626c22587a",
@@ -13149,7 +13132,7 @@
           ]
         }
       ],
-      "title": "Tutkimus: Kuumuus on yli 60-vuotiaille vaarallista jo aiempaa matalammissa lämpötiloissa",
+      "title": "Tutkimus: Yli 60-vuotiaat altistuvat kuumuuden terveysvaaroille jo aiempaa matalammissa lämpötiloissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13492,6 +13475,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-19T00:58:47Z",
+      "urls": [
+        {
+          "sign": "267fa19686ab3a0538e75503642570b56ced94dabced65e27a33e1a1ab2f341c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump lyhentää Yhdysvaltain ja Etelä-Korean sotaharjoitusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
