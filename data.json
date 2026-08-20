@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T02:41:27Z",
+  "updated": "2026-08-20T03:00:00Z",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -812,23 +812,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T12:28:25Z",
-      "urls": [
-        {
-          "sign": "58f53fb7cd067b26e83f513bacef5332a9e5cd32958ed64b61efe2afec57fbe4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Andy Burnham vaihtoi viestejä Trumpin kansliapäällikkönä esiintyneen huijarin kanssa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-17T15:43:00+03:00",
       "urls": [
         {
@@ -1353,23 +1336,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-17T16:18:17Z",
-      "urls": [
-        {
-          "sign": "7eb2d2d7255528e976bae546ad46f4173d0791d2be4f1bf1c9f3cb00e197d743",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalajoen paloalue vihertynyt viisi vuotta myöhemmin – pelastustoimen kehittynyt ja matkailukohde syntynyt",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-17T14:38:29Z",
@@ -13022,7 +12988,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T03:45:00+03:00",
+      "updated": "2026-08-20T05:47:00+03:00",
       "urls": [
         {
           "sign": "a41181e5a0be7ebd706ab881cbf76f780b33d15bff007a808b6da99eda5a670f",
@@ -13031,7 +12997,7 @@
           ]
         }
       ],
-      "title": "Venäjän ohjusiskut Kiovaan aiheuttivat kuolemia, haavoittumisia ja kerrostalon osittaisen romahduttamisen",
+      "title": "Venäjän ohjusiskut romahduttivat osittain kerrostalon Kiovassa ja aiheuttivat useita kuolon- ja haavoittumisia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13396,6 +13362,40 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-20T03:00:00Z",
+      "urls": [
+        {
+          "sign": "3fc0314efb947827ab37bcb8e6cacca30dee6d01b28e769ef5b72d72b5a82d75",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mari Karppinen sai Trumpilta voimakkaan reaktion Valkoisessa talossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-20T02:30:35Z",
+      "urls": [
+        {
+          "sign": "ab114c29e3884ecd95a1cf3e51ce1a0c964beb6dc7497af7e59071236cdbada4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolet suomalaisista pelkää tekoälyn aiheuttamaa massatyöttömyyttä, mutta asiantuntijat pitävät pelkoa liioitteluna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
