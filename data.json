@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T18:36:31Z",
+  "updated": "2026-08-20T18:57:45Z",
   "entries": [
     {
       "updated": "2026-07-30T19:53:57Z",
@@ -1817,21 +1817,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-18T15:19:04Z",
-      "urls": [
-        {
-          "sign": "f894e9083e0437966c5a9d9dc6c77c4d5ebbd7b0ea6fd0d33f08e13f038e4c49",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satakunnan hyvinvointialueen itsenäisyys vaakalaudalla – Varhan johtaja: Yhdistäminen ei tuo säästöjä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -12490,7 +12475,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T17:55:44Z",
+      "updated": "2026-08-20T18:57:45Z",
       "urls": [
         {
           "sign": "2a738306b591015319f0a8404fe81816a85af6f6bf45f28c8cdfdf790472b849",
@@ -12499,8 +12484,8 @@
           ]
         }
       ],
-      "title": "FC Inter ja Kööpenhamina pelasivat tasapelin UEFA:n Konferenssiliigan karsintaottelussa",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "UEFA:n Konferenssiliigan karsinnat: FC Inter ja Kööpenhamina pelasivat tasan, KuPS matkaa kohtaamaan Shamrock Roversin",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13394,6 +13379,23 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-19T06:06:15Z",
+      "urls": [
+        {
+          "sign": "98f5b2dde9c23b4a9a31ca9da637aa94dbb550c61fca9670061d0f5ada4f702c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi poliisia tutkitaan yksin partioituansa Tuusulassa ja Tampereella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
