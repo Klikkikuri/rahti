@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T02:00:00+03:00",
+  "updated": "2026-08-20T23:07:20Z",
   "entries": [
     {
       "updated": "2026-07-31T03:00:20Z",
@@ -816,23 +816,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T11:30:40Z",
-      "urls": [
-        {
-          "sign": "9f11fe0d373ab79e01a01b2c6c498fc9832af96984bb61ebc7bb8dc47b687f94",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Indonesian maanjäristys jätti kymmeniätuhansia kodittomia ja yli tuhat loukkaantunutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-18T11:58:31Z",
@@ -3290,23 +3273,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T15:52:14Z",
-      "urls": [
-        {
-          "sign": "ef2bca77a7a544f673667b29ebd66fb2c885311598bf2671b73924650b50b9dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä vaatii hammaslääkärille syytettä 80-vuotiaan potilaan kuolemasta hampaiden poiston jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-19T07:42:22Z",
       "urls": [
         {
@@ -5448,21 +5414,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-19T15:47:27Z",
-      "urls": [
-        {
-          "sign": "d008caf3c0a434d0b9122048ea12d9e62d70657ef99660d588d83e5b473e8185",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yli 2600 nuorta haki opintosetelia ensimmäisellä viikolla – myönnettyjä 1697",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13377,6 +13328,51 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-20T23:07:20Z",
+      "urls": [
+        {
+          "sign": "e57487ce931e44c5d08886ca408de24cc5c063b09adf4d40fa8e80f4d7833eb6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa elämäntilanne-neuvoja ja pohdittavaa jokaiselle eläinradan merkille",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T23:02:52Z",
+      "urls": [
+        {
+          "sign": "55c8c819162a7e9bc82adb9b7e82ae8e1658c4e5fd0a2e8e9df95e7579e2ee0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastuslaitos haki kaksi kumiveneilijää Oulun edustalta, kun kova virtaus esti rantautumisen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T23:01:00Z",
+      "urls": [
+        {
+          "sign": "829837f377961b3d5c6e14def6c6e1da2e60802bc06f11cb6f630c747830acaf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastakaa Lapset: Kongon ebolaepidemiassa kaksi lasta jää orvoksi päivässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
