@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T01:36:12Z",
+  "updated": "2026-08-20T02:22:00Z",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -703,39 +703,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-17T10:00:00Z",
-      "urls": [
-        {
-          "sign": "a7d84aecab2b5d5c9afc24251e059818913b1230b66d9e22718fe67b52d7145c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miss Suomi 2026 -finalistit julkistettu – finaali 5. syyskuuta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-17T10:37:56Z",
-      "urls": [
-        {
-          "sign": "9e91907bd7bebf20fc54fc30baec48725155bcb547829c963147d3c4a8d7d786",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Indonesian maanjäristys aiheutti jälleen lukuisia kuolonuhreja ja loukkaantumisia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-17T14:51:00+03:00",
       "urls": [
         {
@@ -1391,21 +1358,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-17T16:04:24Z",
-      "urls": [
-        {
-          "sign": "21525f42fee8766a53dce8bdc094764a85d1575ce24f2842f11668423917e72b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Klaus Törnudd, suomalainen diplomaatti ja tutkija, kuoli 94‑vuotiaana Helsingissä tänään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-17T16:02:24Z",
@@ -13400,6 +13352,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T02:00:00Z",
+      "urls": [
+        {
+          "sign": "543f855b5342d2ca985a5dfb05eb8ab864f2012b9b862846678832a447b44a0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat: Euroopan merien helleaallot ovat lisääntyneet radikaalisti – pintalämpötilat jopa kuusi astetta tavanomaista korkeammat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-20T02:22:00Z",
+      "urls": [
+        {
+          "sign": "6853193e7ccece6581b2a191366270f3612f605d6802ff6b4f843940b0333c1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan Patriot-ohjusjärjestelmät seisovat ammuksitta – Venäjä hyödyntää ohjuspuutetta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-20T01:00:35Z",
+      "urls": [
+        {
+          "sign": "20159328753778b63c9a229f5714f68993a4d82b5df3e562cf5a36e465c133c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karhunmetsästys käynnistyi Itä- ja Keski-Suomessa vuosien tauon jälkeen – lupia yhteensä 182, painotus asutuksen läheisyyteen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
