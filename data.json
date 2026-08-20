@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T03:45:00+03:00",
+  "updated": "2026-08-20T01:36:12Z",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -5097,21 +5097,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-18T14:58:09Z",
-      "urls": [
-        {
-          "sign": "4cd1b80a3a7f2d87aa2fc8fa9587c53f28620e1de21fdea5a98c40603b792e99",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto vahvisti neljä uutta sikaruttotapausta villisioilla Kaakkois-Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-18T15:14:00Z",
@@ -13400,6 +13385,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-20T01:36:12Z",
+      "urls": [
+        {
+          "sign": "fef556560062f0326d1661f6f9be487712f4f350db0fa0602c0a380bdffe33bb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa: Pohjois-Karjalassa, Kainuussa ja Pohjois-Pohjanmaalla voi sataa yli 50 millimetriä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
