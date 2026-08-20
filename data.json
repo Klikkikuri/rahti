@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T23:07:20Z",
+  "updated": "2026-08-21T02:34:00+03:00",
   "entries": [
     {
       "updated": "2026-07-31T03:00:20Z",
@@ -705,21 +705,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-18T13:54:00+03:00",
-      "urls": [
-        {
-          "sign": "d5591256dd9f53e63b3ed93824b37cba2c44d2fa377898a573d8dc0d867fb55d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lääkärit poistivat Sri Lankassa 3,1 kiloa painavan virtsakiven – mahdollisesti suurin koskaan dokumentoitu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-18T14:06:00+03:00",
@@ -13373,6 +13358,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T02:34:00+03:00",
+      "urls": [
+        {
+          "sign": "86cad8e6c04c4c6d078901badc452d748d38d59a73985a719aa69159addec838",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain federaali oikeus tuomitsi ääriverkoston jäsenen 77 vuodeksi vankeuteen lapsipornografiasta ja eläinkiusaamisesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
