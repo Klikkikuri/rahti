@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T07:11:00+03:00",
+  "updated": "2026-08-20T04:21:40Z",
   "entries": [
     {
       "updated": "2026-07-30T13:57:58Z",
@@ -1444,21 +1444,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-17T18:04:42Z",
-      "urls": [
-        {
-          "sign": "b71938c5b6584db8565ffc8a5e9e76dfb7dc28f4e4e9f7b277768db918c9327b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heikki Kaukoranta, sarjakuvien suomentaja ja tutkija, on kuollut 83-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-17T17:34:19Z",
       "urls": [
         {
@@ -1491,23 +1476,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-17T18:10:28Z",
-      "urls": [
-        {
-          "sign": "14f10525eba4f30ae7d518064078b6b1defba12fc31137b68dd43bea2a36af72",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seinäjoen datakeskusasukasalissa kirjaston Jaaksi-sali täyttyi – kymmeniä ei päässyt sisään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-17T18:15:46Z",
@@ -5226,21 +5194,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-18T16:35:16Z",
-      "urls": [
-        {
-          "sign": "46a83858927936157970f51f275931f293dbf422cbb2fdbc10ef47cc1c635a5d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Uudenmaan virkamiehet perustelivat 300 000 euron viestintäkonsulttihankintaa ilman kilpailutusta pienhankintojen kynnysarvoilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-18T19:27:00+03:00",
@@ -12526,7 +12479,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-19T20:46:23Z",
+      "updated": "2026-08-20T04:21:40Z",
       "urls": [
         {
           "sign": "1ec35702636144e36885a6ea4a905ad3cb986a3e923c2739e94f558a91de49da",
@@ -12535,9 +12488,11 @@
           ]
         }
       ],
-      "title": "Tähtitieteilijät havaitsivat Linnunradan nopeimman tähden S301 – nopeus noin 25 000 km/s",
+      "title": "Tähtitieteilijät löysivät Linnunradan nopeimman tähden S301 – vauhti 25 000 km/s",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12666,7 +12621,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T07:11:00+03:00",
+      "updated": "2026-08-20T07:19:00+03:00",
       "urls": [
         {
           "sign": "a41181e5a0be7ebd706ab881cbf76f780b33d15bff007a808b6da99eda5a670f",
@@ -12675,7 +12630,7 @@
           ]
         }
       ],
-      "title": "Venäjän ohjusiskut Kiovassa romahduttivat kerrostalon osittain ja aiheuttivat useita kuolon- ja haavoittumisia",
+      "title": "Venäjän ohjusiskut Kiovassa vahingoittivat asuinrakennusta, koulua ja lastensairaalaa – useita kuollut ja haavoittunut",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13366,7 +13321,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-20T04:04:52Z",
+      "updated": "2026-08-20T04:21:18Z",
       "urls": [
         {
           "sign": "98c141180989f290260c9d27ccdf7d3fbfdd84f968d2bf226aaadfd42b840847",
@@ -13375,9 +13330,11 @@
           ]
         }
       ],
-      "title": "Venäjän iskut surmasivat ainakin kuusi ja vaurioittivat lastensairaalaa sekä koulua Kiovan seudulla",
+      "title": "Venäjän iskut Kiovan seudulla aiheuttivat ainakin kuusi kuolonuhria ja vaurioittivat lastensairaalaa sekä koulua",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13393,6 +13350,55 @@
       "title": "Danske Bankin tutkimus: 40 % suomalaisista ei ole säästöjä pahan päivän varalle",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-20T04:21:05Z",
+      "urls": [
+        {
+          "sign": "3896d6d6d38b48f3db3e3fded9bdaa858c60119dd741ceddf32e48b8f39c3333",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T04:02:23Z",
+      "urls": [
+        {
+          "sign": "bf9b2c01819c6f80b41e8ad403ca775d014b3c96cedd8e897374d192a1efa961",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Soste ehdottaa työnantajien rahoittamaa mallia pitkäaikaistyöttömyyden torjumiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-19T12:19:06Z",
+      "urls": [
+        {
+          "sign": "a49c4658839e312a3b2a5fa696acd040a3f859e6cdd9e7865ed0eb37f6b37f19",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus hylkäsi metsästäjän syytteen vaaran aiheuttamisesta Paimiossa – nainen oli ampumisen takana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
