@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T20:29:16Z",
+  "updated": "2026-08-20T20:59:38Z",
   "entries": [
     {
       "updated": "2026-07-31T03:00:20Z",
@@ -5267,23 +5267,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T15:30:44Z",
-      "urls": [
-        {
-          "sign": "01cf7380a228a98fb5e9034fbc3f793dda429d57457390e8568e9f09509461c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lappeenranta järjestää kansanjuhlan Alisa Vainion Euroopan mestaruuden kunniaksi satamatorilla 22. elokuuta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T13:58:53Z",
@@ -12272,7 +12255,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T20:29:16Z",
+      "updated": "2026-08-20T20:59:38Z",
       "urls": [
         {
           "sign": "2a738306b591015319f0a8404fe81816a85af6f6bf45f28c8cdfdf790472b849",
@@ -12281,7 +12264,7 @@
           ]
         }
       ],
-      "title": "KuPS kohtaa Shamrock Roversin UEFA:n Konferenssiliigan karsinnan avausosassa Dublinissa",
+      "title": "KuPS jakoi pisteet Shamrock Roversin kanssa UEFA:n Konferenssiliigan karsinnan avausosassa",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13378,6 +13361,23 @@
       "title": "Syyttäjä vaatii neljän vuoden vankeutta Forssan 15-vuotiaan puukotuksesta – syylliset kiistävät osuutensa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T20:45:48Z",
+      "urls": [
+        {
+          "sign": "07f6504a7d9c96fc70e267a382574b848aae1c2d5cefb0838e014228ab961786",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "CREA:n mukaan EU-maat ostivat Venäjältä fossiilisia polttoaineita 1,5 miljardilla eurolla heinäkuussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
