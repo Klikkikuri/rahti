@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T18:57:45Z",
+  "updated": "2026-08-20T19:10:19Z",
   "entries": [
     {
       "updated": "2026-07-30T19:53:57Z",
@@ -720,23 +720,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-18T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "27e20ec55fdef799aeac9e1df14cb65507a8e4fd4889d70a64cb4905c8a41758",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-18T11:38:00+03:00",
       "urls": [
         {
@@ -944,23 +927,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T11:09:44Z",
-      "urls": [
-        {
-          "sign": "aa37cc7ff756306a084c5a523e2c99f092fdd2af91c93ec14751a6b418585868",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammattijärjestäjä vinkki: kengät säilytetään vuorotellen kärki eri suuntiin, jolloin hyllylle mahtuu enemmän",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-18T14:06:00+03:00",
@@ -5579,21 +5545,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-19T14:26:45Z",
-      "urls": [
-        {
-          "sign": "dda741c7aa81b88d0778e5dfaddf4a4a20a89eb817d4f93ccdc1b6c297b47db7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP pohtii, voidaanko maahanmuuttajien sosiaaliturvaa sitoa kielen opiskeluun perustuslain mukaisesti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-19T14:45:00Z",
       "urls": [
         {
@@ -5718,23 +5669,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T14:38:50Z",
-      "urls": [
-        {
-          "sign": "e724433876a7f7019f97cf81e3d5b5a22e256ceb92c81db508541e3b820fb078",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FIFA:n varapuheenjohtaja Sándor Csányi vetää tukensa Gianni Infantinolta Lamourin eron jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T18:00:00+03:00",
@@ -13396,6 +13330,68 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-20T19:03:51Z",
+      "urls": [
+        {
+          "sign": "21460975ced4995af969ee162a4c7edebcd3dd35c04a8b4ffa817fd8f932af10",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii Kangasniemeltä keskiviikkona kadonnutta 75-vuotiasta miestä – julkaisi uuden kuvan ja pyytää havaintoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-20T19:10:19Z",
+      "urls": [
+        {
+          "sign": "a62c3269f9a247241d42b6cff08d4b6f317f48bd2a23575faeae26b84b77610c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusministeri Antti Häkkänen vastaa Puolustusvoimien kritiikkiin droonikoulutuksesta: Uudistaminen etenee järjestelmällisesti",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T22:10:00+03:00",
+      "urls": [
+        {
+          "sign": "89e4e0db5c6861b4251b3f0e4e5ae7db023d095daeeafd96009223a097a569d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Taiteiden yön 20. vuosijuhla keräsi yleisön ympäri Helsinkiä sateesta huolimatta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-20T19:02:32Z",
+      "urls": [
+        {
+          "sign": "bf1cad416f947cfe397b647b2eadc20013b4db4304fd9b3b3dde92ecfaca1f88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansainvälinen luisteluliitto myöntää neutraalin statuksen neljälle venäläisluistelijalle",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
