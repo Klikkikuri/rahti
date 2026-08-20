@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-20T19:10:19Z",
+  "updated": "2026-08-20T19:29:37Z",
   "entries": [
     {
       "updated": "2026-07-30T19:53:57Z",
@@ -1624,23 +1624,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T15:33:35Z",
-      "urls": [
-        {
-          "sign": "6c7f6f54795a8892d1f1435c5f4322674556bfc4d7ff3e565074ed08aa71b784",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "BTA Engineer vaatii Arena 3.3:lta yli 10 000 euron velkaa oikeudessa – toinen velkakiista käsittelyssä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-18T15:59:19Z",
@@ -5530,21 +5513,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-19T14:43:22Z",
-      "urls": [
-        {
-          "sign": "4a6dc9ae1f36b148ff7b89b49da893a3dde74781466da8bdd139cb2e37f10e55",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilta-lehden yleiskokemustesti sisältää kysymyksen Suomen neljästä kaupungista, joiden nimissä on sana 'joki'",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-19T14:45:00Z",
       "urls": [
         {
@@ -5575,21 +5543,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T15:02:31Z",
-      "urls": [
-        {
-          "sign": "8aa1caec33e4a3ea278f359a45ba666023f81b780a3b8f15b58e1cbfdc49e4b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Linda Lampenius kiitti Peter Nygårdin poikaa Kai Bicklea rohkeudesta ja lämpimistä sanoista Instagramissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T15:22:49Z",
@@ -12409,7 +12362,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T18:57:45Z",
+      "updated": "2026-08-20T19:23:27Z",
       "urls": [
         {
           "sign": "2a738306b591015319f0a8404fe81816a85af6f6bf45f28c8cdfdf790472b849",
@@ -12418,7 +12371,7 @@
           ]
         }
       ],
-      "title": "UEFA:n Konferenssiliigan karsinnat: FC Inter ja Kööpenhamina pelasivat tasan, KuPS matkaa kohtaamaan Shamrock Roversin",
+      "title": "UEFA:n konferenssiliigan karsinnassa FC Inter pelasi Kööpenhaminan kanssa tasan, KuPS kohtaa Shamrock Roversin Dublinissa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13391,6 +13344,55 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T19:23:22Z",
+      "urls": [
+        {
+          "sign": "7997b3a46771ac95b9db00cd093391cefde566b1010a5808041d7812d816f800",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Novo Nordiskin toimitusjohtaja: Lihavuuden hoitamattomuus maksaa yhteiskunnalle kolme miljardia euroa vuodessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-20T19:29:37Z",
+      "urls": [
+        {
+          "sign": "b83f919ba260fca223163deb23f090a17b20da33d7628846b9c78e1bd080b595",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläisten onnellisuusindeksi laski heinäkuussa alimmalle tasolleen, sodan ja talousvaikeuksien myötä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-20T19:25:12Z",
+      "urls": [
+        {
+          "sign": "4384cdae6a3082c8e53cf7ad56ee59c80f6f26abace2c283f4e31de24ea36c24",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "FC Inter jäi maalittomaan tasapeliin Kööpenhaminaa vastaan – päävalmentaja Vesa Vasara avasi pettymyksen ja Ilari Kangasniemen tilanteen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
