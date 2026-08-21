@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T17:29:13Z",
+  "updated": "2026-08-21T17:41:17Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -722,23 +722,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T08:26:44Z",
-      "urls": [
-        {
-          "sign": "e24a5a49803b352a944a7d239018b84822ac8db78c80298dd9364a291ca81258",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kilpailu- ja kuluttajavirasto varoittaa Onar Studiosin verkkokaupasta toimitus- ja maksuongelmien vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-19T08:35:34Z",
@@ -11424,7 +11407,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-21T14:12:30Z",
+      "updated": "2026-08-21T17:30:53Z",
       "urls": [
         {
           "sign": "babe613fddad7b147df7b68d64115ca9b467f2be7baaad5b93df9da7a09b9a12",
@@ -11433,7 +11416,7 @@
           ]
         }
       ],
-      "title": "Kruununprinsessa Victoria ja prinssi Daniel tutustuivat Espoon Aalto-yliopiston teknologiaan ja jäätutkimusaltaaseen",
+      "title": "Kruununprinsessa Victoria ja prinssi Daniel tutustuivat Aalto-yliopiston teknologiaan ja jäätutkimusaltaaseen Espoossa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13251,7 +13234,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T16:56:23Z",
+      "updated": "2026-08-21T17:32:39Z",
       "urls": [
         {
           "sign": "c9afa1358865782f4e5d5180bc001c91b39803db59537e4713b7e2defb6396fb",
@@ -13260,9 +13243,11 @@
           ]
         }
       ],
-      "title": "Koulujen alkaessa Helsingin nuoret kokoontuvat puistoihin – poliisi valvoo mahdollisia levottomuuksia",
+      "title": "Koulujen alku tuo tuhannet nuoret Helsingin puistoihin – poliisi ja nuorisotyöntekijät valvomassa tilannetta",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13439,6 +13424,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T17:41:17Z",
+      "urls": [
+        {
+          "sign": "67da3e9a6d36e79e97373249d0421f430d1b11cebe9724a5656faaf723bf0ce3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän droonit iskivät ostoskeskukseen Kryvyi Rihissä – useita kuolleita ja kymmeniä haavoittuneita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
