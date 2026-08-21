@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T18:29:05Z",
+  "updated": "2026-08-21T18:40:35Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -5422,23 +5422,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T14:01:44Z",
-      "urls": [
-        {
-          "sign": "b8138de3e213e9460d59885033a62b793f7abffd0e85c10b66880c9ffc31217c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T11:43:48Z",
       "urls": [
         {
@@ -5531,21 +5514,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T14:06:54Z",
-      "urls": [
-        {
-          "sign": "23130d3b466dcc0c52702c1150e901fc05dacca2eb130b6e3cc659de229497d6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen pormestari Ilmari Nurminen kutsui poliitikkoja Eppu Normaalin konserttiin 8. elokuuta – kaupungin kustannus 22 190 euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T15:54:00+03:00",
@@ -13431,6 +13399,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T18:35:27Z",
+      "urls": [
+        {
+          "sign": "e3ee8eca80b97ac70dee0a7370c6f2e8833a9cd36661f75bdc01c1e3e2870af8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansanedustajat kommentoivat Tampereen yli 22 000 euron kutsuvierastilaisuuden kustannuksia, verkostoituminen perusteena",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T18:40:35Z",
+      "urls": [
+        {
+          "sign": "d333c6d1375b15f8a38432c7e3ca322c95220bdef619af0b74070af2a7c176da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin viranomaiset vahvistavat verenvuotokuumeen leviävän villikaneissa – ei vaara ihmisille",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
