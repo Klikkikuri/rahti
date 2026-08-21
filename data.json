@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T00:08:16Z",
+  "updated": "2026-08-21T01:01:52Z",
   "entries": [
     {
       "updated": "2026-07-31T03:00:20Z",
@@ -1517,23 +1517,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T15:59:36Z",
-      "urls": [
-        {
-          "sign": "afdadc845783b4dd69b991e9062e95c27711c75b0d593f94c72ba25827ce1567",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rufus Wainwright esittää Helsingissä Lord Byronin runosta innoittuneen sielunmessun",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-18T16:28:51Z",
@@ -5625,21 +5608,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T15:59:33Z",
-      "urls": [
-        {
-          "sign": "f75f933448e83b3598965c5eef99b2e1fa04036f215db41394a28e09a14d090e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jari Taponen vaatii poliisin voimankäytön tarkastelua ja nuorten parempaa kohtelua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T15:13:45Z",
@@ -13380,6 +13348,38 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T01:00:35Z",
+      "urls": [
+        {
+          "sign": "e5904d8d2e258abde2dfc0d5aa298f6ba5703884dfec4de9295396c557bb9f8f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kruununprinsessa Victoria ja prinssi Daniel vierailevat Vaasan hovioikeuden 250-vuotisjuhlilla ja Espoon Aalto-yliopistossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T01:01:52Z",
+      "urls": [
+        {
+          "sign": "37a0f804c67231c2915b822972d671e8e4db49974a403e21e58d72ca9b8e64e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Muusikko Joss Stone: Prinssi Harry saattoi vihjata Britanniaan paluuta jo syyskuussa 2025",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
