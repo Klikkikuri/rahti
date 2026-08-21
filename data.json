@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T19:27:24Z",
+  "updated": "2026-08-21T19:44:41Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -5501,21 +5501,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T14:59:05Z",
-      "urls": [
-        {
-          "sign": "b473b5dd34ef0299be53ff77561bf8b9c4050615cf39a2b71e9df8252f265c87",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain velka ylitti 40 biljoonaa dollaria – asiantuntijat varoittavat kestävyydestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T15:04:52Z",
@@ -11625,7 +11610,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T19:15:48Z",
+      "updated": "2026-08-21T19:37:59Z",
       "urls": [
         {
           "sign": "591a80a8c30545c245a5a601be20e8ec3b99855e76014d5f377cdd5747cf8848",
@@ -11634,9 +11619,11 @@
           ]
         }
       ],
-      "title": "Poliisi ampui ja pidätti entisen oppilaan kouluhyökkäyksessä Fagerstassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": "Poliisi pidättää Fagerstan kouluiskun epäillyn – iskussa menehtyi henkilö ja kaksi teini-ikäistä loukkaantui vakavasti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -11781,7 +11768,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T17:56:51Z",
+      "updated": "2026-08-21T19:28:01Z",
       "urls": [
         {
           "sign": "3ace9b7255fcaa8dadb12f62e38d8afc1151c775a6ded3a4bfe4040caa64c461",
@@ -11790,7 +11777,7 @@
           ]
         }
       ],
-      "title": "Poliisi ampui miekalla hyökänneen entisen oppilaan Fagerstan koululla – nuoria loukkaantui",
+      "title": "Poliisi ampui ja pidätti miekalla hyökänneen entisen oppilaan Fagerstan koulussa – kolmea nuorta hoidetaan",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -12884,7 +12871,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T19:14:01Z",
+      "updated": "2026-08-21T19:44:41Z",
       "urls": [
         {
           "sign": "c9afa1358865782f4e5d5180bc001c91b39803db59537e4713b7e2defb6396fb",
@@ -12893,7 +12880,7 @@
           ]
         }
       ],
-      "title": "Poliisi valvoo tuhansien nuorten kokoontumisia Helsingin puistoihin koulujen alkaessa",
+      "title": "Koulujen alku tuo tuhannet nuoret Helsingin puistoihin – poliisi valvoo tilannetta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13350,7 +13337,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T19:08:42Z",
+      "updated": "2026-08-21T19:27:50Z",
       "urls": [
         {
           "sign": "1ef9eb15d037e7243136dd7570e617319046027887591afc57d31d994bd25c78",
@@ -13430,6 +13417,21 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T19:35:12Z",
+      "urls": [
+        {
+          "sign": "a7685cf75bf8664a9fa770b113ddb6fdb6c59316aade2a1f46c573c0bb100316",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kim Cattrall täyttää 70 vuotta: Sinkkuelämä-kiistat ja kolmas kausi päättävät sarjan 27 vuoden taivaltaman historian",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
