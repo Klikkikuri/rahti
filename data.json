@@ -1,23 +1,8 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T05:35:00+03:00",
+  "updated": "2026-08-21T02:54:53Z",
   "entries": [
-    {
-      "updated": "2026-07-31T03:00:20Z",
-      "urls": [
-        {
-          "sign": "a210c50646dea470667ce488495b47046d5ab989b97b60d77b7d470c0057f727",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kesämanteli: Apokalypsy – Huolihevonen yhdistää 1881-luvun runolaulun, visuaalisen kerronnan ja herkkävoimaisen musiikin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Äks"
-    },
     {
       "updated": "2026-08-01T09:10:35Z",
       "urls": [
@@ -771,21 +756,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-18T11:58:31Z",
-      "urls": [
-        {
-          "sign": "214e16bdfb4346533f94f62a3ef2df88cfb613916f9597120cc2d25c210cb379",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Siviiliasuinen poliisi uhkasi siviiliä aseella Tampereella viikonloppuna – epäillään virkavelvollisuuden rikkomisesta ja laittomasta uhkauksesta, siirretty muihin tehtäviin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-18T15:56:00+03:00",
       "urls": [
         {
@@ -816,23 +786,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T12:06:20Z",
-      "urls": [
-        {
-          "sign": "981828cfc40cb0680868d95877bd73ecc1efd002cc2948ed503484edb487d213",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat lähetti Suomelle ja Nato-maille kyselyn kumppanien tuesta ulkopolitiikalleen – Häkkänen: liittyy Euroopan puolustuksen vahvistamiseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-18T12:47:43Z",
@@ -13372,6 +13325,39 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T02:44:00Z",
+      "urls": [
+        {
+          "sign": "cbcd324e8f90bb990ceb24d5c419c3b6802a84928614b41921a4483c4a1da335",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Intialaiset epäillyt surmasivat 17-vuotiaan somessa levinneen elinmyyntihuhun vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T02:54:53Z",
+      "urls": [
+        {
+          "sign": "40e9265362a3a549f15d1d1ab1fdd21e69d71eca6d4ad0e44bcf88a9ae384d09",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Panaman kanavan hallinnoija vähentää alusliikennettä kuivuuden vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
