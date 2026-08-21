@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T09:59:34Z",
+  "updated": "2026-08-21T10:10:54Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -805,44 +805,10 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "fa00d87813c5a4604360e024ba14d4fa7fd7bb69f9b19bf76057f3494c7e3be2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-19T10:38:00+03:00",
       "urls": [
         {
           "sign": "d7d7ad41a3b1c273b03297acc8f76a12f2e11a1ba3148285d40e8aba11838186",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1db4ebdf20c8eb7f8d0b48d5975a4d494291a1b6432077a8c7e2a725a772e8ec",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -901,21 +867,6 @@
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T02:45:00Z",
-      "urls": [
-        {
-          "sign": "0612632b8238d1fd6c3ea4f51ea3d8b82b2df61e5f5a1c1bcd1b4805f3388f4b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lähes kaikki suurimmat kaupungit ottavat tai harkitsevat sakkomaksua perumattomista päivähoitoajoista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -1148,23 +1099,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T05:55:58Z",
-      "urls": [
-        {
-          "sign": "10f3b27d8a3465d214e948374232634238e4a9b59d187894b183b28ce8135719",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "24-vuotias Artturi Sarvela ei saa alansa töitä – junioritason työpaikat vähentyneet",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-19T05:41:50Z",
       "urls": [
         {
@@ -1227,21 +1161,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T05:58:21Z",
-      "urls": [
-        {
-          "sign": "180fb1f012581888ef7c7ae0250f0105f2b5a5d82999d8e8a85e31405e7f5407",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi käytti etälamautinta Espoon Rinnekodissa – kehitysvammainen mies kuoli sairaalassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T07:38:59Z",
@@ -5426,23 +5345,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-20T06:08:58Z",
-      "urls": [
-        {
-          "sign": "075808d7328a889beda0cb0bccc3faa5092695f99b06018e7801fba873f34b2d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T05:21:43Z",
       "urls": [
         {
@@ -5638,21 +5540,6 @@
       ],
       "title": "Lapualaisnainen huitaisi pyyhkeellä itsensäpaljastajaa kasvoille Simpsiöllä ja aikoo tehdä rikosilmoituksen",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-20T06:05:10Z",
-      "urls": [
-        {
-          "sign": "ca03c4c485b9273faf223c035fb90ad3e2f72c3044c7434e798c990a2350a370",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hoitajat käyttivät turvasumutinta kehitysvammaisiin Kainuussa",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -10121,23 +10008,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-19T06:06:15Z",
-      "urls": [
-        {
-          "sign": "98f5b2dde9c23b4a9a31ca9da637aa94dbb550c61fca9670061d0f5ada4f702c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi poliisia tutkitaan yksin partioituansa Tuusulassa ja Tampereella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-20T19:03:51Z",
       "urls": [
         {
@@ -12977,7 +12847,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-21T12:38:00+03:00",
+      "updated": "2026-08-21T13:09:00+03:00",
       "urls": [
         {
           "sign": "baa736bb821f3add54b696fea517ccc316b42d7bd0ed01e754302b26de71aef9",
@@ -12986,7 +12856,7 @@
           ]
         }
       ],
-      "title": "Poliisi sulkee Kehä III:n Kauklahdessa rekan kolarin vuoksi illasta alkaen",
+      "title": "Poliisi sulkee Kehä III:n Kauklahdessa iltakuudelta rekan suistuttua tieltä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13393,6 +13263,136 @@
       "urls": [
         {
           "sign": "6eda07fd34e10b81ba7aec089467fb3c21da2d42b89bdf19f560237805308dcf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T13:08:00+03:00",
+      "urls": [
+        {
+          "sign": "a236988f4cea1606a9d72213da550d48c4b6aea3481238e344d7b231e75b44c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T10:02:44Z",
+      "urls": [
+        {
+          "sign": "eaa8a56127902bd4d75e03caf58b1de22a5d06abbec288947a8d921cf918f599",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pienkone upposi Pieksämäellä: metsästäjät pelastivat lentäjän rantaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T10:00:03Z",
+      "urls": [
+        {
+          "sign": "eff7c70369a0378de7d4b285dcdb01e4420823308b050779c65c16442bd01f35",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kruununprinsessa Victoria ja prinssi Daniel vierailevat Vaasassa hovioikeuden 250-vuotisjuhlissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T10:10:54Z",
+      "urls": [
+        {
+          "sign": "f2da6f0d2c7bf1d88cc28332d5687c672e2841f65b3aad473b62d06359a5f60f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Blockfest tuo kansainväliset ja kotimaiset rap-artistit Tampereen Ratinan stadionille",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T10:10:50Z",
+      "urls": [
+        {
+          "sign": "1122ccbd1c4d2c1e90f4f3206962e7645e91490c50261ce60ad9fc84d9c2cd71",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pandan suklaatuotanto siirtyy Viroon – työntekijät ja asiakkaat surevat päätöstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T09:52:48Z",
+      "urls": [
+        {
+          "sign": "8ff764b003c7f2bc9d81d0c3ba34525f6247814d879c68de58c723f0e17e5b9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rodri valitsi FC Barcelonan Real Madridin sijaan taktisten syiden vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T10:04:22Z",
+      "urls": [
+        {
+          "sign": "f76df5ece01e5882d75c246bd41e11c0af7f8ce3166ca50fba4f9fe8004b6c9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksan viranomaiset paljastivat Berliinin liepeillä sijainneen asekätkön, jota epäillään Venäjän salamurhia varten",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T13:00:00+03:00",
+      "urls": [
+        {
+          "sign": "5648699d032bb1f3e2cf422296b0fde476f26241961352cd96c87032a50ca1eb",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
