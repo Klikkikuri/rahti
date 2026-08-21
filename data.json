@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T05:03:30Z",
+  "updated": "2026-08-21T08:24:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -722,36 +722,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-18T16:16:00+03:00",
-      "urls": [
-        {
-          "sign": "795ebe1241b814683f20ac5fd7635823ce10db314717756cbde79f67a5409626",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusministeri Antti Häkkänen sanoo Yhdysvaltojen uskollisuuskyselyn kehottavan eurooppalaisia ottamaan enemmän vastuuta puolustuksesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T14:17:59Z",
-      "urls": [
-        {
-          "sign": "5899420c93221a60395193143fcc989f3bc4fc19135be376d664ccdcfbca8f95",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehonrakentaja Dwayne Quamina kuoli 40-vuotiaana viikko Atlanta Pro -kilpailun jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-18T17:15:00+03:00",
       "urls": [
         {
@@ -782,23 +752,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T14:06:00Z",
-      "urls": [
-        {
-          "sign": "dfc5b543bdc6e758b065f8c0a041e4f7fd5a8e4efceb7b38cf939645eceef5a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hanna Sumarin raaka parsakaalisalaatti valmistuu nopeasti ilman kypsentämistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-18T17:05:00+03:00",
@@ -1147,23 +1100,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T17:41:35Z",
-      "urls": [
-        {
-          "sign": "1c8a48e3315a5e8147008b68571063598495d8f1bc58bbf9c13a9de6d796ab33",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Naantalin älykäs riistavaroitusjärjestelmä on toiminut kuukauden ilman riistakolareita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-18T20:49:00+03:00",
@@ -5583,21 +5519,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T18:09:47Z",
-      "urls": [
-        {
-          "sign": "05611a3206bb6b0a5de6913095b1f1c8c25ba5ff84f3802bcb1a329d491d83e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jokerit voitti Tapparan harjoitusottelussa voittomaalikilpailun jälkeen 4–3",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T21:21:00+03:00",
@@ -13363,6 +13284,83 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T08:24:00+03:00",
+      "urls": [
+        {
+          "sign": "03de1adbcffed4a78ad2b871b8676693793200833c67c148fb30d0b983bd171d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL: Tuhkarokkopotilas matkusti Viking Glorylla ja Eckerö Linjenillä – rokotussuoja kannattaa tarkistaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T05:21:30Z",
+      "urls": [
+        {
+          "sign": "44fd12aeb8381951d4125b7efb6fa4d9450fe661844a21665a8d1b5a76833949",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL kehottaa laivamatkustajia tarkistamaan rokotesuojansa tuhkarokkotapauksen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T05:23:38Z",
+      "urls": [
+        {
+          "sign": "f3d9799b46db3f8c02fd84ebb43d6234fbdd9958b7ad83da0567af93eb678136",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "S-Pankin kysely: Vain neljä prosenttia lapsista kertoo kohtamansa nettikiusaamisen aikuiselle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T05:12:00Z",
+      "urls": [
+        {
+          "sign": "29a831fafb4d41aecdd8a631735b20b4ea88516bdfc2976e245578005c52881e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sydänliiton asiantuntija: Terveet aikuiset saavat syödä yhden kananmunan päivässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T05:22:05Z",
+      "urls": [
+        {
+          "sign": "ea546547f15bd85a9b8c16f90791ea788e90800b59bc1d8efcab787e4566f555",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL kehottaa laivamatkustajia tarkistamaan rokotussuojansa tuhkarokkoon sairastuneen laivamatkojen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
