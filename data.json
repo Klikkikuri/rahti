@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T02:34:00+03:00",
+  "updated": "2026-08-21T00:08:16Z",
   "entries": [
     {
       "updated": "2026-07-31T03:00:20Z",
@@ -1325,21 +1325,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-18T15:47:37Z",
-      "urls": [
-        {
-          "sign": "a763fecec70f9f6c2a8e4364215cfa1c9a5bca6b64213faccd2b55d13671b556",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marjojen hinnat nousseet voimakkaasti ulkomaisten poimijoiden vähenemisen vuoksi, ala yrittää toipua kotimaisin voimin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-18T15:27:52Z",
       "urls": [
         {
@@ -1370,21 +1355,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T15:59:19Z",
-      "urls": [
-        {
-          "sign": "00eed377df8eeb9877af697353f156caec2f8b4b7eeaf7e0508016229408f5b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Charles Spencer julkaisee kirjan Diana, My Sister – lupaa paljastaa sisarensa muistot",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-18T19:24:00+03:00",
@@ -13375,6 +13345,41 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-20T23:31:34Z",
+      "urls": [
+        {
+          "sign": "bdb027fb169732054334b5294bafaad286da25d430f2e01461a4e2470bb27b66",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuivuus pakottaa Panaman kanavan vähentämään alusliikennettä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T00:08:16Z",
+      "urls": [
+        {
+          "sign": "8a731905cf3211bc97d4c5d9353c2f9bf8f9ad35df37a943f62ad2882c56b0f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
