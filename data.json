@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T20:00:00+03:00",
+  "updated": "2026-08-21T17:11:00Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -707,23 +707,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T08:12:09Z",
-      "urls": [
-        {
-          "sign": "43d3cf188dd87429c9cfe00567b90f54fac20c77cdc7a07ab4dec6086ffa54b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi käytti etälamautinta Espoossa – Kehitysvammainen mies menehtyi sairaalassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-20T11:56:00+03:00",
@@ -5423,21 +5406,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-20T13:08:59Z",
-      "urls": [
-        {
-          "sign": "e737a4773b217ec45d254a592210cabfc5250f76cc68c1f4372101776ccfbcda",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkomaalaiset opiskelijat majoittavat kavereitaan opiskelija-asuntoihin ilman lupaa – LOAS puuttuu ilmiöön asuntopulan vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T13:28:13Z",
       "urls": [
         {
@@ -5772,21 +5740,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T13:06:29Z",
-      "urls": [
-        {
-          "sign": "0e224fe3f2995eeca0b7b0e641a5ea84fe94c602dd8ad341dde3b68e5f6af8c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Harry ja Meghan palaavat Britanniaan – pääministeri: turvajärjestelyt yksityisasia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T13:33:54Z",
@@ -12257,7 +12210,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T19:33:00+03:00",
+      "updated": "2026-08-21T20:10:00+03:00",
       "urls": [
         {
           "sign": "4043ee08001ddd2c22e83df8f911cefd26ea66ccbf6615c78e87f4937b2abe34",
@@ -12266,8 +12219,8 @@
           ]
         }
       ],
-      "title": "Poliisi ampui ja pidätti Fagerstassa machetella kouluun hyökänneen 18-vuotiaan entisen oppilaan; useita loukkaantui",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Poliisi ampui, pidätti Fagerstassa machetella kouluun hyökänneen 18-vuotiaan entisen oppilaan",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13038,7 +12991,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T19:11:00+03:00",
+      "updated": "2026-08-21T20:02:00+03:00",
       "urls": [
         {
           "sign": "0bd003d605791c7975d29b8a21cc0585816ca70c816cec73353b60f520c55e4c",
@@ -13438,6 +13391,53 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T17:09:23Z",
+      "urls": [
+        {
+          "sign": "5aeeeb57eef782eaad948b30192490f028ac1effcc15eeacf2d6614ae03676e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansanedustaja Kike Elomaa kertoo seksielämänsä muuttuneen ystäväpuolelle poliittisen työn myötä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T17:11:00Z",
+      "urls": [
+        {
+          "sign": "5912fd26494517cdcbbc6eafc072a3ed5097e38fc4b25496b337adfbf8d182db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lähteet: Meghanille tarjottu rooli Isossa-Britanniassa, mikä voisi vaikuttaa perheen paluumuuttoon",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T17:08:38Z",
+      "urls": [
+        {
+          "sign": "7f6b3ce20170e3675ddd1d2f0c25f8fece01e6285eab765a630df1bd1e3497ca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Foreca päivitti ennustettaan: viikonloppu tuo rankkasateita ja vahinkoriskin Suomen etelä- ja itäosiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
