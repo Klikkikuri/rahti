@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T04:15:00Z",
+  "updated": "2026-08-21T04:29:51Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -5680,21 +5680,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-19T17:19:43Z",
-      "urls": [
-        {
-          "sign": "3a751d3ac10a296c5d20d1545bd84140413ea05b69e5f1ca6798ec45e140a4a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Analyysi: Keskustan lupaus pysäyttää kuntien keskittäminen on epärealistinen velkajarrun ja väestökehityksen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -12942,7 +12927,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T05:35:00+03:00",
+      "updated": "2026-08-21T07:25:00+03:00",
       "urls": [
         {
           "sign": "e1b7d569116270d13c7eb84774dba0c1539dfc80b1fdb43b667eb34001614765",
@@ -12951,7 +12936,7 @@
           ]
         }
       ],
-      "title": "Gentin yliopisto hyllytti varotoimena tutkijan, joka oli syyttänyt Jason Ardayta plagioinnista",
+      "title": "Gentin yliopisto hyllytti Ardayn plagiointisyyttäjän varotoimena",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13361,6 +13346,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T04:29:51Z",
+      "urls": [
+        {
+          "sign": "fe8ca6ae64e9432c903d7654ab13ee24aa6b855d72e136e406711454d54e5038",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
