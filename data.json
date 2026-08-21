@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T08:53:18Z",
+  "updated": "2026-08-21T12:12:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -5495,21 +5495,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T04:34:01Z",
-      "urls": [
-        {
-          "sign": "c0851c7c3183e4bcd64dafc6930c9c7ac6804bf07f769078fb0846d68135107a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prinssi Andrew on nähty Etelä-Ranskassa rikostutkinnan aikana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T05:10:10Z",
       "urls": [
         {
@@ -8771,7 +8756,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-20T13:19:12Z",
+      "updated": "2026-08-21T09:07:38Z",
       "urls": [
         {
           "sign": "6074c4705b37e5ea29c7d55949008fc5d371cfcccb822451ea65ca5b933333bf",
@@ -8780,8 +8765,8 @@
           ]
         }
       ],
-      "title": "Poliisi osoitti aseella miestä, joka avasi siviilipoliisiauton oven – epäiltynä moottorikulkuneuvon käyttövarkauden yritys",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Poliisi aloitti esiselvityksen Tampereella siviilipoliisiauton oven avanneesta miehestä – häntä ei epäillä rikoksesta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -11313,7 +11298,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T06:36:00+03:00",
+      "updated": "2026-08-21T12:12:00+03:00",
       "urls": [
         {
           "sign": "4141c575c505bf5f36701869435cbde14c47e3606c894f1cc65afaca4e096f12",
@@ -11322,7 +11307,7 @@
           ]
         }
       ],
-      "title": "Valko-Venäjä sulkee suurlähetystönsä Helsingissä 30. elokuuta alkaen",
+      "title": "Valko-Venäjä sulkee suurlähetystönsä Suomessa 1. syyskuuta alkaen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -11639,7 +11624,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T04:29:47Z",
+      "updated": "2026-08-21T08:50:11Z",
       "urls": [
         {
           "sign": "6829f9bf58d114ef03735b9f0e14ba948286cab7090d7ddecde062b75eae4c7b",
@@ -11649,7 +11634,7 @@
         }
       ],
       "title": "Valko-Venäjä sulkee suurlähetystönsä Suomessa 30. elokuuta",
-      "clickbaitiness": "Extremely Clickbaity",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -12949,7 +12934,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T10:59:00+03:00",
+      "updated": "2026-08-21T12:00:00+03:00",
       "urls": [
         {
           "sign": "e8189953cd6ca5088b162015d33b91048cacf5046c99591b704e1cbd0011dfe6",
@@ -12958,8 +12943,8 @@
           ]
         }
       ],
-      "title": "Poliisi lisää etälamauttimen käyttöä – syynä koulutus ja laitemäärän kasvu",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Poliisin etälamauttimen käyttö yleistyy koulutuksen ja laitekannan kasvun myötä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13394,6 +13379,25 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T09:05:26Z",
+      "urls": [
+        {
+          "sign": "df94e681cffa7b7b0230390a6e92f60d392ba0700e127fb3037398df1b761650",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "673656d830f727ba79f8c0f047d6ed01f13ad27ba94d058fc42ddbe290a9cc01",
+          "labels": []
+        }
+      ],
+      "title": "Lappeenrannan Luukkaansalmen silta nimetty Alisa Vainioksi Googlen kartassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
