@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T17:59:26Z",
+  "updated": "2026-08-21T18:13:14Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -3501,23 +3501,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-20T13:51:56Z",
-      "urls": [
-        {
-          "sign": "7ec4c453d5db57dd4e31f8f2cb0bf23cfd67346ed647ec2369993e1ccccf884b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä vaatii rangaistusta erikoishammaslääkärille 80‑vuotiaan miehen hampaiden poiston jälkeisestä kuolemasta Länsi-Uudenmaan käräjäoikeudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T05:57:00Z",
       "urls": [
         {
@@ -5405,21 +5388,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-20T13:43:00Z",
-      "urls": [
-        {
-          "sign": "1cff768734d61d804587e5763dad039dca62e284e284493fcda0d40075187313",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Zelenskyin asema heikkenee puolustusministerin erottamisen ja korruptioskandaalien jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T13:27:35Z",
       "urls": [
         {
@@ -5580,21 +5548,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T13:33:54Z",
-      "urls": [
-        {
-          "sign": "cb4e5a673e115301f0ad5723880bbb9f40c19629c9f58a31c73b689743523e96",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "ESPN:n perustaja Bill Rasmussen kuoli 93-vuotiaana Parkinsonin taudin uuvuttamana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T09:07:38Z",
@@ -13434,6 +13387,53 @@
       "title": "Vaikuttajan nostamat viini-illat Espoon päiväkodeissa herättivät keskustelua – kaupunki kiistää järjestävänsä niitä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T18:13:14Z",
+      "urls": [
+        {
+          "sign": "2096e86469c859d0c550f61ad163d6068142d43d874a45c4c7ac49ccca008496",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtionjohto huolestunut hybridiuhkien kasvusta ja suomalaisten henkisestä sietokyvystä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T18:04:13Z",
+      "urls": [
+        {
+          "sign": "c3fb36c8344d7a67dab6447e6f9c78eeb54ff65d283a60df37a1538781246ccd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rai Benjamin voitti 400 metrin aitajuoksun ja asetti uuden henkilökohtaisen ennätyksensä Lausannessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T18:06:32Z",
+      "urls": [
+        {
+          "sign": "ec1c58ed7f4c94bc05044a388638647c4b5bcb97bf253609d28c32833a910137",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalainen tietoturva-asiantuntija kehitti tekoälyvalvontaa hämäävän kuviotyypin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
