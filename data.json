@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T03:40:43Z",
+  "updated": "2026-08-21T03:51:00Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -769,21 +769,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T12:47:43Z",
-      "urls": [
-        {
-          "sign": "457ef8bae7d30c0281de6aef52d435ec20a996192ab57b864ba161d1c8be1b03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Super Bowl -voittaja O.J. Brigance kuoli 56-vuotiaana ALS:n jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-18T16:30:00+03:00",
@@ -5574,23 +5559,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-19T16:48:55Z",
-      "urls": [
-        {
-          "sign": "eb9609292c58b2fafac5ba94d7f33ea2642bf982933dceb40454f353446ddb7c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kristian Pullin yliastuminen EM-kisassa pilasi finaalipaikan – uusilla piikkareilla hypättiin vain 757 cm",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T20:00:00+03:00",
@@ -13363,6 +13331,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T03:51:00Z",
+      "urls": [
+        {
+          "sign": "690ccb59cd37beddaa9ef74e8f340ed42eba08defbd8445b5f95d9f4876c8dbb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat neuvovat: Äkilliseen rahatarpeeseen riittää myynti tai pieni laina, kunhan maksusuunnitelma on olemassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T03:48:15Z",
+      "urls": [
+        {
+          "sign": "11372e10969ea5288668fd7eaca1ad3f984465fdd4709b28771af302bd69ffe5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Atte Ohtamaa päättää uransa jatkosta lähiviikkoina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
