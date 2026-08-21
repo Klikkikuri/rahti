@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T06:13:26Z",
+  "updated": "2026-08-21T09:29:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -1241,23 +1241,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-18T20:03:02Z",
-      "urls": [
-        {
-          "sign": "46a98088d8da07c379509a8328431f3e425c18974acbbfc47c8e046093913105",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainan entinen puolustusministeri Fedorov vaatii vaaleja sodan aikana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-18T20:17:15Z",
@@ -2585,23 +2568,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T19:21:31Z",
-      "urls": [
-        {
-          "sign": "5903f94f89b4e2c2ac26103b731a16dde30fa3cfaaae71b35c3e4c90eede4d55",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Japanilainen Tomo Bushida muutti Suomeen Muumien vuoksi, mutta kohtaa työllisyyden ja elinkustannusten haasteet",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T07:34:03Z",
@@ -5437,27 +5403,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T19:01:20Z",
-      "urls": [
-        {
-          "sign": "b31d4dae0ad0cc59ef5f4cb199ca763780bd21ad9d26f14c91a0ee87bc641739",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "f9a21fad6c980aa70013a97e81a259e627bc47a10db9a32bd8790cca5cbd486b",
-          "labels": []
-        }
-      ],
-      "title": "Minttu Kaulanen osallistuu Petollisiin miehensä Sampo Kaulasen tilalle – uusi kausi alkaa 5. syyskuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T21:47:00+03:00",
@@ -10360,7 +10305,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-20T21:00:00+03:00",
+      "updated": "2026-08-21T09:29:00+03:00",
       "urls": [
         {
           "sign": "d49633293bda0dcf191b9c4eacc90bd7c7350bc211f2bb2607c7300d92799f51",
@@ -10369,7 +10314,7 @@
           ]
         }
       ],
-      "title": "Puolustusministeriö: Venäläiskoneen epäillään loukanneen Suomen ilmatilaa Suomenlahdella",
+      "title": "Rajavartiolaitos aloitti esitutkinnan venäläisen tiedustelukoneen epäillystä ilmatilaloukkauksesta Utön eteläpuolella",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13153,7 +13098,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T08:56:00+03:00",
+      "updated": "2026-08-21T09:17:00+03:00",
       "urls": [
         {
           "sign": "bcef04a10ce79bcd5ee20eeed67eee7177d57498f8c2aca07af41ccd29763911",
@@ -13162,8 +13107,8 @@
           ]
         }
       ],
-      "title": "Norjalaiset lennonjohtajat lakkoilevat, Oslon lentoasema sulkeutuu sunnuntaina",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Norjan lennonjohtajat lakkoilevat, Avinor sulkee Oslon lentokentän sunnuntaiaamuna",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13360,6 +13305,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T05:48:44Z",
+      "urls": [
+        {
+          "sign": "a034fe78a800a9652251c4a8f103491f8cefa9293a4fc771ab932b65ec0e4aad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Europarlamentaarikko Katri Kulmuni ei asetu ehdolle kevään 2027 eduskuntavaaleihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T06:28:57Z",
+      "urls": [
+        {
+          "sign": "aa09a5191026acda8512e66693079090892650dc3bd7967d73e28cb72179acdd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen IL-20-kone epäillään ilmatilaloukkauksesta Suomenlahdella – Rajavartiolaitos aloitti esitutkinnan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T06:26:21Z",
+      "urls": [
+        {
+          "sign": "6cad81f582ca120e6d0b26d5fc8cb0b593bfbf050b052975b94d173302da86dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuninkaallisasiantuntijat arvioivat prinssi Harryn Britannia-paluun liittyvän kuninkaan terveydentilaan ja sovintoon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
