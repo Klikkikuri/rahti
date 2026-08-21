@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T04:45:00Z",
+  "updated": "2026-08-21T04:59:39Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -923,21 +923,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T14:04:00Z",
-      "urls": [
-        {
-          "sign": "481dd1863b0153c9c0580b2a3ef2f2441a5af623b1bfabb964f723c63b3b5f43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sanna Marin osallistui Flow-festivaaleille Helsingin Suvilahdessa viikonloppuna ja julkaisi kuvia kolmesta erilaisesta asusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-19T09:43:16Z",
@@ -5568,23 +5553,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T17:54:12Z",
-      "urls": [
-        {
-          "sign": "3d3f4cb170855c866c2f1d9876c1938fec49ef8b41a41757d9da38dd52be61e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heinolan autotappaja Santtu Oskari Poutanen sai yhdeksän ja puolen vuoden vankeusrangaistus",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T18:42:13Z",
@@ -13359,6 +13327,38 @@
       ],
       "title": "Putinin Kuriili-vierailu on sisäpoliittinen taktiikka, arvioi oppositiohahmo Hodorkovski",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T04:45:59Z",
+      "urls": [
+        {
+          "sign": "c18e3e4203b1263e47e93fbf4c5632e84cbc06b803d326f7e89d3f0b02eda676",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Armand Duplantis voitti Timanttiliigan Lausannen seiväshypyn tuloksella 6,21 metriä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T04:59:39Z",
+      "urls": [
+        {
+          "sign": "80f82ff5bfdb01e507b2735f102ee9268004dc706493119d2f3832d75328d033",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "...",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
