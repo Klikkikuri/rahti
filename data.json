@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T02:17:26Z",
+  "updated": "2026-08-21T05:35:00+03:00",
   "entries": [
     {
       "updated": "2026-07-31T03:00:20Z",
@@ -801,23 +801,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-18T11:54:21Z",
-      "urls": [
-        {
-          "sign": "75164738e991950588085edc29ed66d6716ce8ce363e82b2d2cf5663f0251329",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin käyttämä etälamautin johti kuolemaan Espoossa perjantaiyönä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-18T15:48:00+03:00",
       "urls": [
         {
@@ -914,21 +897,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-18T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "25dd7ead5d9a244408b086e28820b1f4a91b70acf9a748de4b6c8cc29847df96",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tapio Kuusisto: BKT:n tarkentuminen kuuluu tilastojen laadunvarmistukseen, ei virhe",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-18T16:30:00+03:00",
@@ -5913,23 +5881,6 @@
       "title": "Ukrainan parlamentin jäsen väittää Zelenskyin luottopomon Iryna Mudran olevan pidätettynä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-19T16:23:11Z",
-      "urls": [
-        {
-          "sign": "6f25db764837772f7647ac0a7c3a816460626b39ff44afc1ea7315d859ef794c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nato lisäsi sotilaskoneiden määrää Kaliningradin läheisyydessä ja julkaisi konseptin Venäjän hyökkäyksen pysäyttämiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13376,6 +13327,53 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T05:35:00+03:00",
+      "urls": [
+        {
+          "sign": "e1b7d569116270d13c7eb84774dba0c1539dfc80b1fdb43b667eb34001614765",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Gentin yliopisto hyllytti varotoimena tutkijan, joka oli syyttänyt Jason Ardayta plagioinnista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T02:30:06Z",
+      "urls": [
+        {
+          "sign": "720320093895fdbf64e527b730c62cd2412392918877f0fb6d89dcfdbb7b9947",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjällä moottoriöljyn hinnat nousseet yli 40 prosenttia ja toimitusajat venyneet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T02:33:00Z",
+      "urls": [
+        {
+          "sign": "fc17c60f53da2210d99b0307f9ad4c49f626ba21655c183be1d844346563586e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kunnat kohtavat merkittäviä kustannuksia, kun vanhemmat varaavat päivähoitopaikkoja kesäisin tyhjiksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
