@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T20:05:08Z",
+  "updated": "2026-08-21T20:28:38Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -5452,21 +5452,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T15:04:52Z",
-      "urls": [
-        {
-          "sign": "6c6763170ede0ff2d8f6c17d2201ca6ea324d8746d09be94e3a1a729a6052d25",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porsche jättää Volkswagenin päästöpoolin ja muodostaa uuden ryhmän kiinalaisen Xpengin kanssa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T06:41:17Z",
@@ -12807,7 +12792,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T19:44:41Z",
+      "updated": "2026-08-21T20:28:38Z",
       "urls": [
         {
           "sign": "c9afa1358865782f4e5d5180bc001c91b39803db59537e4713b7e2defb6396fb",
@@ -12816,7 +12801,7 @@
           ]
         }
       ],
-      "title": "Koulujen alku tuo tuhannet nuoret Helsingin puistoihin – poliisi valvoo tilannetta",
+      "title": "Helsingin nuorten syyskokoukset alkavat – poliisi valvoo tilannetta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13431,6 +13416,23 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T20:25:39Z",
+      "urls": [
+        {
+          "sign": "f1b8c86a94f0217e0dc0f8a1e87a90c3f088ef854dc6b29fab5afae9c732fdad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eläkkeellä ollut FSB:n kenraalimajuri Igor Lapjev löydetty kuolleena Moskovasta – kuoleman olosuhteet vahvistamatta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
