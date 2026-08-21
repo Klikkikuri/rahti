@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T11:14:55Z",
+  "updated": "2026-08-21T11:29:56Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -592,7 +592,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T07:11:34Z",
+      "updated": "2026-08-21T11:29:31Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -601,7 +601,7 @@
           ]
         }
       ],
-      "title": "Israel ja Yhdysvallat iskivät Iraniin ja Libanoniin – Trump harkitsee lisäpakotteita",
+      "title": "Yhdysvallat ja Israel iskivät Iraniin ja Libanoniin – Trump harkitsee mediatietojen mukaan lisäpakotteita",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -1240,21 +1240,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T07:44:23Z",
-      "urls": [
-        {
-          "sign": "85d0621d1fd99907b804fb58d71575c664ce113283df1fd4cc5b0e875e05fb09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisiauto osui henkilöautoon Oulussa – poliisi pyytää valtakunnansyyttäjää selvittämään syyllisyyden",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-19T10:04:00+03:00",
       "urls": [
         {
@@ -1331,23 +1316,6 @@
       "title": "Espoon etälamautintapauksessa kuollut kehitysvammainen mies – poliisi selvittää tapahtumien kulun",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-19T07:50:42Z",
-      "urls": [
-        {
-          "sign": "a169dfae9e8aacec25f1f994a2dd4b7c7f980295d6d004a6223ac2059573c71b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Gasgrid muuttaa vetyputken reittiä 260 km asukkaiden ja maanomistajien palautteen perusteella",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -5471,21 +5439,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T07:19:10Z",
-      "urls": [
-        {
-          "sign": "c3fd2a830143fface1fb6a7dcec4595300fa2580e8b36838e2120e3f98a60ed0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jukolan juusto lanseeraa pakastekuivatun cheddarin, joka säilyy huoneenlämmössä vuosia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T07:32:14Z",
@@ -13408,6 +13361,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T11:29:56Z",
+      "urls": [
+        {
+          "sign": "f48b11b623886a901d3f99c1c371b5bd2da5806409f670f13f5a82b806024445",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rajavartiolaitos tutkii venäläisen sotilaskoneen kolmen minuutin ilmatilaloukkausta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T11:15:22Z",
+      "urls": [
+        {
+          "sign": "a039745976ee3ac444212d366d203b77f9707e5cf5629fd480cf6a55b40604a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Atleetin simulaatiot ennustavat Arsenalin mestariksi ja kolmen nousijaseuran putoavan Valioliigasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T11:22:48Z",
+      "urls": [
+        {
+          "sign": "851de1de922e18c622b497d8c0c57ef66b8ee42eb8adaaa4e95389da1d828d3e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Aleksi Lohtander varoittaa voimakkaasta kesämyräkästä, joka tuo runsaita sateita ja kovia tuulia etelä- ja itä-Suomeen viikonloppuna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
