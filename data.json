@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T03:20:56Z",
+  "updated": "2026-08-21T03:40:43Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -1054,21 +1054,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-18T12:31:15Z",
-      "urls": [
-        {
-          "sign": "dde796a27b4d7c637ee4d55e176692bc832dc25ae6edcbcd0e1e6bb724f823a5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Andy Burnham vakuuttaa Britannian sataprosenttisen tukensa Ukrainalle Venäjän varoituksen jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-18T14:04:00Z",
       "urls": [
         {
@@ -1193,23 +1178,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T16:38:13Z",
-      "urls": [
-        {
-          "sign": "b7da6894fa3e05d8d8bf09697f1ccc1081cfab4f8895a60d964f5bb0eadf4378",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kasvihuonetuottajien taimienvaihto ja sää aiheuttavat tomaattipulan kaupoissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-18T16:56:51Z",
@@ -5801,21 +5769,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T16:45:20Z",
-      "urls": [
-        {
-          "sign": "fa21cdd2a815692879f46e8b8b45c62284419a3e2c5ff57d003e3cc07ec27e58",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi, Rajavartiolaitos ja tullin suorittivat sisärajavalvontaa Helsinki-Vantaan lentokentällä keskiviikkona",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-19T20:06:00+03:00",
@@ -13281,7 +13234,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T06:13:00+03:00",
+      "updated": "2026-08-21T06:36:00+03:00",
       "urls": [
         {
           "sign": "4141c575c505bf5f36701869435cbde14c47e3606c894f1cc65afaca4e096f12",
@@ -13290,8 +13243,8 @@
           ]
         }
       ],
-      "title": "Valko-Venäjä sulkee suurlähetystönsä Suomessa 1. syyskuuta",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Valko-Venäjä sulkee suurlähetystönsä Helsingissä 30. elokuuta alkaen",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13359,6 +13312,55 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T03:40:43Z",
+      "urls": [
+        {
+          "sign": "d28e9123a1a797a3dfb93d7253362d544042a401e0436b0f524bf005fe5fdaa9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Köyliön pohjavesivuoto on laskenut tasaisesti, Afry Oy aikoo lopettaa purkauksen ja ennallistaa alueen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T03:30:55Z",
+      "urls": [
+        {
+          "sign": "943ffe8b08e2cce232daacd6bd139d92a8a3eaa4ff132a4e1e33834ecafcb2ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SDP:n luottamus Minja Koskelaan vaikuttaa ratkaisevasti seuraavan hallituksen kokoonpanoon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T03:35:59Z",
+      "urls": [
+        {
+          "sign": "a9408b04ca77b7041692b11ce6117b54287593bcc0357d796c47cb17b442173b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Amnesty vahvistaa Hamasin suorittamat julkiset teloitukset Gazassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
