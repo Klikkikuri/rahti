@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T17:14:00+03:00",
+  "updated": "2026-08-21T17:24:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -694,21 +694,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T13:12:00+03:00",
-      "urls": [
-        {
-          "sign": "5a2345f15412518c11e4203bdfe90a5eab5b19328533fd026b5a23cf737dd0cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rahtialus vuoti noin 800 litraa moottoriöljyä Haukiveteen – pelastuslaitos jatkaa torjuntaa Rantasalmessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-19T14:34:00+03:00",
       "urls": [
         {
@@ -785,23 +770,6 @@
       "title": "Yhdysvaltain ja Etelä-Korean sotaharjoitukset päättyvät ennenaikaisesti Trumpin ilmoituksen myötä",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T06:22:05Z",
-      "urls": [
-        {
-          "sign": "855027cf5e7df1191d83da3917029c94a4a8989f1012023d222f8936d6505689",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rahtialus vuoti noin 800 litraa öljyä saimaannorpan elinalueelle Rantasalmella",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -6902,7 +6870,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-20T15:10:14Z",
+      "updated": "2026-08-21T14:18:35Z",
       "urls": [
         {
           "sign": "d4592b2aac8d53f31caf7535792ee6ea42112105dfe399ff8fe7b1287dee56f0",
@@ -6911,7 +6879,7 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos: Inkoon sataman tapauksessa ei todennäköisesti ympäristövahinkoa – epäillään muuta ainetta kuin öljyä",
+      "title": "Länsi-Uudenmaan pelastuslaitos: Inkoon vesinäytteistä ei löytynyt öljyä tai vaarallisia aineita",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -11065,7 +11033,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-21T16:13:00+03:00",
+      "updated": "2026-08-21T17:24:00+03:00",
       "urls": [
         {
           "sign": "5ae05398307b3798645858deeeee3a97ea8f5effdbc160b5e33cbf32646f33d3",
@@ -11074,7 +11042,7 @@
           ]
         }
       ],
-      "title": "SDP:n Aki Lindén ehdottaa hyvinvointialueindeksin leikkausta, puoluekollegat suhtautuvat kriittisesti",
+      "title": "SDP:n Aki Lindén ehdottaa hyvinvointialueindeksin leikkausta, puolueen sote-valiokunta pohtii esitystä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -12973,7 +12941,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T13:47:43Z",
+      "updated": "2026-08-21T14:18:03Z",
       "urls": [
         {
           "sign": "f1d3b176244d86a270524d6c2f397fe3469d604e6501af11977ec27c37049a6b",
@@ -12982,7 +12950,7 @@
           ]
         }
       ],
-      "title": "Alaston mies kysyi rahaa Turun keskustassa – poliisi ei näe vaaraa",
+      "title": "Alaston mies kysyi rahaa Turun keskustassa – poliisi: tilanne oli vaaraton",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13114,7 +13082,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T17:14:00+03:00",
+      "updated": "2026-08-21T17:15:00+03:00",
       "urls": [
         {
           "sign": "4043ee08001ddd2c22e83df8f911cefd26ea66ccbf6615c78e87f4937b2abe34",
@@ -13413,6 +13381,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T17:16:00+03:00",
+      "urls": [
+        {
+          "sign": "9fc1d39e88eef889d0649cbc97aaa8e972076c42ec36de9af0e2d7b746fa8682",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T14:21:51Z",
+      "urls": [
+        {
+          "sign": "3ce9820ed184fd89e4566076bbc1b0f21558657d4aed81db4f96a64a0b4afd64",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaisnainen sai sakot pakotteiden alaisten tavaroiden kuljettamisesta Viron tullissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
