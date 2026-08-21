@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T16:37:13Z",
+  "updated": "2026-08-21T20:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -1108,21 +1108,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T12:08:15Z",
-      "urls": [
-        {
-          "sign": "413984ef1a688d7399d3c06535e6ad8c72a2c18f49b92a544e4b92b2f4f2efe3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bussi ja kuorma-auto törmäsivät moottoritiellä Etelä-Brasiliassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-19T12:22:20Z",
       "urls": [
         {
@@ -1329,21 +1314,6 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T15:52:00+03:00",
-      "urls": [
-        {
-          "sign": "0f21291121944b4b73366cc05d8e9a0f24ab6da3f76fbd8dfb5505df92382e70",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin kansanterveysvirasto: tuhkarokkotapaukset kaksinkertaistuneet Urkult-festivaalin jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-19T12:58:21Z",
@@ -5348,21 +5318,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-20T12:50:31Z",
-      "urls": [
-        {
-          "sign": "547f185cec99944878e21bb504a98e752ede052cf2fb8fc3301b93dec15aee6d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nainen syytetään törkeästä ihmiskaupasta lapsien viemisestä Isis‑alueelle Syyriaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T13:14:45Z",
       "urls": [
         {
@@ -5436,23 +5391,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T12:57:33Z",
-      "urls": [
-        {
-          "sign": "4f2f52b1ba4540592fd594e7e88d421cdbfa089ab13ddbcb05c149f63f30c2e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Uudenmaan pelastuslaitos: Inkoon satamassa epäilty ympäristöonnettomuus ei ollut öljyä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T17:56:00+03:00",
@@ -13433,6 +13371,72 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "cf233225604c8b90f086bfa49175a99549412e5627b44de23fe271976b8b2c7d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-21T16:56:23Z",
+      "urls": [
+        {
+          "sign": "c9afa1358865782f4e5d5180bc001c91b39803db59537e4713b7e2defb6396fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Koulujen alkaessa Helsingin nuoret kokoontuvat puistoihin – poliisi valvoo mahdollisia levottomuuksia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T16:59:32Z",
+      "urls": [
+        {
+          "sign": "eb2e94935da6222adfce6e4ae96f4845708b43e5e075675dd20d55687f7861b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rovaniemen kaupunki myönsi valopuistolle vain yhden vuoden sopimuksen – yrittäjä pettyi lupauksiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T16:46:43Z",
+      "urls": [
+        {
+          "sign": "c585643f2470b3b5c374176b9eddc2ad29483abf153b0bc66dcbfa7ae4d986de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
     }
