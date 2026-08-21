@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T01:01:52Z",
+  "updated": "2026-08-21T02:00:00Z",
   "entries": [
     {
       "updated": "2026-07-31T03:00:20Z",
@@ -707,21 +707,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-18T14:06:00+03:00",
-      "urls": [
-        {
-          "sign": "27b6a4100e45b711bcb8f66723795f66a1c01f1a6a19b03e126d7434080c1851",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Israelin kansalainen löydettiin kuolleena Luhangan ampumaradan läheltä – poliisi tutkii kuolinsyytä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-18T19:29:00+03:00",
       "urls": [
         {
@@ -769,23 +754,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-18T11:42:55Z",
-      "urls": [
-        {
-          "sign": "4cb1fa7f8d668a785efe07970a79d2e0f26230aa1943ccd070bdf6acbbc16e78",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "YK: Vain kolme prosenttia Gazan viljelymaasta käyttökelpoista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-18T21:23:00+03:00",
@@ -5352,21 +5320,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-19T16:11:06Z",
-      "urls": [
-        {
-          "sign": "2a74ffec437c224b4f30da5b8073501137045a6b1d08a3b1f69c74a91aef424c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tiistai-iltana lukijat näkivät revontulia Parkanon Kirkkojärvellä ja Espoon Kivenlahdessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13380,6 +13333,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T02:00:00Z",
+      "urls": [
+        {
+          "sign": "d2b097ab931467eb7ccc8138d82e67155b95767c1406403f37797f186556e19b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turun yliopiston professori Ilari Sääksjärvi vahvistaa: Amazonin sademetsä on lähellä keikahduspistettä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T01:53:24Z",
+      "urls": [
+        {
+          "sign": "9614e2191d1a2587c5d6d8f50977eb9a08583b7b513569e199e5a43a7b9464eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos: Matalapaineen reitti epävarma – runsas sade voi aiheuttaa tulvia Pohjois-Pohjanmaalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T04:46:00+03:00",
+      "urls": [
+        {
+          "sign": "8b9b7230856c19e7aeb37ab64d7eb900ab15a80e5965903c8ab46173070808a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin sosiaalidemokraatit ehdottavat jengirikollisten koiranomistuskieltoa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
