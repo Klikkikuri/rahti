@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T19:53:52Z",
+  "updated": "2026-08-21T20:05:08Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -974,23 +974,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T12:33:35Z",
-      "urls": [
-        {
-          "sign": "b587a869cfdbe4012d4d9d3c752ef0a8f83bdde0fcba74b0c2c548feed297051",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Neljä Viron puoluetta tukee oikeuskansleri Ülle Madista presidenttiehdokkaaksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T12:36:33Z",
@@ -3574,21 +3557,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T15:04:08Z",
-      "urls": [
-        {
-          "sign": "f98003c6858409cadafc86ca90d76a55858948cc86a0b7300114c0f8676fc091",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset hakevat yhä useammin 40 vuoden asuntolainoja – Finanssivalvonnan asiantuntija varoittaa korkojen noususta ja hitaasta velan lyhentymisestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T06:33:18Z",
@@ -13433,6 +13401,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T20:05:08Z",
+      "urls": [
+        {
+          "sign": "43f7b2fd10e9a521ec43ed37f7a7658502bf834bca24327ad552dd7c122f4b84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Käräjäoikeus tuomitsi koulunkäynninohjaajan vankeuteen lasten salakatselusta ja koskettelusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T20:01:07Z",
+      "urls": [
+        {
+          "sign": "d299ceff6e9d92927fefc3208615fff38327a7a285e8a42ce384836426a6cd79",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Von der Leyen tuomitsee Israelin Länsirannan siirtokuntien laajennussuunnitelmat",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
