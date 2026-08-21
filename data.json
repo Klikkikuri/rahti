@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T00:07:00+03:00",
+  "updated": "2026-08-21T21:28:43Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -1019,23 +1019,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T12:34:26Z",
-      "urls": [
-        {
-          "sign": "97df0064996674ec0a8764e2eb4532f9a13ff16e35c99b6e7f6e31eca7c2df41",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kainuun hyvinvointialue erotti kaksi ja varoitti kuutta työntekijää: valvontavirasto moittii puutteellista omavalvontaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T12:50:28Z",
@@ -6174,21 +6157,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T15:06:35Z",
-      "urls": [
-        {
-          "sign": "4823fd8eae7b1c87f2d1011094ef2df31f5f9e4e7f3289b699ddd99d10db20d3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jääkiekkoilija Jani Hakanpää myi hyväntekeväisyysgolfissa kokkaamansa illallisen 8000 eurolla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T17:43:34Z",
@@ -13433,6 +13401,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T21:28:43Z",
+      "urls": [
+        {
+          "sign": "2c6f125bdb74b54423c8b9cb73165de6eeeb838124c091705f94968dbbd95f21",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eläinlääkärit hoitivat verkkopytonin leukasyövän sähkökemoterapialla Chesterin eläintarhassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T21:20:13Z",
+      "urls": [
+        {
+          "sign": "d41657d6e14fea1225e817db553f0dc0611dc8892da7f2054b3afb6a6b8d76c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WSJ: Yhdysvaltain maavoimaministeri Dan Driscoll eroaa vuoden lopussa puolustusministeri Hegsethin kanssa syttyneen kiistan vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
