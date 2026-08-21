@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T14:43:42Z",
+  "updated": "2026-08-21T14:56:34Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -758,21 +758,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T06:36:57Z",
-      "urls": [
-        {
-          "sign": "31edcf503df14bb1049704d4e90a858bd90d02f62cf5bd80409eaeda761e6ae7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain ja Etelä-Korean sotaharjoitukset päättyvät ennenaikaisesti Trumpin ilmoituksen myötä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T07:12:06Z",
       "urls": [
         {
@@ -1157,21 +1142,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T10:16:42Z",
-      "urls": [
-        {
-          "sign": "37c545b5c48b94f1f0ec2132363326632603db4d25cc3d8671c241eff9279700",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turun yliopiston tutkimus: Yli yhdeksän tunnin yöunet ja univaikeudet keski-iässä lyhentävät odotettua työuraa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T10:38:04Z",
@@ -6757,7 +6727,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T14:18:35Z",
+      "updated": "2026-08-21T14:47:25Z",
       "urls": [
         {
           "sign": "d4592b2aac8d53f31caf7535792ee6ea42112105dfe399ff8fe7b1287dee56f0",
@@ -13387,7 +13357,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-21T14:43:42Z",
+      "updated": "2026-08-21T14:53:49Z",
       "urls": [
         {
           "sign": "9894f5c9f3bef3d11fb9e625152a51bea37dee157fa3d96791ce4ac5adc1e0f7",
@@ -13396,7 +13366,7 @@
           ]
         }
       ],
-      "title": "Näyttelijä Aku Hirviniemen ja vasemmistopoliitikko Aino-Kaisa Pekosen isä Rauli Hirviniemi on kuollut",
+      "title": "Vasemmistopoliitikko Rauli Hirviniemi on kuollut 74-vuotiaana",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13417,6 +13387,40 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-21T14:56:34Z",
+      "urls": [
+        {
+          "sign": "c2ce36f8c84e95e4939189c8d1157f1439d2b87946157106e02d9f3bb9359723",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WWF:n öljyntorjuntajoukot aloittaneet Saimaan Haukiveden rantapuhdistustyöt",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T14:44:36Z",
+      "urls": [
+        {
+          "sign": "288d855b3a4f2eeefd95963e171e336c08855c966c5d9821872ac8945c8c61f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "S-Pankin tutkimus: Lähes joka kolmas lapsiperhe kertoo lähipiirin lapsen kokeneen nettikiusaamisen – joka viides epävarma toimintatavoista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
