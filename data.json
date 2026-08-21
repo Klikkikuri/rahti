@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T06:13:00+03:00",
+  "updated": "2026-08-21T03:20:56Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -783,38 +783,6 @@
       "title": "Super Bowl -voittaja O.J. Brigance kuoli 56-vuotiaana ALS:n jälkeen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-18T12:10:19Z",
-      "urls": [
-        {
-          "sign": "8efed1d2b11da6465689a99fd5daaa9fd2a3f0b620ef03629a3f0eac047217c7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies saa uudet syytteet Frida Karlssonin vainoamisesta ja lähestymiskiellon rikkomisesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-18T12:18:48Z",
-      "urls": [
-        {
-          "sign": "ba4b1e9c21ae9f209bcaa719144c5d8b09c67ee568f2bf95e68399f18402ceff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lindsay Clancy etsi tietoa psykoosista ja lääkkeistä ennen lastensa surmaamista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13358,6 +13326,41 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T03:20:56Z",
+      "urls": [
+        {
+          "sign": "fb59b7d2f9189caee108dfd3361724bacbeae1e8b135e7cf18eab75bab6354c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastuslaitos auttoi Oulussa kaksi kumiveneilijää, jotka olivat jääneet ilman airolta – muistuttaa turvavarusteista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-21T03:13:00Z",
+      "urls": [
+        {
+          "sign": "4725c2b97fd7decebb7b34474031113f362a494f754df9ba6339835a4a28afe2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perussuomalaiset haluavat kieliasiain neuvottelukuntaan suomen kielen edunvalvojan, RKP vastustaa muutosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
