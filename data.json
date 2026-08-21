@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-21T21:36:34Z",
+  "updated": "2026-08-21T22:12:16Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -4495,21 +4495,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T15:15:18Z",
-      "urls": [
-        {
-          "sign": "385943705b75bfdc82b391cd81983ec354e0b31e65b544dded5f0db843db89fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nokian entinen toimitusjohtaja Kalle Isokallio on kuollut 78-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T12:52:00+03:00",
@@ -13433,6 +13418,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-21T22:12:16Z",
+      "urls": [
+        {
+          "sign": "e3f6c0165ca201e55e11ec80a011df7afaf8082a1b8215187cccf5e100a35b6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WSJ:n mukaan Yhdysvaltain maavoimaministeri Dan Driscoll eroaa tehtävistään vuoden loppuun mennessä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
