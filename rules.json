@@ -1,0 +1,123 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Klikkikuri/suola/main/docs/rules.schema.json",
+  "sites": [
+    {
+      "domain": "aksa.fi",
+      "templates": [
+        {
+          "pattern": "^/(?P<ArticleTitle>[^/]+)/{0,1}?",
+          "template": "https://aksa.fi/{{ .ArticleTitle }}"
+        }
+      ]
+    },
+    {
+      "domain": "iltalehti.fi",
+      "templates": [
+        {
+          "pattern": "^/(?P<Section>[^/]+)/a/(?P<ArticleID>[^/]+)",
+          "template": "https://www.iltalehti.fi/{{ .Section }}/a/{{ .ArticleID }}",
+          "transform": {
+            "Section": "lowercase"
+          }
+        }
+      ]
+    },
+    {
+      "domain": "www.talouselama.fi",
+      "templates": [
+        {
+          "pattern": "^/uutiset/a/(?P<ArticleID>[0-9a-f-]{36})",
+          "template": "https://www.talouselama.fi/uutiset/a/{{ .ArticleID }}"
+        }
+      ]
+    },
+    {
+      "domain": "www.tivi.fi",
+      "templates": [
+        {
+          "pattern": "^/uutiset/a/(?P<ArticleID>[0-9a-f-]{36})",
+          "template": "https://www.tivi.fi/uutiset/a/{{ .ArticleID }}"
+        },
+        {
+          "pattern": "^/blogit/a/(?P<ArticleID>[0-9a-f-]{36})",
+          "template": "https://www.tivi.fi/blogit/a/{{ .ArticleID }}"
+        }
+      ]
+    },
+    {
+      "domain": "is.fi",
+      "templates": [
+        {
+          "pattern": "(?P<MaybeOutlet>^/[^/]+)?/(?P<Section>[^/]+)/(?P<ArticleDocument>[^/]+)",
+          "template": "https://www.is.fi{{ .MaybeOutlet }}/{{ .Section }}/{{ .ArticleDocument }}"
+        }
+      ]
+    },
+    {
+      "domain": "mtvuutiset.fi",
+      "templates": [
+        {
+          "pattern": "(?P<MaybeSection>^/[^/]+)?/artikkeli/(?P<ArticleTitle>[^/]+)/(?P<ArticleID>[^/]+)",
+          "template": "https://www.mtvuutiset.fi{{ .MaybeSection }}/artikkeli/{{ .ArticleTitle }}/{{ .ArticleID }}"
+        }
+      ]
+    },
+    {
+      "domain": "yle.fi",
+      "templates": [
+        {
+          "pattern": "/(uutiset|a)(/lyhyesti)?/(?P<ArticleID>[^/]+)",
+          "template": "https://yle.fi/a/{{ .ArticleID }}"
+        }
+      ]
+    },
+    {
+      "domain": "www.verkkouutiset.fi",
+      "templates": [
+        {
+          "pattern": "^/a/(?P<ArticleSlug>[^/]+)(?:/)?$",
+          "template": "https://www.verkkouutiset.fi/a/{{ .ArticleSlug }}/"
+        }
+      ]
+    },
+    {
+      "domain": "faktabaari.fi",
+      "templates": [
+        {
+          "pattern": "^/fakta/(?P<ArticleSlug>[^/]+)(?:/)?$",
+          "template": "https://faktabaari.fi/fakta/{{ .ArticleSlug }}/"
+        },
+        {
+          "pattern": "^/nakokulmat/(?P<OpinionSlug>[^/]+)(?:/)?$",
+          "template": "https://faktabaari.fi/nakokulmat/{{ .OpinionSlug }}/"
+        }
+      ]
+    },
+    {
+      "domain": "hs.fi",
+      "templates": [
+        {
+          "pattern": "^/(?P<Section>[^/]+)/art-(?P<ArticleID>[^/]+).html",
+          "template": "https://www.hs.fi/{{ .Section }}/art-{{ .ArticleID }}.html"
+        }
+      ]
+    },
+    {
+      "domain": "www.svt.se",
+      "templates": [
+        {
+          "pattern": "^/nyheter/lokalt/(?P<Region>[^/]+)/(?P<ArticleSlug>[^/]+)/?$",
+          "template": "https://www.svt.se/nyheter/lokalt/{{ .Region }}/{{ .ArticleSlug }}"
+        },
+        {
+          "pattern": "^/nyheter/(?P<Category>inrikes|utrikes)/(?P<ArticleSlug>[^/]+)/?$",
+          "template": "https://www.svt.se/nyheter/{{ .Category }}/{{ .ArticleSlug }}"
+        },
+        {
+          "pattern": "^/nyhetskoll/(?P<ArticleSlug>[^/]+)/?$",
+          "template": "https://www.svt.se/nyhetskoll/{{ .ArticleSlug }}"
+        }
+      ]
+    }
+  ]
+}
