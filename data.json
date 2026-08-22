@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T11:27:40Z",
+  "updated": "2026-08-22T11:40:43Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -705,21 +705,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-19T14:53:23Z",
-      "urls": [
-        {
-          "sign": "df590e3a1faadb82d241c4ce9dcfdefa1d46a8b0547d1cd6a1052a7e9bb6444b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nicolas Aubé‑Kubel siirtyy KHL:ään Valko‑Venäläiseen Dinamo Minskiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-19T15:22:49Z",
@@ -5471,21 +5456,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T03:04:43Z",
-      "urls": [
-        {
-          "sign": "f5db1d58e8e6e672ecac46184e983b9e5d5b2554d6af7dc120bdc5ae4f263911",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ristomatti Hakola jatkaa hiihtouraansa – uusi valmennusryhmä ja perhe tukevat päätöstä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T03:00:35Z",
@@ -13439,6 +13409,40 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T11:40:43Z",
+      "urls": [
+        {
+          "sign": "7eee61bbfddaf051e2e671de3e40b0abb56f1b594946718e245ba0320d4af9fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kruununprinsessa Victoria ja prinssi Daniel vierailivat Naantalissa presidentti Stubbin vieraana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T11:36:25Z",
+      "urls": [
+        {
+          "sign": "b025e46d2fc20710bd1495c9ac8f56e70c8d52fbc7d0edb67b1527b582774d40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Isä sai viranomaisilta nuhteen, kun jätti 7-vuotiaan poikansa yksin Fujin kiipeilyreitille",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
