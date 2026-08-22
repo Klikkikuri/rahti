@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T04:59:46Z",
+  "updated": "2026-08-22T05:03:00Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -707,21 +707,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T11:14:53Z",
-      "urls": [
-        {
-          "sign": "e42da0584d96ef69f90cdf0859c38dc06bc51adf45de5cfe39c8058d5d8ba0ce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aston Villa hankkii maalivahti Suzukin ja puolustaja Ruggerin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T11:46:24Z",
       "urls": [
         {
@@ -1236,23 +1221,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-19T18:45:00+03:00",
-      "urls": [
-        {
-          "sign": "971b03ff56d8d541d4cb2216b49a024d2ee1110ed077e8eb6fe6291a70062c9e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Päättäjien leikkauspolitiikka aiheuttaa terveyspalvelujen epätasaista jakautumista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-20T17:22:00+03:00",
@@ -5414,21 +5382,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T16:24:38Z",
-      "urls": [
-        {
-          "sign": "a2f819fcacd957e23bb3f070ccfe213a4cddccbe89a57e6268879f18819381be",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Hippos tuomitsi ravivalmentajat Pertti Puikkosen ja Mari Leinosen dopingrikkomuksista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T13:36:13Z",
@@ -13443,6 +13396,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T05:03:00Z",
+      "urls": [
+        {
+          "sign": "adb840aa1fe9283be6389caf39dc64d58e43792ac7663b778b5c9013cf544280",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maajussille morsian -tähti Tarja avautuu suhteestaan: tutustui miesystävänsä kanssa aluksi tarkoituksella hitaasti",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T05:02:28Z",
+      "urls": [
+        {
+          "sign": "e39c85794b9b1e5ef8164acca9b4c39d47bd300e51959bf2333b3614b5be2ae8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Voimisteluvaatteiden kokomitoitus vaihtelee merkittävästi; ulkomaisten merkkien pienet koot herättävät huolta nuorten kehonkuvasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "337858dfa8a4be83adbae4361f2a9fee0c90ea4fc3d623da0a0a3d9b783a313c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolme vaihtoehtoista pastaruokaa elo- ja syyskuun sesonkiin",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
