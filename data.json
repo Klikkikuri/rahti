@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T00:16:31Z",
+  "updated": "2026-08-22T03:41:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -1527,23 +1527,6 @@
       "title": "Tähtitieteilijät löysivät Linnunradan nopeimman tähden S301, joka kiitää 25 000 km/s Sagittarius A*:n ympäri",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9bb670d8d36142305cc9c9379972f96bfe2d693dc0ce4c4a2a42add2e1abca82",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13437,6 +13420,21 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T03:41:00+03:00",
+      "urls": [
+        {
+          "sign": "d5ed25cfc4c2ea6436eb6a08c157e4d67b9c2249cc326a20a98db6baa80c4666",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "TikTok sopii Yhdysvaltain oikeusministeriön kanssa: yhtiö maksaa 400 miljoonaa dollaria lasten tietosuojasääntöjen rikkomisesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
