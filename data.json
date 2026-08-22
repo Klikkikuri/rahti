@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T18:15:03Z",
+  "updated": "2026-08-22T18:25:34Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -5634,21 +5634,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-21T08:15:57Z",
-      "urls": [
-        {
-          "sign": "f7beade99eac78bcd2e47213c79ae3227452224b15b3359497248fb94b0d2339",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tekoälyjen kriittinen vertailu tuottaa ihmisen johdolla laadukkaampia vastauksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T08:24:13Z",
@@ -12510,7 +12495,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T14:36:47Z",
+      "updated": "2026-08-22T18:24:07Z",
       "urls": [
         {
           "sign": "0f7d1749aa2964f12f91721bd02b9e05002dfeb140dd17171955f562cca0ef4e",
@@ -12521,7 +12506,9 @@
       ],
       "title": "Ukrainan entinen ulkoministeri Dmytro Kuleba arvioi: Venäjän ja Ukrainan sota ajautuu pattitilanteeseen ja muuttuu yhä tuhoisammaksi",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13418,7 +13405,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-22T18:14:15Z",
+      "updated": "2026-08-22T18:16:35Z",
       "urls": [
         {
           "sign": "7f08e75802c0a1afdeb63a684f308d6e1235542aefd0a4bbf40383406f028be8",
@@ -13427,8 +13414,8 @@
           ]
         }
       ],
-      "title": "Hyvinvointivaikuttaja Karita Tykkä ja koreografi Sami Saikkonen vahvistavat kihlauksensa Instagram-julkaisullaan",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Hyvinvointivaikuttaja Karita Tykkä ja tanssija-koreografi Sami Saikkonen vahvistavat kihlauksensa Instagram-julkaisullaan",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13459,6 +13446,21 @@
       ],
       "title": "Iltalehti haastatteli junassa vuonna 1945 syntyneen Seppo Jokisen, 80",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T18:25:34Z",
+      "urls": [
+        {
+          "sign": "912f89621f71df9c98ba79f996f01948252169cd634117b0f4488eab57474a22",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: Staattinen seinäkyykky alentaa naisten verenpainetta harjoituksen jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
