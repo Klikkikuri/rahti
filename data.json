@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T17:26:00Z",
+  "updated": "2026-08-22T20:40:00+03:00",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -1595,21 +1595,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T10:52:00+03:00",
-      "urls": [
-        {
-          "sign": "ed9339d09f165fc9f8e8c2cac5f4beaf4ee47ef8fa1215e92b48ea569dca90af",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rkp esittää työttömyysturvan suojaosan palauttamista ja kutsuu sen poistoa epäonnistuneeksi kokeiluksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-20T08:52:56Z",
@@ -5694,21 +5679,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-21T08:11:26Z",
-      "urls": [
-        {
-          "sign": "a4fb9c9c938095271f9103e1c502aaa9c58db2380b51f4e7cbfeede61cda33bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomuksen kansanedustaja Susanne Päivärinta vaatii hallitukselta perintö- ja lahjaveron täydellistä uudistamista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T08:15:57Z",
@@ -13045,7 +13015,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T16:00:00Z",
+      "updated": "2026-08-22T17:35:58Z",
       "urls": [
         {
           "sign": "ac03c8bd418282df243c4768ec1d7329e2b466b76c660d4ad01d218904b97bb5",
@@ -13054,7 +13024,7 @@
           ]
         }
       ],
-      "title": "Meteorologi varoittaa sähkökatkoista: Rankkasateet ja kovat tuulet saapuvat illaksi etelä- ja itä-Suomeen",
+      "title": "Myrsky tuo rankkasateita ja kovia tuulia etelä- ja itä-Suomeen; meteorologi varoittaa sähkökatkoista",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13454,6 +13424,42 @@
       "title": "Ilmatieteen laitos varoittaa voimakkaasta tuulesta: Etelä- ja itäosassa voi syntyä vahinkoja lauantai-iltana",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T20:40:00+03:00",
+      "urls": [
+        {
+          "sign": "d66c5ded814ab0fbe0e3ab0ced50396f9ffe760cb3633f404172188c4dbfb483",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaiset sukeltajat noutuivat hukkuneen miehen hylystä Latvian edustalta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T17:37:37Z",
+      "urls": [
+        {
+          "sign": "b1b7749de6fcec3df6d87668d44cc23b6c311e5207e1b2f8c5c6b1036a27a23b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "313825dccd42f8e74ed274ecc9888e3b74134c7a8988f4b4d05941bb3159ed2f",
+          "labels": []
+        }
+      ],
+      "title": "Fortum ja Tornator solmivat sopimuksen Itä-Suomen tuulivoimahankkeiden edistämiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
