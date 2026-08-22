@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T12:39:58Z",
+  "updated": "2026-08-22T16:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -49,7 +49,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T09:45:51Z",
+      "updated": "2026-08-22T12:47:23Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -58,8 +58,8 @@
           ]
         }
       ],
-      "title": "Iltalehden liveseurannassa käydään läpi Venäjän valtiollisen propagandan käyttöä ja sen kasvavaa kohdistumista Suomeen",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Iltalehti käsittelee Venäjän valtiollista propagandaa ja sen kasvavaa kohdistumista Suomeen",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -707,21 +707,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-19T15:22:49Z",
-      "urls": [
-        {
-          "sign": "8f3e3b6646a51f40da3a6c144b9ae258e0d261a0d2cf4a733f635188995ab59a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Expressenin mukaan Ilveksen Jardell Kanga on siirtohuhujen kohteena – Motherwell lähellä sopimusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-20T17:22:00+03:00",
       "urls": [
         {
@@ -1289,21 +1274,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "fbd3bf46168d64827242661bdbaeabcfb125281aa00333c052d547a369513193",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Soili Holstikko keräsi suuren Aino Kallas -kokoelman ja kuoli 82-vuotiaana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -12317,7 +12287,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-22T11:16:00+03:00",
+      "updated": "2026-08-22T15:56:00+03:00",
       "urls": [
         {
           "sign": "077c7e97d7a8a6cb90419eea4c74a7b132df252c01b6154c7e286ebe801a74e8",
@@ -12326,8 +12296,8 @@
           ]
         }
       ],
-      "title": "Poliisi käytti etälamautinta 16-vuotiaaseen poikaan Uudessakaarlepyyn torilla",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Poliisi käytti etälamautinta 16-vuotiaaseen Uudessakaarlepyyssä vastarinnan jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13447,6 +13417,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T16:00:00+03:00",
+      "urls": [
+        {
+          "sign": "2c210c95cc00514e23073975453590b75a1570e009a8d52bde2b9fdf058f56f6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T12:48:28Z",
+      "urls": [
+        {
+          "sign": "7e675531018bbef874666d067887f86d198a3b12efd8959dc8abafa5cede776e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "17-vuotias Jere Murto heitti keihäänheiton alle 17-vuotiaiden maailmanennätyksen 82,88 metrillä Kälviällä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T12:48:48Z",
+      "urls": [
+        {
+          "sign": "c92cf64369be6410f107857b9a02e866b6074a159056f56450eacdd05e27b0c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Huima juhlii 80-vuotiasta toimintaansa: entiset pelaajat muistelevat menestystä ja valmentaja tavoittelee sarjavoittoa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Äks"
     }
   ]
 }
