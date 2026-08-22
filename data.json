@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T20:45:15Z",
+  "updated": "2026-08-23T00:02:00+03:00",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -1441,21 +1441,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "818d2465ca92edf55faa44d957819fc6594020c13d0bfd5d7a010cf27d7348bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helppo kesäkurpitsalasagne: yksi kastike, ei pastalevyjä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-20T04:29:02Z",
@@ -13465,6 +13450,23 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T00:02:00+03:00",
+      "urls": [
+        {
+          "sign": "93b7135eb659a6ac0533bfd0236b4b40ea4758d3aa0e93f1bbf9691b9328af4c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lastenkoti paloi Helsingin Mellunmäessä lauantai-iltana – poliisi tutkii syttymissyytä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
