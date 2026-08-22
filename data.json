@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T06:05:02Z",
+  "updated": "2026-08-22T06:20:03Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -733,21 +733,6 @@
       ],
       "title": "Poliisi tutkii Helsingin Merihaassa tapahtunutta koirahyökkäystä, jossa pieni koira on kriittisessä tilassa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T12:02:18Z",
-      "urls": [
-        {
-          "sign": "4d8944d517381692bf435f64e2f6b72b6aeebb52a25873f6fb51a3eae07fe1f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "...",
-      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -5942,23 +5927,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T17:13:24Z",
-      "urls": [
-        {
-          "sign": "9173b001f5a752db18612cd20345e3263afeee4e268d4ae93e13d6f21b442d97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T17:11:49Z",
@@ -13447,6 +13415,36 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T06:20:03Z",
+      "urls": [
+        {
+          "sign": "13c5742c9b5befac2d235fff25468581c674504a0bbd9e95510029d104445dec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "*Pearadise-kultin synkät salaisuudet* tänään: Dokumentti käsittelee syytöksiä seksuaalisesta väkivallasta, tekijät varoittavat eksplisiittisestä sisällöstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T06:16:26Z",
+      "urls": [
+        {
+          "sign": "5317ca01f5d3ce716546e793f8eab9d36c1408bacec88b91735055c3c4a9a435",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sebastien Ogier selitti uusautotestien poissaolonsa ja vältti kysymyksen uran jatkamisesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
