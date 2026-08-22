@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T05:03:00Z",
+  "updated": "2026-08-22T05:33:29Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -707,21 +707,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T11:46:24Z",
-      "urls": [
-        {
-          "sign": "940e08635acc71fbff3ead8fc9dd5b2580b135a9e50df44170f13689b800dc29",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Toimittaja Renaz Ebrahimi jätti Petollisten mediatilaisuuden väliin ja kertoo osallistumisensa aiheuttaneen hänelle ahdistusta.",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T12:06:30Z",
       "urls": [
         {
@@ -1234,21 +1219,6 @@
       ],
       "title": "Rahtialus Nina vuoti öljyä Haukivedelle täytön aikana – omistaja vahvistaa letkun irronneen ja valvonnan puuttuneen",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T18:59:00+03:00",
-      "urls": [
-        {
-          "sign": "2cc40c83dc2d612daf423f92afc489fff82f28a92a749ee5e4e689d725e82bbe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Andy Burnham ilmoittaa 100 miljoonan punnan lisärahoituksesta kodittomien asuntojen hankintaan jouluksi mennessä, esikuvana Suomen asunnottomuuden vähentämismalli",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -5602,21 +5572,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T16:35:00Z",
-      "urls": [
-        {
-          "sign": "faea4d82c30a8d62571f621fcf0a8cdb091880ba8e2d6ed45773dc73a3b87b94",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vappu Pimiä ei katunut Tanssii tähtien kanssa -juontajan pestinsä päättämistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T11:43:27Z",
@@ -13445,6 +13400,53 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T08:30:00+03:00",
+      "urls": [
+        {
+          "sign": "4454555b6c1cffeedfbda090ee5d43e0b8b8b9129d5ef31f0e978047ee18dc66",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nasujaiskiellot kohtaavat käytännön esteen: perinne järjestetään vapaaehtoisesti koulun ulkopuolella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T05:27:00Z",
+      "urls": [
+        {
+          "sign": "797b2d172c447e458e4ab22f6123a520d9ddb96d549dcc03c030053a6d5e7951",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Optometristi Riikka Torvela: Ruututyöskentely hidastaa räpyttelyä ja aiheuttaa kuivasilmäisyyttä – ehkäisy vaatii säännöllisiä katseenvaihtoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T05:33:29Z",
+      "urls": [
+        {
+          "sign": "82635d3e358a3e2880231fe6e62cadc797e62cbaebff049ed202b1b9f9716fa3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ravintolisia ei tarkasteta ennen myyntiä – Ruokavirasto muistuttaa yhteisvaikutuksista ja laadunvalvonnan puutteesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
