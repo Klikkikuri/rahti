@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T04:28:33Z",
+  "updated": "2026-08-22T04:43:54Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -722,23 +722,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T10:58:59Z",
-      "urls": [
-        {
-          "sign": "5bff59060e1f21d142167d5654f7e90fb3bd8686383bcb84fdf9495cfe3f8d5e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomus ehdottaa kotihoidontuen poistoa ja vanhempainpäivärahan uudistusta naisten työllisyyden parantamiseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T11:14:53Z",
       "urls": [
         {
@@ -752,21 +735,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T18:29:00+03:00",
-      "urls": [
-        {
-          "sign": "4ff05c651a12b5afdf3b7359068818b7827001015efbc1a18e15bca743868f6c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eläinoikeusjärjestö Vera:n salaa kuvatut videot paljastavat sikoihin kohdistuvaa väkivaltaa ja huonoja olosuhteita sikaloissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-19T11:46:24Z",
@@ -5757,23 +5725,6 @@
       "title": "MTV:n toimittaja Joonas Lepistön ystävät järjestävät muistokonsertin Tampereelle 30. elokuuta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-20T15:55:24Z",
-      "urls": [
-        {
-          "sign": "7706b7bdbcc3a8f8beb5e22d29f86a70a4d784df0b187ced9df59b58b2121b40",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Hayden Panettieren kuolemaa mahdollisena rikoksena – DEA liittyy tutkintaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13441,6 +13392,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T07:30:00+03:00",
+      "urls": [
+        {
+          "sign": "81afdf93d6d8490ab49e6e4a1947986abe1718907678d793a3c1ca3a5d3a00ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T04:30:08Z",
+      "urls": [
+        {
+          "sign": "ecc2d3e27cef49e417a7fec17ee0aea165f3c8b87a3b0cb1a112b5b00def2182",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T04:43:54Z",
+      "urls": [
+        {
+          "sign": "85457646e0802e2773c6f80f66c230461f5e1ffc9adf9d15da34ef9d91093431",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallitseva mestari Arsenal voitti Coventryn 3–0 Valioliigan avauskierroksella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
