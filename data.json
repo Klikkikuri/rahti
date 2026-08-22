@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T10:28:55Z",
+  "updated": "2026-08-22T10:45:43Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -709,23 +709,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T13:47:00Z",
-      "urls": [
-        {
-          "sign": "dea8143c0e9a83c8f5b40848be5de01f4acb5f4b84036eb7099db0821781cba7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsalainen Ica-kauppa myy valmiiksi kuorittuja banaaneja ja herättää keskustelua muovikuormituksesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T14:04:17Z",
       "urls": [
         {
@@ -1154,23 +1137,6 @@
       "title": "Asiantuntija varoittaa: poliisin etälamautinta ei saa käyttää portaissa tai korkeilla paikoilla",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-19T15:51:08Z",
-      "urls": [
-        {
-          "sign": "dc86b5a986839aa50ac0467249486eb8b67e577b650ebbfb9ed04343a3235813",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläinen tehdas Moskovassa käyttää pohjoiskorealaisia työharjoittelijoita suomalaiselta näyttävän kissanruuan pakkaamiseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -13283,7 +13249,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-22T10:18:56Z",
+      "updated": "2026-08-22T10:43:34Z",
       "urls": [
         {
           "sign": "e5f1c1e1f0142a1cdc530550b730c07f14727932086aa20e1d138b67c4be87b7",
@@ -13292,7 +13258,7 @@
           ]
         }
       ],
-      "title": "George Russell nopein F1-sprintin aika-ajoissa; Viaplayn lähetyksessä tuotiin esiin kilpailun haasteet",
+      "title": "George Russell ajanut nopeimman F1-sprintin aika-ajan; IL seuraa kilpailun päätöskierroksen tapahtumia",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13439,6 +13405,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T10:39:42Z",
+      "urls": [
+        {
+          "sign": "9ec6f3f0c283d8cd3b05e687f7f06d0260d1ea4ed46ec305e414fddb40b165eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä iski drooneilla ostoskeskukseen Ukrainan Kryvyi Rihissä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T10:45:43Z",
+      "urls": [
+        {
+          "sign": "34cb5d95cd34665dd9f676cd76949ee7fe9b1a5c57ed673fc6ce475d286a6add",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän viranomaiset hylkäsivät kommunistisen puolueen ehdokkaan Navalny-kuvan vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
