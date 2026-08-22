@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T11:40:43Z",
+  "updated": "2026-08-22T11:59:02Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -818,23 +818,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T16:07:12Z",
-      "urls": [
-        {
-          "sign": "679b1d4ed0cf56c97a09644fc6054697407fa12f5fc66b78802bdef184da206a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos: Saimaan öljyvahingon siivoaminen voi kestää viikkoja – jokainen kivi pestään käsin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T15:14:18Z",
@@ -5527,21 +5510,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T03:30:55Z",
-      "urls": [
-        {
-          "sign": "943ffe8b08e2cce232daacd6bd139d92a8a3eaa4ff132a4e1e33834ecafcb2ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP:n luottamus Minja Koskelaan vaikuttaa ratkaisevasti seuraavan hallituksen kokoonpanoon",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T03:35:59Z",
       "urls": [
         {
@@ -5574,21 +5542,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-21T03:48:15Z",
-      "urls": [
-        {
-          "sign": "11372e10969ea5288668fd7eaca1ad3f984465fdd4709b28771af302bd69ffe5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Atte Ohtamaa päättää uransa jatkosta lähiviikkoina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T04:04:01Z",
@@ -8651,7 +8604,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T16:33:00+03:00",
+      "updated": "2026-08-21T16:35:00+03:00",
       "urls": [
         {
           "sign": "8d3d8efbcd22c57166e1aafbffe1dd2e55e589e0aed74db1f639ad20efd2a187",
@@ -13445,6 +13398,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T11:59:02Z",
+      "urls": [
+        {
+          "sign": "333ba88744482b26dee5f2f4191d0abac657a9f20d4680c18cd9064e9abca474",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "0c9bc71a178f8065624c0e16b171eebc66ac5f2585a882a6de6d3582acab438a",
+          "labels": []
+        }
+      ],
+      "title": "Danske Bankin tutkimus: Talousodotukset nousseet viiden vuoden korkeimmalle tasolle, rahahuolia ja kahtiajakoa kasvaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T11:55:34Z",
+      "urls": [
+        {
+          "sign": "4ff94d31e7409a719544707bd6cef11367ac4f9d4702bd5a52d934fad9df6de4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä-Korea lähettää konttialuksen arktiselle reitille selvittääkseen sen kannattavuutta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T11:47:56Z",
+      "urls": [
+        {
+          "sign": "0aa5759284fb74cb99f190a3f330c55354463445c43394648ee37ff39e43c997",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brentford vastaan Tottenham Valioliigan avauksessa: Spursin aloitus vaikeutuu loukkaantumisten ja valmennusvaihdoksen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
