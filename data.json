@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T13:44:01Z",
+  "updated": "2026-08-22T13:57:47Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -786,23 +786,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T16:39:10Z",
-      "urls": [
-        {
-          "sign": "563bfd484158a93decbb6be69fe2cde04c5e190d2ccbb6d327fa8f37ee0b8aa2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "YK:n ihmisoikeusvaltuutettu Volker Türk tuomitsee Yhdysvaltain pakotteet ICC:n virkamiehiä vastaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-20T05:58:00+03:00",
       "urls": [
         {
@@ -831,21 +814,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T16:44:54Z",
-      "urls": [
-        {
-          "sign": "0d41a4a297dd42c36985a68517214e27848c6f57bdd1b8e58be5c0a67f7132bc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija varoittaa: poliisin etälamautinta ei saa käyttää portaissa tai korkeilla paikoilla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T17:00:36Z",
@@ -1175,23 +1143,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "97a0f3db433280820b7b85057c8720e0ad5826a5fa932b0ec990776675f5a3e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-20T03:25:00+03:00",
@@ -5608,21 +5559,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T05:55:01Z",
-      "urls": [
-        {
-          "sign": "9323ee5118e64120916ae246f57f5f9e18d9636ff3aa808086bc47d0b31c6262",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cessna-vuokrakone syöksyi maahan Länsi-Alaskassa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T10:54:00+03:00",
@@ -12441,7 +12377,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-22T12:45:00+03:00",
+      "updated": "2026-08-22T16:57:00+03:00",
       "urls": [
         {
           "sign": "faa9c85c1f2a29e54836a6bb76960a75c9a4836f33f36e758a7efded6c94bfa7",
@@ -12450,8 +12386,8 @@
           ]
         }
       ],
-      "title": "Poliisiauto ja henkilöauto törmäsivät Koillis-Englannissa – useita kuoli",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Poliisiauto ja henkilöauto törmäsivät Koillis-Englannissa takaa-ajon aikana – useita kuollut",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13460,6 +13396,73 @@
       "title": "Pekka Terävä AI -tekoälykeittokirjan testi: käytännön vinkit toimivat, mutta tekoälyn kuvitus ja ääni tuottavat ongelmia",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T13:57:47Z",
+      "urls": [
+        {
+          "sign": "5263d11920897a66ae6f0bf053aae66ee6f16760b78a0682fdc5bee571f62301",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yrittäjien luottamus kääntyy nousuun – Suomen Yrittäjien toimitusjohtajan mukaan rekrytointi voi vilkastua syksyllä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T16:45:00+03:00",
+      "urls": [
+        {
+          "sign": "b4d28a7f9643a3a75f9557e8b1cadf4126d5834a24400cfd2364d9fe8c631e53",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maria Jauhiainen: Hyvinvointivaltion rahoitusta tulee uudistaa, kunhan hyvinvointi asetetaan talouskasvun edelle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T13:56:06Z",
+      "urls": [
+        {
+          "sign": "a04676cbbf7151cf139c124081726e4f3dbd7b14743b59d4fa5a75c19925c7fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lähde: Fagerstan kouluiskun epäilty seurannut väkivaltavideoita ja äärioikeistolaisia ryhmiä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T13:51:20Z",
+      "urls": [
+        {
+          "sign": "071b6f5bf4b40253dccd5b66c5d8bb7e603f1dfe61f1f7dccce11b7478ec1334",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
       "outlet": "Iltalehti"
     }
   ]
