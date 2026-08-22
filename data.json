@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T14:11:05Z",
+  "updated": "2026-08-22T14:26:36Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -722,23 +722,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T16:01:00Z",
-      "urls": [
-        {
-          "sign": "7ddf4727c07e8553bc556c0ca170f7eff5d60c393cb480556c77f136b6a3fc72",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuningatar Camilla: Charlesin syöpädiagnoosin salassapito oli melko hankalaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T16:43:14Z",
       "urls": [
         {
@@ -799,24 +782,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T17:00:36Z",
-      "urls": [
-        {
-          "sign": "bdf74cc26be5199f2532c7984c033d4b8a1357fdb06e703cfe35e98a1bd9bc13",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ajovarma lopettaa 15 toimipistettä ja irtisanoo 330 työntekijää vuoden loppuun mennessä – CityKuljettajat etsii tiloja kauppakeskuksista ajokokeiden järjestämiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T17:26:06Z",
@@ -5576,40 +5541,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T06:04:10Z",
-      "urls": [
-        {
-          "sign": "0e969e917472d74278839b5266cf89bd47cb436290768bad6546e474924aa257",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Apeti raportoi toisen neljänneksen liiketappion nousseen 4,5 miljoonaan euroon raaka-aineiden hintojen ja tehtaan sulkemisen vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T06:10:27Z",
-      "urls": [
-        {
-          "sign": "4e1d87798825fc25d557f0776f41cf1d7a87172b54c3b0b936f0e334ce37bf40",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusvoimien paikallispuolustusharjoitus käynnistyy Uudellamaalla: satoja sotilaita harjoittelee alueen varautumista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T09:04:00+03:00",
       "urls": [
         {
@@ -5623,21 +5554,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T06:09:05Z",
-      "urls": [
-        {
-          "sign": "3fa8497746acd072bf565fb0c48f5b2878a4036740b54ac7bf3cc58388fdb620",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Egyptin päävalmentaja Hossam Hassan erosi suullisesti ensimmäisestä vaimostaan kahvilariidan jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T06:13:26Z",
@@ -13399,7 +13315,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-22T14:11:05Z",
+      "updated": "2026-08-22T14:21:58Z",
       "urls": [
         {
           "sign": "071b6f5bf4b40253dccd5b66c5d8bb7e603f1dfe61f1f7dccce11b7478ec1334",
@@ -13462,6 +13378,91 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T14:19:51Z",
+      "urls": [
+        {
+          "sign": "787b7c4ac6c05bdd8ba411be57f1216f0ccb2908e42183f2e143cf9ad7a166e2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T14:26:22Z",
+      "urls": [
+        {
+          "sign": "3f4917db7730e302838e0e36f5628ef189ef9c386fdcd5faa433011583295e78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jääkiekkomaalivahti Emil Larmi koristaa maskinsa siivillä muistoksi perheen menetyksistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T14:23:52Z",
+      "urls": [
+        {
+          "sign": "38c752402bc5fdd73f4804e0a98c95debe4a136342c0c52e8d33ccc72e470595",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat käynnistävät Kittilän, Abiskon ja Utsjoen mittausasemien yhteisen kauden yläilmakehän tutkimiseen avaruussäävaikutusten selvittämiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T14:26:36Z",
+      "urls": [
+        {
+          "sign": "afcc185e6afb6774783929f107a6647874917568d74255b845965aacca0612ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T14:14:00Z",
+      "urls": [
+        {
+          "sign": "634f06d256754109fa324f45828cce4fb41424f5a1095da31c7aabe34f16f301",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
