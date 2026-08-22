@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T03:41:00+03:00",
+  "updated": "2026-08-22T05:04:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -1512,21 +1512,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "768b7bc2cbbeea863792d5aa551ea24cf20547268caae74d923ca637daf0eca7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tähtitieteilijät löysivät Linnunradan nopeimman tähden S301, joka kiitää 25 000 km/s Sagittarius A*:n ympäri",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13434,6 +13419,23 @@
       "title": "TikTok sopii Yhdysvaltain oikeusministeriön kanssa: yhtiö maksaa 400 miljoonaa dollaria lasten tietosuojasääntöjen rikkomisesta",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T05:04:00+03:00",
+      "urls": [
+        {
+          "sign": "82c6a82d2f4e3c79201c2ac18dfbe185856401100a36ac6d2c9de0ba23b8eb42",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Virolahdessa auto törmäsi karhuun – poliisi etsii loukkaantunutta eläintä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
