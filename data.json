@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T12:29:24Z",
+  "updated": "2026-08-22T12:39:58Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -1303,21 +1303,6 @@
       ],
       "title": "Soili Holstikko keräsi suuren Aino Kallas -kokoelman ja kuoli 82-vuotiaana",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "672194b486c70d89772a7b0247e1f987528227531f9652be39ee158472ceb216",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyvä opetus edellyttää opiskelijan aktiivista ajattelua – resurssit eivät yksin takaa laatua",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -5574,21 +5559,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-21T04:39:22Z",
-      "urls": [
-        {
-          "sign": "d30fd7dae0d2379c865361d6f18cdc42f140210c45c08b5a5e8f84c873e8e7b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putinin Kuriili-vierailu on sisäpoliittinen taktiikka, arvioi oppositiohahmo Hodorkovski",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T04:45:59Z",
@@ -13254,7 +13224,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-22T12:03:43Z",
+      "updated": "2026-08-22T12:38:47Z",
       "urls": [
         {
           "sign": "837bc23d15e1babce9169a82dd403e51ad7b5f6d46a32e1f6dde336db2f65d25",
@@ -13263,8 +13233,8 @@
           ]
         }
       ],
-      "title": "Poliisi käytti etälamautinta 16-vuotiaaseen Uudessakaarlepyyssä – voimankäytön perusteita selvitetään",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Poliisi käytti etälamautinta 16-vuotiaaseen Uudessakaarlepyyssä vastarinnan ja pahoinpitelyn vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13286,7 +13256,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-22T12:22:49Z",
+      "updated": "2026-08-22T12:39:58Z",
       "urls": [
         {
           "sign": "7c184e6b48686c25cc054621ca1385734200b20677f2f5c34a357c9bfa199503",
@@ -13445,6 +13415,38 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T12:35:04Z",
+      "urls": [
+        {
+          "sign": "f9f76818e3ef2ec180322ae200711be739e87a55c351707dda82f04746d5e627",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "17-vuotias Jere Murto heitti Kälviällä 82,88 metriä ja saavutti uudella keihäsmallilla 17-vuotiaiden kaikkien aikojen kärkituloksen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T15:36:00+03:00",
+      "urls": [
+        {
+          "sign": "3efd9cd1c09f3194358bc43f78a12cd6e3f86eff2fadaca22752c209303a6b63",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
