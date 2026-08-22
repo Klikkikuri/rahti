@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T13:57:47Z",
+  "updated": "2026-08-22T14:11:05Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -722,21 +722,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T15:59:31Z",
-      "urls": [
-        {
-          "sign": "1fdbc5caf04357eeb8d62cd3562ce02dc946dd497fe13609418ccfaddb5fe6a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotta Kemppinen juoksi 100 metriä ajassa 10,95 Espoon Leppävaaran GP-finaalissa – aika ei kelpaa tilastoihin 2,3 m/s myötätuulen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T16:01:00Z",
       "urls": [
         {
@@ -1143,23 +1128,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T03:25:00+03:00",
-      "urls": [
-        {
-          "sign": "f25b8f12bfdda0232cb0c2c64ce683b095fcdda4b69bfa0d24ea59a7e261c664",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sitra: Yli puolet suomalaisista kannattaa Kanadan EU-jäsenyyttä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-20T02:00:00Z",
@@ -5719,23 +5687,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-21T06:00:45Z",
-      "urls": [
-        {
-          "sign": "0b4534d95d03bdbf678a4a8b8706c01c2034e1c30fd38ac46d7185c475a98775",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T06:06:03Z",
@@ -12377,7 +12328,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-22T16:57:00+03:00",
+      "updated": "2026-08-22T17:09:00+03:00",
       "urls": [
         {
           "sign": "faa9c85c1f2a29e54836a6bb76960a75c9a4836f33f36e758a7efded6c94bfa7",
@@ -12387,7 +12338,7 @@
         }
       ],
       "title": "Poliisiauto ja henkilöauto törmäsivät Koillis-Englannissa takaa-ajon aikana – useita kuollut",
-      "clickbaitiness": "Slightly Clickbaity",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13448,7 +13399,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-22T13:51:20Z",
+      "updated": "2026-08-22T14:11:05Z",
       "urls": [
         {
           "sign": "071b6f5bf4b40253dccd5b66c5d8bb7e603f1dfe61f1f7dccce11b7478ec1334",
@@ -13463,6 +13414,53 @@
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/type=video"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T14:04:09Z",
+      "urls": [
+        {
+          "sign": "d01d3c178e93243633edbee3b62b7606ba5d3e5f44f23070c78d37f38c4e747e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Naamiomiehet ampuivat nyrkkeilyn ex-maailmanmestarin Zolani Teten kuoliaaksi Etelä-Afrikassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T17:00:00+03:00",
+      "urls": [
+        {
+          "sign": "0a7e8223acb2f2724f803e75e3427bf181c940af5b07c04ddea90a3d33a12494",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T14:07:00Z",
+      "urls": [
+        {
+          "sign": "f54ce5ceacaa2eee748493b10d3438f416f919ebf6a9dc922d07e6299ddcf47c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "PKS Sähkönsiirto ehdottaa sähköverkon toimitusvarmuusvaatimusten lieventämistä siirtomaksujen nousun välttämiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
