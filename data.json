@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T13:30:04Z",
+  "updated": "2026-08-22T13:44:01Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -769,23 +769,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T16:32:39Z",
-      "urls": [
-        {
-          "sign": "4630a6becd0f9320cc3dd63aa85d46349cf045d06d97e2dac26693f25c8f118c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi käynnistää maailman ensimmäisen laajan satunnaistetun vyöruusurokotetutkimuksen dementiaa vastaan – yli 33 000 osallistujaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T16:39:00Z",
@@ -5672,21 +5655,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T05:51:29Z",
-      "urls": [
-        {
-          "sign": "d80caf464e102af7e4afb2b952e384efb8977f5f33ab30d054a0ec1d565b7558",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "THL: Tuhkarokkoon sairastunut matkusti kahdella laivalla, rokotus vähentää tartuntariskiä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T06:06:25Z",
@@ -13069,7 +13037,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-22T13:30:04Z",
+      "updated": "2026-08-22T13:44:01Z",
       "urls": [
         {
           "sign": "7c184e6b48686c25cc054621ca1385734200b20677f2f5c34a357c9bfa199503",
@@ -13463,6 +13431,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T13:37:52Z",
+      "urls": [
+        {
+          "sign": "2fe5ca8cdc20e021cc009648696dc6607c1684514c684158f91f9627998f67ed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metsähallituksen asiantuntija: Päättäjät siirtävät liian suuren vastuuta saimaannorppien kuolemista kalastajille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T13:32:26Z",
+      "urls": [
+        {
+          "sign": "7671fc2d5dc8fe4a411197bcc10e81200d72b3001137fdfc853278ffa2c6f88b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pekka Terävä AI -tekoälykeittokirjan testi: käytännön vinkit toimivat, mutta tekoälyn kuvitus ja ääni tuottavat ongelmia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
