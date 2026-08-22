@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T15:43:57Z",
+  "updated": "2026-08-22T15:51:03Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -832,21 +832,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T21:23:20Z",
-      "urls": [
-        {
-          "sign": "e86a5f0ed37ccc05817584ee62cce85108b65427e9910a3265c8fe3114ad5414",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain valtionvelka ylitti 40 biljoonaa dollaria",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-20T17:34:00+03:00",
       "urls": [
         {
@@ -1652,21 +1637,6 @@
         }
       ],
       "title": "Jarno Salmivuori vaatii, että vapaaehtoistyön tulee olla työttömälle selvästi sallittua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T09:30:00+03:00",
-      "urls": [
-        {
-          "sign": "bab229441df393cfd607dcd8b7fb91eec954bc50bb0e305c88bc8aeb716220e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pasi Kumpula myöntää, että pikavippiriitoja on tuomioistuimissa liikaa ja niitä käsitellään usein pintapuolisesti",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5465,21 +5435,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-21T07:05:23Z",
-      "urls": [
-        {
-          "sign": "fee471281429d28f2e012b7cad8d42a8236ae1b88d4770f142cd8e0dd1ed29d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mikrobitti julkaisee elokuun numeron: vertailussa keskihintaiset Android-puhelimet ja kompaktit läppärit",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T07:10:05Z",
@@ -11490,7 +11445,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T18:43:00+03:00",
+      "updated": "2026-08-22T18:48:00+03:00",
       "urls": [
         {
           "sign": "5f04d45341c14dc4768d0ef89df6d0f24f74da3d9d93619643fb82f7f7fe895a",
@@ -11499,7 +11454,7 @@
           ]
         }
       ],
-      "title": "Rankkasade ja voimakas tuuli osuvat lauantaina Etelä- ja Keski-Suomeen, Suomenlahdelle myrskyvaroitus",
+      "title": "Etelä- ja Keski-Suomeen ennustetaan lauantaina rankkasadetta ja voimakasta tuulta, Suomenlahdelle myrskyvaroitus",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13464,6 +13419,54 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T15:50:05Z",
+      "urls": [
+        {
+          "sign": "f64e023c44e55e9451d302fd357eb2c5ec6a35b04aef653d07068f32675eefb9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poptähti Olga ja Rae Sremmurd tekivät mannekiinihaasteen Blockfestissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T15:51:03Z",
+      "urls": [
+        {
+          "sign": "a1e0477262247b6d4e6409c9915aab2b57faa44e38e6411830e4f9175bcc916e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan viranomaiset etsivät majoitusta Ceutan tuhansille siirtolaisille – alaikäisiin kohdistuvat väkivaltariskit huolettavat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "eb024446eae682c98647922620378f5372596f42b2b728e069e0a3b306a238c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itäkeskuksen ympäristö vahvistaa Itä-Helsingin huonoa mainetta – Nina Tynen mielipide",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
