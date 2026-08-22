@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T13:09:23Z",
+  "updated": "2026-08-22T13:30:04Z",
   "entries": [
     {
       "updated": "2026-08-01T16:21:43Z",
@@ -754,23 +754,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T15:57:09Z",
-      "urls": [
-        {
-          "sign": "3df27b3663155a45b4c32b054b649e82c9a177583bf31a1fd4fa394fbbbbadb1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Linda Lampenius kiittää Kai Bicklea ja kertoo olevansa valmis esiintymään Suomessa yli 20 vuoden tauon jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T16:43:14Z",
       "urls": [
         {
@@ -1225,21 +1208,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "8822d5128dd6c4b18debd0d988abfd11132cdd54eb442d4e8c27507bf532b85f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS:n arkisto 20.8.1976: herneiden hinta, oopperasuunnitelmat Suomenlinnaan ja koululomakeskustelu",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5606,38 +5574,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T05:32:27Z",
-      "urls": [
-        {
-          "sign": "41394b1ae495c4de9db6b427511fbb1be22e4aeebaad0da948715a40e1893b80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Awak Kuier rikkoi Dallas Wingsin WNBA-seuraennätyksen seitsemällä torjunnalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T05:37:03Z",
-      "urls": [
-        {
-          "sign": "03f3cd272ebdda034508dccac1629fd4afe9a7b2843cd79a6abf1e94ba5fad3b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kruununprinsessa Victoria ja prinssi Daniel vierailevat tänään Vaasassa hovioikeuden 250-vuotisjuhlien kunniaksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T05:33:19Z",
@@ -13133,7 +13069,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-22T12:39:58Z",
+      "updated": "2026-08-22T13:30:04Z",
       "urls": [
         {
           "sign": "7c184e6b48686c25cc054621ca1385734200b20677f2f5c34a357c9bfa199503",
@@ -13465,6 +13401,68 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T13:26:53Z",
+      "urls": [
+        {
+          "sign": "b93779c3e719a1517af115afb947cd3b8a480701f416b112e730fca1e56aa67c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi takavarikoi rap-artisti Pyhimykseltä huumeita – syyttäjä jäädyttää syytteet epäilyjen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T13:27:55Z",
+      "urls": [
+        {
+          "sign": "270cee4faffa53cc0fb7b772a4cf2bf763bef2a156c3faba72f6fa280cd91153",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sarjanousija Hull City voitti Manchester Unitedin 2–0 Valioliigan avauskierroksella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T16:24:00+03:00",
+      "urls": [
+        {
+          "sign": "a9ef3951122447f41aafa6ee7ee99e146df49ee9ce4c132e18308e544341a354",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "CyberLeek-ryhmä vuotaa uusia GTA 6 -videoita, Take-Two ryhtyy oikeustoimiin vuotajan selvittämiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T13:24:30Z",
+      "urls": [
+        {
+          "sign": "1db4e55024acb6d8ffeb1f7bc10a737a9f9e6585bca228345e7ed0d261cd12c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Manchester United hävisi Valioliigan kauden avausottelun Hull Citylle lukemin 0–2",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
