@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T03:18:10Z",
+  "updated": "2026-08-22T03:40:25Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -988,23 +988,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T13:05:12Z",
-      "urls": [
-        {
-          "sign": "a259e537a32cf0787a48e5059bdb3fdb6e04604822174d8323dd8be097ee5c2b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Savon ympäristöterveydenhuolto kieltää järviveden käytön Rantasalmen öljyvuotoalueella",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T13:22:15Z",
@@ -5292,21 +5275,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T15:28:29Z",
-      "urls": [
-        {
-          "sign": "144e818a678a18cbfd63c929413261ccb790dbfdb2632d05ecc8bceb43e86636",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyski myi Remmels-nojatuolinsa loppuun elokuussa Tiktok-kohun vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T16:21:00+03:00",
@@ -13439,6 +13407,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T03:40:25Z",
+      "urls": [
+        {
+          "sign": "a0f810b599a1585c0c825ba9837ce82382b9801923a9723591d1d5b47ddd1edd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viikonloppuna syvä matalapaine aiheuttaa voimakasta sadetta ja tuulta etelään ja itään",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T03:35:18Z",
+      "urls": [
+        {
+          "sign": "420cb07c3c117fb9ec15d8109dfc8d1dfa1669a19d9e09945dffbc370a43a0ca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Volkswagen-liike poisti kaasusäiliöt ja teki auton laittomaksi – omistaja myi autonsa alihintaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
