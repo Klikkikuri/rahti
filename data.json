@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T07:52:57Z",
+  "updated": "2026-08-22T08:10:19Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -64,7 +64,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T00:16:31Z",
+      "updated": "2026-08-22T08:02:03Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -73,8 +73,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa ja avaa Venäjän propagandan keinoja sekä vaikutuksia Suomeen",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja käsittelee Venäjän propagandan keinoja sekä vaikutuksia Suomeen",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -867,23 +867,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T14:02:34Z",
-      "urls": [
-        {
-          "sign": "324ea3e30005371f10ddbdd10051252afe478933cfffc15d659effe239aab9af",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Transhumanismi vahvistuu Piilaaksossa – asiantuntijat uskovat tekoälyn voivan muodostaa tulevaisuuden tietoisuutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-19T14:00:48Z",
       "urls": [
         {
@@ -1443,21 +1426,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-19T20:15:00+03:00",
-      "urls": [
-        {
-          "sign": "eba47d9e24cf766f2ffca95cdf4a7d1859c63eb56568682b5a9cbcadfc9e6c52",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mielipide: VM:n AI‑suunnitelmat ja hoivavastuun lisääminen voivat heikentää naisten asemaa työelämässä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-19T20:31:00+03:00",
@@ -5500,23 +5468,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-20T18:32:21Z",
-      "urls": [
-        {
-          "sign": "795bbb5cb2d380289f665f02cb0fd10158682b9ca913ebc30c4c1965c92faefd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Villisikojen kiima-aika lisää afrikkalaisen sikaruton leviämisen riskiä – Luonnonvarakeskuksen erikoistutkija arvioi tilannetta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-20T21:35:00+03:00",
       "urls": [
         {
@@ -5530,21 +5481,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T18:36:31Z",
-      "urls": [
-        {
-          "sign": "02c14975b08c7c728e944dfd6df800bf7f8a2d401a619b536fa565ad6627f3c7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsalainen ICA myi kuorittuja banaaneja ruokahävikin vähentämiseksi, tarjonta loppui nopeasti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T18:19:58Z",
@@ -5639,23 +5575,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T19:02:32Z",
-      "urls": [
-        {
-          "sign": "bf1cad416f947cfe397b647b2eadc20013b4db4304fd9b3b3dde92ecfaca1f88",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansainvälinen luisteluliitto myöntää neutraalin statuksen neljälle venäläisluistelijalle",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T19:23:22Z",
@@ -13445,6 +13364,85 @@
       ],
       "title": "Laulaja Chisu julkaisi Instagramissa kuvat äitinsä Anja Sundbergin muistotilaisuudesta",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T08:02:02Z",
+      "urls": [
+        {
+          "sign": "38464be21041247edf42c43d87235921d7aa47719e1c89615420544bc68cbd27",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pajulahden Guttmann Games -kisat tarjoavat paralympialaisten ulkopuolisille lajeille kansainvälisen näyttämön kohti paralympiaohjelmaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "35c602c063e4753998c0cce9df0c6ee2b9aa0af2e7573b09beceebd59050f238",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T08:10:19Z",
+      "urls": [
+        {
+          "sign": "6ef7a26949e4c595e9a4994586ee88ff961b0ff17709cc4a52a9cf912b1d93d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ville Galle juoksi puolimaratonin Siim Liivikin kanssa ennen Blockfeste-keikkaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T08:00:11Z",
+      "urls": [
+        {
+          "sign": "0606a061cf427c9067139af470ee5fcc26a496fa28aa970db87781d6c149cd30",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eläkepoliisi vastaa oikeudessa syytteisiin, jotka liittyvät hätäpuhelun jättämiseen huomiotta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T08:01:57Z",
+      "urls": [
+        {
+          "sign": "9634aef191513032389bff8bd1d83b1ec94a74b8013008f584937897b803b5e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kati Jaakonen kritisoi Laakson sairaalan ruokahuoltoa ja potilaskohtelua",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
