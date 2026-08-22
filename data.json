@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T03:02:00Z",
+  "updated": "2026-08-22T03:18:10Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -705,40 +705,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T09:58:39Z",
-      "urls": [
-        {
-          "sign": "0e7009894f436729017661b3d061a0f377e7ec007b1040ee4b89cab6dc5e8a92",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Katja Miinalaisen katoamisen henkirikokseksi ja pyytää havaintoja Muonion alueelta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T09:59:11Z",
-      "urls": [
-        {
-          "sign": "e1e7611fa07e8cda8f9fc4ab70b32a86774aba4415646bf4bf03faaa378ff45d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cadillac F1:n tallipäälliköksi nousee Marcin Budkowski",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-19T10:20:47Z",
@@ -13439,6 +13405,40 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T03:18:10Z",
+      "urls": [
+        {
+          "sign": "63da1eb0f9a3aa3289431d00dda14b32d6a98a478a7020dbbbd128af167ee09b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auto törmäsi karhuun Virolahdella – loukkaantuneesta eläimestä annettu vaaratiedote",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T03:16:00Z",
+      "urls": [
+        {
+          "sign": "b0c50252ca347c2285fd29278807052e363db240ab7137dc03ca2c35f2892398",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kotuksen johtaja Leena Nissilä: Kansainvälistyminen heikentää suomen kielen asemaa korkeakouluopetuksessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
