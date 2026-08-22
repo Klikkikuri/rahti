@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T05:04:00+03:00",
+  "updated": "2026-08-22T02:30:35Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -989,23 +989,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T12:56:38Z",
-      "urls": [
-        {
-          "sign": "16153a2a69b9798a7eb0d61275b05b4da6d9c38ec1ffb39c7771d03540887b07",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SpaceX nouti Joulusaaren edustalle pudonneen kantoraketin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T12:53:59Z",
@@ -13437,6 +13420,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T02:30:35Z",
+      "urls": [
+        {
+          "sign": "947a3878ededb16da7a4880163b43c10d9ea2d30a3a6f210f8a44dd325bbe284",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Potilasvahinkoilmoitukset nousevat ennätyslukemiin – syinä hoidon viiveet ja leikkausvirheet",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
