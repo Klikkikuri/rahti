@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T07:41:13Z",
+  "updated": "2026-08-22T07:52:57Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -5594,21 +5594,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T18:32:17Z",
-      "urls": [
-        {
-          "sign": "eb928afcb0614c6e05cf109f44e7a0ced7ca199eb5e4639bc6adc1f61608e88c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Piia Pasanen ja Tomi Einoso tapasivat yliopistossa – pariskunta jakaa saman syntymäpäivän",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T19:03:51Z",
@@ -13099,7 +13084,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-22T06:57:00Z",
+      "updated": "2026-08-22T07:33:06Z",
       "urls": [
         {
           "sign": "d38175155cefe1941eedb9be092650f1ab70c9922ee35373aff95c48e92d65f7",
@@ -13446,6 +13431,21 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T07:52:57Z",
+      "urls": [
+        {
+          "sign": "48396b6917a5906469c72c47dfecf23667a0ef6dcb36cc200b438497ad86fe31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Laulaja Chisu julkaisi Instagramissa kuvat äitinsä Anja Sundbergin muistotilaisuudesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
