@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T18:44:21Z",
+  "updated": "2026-08-22T18:59:57Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -34,7 +34,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T12:47:23Z",
+      "updated": "2026-08-22T18:59:57Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -43,7 +43,7 @@
           ]
         }
       ],
-      "title": "Iltalehti käsittelee Venäjän valtiollista propagandaa ja sen kasvavaa kohdistumista Suomeen",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja käsittelee Venäjän propagandan kasvua Suomessa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -814,21 +814,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T03:31:23Z",
-      "urls": [
-        {
-          "sign": "d50b2603b82c605797e0d12bfa1c370d0d012737a97d1f625bddeeb491d3e0ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kelan rekisteritutkimus: Opiskelijat käyttävät monia terveyspalveluita, miehillä työterveyshuolto yleisempi kuin YTHS",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-20T03:53:00Z",
@@ -7529,23 +7514,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T08:25:45Z",
-      "urls": [
-        {
-          "sign": "06cf91328742a41e54adc4315707fd5a6b764b21a6b07576221001580b5ccbb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen kaupunki ajaa Hopealinjojen toiminnan alas – risteilyt päättyvät 30. syyskuuta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T14:18:03Z",
       "urls": [
         {
@@ -13464,6 +13432,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T18:37:59Z",
+      "urls": [
+        {
+          "sign": "a305fc796b8a14431bde11da6e127710ffbeac9b766e20a754e0be46c4cd94d5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lennonjohtajien lakko sulkee Oslon lentokentän sunnuntaina viiden tunnin ajaksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T18:46:28Z",
+      "urls": [
+        {
+          "sign": "12d37d56921e3ec9b2900fb20c172051f8ecbb50849dd8faa2c863e4de915c6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brentford voitti Tottenhamin 3–0 Valioliigan avauskierroksella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
