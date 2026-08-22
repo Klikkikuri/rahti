@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T20:40:00+03:00",
+  "updated": "2026-08-22T17:49:06Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -5401,21 +5401,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T08:12:04Z",
-      "urls": [
-        {
-          "sign": "9f55a9cb17b429571467b9aa1fac6e14526d4097db4d4254bdc25eb781661910",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukuvuosimaksut vähentävät ulkomaalaisten opiskelijoiden määrää suomalaisissa oppilaitoksissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T11:04:00+03:00",
@@ -13460,6 +13445,21 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T17:49:06Z",
+      "urls": [
+        {
+          "sign": "7f08e75802c0a1afdeb63a684f308d6e1235542aefd0a4bbf40383406f028be8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hyvinvointivaikuttaja Karita Tykkä ja koreografi Sami Saikkonen vahvistavat kihlauksensa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
