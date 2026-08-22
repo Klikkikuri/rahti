@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T19:20:40Z",
+  "updated": "2026-08-22T19:41:54Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -782,38 +782,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T03:19:45Z",
-      "urls": [
-        {
-          "sign": "712e76d9abd1dbc9158076d801a69878458b4ac1ce9172d78f1aa06e686dfb60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Harry ja Meghan muuttavat takaisin Britanniaan lapsineen – aikovat asua Lontoon ulkopuolella ja lapset aloittavat koulun syyskuussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T03:13:02Z",
-      "urls": [
-        {
-          "sign": "0049004f09956c0c377be1f067a56bf5934e13358fb737bc3f4b846227def7f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karhun ja vesilintujen metsästyskausi käynnistyy tänään – karhukiintiö 182",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-20T03:53:00Z",
@@ -5542,21 +5510,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T08:50:26Z",
-      "urls": [
-        {
-          "sign": "2bbd7b85baa162cbf63bf64a91b6b8eeff86408e0e716b5fb479c8d35c35401b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Robin Packalen vahvistaa MTV:n Huomenta Suomessa avioituneensa Aura Ansaharjun kanssa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T08:18:06Z",
@@ -13461,6 +13414,54 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T19:40:58Z",
+      "urls": [
+        {
+          "sign": "ba58f18e4633d1a466e4a4d6720c01654bd7fb4a8b3ed75f92080e756c84b384",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan drooni-iskut ovat keskeyttäneet bensiininjakelun Venäjän Gelendžikissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T19:15:48Z",
+      "urls": [
+        {
+          "sign": "271b7ab1731dab1179737471497d3e00c18ce65b8835a63cfd9f4ec50737290b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T19:41:54Z",
+      "urls": [
+        {
+          "sign": "c3040ab2298064dc5fe7be8d688f71d12b372940b61be9bc3b141f4d15f791c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ott Tänak kilpailee Yhdysvalloissa Toyatan autolla kehitystyön vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
