@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T00:02:00+03:00",
+  "updated": "2026-08-22T21:36:00Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -799,21 +799,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T04:02:23Z",
-      "urls": [
-        {
-          "sign": "bf9b2c01819c6f80b41e8ad403ca775d014b3c96cedd8e897374d192a1efa961",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Soste ehdottaa työnantajien rahoittamaa mallia pitkäaikaistyöttömyyden torjumiseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-20T04:45:00Z",
@@ -13467,6 +13452,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T21:36:00Z",
+      "urls": [
+        {
+          "sign": "5bf13f8ccac8d2320dc27ece673307333d8b98c31cc468bbef444cd73faf9503",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Mellunkylän lastenkodissa syttyi tulipalo – rakennus vaurioitunut vakavasti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
