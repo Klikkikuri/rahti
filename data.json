@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T20:42:02Z",
+  "updated": "2026-08-22T20:45:15Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -799,21 +799,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T04:00:35Z",
-      "urls": [
-        {
-          "sign": "6e8e6c3a2ae46976a72dfb4e30bf62d79ec47fdedc4bac7a5a14dd329c41e2b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Danske Bankin tutkimus: 40 % suomalaisista ei ole säästöjä pahan päivän varalle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-20T04:02:23Z",
@@ -13465,6 +13450,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T20:45:15Z",
+      "urls": [
+        {
+          "sign": "73dcebde9b38b8f67b6f8ed99b2f47fd14eff5c176a025313a8a961d89860b54",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU lähettää palopelastajia ja helikoptereita Serbian maastopalojen torjuntaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
