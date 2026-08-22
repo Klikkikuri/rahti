@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T03:59:00Z",
+  "updated": "2026-08-22T07:11:00+03:00",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -1022,23 +1022,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-19T18:10:00+03:00",
-      "urls": [
-        {
-          "sign": "627d84dc46e02f4a8e63ccd818379d4f88b1e1080e92374aabcc645a804ab3eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Markkinaoikeus hylkäsi sähköverkkoyhtiöiden valitukset Energiaviraston siirtomaksupäätöksistä vuosilta 2022–2023",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-19T13:30:44Z",
       "urls": [
         {
@@ -1332,23 +1315,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-19T18:11:00+03:00",
-      "urls": [
-        {
-          "sign": "5eca115f9e5c8abd8b861d9d8bda4a740df8dc3a7630caaaa052b08100088ac9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-19T18:45:00+03:00",
@@ -5183,21 +5149,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T15:39:29Z",
-      "urls": [
-        {
-          "sign": "3de15cbc19d5d00d30c5da214f91755abda70d1350ed260ef61f475178e95b2d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyväskylän kaupunginjohtaja: Panda-suklaan valmistuksen siirto ei heiluta kaupungin taloutta merkittävästi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T15:36:17Z",
@@ -13443,6 +13394,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "5f15044c596d9b6510e1d28d85684bf9d7d530a9d038196adb0f437de526765e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-22T04:00:55Z",
+      "urls": [
+        {
+          "sign": "5c754e097d3378e8049372d040e93b46ec209bcc5d4e3b19be7ed804acfc8496",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wilma Heltelä jäi Lausannessa seiväshypyissä kahdeksanneksi – asiantuntija Bryggare: \"Vauhti oli surkea\"",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T07:11:00+03:00",
+      "urls": [
+        {
+          "sign": "e9093ab67546e2642da7c7f70f88e173ef07eca2cd788b52e8ed0ab7f9cb05f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain ja Kanadan kauppaneuvottelut kariutuivat, 50 prosentin tullit voimaan, Kanada ilmoittaa vastatulleista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
