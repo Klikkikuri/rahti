@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T11:28:00+03:00",
+  "updated": "2026-08-22T08:41:45Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -64,7 +64,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T08:02:03Z",
+      "updated": "2026-08-22T08:35:11Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -73,8 +73,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa ja käsittelee Venäjän propagandan keinoja sekä vaikutuksia Suomeen",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Venäjän hallinto vahvistaa propagandaviestintäänsä Suomea vastaan – Iltalehden liveseuranta",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -705,21 +705,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-19T12:53:59Z",
-      "urls": [
-        {
-          "sign": "ce0463f620aa74ab1839de8ff2ecd382e7c0cef75cebedc61f13a2611cccffcd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin etälamautus johti kehitysvammaisen kuolemaan; syyttäjä arvioi voimankäytön laillisuutta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-19T12:58:21Z",
@@ -5547,38 +5532,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T19:29:37Z",
-      "urls": [
-        {
-          "sign": "b83f919ba260fca223163deb23f090a17b20da33d7628846b9c78e1bd080b595",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläisten onnellisuusindeksi laski heinäkuussa alimmalle tasolleen, sodan ja talousvaikeuksien myötä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-20T19:25:12Z",
-      "urls": [
-        {
-          "sign": "4384cdae6a3082c8e53cf7ad56ee59c80f6f26abace2c283f4e31de24ea36c24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FC Inter jäi maalittomaan tasapeliin Kööpenhaminaa vastaan – päävalmentaja Vesa Vasara avasi pettymyksen ja Ilari Kangasniemen tilanteen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-20T19:36:20Z",
@@ -13445,6 +13398,55 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T08:37:37Z",
+      "urls": [
+        {
+          "sign": "e23818b834db5f9dc0808d84f843efacb75a32020260b807a49aed063e52b4f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Muistisairaan omaisten vaikea valinta: läheisen siirtäminen hoivaan – Iltalehti etsii kokemuksia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T08:41:45Z",
+      "urls": [
+        {
+          "sign": "d29400062f77c6e3267d27633a875f2fb8189b4ca86809db17adde0dc6e13c97",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sijoittaja Danny Wallis hankki Remontilla rahoiksi -sarjan kohteet alennuksella huutokaupassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T08:23:14Z",
+      "urls": [
+        {
+          "sign": "664c6f710d942017a0eed5926b41b52730ea89df9dfe1b56f111c895f878c2ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Markus Mäntykannas varoittaa: viikonloppumyrsky iskee sunnuntaina Etelä- ja Itä-Suomeen, runsaat sateet ja sähkökatkot odotettavissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
