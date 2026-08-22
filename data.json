@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-22T03:40:25Z",
+  "updated": "2026-08-22T03:59:00Z",
   "entries": [
     {
       "updated": "2026-08-01T09:10:35Z",
@@ -707,38 +707,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-19T10:20:47Z",
-      "urls": [
-        {
-          "sign": "df45e83cb92f04ed1afcee2816fdc7d95b3b5de46ecaad45b845293ce5cf925b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laukaassa ampumalla surmattu erittäin uhanalainen arosuohaukka – poliisi tutkii laittoman tappamisen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T10:21:56Z",
-      "urls": [
-        {
-          "sign": "929cdb5fde643d1b4fe17fd126e48fb2fafe810304fd7a99717e9dd64d069ff9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rahtialus vuoti noin 200 litraa öljyä Rantasalmen Haukiveteen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-19T10:36:48Z",
       "urls": [
         {
@@ -988,21 +956,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-19T13:22:15Z",
-      "urls": [
-        {
-          "sign": "342296a9fc1508e65e4dd368cb8e870a5a8df0a0a80d022bf52d51307f605dca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kempeleen kunta parantaa Ouluntullin hyppypaikan turvallisuutta kahden hukkumisonnettomuuden jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-19T13:20:18Z",
@@ -6491,21 +6444,6 @@
       ],
       "title": "Piia Pasanen ja Tomi Einoso tapasivat yliopistossa – pariskunta jakaa saman syntymäpäivän",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-20T15:30:13Z",
-      "urls": [
-        {
-          "sign": "a08753c0c18597157f5e737ee961d31ba91919e0b1a888103096a75a44b6f4a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taitoluistelija Nella Pelkonen lopettaa uransa pitkien jalkavammojen ja henkisen uupumuksen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13439,6 +13377,72 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T03:58:42Z",
+      "urls": [
+        {
+          "sign": "96f90022bf96c030bcfb199f3e25874f09290c51a6d28459db5b8452e0ce3f82",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nina af Enehjelm kertoo: Tapani Kansan sydän pysähtyi kolmesti hätäleikkauksessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-22T03:52:00Z",
+      "urls": [
+        {
+          "sign": "6a29db195bd7e5d38adf82c7be5ff85bd198a34200c1ec20a1e1ff2718e43806",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Prisman uuden tukkuosaston kahvin kilohinta voi ylittää tavallisen kaupan tarjoushinnan, mikä hämmentää säästeliäitä asiakkaita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-22T03:45:35Z",
+      "urls": [
+        {
+          "sign": "b40bd725172806c134198ab38a5606a16f9bcae430eaa57f9e7bb3645ef55f6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Joonas Konstig: Kuulokkeet julkisissa tiloissa rikkovat avoimuuden periaatetta ja heikentävät luottamusta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-22T03:59:00Z",
+      "urls": [
+        {
+          "sign": "64196edc1dde96ad8242ff3a59a4d0abbff9d5b78598e2b32e4a881b467cdd22",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tappara-puolustaja Joni Tuulola SM-liigan pudotuspelien arvokkain pelaaja: \"Puolustaminen on ykkösjuttu\"",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
