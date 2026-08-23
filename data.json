@@ -1,23 +1,8 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T05:44:04Z",
+  "updated": "2026-08-23T06:00:04Z",
   "entries": [
-    {
-      "updated": "2026-08-02T06:00:20Z",
-      "urls": [
-        {
-          "sign": "87665b7783258790bcb01059e4f3e3f060d0b207cda8f7b927e6a97f3c9542a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pub Markus järjestää neljännen Elovapina-festivaalin Äänekoskella 7.–8. elokuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Äks"
-    },
     {
       "updated": "2026-08-02T13:36:22Z",
       "urls": [
@@ -846,21 +831,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T06:34:43Z",
-      "urls": [
-        {
-          "sign": "121ff1ea3bae97f664a88eabf1b69dfe862c2b4a0376fe2827d5208ab7f44081",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karoliina Tuominen ja Mia 'Millu' Haataja lopettavat Loopin Aamu -ohjelman perjantaina 21. elokuuta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-20T06:42:16Z",
       "urls": [
         {
@@ -939,23 +909,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T06:38:48Z",
-      "urls": [
-        {
-          "sign": "20a1b3bc2106d2f92c8b70188ff7f10066d571b92caba453a2d1a37d0e2d7804",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Koirien kiinnipitoaika päättyi 20. elokuuta – taajamissa koirat on pidettävä kytkettynä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-20T06:37:03Z",
@@ -5786,21 +5739,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T11:10:02Z",
-      "urls": [
-        {
-          "sign": "47612830bf67491770aafd1b046f7c4bc6769bbfeb5ebcbdca5d6538dff0de12",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeriö perustelee turvajärjestelyjen julkistamattomuuden turvallisuussyillä – Sussexin herttuaparin suojelukulut voivat nousta miljooniin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T11:29:56Z",
       "urls": [
         {
@@ -5814,23 +5752,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T11:15:22Z",
-      "urls": [
-        {
-          "sign": "a039745976ee3ac444212d366d203b77f9707e5cf5629fd480cf6a55b40604a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Atleetin simulaatiot ennustavat Arsenalin mestariksi ja kolmen nousijaseuran putoavan Valioliigasta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T11:22:48Z",
@@ -13478,6 +13399,68 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T05:48:59Z",
+      "urls": [
+        {
+          "sign": "277b5ab9eabc3b30bf5edd5828a99c48864daeb698e48521b64919398026dd7a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tasavallan presidentti Stubb vierailee Ukrainassa: osallistuu huippukokoukseen ja itsenäisyyspäivän juhliin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T06:00:04Z",
+      "urls": [
+        {
+          "sign": "401b1acc1c809880c9d720637dbce548857f2bb7f6dbabdebc77009e90e52556",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T05:46:18Z",
+      "urls": [
+        {
+          "sign": "66954850a1ca4ca04dddf6c9cff37737ad673017beea20092e740af1528192e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanada asettaa vastatullit Yhdysvalloille 8. syyskuuta kauppaneuvotteluiden kariuduttua kulttuuripolitiikan vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T05:52:33Z",
+      "urls": [
+        {
+          "sign": "38bbecd09530eaebce14cd78b657e2031599343de64ace13d0834afb7fe00529",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tottenham hävisi Valioliigan avauskierroksen Brentfordille 0–3 – De Zerbi kritisoi joukkueen taistelua ja fyysistä kuntoa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
