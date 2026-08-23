@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T03:41:00Z",
+  "updated": "2026-08-23T06:56:00+03:00",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -766,23 +766,6 @@
       "title": "Asiantuntija muistuttaa käsien pesemisestä munien käsittelyn jälkeen – salmonellatapaukset Suomessa tavanomaisella tasolla",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T04:33:08Z",
-      "urls": [
-        {
-          "sign": "cf831eb821c87d18883296b5203321bf0c0b59f6c661fe78300a1dbd738b18e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaisten mukaan Venäjä levitti satoja tekoälyllä tehtyjä valeuutisia Saksan ja Ranskan vaaleihin – pro-Venäjä puolueet säästyivät",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -10284,7 +10267,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T03:09:00+03:00",
+      "updated": "2026-08-23T06:56:00+03:00",
       "urls": [
         {
           "sign": "5f04d45341c14dc4768d0ef89df6d0f24f74da3d9d93619643fb82f7f7fe895a",
@@ -10293,7 +10276,7 @@
           ]
         }
       ],
-      "title": "Ilmatieteen laitos: Runsaat sateet saapuvat Helsinkiin, myrskyvaroitus voimassa Suomenlahdella",
+      "title": "Ilmatieteen laitos: Sade jatkuu Helsingissä, Uudellamaalla tuulivaroitus ja tulvariski",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13475,6 +13458,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T03:45:35Z",
+      "urls": [
+        {
+          "sign": "d6d0890bc365d626b57c6d44fa8af433223431800db5443a5a8883b02a38b02d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Politiikan tutkija Johanna Vuorelma: Yhteisen edun vetoaminen on usein keino nostaa tiettyjen ryhmien intressit muiden yläpuolelle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
