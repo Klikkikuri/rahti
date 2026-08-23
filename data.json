@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T10:15:29Z",
+  "updated": "2026-08-23T10:44:27Z",
   "entries": [
     {
       "updated": "2026-08-02T13:36:22Z",
@@ -5898,21 +5898,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T14:05:51Z",
-      "urls": [
-        {
-          "sign": "893eb3e050e304ba5d0025af75d3b65c3bf3c09c1c2a10be0004926818c2b71c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden 10 kysymyksen visassa testataan tietoa Suomen presidenteistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T14:13:16Z",
       "urls": [
         {
@@ -5975,23 +5960,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-21T14:03:22Z",
-      "urls": [
-        {
-          "sign": "718d1042ea0b2ea42103ac73f60aa46a841969237f840dd971ecfc8ef29326b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T14:09:45Z",
@@ -11994,7 +11962,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-23T09:54:10Z",
+      "updated": "2026-08-23T10:44:27Z",
       "urls": [
         {
           "sign": "709d65bcb9403c496cf283f3af16f32f25ebd99bfaa06f23b7d81cff9efb803a",
@@ -12003,7 +11971,7 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos keskeytti etsinnät Taipalsaarella – purjeveneestä pudonnut mies jäi löytymättä",
+      "title": "Taipalsaarella purjeveneestä pudonnut mies on 2000-luvulla syntynyt – etsinnät jatkuvat",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13484,6 +13452,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-23T10:43:53Z",
+      "urls": [
+        {
+          "sign": "9f78d494c1039ab3b439518bca7e55f6184585ec00e8337a6658ae36cbff3383",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vihreiden kansanedustaja Fatim Diarra vaatii työnantajille lisävelvoitteita mielenterveyskustannusten vähentämiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T10:26:16Z",
+      "urls": [
+        {
+          "sign": "518fe43f30441504151d24c7dce41bb49735b21b4be0e98c693708ac56a4661d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NHL:n varakomissaari Bill Daly vahvistaa neuvottelut uudesta joukkueesta Houstoniin tai Austiniin kaudelle 2029–2030",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
