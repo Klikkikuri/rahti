@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T06:00:35Z",
+  "updated": "2026-08-23T06:21:53Z",
   "entries": [
     {
       "updated": "2026-08-02T13:36:22Z",
@@ -5771,23 +5771,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T11:35:20Z",
-      "urls": [
-        {
-          "sign": "0e953caead73a43d9c36610b7a0b3d9fd3341724ff0607dcc23b46630d28bbe4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henkilöauto törmäsi Lempäälässä pyöräilijään – pyöräilijä kuoli",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T14:23:00+03:00",
       "urls": [
         {
@@ -5848,21 +5831,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T11:35:27Z",
-      "urls": [
-        {
-          "sign": "43b2641f2984dea07a88bfdc75e51024c66bea1dba81cd770c6c93a5d4d9e5f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Intialainen keihäänheittäjä Shivpal Singh saa 10 vuoden kilpailukiellon dopingista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T11:51:36Z",
@@ -13462,6 +13430,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T06:21:53Z",
+      "urls": [
+        {
+          "sign": "eb687cbb3669c2ed7800a44399de2d625c64072f3826fb952453b80ab42591c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eteläafrikkalainen nyrkkeilytähti Zolani Tete ammuttiin kuoliaaksi kotinsa edessä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T06:18:55Z",
+      "urls": [
+        {
+          "sign": "676ebc96538af009b0ef9d914a3ca4f8565f0c5fe2e909476e7bca755ef0dfd0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mirror julkaisee kuvia Trumpista ja avustaja Natalie Harpista, Daily Beast paljastaa kirjeet",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
