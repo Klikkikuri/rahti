@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T06:56:00+03:00",
+  "updated": "2026-08-23T04:02:36Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -831,23 +831,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T05:31:42Z",
-      "urls": [
-        {
-          "sign": "20a55aa3f0b486f9351c04848a70e4814c37f063d14cc37a8a1bd0c14014ae6b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FIFA:n varapuheenjohtaja Sandor Csanyi menetti luottamuksensa Gianni Infantinoon – viittasi Kevin Lamourin erottamiseen viimeisenä niittinä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-20T05:57:00Z",
@@ -5685,23 +5668,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T10:10:50Z",
-      "urls": [
-        {
-          "sign": "1122ccbd1c4d2c1e90f4f3206962e7645e91490c50261ce60ad9fc84d9c2cd71",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pandan suklaatuotanto siirtyy Viroon – työntekijät ja asiakkaat surevat päätöstä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T10:04:22Z",
       "urls": [
         {
@@ -5798,21 +5764,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T10:24:59Z",
-      "urls": [
-        {
-          "sign": "eb9f961c113c587c8bfe7ee2f10d212d3f684ced3978bfcee8fd503f86426c97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP:n kansanedustajat kiistävät hätäkokouksen Aki Lindénin esitettyä hyvinvointialueiden rahoitusehdotusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T13:23:00+03:00",
@@ -13475,6 +13426,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T03:52:00Z",
+      "urls": [
+        {
+          "sign": "248bce9a250bd9296442fccec3af00fed534e78ade77b834eee9e16ef4684a21",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "35 vuotta sydämensiirron jälkeen Tom Håkans muistelee luovuttajalasta, kertoo nykyelämästään",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T04:02:36Z",
+      "urls": [
+        {
+          "sign": "1bcc1c3456bb630a2a951b3114a1469c75a2869198963f397bb1569c3a68eb1f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lappeenrannan kaupunginjohtaja Tuomo Sallinen kertoo Alisa Vainion EM-kullan juhlimisesta ja sillan nimeämisen kohtalosta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T04:00:23Z",
+      "urls": [
+        {
+          "sign": "4c1bf8ada8612412fbf4db036aedf13e946d3a7bb1348675e4be713e8b801f49",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "The Atlantic: Länsimaat ja Nato eivät ole valmiita Kiinan ja Venäjän koordinoituun hyökkäykseen – skenaario veisi Suomen mukaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
