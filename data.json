@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T15:08:24Z",
+  "updated": "2026-08-23T15:29:08Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -1649,23 +1649,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T13:52:11Z",
-      "urls": [
-        {
-          "sign": "058c91aab8c11235ae6987116a7725d5cc27279c1a1978859dd49dd9a4171d94",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Merijään sulaminen avaa uusia ravintoalueita valaille Grönlannin itärannalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-20T17:50:34Z",
@@ -11966,7 +11949,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T17:46:00+03:00",
+      "updated": "2026-08-23T18:07:00+03:00",
       "urls": [
         {
           "sign": "70952f205a859f9d972beaa1ba082547742a3458ae43777f567ffeef050dc050",
@@ -11975,7 +11958,7 @@
           ]
         }
       ],
-      "title": "Poliisi vangitsi 18‑vuotiaan epäiltynä Fagerstan kouluiskusta – yhteyksiä joukkomurhaajia ihannoiviin nettiyhteisöihin",
+      "title": "Poliisi vangitsi 18‑vuotiaan epäiltynä Fagerstan kouluiskusta – epäillyllä yhteyksiä joukkomurhaajia ihannoiviin nettiyhteisöihin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -12618,7 +12601,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-23T14:22:17Z",
+      "updated": "2026-08-23T15:29:08Z",
       "urls": [
         {
           "sign": "3855a781192cc74a2a7ba620f70daafc73ed5cad758d8c2d786201f9e9602ebb",
@@ -12627,8 +12610,8 @@
           ]
         }
       ],
-      "title": "Timanttiliiga Chorzówissa: Duplantis ja Karalis kilpailevat seiväshypyssä, Ingebrigtsen palaa kilpailuun",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Timanttiliiga Chorzówissa sunnuntaina: Duplantis ja Karalis kilpailevat seiväshypyssä, Ingebrigtsen palaa kilpailuun",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13198,7 +13181,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-23T15:01:57Z",
+      "updated": "2026-08-23T15:17:07Z",
       "urls": [
         {
           "sign": "2bd2a53cd95c0c2dc5b34c9c632c7bd11fe02d1ae9198f98121825f1dd9de741",
@@ -13207,8 +13190,8 @@
           ]
         }
       ],
-      "title": "George Russell sai tallimääräyksen Hollannin GP:ssä – Lando Norris johti kilpailua",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Lando Norris voitti Hollannin GP:n – Valtteri Bottas keskeytti kilpailun",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13487,6 +13470,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T15:15:00Z",
+      "urls": [
+        {
+          "sign": "cafcc7daf6db0906650b8daa82be0308cdca95510a28f1475fa5d9403492e5a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kööpenhaminan yliopiston tutkijat loivat kvarkkigluoniplasmaa happi-16 ja neon-20 -ytimien törmäyksellä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
