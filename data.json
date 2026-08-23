@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T03:05:40Z",
+  "updated": "2026-08-23T03:14:00Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -1100,23 +1100,6 @@
       ],
       "title": "Pekka Pouta lupaa aurinkoista ja lämmintä säätä loppukesän lomailijoille ensi viikolle",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T04:36:43Z",
-      "urls": [
-        {
-          "sign": "52a2e894cdbddfc5ed64d342d326d036f58ad03e3422f6eb056377449ded0174",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alko laajentaa sunnuntaiaukioloja 20 uuteen myymälään ja sallii aukiolon myös juhlapyhinä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13473,6 +13456,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T03:14:00Z",
+      "urls": [
+        {
+          "sign": "6c5084ad5f1390d01fed59f15e6e0d7e17995158f9ea72e5656775a264717965",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MTV Uutisten toimittaja testasi Metan älylaseilla salakuvaamista: suurin osa testattavista ei huomannut kuvaamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
