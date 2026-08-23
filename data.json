@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T01:49:23Z",
+  "updated": "2026-08-23T02:47:00Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -689,23 +689,6 @@
       "title": "Syyttäjä ei nosta syytteitä Seiskan entistä toimittajaa ja päätoimittajaa vastaan Ylen Riikka Räisäsestä koskevasta jutusta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T04:21:40Z",
-      "urls": [
-        {
-          "sign": "1ec35702636144e36885a6ea4a905ad3cb986a3e923c2739e94f558a91de49da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tähtitieteilijät löysivät Linnunradan nopeimman tähden S301 – vauhti 25 000 km/s",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13471,6 +13454,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T02:47:00Z",
+      "urls": [
+        {
+          "sign": "f86184e08543fbd95b53b031cbf509adf61fda72463a2aee478af5605211a9f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vuorikiipeilijä Anni Penttilä korostaa turvallisuutta ja tiimityötä – kutsuu kilpailutarkoituksella otettuja riskejä tyhmiksi",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
