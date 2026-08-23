@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T19:00:04Z",
+  "updated": "2026-08-23T19:14:35Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -5347,21 +5347,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T04:47:31Z",
-      "urls": [
-        {
-          "sign": "e3ee8eca80b97ac70dee0a7370c6f2e8833a9cd36661f75bdc01c1e3e2870af8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustajat pitävät kohtuullisina Tampereen yli 22 000 euron kutsuvierastilaisuuden kustannuksia",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T15:15:54Z",
@@ -12947,7 +12932,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-23T19:35:00+03:00",
+      "updated": "2026-08-23T22:11:00+03:00",
       "urls": [
         {
           "sign": "102882da6973a13d6a899fa3ab989910d111947e175dd4b032163c9a62a52fea",
@@ -12956,8 +12941,8 @@
           ]
         }
       ],
-      "title": "Lapinlahden elokuvajuhlat harkitsevat pientä varausmaksua vähentääkseen varaamattomia paikkoja",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Lapinlahden elokuvajuhlilla osa ennakkovaratuista paikoista jää käyttämättä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13503,6 +13488,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T19:14:35Z",
+      "urls": [
+        {
+          "sign": "394dacd279ae04422960024a3bd40cb2882df34cb4052ef5a8931bb141879554",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valkoisen talon somejulkaisu Freedom 250 -kilpailusta käytti Ferrarin F1‑kuvaa IndyCar‑auton sijasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
