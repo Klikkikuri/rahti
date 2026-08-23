@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T19:14:35Z",
+  "updated": "2026-08-23T19:41:18Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -1299,23 +1299,6 @@
       ],
       "title": "Harri Heliövaara ja Henry Patten putosivat Cincinnatin mestaruuskilpailuista toisella kierroksella",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T17:00:00Z",
-      "urls": [
-        {
-          "sign": "373a22f571b7f8f941528074c595a4ec0bfc70259a43a677d448c327df9d90a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Salatut elämät -viikkokatkaisu julki: Iiro pohtii Aaro-tietoja, Jenna avautuu",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -5142,23 +5125,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T04:52:45Z",
-      "urls": [
-        {
-          "sign": "c9afa1358865782f4e5d5180bc001c91b39803db59537e4713b7e2defb6396fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tyhjensi Helsingin puistot nuorten syyskokoontumisen aikana levottomuuksien vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T16:59:32Z",
       "urls": [
         {
@@ -5927,21 +5893,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-22T04:59:46Z",
-      "urls": [
-        {
-          "sign": "993a04f19c3072cb7971b730db1737124113b11d770dfaf6082a86adfcbe2ab1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti kartoitti Suomen edullisimmat sähkösopimukset: kiinteä hinta vai pörssisähkö kulutustason mukaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-22T04:53:00Z",
@@ -13505,6 +13456,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T19:34:23Z",
+      "urls": [
+        {
+          "sign": "7bafd6f7db7e66e70ab544b6304fd99595b1d4d7b630d42c6248b57e035f896b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies raiskasi toisen miehen Härmän Häjyn vessakopissa Seinäjoella ja sai vuoden ja kahden kuukauden ehdollisen vankeustuomion",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T19:36:03Z",
+      "urls": [
+        {
+          "sign": "786fb970ae228827db452ad2d4f0762a675ecacc5b37529aced94a5d6f23fad2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Good Good poisti kohua herättäneen mainoksen, jossa mies työnsi naisen maahan – yhtiöt pyytävät anteeksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T19:41:18Z",
+      "urls": [
+        {
+          "sign": "a27f2afb42fd4e5b4b077097cdb1790f01654dfe70c0de5a4d66b0e074095768",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lewis Hamilton syyttää Ferrarin taktista virhettä menetetystä palkintopallisijasta Hollannin GP:ssä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
