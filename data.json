@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T09:42:12Z",
+  "updated": "2026-08-23T09:58:11Z",
   "entries": [
     {
       "updated": "2026-08-02T13:36:22Z",
@@ -754,39 +754,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-20T06:45:35Z",
-      "urls": [
-        {
-          "sign": "f67892717e0e9823aaafdb7f8b893834000de7c21c3215db9a12a14b3add5feb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Koulurauhan julistus tapahtuu Kouvolassa kello 10 – oppilaat korostavat yhteishenkeä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T07:03:09Z",
-      "urls": [
-        {
-          "sign": "ce29356d6ebe90707b46726d098a671afcb1d41c7d38b4ecd4b64eb56fbfd449",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeuskansleri vaatii ministeriöltä selvennystä turkisasetuksen tieteellisestä perustelusta ja siirtymäajoista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-20T07:31:50Z",
@@ -5942,21 +5909,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T13:47:49Z",
-      "urls": [
-        {
-          "sign": "b60e65f4e4a89c52ef3d580b13cf9bd1f71c784ac90f54bcc2eb0095f4ddfcc6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus hylkäsi Matias Petäistön vaatimuksen keskeyttää Diosa Saran julkaisut",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T13:45:00Z",
@@ -12117,7 +12069,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-23T01:49:23Z",
+      "updated": "2026-08-23T09:54:10Z",
       "urls": [
         {
           "sign": "709d65bcb9403c496cf283f3af16f32f25ebd99bfaa06f23b7d81cff9efb803a",
@@ -12126,8 +12078,8 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos keskeytti etsinnät Taipalsaarella – purjeveneestä pudonnut henkilö jäi löytymättä",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Pelastuslaitos keskeytti etsinnät Taipalsaarella – purjeveneestä pudonnut mies jäi löytymättä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13478,6 +13430,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T09:58:11Z",
+      "urls": [
+        {
+          "sign": "1107511d14641aabe958cf42beac8f6fc3d75c20e2ae426e52cabca1fbe8a4c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ja pelastuslaitos etsivät Taipalsaarella purjeveneestä pudonnutta täysi-ikäistä miestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T09:52:41Z",
+      "urls": [
+        {
+          "sign": "ec73f2326434c8347a9d9e017dc31f5276df0ea29b2aa39093eb14bf990d9495",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanada asettaa vastatullit Yhdysvalloille 8. syyskuuta neuvottelujen kauduttua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T09:48:00Z",
+      "urls": [
+        {
+          "sign": "fdc82e1a2efc81a690ac5c68c1d387b5d20cd5763ea77132b663da6d28b03e77",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Manchester Cityn hyökkääjä Erling Haaland on leikannut pitkät hiuksensa lyhyiksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
