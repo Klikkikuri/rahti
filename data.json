@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T02:47:00Z",
+  "updated": "2026-08-23T03:05:40Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -1364,21 +1364,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-20T04:29:02Z",
-      "urls": [
-        {
-          "sign": "b872348f527e4092018dc3dee5b176faa5f9450223d182648b1ac1a07081f8b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat avasi öljytankkereille kulkuväylän Hormuzinsalmelle – Axios",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-20T09:30:38Z",
       "urls": [
         {
@@ -1548,23 +1533,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T13:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9359958646c93ce24c8a3e929fdf9a7fe1cc2b4d439bf7837ddadc0f8c85c8de",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-20T10:23:56Z",
@@ -5685,21 +5653,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-21T09:46:32Z",
-      "urls": [
-        {
-          "sign": "d08d85b7afeab41d2dfbd40f21affd49dc6514003e15702a2289d9774445a52e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovimuusikko Ilkka Ihamäki kirjoitti onnittelulaulun maratonin EM-voittaja Alisa Vainiolle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T18:16:00+03:00",
       "urls": [
         {
@@ -5713,23 +5666,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T09:48:05Z",
-      "urls": [
-        {
-          "sign": "2a7f5890a3f9df3606b140681f33ab2ed0b09d0332535c16f134ffccfa2d2d2f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EM-kullan voittanut Silja Kosonen vieraili presidentti Alexander Stubbin kesäasunnolla Naantalissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T12:57:00+03:00",
@@ -12438,7 +12374,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T20:42:02Z",
+      "updated": "2026-08-23T03:01:25Z",
       "urls": [
         {
           "sign": "ac03c8bd418282df243c4768ec1d7329e2b466b76c660d4ad01d218904b97bb5",
@@ -12447,7 +12383,7 @@
           ]
         }
       ],
-      "title": "Kesämyrky tuo etelä- ja itä-Suomeen rankkasateita ja kovia tuulia – sähkökatkojen määrä kasvaa",
+      "title": "Kesämyrsky tuo etelä- ja itä-Suomeen rankkasateita ja kovia tuulia – aiheuttaa tuhansia sähkökatkoja",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13471,6 +13407,72 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T03:03:23Z",
+      "urls": [
+        {
+          "sign": "39272a8a556428c99c8fa093f8cc185ed1de5301d8331699362f0e8aaa3d9200",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle esittää gaelinkielistä rikossarjaa Murha saarella: yhden jakson tuotantokustannus on yli miljoona euroa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T06:02:00+03:00",
+      "urls": [
+        {
+          "sign": "1d1f03893e4dbb0fb4f907013920e0550b0c6a129972f9535955ea3350a7b520",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etsijät eivät löytäneet Taipalsaarella purjeveneestä pudonnutta henkilöä – pelastustoimi päättyi yön aikana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-23T03:05:40Z",
+      "urls": [
+        {
+          "sign": "0f6cabdc98fcbab2e266884dae23d1eb4db587d9ac66c8fdb31fda65f87a9e3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T03:00:35Z",
+      "urls": [
+        {
+          "sign": "8a1ebf25dda1488ac4e560bf92849e02f9216b741181d0658947fe7afba7df38",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Häätömäärät kasvavat Suomessa – Ulosottovirasto kokeilee ennaltaehkäisevää neuvontaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
