@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T23:54:00+03:00",
+  "updated": "2026-08-23T21:01:35Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -664,21 +664,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-20T11:27:36Z",
-      "urls": [
-        {
-          "sign": "3576173071f446940ddb5dda0e8ead919f5d007bbfddf9ec9d921d3baac18bbb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "The Freyas -gaala jakaa ensimmäiset pohjoismaiset elokuvapalkinnot Helsingissä 22. syyskuuta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-20T11:50:57Z",
       "urls": [
         {
@@ -755,23 +740,6 @@
       "title": "Pertti Helppikangas ampui satakiloisen villisian Lohinivan kylällä – pohjoisin havainto yli 200 km pohjoisempana kuin aiemmin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T11:33:13Z",
-      "urls": [
-        {
-          "sign": "c2001cac2ce1efdf1b6bf196cef443354e5f17f6a13f09edb23247f98a6e7bfd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump uhkasi pommittaa Omanin – Persianlahden arabimaat hakevat uusia kumppaneita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -13503,6 +13471,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T20:40:38Z",
+      "urls": [
+        {
+          "sign": "fc59918497a10b26a2cc10bdabf12cf5a76141396b863864728cd3cc8ba45a62",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Europarlamentaarikko Raphaël Glucksmann ilmoittautui Ranskan presidentinvaaliehdokkaaksi sunnuntaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T21:01:35Z",
+      "urls": [
+        {
+          "sign": "bfb920cd4930e392dd1dcd3b4d0a9120aeba2944f38d68efa9328826dcaa4398",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Geopoliittisten riskien kasvu heikentänyt suomalaisten teollisuusyritysten tuottavuutta yli kaksi prosenttia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
