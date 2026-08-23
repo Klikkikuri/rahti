@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T06:30:28Z",
+  "updated": "2026-08-23T06:59:49Z",
   "entries": [
     {
       "updated": "2026-08-02T13:36:22Z",
@@ -831,38 +831,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T06:42:16Z",
-      "urls": [
-        {
-          "sign": "8749452670fda6c572996722b50b2a4e81178a68d747adde37781352cdf76892",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Metsästäjät kaatoivat aamulla Lieksassa ainakin seitsemän karhua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T06:53:22Z",
-      "urls": [
-        {
-          "sign": "548962479d3bb221078c77ad2a15f3c9ced336b3722a7c5271a4f0cea3d3294a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin yliopisto valittaa hallinto-oikeuteen Wille Rydmanin tutkimusrahoituspäätöksistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-20T06:02:43Z",
       "urls": [
         {
@@ -876,21 +844,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T06:46:47Z",
-      "urls": [
-        {
-          "sign": "60b6bfbc6af9a33b0836e6b0dfef08125ba364dd5e74ffe551985f80f091c8e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle: Hoitajat käyttäneet turvasumutetta kehitysvammaisiin Kainuussa vuodesta 2020 alkaen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-20T06:45:35Z",
@@ -6085,23 +6038,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T12:06:18Z",
-      "urls": [
-        {
-          "sign": "9b42c119a46befd014fe354519915dac9c9f7d318da607fdbac76f0212e0ece8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taksi ajoi vastakaistalla Nurmijärvellä – Taksi Helsinki tutkii tapausta vakavasti",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13461,6 +13397,68 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T06:59:49Z",
+      "urls": [
+        {
+          "sign": "2bc0131eef617f6c6a4dbc9067b37cb1f71127da087bff7c618f24a8ae10da60",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Merivartiosto aloitti vesiliikennejuopumustutkinnan Helsingissä uponneen veneen johdosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T06:52:15Z",
+      "urls": [
+        {
+          "sign": "1747b6bdc11220b986f9400197fd65d7f5351fe16dbba567c60d2e15a8c33da3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "18-vuotias oppilas surmasi luokkatoverinsa miekalla Fagerstan lukiossa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T06:55:20Z",
+      "urls": [
+        {
+          "sign": "4adda09a653742249f96994850261bee749356aa399421fbb5aabab024e9725f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NHL:n uusi seura tulee Texasiin, Dan Friedkinin yhtiö on maksanut laajentumismaksun, odottaa seurojen hyväksyntää",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T06:45:18Z",
+      "urls": [
+        {
+          "sign": "c1c5b7fdf70b0a5912eedc08b9840c4bbdc2e85e6c4bc26ec708c5feabe0834c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii 20-vuotiasta miestä, joka pakeni poliisia yli 150 km/h:n nopeudella Lahdessa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
