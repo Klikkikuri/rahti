@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T04:27:43Z",
+  "updated": "2026-08-23T04:42:22Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -34,7 +34,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-23T04:18:34Z",
+      "updated": "2026-08-23T04:42:22Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -43,7 +43,7 @@
           ]
         }
       ],
-      "title": "Iltalehti selvittää Venäjän propagandan keinoja ja niiden kasvavaa kohdistumista Suomeen",
+      "title": "Venäjän propagandan määrä Suomessa on kasvanut Nato-jäsenyyden jälkeen",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -829,23 +829,6 @@
       ],
       "title": "Asiantuntijat suosittelevat puskuria, joka kattaa vähintään yhden kuukauden menot – ideaalisesti neljä kuukautta",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T05:38:51Z",
-      "urls": [
-        {
-          "sign": "22a09dc682ac62cfffd517a0a86650bf0aed8aef44e217afdd31d0a0316ce4c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjola: Sähköautojen kolarivahingot keskimäärin 40 % kalliimpia kuin muilla autoilla",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -5860,41 +5843,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T10:40:39Z",
-      "urls": [
-        {
-          "sign": "8b65d5b6b0e4dfeb9fe01c7f94143d2c081635c3763b00660bdd704524eb3021",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "PKS Sähkönsiirto aloittaa helikopterilla tehtävän oksinnoinnin Pohjois-Karjalassa – turvaetäisyys vähintään sata metriä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T10:32:29Z",
-      "urls": [
-        {
-          "sign": "2480b913639ee623c93eb44d1eb733c720ccfbf1fd8b1d2232fda0f3928ca23f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T10:35:41Z",
@@ -12229,7 +12177,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T03:38:09Z",
+      "updated": "2026-08-23T04:42:11Z",
       "urls": [
         {
           "sign": "ac03c8bd418282df243c4768ec1d7329e2b466b76c660d4ad01d218904b97bb5",
@@ -12238,7 +12186,7 @@
           ]
         }
       ],
-      "title": "Kesämyrsky tuo viikonloppuna etelä- ja itä-Suomeen rankkasateita ja kovia tuulia – sähkökatkoja voi syntyä tuhansia",
+      "title": "Kesämyrsky tuo viikonloppuna etelä- ja itä-Suomeen rankkasateita ja kovia tuulia – meteorologi varoittaa sähkökatkoista",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13477,6 +13425,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T04:42:00Z",
+      "urls": [
+        {
+          "sign": "bd6048d2a47149187dbec5ab82babdedc7a609d94cea46034246e83afbc3e47a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat: Tekoälyn vinouma johtuu datan epätasapainosta – monimuotoiset tiimit ehkäisevät virheitä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T04:40:12Z",
+      "urls": [
+        {
+          "sign": "6f146aa63285635332f14c971b6d52bfc2b984abe16cf2e9c63728ecf4a258d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän jääkiekkomaajoukkueet osallistuu vuoden 2027 talviuniversiadiin neutraalilla statuksella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T04:30:35Z",
+      "urls": [
+        {
+          "sign": "bccf702741b4493b5cf6ebd051cedd68a5677548f5b71ca80154626c16ea155c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aimo Parkin järjestelmävirhe johti asiakkaan pysäköintilaskujen perintään",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
