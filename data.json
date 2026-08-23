@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T15:29:08Z",
+  "updated": "2026-08-23T15:43:17Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -1092,23 +1092,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T14:13:38Z",
-      "urls": [
-        {
-          "sign": "cb5db92b4f2502cc0570de49846e26b35ec5b3b6e45347c84e8628ae40e49ff8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hope not Hate löysi yli 5 500 rasistista viestiä Englannin pelaajiin MM-kisojen aikana",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-20T14:34:21Z",
       "urls": [
         {
@@ -1218,21 +1201,6 @@
       ],
       "title": "SDP:n Matias Mäkynen vastustaa Aki Lindénin esittämää indeksileikkausta: Se johtaisi yt-neuvotteluihin",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-20T18:39:00+03:00",
-      "urls": [
-        {
-          "sign": "7f62161d097a94298e2a687257b11ac0eddbec6ab76d7f9ada177c6932e11180",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentin virallisen muotokuvan kuvaaja Jussi Ratilainen avasi näyttelyn työnhakijoiden kokemuksista Helsingin päärautatieasemalle",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -1698,21 +1666,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T14:14:39Z",
-      "urls": [
-        {
-          "sign": "bdaa605341bedebba722757ea4628d791bad2048c04c08689e8d7c9a23db4e0a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain ilmavoimien kuljetuskone kääntyi takaisin Etelämanner-reitiltä Venäjän avaruustoiminnan varoituksen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-20T15:14:00Z",
@@ -12601,7 +12554,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-23T15:29:08Z",
+      "updated": "2026-08-23T15:43:17Z",
       "urls": [
         {
           "sign": "3855a781192cc74a2a7ba620f70daafc73ed5cad758d8c2d786201f9e9602ebb",
@@ -12611,7 +12564,7 @@
         }
       ],
       "title": "Timanttiliiga Chorzówissa sunnuntaina: Duplantis ja Karalis kilpailevat seiväshypyssä, Ingebrigtsen palaa kilpailuun",
-      "clickbaitiness": "Moderately Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13485,6 +13438,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T18:36:00+03:00",
+      "urls": [
+        {
+          "sign": "da4c8628d71bdaaf7426bb5c882a6317f89800e308a19fba15363b52ba73150b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keusote purki Klaukkalan terveysaseman vuokrasopimuksen ja siirsi palvelut Nurmijärven kirkonkylälle – Matti Vanhanen vaatii palauttamista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-23T15:10:15Z",
+      "urls": [
+        {
+          "sign": "0df12472f95d33d5177c5a885f6f8a9ddf95e8eae5933a5a7a18a022627de161",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lando Norris voitti Hollannin GP:n – Verstappen keskeytti avauskierroksella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-23T15:42:53Z",
+      "urls": [
+        {
+          "sign": "84edc0e373b17def109c30a17e001b4719b2f4c2a25e7d222acc8840f8065e5e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaikki yhdeksän juoksijaa alitti kymmenen sekuntia Timanttiliigan 100 metrillä Puolan Sleesiassa sunnuntaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
