@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T04:02:36Z",
+  "updated": "2026-08-23T04:27:43Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -34,7 +34,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T19:11:55Z",
+      "updated": "2026-08-23T04:18:34Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -43,7 +43,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sodan kehitystä ja käsittelee Venäjän propagandaa",
+      "title": "Iltalehti selvittää Venäjän propagandan keinoja ja niiden kasvavaa kohdistumista Suomeen",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -752,21 +752,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-20T04:56:04Z",
-      "urls": [
-        {
-          "sign": "59471c04c94c229cebf14dce66c74b50fa3675629af41ecaa1712d05de7ae703",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija muistuttaa käsien pesemisestä munien käsittelyn jälkeen – salmonellatapaukset Suomessa tavanomaisella tasolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-20T05:10:10Z",
@@ -13475,6 +13460,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T04:27:43Z",
+      "urls": [
+        {
+          "sign": "47fc238e9655e083e87b0cf58afe0bf0beb3caf169339f1bc64896a12164093e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Antti Calonius paljastaa aiemmin julkaisemattomat kirjeet ja maalauksen, jotka voivat vahvistaa Helene Schjerfbeckin sulhasen henkilöllisyyden",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
