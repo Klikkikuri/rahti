@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T13:14:21Z",
+  "updated": "2026-08-23T13:42:13Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -707,23 +707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-20T09:29:30Z",
-      "urls": [
-        {
-          "sign": "3745b1fecfa4633eee26800ee949e0e60c334747cecd0b44465643c97dd5ee62",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kaupunginteatterin & Julia -musikaalin ennakkomyynti saavutti lähes 70 prosenttia lipuista ennen ensi-iltaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-20T10:30:51Z",
@@ -5771,21 +5754,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T15:43:04Z",
-      "urls": [
-        {
-          "sign": "0041ff1689f3be9d98c31264f8f7de67826e325b0c5faefc690d0d28f53d1d6f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Niko Saarinen ja Mari Ståhlhammar vihjaavat Big Brother -yhteydestä: yhteinen projekti paljastuu ensi viikolla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T15:29:00Z",
       "urls": [
         {
@@ -5852,21 +5820,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T15:42:28Z",
-      "urls": [
-        {
-          "sign": "f5198875a60ee1c34fb084a6a45034e2dc78f5bd9f67abe458cd91a4e9552b1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jäteveden ylivuoto Päijänteessä – ympäristöterveydenhuolto kehottaa välttämään uimista Ranta-Uimolassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-21T20:02:00+03:00",
       "urls": [
         {
@@ -5882,53 +5835,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T15:52:22Z",
-      "urls": [
-        {
-          "sign": "6b1d3296d42bb34910ecf74853607eaf1b0b764755723f6381c18446f66206e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mercedeksen George Russell ajoi F1-sprintin paalulle Hollannissa – Kimi Antonelli viides",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T15:58:46Z",
-      "urls": [
-        {
-          "sign": "5903f94f89b4e2c2ac26103b731a16dde30fa3cfaaae71b35c3e4c90eede4d55",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Japanilainen Tomo Bushida muutti muumien innostuksesta Suomeen – työllistyminen ja elinkustannukset osoittautuivat haastaviksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T15:47:41Z",
-      "urls": [
-        {
-          "sign": "b22f1fedf5dd6af229f9932bc8aa7c72391773752eae0cf0a37d88393e3ab5e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Traktorionnettomuudessa loukkaantunut ministeri Mika Poutala on palannut kotiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-21T18:45:00+03:00",
@@ -12832,7 +12738,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T10:43:53Z",
+      "updated": "2026-08-23T13:14:40Z",
       "urls": [
         {
           "sign": "9f78d494c1039ab3b439518bca7e55f6184585ec00e8337a6658ae36cbff3383",
@@ -12843,7 +12749,9 @@
       ],
       "title": "Vihreiden kansanedustaja Fatim Diarra vaatii työnantajille lisävelvoitteita mielenterveyskustannusten vähentämiseksi",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13467,6 +13375,107 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T12:26:10Z",
+      "urls": [
+        {
+          "sign": "9367afb8c878a73978d442778cc006e6b7afaacbc573d9ab5020f9d94ef83ae5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Patria ja General Cherry sopivat yhteistyöstä droonien kehittämiseksi ja tuotannon käynnistämiseksi Suomessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T12:36:56Z",
+      "urls": [
+        {
+          "sign": "d7ae1fe745e306a5ae8913248cf4b36e7cf7d60c934fa0aca1c32d24be614ad5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jere Karalahti aikoo maksaa huumevelkojaan syyskuun 12. päivän nyrkkeilyottelun palkkiolla – Nelonen Media vaikenee osallistumisen perusteista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T13:22:20Z",
+      "urls": [
+        {
+          "sign": "f5c543092dac516ebdc99a27b664c87994de877fca394f06140f05f607ef95be",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "a99616fbf99577d163703861d28d6320bc07b0d79e76dd246c83d094093d27d6",
+          "labels": []
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T13:37:59Z",
+      "urls": [
+        {
+          "sign": "2ae8535c826d6687f93da992a879b5b806d00815a0a8d15edc14b9fb4bdff1cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Korkeapaine tuo poutaisen sään ja 15–20 asteen lämpötilat Suomeen tiistaina",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T13:42:13Z",
+      "urls": [
+        {
+          "sign": "fa3d4bc83abd10d71b92b5979ebab06588cf0c65473db23224cc077f01a51e3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Myrsky aiheutti kuolonuhreja ja laajoja sähkökatkoja Latviassa ja Liettuassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T13:30:26Z",
+      "urls": [
+        {
+          "sign": "4bde8463295b52f0523a3a856154bce100f779d73e7ef221575566a5b7779551",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miss Suomi 2026 -finalistien kuvat herättivät epäilyjä tekoälyn käytöstä – järjestö kiistää väitteet",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
