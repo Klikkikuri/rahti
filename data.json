@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T05:09:14Z",
+  "updated": "2026-08-23T05:29:36Z",
   "entries": [
     {
       "updated": "2026-08-02T06:00:20Z",
@@ -800,23 +800,6 @@
       "title": "Taiwan korottaa puolustusmenoja 18 prosentilla – summa yli 30 miljardia euroa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T04:59:53Z",
-      "urls": [
-        {
-          "sign": "39c9818836ceda2e20bf311382e889a42c7b1b5f49f592f1c9e2f6f1bf910afc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karva-ansat selvittävät, käyttävätkö liito-oravat Helsingin hyppytolppia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -5780,23 +5763,6 @@
       "title": "Syyttäjä jättää nostamatta syytteitä Seiskaa vastaan Ylen uutispäätoimittajan parisuhdejutusta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T10:51:48Z",
-      "urls": [
-        {
-          "sign": "75d65f8b0dc55c338a7923497529cb2d24fb280a55c505bbe65abe4de3deb4be",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13478,6 +13444,40 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T05:19:04Z",
+      "urls": [
+        {
+          "sign": "6f6f292df29e9a9c6afeab05379d0877afa437eb1d090b762d936882389e17e2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Take Two aloittanut oikeustoimet New Yorkissa väitettyjen GTA VI -vuotojen vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T05:29:36Z",
+      "urls": [
+        {
+          "sign": "5d3d5fbd8a355227c433b33e3940e05034cc5c4a3a8bfece3101ae561f69f825",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hyökkääjä lisäsi Datatronici-verkkokaupan maksuprosessiin huijauskenttiä – yhtiö kehottaa 50 asiakasta sulkemaan korttinsa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
