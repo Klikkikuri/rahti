@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T20:01:31Z",
+  "updated": "2026-08-23T23:54:00+03:00",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -1369,21 +1369,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T21:35:00+03:00",
-      "urls": [
-        {
-          "sign": "85cb634f66e63c6ff42ed7e887f5c00271d8dd5d97a8a0b30ea473ee834d8f7b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump ilmoittaa Irania vastaan kohdistettavasta talousoperaatiosta, Kiinan öljyntuonti vaarantuu",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-20T18:19:58Z",
@@ -5974,21 +5959,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T06:05:02Z",
-      "urls": [
-        {
-          "sign": "086fad75a4cf86f0594117fc6b2060109c840647a03ef87fc5ea01a8e19fd683",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "AIK-puolustaja Diogo Tomas joutui leikkaamaan kätensä – jakaa toipumisviestin Instagramissa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-22T06:20:03Z",
@@ -13500,6 +13470,38 @@
       "title": "Amerikkalainen kehonrakentaja Dwayne Quamina kuoli yllättäen 40‑vuotiaana – viikkoja aiemmin jakama viesti kehotti elämään täysillä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-23T23:54:00+03:00",
+      "urls": [
+        {
+          "sign": "fe80404d8d3e3a230601df078409a1689da81d5f228ecd786bf66628bde594c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rankkasateet aiheuttivat jätevyöryn Conakryssa – kymmeniä ihmisiä kuoli ja taloja hautautui",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-23T20:49:32Z",
+      "urls": [
+        {
+          "sign": "20f5188cd34892052a075fde5906f11589fb6126406efc6630c717c554b9d65b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin syyttää Ukrainaa talouskohteiden iskusta; Norja lupaa 7,8 miljardin euron tuen Ukrainalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
