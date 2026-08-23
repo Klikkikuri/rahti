@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T08:10:06Z",
+  "updated": "2026-08-23T11:29:58+03:00",
   "entries": [
     {
       "updated": "2026-08-02T13:36:22Z",
@@ -5928,21 +5928,6 @@
       ],
       "title": "Iltalehti arvioi Pogban siirtoennätyksen rikkoneet 16 jalkapallonsiirtoa vaikutuksen, tilastojen ja saavutusten perusteella",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-21T12:47:30Z",
-      "urls": [
-        {
-          "sign": "f7aad1a07bea07cca3e0183d1f2920a4fe458d1549788e34827f697bd9c0f8ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "YK:n ebolakoordinaattori varoittaa Kongon ebolaepidemian leviävän eksponentiaalisesti",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -12261,7 +12246,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T00:02:00+03:00",
+      "updated": "2026-08-23T11:26:00+03:00",
       "urls": [
         {
           "sign": "93b7135eb659a6ac0533bfd0236b4b40ea4758d3aa0e93f1bbf9691b9328af4c",
@@ -12270,11 +12255,9 @@
           ]
         }
       ],
-      "title": "Lastenkoti paloi Helsingin Mellunmäessä lauantai-iltana – poliisi tutkii syttymissyytä",
+      "title": "Tulipalo teki Helsingin Mellunmäen lastenkodin rakennuksen käyttökelvottomaksi – poliisi tutkii syyn",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13280,7 +13263,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-23T07:29:04Z",
+      "updated": "2026-08-23T11:29:58+03:00",
       "urls": [
         {
           "sign": "745559154dbe1e3c4164cb837978df9d8a178d8085ae9412355d32910647b805",
@@ -13289,9 +13272,11 @@
           ]
         }
       ],
-      "title": "Presidentti Alexander Stubb saapui Kiovaan Ukraina-huippukokouksiin ja sotilasavun neuvotteluihin",
+      "title": "Presidentti Alexander Stubb saapui Kiovaan Ukrainan huippukokoukseen ja sotilasavun neuvotteluihin",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13468,6 +13453,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-23T08:22:37Z",
+      "urls": [
+        {
+          "sign": "b81cf852f0b6a9d7c14fa4df8303f25dd777944ef2431a0d6057b88e4780a3cc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tanssikouluyrittäjä Anitra Ahtola sairastui sydänlihastulehdukseen toisen kerran, kehottaa ottamaan levon tosissaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
