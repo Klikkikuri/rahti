@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T08:00:00+03:00",
+  "updated": "2026-08-24T05:05:35Z",
   "entries": [
     {
       "updated": "2026-08-24T04:44:24Z",
@@ -678,21 +678,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-20T12:51:37Z",
-      "urls": [
-        {
-          "sign": "42a42d29774d504b48f14c2f4b8e083ad16904a2cc63eedaaa974815365c759c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nainen saa syytteet kahdesta törkeästä ihmiskaupasta viettyään lapsensa Al-Holin leirille Syyriaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -5799,21 +5784,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-22T08:45:33Z",
-      "urls": [
-        {
-          "sign": "36d8751d85200145d27a1509f34e9ac7956ca177c40997086629c71500d3ba77",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "UEFA määrää IFK Göteborgille 25 000 euron sakot kannattajien vandalismin vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-22T08:59:52Z",
@@ -13511,6 +13481,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-24T04:45:23Z",
+      "urls": [
+        {
+          "sign": "f8840000de95235ff9fd2fb2744438726c5d2f0a9c19c4e209ffa6d744ce845f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: X:n algoritmi lisäsi rasistista vihaa Englannin jalkapalloilijoita kohtaan MM-kisoissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T05:05:35Z",
+      "urls": [
+        {
+          "sign": "065dd4ae62bac10115d03e7eceb07ff3947acf75154a355759b7da615d7137f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle 100 -juhlat areenalla: lastenkonsertti, Yle 100 Show ja RSO Metalliklassikot",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
