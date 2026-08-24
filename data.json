@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T16:45:00+03:00",
+  "updated": "2026-08-24T13:59:06Z",
   "entries": [
     {
       "updated": "2026-08-24T04:44:24Z",
@@ -664,21 +664,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T05:22:05Z",
-      "urls": [
-        {
-          "sign": "ea546547f15bd85a9b8c16f90791ea788e90800b59bc1d8efcab787e4566f555",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "THL kehottaa laivamatkustajia tarkistamaan rokotussuojansa tuhkarokkoon sairastuneen laivamatkojen jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-21T05:33:19Z",
@@ -2173,23 +2158,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T14:08:33Z",
-      "urls": [
-        {
-          "sign": "b2090adef6ea98ae188a3f5e1649c63303c3d5c6435eb838cdd53584dca6d207",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi esitteli etälamauttimen käyttöä julkisesti – väkivallan torjuntaa on käytetty tänä vuonna lähes 400 kertaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-21T17:16:00+03:00",
@@ -5503,51 +5471,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-22T18:46:28Z",
-      "urls": [
-        {
-          "sign": "12d37d56921e3ec9b2900fb20c172051f8ecbb50849dd8faa2c863e4de915c6c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brentford voitti Tottenhamin 3–0 Valioliigan avauskierroksella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-22T19:05:15Z",
-      "urls": [
-        {
-          "sign": "0aaff96934b5a1629b41a594ece37b0c95705535f96602aaedadbd097242ded9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Republikaanit huolestuneet Trumpin kampanjoinnista Etelä-Carolinassa senaatin hallinnan kannalta kriittisten osavaltioiden ohittamisen vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-22T19:05:15Z",
-      "urls": [
-        {
-          "sign": "f7ecef4348bc43e8be3e4b1eb2887c960e66c12d99333d62a0245e53cd76457d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Queenin entinen basisti Barry Mitchell on kuollut",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-22T19:20:40Z",
@@ -13485,6 +13408,87 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T13:49:55Z",
+      "urls": [
+        {
+          "sign": "8b6a00df06caa29ff6ed45ecd253482c3909cbf330296d6dd228bd910c8a26dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Prisman tukkuosastot myyvät yllättäen paljon valkosipulimurskaa – myyjät yllättyivät suosiosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T13:31:30Z",
+      "urls": [
+        {
+          "sign": "7259f7551a97efa3d3f855555cc51838afdb587fd31d9b79f262d7435d1f0bf4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan mestari Alisa Vainio sai timanttikorvakorut Lappeenrannan Urheilu-Miehiltä – arvo tuhansia euroja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T13:54:30Z",
+      "urls": [
+        {
+          "sign": "b4cdf457349250a046ae68b9ccebb5d907d5c567ae46f33bf8e56f5881debbff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Siperian metsäpalosta peräisin oleva sumu aiheutti silmä- ja päänsärkyoireita ulkoilijoille Ylä-Lapissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-24T13:59:06Z",
+      "urls": [
+        {
+          "sign": "9d02c289c8e47d27204f57c2a56206cb6ec64ad42113a4f4b6e6434f40702a61",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Koas: Opiskelija-asunnoissa Jyväskylässä löytyi luteita elokuussa – kolme havaintoa eri taloissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T13:44:00Z",
+      "urls": [
+        {
+          "sign": "517563df25c085f647fd70c587fdc2a64c240ae6fc72739cabdeb4aca0986ee9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hanna Sumari neuvoo tarjoamaan pilkottuja kasviksia lapsille heti kotiin tultua nälkäkiukun hillitsemiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
