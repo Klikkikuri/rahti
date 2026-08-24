@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T13:59:06Z",
+  "updated": "2026-08-24T17:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-24T04:44:24Z",
@@ -1115,21 +1115,6 @@
       ],
       "title": "Euroalueen teollisuuden kasvu kiihtyi elokuussa; ETLA ja OP ennustavat Suomen talouden kasvavan kaksi prosenttia",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T12:30:00+03:00",
-      "urls": [
-        {
-          "sign": "3c68fd9b6f94fc7696775f9988cba06f032a18098e59eb35a258bfd9747e034a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilta-Sanomien ja Kauppalehden mukaan datakeskusten sähkönkulutus kiihdyttää huolia kuluttajahinnoista, mutta luo taloudellista potentiaalia",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -10655,7 +10640,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T13:06:49Z",
+      "updated": "2026-08-24T13:37:27Z",
       "urls": [
         {
           "sign": "4c4f3888d47a6d0a001884ef6c2c16da4255bf591af6b72dbcf4051434d73305",
@@ -10664,11 +10649,9 @@
           ]
         }
       ],
-      "title": "Suurlähettiläskokous alkaa Helsingissä maanantaina – Iltalehti lähettää ministerien puheenvuorot suorana",
+      "title": "Presidentti Alexander Stubb ja komission varapuheenjohtaja Henna Virkkunen käsittelevät kokonaisturvallisuutta suurlähettiläskokouksessa Helsingissä",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13489,6 +13472,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-24T17:00:00+03:00",
+      "urls": [
+        {
+          "sign": "4b54bbc7fb99843b503b1a37a33bd85652ada992b9feaabf7e6167df6c9f6b7d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
