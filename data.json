@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T21:36:05Z",
+  "updated": "2026-08-25T00:56:00+03:00",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -1031,23 +1031,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T15:55:00+03:00",
-      "urls": [
-        {
-          "sign": "800110f43166a2be3899bc77b60c50cfce08557f83ed62b70ec6a089d2d373a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-21T13:00:50Z",
@@ -13517,6 +13500,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T00:56:00+03:00",
+      "urls": [
+        {
+          "sign": "59e242152429c847335c81b2c32a9dc05c70d6bf5b0d5f1ba2a4fbe8ca0545f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "AP: Trumpin hallinto aikoo peruuttaa jopa 200 000 liike- ja turismiviisumia turvapaikkahakemusten vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
