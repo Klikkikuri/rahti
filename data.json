@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T20:43:45Z",
+  "updated": "2026-08-24T20:58:19Z",
   "entries": [
     {
       "updated": "2026-08-24T16:39:26Z",
@@ -741,23 +741,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T10:10:54Z",
-      "urls": [
-        {
-          "sign": "f2da6f0d2c7bf1d88cc28332d5687c672e2841f65b3aad473b62d06359a5f60f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Blockfest tuo kansainväliset ja kotimaiset rap-artistit Tampereen Ratinan stadionille",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-21T10:27:17Z",
@@ -13440,7 +13423,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-24T23:34:00+03:00",
+      "updated": "2026-08-24T23:46:00+03:00",
       "urls": [
         {
           "sign": "afa27d4229583f30cb1858e7683c26ec6fbd53c6f1706d10f2542f8298f06ff2",
@@ -13449,7 +13432,7 @@
           ]
         }
       ],
-      "title": "Presidentti Stubb suojautui Kiovassa ilmahälytyksen aikana",
+      "title": "Tasavallan presidentti Alexander Stubb siirtyi Kiovassa pommisuojaan ilmahälytyksen aikana",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13517,6 +13500,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T20:58:19Z",
+      "urls": [
+        {
+          "sign": "40ffbb9e910900c01da270256ed329db4bff173405fadd1ebdcf520b4cf8711e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin hallinto valmistelee jopa 200 000 turvapaikanhakijan viisumin peruuttamista",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
