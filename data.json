@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T18:59:49Z",
+  "updated": "2026-08-24T19:12:40Z",
   "entries": [
     {
       "updated": "2026-08-24T16:39:26Z",
@@ -726,21 +726,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T09:57:47Z",
-      "urls": [
-        {
-          "sign": "b95ec8d37d59cc503dd034701f79d7b611e29e93c045066fc4d61affd9c79ebc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korkein oikeus muutti Lahden ammuskelutuomiota: Olli Aleksi Lehto tuomittiin tapon yrityksestä ja törkeästä kuolemantuottamuksesta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-21T18:16:00+03:00",
@@ -5585,21 +5570,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T09:01:55Z",
-      "urls": [
-        {
-          "sign": "8efce848d95899f51a4698911f27f9ebac4169fca8aa3131c88ffbae2c427f8a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rolf Nordmo valittaa murhatuomiostaan Helsingin hovioikeuteen – oikeudenkäynti alkaa maanantaina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-23T12:00:00+03:00",
       "urls": [
         {
@@ -5630,21 +5600,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-23T09:06:44Z",
-      "urls": [
-        {
-          "sign": "a544b207a9ffc00aec8eece82688f6f27ac20d732c33d4febdc6c01de068d3f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laulaja Bess kertoo Vain elämää -kuvausten aiheuttamasta väsymyksestä ja 16 tunnin univajeesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T09:23:53Z",
@@ -13496,6 +13451,72 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T18:12:04Z",
+      "urls": [
+        {
+          "sign": "1c048c5778177562cfd8de444000aff8fac7d190ed9c93ca670f73ab4af4f93f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metsä Group aloittaa Äänekosken biotuotetehtaan vuosihuoltoseisokin perjantaina 28.8.2026",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-08-24T18:49:25Z",
+      "urls": [
+        {
+          "sign": "fdc29d5936fa2a9b2bec42db276ee231a074ca2a808088c876f541db211044c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NHL‑tulokas Matthew Schaefer vieraili Matt Martinin lasten kiekkoleirillä – hanskojen pudottaminen junnun kanssa sai sekä kiitosta että kritiikkiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T19:12:40Z",
+      "urls": [
+        {
+          "sign": "b8aa1ba22cc2366b889047634ac7b77a4fffd0f41caaba454ef33a01b4bcdc34",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henna Virkkunen: EU varautuu tekoälyn hallinnan menettämiseen lainsäädännöllä ja kansainvälisellä yhteistyöllä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-24T18:59:57Z",
+      "urls": [
+        {
+          "sign": "8ae96e7b32283284dbbf23d0e9314ba8785cfe31905b13fb3ac208d42ba09895",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat varoittavat: Trump saattaa julistaa kansallisen hätätilan välivaalien suojelemiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     }
