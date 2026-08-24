@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-23T23:39:51Z",
+  "updated": "2026-08-23T23:46:24Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -5799,23 +5799,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-22T06:30:35Z",
-      "urls": [
-        {
-          "sign": "bf87e084326060d42b7faef6b982975d44809b8bf5610001c64cb0471263af68",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kyberturvallisuuskeskus varoittaa: Rikolliset huijaavat puhelimitse kyberasiantuntijoina hankkiakseen pankkitunnuksia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-22T09:30:00+03:00",
@@ -13507,6 +13490,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-23T23:46:24Z",
+      "urls": [
+        {
+          "sign": "432b664026fef3b17650eeeac947a94a894e8f7a40ba4625c7368181fa1ce314",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksalaisnaisen ruumis löytyi Gran Canarian rotkosta – poliisi tutkii mahdollista murhaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
