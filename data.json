@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T03:31:22Z",
+  "updated": "2026-08-24T03:54:25Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -1468,23 +1468,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T03:20:56Z",
-      "urls": [
-        {
-          "sign": "fb59b7d2f9189caee108dfd3361724bacbeae1e8b135e7cf18eab75bab6354c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos auttoi Oulussa kaksi kumiveneilijää, jotka olivat jääneet ilman airolta – muistuttaa turvavarusteista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-21T06:35:14Z",
@@ -5819,23 +5802,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-22T07:41:13Z",
-      "urls": [
-        {
-          "sign": "aee8219bb39b511936f294d4d07cd30706f2c785b45b31383aa0b32eb1cb2d16",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin nuoret kokoontuivat puistoihin ennen koulujen alkua – poliisi tyhjensi alueet ajoissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-22T07:30:00Z",
@@ -13510,6 +13476,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T03:54:25Z",
+      "urls": [
+        {
+          "sign": "350459509093280237e89f8637f0b16369f2ed22db4d87ae67ee0a6a0f0997a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Bunny Levine kuoli 20. elokuuta 97-vuotiaana Los Angelesissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T03:00:22Z",
+      "urls": [
+        {
+          "sign": "4664d7bd24eae030de8e95ea5aca75bfd8672da8c7bee0c92d5ac01481783602",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yli 40 000 ihmistä evakuoitu Nevadan maastopaloista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
