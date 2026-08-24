@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T19:28:00+03:00",
+  "updated": "2026-08-24T16:42:50Z",
   "entries": [
     {
-      "updated": "2026-08-24T04:44:24Z",
+      "updated": "2026-08-24T16:39:26Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "WSJ:n mukaan Venäjä valmistelee uutta liikekannallepanoa – Iltalehti seuraa sotaa",
+      "title": "Ukraina palautti kymmenen kadonnutta sotilasta taistelujen jälkeen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -5434,21 +5434,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T05:44:04Z",
-      "urls": [
-        {
-          "sign": "19b4e0f3cc52ac9c6d8a60199e0fe99f262a136cabaa3c5c949e877bd7056589",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Johannes Klæbo sijoittui Norjan rullahiihtokisoissa sijalle 42 ja 43 – hiihtotähti pitää tuloksia vain kesäharjoitteluna",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T05:43:46Z",
@@ -13491,6 +13476,21 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T16:42:50Z",
+      "urls": [
+        {
+          "sign": "d3b84d4366607d3b42a47510ccfafaf05f27aac48d6fbcc67b3018f1a5b31483",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Kai Vaine aloitti kiinteistönvälittäjän työn perheen toimeentulon turvaamiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
