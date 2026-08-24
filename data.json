@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T04:09:41Z",
+  "updated": "2026-08-24T04:27:37Z",
   "entries": [
     {
       "updated": "2026-08-23T09:37:38Z",
@@ -713,21 +713,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-20T12:13:48Z",
-      "urls": [
-        {
-          "sign": "c87d8473642cedc10b83c4cf90a3d962156456ba9bb5ed444705644f40a2f9ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lappeenrantalainen tanssilavayrittäjä joutuu maksamaan lähes 20 000 euroa perutusta keikasta – hovioikeus hylkäsi jatkokäsittelylupapyynnön",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-20T13:29:03Z",
       "urls": [
         {
@@ -1276,21 +1261,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "2c59a7dcfe9861949eb34e9f2278d7b9459937dcbc308a0e9bcb1c0ba8475a8f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen Helsingin yliopiston vararehtori ja maantieteen professori Paul Fogelberg kuoli 90-vuotiaana",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-21T02:34:00+03:00",
       "urls": [
         {
@@ -1470,23 +1440,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T03:51:00Z",
-      "urls": [
-        {
-          "sign": "690ccb59cd37beddaa9ef74e8f340ed42eba08defbd8445b5f95d9f4876c8dbb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat neuvovat: Äkilliseen rahatarpeeseen riittää myynti tai pieni laina, kunhan maksusuunnitelma on olemassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-21T04:04:01Z",
@@ -5847,21 +5800,6 @@
         }
       ],
       "title": "Ville Galle juoksi puolimaratonin Siim Liivikin kanssa ennen Blockfeste-keikkaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-22T08:01:57Z",
-      "urls": [
-        {
-          "sign": "9634aef191513032389bff8bd1d83b1ec94a74b8013008f584937897b803b5e9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kati Jaakonen kritisoi Laakson sairaalan ruokahuoltoa ja potilaskohtelua",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13511,6 +13449,68 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T04:27:37Z",
+      "urls": [
+        {
+          "sign": "99125614e680e339eddad68e3a7a669c4b5c6baa8576f07364e381ec7d812902",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kehonrakentaja Larry Wheelsin hauis repesi nyrkkeilydebyytissä Miamissa – ottelu keskeytettiin ensimmäisessä erässä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-24T04:27:26Z",
+      "urls": [
+        {
+          "sign": "6c7bde9eb7e554274171172397cecff8f916224479202fb9dd8fd2739c463550",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Talentia vaatii hallitusta perumaan sosiaalihuollon 55 miljoonan euron säästön ja sosiaalihuoltolain esityksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-24T04:01:42Z",
+      "urls": [
+        {
+          "sign": "1b2bafe1700acd97a0032eab5617810b9aa81a709a279ff668bdb970028ed9cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin päiväkodit lukitsevat ovensa aukioloajan jälkeen – hätäpoistuminen on mahdollista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-24T07:16:00+03:00",
+      "urls": [
+        {
+          "sign": "f70eff95024b20c6a8ce33dd432ea9581ca787e36251ba439b6cd3938500b734",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "The Guardian: Suomen asunto ensin -malli vähensi asunnottomuutta vuosina 2012–2023, mutta viime vuosina määrä on noussut taas",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
