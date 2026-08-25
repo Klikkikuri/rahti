@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T05:28:24Z",
+  "updated": "2026-08-25T05:40:27Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -728,21 +728,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T12:43:45Z",
-      "urls": [
-        {
-          "sign": "8d0218468bfc69b3f0434bdbe8ed9547a857b316e866245ed3dbd18a6e8f6192",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "...",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-21T13:00:50Z",
       "urls": [
         {
@@ -758,23 +743,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-21T12:58:56Z",
-      "urls": [
-        {
-          "sign": "7207ad787a94964765fb96a414dc1af727b09a5fe26c672b92e9f53e83a43939",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehitysvammaliitto: Lain mukaan kehitysvammaisia saa rajoittaa vain turvallisuuden uhatessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-21T13:29:48Z",
@@ -3690,21 +3658,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T15:01:45Z",
-      "urls": [
-        {
-          "sign": "b0564eccc34c5eecc29e664add70d020b5f973e8bfdd1351df3c806c09a52593",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Raumalainen pelaaja voitti kuuden miljoonan euron loton täysosuman lauantai-illan arvonnassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-22T19:15:48Z",
       "urls": [
         {
@@ -5246,21 +5199,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-23T15:08:24Z",
-      "urls": [
-        {
-          "sign": "9d51feec839dd2c7266a061a0d2fea927db81c9350b3292caa0cb9c6c2cd6dbf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Tivoli sulki ovensa Kuopiossa sunnuntaina rankkasateen ja voimakkaan tuulen vuoksi – tappio noin 4 000–5 000 euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T12:31:02Z",
@@ -12485,7 +12423,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T02:55:35Z",
+      "updated": "2026-08-25T05:33:02Z",
       "urls": [
         {
           "sign": "02d507ca4452104578fb3fd9bb5180134bd6ebf7cc51ff68e96f52549bb1780b",
@@ -12494,8 +12432,8 @@
           ]
         }
       ],
-      "title": "Presidentti Alexander Stubb suojautui ilmahälytyksen vuoksi Kiovassa",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Presidentti Alexander Stubb suojautui ilmahälytyksen vuoksi pommisuojaan Kiovassa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13511,6 +13449,68 @@
       ],
       "title": "Naisten työttömyys nosti koko maan työttöluvut 20 000:n nousuun heinäkuussa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T05:40:27Z",
+      "urls": [
+        {
+          "sign": "5ad2678ac9a6204a5ea65d022cb3e0465be18ded2a7ad46869e354511a0f4437",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Taekwondon MM-mitalisti Isabelle Sava, 19, kuoli sydänpysähdykseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T05:30:15Z",
+      "urls": [
+        {
+          "sign": "26700829b94ce93f5ba8216365d011671278ed8ffdfd6fd4f3a49a3acb42dc41",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori: Käräjäoikeudet laiminlyövät EU:n velkojenperintäsäännöt – Tuomioistuinvirasto puolustelee resurssipulalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T05:37:45Z",
+      "urls": [
+        {
+          "sign": "0d8ec5f43e9b82be4d010b3ed8123a8839ca2b37ff86df56d2996be48499b1ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksalaistutkijat löysivät kolmannen droonin ja räjähdettä Leipzig/Hallen lentoasemalta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T05:31:25Z",
+      "urls": [
+        {
+          "sign": "eb6a40488f7d32e7fc7b7195037fa873af4f7f9911b9771e50373eb920b8f8fa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hyvinvointialue sulkee kaksi ikäihmisten asumisyksikköä – kunnat kritisoi viestintäkäytäntöjä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
