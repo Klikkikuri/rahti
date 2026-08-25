@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T20:58:18Z",
+  "updated": "2026-08-25T21:01:35Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -1062,21 +1062,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T05:38:10Z",
-      "urls": [
-        {
-          "sign": "db8719c486730e98e128e18b7777ca80b069290bbcb21a328e1474515a244255",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Isä jätti seitsemänvuotiaan pojan kahdeksaksi tunniksi yksin Fuji-vuorelle",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -13577,6 +13562,23 @@
       "title": "Yhdysvaltain CIA:n johtaja John Ratcliffe vieraili Moskovassa – asiantuntijat arvioivat käynnin varoituskäynniksi",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T21:01:35Z",
+      "urls": [
+        {
+          "sign": "987110c0ef9055506e3754179f8b67567a64d2fca4f7a072320fcf73f54d1aa7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL:n tutkimus paljastaa: Nuorten ruokavalio jää suositusten alle, pojat syövät liikaa lihaa, amiksessa juodaan energiajuomia",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
