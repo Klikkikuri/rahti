@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T16:56:26Z",
+  "updated": "2026-08-25T17:13:06Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -760,21 +760,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b8b77fd53d39365f56541a53e9be388e2e12681d6ef84923cbfac724255d97e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS:n pääkirjoitus: Väärinkäsitykset eläkkeistä ja tuloeroista eivät saa ohjata politiikkaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-22T18:30:00+03:00",
       "urls": [
         {
@@ -948,21 +933,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T21:36:00Z",
-      "urls": [
-        {
-          "sign": "5bf13f8ccac8d2320dc27ece673307333d8b98c31cc468bbef444cd73faf9503",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Mellunkylän lastenkodissa syttyi tulipalo – rakennus vaurioitunut vakavasti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T02:00:00+03:00",
@@ -1406,23 +1376,6 @@
       ],
       "title": "Alona Kuusisto kuvailee Erikoisjoukot-kuvauksia yllättävän rajuiksi",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-23T07:17:05Z",
-      "urls": [
-        {
-          "sign": "31bffca9bd3ef744ce8dbf56ec324813e350d3aa9daf72871a4e9827a44478d9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain presidentti Trump ehdottaa Hormuzinsalmen liittämistä Yhdysvaltoihin sosiaalisen median viestillään",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -4659,23 +4612,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T08:38:11Z",
-      "urls": [
-        {
-          "sign": "f31dba6dc02b8fdad644ad4f1b0f5fbda3e4ae03bcd30fec423bc0c5ca19b63d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin hovioikeus hylkäsi vartijoiden syytteet kuolemantuottamuksesta Iso Omena -tapauksessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T07:22:48Z",
@@ -13590,6 +13526,75 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "3bba8a3acc43cb905ba45264a0d25f997bdca61664d07cfdfafb9688b7ccf8ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T17:13:06Z",
+      "urls": [
+        {
+          "sign": "6289618f183455fd048bf277e357083b4af8ed82b357b58d412c1a9c02c4fa0d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hämeen ammattikorkeakoulu käynnistää Suomen ensimmäisen kokonaisturvallisuuden teknologiaratkaisujen maisteriohjelman",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T17:01:51Z",
+      "urls": [
+        {
+          "sign": "e858d20d174fb1f2a862b4984246ba8f994fb73d73c297e4fb9f49b2b9ac3bb5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelicansin Kapanen asettaa kaudelle tavoitteeksi pudotuspelit ja korostaa joukkueellisuutta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T17:02:54Z",
+      "urls": [
+        {
+          "sign": "3724fae235690602f5cdd61b4f62ba52cc443423e21ef790757b0170ea1159dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anniina Lehtinen kertoo kokiensa seksuaalisesta eheyttämisestä uskonnollisessa yhteisössä ja tiensä vapautumiseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
