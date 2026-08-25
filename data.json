@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T10:29:45Z",
+  "updated": "2026-08-25T10:41:10Z",
   "entries": [
     {
       "updated": "2026-08-25T07:44:15Z",
@@ -885,53 +885,6 @@
       "title": "Yhdysvaltain ja Kanadan kauppaneuvottelut kariutuivat, 50 prosentin tullit astuvat voimaan",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T08:00:00+03:00",
-      "urls": [
-        {
-          "sign": "337858dfa8a4be83adbae4361f2a9fee0c90ea4fc3d623da0a0a3d9b783a313c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kolme vaihtoehtoista pastaruokaa elo- ja syyskuun sesonkiin",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T09:05:00+03:00",
-      "urls": [
-        {
-          "sign": "4454555b6c1cffeedfbda090ee5d43e0b8b8b9129d5ef31f0e978047ee18dc66",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukiot eivät voi estää nasujaisia: opiskelijat järjestävät kiistanalaisen perinteen vapaaehtoisesti koulun ulkopuolella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T09:00:00+03:00",
-      "urls": [
-        {
-          "sign": "211461f2c71d8c0c48f8f47155485b1108df51ae9766dc4d7e4677bcd9b354ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5037,38 +4990,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T19:14:35Z",
-      "urls": [
-        {
-          "sign": "394dacd279ae04422960024a3bd40cb2882df34cb4052ef5a8931bb141879554",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkoisen talon somejulkaisu Freedom 250 -kilpailusta käytti Ferrarin F1‑kuvaa IndyCar‑auton sijasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-23T19:34:23Z",
-      "urls": [
-        {
-          "sign": "7bafd6f7db7e66e70ab544b6304fd99595b1d4d7b630d42c6248b57e035f896b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies raiskasi toisen miehen Härmän Häjyn vessakopissa Seinäjoella ja sai vuoden ja kahden kuukauden ehdollisen vankeustuomion",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-23T19:36:03Z",
       "urls": [
         {
@@ -6078,7 +5999,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-25T10:29:36Z",
+      "updated": "2026-08-25T10:41:10Z",
       "urls": [
         {
           "sign": "4c4f3888d47a6d0a001884ef6c2c16da4255bf591af6b72dbcf4051434d73305",
@@ -6087,8 +6008,8 @@
           ]
         }
       ],
-      "title": "Presidentti Alexander Stubb pitää puheen suurlähettiläskokouksessa Helsingissä turvallisuuspolitiikasta, ulkopolitiikasta",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Presidentti Stubb puhuu suurlähettiläskokouksessa Helsingissä turvallisuuspolitiikasta ja ulkosuhteista",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13061,7 +12982,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-25T12:03:00+03:00",
+      "updated": "2026-08-25T13:36:00+03:00",
       "urls": [
         {
           "sign": "27260b93a32d10a2c9a802e794bf84c0595f47ae156f3787c11d826deb02eaed",
@@ -13070,9 +12991,11 @@
           ]
         }
       ],
-      "title": "Finnair peruu lennot Dubaihin ensi talvena Lähi-idän turvallisuustilanteen vuoksi",
+      "title": "Finnair keskeyttää lennot Dubaihin ensi talvena Lähi-idän turvallisuustilanteen vuoksi",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13522,6 +13445,85 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T13:25:00+03:00",
+      "urls": [
+        {
+          "sign": "1d51b618f41957310198444276cbd3b04ca995e618c11b981f1b6f5a413924a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Presidentti Stubb esittää ulkopolitiikan linjauksensa suurlähettiläskokouksessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T13:17:00+03:00",
+      "urls": [
+        {
+          "sign": "7cdfdeb4e105df490d334cac8f19dcb57a502c2cf07e280d84aae420ad8ccb52",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Älysormusvalmistaja Oura hakeutuu Yhdysvaltain pörssiin, tavoittelee jopa kolmen miljardin dollarin antiia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T13:33:00+03:00",
+      "urls": [
+        {
+          "sign": "678ee50a9f61e451d3ec9514e8c0e573f99cc5d8780725c353d50e2e99b26bd8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T10:41:01Z",
+      "urls": [
+        {
+          "sign": "2f3b9d1cb1d5e60449093e21992f613656ef1efb62a8bf78e44537c9453cb955",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän poliisi pidätti noin 100 ihmistä Viipurin lähellä järjestetyltä musiikkifestivaalilta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T10:40:12Z",
+      "urls": [
+        {
+          "sign": "52c99db4d90bcdb9abe6ed830dd8545f55f0922c6c92652134f271d3292c6be9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SUL julkaisi Suomen yleisurheilujoukkueen Ruotsi-otteluun – Vainion kisapaikka ratkaistaan myöhemmin",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
