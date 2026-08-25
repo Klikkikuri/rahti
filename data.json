@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T05:56:50Z",
+  "updated": "2026-08-25T09:05:00+03:00",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -760,21 +760,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-21T13:24:37Z",
-      "urls": [
-        {
-          "sign": "fa0a0bd56d81bb0971b5aff68d4bc854c39de15ec889c7b53b2812f32b7fcb31",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Teflon Brothers jatkaa keikkailua ilman Pyhimystä hänen saamiensa rikossyytteiden vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-21T13:39:25Z",
       "urls": [
         {
@@ -1061,23 +1046,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T19:03:00+03:00",
-      "urls": [
-        {
-          "sign": "f43996e47249b970daf7b4c1bde3381de00d14c6815e9c8c94a548cf9fae4757",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-21T16:15:38Z",
@@ -5098,23 +5066,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-23T15:43:17Z",
-      "urls": [
-        {
-          "sign": "3855a781192cc74a2a7ba620f70daafc73ed5cad758d8c2d786201f9e9602ebb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Timanttiliiga Chorzówissa sunnuntaina: Duplantis ja Karalis kilpailevat seiväshypyssä, Ingebrigtsen palaa kilpailuun",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T11:23:59Z",
@@ -12201,7 +12152,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-24T17:16:28Z",
+      "updated": "2026-08-25T05:48:01Z",
       "urls": [
         {
           "sign": "2e63c33fa2a8d8a4d7454f7054f40e1d6769efb1e6638667ed6d787bc8e6a24b",
@@ -12210,8 +12161,8 @@
           ]
         }
       ],
-      "title": "Siperian metsäpalojen savu huonontaa ilmanlaatua Pohjois-Suomessa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Siperian metsäpalot huonontavat ilmanlaatua Pohjois-Suomessa – saamelaiskäräjät vaativat parempaa tiedotusta",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13511,6 +13462,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T06:00:35Z",
+      "urls": [
+        {
+          "sign": "9be0948292bb8469702b8d41a00676926d97b2ab088f024ad7d0daeb515bde1f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Konsulttiyhtiö MDI: Suomen elinvoiman sijoitus OECD-maissa on laskenut viidessätoista vuodessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T06:00:31Z",
+      "urls": [
+        {
+          "sign": "4ea814d0b2db4c553c792600d6f9144e685131580ac6cb5eb3b1a0ab40b66d2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääkäri: Kylmä vesi ja märkäpuku voivat aiheuttaa uimarin keuhkopöhön – näin tunnistat oireet",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T09:05:00+03:00",
+      "urls": [
+        {
+          "sign": "7458a9e889d54b126795cfcca35c11765d7d3c246fe2cc553fcf330e015f2737",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
