@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T07:00:00+03:00",
+  "updated": "2026-08-25T04:13:08Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -711,21 +711,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T11:56:22Z",
-      "urls": [
-        {
-          "sign": "c92f12aeafb61b53517827663f7b5b94713a6bd975ceae40b257f077a383b8f6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi katkaisee liikenteen Kehä III:llä Kauklahdessa tänään kello 18 ojaan suistuneen rekkan nostamiseksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-21T12:09:07Z",
@@ -5551,21 +5536,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T13:37:59Z",
-      "urls": [
-        {
-          "sign": "2ae8535c826d6687f93da992a879b5b806d00815a0a8d15edc14b9fb4bdff1cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korkeapaine tuo poutaisen sään ja 15–20 asteen lämpötilat Suomeen tiistaina",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-23T13:42:13Z",
       "urls": [
         {
@@ -5579,23 +5549,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T13:30:26Z",
-      "urls": [
-        {
-          "sign": "4bde8463295b52f0523a3a856154bce100f779d73e7ef221575566a5b7779551",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miss Suomi 2026 -finalistien kuvat herättivät epäilyjä tekoälyn käytöstä – järjestö kiistää väitteet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T13:15:00Z",
@@ -5677,23 +5630,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-23T14:10:06Z",
-      "urls": [
-        {
-          "sign": "b1758739754fe1d92ee35f17af0081b120cf4ccea125f569001e35246ebd9b5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T16:45:00+03:00",
@@ -13513,6 +13449,72 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T04:00:50Z",
+      "urls": [
+        {
+          "sign": "994ccc667ab0820aaea39a66c7dff176c4440d64a3b1b21590c15cedfb43efb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: Päivittäinen 5 000 IU:n D-vitamiiniannos paransi kognitiivista toimintakykyä dementiariskissä olevilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T04:12:52Z",
+      "urls": [
+        {
+          "sign": "cbc7fee0fb92e76ca532421279017067661d2b4febde8cee8d41dc75ec446c48",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Presidentti Alexander Stubb ja vaimo evakuoituivat rauhallisesti Kiovassa ilmahälytyksen aikana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T04:00:21Z",
+      "urls": [
+        {
+          "sign": "24a718fb2a1e0e226a5c64a2248e6c709a92bb57b19a48b51f1c4e706c2b3794",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T04:13:08Z",
+      "urls": [
+        {
+          "sign": "3d22f947876ddabcbee5904b2dfc25efd71b38d7efb2744af3cd63b2462aea16",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Katja Ståhl podcastissa: Olen oppinut tutustumaan kumppaniin ensin ilman seksiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
