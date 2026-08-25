@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T14:19:02Z",
+  "updated": "2026-08-25T14:42:38Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -805,23 +805,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1dc9d6fd1eb3d995ae505bef5d4fd770fe34aa62b05af9ed69b10124ef2bf939",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-22T15:36:00+03:00",
       "urls": [
         {
@@ -1365,24 +1348,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-22T19:58:21Z",
-      "urls": [
-        {
-          "sign": "f2317d87a60115ac8c918fdc2097e48e425b7c5c6b31a80680efef68b4182edb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T20:05:58Z",
@@ -4682,23 +4647,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-24T06:01:13Z",
-      "urls": [
-        {
-          "sign": "5903f94f89b4e2c2ac26103b731a16dde30fa3cfaaae71b35c3e4c90eede4d55",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Japanilainen Muumi-fani Tomo muutti Suomeen, mutta työllistyminen ja elinkustannukset tuovat haasteita",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-24T06:58:05Z",
       "urls": [
         {
@@ -4748,21 +4696,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T06:07:24Z",
-      "urls": [
-        {
-          "sign": "003404f75ff18e01f6932bbf085f2c9b12839d23b5b6be6ac538f7b9b23486a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijan mukaan pahin on vielä edessä Ukrainan ilmatorjunnassa – Patriot‑ohjuspula syvenee",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T06:07:12Z",
@@ -12909,7 +12842,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T13:08:53Z",
+      "updated": "2026-08-25T14:42:38Z",
       "urls": [
         {
           "sign": "8a2fb973a1ab78aae50ad2572fbfae172ee2d212f046e31d2aefd776364ae687",
@@ -12918,15 +12851,16 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain sotilaskone laskeutui Moskovaan – tarkoitusta ei tiedetä, Trumpin lähettiläs odottaa vierailua",
+      "title": "Lähteiden mukaan CIA:n johtaja osallistuu tapaamisiin Moskovassa Yhdysvaltain sotilaskoneella",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
+        "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T13:13:54Z",
+      "updated": "2026-08-25T14:40:01Z",
       "urls": [
         {
           "sign": "67cd350dd0c6e099aa358755421e237c37f1e05bd02a614a1a34faac6c9ac5b5",
@@ -12935,7 +12869,7 @@
           ]
         }
       ],
-      "title": "Nummelan koululla oppilaan sairauskohtaus – kuljetettu lääkärihelikopterilla sairaalaan",
+      "title": "Lääkärihelikopteri vei Nummelan koulun opiskelijan sairaalaan sairauskohtauksen vuoksi – koulu järjestää kriisiapua",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13577,6 +13511,72 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T14:30:51Z",
+      "urls": [
+        {
+          "sign": "f0ec82a50344c11913550c7adaef8ff1e322a175cef141786af9f836a199d2c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimien tutkimuslaitos: Venäjä voisi vuonna 2040 aloittaa sodan Euroopassa ja hyökätä Suomeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T14:31:08Z",
+      "urls": [
+        {
+          "sign": "a5dc8b07904ea911ca7edc1ba29e23b0794a09ee3e9b6c73414dee83aafa72d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alkon viestintäpäällikkö Arni Lindström: Köyhän ruoka ja tuotantovirheet ovat muuttuneet nykyiseksi luksukseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T14:32:00Z",
+      "urls": [
+        {
+          "sign": "e84a873d9146951aed0f22e272e5a7c61d6b4f7dde38da6af8ebbe4793898397",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntija: Työperäinen hyväksikäyttö on juurtunut Suomen matalapalkka-aluille, kielimuuri vaikeuttaa oikeusturvaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T17:30:00+03:00",
+      "urls": [
+        {
+          "sign": "ed55b081f2cd0180e9a5555568e7fb5c029634fb992aa6724409c99ce5205a56",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
