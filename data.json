@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T18:14:41Z",
+  "updated": "2026-08-25T21:28:00+03:00",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -4732,53 +4732,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T09:58:55Z",
-      "urls": [
-        {
-          "sign": "6b14d5cdcfffd2c0476678777ae6c00aca627717f4bc9cb8c6e62b0f0454c8c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Isä jätti 7‑vuotiaan poikansa yksin Fuji‑vuorelle jatkaakseen vaellusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-24T09:51:30Z",
-      "urls": [
-        {
-          "sign": "96e263de53a78728d9801b488c8b25c4b5d156a491cd4fb8699e32bad1ca072a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-24T09:47:18Z",
-      "urls": [
-        {
-          "sign": "403e66a69473b6be14d51439d181fdcaea2a04430e4dc98759dd1f053486c48f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat odottavat Jaguarin Type 01 -sähkösedania ja Citroënin 2CV:n retroversiota syksyn automarkkinoille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T10:25:19Z",
@@ -11654,7 +11607,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T18:10:45Z",
+      "updated": "2026-08-25T18:21:02Z",
       "urls": [
         {
           "sign": "8a2fb973a1ab78aae50ad2572fbfae172ee2d212f046e31d2aefd776364ae687",
@@ -11663,7 +11616,7 @@
           ]
         }
       ],
-      "title": "CIA:n johtaja saapui Moskovaan – entinen tiedustelupomo arvioi varoituksen välittämistä Putinille",
+      "title": "Entinen tiedustelupomo arvioi: CIA:n johtaja saattaisi viedä Moskovassa varoituksen Putinille",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13562,7 +13515,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-25T20:57:00+03:00",
+      "updated": "2026-08-25T21:28:00+03:00",
       "urls": [
         {
           "sign": "5eb72673482ac2410a8d8357f4fb1c9dd3b2da06a7056303f8a97001b9db8b5f",
@@ -13572,7 +13525,7 @@
         }
       ],
       "title": "Yhdysvaltalainen kantrilaulaja Dolly Parton kuoli 80-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13592,6 +13545,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T18:26:07Z",
+      "urls": [
+        {
+          "sign": "58b1cfa6f030a3b73c290560d6108713f4f2ab6b7d83bac71e6470e41b05a8e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "San Francisco 49ersin omistaja Jed York pidätettiin Ohiossa seksin ostoyrityksestä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T18:21:02Z",
+      "urls": [
+        {
+          "sign": "68f48aa1122c685f2c652e441215e1ebe9256cf379ec16744ce6a06d1c30e58b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sisäministeri Mari Rantanen vieraili Somaliassa – virkamatka paluuyhteistyön kehittämiseksi maksoi valtiolle yli 60 000 euroa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T18:26:44Z",
+      "urls": [
+        {
+          "sign": "c3ed1952e1db6b4f7bfb3d2d742e5cb515b2ae0c0f821f28633841630805bc7d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Inkoon kunta tekee rikosilmoituksen Kyrkfjärdenin koulun ilkivallasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
