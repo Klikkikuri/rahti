@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T04:42:43Z",
+  "updated": "2026-08-25T04:52:42Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -1684,23 +1684,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T04:15:00Z",
-      "urls": [
-        {
-          "sign": "8da44de0c919b4f840966ef79c6ce80e4eedcea8b0a2d0aec2c65e1aa31c1755",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vapaasukeltaja Lotta Kangas saavutti 64 metrin henkilökohtaisen syvyysennätyksen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T04:28:33Z",
@@ -5626,21 +5609,6 @@
       ],
       "title": "Lando Norris voitti Hollannin GP:n, Max Verstappen keskeytti ensimmäisellä kierroksella",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-23T14:42:45Z",
-      "urls": [
-        {
-          "sign": "005fe42f30a9a9b9c49d57fc4e67728c9a2b5890c6b7fc0b3f35aac507ed81ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porin kaupunki hakee Matti Upalle hengenpelastusmitalia Herrainpäivien rannalla pelastetun perheen vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13511,6 +13479,38 @@
       ],
       "title": "Poliisi tutkii Djurgårdenin päävalmentajan Jani Honkavaaran uhrasta – harjoitustiloista löydetty symboli",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T04:52:42Z",
+      "urls": [
+        {
+          "sign": "c39dcf83a1d02740963a1fb7b8a3425d4437517c2eba0d56bfb9bdda703add4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maanantaina Ranskan lounaisosassa iskenyt tornado aiheutti kymmeniä loukkaantumisia ja satoja rakennusvaurioita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T04:46:28Z",
+      "urls": [
+        {
+          "sign": "989f9be252a29193b5c254f75c271302b0b6dd8fefc4df9d89b0ec5094d5ac39",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kari Heiskanen kiistää seksuaalisen häirinnän syytökset ja kertoo koekuvauksesta uudessa elämäkertakirjassaan",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
