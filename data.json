@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T07:59:37Z",
+  "updated": "2026-08-25T08:11:21Z",
   "entries": [
     {
       "updated": "2026-08-25T07:44:15Z",
@@ -745,23 +745,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T14:56:34Z",
-      "urls": [
-        {
-          "sign": "c2ce36f8c84e95e4939189c8d1157f1439d2b87946157106e02d9f3bb9359723",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "WWF:n öljyntorjuntajoukot aloittaneet Saimaan Haukiveden rantapuhdistustyöt",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-21T15:15:31Z",
       "urls": [
         {
@@ -941,21 +924,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T21:28:00+03:00",
-      "urls": [
-        {
-          "sign": "434df182e1cc5b0af67a0fa8d4bff348d9cb065102644ead93067891307b3136",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meloni: Suhteet Trumpiin ovat jäiset, lännen yhtenäisyys ohjaa Italian strategiaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-21T15:15:54Z",
@@ -12650,7 +12618,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T07:59:37Z",
+      "updated": "2026-08-25T08:11:21Z",
       "urls": [
         {
           "sign": "5a03f52bda9fd73148dfb3db48919e4d7bf45fde3c916b1f7e889f94ceb5595d",
@@ -12660,7 +12628,7 @@
         }
       ],
       "title": "Iltalehti seuraa puolueiden kesäkokouksia suorana lähetyksenä – Kokoomus ja perussuomalaiset aloittavat tiistaina",
-      "clickbaitiness": "Moderately Clickbaity",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13527,6 +13495,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "c4e6b49a39843aef620aa90840bcc5b58260fdd46daec045c4e99d3af85fe002",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T08:10:34Z",
+      "urls": [
+        {
+          "sign": "b39f89c3e74b299bf1632287099dca934691b1ede7fe21677419e8abd68e8f9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus vapautti Espoon Rinnekotien hoitajan alaikäisten pahoinpitelyepäilyistä – tuomio lainvoimainen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
