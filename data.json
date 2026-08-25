@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T17:58:49Z",
+  "updated": "2026-08-25T18:14:41Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -760,23 +760,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T18:30:00+03:00",
-      "urls": [
-        {
-          "sign": "4b7f98eb1b046a2c9b3f16953adca564817995f2a3b16fa1ce4d86615e53135b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-22T18:45:00+03:00",
       "urls": [
         {
@@ -790,23 +773,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T07:35:37Z",
-      "urls": [
-        {
-          "sign": "ac03c8bd418282df243c4768ec1d7329e2b466b76c660d4ad01d218904b97bb5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kesämyrsky tuo etelä- ja itä-Suomeen kovia tuulia, rankkasateita sekä sähkökatkoja – Porvoon puuskat 24,3 metriä sekunnissa, Espooseen kertyi lähes 30 millimetriä vettä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T19:00:00+03:00",
@@ -901,23 +867,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T09:44:04Z",
-      "urls": [
-        {
-          "sign": "afe39a46ac3d1c24e4b641bb45dec580a4632580560f25e6af55e3754076caa1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Outi Pyy kuvasi trombin Sastamalassa 16. elokuuta – Ilmatieteen laitos vahvistaa havainnon",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T18:02:00+03:00",
@@ -1129,23 +1078,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T03:00:35Z",
-      "urls": [
-        {
-          "sign": "8a1ebf25dda1488ac4e560bf92849e02f9216b741181d0658947fe7afba7df38",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Häätömäärät kasvavat Suomessa – Ulosottovirasto kokeilee ennaltaehkäisevää neuvontaa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T03:45:35Z",
@@ -11722,7 +11654,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T17:57:35Z",
+      "updated": "2026-08-25T18:10:45Z",
       "urls": [
         {
           "sign": "8a2fb973a1ab78aae50ad2572fbfae172ee2d212f046e31d2aefd776364ae687",
@@ -11731,8 +11663,8 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain sotilaskuljetuskone laskeutui Moskovaan – CIA:n johtaja John Ratcliffe saattaa välittää varoituksen Putinille",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "CIA:n johtaja saapui Moskovaan – entinen tiedustelupomo arvioi varoituksen välittämistä Putinille",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13538,7 +13470,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-25T17:57:09Z",
+      "updated": "2026-08-25T18:09:31Z",
       "urls": [
         {
           "sign": "c3f0b9ab1e2fa71f44a8ab5f1f12783e59b36258a1423618fbb4bf3d101031ce",
@@ -13548,7 +13480,7 @@
         }
       ],
       "title": "TPS voitti Jokeritin 4–2 harjoitusottelussa Turussa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13598,6 +13530,68 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T18:14:20Z",
+      "urls": [
+        {
+          "sign": "425e74cfc8f34b7fe57c06f1309983a890a7ba7aff8ed7127768faf9d96f16c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Väestöliiton Finsex-tutkimus: suomalaisten yhdynnät vähenevät ja itsetyydytys lisääntyy",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T18:14:41Z",
+      "urls": [
+        {
+          "sign": "14e4194d16750caab74ecec4abb365d0bcef8ba7459fccd4767182b32d6f80ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalainen countrytähti Dolly Parton on kuollut",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T20:57:00+03:00",
+      "urls": [
+        {
+          "sign": "5eb72673482ac2410a8d8357f4fb1c9dd3b2da06a7056303f8a97001b9db8b5f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalainen kantrilaulaja Dolly Parton kuoli 80-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T18:06:12Z",
+      "urls": [
+        {
+          "sign": "a49e50cdd7834351dfe74f37470df16724d5e99cf611b004813a5623cfe1f460",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelicans voitti SM-liigan hopeamitalisti KooKoon 7–0 harjoitusottelussa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
