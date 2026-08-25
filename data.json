@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T01:10:00+03:00",
+  "updated": "2026-08-25T22:55:10Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -1029,23 +1029,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T05:43:46Z",
-      "urls": [
-        {
-          "sign": "b767a908490c6157365841e85ca1e5af819d1f69a99720e538346f50c68a3220",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Stubb saapui Kiovaan – Venäjän ohjusiskut kiristävät turvallisuustilannetta vierailun aikana",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T10:15:00+03:00",
@@ -13578,6 +13561,21 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T22:55:10Z",
+      "urls": [
+        {
+          "sign": "595c83f5d7c7f8e48077db3f9ac34149eeb68f4e3a56aaf25707a8bedb3ce808",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mieli ry: Talousvaikeudet kasvattavat kesällä kriisiapuyhteydenottojen vakavuutta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
