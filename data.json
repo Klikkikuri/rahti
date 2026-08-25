@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T11:14:33Z",
+  "updated": "2026-08-25T11:28:14Z",
   "entries": [
     {
       "updated": "2026-08-25T07:44:15Z",
@@ -728,53 +728,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-21T21:20:13Z",
-      "urls": [
-        {
-          "sign": "d41657d6e14fea1225e817db553f0dc0611dc8892da7f2054b3afb6a6b8d76c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "WSJ: Yhdysvaltain maavoimaministeri Dan Driscoll eroaa vuoden lopussa puolustusministeri Hegsethin kanssa syttyneen kiistan vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T22:50:48Z",
-      "urls": [
-        {
-          "sign": "6f3c9e6946ed5d0788ffcf9c83b7606e4b6bb0250abbf1237acff90d7083dfba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat maksaa YK:lle 850 miljoonan dollarin maksurästit",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-22T00:12:21Z",
-      "urls": [
-        {
-          "sign": "0a9adb8cb67b73062280479f1ebc6edf3675ab2396b749823fc050b00ff37a55",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kanadan ministeri: Yhdysvaltain kauppasopimus ei ole vielä valmis",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-22T12:37:00+03:00",
@@ -1686,21 +1639,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T14:34:27Z",
-      "urls": [
-        {
-          "sign": "2b17edd2300b25a1c68dec573f232e7a29dfc03c5a5824ac0d5a051765cf298d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisiauto ja väärään suuntaan ajanut henkilöauto törmäsivät Britannian A66-tiellä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T14:56:28Z",
@@ -4828,23 +4766,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T20:49:32Z",
-      "urls": [
-        {
-          "sign": "20f5188cd34892052a075fde5906f11589fb6126406efc6630c717c554b9d65b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putin syyttää Ukrainaa talouskohteiden iskusta; Norja lupaa 7,8 miljardin euron tuen Ukrainalle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T20:40:38Z",
@@ -11352,7 +11273,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T11:07:03Z",
+      "updated": "2026-08-25T11:20:35Z",
       "urls": [
         {
           "sign": "5a03f52bda9fd73148dfb3db48919e4d7bf45fde3c916b1f7e889f94ceb5595d",
@@ -11361,8 +11282,8 @@
           ]
         }
       ],
-      "title": "Puolueiden kesäkokoukset käynnistyvät – Orpo esittelee velkajarrun sopeutukset ja Purra puhuu Imatralla",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Puolueiden kesäkokoukset alkavat – Orpo kertoo velkajarrun sopeutuksista, Purra puhuu Imatralla",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13176,7 +13097,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-25T14:14:00+03:00",
+      "updated": "2026-08-25T14:20:00+03:00",
       "urls": [
         {
           "sign": "1d51b618f41957310198444276cbd3b04ca995e618c11b981f1b6f5a413924a9",
@@ -13187,7 +13108,9 @@
       ],
       "title": "Presidentti Stubb painottaa suurlähettiläspuheessaan Suomen aktiivista roolia kansainvälisessä politiikassa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13529,6 +13452,83 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T11:16:07Z",
+      "urls": [
+        {
+          "sign": "72af10655a3ee8cce6f443b190474ca6ad1ceaea1bc0122e2e97440ad0057c7a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rakenteilla olevaan kaasukemian kompleksiin syttyi tulipalo Venäjän Kaukoidässä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T11:28:14Z",
+      "urls": [
+        {
+          "sign": "7c8383a4ca23285cebb682734ba28507d1436f3ad05808592fe56cce52859987",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump ehdottaa Ontarionjärven nimen vaihtamista Amerikanjärveksi kauppakiistan vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T11:18:41Z",
+      "urls": [
+        {
+          "sign": "68ad30c13ec4b3c3779dd3d30a729b34b5c38a1121064d12f994130b06c4f224",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjanmaan poliisi tutkii Vaasassa kuristetun miehen kuolemaa henkirikoksena – esitutkinta valmis",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T11:16:04Z",
+      "urls": [
+        {
+          "sign": "11832f85af003d556d64d9cc64bb07f28c57a7338bca5fe60ddd29cb6fbd5f91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "...",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T11:19:58Z",
+      "urls": [
+        {
+          "sign": "9e283ebec86315c96952fc15c39f4d503c6d5ec3175464abb1f46ab5234267ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kreml vastusti Stubbin kannanottoa Ukrainan syväiskuista ja kutsui Venäjän voittamista valheeksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
