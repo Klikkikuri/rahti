@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-24T23:38:02Z",
+  "updated": "2026-08-25T00:22:27Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -5644,21 +5644,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T11:42:36Z",
-      "urls": [
-        {
-          "sign": "d1af8dca54349769fff96b1805594a4774f11ff5d28c35473a95b97c36f2b7a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vieraslajien leviäminen uhkaa Suomen vesiluontoa – asiantuntijat varoittavat erityisesti rohmutokosta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T11:52:39Z",
@@ -13513,6 +13498,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T00:22:27Z",
+      "urls": [
+        {
+          "sign": "ee941bf1db9c63a914cf1cc9f52e44c1db60ab68d8c0f610be26cae17ea70783",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nevadan viranomaiset evakuoivat lähes 90 000 asukasta metsäpalojen vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
