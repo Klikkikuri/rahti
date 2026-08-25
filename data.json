@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T17:17:45Z",
+  "updated": "2026-08-25T17:40:10Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -4629,23 +4629,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-24T08:57:11Z",
-      "urls": [
-        {
-          "sign": "6ca86cf51393297f38e84029c310dd07a9ffaae4cd42ab150fe24a855f4feb35",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Enhanced Gamesin ensimmäinen dopingallinen tapahtuma Las Vegasissa aiheutti 61,9 miljoonan dollarin tappion",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-24T09:21:04Z",
       "urls": [
         {
@@ -4704,21 +4687,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T09:03:18Z",
-      "urls": [
-        {
-          "sign": "1ae5cbb5906e938127d807462a1ab9d9ad18fd374447efc506e5b663e91e5fe4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hämeen poliisi kiistää kouluiskuhuhun ja kehottaa lopettamaan väärän tiedon levittämisen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T09:09:09Z",
@@ -13593,6 +13561,39 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T17:40:10Z",
+      "urls": [
+        {
+          "sign": "0d9fab1a7fa9f80194c9e6b47f8e67ef72b4ca8e0b6e1914aa979881115e0482",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalaishyökkääjä Kevin Hayes siirtyy venäläisseura Ak Bars Kazaniin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T17:35:56Z",
+      "urls": [
+        {
+          "sign": "51d1150cff71bdf57cebf666278264a872f2b6a8032d33a2dce20281a043c21a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opiskelija sai sairauskohtauksen Nummelan koululla ja kuljetettiin helikopterilla sairaalaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     }
