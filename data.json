@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T05:40:27Z",
+  "updated": "2026-08-25T05:56:50Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -1014,21 +1014,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T18:55:00+03:00",
-      "urls": [
-        {
-          "sign": "6b55a98be44c62545ba558e292ae8c0b0d130cdabe0f9f33f6a318584a9423ee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donald Trumpin avustajan Natalie Harpin poikkeuksellinen läheisyys ja julkitulleet kirjeet herättävät Yhdysvalloissa valtavaa julkisuutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-21T19:08:00+03:00",
       "urls": [
         {
@@ -1635,23 +1620,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T04:53:00Z",
-      "urls": [
-        {
-          "sign": "dc98a9059761bcfe802000d3a7fc434ac58f5789c1fa141536cdac76689b4e7b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi kieltäytyi julkaisemasta murtomiehen avausmenetelmää turvallisuusriskin vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T05:03:00Z",
@@ -5925,21 +5893,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T15:36:05Z",
-      "urls": [
-        {
-          "sign": "baebbd5fdb49e42e6af230ca6c082bfa5f7cf9a5ac3620d10e63acb283ad629e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Politico varoittaa Ranskan vaalien 2027 uhkaavan Naton komentorakennetta – Häkkänen toivoo Ranskan pysyvän vahvasti liitossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-23T19:00:00+03:00",
       "urls": [
         {
@@ -5970,23 +5923,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T15:20:04Z",
-      "urls": [
-        {
-          "sign": "b820926a369c3176d2206cf1e0cc54a5e6d7925bbed3356b2ed24f34530b11f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi käytti teleskooppipatukkaa ja OC-sumutinta aggressiivisen miehen taltuttamiseksi Kajaanissa sunnuntaina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T16:40:15Z",
@@ -12536,7 +12472,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T02:00:00+03:00",
+      "updated": "2026-08-25T08:49:00+03:00",
       "urls": [
         {
           "sign": "86021f0aad5370fd7ae7471f6260ce89e1846addc9cae78e215a8e885679eb7b",
@@ -13513,6 +13449,68 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T05:54:12Z",
+      "urls": [
+        {
+          "sign": "26586774f7027a8887504cc6c4991bb2c242a045dbb0baf1d1eeccb4c3870f9d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perussuomalaisten varapuheenjohtaja Teemu Keskisarja kertoo suhteestaan puheenjohtajaan ja puolueen avoimuudesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T08:47:00+03:00",
+      "urls": [
+        {
+          "sign": "a28ed8861fb0743d231ae267a2e54d66e5acd243f20d26e25db4f03f735c3f8e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karoliinisessa sairaalassa tapahtui lääkevirhe: kaksi potilasta saattaa tarvita sydänsiirton",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T05:56:50Z",
+      "urls": [
+        {
+          "sign": "67ea7c8e6c4eb2fb66272d0e03f84f77e89a06c7584d8a5906f94b1a1be607fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miss Suomi -finalisti Iida Puljujärvi, 26, tavoittelee kruunua ja näkee menneen reality-osallistumisensa kasvuvaiheeksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T05:50:25Z",
+      "urls": [
+        {
+          "sign": "0c9c72fceb7ea89c01be1c8dcdf9e0c775ca14a838d404163776cdf07782e9ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kehitysvammaliitto: Hallituksen leikkaukset uhkaavat liiton toimintaa ja yli 800 000 ihmistä palvelevia tukipalveluita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
