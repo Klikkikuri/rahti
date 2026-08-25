@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T02:26:19Z",
+  "updated": "2026-08-25T02:40:54Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -741,38 +741,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T11:29:56Z",
-      "urls": [
-        {
-          "sign": "f48b11b623886a901d3f99c1c371b5bd2da5806409f670f13f5a82b806024445",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rajavartiolaitos tutkii venäläisen sotilaskoneen kolmen minuutin ilmatilaloukkausta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T11:22:48Z",
-      "urls": [
-        {
-          "sign": "851de1de922e18c622b497d8c0c57ef66b8ee42eb8adaaa4e95389da1d828d3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi Aleksi Lohtander varoittaa voimakkaasta kesämyräkästä, joka tuo runsaita sateita ja kovia tuulia etelä- ja itä-Suomeen viikonloppuna",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-21T11:36:11Z",
@@ -5769,23 +5737,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T12:16:31Z",
-      "urls": [
-        {
-          "sign": "aa6ea115ae08531d274daf3ae88229682c391fbc5cf8ede92bd5611a86797a09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Carrefour kieltää sähköautot pysäköintilaitoksissaan Belgiassa painon ja paloriskin vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T13:02:26Z",
@@ -13508,6 +13459,53 @@
       ],
       "title": "Ariana Grande vaatii Donald Trumpia lopettamaan hänen musiikkinsa käytön TikTok-videolla",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T02:36:41Z",
+      "urls": [
+        {
+          "sign": "715ceb71061d0292d3b7070f97fa356485bd322f0cf7edb3ecf6707f3cb923cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Korkeapaine tuo lähipäivinä poutaa, aurinkoa – etelässä lämpötila nousee +20 asteeseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T02:30:35Z",
+      "urls": [
+        {
+          "sign": "480d6832b9c8b87a1a46686c4c2e2882e5a0f144255b61e46aac7351d199fe64",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ympäristöministeriö valmistelee avustusta lämpöremontteihin taloyhtiöille, joilla on vaikeuksia lainan saannissa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T02:40:54Z",
+      "urls": [
+        {
+          "sign": "6e4ec1e84ea40e42acb89025b1188d60eca8a8357e8e456057df40b57ff3a89f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kari Heiskanen kertoo kirjassaan suhteestaan 26 vuotta nuorempaan Anna-Maija Tuokkoon",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
