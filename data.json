@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T06:44:02Z",
+  "updated": "2026-08-25T06:54:45Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -1001,21 +1001,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T19:06:00+03:00",
-      "urls": [
-        {
-          "sign": "5aacdcfa3443daa8786d726836264d58403a51c2eb6df9ba26c606314849b3a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mika Poutala jatkaa sairauslomallaan leikkauksen jälkeen – jalka kipsissä kuusi viikkoa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-21T16:03:15Z",
       "urls": [
         {
@@ -1620,21 +1605,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T06:16:26Z",
-      "urls": [
-        {
-          "sign": "5317ca01f5d3ce716546e793f8eab9d36c1408bacec88b91735055c3c4a9a435",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sebastien Ogier selitti uusautotestien poissaolonsa ja vältti kysymyksen uran jatkamisesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T09:30:00+03:00",
@@ -5633,21 +5603,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-23T16:13:25Z",
-      "urls": [
-        {
-          "sign": "9d947dcedd9dde70aaf50473ba01aa57aceb74388f39fc16d39c74bca600b431",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "18‑vuotias Liam Nebel vangittu epäiltynä Fagerstan kouluhyökkäyksestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T15:51:43Z",
@@ -12184,7 +12139,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T05:33:02Z",
+      "updated": "2026-08-25T06:45:20Z",
       "urls": [
         {
           "sign": "02d507ca4452104578fb3fd9bb5180134bd6ebf7cc51ff68e96f52549bb1780b",
@@ -12193,7 +12148,7 @@
           ]
         }
       ],
-      "title": "Presidentti Alexander Stubb suojautui ilmahälytyksen vuoksi pommisuojaan Kiovassa",
+      "title": "Presidentti Alexander Stubb ja muut länsijohtajat evakuoitiin pommisuojaan Kiovassa ilmahälytyksen aikana",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13510,6 +13465,53 @@
       ],
       "title": "Tilastokeskuksen mukaan työttömien naisten määrä nousi heinäkuussa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T06:48:29Z",
+      "urls": [
+        {
+          "sign": "3a55d446909317a005bfdc5d7b7677307c4a6386eadfa3c186c514566e201af0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Yrittäjien gallup: Riikka Purra on yrittäjien suosituin pääministeriehdokas",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T09:47:00+03:00",
+      "urls": [
+        {
+          "sign": "9c09069fc655bfb4b1bada494f52b5498a051e6c0f2d928c5177476870834b56",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Sanomat esittelee viisi tapahtumavinkkiä Espoo-päivään 27.–29. elokuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T06:54:45Z",
+      "urls": [
+        {
+          "sign": "5168f0682839989027667fd0320cb122e0ee399bb70307acd011196b09dd7de1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uusi poliisilaki selkeyttää, milloin sairaalat voivat luovuttaa potilastietoja poliisille",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
