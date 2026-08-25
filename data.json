@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T09:05:00+03:00",
+  "updated": "2026-08-25T06:29:53Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -743,21 +743,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-21T13:29:48Z",
-      "urls": [
-        {
-          "sign": "a6bb421fa520c6680f723b572f58772007e70b32c1f15bce61845594f9c3ab3b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuomioistuin määräsi prinssi Harryn ja kuusi muuta julkisuushenkilöä maksamaan Daily Mailin kustantajalle 9,5 miljoonan punnan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-21T13:39:25Z",
@@ -5778,23 +5763,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T15:51:28Z",
-      "urls": [
-        {
-          "sign": "6d92d973ced8cba0c99a7e193158bdef9c71f4c5ce7907b9105b3044410fea65",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Andrea Kimi Antonelli kasvatti MM-johtoaan 59 pisteeseen Hollannin GP:ssä, Lando Norris voitti kaksi perättäistä kilpailua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-23T15:54:51Z",
       "urls": [
         {
@@ -5810,21 +5778,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T15:52:34Z",
-      "urls": [
-        {
-          "sign": "9eaf32a9c7f1d0dd0d61a2f66bf0b3760dfe86a8a1fa47b43adbc67814f2949e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Räppäri Sliki heitti 3 000 euroa yleisölle Blockfest-festivaalilla lauantaina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T18:55:00+03:00",
@@ -12423,7 +12376,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T08:49:00+03:00",
+      "updated": "2026-08-25T09:23:00+03:00",
       "urls": [
         {
           "sign": "86021f0aad5370fd7ae7471f6260ce89e1846addc9cae78e215a8e885679eb7b",
@@ -13509,6 +13462,58 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T06:29:53Z",
+      "urls": [
+        {
+          "sign": "7f2b042bbad6f6af38625ea50c2f8df4dbf1cadace808ef5407d956a6a7bb0db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T06:16:44Z",
+      "urls": [
+        {
+          "sign": "32d97dcf71bc95e18155ca16d4e65ddd6d91133c8a935c57a7440420a611c9b8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmasotakoulu laajentaa sotilaiden henkisen ja fyysisen kestävyyden tukimallin reserviläiskoulutukseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T06:29:21Z",
+      "urls": [
+        {
+          "sign": "bf57821e20e5cbe168280c03d7be8c3c377b44434bb9b1fa0e3d59e53f016c73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranilaiskanava levittää videota, jossa luvataan 10 miljoonan dollarin palkkio Barron Trumpin tappamisesta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
