@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T22:09:00+03:00",
+  "updated": "2026-08-25T19:23:16Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -502,7 +502,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T17:17:41Z",
+      "updated": "2026-08-25T19:23:16Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -511,7 +511,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin helmikuussa – Trump harkitsee uusia pakotteita",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin – Mediatietojen mukaan Trump harkitsee lisäpakotteita",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -4919,23 +4919,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-24T11:00:32Z",
-      "urls": [
-        {
-          "sign": "3f4faac8bdac0ccf40a2aa3663851441b8d907264b440c41e0b4575c1427aa3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T10:15:00Z",
@@ -13583,6 +13566,23 @@
       "title": "Entinen Yhdysvaltain ulkoministeriön virkamies: Ukrainan iskut Venäjällä ovat aiheuttaneet paniikkia Kremlissä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T19:22:52Z",
+      "urls": [
+        {
+          "sign": "82610cde95d47500f35edc0b2a68aebf2df64f23df969e50600400d1b439508e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksan liittokansleri Merz varoittaa hybridihyökkäyksistä: Droonitapauksen taustalla epäillään valtiollista toimijaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
