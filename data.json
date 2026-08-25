@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T00:22:27Z",
+  "updated": "2026-08-25T01:07:00Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -743,38 +743,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T10:30:56Z",
-      "urls": [
-        {
-          "sign": "d613e35e3a0b6482a8b82b1ffdc9aaf2786143640a6e009871eddc14f14b8ee4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä nostaa syytteen Seinäjoen kellarimurhasta kahdelle miehelle – toista epäillään myös keväisestä henkirikoksesta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T10:35:41Z",
-      "urls": [
-        {
-          "sign": "c8cda21b9cce9ee036fd7281679aa0cca806e79e25f75964f2cbaea63d0d2ffe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Päätoimittajien yhdistys vaatii pelastustoimen ensitiedotteiden julkaisemisen jatkamista syyskuuhun asti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-21T10:52:25Z",
       "urls": [
         {
@@ -1153,23 +1121,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T17:16:00+03:00",
-      "urls": [
-        {
-          "sign": "9fc1d39e88eef889d0649cbc97aaa8e972076c42ec36de9af0e2d7b746fa8682",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-21T20:56:00+03:00",
@@ -13513,6 +13464,55 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T01:00:35Z",
+      "urls": [
+        {
+          "sign": "66e21dbbbef4734b3187cb0ef88a5955bdec465def1163c1a376845f6289bb70",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Airiston Helmen talousrikosasia etenee hovioikeuteen – syyttäjä ja puolustus valittivat käräjäoikeuden tuomiosta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T01:07:00Z",
+      "urls": [
+        {
+          "sign": "b18e2f65449cc86fda46a8221264700960392eca3185280a6e05fb6058652fdf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain korkein oikeus kumoaa tuomion, joka esti Trumpin hallinnon rajoittaa postiäänestystä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T04:01:00+03:00",
+      "urls": [
+        {
+          "sign": "ccbab2c75670ebd3077d13fa2545c5f960ff273b9adcc6ec360f83b40599721a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Voimakas trombi repi kattoja ja vaurioitti satoja koteja Etelä-Ranskassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
