@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T11:42:28Z",
+  "updated": "2026-08-25T12:00:02Z",
   "entries": [
     {
       "updated": "2026-08-25T11:36:29Z",
@@ -758,21 +758,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T06:33:52Z",
-      "urls": [
-        {
-          "sign": "a57b5eef7d7b5e50070cf435e01ccad82d5b2adfb22c926319611529907287ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin poliisi pidätti Fagerstan kouluiskun epäillyn – miestä epäillään ainakin yhdestä murhasta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-22T06:45:17Z",
@@ -1543,23 +1528,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T14:56:28Z",
-      "urls": [
-        {
-          "sign": "c3daade833031a0732588305f1260e5b024a34336d2afd39000987f5212ce812",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Italialainen korkeushyppääjä Gianmarco Tamberi voitti Timanttiliigan Sleesian osakilpailun tuloksella 231",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-22T15:00:06Z",
       "urls": [
         {
@@ -1585,23 +1553,6 @@
         }
       ],
       "title": "Uusi dokumentti paljastaa Salkkarit-klassikon ratikkakohtauksen kuvaustavat: tuotanto varasi oman raitiovaunun",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-22T14:57:33Z",
-      "urls": [
-        {
-          "sign": "4489443bb69e3cd734121deb633b65c51f5640f8a6592956ab275d3c89b48ffc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "WWF keskeyttää öljyntorjunnan Rantasalmella huonon sään vuoksi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -5523,7 +5474,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-25T10:48:38Z",
+      "updated": "2026-08-25T11:54:46Z",
       "urls": [
         {
           "sign": "4c4f3888d47a6d0a001884ef6c2c16da4255bf591af6b72dbcf4051434d73305",
@@ -5532,9 +5483,11 @@
           ]
         }
       ],
-      "title": "Presidentti Stubb puhuu suurlähettiläskokouksessa turvallisuudesta ja muuttuvasta maailmanjärjestyksestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": "Presidentti Alexander Stubb puhuu suurlähettiläskokouksessa turvallisuudesta ja muuttuvasta maailmanjärjestyksestä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -11145,7 +11098,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T11:38:03Z",
+      "updated": "2026-08-25T11:47:15Z",
       "urls": [
         {
           "sign": "5a03f52bda9fd73148dfb3db48919e4d7bf45fde3c916b1f7e889f94ceb5595d",
@@ -11154,8 +11107,8 @@
           ]
         }
       ],
-      "title": "Kokoomus ja perussuomalaiset aloittavat kesäkokoukset – Orpo ja Purra esittelevät linjauksiaan",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Kokoomus ja perussuomalaiset kokoontuvat kesäkokouksiin – Purra ja Orpo esittelevät puolueiden linjauksia",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13529,6 +13482,53 @@
       ],
       "title": "Škoda Transtech irtisanoo 117 työntekijää muutosneuvottelujen päätyttyä",
       "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T11:57:56Z",
+      "urls": [
+        {
+          "sign": "6a242b01ef26ab256f39b48d28f7d8f0d92cdc82e0e40fbb83a753d0c4af1cc9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pirunpeli palaa toiselle kaudelle 16.9. – MTV julkisti sarjan 14 kisaajaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T11:46:54Z",
+      "urls": [
+        {
+          "sign": "16170bc73d117ff29c09bbdc92b05435507bb56208e0ff9418089e9178a58689",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain sotilaskuljetuskone laskeutui Moskovaan – Kremlillä ei tietoa lennosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T12:00:02Z",
+      "urls": [
+        {
+          "sign": "582d145e62aa925077350a5f4c7f20c562d5ab0adeb09c7bbe988ce057f67323",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Unicef varoittaa: miljoona afganistanilaista lasta kärsii hengenvaarallisesta aliravitsemuksesta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
