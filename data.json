@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T03:39:42Z",
+  "updated": "2026-08-25T07:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -713,21 +713,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T18:16:00+03:00",
-      "urls": [
-        {
-          "sign": "80960e1b8ef6bb2295041a912dcc099da96c2227e9424dfed5b7dcc8194abd47",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "YK:n ebolakoordinaattori varoittaa: Kongon epidemia voi levitä naapurimaihin, jos taltuttamisrahoitus loppuu",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-21T11:56:22Z",
       "urls": [
         {
@@ -1040,21 +1025,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T18:21:00+03:00",
-      "urls": [
-        {
-          "sign": "61f4fee92c2eb86c0ac8c66d75da2ddfc55ee0e315cc5a0a1d611f8c794cb14f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saksan viranomaiset epäilevät Berliinin lähellä löytynyttä asevarastoa Venäjän agenttien iskukätköksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-21T15:15:31Z",
@@ -1699,23 +1669,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-22T03:18:10Z",
-      "urls": [
-        {
-          "sign": "63da1eb0f9a3aa3289431d00dda14b32d6a98a478a7020dbbbd128af167ee09b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Auto törmäsi karhuun Virolahdella – loukkaantuneesta eläimestä annettu vaaratiedote",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-22T03:40:25Z",
       "urls": [
         {
@@ -1729,23 +1682,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-22T03:52:00Z",
-      "urls": [
-        {
-          "sign": "6a29db195bd7e5d38adf82c7be5ff85bd198a34200c1ec20a1e1ff2718e43806",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prisman uuden tukkuosaston kahvin kilohinta voi ylittää tavallisen kaupan tarjoushinnan, mikä hämmentää säästeliäitä asiakkaita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T03:45:35Z",
@@ -5757,21 +5693,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-23T13:29:37Z",
-      "urls": [
-        {
-          "sign": "8f351e6206b6b69c449b56c03d06332e67365da6522d49ed1375745130c9dc9d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pesäpalloliitto: Superpesiksen tuomarivirhe oli inhimillinen, ei tahallinen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13498,6 +13419,89 @@
       "urls": [
         {
           "sign": "8e6fad11c610937e7379fa411afdad302ec4c0f20e4b7bb03ff04bf185dbd8ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T03:45:56Z",
+      "urls": [
+        {
+          "sign": "f9744b66555010173b8dcd9c6b0e8849a4ffd9f54ac2ce471a0a451d275bd367",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sosiaaliturvamuutokset heikentävät toimeentulotukiasiakkaiden elintasoa – Kelan kysely osoittaa ruoasta tinkemistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T03:45:00Z",
+      "urls": [
+        {
+          "sign": "2dbac45c3a567bbd26a5d71c868e60e82889eee851b2157073160f6c3e0175c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen Moskovan-suurlähettiläs Antti Helanterä: Venäjä ei ole ahtaalla eikä luopunut tavoitteistaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T03:57:00Z",
+      "urls": [
+        {
+          "sign": "28799da652dcfe7be5d8d713a81b872ca1fc88aa9463337f14be12dcc776ed57",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näin tarkistat kananmunan tuoreuden rikkomatta sitä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "a39ef0a86ff34d689c1ffab27eb4acb3a3b6192aa7f8064f3e13111341b6012c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "2c6ff4d1b6f699bb6c95da21921629c5068e1418cf95522c0ca905eb4bf73507",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
