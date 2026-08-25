@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T05:10:53Z",
+  "updated": "2026-08-25T05:28:24Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -713,23 +713,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-21T12:32:03Z",
-      "urls": [
-        {
-          "sign": "4ccb3afec565e5e1ce1367ffd58a765d404a10f03d9eb0b811c03f8d5fef8d2c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lakiuudistus velvoittaa ulkomaiset lukiolaiset maksamaan vuosimaksun – rehtorit ennustavat oppilasmäärien pienenemistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-22T15:10:00+03:00",
       "urls": [
         {
@@ -1059,23 +1042,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-21T18:45:00+03:00",
-      "urls": [
-        {
-          "sign": "4fbe91b45ff262c51c19fb9ce972e2d4676b6122d0b3b8cd799f171549d8ccb8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Muusikko Teemu Suihko vaatii sosiaaliturvan uudistamista, joka ei rankaise aktiivisuudesta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -1701,21 +1667,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T04:43:54Z",
-      "urls": [
-        {
-          "sign": "85457646e0802e2773c6f80f66c230461f5e1ffc9adf9d15da34ef9d91093431",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitseva mestari Arsenal voitti Coventryn 3–0 Valioliigan avauskierroksella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-22T04:53:00Z",
@@ -13513,6 +13464,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T08:27:00+03:00",
+      "urls": [
+        {
+          "sign": "b73517c0fa5a3cbcd0fa934af68ed0f7cb71d370ee45fd7d2b12cf1646777ab8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T05:16:21Z",
+      "urls": [
+        {
+          "sign": "cf89f03843fcb39c242a04c17261583449b2bda99d4155e43c8a91fe51df5b57",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HSY muistuttaa: Voi- ja margariinipakettien käärepaperit kuuluvat kartonkiin, eivät paperinkeräykseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T05:28:24Z",
+      "urls": [
+        {
+          "sign": "55dccf2ee6b94f00231401fb143de12d9a04d7c4eda465b78cb767e4985243bf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Naisten työttömyys nosti koko maan työttöluvut 20 000:n nousuun heinäkuussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
