@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T19:23:16Z",
+  "updated": "2026-08-25T22:43:00+03:00",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -760,23 +760,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-22T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "4b014f725bf58790061805a52b7c52209244f3ba8a6c7a4b61324d9faf5a5f1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-24T12:43:00+03:00",
       "urls": [
         {
@@ -1046,23 +1029,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T05:09:06Z",
-      "urls": [
-        {
-          "sign": "9ee56f474f5c52c15645c0ad31498fe043473b30c568079e3bdfa0c87ba049e7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinkiläisravintolan päällikkö havainnoi tupakkamyynnin nousua – syinä nostalgia ja kapinahenki",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T05:19:04Z",
@@ -4985,21 +4951,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T11:00:39Z",
-      "urls": [
-        {
-          "sign": "992db6d89cfabebc8c2352be6d4501cead57eb605a611b59378cd9ae77662833",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Álvaro Arbeloa ja Xabi Alonso debytoivat Valioliigassa Fulhamin ja Chelsean valmentajina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T14:00:00+03:00",
@@ -13325,7 +13276,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-25T22:09:00+03:00",
+      "updated": "2026-08-25T22:22:00+03:00",
       "urls": [
         {
           "sign": "5eb72673482ac2410a8d8357f4fb1c9dd3b2da06a7056303f8a97001b9db8b5f",
@@ -13334,7 +13285,7 @@
           ]
         }
       ],
-      "title": "Kantrilaulaja Dolly Parton kuoli kotonaan Nashvillessa 80-vuotiaana",
+      "title": "Kantrilaulaja Dolly Parton on kuollut 80-vuotiaana",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13584,6 +13535,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T19:32:22Z",
+      "urls": [
+        {
+          "sign": "df78a38c3dcd40c161e63d3029076683201a8a3adc272c4151f7686547deed22",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan ympäriajon järjestäjät kielsivät vaikuttaja Erola Jonsin pääsyn ajajille seksistisen palautteen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T19:32:55Z",
+      "urls": [
+        {
+          "sign": "171bcd6997b4ec43a8d0317a34a1f74ee31ea32e04d36b92a364987a7bc568e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Musiikkitoimittaja Pekka Laine: Dolly Partonin itseironia ja bisnesviisaus muokkasivat länsimaista popkulttuuria",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T22:43:00+03:00",
+      "urls": [
+        {
+          "sign": "5cf3c42b12283a729b80f0e8dce0739e3bf0b52e58d01c0df472939348a05cf1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuhkarokkoepidemia Yhdysvalloissa on aiheuttanut kuolemantapauksia – rokotuskattavuus laskee",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
