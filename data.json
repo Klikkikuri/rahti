@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T04:30:11Z",
+  "updated": "2026-08-25T04:42:43Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -5673,23 +5673,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T14:38:02Z",
-      "urls": [
-        {
-          "sign": "a75a8f60a9d9f52041e370e097c649c1092cf9e89628d1235e9f7d7a4bce6943",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käyttäjä voi nopeuttaa Windows 11 -tietokonetta poistamalla tarpeettomat käynnistyssovellukset",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T14:30:37Z",
@@ -13515,6 +13498,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T04:42:43Z",
+      "urls": [
+        {
+          "sign": "668b83eff81759200bff4cfeef574d40c67fba5f9983ffd5ded0d5e97e861cba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii Djurgårdenin päävalmentajan Jani Honkavaaran uhrasta – harjoitustiloista löydetty symboli",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
