@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T09:42:59Z",
+  "updated": "2026-08-25T13:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-25T07:44:15Z",
@@ -730,55 +730,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-21T16:59:32Z",
-      "urls": [
-        {
-          "sign": "eb2e94935da6222adfce6e4ae96f4845708b43e5e075675dd20d55687f7861b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rovaniemen kaupunki myönsi valopuistolle vain yhden vuoden sopimuksen – yrittäjä pettyi lupauksiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T17:17:42Z",
-      "urls": [
-        {
-          "sign": "84a9b2538db63836c0b395181e060960cb241d85ff8d570d3b69d3bedab8cd4b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen kaupunki hylkää kuntalaisaloitteen Särkänsillan riippumattomasta selvityksestä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T17:19:14Z",
-      "urls": [
-        {
-          "sign": "b6025196a4253f858ca2c796cc4c2b391b965c1beae355ea95e55d547ac062dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turvallisuusneuvoston koeäänestyksessä Guyanan entinen ulkoministeri nousi kärkiehdokkaaksi YK:n pääsihteeriksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-21T17:52:39Z",
       "urls": [
         {
@@ -856,36 +807,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-22T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "28f6bc62c497a783c93760697478d3e6d1b98a04f94ae010a504ea6947daf9bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS:n uutiskatsaus 22.8.1976: Hevoskynnön mestaruuskilpailut, sokeiden shakin MM-loppuottelu ja kiristynyt tilanne Koreassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T02:15:00+03:00",
-      "urls": [
-        {
-          "sign": "da9737ba56c18e090a7a34b8f394d87820370fbfda1bac9e9fbe6aa573e252bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maavoimaministeri Driscollin odotetaan eroavan puolustusministeri Hegsethin kanssa syttyneiden välien vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-22T00:12:21Z",
@@ -4724,21 +4645,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T18:27:06Z",
-      "urls": [
-        {
-          "sign": "c8037a93aa09ad3f8e3bb35b3952c36460d2262e50caa3fcace339a4d3410218",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Manchester City voitti Bournemouthin lisäajalla, Brighton murskasi Aston Villan 4–0, Newcastle ja Liverpool pelasivat tasan 2–2, Manchester United hävisi Hull Citylle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-23T15:15:00Z",
       "urls": [
         {
@@ -5278,21 +5184,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T18:37:54Z",
-      "urls": [
-        {
-          "sign": "bd4e442294daf8c4b384636c0a849ff36bb6349e0d377b73e7c53eb2aaa145f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtion Senaatti-kiinteistöt myy Rahapajan ja Meripajan kiinteistöt Katajanokalla – tarjouskilpailu päättyy ensi viikolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T17:57:11Z",
@@ -13522,6 +13413,115 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T09:44:56Z",
+      "urls": [
+        {
+          "sign": "e9735847f13e04b4df96cacd5e95cae12c18532bec03a617c1e5c27b9d2ce259",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ei-terveysperusteiset kouluruokatoiveet kasvavat – Yle etsii kokemuksia evätyistä pyynnöistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T09:57:57Z",
+      "urls": [
+        {
+          "sign": "20b03c48bb7e21aa304c11eae61a71d4906b8394b22d4e54015473138aa5097f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oulun yliopiston tutkijat kehittivät ketterän vesiruton keräyskoneen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T09:44:55Z",
+      "urls": [
+        {
+          "sign": "34c2fcb14e2da3f88bebe19cf4bbe1aff1c2559189a0fda02653635845c25bc8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "...",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T09:46:00Z",
+      "urls": [
+        {
+          "sign": "c47d2a18e419f65df6b19338d24a6b2c9194e8e3d2dbf42893dfbce9053b93b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HJK solmi loppukauden, ensi kauden sopimuksen keskikenttäpelaaja Joona Vetelin kanssa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T12:44:00+03:00",
+      "urls": [
+        {
+          "sign": "e8a8907f013d01840d900df0e5b3c5885bacbc2e14440529568777c3e2485548",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Sanomat etsii kokemuksia työväkivallasta pääkaupunkiseudun vanhustenhuollon ammattilaisilta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T09:46:37Z",
+      "urls": [
+        {
+          "sign": "4491e234995c8076b18bd7848c0409aea022f894e872c8fe5c1883f96d6c5d74",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "TPS:n talousraportti paljasti 1,4 miljoonan euron tappion; toimitusjohtaja Aki Holma varautuu kolmen vuoden tappiokausiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T13:00:00+03:00",
+      "urls": [
+        {
+          "sign": "14972a6651bd3bdca601e1b18d7c5713bbd6e5b1bf1f2d15b7aa48597c770277",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
