@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T18:44:37Z",
+  "updated": "2026-08-25T18:59:21Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -1046,40 +1046,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T03:45:35Z",
-      "urls": [
-        {
-          "sign": "d6d0890bc365d626b57c6d44fa8af433223431800db5443a5a8883b02a38b02d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Politiikan tutkija Johanna Vuorelma: Yhteisen edun vetoaminen on usein keino nostaa tiettyjen ryhmien intressit muiden yläpuolelle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T04:27:43Z",
-      "urls": [
-        {
-          "sign": "47fc238e9655e083e87b0cf58afe0bf0beb3caf169339f1bc64896a12164093e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antti Calonius paljastaa aiemmin julkaisemattomat kirjeet ja maalauksen, jotka voivat vahvistaa Helene Schjerfbeckin sulhasen henkilöllisyyden",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T05:09:06Z",
@@ -4921,21 +4887,6 @@
       ],
       "title": "Miss Suomi -finalistit julkaisivat ensimmäiset bikinikuvansa ja kertoivat kehon epävarmuuksistaan",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-24T10:38:23Z",
-      "urls": [
-        {
-          "sign": "3f7c905f7f0328fc68e83679b14b8f274ed22717f9cda61d633258b88dc42fb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tupakointi aiheutti tulipalon, jossa raumalaisnainen kuoli",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13421,7 +13372,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-25T21:28:00+03:00",
+      "updated": "2026-08-25T21:48:00+03:00",
       "urls": [
         {
           "sign": "5eb72673482ac2410a8d8357f4fb1c9dd3b2da06a7056303f8a97001b9db8b5f",
@@ -13430,7 +13381,7 @@
           ]
         }
       ],
-      "title": "Yhdysvaltalainen kantrilaulaja Dolly Parton kuoli 80-vuotiaana",
+      "title": "Kantrilaulaja Dolly Parton kuoli kotonaan Nashvillessa 80-vuotiaana",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13588,6 +13539,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-25T18:54:28Z",
+      "urls": [
+        {
+          "sign": "1c1e476ee781de2f762af72f8b79628a73b76be86ecab3bebb1ebcc7723addf1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SM-liiga: TPS hankki puolustaja Gabriel Chicoinen, Ässät Juuso Pullin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T18:59:21Z",
+      "urls": [
+        {
+          "sign": "d3bad33bba99855b990f13291ab0225ae4aed41626cabfcc114d752d7dc4934e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain presidentti Trump määrää liput puolitankoon Dolly Partonin kuoleman johdosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-25T18:52:07Z",
+      "urls": [
+        {
+          "sign": "6e1da5da019ad85939a42df39e8eb62d0b03dcedb0855d57edcd4ba09a38e706",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtioneuvosto nimittää kaksi entistä suojelupoliisin päällikköä selvittämään viraston ohjausta, asemaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
