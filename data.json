@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T20:35:07Z",
+  "updated": "2026-08-25T20:58:18Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -775,21 +775,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T19:26:00+03:00",
-      "urls": [
-        {
-          "sign": "4ae703c82a3c9edd1875ed68fd1e860e25f3df02b450b6e4336b631013e1abc7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Merivartiosto hinasi veneen Eiran laiturille Helsingissä – alus upposi ja vesiliikennejuopumuksesta aloitettiin tutkinta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-22T20:00:00+03:00",
       "urls": [
         {
@@ -1029,23 +1014,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T05:19:04Z",
-      "urls": [
-        {
-          "sign": "6f6f292df29e9a9c6afeab05379d0877afa437eb1d090b762d936882389e17e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Take Two aloittanut oikeustoimet New Yorkissa väitettyjen GTA VI -vuotojen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T13:04:06Z",
@@ -13578,6 +13546,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T23:58:00+03:00",
+      "urls": [
+        {
+          "sign": "63af867b47aa86f6e268bd59efbed9d56f59740801d4450615917298a58457ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T20:58:18Z",
+      "urls": [
+        {
+          "sign": "c5f55a1ef9974471c1d51ace10823ce2835aeb0f2c1ac4b95c9466668788f53f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain CIA:n johtaja John Ratcliffe vieraili Moskovassa – asiantuntijat arvioivat käynnin varoituskäynniksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
