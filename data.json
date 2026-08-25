@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T03:30:12Z",
+  "updated": "2026-08-25T03:39:42Z",
   "entries": [
     {
       "updated": "2026-08-24T21:36:05Z",
@@ -1040,21 +1040,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-21T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "99e5bf231b02829d88b1e81713d357242b45c62e038a6cc3e4e6345397a72dde",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orpon hallituksen säästöpäätökset voivat aiheuttaa julkiselle taloudelle suurempia kustannuksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-21T18:21:00+03:00",
@@ -5628,27 +5613,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T13:22:20Z",
-      "urls": [
-        {
-          "sign": "f5c543092dac516ebdc99a27b664c87994de877fca394f06140f05f607ef95be",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "a99616fbf99577d163703861d28d6320bc07b0d79e76dd246c83d094093d27d6",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-23T13:37:59Z",
@@ -12698,7 +12662,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T21:01:14Z",
+      "updated": "2026-08-25T03:35:21Z",
       "urls": [
         {
           "sign": "18d50a3e3254151f41533b01fb09ff866acba23831f08202e517f256782be8cb",
@@ -12707,7 +12671,7 @@
           ]
         }
       ],
-      "title": "Tasavallan presidentti Alexander Stubb suojautui Kiovassa ilmahälytyksen vuoksi",
+      "title": "Presidentti Alexander Stubb evakuoitui Kiovassa ilmahälytyksen vuoksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13513,6 +13477,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T03:39:42Z",
+      "urls": [
+        {
+          "sign": "47fb5ca9b65b186804d4976e21af56e9e30f06f58bdd8798e3adb96149b1acfb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhteiskuva paljasti golfari Bryson DeChambeaun ja malli Mikayla Demaiterin suhteen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "8e6fad11c610937e7379fa411afdad302ec4c0f20e4b7bb03ff04bf185dbd8ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
