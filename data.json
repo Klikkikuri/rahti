@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T13:13:54Z",
+  "updated": "2026-08-25T16:29:00+03:00",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -790,53 +790,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-22T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "5f579819dc57570ed8bb418a758075b4c2da3293f976ee416fa96a42cc1e7027",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T12:02:00+03:00",
-      "urls": [
-        {
-          "sign": "740ad6341502ad970a6f9be938cb18deb40bc4d506aea1700a40c19849563d23",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjä iski droonilla Ukrainan Kryvyi Rihin kauppakeskukseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-22T12:17:00+03:00",
-      "urls": [
-        {
-          "sign": "e804dc3d08f94b316f2e34adf1d472baa17d88790eb6ffeaf6b572f7a3ae0b51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fagerstan kouluiskussa kuoli alikäinen tyttö, poliisi pidätti epäillyn",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-22T17:09:00+03:00",
       "urls": [
         {
@@ -863,21 +816,6 @@
       ],
       "title": "Myanmarin armeijan ilmaisku surmasi meditoijia Keski-Myanmarin luostarissa",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-22T10:02:12Z",
-      "urls": [
-        {
-          "sign": "931d2a289c7cc4b72866c1a9dc96c1454936ac91698f24b3ba4e5e7afbd827fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Traktorinkuljettaja kuoli Liperissä väistäessään leikkuupuimuria – poliisi tutkii liikenneturvallisuuden vaarantamista",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -4798,21 +4736,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T04:09:41Z",
-      "urls": [
-        {
-          "sign": "3d31a97ca8b86da53a11282a9d61393cd4fdcafde4bc498fdbab1136179779da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Barcelona voitti Elchen 5–0 La Ligassa – Raphinha ja Fermín López maalasivat, Adeyemi ja Gordon vaikuttivat",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-24T04:05:35Z",
       "urls": [
         {
@@ -4860,21 +4783,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-24T04:01:42Z",
-      "urls": [
-        {
-          "sign": "1b2bafe1700acd97a0032eab5617810b9aa81a709a279ff668bdb970028ed9cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin päiväkodit lukitsevat ovensa aukioloajan jälkeen – hätäpoistuminen on mahdollista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T07:16:00+03:00",
@@ -11653,7 +11561,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T11:59:00+03:00",
+      "updated": "2026-08-25T16:22:00+03:00",
       "urls": [
         {
           "sign": "d6eaed454b9a3030a1a174b17d3b6bb739e060bbd79ef8f209eb051fb13efd70",
@@ -11662,8 +11570,8 @@
           ]
         }
       ],
-      "title": "Kokoomus vaatii kahdeksan miljardin euron sopeutukset menoista, jatkaa hyvätuloisten veronkevennyksiä",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Hallituspuolueet vaativat kahdeksan miljardin euron sopeutuksia, kritisoivat Sdp:tä puoluekokouksissa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13551,6 +13459,96 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T13:20:01Z",
+      "urls": [
+        {
+          "sign": "29cc9715fbe88ba7fbc3be978126296b77521e156a49bcb98619e047a5c2ef40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii epäiltyä puukotusta Koivukylän juna-asemalla",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T13:17:36Z",
+      "urls": [
+        {
+          "sign": "f316fbe0aaa5f4fccbab1f15df789e0def2a1f30a5ab21f62baf34023fbe7f31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nanna Karalahti suostuu ottelemaan Martina Aitolehtia vastaan Immu Fight Nightissa Elina Gustafssonin kannustuksen jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-25T16:29:00+03:00",
+      "urls": [
+        {
+          "sign": "904b862c53cac0e821e44d2b8839e26083530f58c57ba6e0ed1c9f276a5b4ffb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiinan humanoidirobottien MM-kisat Pekingissä: asiantuntijan mukaan tavoitteena johtajuus, teollisuusrobotisointi ja sotilaalliset sovellukset",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T16:23:00+03:00",
+      "urls": [
+        {
+          "sign": "ba82e972877d5f9fbf1bc2f4bb6b1b8b95193949d87a7121635b44935481a49c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Legon liikevaihto kasvoi 21 prosenttia alkuvuonna, vaikka öljyn hinta ja Kiina haastavat yhtiötä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T16:22:00+03:00",
+      "urls": [
+        {
+          "sign": "18faeda6b585c8c6f04a337be49fdd5b82d6dc7198dc24bfee8aa22941057d50",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi aloitti esitutkinnan Ile Vainion Facebook-kirjoituksesta kunnianloukkauksesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-25T13:15:48Z",
+      "urls": [
+        {
+          "sign": "d131a1882d93a931a56c8acaf7536f076262467bc8d92334864b9024c360ecdc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuopiolainen paitavalmistaja Petrifun hakee yrityssaneerausta kasvavien kustannusten ja tappioiden vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
