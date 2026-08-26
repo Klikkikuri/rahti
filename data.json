@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T03:23:16Z",
+  "updated": "2026-08-26T03:36:04Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -858,23 +858,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "7deb4fcea87c77ce1e4549b6d9dd754903606b7769c3f150974f7b6a0cb75a1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-23T20:03:00+03:00",
       "urls": [
         {
@@ -1302,23 +1285,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T10:52:00Z",
-      "urls": [
-        {
-          "sign": "3abf6590a8c6d981997c2ab5f38b5111f4b26f6f432f7a8f483b311cf649d2a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammattijärjestäjä Kiira Keto: Eteisen tavarat pysyvät järjestyksellä, kun jokaisella on selkeä paikka",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-23T15:00:00+03:00",
@@ -3073,23 +3039,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-24T13:13:11Z",
-      "urls": [
-        {
-          "sign": "afd53e775e161dcad79c5e4bb825b24f5b09b937b61208c364b4fa74bf4d8eaa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rolf Nordmo kiistää murhasyytteen Janne Puhakan taposta – syyttäjä ja omaiset vaativat tuomion vahvistamista Helsingin hovioikeudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T04:53:28Z",
@@ -4922,23 +4871,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-24T13:37:24Z",
-      "urls": [
-        {
-          "sign": "6aee278acd71bf6ae754cd742f4b1bb3494ff8d21b28eae090383fbfdf9ced1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-24T13:49:55Z",
       "urls": [
         {
@@ -4951,23 +4883,6 @@
       "title": "Prisman tukkuosastot myyvät yllättäen paljon valkosipulimurskaa – myyjät yllättyivät suosiosta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-24T13:31:30Z",
-      "urls": [
-        {
-          "sign": "7259f7551a97efa3d3f855555cc51838afdb587fd31d9b79f262d7435d1f0bf4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroopan mestari Alisa Vainio sai timanttikorvakorut Lappeenrannan Urheilu-Miehiltä – arvo tuhansia euroja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13578,6 +13493,87 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T03:30:49Z",
+      "urls": [
+        {
+          "sign": "5b0e265399700a5b28ade3eddcf7afbd898d42ae1bec3da189234dbc3cfcd791",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T03:29:00Z",
+      "urls": [
+        {
+          "sign": "af3c3069ed68228a640bcb56ea0703697122227d75e9e5dc0c7c30cc045cdd07",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hovioikeus käsittelee Rolf Nordmon valitusta Janne Puhakan murhasta – puolustus vetoaa muistihäiriöihin ja stressiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T03:36:04Z",
+      "urls": [
+        {
+          "sign": "474cbd0c18b7502481d9eb76021d97d52ba4914777fd99f46dc4be023a749e6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Celtic putoaa Mestarien liigan karsinnoista yhteismaalein 4–5 LASK Linziä vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "eacb6fa5a00b8c10c842122e6dd8bcec7f033e444ea116c7f87ad61a44fabb04",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T03:30:31Z",
+      "urls": [
+        {
+          "sign": "bdbb573685181d4c1c07bc72055e4d9eb7e0dafe638c41179761905a91f6c9f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Väitöstutkimus osoittaa: Nielurisaleikkaus voi parantaa uniapnean aikuisilla, joilla on suurentuneet nielurisat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
