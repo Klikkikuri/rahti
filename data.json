@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T17:29:50Z",
+  "updated": "2026-08-26T20:42:00+03:00",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -440,21 +440,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-25T11:14:25Z",
-      "urls": [
-        {
-          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden päivittäinen graafi näyttää pörssisähkön varttitason hinnat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T03:49:23Z",
@@ -11434,7 +11419,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T20:29:00+03:00",
+      "updated": "2026-08-26T20:42:00+03:00",
       "urls": [
         {
           "sign": "2518a249d8a0203d4fc2117c50495990098b098523e8217200b8b4598c2276b4",
@@ -11443,8 +11428,8 @@
           ]
         }
       ],
-      "title": "Maanvyörymä aiheutti tuhoisan tulvan Nepalissa, satoja kuolleita, satoja kateissa",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Maanvyörymä on aiheuttanut tulvan Nepalissa, satoja kuolleita, kateissa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13537,6 +13522,24 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T17:36:35Z",
+      "urls": [
+        {
+          "sign": "fcb1dfca6dcaac7383208cf52be033892db161c79d55ed7a92737aa40a9c432b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkoministeriö: Nepalin tulva-alueella noin 30 suomalaista – viranomaiset kehottavat ilmoittautumaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
