@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T03:10:21Z",
+  "updated": "2026-08-26T03:23:16Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -1052,21 +1052,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T09:01:54Z",
-      "urls": [
-        {
-          "sign": "99e5b9df2b9ce4006d747898a12d3c9224c606484062c0674525fb4891436160",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Raviharrastajat kertovat uhkaavista viesteistä – uhrien mukaan motiivina pieleen menneet totopelit",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-23T12:00:00+03:00",
       "urls": [
         {
@@ -1131,23 +1116,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T09:30:36Z",
-      "urls": [
-        {
-          "sign": "ca8ab3c7ffeca949c031d3322f7f845dc890cf285ad479faad3867f79a1e2d8b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Danske Bank suosittelee neljän kuukauden säästöpuskuria, Takuusäätiön johtaja pitää sitä liian suurena",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-23T09:58:11Z",
       "urls": [
         {
@@ -1208,23 +1176,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T10:40:17Z",
-      "urls": [
-        {
-          "sign": "f83a3f533d0d0f0e3a66b8a78250474411471db321e1b3fceb0f2d40e903a7ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjoismaiden jalkapalloliitot ilmoittavat menettäneensä luottamuksen Fifan puheenjohtajaan Gianni Infantinoon",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-23T11:05:23Z",
@@ -1306,21 +1257,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T10:51:59Z",
-      "urls": [
-        {
-          "sign": "a3ddc666833745569c8fd6da543ca97e41f54b583a78ddcb7d8950a9fae29365",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saab esitteli viikonloppuna miehittämättömän A3-001-konseptimallin Ruotsin ilmavoimien lentonäytöksessä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-23T11:29:38Z",
@@ -13579,6 +13515,68 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T03:19:44Z",
+      "urls": [
+        {
+          "sign": "633be4e9e3ba0355de6ce04a613be50e92c5b16fe6eab3b1333a858f9f8d7124",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kela julkistaa tänään johtamisselvityksen pääjohtaja Lasse Lehtosen toiminnan johdosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T03:23:16Z",
+      "urls": [
+        {
+          "sign": "7c80e7da0b02f3487938e4a7a8248a86e72422fbe9dba42d5e3df16eaa34d9bb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Celtic hävisi LASKille yhteismaalein 5–4, putoaa Mestarien liigasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T03:21:56Z",
+      "urls": [
+        {
+          "sign": "c54905d22be42db77259d41de1b0125a11f44f47e8a35b363cd90ebb284817dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iconin oikeudenkäynti alkaa – seitsemää henkilöä epäillään 40 miljoonan euron rahaston varojen väärinkäytöstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T03:22:37Z",
+      "urls": [
+        {
+          "sign": "880974aa4abb9cd7d448d78b3eed3366036875561cb1fcc05b8b7690eb0643a5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliitikot ja viihdetaiteilijat muistelevat kuollutta Dolly Partonia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
