@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T09:27:57Z",
+  "updated": "2026-08-26T09:41:26Z",
   "entries": [
     {
       "updated": "2026-08-26T05:08:49Z",
@@ -1673,23 +1673,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T05:15:40Z",
-      "urls": [
-        {
-          "sign": "910f83b4be047d18d659baa201aa648f3f82ef429a187f2c9464efab003d926f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Säästöpankkiryhmä ennustaa Suomen talouskasvun olevan 2,2 % tänä vuonna",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T05:24:34Z",
@@ -4555,38 +4538,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T19:15:54Z",
-      "urls": [
-        {
-          "sign": "e1165110fdf09834c2d389b99daa648426c0023574f18f57e2f7912cfa494330",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jumalan käsi -pallo myytiin noin 2,9 miljoonalla eurolla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-24T19:14:31Z",
-      "urls": [
-        {
-          "sign": "e9e19f5fed94555281d02b82f9e04895b9591c728b44b2329f8e3e584c83c009",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mercedes vähensi taksiliiketoimintaa luksusstrategian vuoksi, tarjoaa nyt alennuksia palatakseen – BYD hyödyntää markkina-aukkoa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-24T20:16:13Z",
       "urls": [
         {
@@ -5613,7 +5564,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-26T09:21:40Z",
+      "updated": "2026-08-26T09:32:36Z",
       "urls": [
         {
           "sign": "5a03f52bda9fd73148dfb3db48919e4d7bf45fde3c916b1f7e889f94ceb5595d",
@@ -5622,9 +5573,11 @@
           ]
         }
       ],
-      "title": "Pääpuolueet kokoontuvat kesäkokouksiin – Kokoomus linjaa talouspolitiikan ja perussuomalaiset keskustelee maahanmuutosta",
+      "title": "Puolueet kokoontuvat kesäkokouksiin – Kokoomus linjaa säästöt ja perussuomalaiset puhuu maahanmuutosta",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -11400,7 +11353,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-26T09:26:16Z",
+      "updated": "2026-08-26T09:35:09Z",
       "urls": [
         {
           "sign": "af3c3069ed68228a640bcb56ea0703697122227d75e9e5dc0c7c30cc045cdd07",
@@ -11409,7 +11362,7 @@
           ]
         }
       ],
-      "title": "Nordmo kertoo hovioikeudessa suhteen romahduksesta ja surmapäivän tapahtumista",
+      "title": "Nordmo selittää hovioikeudessa Puhakan surman syiksi suhteen romahduksen ja stressin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13569,6 +13522,51 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T09:41:26Z",
+      "urls": [
+        {
+          "sign": "d40a2867e69bd2c428d5d9952e8d21b473a0ca87280c640cea7cd832bdf30d6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oma Säästöpankki sai entisen Fincap-yhtiö Fisyrin konkurssiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T09:35:34Z",
+      "urls": [
+        {
+          "sign": "f9992440e61ccca71daaa59bf68baebcf067f6f0b7a673b7754884f04dd584a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kymmenen finalistia valittu Miss Jyväskylä 2026 -kilpailuun",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T09:31:58Z",
+      "urls": [
+        {
+          "sign": "f4faa161186bb64392693a81c4d2491bd50bba7507a750236034c09710929f45",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HIFK:n kannattajat boikotoivat paikallisottelua Jokeriteita vastaan korkeiden lippuhintojen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
