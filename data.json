@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-25T23:52:02Z",
+  "updated": "2026-08-26T00:02:49Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -4892,21 +4892,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-24T12:18:19Z",
-      "urls": [
-        {
-          "sign": "e9a1b53a5f4781e5adab0384853a2f705a1124c38900d3bc4c068a64fea55c08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SM-liigan seurojen pelaajabudjetit ylittävät 50,9 miljoonaa euroa kaudella 2026-27",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T12:20:00Z",
@@ -13583,6 +13568,23 @@
       "title": "Iltalehden horoskooppi tuo viikoittaiset näkemykset ja pohdittavaa kaikille Eläinradan merkeille",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T00:02:49Z",
+      "urls": [
+        {
+          "sign": "2c5f7d0204f69b54666742c4719ce24e52d2ee85c785089dc57fde9b883112ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain karjankasvattajat vastustavat Trumpin naudanlihan tuontitullien keskeytystä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
