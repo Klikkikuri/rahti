@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T04:41:54Z",
+  "updated": "2026-08-26T07:58:00+03:00",
   "entries": [
     {
       "updated": "2026-08-26T04:11:30Z",
@@ -807,23 +807,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "471b9a1831885ff6cb61556014efe9d99eb3e1936c9b1a37fcb4fcef7ebf8d47",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-23T20:03:00+03:00",
       "urls": [
         {
@@ -1144,38 +1127,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T11:28:54Z",
-      "urls": [
-        {
-          "sign": "46d3acb38439fe0f0531f397ab1227a29826355f408fdd35bdd4d81607ef1cf2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kazakstanin parlamenttivaalit vahvistavat presidentti Tokajevin asemaa perustuslain uudistamisen jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T11:52:39Z",
-      "urls": [
-        {
-          "sign": "45ac74ac539defadaadb328195e1eaaa07227dbdac4ae1f81fe94854a9c09b41",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "AC Oulu lainaa Roope Riskin Ilveksestä loppukaudeksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-23T15:18:00+03:00",
       "urls": [
         {
@@ -1191,24 +1142,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T12:27:53Z",
-      "urls": [
-        {
-          "sign": "2b378506146fa95a9d5d4ca77bf535e4749ca6505346038c5410897df523c7f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Patria ja General Cherry allekirjoittivat aiesopimuksen droonituotannon käynnistämiseksi Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-23T12:31:02Z",
@@ -4875,21 +4808,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T14:56:06Z",
-      "urls": [
-        {
-          "sign": "16aee39036dbe50370322e866ad16179e7456af7b8c9dbe182aee099cf80d1cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Linda Lampenius ja Pete Parkkonen päättivät kesäkiertueensa – viimeinen yhteiskeikka Tukholmassa 15. marraskuuta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T14:38:07Z",
@@ -10328,7 +10246,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T18:21:02Z",
+      "updated": "2026-08-26T04:46:32Z",
       "urls": [
         {
           "sign": "8a2fb973a1ab78aae50ad2572fbfae172ee2d212f046e31d2aefd776364ae687",
@@ -10337,7 +10255,7 @@
           ]
         }
       ],
-      "title": "Entinen tiedustelupomo arvioi: CIA:n johtaja saattaisi viedä Moskovassa varoituksen Putinille",
+      "title": "Entinen tiedusteluvirkamies arvioi: CIA:n johtaja saattaa viedä Moskovassa varoituksen Putinille",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13576,6 +13494,87 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T04:53:12Z",
+      "urls": [
+        {
+          "sign": "7a040d9b6d7dc0eb8dfad342b9d9724626a0dce3a5eeeefd6ac07c22ee63040d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Awak Kuier varmistaa Dallas Wingsin paikan WNBA:n pudotuspeleissä – 12 pistettä ja 12 levypalloa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T04:48:18Z",
+      "urls": [
+        {
+          "sign": "90641238b7c45730f7414bd25cfca16dd03cb628ffd6f70d2eb2bb986b987d90",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Päijänteen vedenalainen vesiputki rikkoutui – Korpilahdella vedenjakelu katkesi, keittokehotus jatkuu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T04:57:53Z",
+      "urls": [
+        {
+          "sign": "fe385611204906b25e28688b04b98600d8b4ea1ccd3a0ebb3d2ed3175549dffe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanada kaksinkertaistaa tullinsa Yhdysvaltain teräkselle ja alumiinille vastineeksi Trumpin 50 prosentin tulleista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T04:54:30Z",
+      "urls": [
+        {
+          "sign": "cebeb677c5d1c747672749b9953cbfbeee578be14502e44d90b55275ff44cbf3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eminem julkaisi Instagramissa kirjeen, jonka edesmenneeltä Dolly Partonilta sai",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T07:58:00+03:00",
+      "urls": [
+        {
+          "sign": "7ddc8a2e2407831733a5766eeb0513528ae4a41c2e17850531abad92c637c617",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Palo levisi Puistolassa autokatoksesta rivitaloon – pelastuslaitos purki katon ja ainakin neljä autoa vaurioitui",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
