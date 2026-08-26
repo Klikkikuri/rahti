@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T10:00:00+03:00",
+  "updated": "2026-08-26T07:15:12Z",
   "entries": [
     {
       "updated": "2026-08-26T05:08:49Z",
@@ -1091,23 +1091,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T14:30:08Z",
-      "urls": [
-        {
-          "sign": "966717d68604dec21772241062193bcbe422090b47c108f56cc8307873a1ca0b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karsten Warholm hävisi Alison dos Santosille Timanttiliigan kilpailussa Puolassa, jääden 0,09 sekuntia voittajasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-23T18:00:00+03:00",
       "urls": [
         {
@@ -1453,21 +1436,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T16:50:25Z",
-      "urls": [
-        {
-          "sign": "d4eebc3a8611d6b73879ec2d257a0bba2b616a1b660b0550674710437c254860",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Andy Burnham edistää Suomen asunto ensin -mallia Britanniassa kodittomuuden vähentämiseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T17:24:59Z",
@@ -4819,21 +4787,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T16:42:50Z",
-      "urls": [
-        {
-          "sign": "d3b84d4366607d3b42a47510ccfafaf05f27aac48d6fbcc67b3018f1a5b31483",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Kai Vaine aloitti kiinteistönvälittäjän työn perheen toimeentulon turvaamiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-24T09:22:24Z",
       "urls": [
         {
@@ -4933,21 +4886,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T16:53:45Z",
-      "urls": [
-        {
-          "sign": "7199d7ef87c966f9716313dea551792c087539c34188815dd7f98ef437a0e375",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anthony Joshua julkaisi riskialtisen golfautovideon Dominikaanisessa tasavallassa, vaikka menetti ystävänsä joulukuun auto-onnettomuudessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T17:38:44Z",
@@ -11599,7 +11537,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T18:31:23Z",
+      "updated": "2026-08-26T07:02:12Z",
       "urls": [
         {
           "sign": "2166caac9249e5d6c7a41a3171a29c9b649e6ed11edc52369d2be7b164efc284",
@@ -11608,9 +11546,11 @@
           ]
         }
       ],
-      "title": "SDP esittelee Oulun kesäkokouksessaan puolustusveroehdotuksen",
+      "title": "SDP käsittelee puolustusveroehdotuksensa Oulun kesäkokouksessa keskiviikkona",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12293,7 +12233,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-26T06:49:04Z",
+      "updated": "2026-08-26T07:15:12Z",
       "urls": [
         {
           "sign": "5334ffb4a2a4262e65ea5b66651dd8d1c47da449ee729650496221962fed8d3f",
@@ -12302,8 +12242,8 @@
           ]
         }
       ],
-      "title": "Helsingin käräjäoikeus aloittaa pyöräliikkeen tuhopolttojutun käsittelyn – kolme nuorta epäiltynä tilausrikoksesta",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Helsingin pyöräliikkeen tuhopoltosta nousi syytteet viidelle – käräjäoikeuden käsittely alkaa",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
@@ -13224,7 +13164,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T06:09:21Z",
+      "updated": "2026-08-26T07:11:33Z",
       "urls": [
         {
           "sign": "9cd9f952b93df3ba14289242c54bc434905e34d3670a8fba41e474adfbd5ce46",
@@ -13233,9 +13173,11 @@
           ]
         }
       ],
-      "title": "Kokoomus ja perussuomalaiset arvostelevat SDP:n talouspolitiikkaa – Pääministeri Orpo puhuu eduskuntaryhmälle klo 10",
+      "title": "Pääministeri Orpo arvostelee SDP:tä talouspolitiikan puutteesta – Kokoomuksen kesäkokous Salossa",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13574,6 +13516,85 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T07:00:00Z",
+      "urls": [
+        {
+          "sign": "b9e3d253f348b30cb04001e1d90103bd6eb5b5e76ce4de14d81e2438298a0f5e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Salatut elämät -sarjan uudet juonipaljastukset julki: Noelin salainen suhde, Alissan rakkaus ja Iiron murhasyytökset",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T07:00:10Z",
+      "urls": [
+        {
+          "sign": "2cb1c1cac55b19e5fc6414f72cda9d4db560dec30bbe2aee2745235bcdaf701b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjanmaan käräjäoikeus aloittaa Icon-talousrikosvyyhden käsittelyn – oikeudenkäynti kestää arviolta 50 päivää",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T07:00:44Z",
+      "urls": [
+        {
+          "sign": "c6733005ca42bc8fa4e1846d64569e630cd02042e68ab55df7dfd59a7936b1d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T07:06:25Z",
+      "urls": [
+        {
+          "sign": "4d3fde8be108308c1e40899693079061d7fbd4b5079e6d7b0b12b85eaba4870e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äänekoski ottaa Vessapassin käyttöön edistämään saavutettavuutta julkisissa tiloissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-08-26T07:11:12Z",
+      "urls": [
+        {
+          "sign": "32cb467345c6beafeeed4ea8a244383693ec3ec58b489416ea59c7c7f5f6f4c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee entistä painonnostajaa Anni Vuohijokea ympäristörikoksesta öljysaastumisen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
