@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T16:45:00+03:00",
+  "updated": "2026-08-26T16:59:00+03:00",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -728,21 +728,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T18:36:00+03:00",
-      "urls": [
-        {
-          "sign": "da4c8628d71bdaaf7426bb5c882a6317f89800e308a19fba15363b52ba73150b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keusote purki Klaukkalan terveysaseman vuokrasopimuksen ja siirsi palvelut Nurmijärven kirkonkylälle – Matti Vanhanen vaatii palauttamista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-23T19:15:00+03:00",
       "urls": [
         {
@@ -791,21 +776,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T18:45:00+03:00",
-      "urls": [
-        {
-          "sign": "4732b9393e2d62b9c66c7fe5834bdc482d0951acc29669da8ccb40f692dbc3d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehitysvammaliitto vaatii etälamauttimen käyttörajoitusten laajentamista palvelukodeissa asuviin ihmisiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1263,23 +1233,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T06:58:05Z",
-      "urls": [
-        {
-          "sign": "73213078d5d9bbae9740e637ad347dac083ca55da7cab416c906b7fdfbe98df9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeri Valtonen korosti Hamasin iskua ja Gazan sotaa suurlähettiläskokouksessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-26T15:41:00+03:00",
       "urls": [
         {
@@ -1312,24 +1265,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T07:03:04Z",
-      "urls": [
-        {
-          "sign": "bb4f32e77caec63c470ff5d9ee7c6276c0956e197830ac6707a4af2a1a03ec80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-24T10:00:00+03:00",
@@ -1392,23 +1327,6 @@
       ],
       "title": "Lääkärit varoittavat: Liian vahvat ihonhoitotuotteet aiheuttavat iho-oireita lapsilla",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T07:14:56Z",
-      "urls": [
-        {
-          "sign": "d83753b090b3e6c88fe6e5ea9a23e4d291a21fee45c406decbd4f8a5551cc3cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen valtiosihteeri Jukka Salovaara ehdottaa Supon siirtämistä ulkoministeriön ohjaukseen",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -4229,7 +4147,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T13:09:40Z",
+      "updated": "2026-08-26T13:46:59Z",
       "urls": [
         {
           "sign": "5a03f52bda9fd73148dfb3db48919e4d7bf45fde3c916b1f7e889f94ceb5595d",
@@ -4238,9 +4156,11 @@
           ]
         }
       ],
-      "title": "Pääministeri Orpo esittelee säästölinjauksia, perussuomalaiset keskittyvät maahanmuuttoon puolueiden kesäkokousten aikana",
+      "title": "Puolueiden kesäkokoukset käynnistyvät – Orpo esittelee velkajarrun sopeutukset ja perussuomalaiset keskittyvät maahanmuuttoon",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -11625,7 +11545,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T16:40:00+03:00",
+      "updated": "2026-08-26T16:59:00+03:00",
       "urls": [
         {
           "sign": "e98456fd08115ecccc8658bf0bdd32234239e1dc9e95566feb19083e9e172308",
@@ -11634,8 +11554,8 @@
           ]
         }
       ],
-      "title": "Valtioneuvoston kanslia aloitti Supo-selvityksen ilman sisäministeri Rantasen tietoa",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Pääministeri Orpon virasto aloitti Supo-selvityksen ilman sisäministeri Rantasen tiedotusta – ministeri kritisoi menettelyä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -12949,7 +12869,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T16:41:00+03:00",
+      "updated": "2026-08-26T16:57:00+03:00",
       "urls": [
         {
           "sign": "2518a249d8a0203d4fc2117c50495990098b098523e8217200b8b4598c2276b4",
@@ -12958,7 +12878,7 @@
           ]
         }
       ],
-      "title": "Maanvyörymä aiheutti Pohjois-Nepalissa massiivisen tulvan, joka on vaatinut kymmenien hengen uhrit ja jättänyt satoja ulkomaalaisia kateisiin",
+      "title": "Maanvyörymä aiheutti Pohjois-Nepalissa tuhoisan tulvan, joka on vaatinut kymmeniä kuolonuhreja ja jättänyt satoja ulkomaalaisia kateisiin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13555,6 +13475,83 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T13:50:02Z",
+      "urls": [
+        {
+          "sign": "262c8efd9341359d27ac5b712deddd11b7f0f348790608ae817a54655c732d52",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kelan johtamisselvitys valmis: hallituksen mukaan johtaminen toimii hyvin, mutta vaatii yhtenäisyyttä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T16:55:00+03:00",
+      "urls": [
+        {
+          "sign": "fc94e1cf42b57089ecc664b169271eea95b2efe91b16df6ddd9e1df55bf6626f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sisäministeriön kansliapäällikkö Sarasmaa vahvistaa Rantasen väitteen supo-työryhmän myöhäisestä tiedottamisesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T13:47:00Z",
+      "urls": [
+        {
+          "sign": "e4b8e715e23c18b73eb051c0091fb3c12d7cb892c7fccd5ab5269c035dbfe1fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kokki Harri Syrjänen jakaa Huomenta Suomessa ohjeen yhden pannun kanapastaan arkiruokailun helpottamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T16:51:00+03:00",
+      "urls": [
+        {
+          "sign": "6365ff563ca223f7682eb7755cc7e7bc3f82035d85d2635e91d39ae25c4adb59",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Italialaismies tuomittiin vankeuteen väärennetystä amfiteatterista ja turistien huijaamisesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T13:45:35Z",
+      "urls": [
+        {
+          "sign": "9c525b13a1e63e96811c3fda64783f3d7a69eae300074772c9d5e9fc3ce43a98",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingissä hyökätyn Nita-koiran toipuminen alkaa; hyökkääjän omistajaa etsitään edelleen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
