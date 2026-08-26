@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T08:29:00+03:00",
+  "updated": "2026-08-26T05:37:44Z",
   "entries": [
     {
       "updated": "2026-08-26T05:08:49Z",
@@ -1125,23 +1125,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T13:12:08Z",
-      "urls": [
-        {
-          "sign": "ea8775b722100942952e62ee8cfcedf503ec425ea84f726a3c48aa408c0716cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Palloliitto muutti kantaansa Gianni Infantinoon kahdesti MM-kesän aikana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-23T13:42:13Z",
@@ -13391,7 +13374,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T08:29:00+03:00",
+      "updated": "2026-08-26T08:33:00+03:00",
       "urls": [
         {
           "sign": "7ddc8a2e2407831733a5766eeb0513528ae4a41c2e17850531abad92c637c617",
@@ -13400,8 +13383,8 @@
           ]
         }
       ],
-      "title": "Autokatosta lähtenyt tulipalo levisi Puistolassa rivitalolle – vähintään neljä autoa vaurioitui",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Tulipalo levisi autokatoksesta Puiston rivitalolle – vähintään neljä autoa vaurioitui",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13584,6 +13567,21 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T05:37:44Z",
+      "urls": [
+        {
+          "sign": "83dac242c35c3f75b185fbe55d789cb2b99bd65200dd3b9249415f7afb8269d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vihreiden kesäkokous jatkuu – Ville Niinistö harkitsee paluuta eduskuntavaaleihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
