@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T20:42:00+03:00",
+  "updated": "2026-08-26T17:57:00Z",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -689,23 +689,6 @@
       "urls": [
         {
           "sign": "d1e9ce84a349dda107a5a8805cbcb93080f750f7ee68b18886dc1c136769b798",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T06:30:00+03:00",
-      "urls": [
-        {
-          "sign": "995de8f7862a56d69ed7153f49cfaa8be592c395f2fdb4e944edba0666fe8d30",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -1444,21 +1427,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T14:20:01Z",
-      "urls": [
-        {
-          "sign": "a4d89a919fb51545132891a1e5bf0d6a7cae991a0e1236b91e28a5e73ef187c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian poliisi pidätti 12 ihmistä nokkakolarin tutkinnassa, jossa useita ihmisiä kuoli Koillis-Englannissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T14:17:22Z",
@@ -4702,21 +4670,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T11:19:58Z",
-      "urls": [
-        {
-          "sign": "9e283ebec86315c96952fc15c39f4d503c6d5ec3175464abb1f46ab5234267ee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kreml vastusti Stubbin kannanottoa Ukrainan syväiskuista ja kutsui Venäjän voittamista valheeksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T11:34:05Z",
@@ -11419,7 +11372,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T20:42:00+03:00",
+      "updated": "2026-08-26T20:47:00+03:00",
       "urls": [
         {
           "sign": "2518a249d8a0203d4fc2117c50495990098b098523e8217200b8b4598c2276b4",
@@ -11428,7 +11381,7 @@
           ]
         }
       ],
-      "title": "Maanvyörymä on aiheuttanut tulvan Nepalissa, satoja kuolleita, kateissa",
+      "title": "Maanvyörymä aiheutti massiivisen tulvan Nepalissa, satoja kuolleita, lähes 500 ulkomaalaismatkailijaa kateissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13540,6 +13493,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T20:50:00+03:00",
+      "urls": [
+        {
+          "sign": "2900fb63e54fd45e3aec3beef350484d4f6d136c3383b09569f45bd1b0c6cbcf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brittiläinen näyttelijä Tim Curry on kuollut 80-vuotiaana",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T17:48:49Z",
+      "urls": [
+        {
+          "sign": "b09e2d5f91261a9bf09ddf5debcb5e36eaf3c2585a57b2ae009d519f32b2b949",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalainen Hana Moll voitti Zürichin Timanttiliigan hypättyään uuden henkilökohtaisen ennätyksen 490 senttimetriä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T17:57:00Z",
+      "urls": [
+        {
+          "sign": "5351aa31107928a4f422d173a0b5b625ce5c6a8375b1acfef5a7490f26f61f60",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sarjakuvataiteilija Nalle Virolainen toi sadomasokismin suomalaisen median keskusteluun ja vetäytyi julkisuudesta terveys- sekä julkisuussyiden vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
