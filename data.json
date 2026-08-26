@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T04:41:00+03:00",
+  "updated": "2026-08-26T02:04:22Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -4862,21 +4862,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-24T12:39:53Z",
-      "urls": [
-        {
-          "sign": "25c105b8aaffb97929f826008dbb5b8bc4cf5d6b9e0950bfb99c0f04a957d405",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alpo Rusi: Keijo Liinamaan uhkaukset liittyivät sisäpoliittiseen presidenttipeliin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-24T12:26:03Z",
@@ -13583,6 +13568,23 @@
       "title": "Dolly Partonin edustaja vahvistaa: Kantrilegenda menehtyi lyhyen syöpätaistelun jälkeen",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T02:04:22Z",
+      "urls": [
+        {
+          "sign": "11934eeda3ba4b459fa3bdb7319a57203b7cd68b4fe1d3c4cdedf6870f8adce7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Check Pointin raportti: Huijarit käyttävät Chat GPT:n nimeä yhä useammin tietojenkalastelussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
