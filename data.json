@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T20:15:00Z",
+  "updated": "2026-08-26T20:39:22Z",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -5035,23 +5035,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T14:04:52Z",
-      "urls": [
-        {
-          "sign": "29cc9715fbe88ba7fbc3be978126296b77521e156a49bcb98619e047a5c2ef40",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi otti kiinni epäillyn puukottajan Koivukylän juna-asemalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-25T16:29:00+03:00",
       "urls": [
         {
@@ -5411,21 +5394,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T14:04:10Z",
-      "urls": [
-        {
-          "sign": "3018252a83c2b41d96b75f6e79bab45cd47377ec8362c573c48376566c925cf2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "RUF Automobile kiistää Porschen yrityskaupahuhut",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T14:05:22Z",
@@ -13525,6 +13493,38 @@
       ],
       "title": "Lähteet: Venäjä kiristää ballistisia ohjusiskuja Ukrainassa neuvotteluiden tyrehdyttyä",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T20:39:22Z",
+      "urls": [
+        {
+          "sign": "2cb884f8798af9193a87c340574492f880e01610672432bb973fdaaf299996bb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Otto Virtanen voitti US Openin karsintaottelun ja kohtaa seuraavaksi Grigor Dimitrovin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T20:31:18Z",
+      "urls": [
+        {
+          "sign": "6ecb0eb009b4852ec078f1953399f2bf99fd7c71c28aec1d4b1e758881554e55",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rydmanin ehdotus syrjäyttää SDP törmää Lindtmanin kritiikkiin – puoluejohtaja pitää sitä vaalitaktiikkana",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
