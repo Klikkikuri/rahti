@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T02:37:16Z",
+  "updated": "2026-08-26T02:54:00Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -1037,21 +1037,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-23T08:33:37Z",
-      "urls": [
-        {
-          "sign": "bf7cd2bb0e4004fa356eb4cddee5c175a8b6d4bc5fa7a5cedfa9413b22e304da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen presidentti Stubb vierailee Kiovassa, lupaa Ukrainan tuen jatkuvan niin kauan kuin tarvitaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-23T11:45:00+03:00",
       "urls": [
         {
@@ -1114,23 +1099,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T09:26:00Z",
-      "urls": [
-        {
-          "sign": "00e2839cd81a657697b95f1d093d1205fc6e19dcd4f8d6f78319cb7553acbe42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pituusrajojen poistuminen innotti 154-senttisen Katariina Kinnusen mukaan Miss Suomi 2026 -kilpailuun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-23T12:41:00+03:00",
@@ -13580,6 +13548,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T02:54:00Z",
+      "urls": [
+        {
+          "sign": "b4e798b86f68c6166dd0dbbc65ca82a5e567dc649a9050753fa97a970577610b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sokos Hotel Vaakunasta Helsingistä varastettiin reppu laukkusäilytyksestä – hotelli vahvistaa tapauksen ja asentaa lukolliset kaapit",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T02:45:15Z",
+      "urls": [
+        {
+          "sign": "5f42bca89ec4a7ed46cdca5bc8a0d864440f08f52ce3ec3406300a2ae9bfd6ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin hovioikeus jatkaa Janne Puhakan henkirikosjutun käsittelyä – Rolf Nordmo kuullaan tänään",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
