@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T19:28:45Z",
+  "updated": "2026-08-26T19:37:28Z",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -699,21 +699,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T07:16:00+03:00",
-      "urls": [
-        {
-          "sign": "f70eff95024b20c6a8ce33dd432ea9581ca787e36251ba439b6cd3938500b734",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "The Guardian: Suomen asunto ensin -malli vähensi asunnottomuutta vuosina 2012–2023, mutta viime vuosina määrä on noussut taas",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1427,21 +1412,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T14:45:34Z",
-      "urls": [
-        {
-          "sign": "b92485fc652a988e924c8342e2f7b54873245eef7bb0d5077f2efbc75e594395",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina iskenee Venäjän verkkokauppajättien varastoihin häiritäkseen logistiikkaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T18:00:00+03:00",
@@ -5219,23 +5189,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T13:31:51Z",
-      "urls": [
-        {
-          "sign": "295fd36199e46842484e53c2499008cd024996c1fe53e425d453f306b095049f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee 17-vuotiasta Outokummun kolarin kuljettajaa rattijuopumuksesta ja törkeästä kuolemantuottamuksesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T13:43:26Z",
@@ -13528,6 +13481,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T22:37:00+03:00",
+      "urls": [
+        {
+          "sign": "7a6bbff2665117b64c8f8a88b7e91be4924e3d2e0af3e67df54fe5cbd5252b19",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain mukaan kiinalaiset hakkerit ovat murtautuneet keskeisiin viranomaisjärjestelmiin, operaatio on häiritty",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T19:32:11Z",
+      "urls": [
+        {
+          "sign": "017ae489f64350763b79637b60291be37104e43d98718aa33df802866163abe1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat kehottavat puolueita löytämään kompromissin 8–11 miljardin euron budjettisopeutuksiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T19:37:28Z",
+      "urls": [
+        {
+          "sign": "3d6f335a55f5c3780f40db41af55a99fd6c7de850a2af1f07b1063d18d1abef7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Frankfurtin lentoaseman työntekijät menehtyivät malarian aiheuttamiin oireisiin – RKI epäilee lentokoneen kuljettamaa hyttystä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
