@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T18:11:46Z",
+  "updated": "2026-08-26T21:26:00+03:00",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -4917,21 +4917,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-25T12:15:42Z",
-      "urls": [
-        {
-          "sign": "55c6930783096e9873a7d87ad5b6bf4fd6c0fa5aed394abe103c21111be6d67d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lämpötila nousee etelä- ja länsisuomessa 20 asteeseen keskiviikkona, mutta viikonloppuna sää viilenee ja sateet yleistyvät, ennustaa Foreca",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-25T12:13:08Z",
       "urls": [
         {
@@ -4947,23 +4932,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T12:29:27Z",
-      "urls": [
-        {
-          "sign": "6fe1bffc54724ea29cf3360153e8157ddb3fb47d256c32ef29b1432d92e20fff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Škoda Transtech ilmoittaa 117 henkilöstövähennyksestä Kajaanissa raitiovaunuhankinnan menetettyä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T12:24:03Z",
@@ -11327,7 +11295,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T21:04:00+03:00",
+      "updated": "2026-08-26T21:26:00+03:00",
       "urls": [
         {
           "sign": "2518a249d8a0203d4fc2117c50495990098b098523e8217200b8b4598c2276b4",
@@ -11336,8 +11304,8 @@
           ]
         }
       ],
-      "title": "Maanvyörymä aiheutti Nepalissa tuhoisan tulvan, joka on vaatinut satojen hengen ja jättänyt kymmeniä ulkomaalaisia turisteja kateisiin",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Nepalissa, Tiibetissä maanvyörymä aiheutti laajamittaisen tulvan, satoja kuollut, kymmenet ulkomaalaiset kateissa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13370,7 +13338,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T18:05:08Z",
+      "updated": "2026-08-26T18:22:36Z",
       "urls": [
         {
           "sign": "3f11372b8f05771f90687dbbd8bd98a943b1a8aabf4f71f8a869e3bf3ba93abb",
@@ -13379,7 +13347,7 @@
           ]
         }
       ],
-      "title": "Simerock-festivaali poisti videon, jossa viittomakieltä vääristeltiin; järjestäjä myöntää ajattelemattomuuden",
+      "title": "Simerock-festivaalin johtaja myöntää ajattelemattomuuden viittomakieltä vääristelleen videon jälkeen",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13538,6 +13506,38 @@
       ],
       "title": "Näyttelijä Sinikka Sokka muutti lapsena väliaikaisesti nunnaluostariin vanhempien eron yhteydessä",
       "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T18:24:45Z",
+      "urls": [
+        {
+          "sign": "c9befd6db688844439eca2622b254a9a28928db13e00dedf78510907e595ff44",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjalainen talouslehti El Economista arvioi Suomen talouden tilaa ja roolien vaihtumista Etelä-Eurooppaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T18:23:43Z",
+      "urls": [
+        {
+          "sign": "509b53855e3ec1e64adb5e73ebb92d8e588f13c4b18c2006d1ed4d9a2d4273e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii Lahdessa keskiviikkona sairaalasta poistunutta noin 75-vuotiasta muistisairasta naista",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
