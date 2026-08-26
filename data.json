@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T02:04:22Z",
+  "updated": "2026-08-26T02:25:17Z",
   "entries": [
     {
       "updated": "2026-08-25T13:01:59Z",
@@ -1067,23 +1067,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-23T08:38:00Z",
-      "urls": [
-        {
-          "sign": "da5b9f1d555a9be5a50e242abd9e5f329f4cf7bd4d6e6c5fb583cbbf50a5c7e3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brigham Youngin yliopisto: Yhdessä liikkuminen parantaa avioparien viestintää ja vähentää parisuhdestressiä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-23T08:49:27Z",
@@ -13586,6 +13569,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T02:25:17Z",
+      "urls": [
+        {
+          "sign": "5e1cf369bd65f9da728758ba8b8fcbc4c214920451d897c64ac59fd285cb8e4d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dolly Partonin edustajat vahvistavat: legenda kuoli syöpään 80-vuotiaana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
