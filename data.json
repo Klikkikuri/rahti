@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T20:39:22Z",
+  "updated": "2026-08-26T21:01:20Z",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -1104,21 +1104,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T11:33:08Z",
-      "urls": [
-        {
-          "sign": "bc83aae412b536bf6157424ca8e1f9026367ed739ef1994344176ea2aa65b3bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "8-vuotias tyttö kuoli aivonsyöjäameeba-infektion jälkeen uidessaan Louisianan järvessä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-24T12:02:45Z",
@@ -5411,21 +5396,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T14:13:55Z",
-      "urls": [
-        {
-          "sign": "1bd72b01fe8c9eba817aec733d6a6978671b2f36a0ecc60d5d907432a56ecb3f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Inka Hopsu kiistää osallisuutensa Länsi-Uudenmaan hyvinvointialueen kilpailuttamatta myöntämään 290 000 euron viestintäsopimuksen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T14:18:56Z",
@@ -13528,6 +13498,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T20:54:49Z",
+      "urls": [
+        {
+          "sign": "2cc746eeb7aff6e66ccef863c66a0a6e7021938500672f6e1134ae1908cf3007",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoälykysyntä nosti Nvidian liikevaihdon toisella neljänneksellä yli kaksinkertaiseksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T21:01:20Z",
+      "urls": [
+        {
+          "sign": "f2dda2fce7fb1a62f384a319b6cad64612797b20b14dcbbc3232a99fa7ed37eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies tuomittiin seksuaalisesta ahdistelusta lähettyään masturbointivideon naiselle WhatsAppissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
