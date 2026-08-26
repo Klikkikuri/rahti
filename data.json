@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T19:37:28Z",
+  "updated": "2026-08-26T19:56:14Z",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -1068,23 +1068,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T11:01:00Z",
-      "urls": [
-        {
-          "sign": "07731824df653df466b0594c2c4510ca9859b01e74145939aa6b37c56c2a3f13",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maajussi-Victoria tekee jopa 18‑tuntisia työpäiviä kesäkukkien parissa Laitilassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -5161,21 +5144,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-25T13:41:22Z",
-      "urls": [
-        {
-          "sign": "e0b249a2031384fefb68133ec2f818131a8d982b15dd25612b14c5aef62179d7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Vasemmiston puolustusveroehdotukset peittelevät veronkorotuksia eivätkä kata puolustuskulujen kasvua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-25T13:43:42Z",
       "urls": [
         {
@@ -5253,21 +5221,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T13:41:10Z",
-      "urls": [
-        {
-          "sign": "165fac3e769da65af14f3f73d20fbae03d56ff775f8c94b106e6cbc9f98d9fb9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Julkkiskokki Teemu Laurell avautuu erostaan ja yhteisen tyttärensä tilanteesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T18:30:00+03:00",
@@ -13525,6 +13478,54 @@
         }
       ],
       "title": "Frankfurtin lentoaseman työntekijät menehtyivät malarian aiheuttamiin oireisiin – RKI epäilee lentokoneen kuljettamaa hyttystä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T19:56:04Z",
+      "urls": [
+        {
+          "sign": "3e6d892bf4cc60298515b548e05ca442944536abe72078dcf90f08de803d3184",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Aleksi Jokela varoittaa: Rankkasateet vaikeuttavat Nepalin pelastustöitä ja lisäävät maanvyöryjen riskiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T19:56:14Z",
+      "urls": [
+        {
+          "sign": "b2017e2e939dbe87dcfc4422e908ff6d0224d3420295666a36f73b57262a09f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aikuisviihdetähti Christian Styles, 29, on kuollut – Michiganin poliisi tutkii kuolemaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T19:54:13Z",
+      "urls": [
+        {
+          "sign": "305cabac5653d56310966116e50b3d75e2c44529918b5800b2c70e5a624a0ffe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaiset yleisurheilijat julkaisivat bilekuvat Instagramissa – Lehikoinen aloittaa synttäriviikon juhlinnan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
