@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T15:43:01Z",
+  "updated": "2026-08-26T18:58:00+03:00",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -732,23 +732,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-23T21:26:00+03:00",
-      "urls": [
-        {
-          "sign": "7dbc4a8ca4578b52dd69eeea2679ec4672b725ee3a5ec8f04195e460d8076567",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-23T23:54:00+03:00",
       "urls": [
         {
@@ -1293,21 +1276,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-24T08:49:01Z",
-      "urls": [
-        {
-          "sign": "e050e7094f003f63cfc640f30a24a3188e1a8221223c5a22fdc0cbb1f4517dfb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henkilöauto törmäsi nojapyöräilijään Lempäälässä – poliisi pyytää havaintoja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-24T09:44:16Z",
       "urls": [
         {
@@ -1652,21 +1620,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T12:18:51Z",
-      "urls": [
-        {
-          "sign": "e43eec2621a0611d17057a750aad540fcd7b7de5a7add7feaa02f6de2f188a40",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee alaikäisen myyneen satoja P1-luokan räjähteitä WhatsAppissa Oulun seudulla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-24T12:26:03Z",
       "urls": [
         {
@@ -1727,23 +1680,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T12:16:49Z",
-      "urls": [
-        {
-          "sign": "fdf7c440f764282ac6f724c9ec76dce0e370265b582ec95d884d3bdc82bb18c2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Öljyntorjuntakoukkujen asennus Itäisen Suomenlahden kallioihin on käynnistynyt – varautuminen öljyonnettomuuksiin tehostuu drooniuhan vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T15:45:00+03:00",
@@ -4678,21 +4614,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T09:42:59Z",
-      "urls": [
-        {
-          "sign": "69f8f7764462c6d7710fefc6b4d4025c3b1997be3282d66b4870db33f5eb0176",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi aloitti esitutkinnan Ile Vainiota vastaan kunnianloukkausepäilyn vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T09:36:47Z",
@@ -12181,7 +12102,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T18:24:00+03:00",
+      "updated": "2026-08-26T18:58:00+03:00",
       "urls": [
         {
           "sign": "2518a249d8a0203d4fc2117c50495990098b098523e8217200b8b4598c2276b4",
@@ -12191,7 +12112,7 @@
         }
       ],
       "title": "Maanvyörymä aiheutti äkillisen tulvan Pohjois-Nepalissa, satoja ulkomaalaisia matkailijoita kateissa",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13547,6 +13468,85 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T15:50:23Z",
+      "urls": [
+        {
+          "sign": "210b7750a366f95c0fc66409e74c8a8b35bc432dfb4ed4cc096e7e62f368caab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mikkelin Jukurit solmi Elias Ruusun ja Elias Koposen kanssa pelaajasopimukset – Patrik Satosaari ei jatka",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-26T15:33:20Z",
+      "urls": [
+        {
+          "sign": "6a3bd6259e1dd6c6511d6f8ba56fa6e2754f860294121c2a2f2c9b1164be5800",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Tim Curry menehtyi 80-vuotiaana",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T15:55:10Z",
+      "urls": [
+        {
+          "sign": "c8790589caf209b399b6c879133a157fb0f4d2d94765cb2e8736d9b715457001",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brittinäyttelijä Tim Curry on kuollut",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-26T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "885bd5b575a12d945ac06c702ae943038948afd8ce2ee9a2c9e6fde0a806b8f6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rakentumisen hidastuminen jättää Meri-Rastilan asukkaat epävarmaan asumistilanteeseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-26T15:57:13Z",
+      "urls": [
+        {
+          "sign": "506ce5a1f30eae452c7129fe920167a80c0ca822c4258721ba48a08bbfd6abdf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Selvitys Kelan johdosta: Hallituksen puheenjohtajan mukaan organisaatio on vahva",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
