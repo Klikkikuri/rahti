@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T08:29:50Z",
+  "updated": "2026-08-26T08:45:04Z",
   "entries": [
     {
       "updated": "2026-08-26T05:08:49Z",
@@ -785,23 +785,6 @@
       "title": "Poliisi vangitsi 18‑vuotiaan epäiltynä Fagerstan kouluiskusta – epäillyllä yhteyksiä joukkomurhaajia ihannoiviin nettiyhteisöihin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-23T14:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f300e26a58c6ca89e58f35b095b1ac941e88dfbc5a01f21752f26224a4eeca65",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -11521,7 +11504,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-26T08:29:12Z",
+      "updated": "2026-08-26T08:37:44Z",
       "urls": [
         {
           "sign": "5334ffb4a2a4262e65ea5b66651dd8d1c47da449ee729650496221962fed8d3f",
@@ -11530,8 +11513,8 @@
           ]
         }
       ],
-      "title": "Helsingin pyöräliikkeen tuhopoltosta syytettyjen oikeudenkäynti alkaa – epäillään tilausrikollisuutta",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Lauttasaaren pyöräliikkeen tuhopoltto-oikeudenkäynti alkaa Helsingissä – epäillään tilausrikollisuutta ja maksua vastaan tehtyä tekoa",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -11664,7 +11647,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-26T08:21:56Z",
+      "updated": "2026-08-26T08:45:04Z",
       "urls": [
         {
           "sign": "af3c3069ed68228a640bcb56ea0703697122227d75e9e5dc0c7c30cc045cdd07",
@@ -11673,8 +11656,8 @@
           ]
         }
       ],
-      "title": "Rolf Nordmo kertoo hovioikeudessa suhteen päättymisestä, talousvaikeuksista ja Jannen uudesta kumppanista",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Rolf Nordmo kertoo hovioikeudessa suhteen päättymisestä, talousvaikeuksista ja Janne Puhakan uudesta kumppanista",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -12449,7 +12432,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T08:27:51Z",
+      "updated": "2026-08-26T08:32:46Z",
       "urls": [
         {
           "sign": "9cd9f952b93df3ba14289242c54bc434905e34d3670a8fba41e474adfbd5ce46",
@@ -12460,7 +12443,9 @@
       ],
       "title": "Pääministeri Orpo viimeistelee vastauksensa oikeuskanslerin selvitykseen Valmet Automotive -esteellisyydestä",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -12929,7 +12914,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T08:14:39Z",
+      "updated": "2026-08-26T08:36:53Z",
       "urls": [
         {
           "sign": "7fda2d9607bbda7d88eb5bbe0193a2a4b87dbaee5ac00febdd5e09e13b6cdf77",
@@ -12938,7 +12923,7 @@
           ]
         }
       ],
-      "title": "Lauttasaaaren tilausrikoksesta syytettyjen oikeudenkäynti alkoi – Syyttäjä vaatii ehdotonta vankeutta",
+      "title": "Lauttasaaaren tuhopoltosta syytettyjen oikeudenkäynti alkoi – Syyttäjä vaatii ehdotonta vankeutta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13505,7 +13490,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T11:29:00+03:00",
+      "updated": "2026-08-26T11:38:00+03:00",
       "urls": [
         {
           "sign": "e98456fd08115ecccc8658bf0bdd32234239e1dc9e95566feb19083e9e172308",
@@ -13514,7 +13499,7 @@
           ]
         }
       ],
-      "title": "Valtioneuvoston kanslia aloitti supo-selvityksen ilman sisäministerin tietoa – Mari Rantanen moittii toimintaa",
+      "title": "Pääministeri Orpon hallitus aloitti Supo-selvityksen ilman sisäministerin tietoa – Mari Rantanen kritisoi toimintaa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13584,6 +13569,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-26T11:41:00+03:00",
+      "urls": [
+        {
+          "sign": "4357ba5887a6f724378e510e3edff6f084ff32b600038789bbd09d549a43fccc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eiran huumeringin pyörittäjä vangittiin uusista huumausainerikoksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
