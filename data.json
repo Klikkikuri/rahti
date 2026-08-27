@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T20:24:09Z",
+  "updated": "2026-08-27T20:44:43Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1325,23 +1325,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T14:19:02Z",
-      "urls": [
-        {
-          "sign": "585edf29e1201edadbe3084ab3774df178335c6a9fab47a140e06dc933704f19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jukurien päävalmentaja Jonne Virtanen näkee asiantuntijoiden pohjaennusteet ja pienen budjetin motivaationa alkavaan kauteen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T14:16:12Z",
@@ -5124,21 +5107,6 @@
       ],
       "title": "Kremlin: Yhdysvaltain CIA:n johtaja John Ratcliffe tapasi Venäjän tiedusteluviranomaiset Moskovassa, mutta ei presidentti Putinia",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T13:08:15Z",
-      "urls": [
-        {
-          "sign": "28dcb9e201151a26846d150fbe3f487e14998f6daa6aa73f1947934e5ba7e43b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus vangitsi kolme nuorta miestä Kirkkonummessa murhan yrityksestä ja törkeästä tuhotyöstä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -9243,7 +9211,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T18:32:41Z",
+      "updated": "2026-08-27T20:44:43Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -9589,7 +9557,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T18:41:06Z",
+      "updated": "2026-08-27T20:34:29Z",
       "urls": [
         {
           "sign": "f22290612e0e3b2a97af6fcaee20110a66633c6f82a2ab888ae72f2ef4459ade",
@@ -9599,7 +9567,7 @@
         }
       ],
       "title": "Norjan kuninkaallinen perhe käy vuorotellen sairaalassa kuninkaan Haraldin terveydentilan heikennyttyä",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13535,6 +13503,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T20:29:22Z",
+      "urls": [
+        {
+          "sign": "03a646791cc5c3e5d8e71d11eea468e125e8bf18e93a2833541fb04bf2831fd3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ihmisoikeusjärjestö: Iranin teloitukset kohdistuvat myös mielenosoittajiin, määrä voi kasvaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T20:40:47Z",
+      "urls": [
+        {
+          "sign": "7528d081a871f7533079418843d4154fbe1dd547c9308341965db1494822abd3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump: Putin ei aio hyökätä Naton alueelle – Yhdysvaltain presidentti kuvaili Venäjän johdon kanssa käytyjä keskusteluja hyväksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
