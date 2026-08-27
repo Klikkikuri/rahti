@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T05:45:18Z",
+  "updated": "2026-08-27T05:59:33Z",
   "entries": [
     {
       "updated": "2026-08-27T00:33:22Z",
@@ -5360,24 +5360,6 @@
       "title": "Yhdysvaltalaishyökkääjä Kevin Hayes siirtyy venäläisseura Ak Bars Kazaniin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-25T17:35:56Z",
-      "urls": [
-        {
-          "sign": "51d1150cff71bdf57cebf666278264a872f2b6a8032d33a2dce20281a043c21a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Opiskelija sai sairauskohtauksen Nummelan koululla ja kuljetettiin helikopterilla sairaalaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13304,7 +13286,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T08:04:00+03:00",
+      "updated": "2026-08-27T08:57:00+03:00",
       "urls": [
         {
           "sign": "8800850c992e1df8059d06689c7b1aa41079055822b3f590dc57d90b78f85cad",
@@ -13313,7 +13295,7 @@
           ]
         }
       ],
-      "title": "Japanilainen täplätaiteilija Yayoi Kusama on kuollut 97-vuotiaana",
+      "title": "Japanilainen nykytaiteilija Yayoi Kusama on kuollut 97-vuotiaana",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13525,6 +13507,36 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T05:59:33Z",
+      "urls": [
+        {
+          "sign": "7b3d733d50a06180f9b06f5c8212a843a4adff635b85db0a24722236f8376b9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nuoret urheilijat kilpailivat Elokuun nuorisokisoissa Äänekoskella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-08-27T05:48:12Z",
+      "urls": [
+        {
+          "sign": "6c6c87b5f1f88f22a40d9fa5d2fbf6b5954e3a10430c5c0b09eea42fe3da71fe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maanmittauslaitos: Omakotitalojen hinnat laskivat Helsingissä ja Espoossa, nousivat Pirkkalassa ja Kirkkonummella tammi–heinäkuussa 2026",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
