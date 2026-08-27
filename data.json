@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T07:26:01Z",
+  "updated": "2026-08-27T07:41:46Z",
   "entries": [
     {
       "updated": "2026-08-27T06:36:21Z",
@@ -623,23 +623,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-24T16:31:00+03:00",
-      "urls": [
-        {
-          "sign": "68409db3652092d17e4461b3e9e9cc7090ba526d7984a3cd2fca02e25d7fca05",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-26T15:41:00+03:00",
       "urls": [
         {
@@ -720,21 +703,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T15:59:00+03:00",
-      "urls": [
-        {
-          "sign": "bc35fad3f27f512b65341b370300a75abb142797e21fe4c679f17ac452f1469d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulussa 15-vuotias myi noin sata räjähdettä alaikäisille WhatsAppin kautta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1338,23 +1306,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T01:07:00Z",
-      "urls": [
-        {
-          "sign": "b18e2f65449cc86fda46a8221264700960392eca3185280a6e05fb6058652fdf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain korkein oikeus kumoaa tuomion, joka esti Trumpin hallinnon rajoittaa postiäänestystä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T04:01:00+03:00",
@@ -5053,21 +5004,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T18:44:37Z",
-      "urls": [
-        {
-          "sign": "4eca923ac3c520b5ff21aa5e4074adf572f7edea47e58793ad27f945c088c531",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Donald Trump julisti Yhdysvaltoihin suruviikon laulaja Dolly Partonin kuoleman johdosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T07:50:15Z",
       "urls": [
         {
@@ -5083,21 +5019,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T18:54:28Z",
-      "urls": [
-        {
-          "sign": "1c1e476ee781de2f762af72f8b79628a73b76be86ecab3bebb1ebcc7723addf1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SM-liiga: TPS hankki puolustaja Gabriel Chicoinen, Ässät Juuso Pullin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T18:59:21Z",
@@ -5128,21 +5049,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T19:03:23Z",
-      "urls": [
-        {
-          "sign": "786609c3d8c22b27eeb57cf486a6b7bd0cd48cfaec31bf169a9721362572fd07",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen Lahden Golfin toimitusjohtaja Tommi Nikunen avautuu tuomiostaan törkeästä kavalluksesta ja selittää tekonsa peliriippuvuudella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T19:05:06Z",
@@ -12980,7 +12886,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T07:10:54Z",
+      "updated": "2026-08-27T07:29:40Z",
       "urls": [
         {
           "sign": "0f42c098ec7017dafc6e5c865a548bec7766ad4814246c2031304ea6a1dea190",
@@ -12989,8 +12895,8 @@
           ]
         }
       ],
-      "title": "Mikkelin käräjäoikeus käsittelee 19-vuotiaan mielentilatutkimuksen tuloksia tukiperheen murhassa – Syyttäjä vaatii elinkautista",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Etelä-Savon käräjäoikeus kuulee loppulausunnot 19-vuotiaan tukiperheenmurhasta – Puolustus vaatii tappotuomiota, syyttäjä elinkautista",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13554,6 +13460,100 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T07:40:49Z",
+      "urls": [
+        {
+          "sign": "0778b8e32eb7134525009a387aaacb1b08311553cafa642c055d89f8274f3830",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan kuningashuone: Kuningas Haraldin terveys heikentynyt merkittävästi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T07:33:25Z",
+      "urls": [
+        {
+          "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuningas Haraldin terveys heikentynyt – hovin mukaan tila erittäin vakava",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T10:30:00+03:00",
+      "urls": [
+        {
+          "sign": "b408975787b6b9f3d599fefe00d2ebf99fc1daec7698bb535a00d824ee819073",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T10:35:00+03:00",
+      "urls": [
+        {
+          "sign": "0393a7d79399b9d9044487d8d1fc4ecdc3cfc0b64c8c9f2687d40098fa7b6f62",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hovi tiedottaa: Norjan kuninkaan Haraldin vointi on erittäin vakava",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T07:41:46Z",
+      "urls": [
+        {
+          "sign": "0cf59f2a78f514de0bf9e9095661c02d187adcd562e9ac92e0fc60990adb8562",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin hovioikeus palauttaa Eagle S -jutun käräjäoikeuteen ja katsoo Suomen toimivaltaiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T07:35:57Z",
+      "urls": [
+        {
+          "sign": "6c11d3807caca570a3dab615db326e0645232161c4958c7a7beb470748df1444",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vihreiden Saara Hyrkkö kritisoi kokoomuksen ja vasemmiston talouspolitiikkaa: molempien ehdotukset karnevalisoivat keskustelua",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
