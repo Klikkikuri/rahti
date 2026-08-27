@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T16:58:26Z",
+  "updated": "2026-08-27T17:13:07Z",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -723,23 +723,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T10:28:00+03:00",
-      "urls": [
-        {
-          "sign": "1dafab8986f8d8bf3651f3e41c0828d85c482db81f252a42ef5d50101ccc048d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-26T09:03:00+03:00",
       "urls": [
         {
@@ -1092,24 +1075,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T11:30:55Z",
-      "urls": [
-        {
-          "sign": "bec49d4287ad512c781a437c4698f1046f61e9ef57a915571a66de1f9da5146e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV Uutiset julkistaa Pirunpeli-kauden 2 kisaajat suorassa lähetyksessä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T14:08:00+03:00",
@@ -4927,21 +4892,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T10:14:02Z",
-      "urls": [
-        {
-          "sign": "f08a16d221b898543667a10459f5a7a6639bcf71e29b728b99fb62127b4b20f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreiden Virta ja Tynkkynen vaativat ympäristöturvallisuuden huomioimista Suomen kokonaisturvallisuusmallissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T13:00:00+03:00",
       "urls": [
         {
@@ -4957,21 +4907,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T10:13:05Z",
-      "urls": [
-        {
-          "sign": "2eb2329673d6c9db58829a2bd6339b0cfbc1abc2c6f496097dcf26318dcf89f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin yliopiston tutkimus: Olkapääkipu helpottaa yleensä itsestään eikä rakenteellisia löydöksiä pidä hoitaa leikkauksella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T10:25:11Z",
@@ -10171,7 +10106,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T15:31:27Z",
+      "updated": "2026-08-27T17:11:38Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -13299,7 +13234,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T16:54:21Z",
+      "updated": "2026-08-27T17:07:09Z",
       "urls": [
         {
           "sign": "2a64d5b09d39dcc71bb5162b1475435b30399bcc734a6c7739e64e3a55b8dac5",
@@ -13308,11 +13243,9 @@
           ]
         }
       ],
-      "title": "KuPS eteni Konferenssiliigan lohkoon voitettuaan Shamrock Roversin yhteismaalein 2–1",
+      "title": "KuPS eteni Konferenssiliigan lohkovaiheeseen voitettuaan Shamrock Roversin yhteismaalein 2–1",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13534,6 +13467,72 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e99af8b678775b3994de7751b631062c2b7c581517af4676a8ea7e2874b9cd8d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T17:13:07Z",
+      "urls": [
+        {
+          "sign": "e0a3b3d53669664be205a33b26a985c3367e69adb421b9233b7f95d17bac0ffb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Check Point estää velkahelpotushuijauskampanjan, joka ohjaa uhreja soittamaan rikollisille ilman haitallisia linkkejä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T17:04:54Z",
+      "urls": [
+        {
+          "sign": "6a93d45c6c55aca4cc9d01a330630502dc628a4f38774a0a9afcab3e4d41d938",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Analyysi: Perussuomalaisten kannatuksen nousu ja Purran näkyvyys haastavat kokoomusta vaalien alla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T17:00:00Z",
+      "urls": [
+        {
+          "sign": "709a19c276c6629a3fe63e940eb7a32fea32568008cab702328bcfed6ec58df6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Salatut elämät -sarjan tulevan viikon tapahtumat paljastuu katsojille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
