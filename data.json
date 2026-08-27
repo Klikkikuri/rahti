@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T15:29:00+03:00",
+  "updated": "2026-08-27T12:44:17Z",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -19,21 +19,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-06T12:37:37Z",
-      "urls": [
-        {
-          "sign": "5a7a0ea0cfa20beaa298b08f31d05c5ee095ee34fa45b293b798de3096ff2746",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kyläbussin ja Linkin aikatauluihin muutoksia Äänekoskella 10.8. alkaen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Äks"
     },
     {
       "updated": "2026-08-07T07:04:48Z",
@@ -704,21 +689,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-24T22:02:00+03:00",
-      "urls": [
-        {
-          "sign": "0b0086f3374f476962d195cfd3d82101320446ff955fd36ca6b1b9d301a17c90",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Stubb Kiovassa: Varoitti sotaväsymyksestä, korosti ilmapuolustuksen akuuttia pulaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-25T01:04:00+03:00",
@@ -5018,7 +4988,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T15:16:00+03:00",
+      "updated": "2026-08-27T15:37:00+03:00",
       "urls": [
         {
           "sign": "55fc40c13a9ab23cefe160035cd891c9a95d600f1ff6bdb95f02ce65f0d722d9",
@@ -5027,7 +4997,7 @@
           ]
         }
       ],
-      "title": "Puolueet paljastivat talouslinjansa kesäkokouksissa: Sdp ja Vasemmistoliitto ehdottavat veronkorotuksia, Kokoomus vaatii leikkauksia",
+      "title": "Puolueet paljastivat kesäkokouksissaan talouslinjansa: Sdp ja Vasemmistoliitto ehdottavat veronkorotuksia, Kokoomus vaatii leikkauksia",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5174,23 +5144,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T07:00:44Z",
-      "urls": [
-        {
-          "sign": "c6733005ca42bc8fa4e1846d64569e630cd02042e68ab55df7dfd59a7936b1d8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T07:06:25Z",
@@ -10331,7 +10284,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T15:29:00+03:00",
+      "updated": "2026-08-27T15:44:00+03:00",
       "urls": [
         {
           "sign": "44c06ecaa4ba62b811f91983c8e8457aab5cd0239c0431bd6ece6a9fa8d5b50f",
@@ -10340,8 +10293,8 @@
           ]
         }
       ],
-      "title": "Jäätikön sortuma aiheutti Himalajalla tuhoisan tulvan, viranomaiset varoittavat uudesta tulvasta ja pelastustyöt jatkuvat vaikeissa olosuhteissa",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Jäätikön sortuma aiheutti Himalajalla tuhoisan tulvan, viranomaiset varoittavat uudesta tulvasta",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13451,7 +13404,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T12:16:06Z",
+      "updated": "2026-08-27T12:44:17Z",
       "urls": [
         {
           "sign": "6aa9c563e02549e3676756c43516d24fa310f4d60819181ee277e59a69db500c",
@@ -13460,9 +13413,10 @@
           ]
         }
       ],
-      "title": "Tuusulan mopokiilauksen esitutkinta valmis: 15-vuotiasta epäillään törkeästä liikenneturvallisuuden vaarantamisesta",
+      "title": "Tuusulan mopokiilauksen esitutkinta valmis: Syyttäjä harkitsee syytettä 15-vuotiaalle, poliisia tutkitaan virkavelvollisuudesta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
+        "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
@@ -13577,6 +13531,36 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T15:38:00+03:00",
+      "urls": [
+        {
+          "sign": "b5e584963a688dac8e92e136ea658911bfaa8df39eaf6c73c71ae68215dbb15a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuomittu kansanmurhasta Ratko Mladić on kuollut 83-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T12:35:00Z",
+      "urls": [
+        {
+          "sign": "892fe36f4719c50d2bd37334082bf6b245db588eeca2eb7e582b8088fde89a91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuomittu sotarikollinen Ratko Mladić on kuollut 84-vuotiaana",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
