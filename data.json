@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T02:00:00+03:00",
+  "updated": "2026-08-27T23:43:18Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -804,23 +804,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T13:48:00+03:00",
-      "urls": [
-        {
-          "sign": "34d7891fab92e8e3bcaa7603789d9df81cce522c75fc7450502996609aa5aed8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T14:08:00+03:00",
       "urls": [
         {
@@ -1039,23 +1022,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T13:53:34Z",
-      "urls": [
-        {
-          "sign": "9c447e3ead619e1806891aa6cee9bc293798fb2083cc8753bd3126ddd32a6b22",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Energiateollisuus: Suomen sähkön hinta voi nousta syksyllä jopa 70 prosenttia heikkojen vesivarojen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T16:45:00+03:00",
@@ -4870,21 +4836,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T13:13:20Z",
-      "urls": [
-        {
-          "sign": "466fdf7e68268fd95dd199f027ad794e142282aa2f09f5e56c4ce820e6ab15e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusministeri Häkkänen vastustaa SDP:n puolustusveroa: Vero näivettäisi talouskasvua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T09:08:50Z",
@@ -13533,6 +13484,51 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T23:30:30Z",
+      "urls": [
+        {
+          "sign": "d400e8ec221ae6cdb06d97c3d2bc35238db71220f205a20125c30146144b9451",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa neuvoja ja pohdittavaa kaikille eläinradan merkeille",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T02:40:00+03:00",
+      "urls": [
+        {
+          "sign": "c9e758481be572601673b01a40324031b4ab21400ff86a9ce9df7280394f0f24",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mediat: Kaksi lennonjohtajaa poistui työvuorostaan ennen LaGuardian lentokoneen, paloauton kuolemaan johtanutta törmäystä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T23:43:18Z",
+      "urls": [
+        {
+          "sign": "e3aa3e2ee2d6979833ec4548d07948799b4c49eb81e9c3f9e776125120976b9d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venezuela harkitsee OPEC-eroaan Yhdysvaltain kanssa käytävien öljyneuvottelujen yhteydessä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
