@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T01:43:56Z",
+  "updated": "2026-08-27T02:04:13Z",
   "entries": [
     {
       "updated": "2026-08-27T00:33:22Z",
@@ -5214,23 +5214,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T14:30:51Z",
-      "urls": [
-        {
-          "sign": "f0ec82a50344c11913550c7adaef8ff1e322a175cef141786af9f836a199d2c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusvoimien tutkimuslaitos: Venäjä voisi vuonna 2040 aloittaa sodan Euroopassa ja hyökätä Suomeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T14:31:08Z",
@@ -13529,6 +13512,21 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T02:04:13Z",
+      "urls": [
+        {
+          "sign": "f810753823013c27880e99b65e0eaf0c759913499e75a1d1b6e6eb9f486bc53d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kyberturvayhtiö Group-IB varoittaa: Huijarit kaappaavat korttitiedot puhelimen NFC-yhteydellä ja haittaohjelmilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
