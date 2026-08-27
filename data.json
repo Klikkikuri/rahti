@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T19:07:46Z",
+  "updated": "2026-08-27T22:26:00+03:00",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1199,21 +1199,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T13:40:11Z",
-      "urls": [
-        {
-          "sign": "4731e508d1f1e9ba10374ed8d613d85013670efeea357cfa1d710effe0557d52",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi selvittää Lappeenrannan deepfake-tapauksen ja neuvoo, miten toimia epäilyn kohdatessa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T18:30:00+03:00",
@@ -4345,21 +4330,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T11:52:01Z",
-      "urls": [
-        {
-          "sign": "c586a98ffff38d74335db05fb9e1a945040c7129372584bc8a87f41fe6828fc8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP ehdottaa veronkorotuksia puolustuksen rahoittamiseksi – paketti tuottaa viisi miljardia euroa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T09:17:20Z",
@@ -12718,7 +12688,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T19:26:00+03:00",
+      "updated": "2026-08-27T22:26:00+03:00",
       "urls": [
         {
           "sign": "865af16ab4a37672f25a4fbef9e4566a5cd8701b903853d192b3f50549a67e40",
@@ -12727,8 +12697,8 @@
           ]
         }
       ],
-      "title": "Sotarikoksista tuomittu Ratko Mladić on kuollut 83-vuotiaana",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Kansanmurhasta ja sotirikoksista tuomittu Ratko Mladić on kuollut 83-vuotiaana",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13534,6 +13504,38 @@
       "title": "Cybernewsin asiantuntija varoittaa: Grok-tekoälyn pankkiyhteys voi johtaa peruuttamattomiin tietovuotoihin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T10:13:09Z",
+      "urls": [
+        {
+          "sign": "50ca5e00642779006d4c86daa5fa679fd29fd45806d5870476349c0e2e098113",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metsästäjät ovat aloittaneet karhunmetsästyksen Keski-Suomessa poikkeuslupien nojalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T19:25:50Z",
+      "urls": [
+        {
+          "sign": "2765a931901c163928b38284e20623ecae3a8dc4b2170963a99f1b81eb3c0ab1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dolly Parton kuoli syöpään 80-vuotiaana – puoliso ja useat sisarukset menehtyneet viime vuosina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
