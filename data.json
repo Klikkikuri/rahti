@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T14:59:17Z",
+  "updated": "2026-08-27T18:14:00+03:00",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -625,23 +625,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T07:14:00+03:00",
-      "urls": [
-        {
-          "sign": "3050b4e916278e74b542a940c6523e3ffa9e00aa63933393685413c0420d069e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-24T08:08:41Z",
       "urls": [
         {
@@ -695,40 +678,6 @@
       "urls": [
         {
           "sign": "86021f0aad5370fd7ae7471f6260ce89e1846addc9cae78e215a8e885679eb7b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T07:00:00+03:00",
-      "urls": [
-        {
-          "sign": "a39ef0a86ff34d689c1ffab27eb4acb3a3b6192aa7f8064f3e13111341b6012c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T07:00:00+03:00",
-      "urls": [
-        {
-          "sign": "2c6ff4d1b6f699bb6c95da21921629c5068e1418cf95522c0ca905eb4bf73507",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -1194,38 +1143,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-25T10:18:54Z",
-      "urls": [
-        {
-          "sign": "d9d15c31c55ed79d3cac03f8aad9486c8ec240392c8ac2783e988b910c70c0cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SUL julkaisi Ruotsi-ottelun suomalaisjoukkueen: Vaivoista kärsivät moukarinheittäjät mukana, Vainiolle paikka auki",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T10:19:13Z",
-      "urls": [
-        {
-          "sign": "0264ac3fd1f6516fae56edc1ef97f20abaf55fa6935f4d9b9edcf304ece731cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kelan tutkimus: Sosiaaliturvamuutokset heikensivät toimeentulotuen saajien toimeentuloa ja perustarpeiden hankintaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-25T15:41:00+03:00",
       "urls": [
         {
@@ -1457,53 +1374,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T11:16:07Z",
-      "urls": [
-        {
-          "sign": "72af10655a3ee8cce6f443b190474ca6ad1ceaea1bc0122e2e97440ad0057c7a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rakenteilla olevaan kaasukemian kompleksiin syttyi tulipalo Venäjän Kaukoidässä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T11:28:14Z",
-      "urls": [
-        {
-          "sign": "7c8383a4ca23285cebb682734ba28507d1436f3ad05808592fe56cce52859987",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump ehdottaa Ontarionjärven nimen vaihtamista Amerikanjärveksi kauppakiistan vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T11:18:41Z",
-      "urls": [
-        {
-          "sign": "68ad30c13ec4b3c3779dd3d30a729b34b5c38a1121064d12f994130b06c4f224",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjanmaan poliisi tutkii Vaasassa kuristetun miehen kuolemaa henkirikoksena – esitutkinta valmis",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T11:16:04Z",
@@ -10889,7 +10759,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T14:59:17Z",
+      "updated": "2026-08-27T15:00:52Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -11397,7 +11267,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T08:39:43Z",
+      "updated": "2026-08-27T15:03:36Z",
       "urls": [
         {
           "sign": "7d72a41f20f842b4d18c466958aa12aa3ed42f4757153308f7ee786820e5d74a",
@@ -11406,9 +11276,11 @@
           ]
         }
       ],
-      "title": "Poliisi: Ilotulite sytytti tahallisen tulipalon Kirkkonummella – kolme epäiltyä vangittu",
+      "title": "Poliisi tutkii ilotulitteella sytytetyn tulipalon murhan yrityksenä – lapsiperhe selvisi vammoitta",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13551,6 +13423,135 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "100eb7741dc43a43a5b69905d05cbf63a881c89d1614ddf9b9ba96c02ef22a93",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolueiden hallituspohjaväittely on edelleen lähinnä vaalitaktiikkaa, HS:n pääkirjoitus arvioi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T09:12:09Z",
+      "urls": [
+        {
+          "sign": "f552007d89a1b25cd7c55a25b8478ed2f0743642e2a0d015a80f64d11662a1cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itä-Suomen poliisi lakkauttaa asemansa, partiot hyödyntävät jatkossa pelastusasemia huoltotiloina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T18:14:00+03:00",
+      "urls": [
+        {
+          "sign": "48d0e48d9611707943597b36cd9b33205363c0a9187ba8df6dd7b97906b54085",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iranin valtion televisio lupasi 10 miljoonan dollarin palkkion Trumpin pojan surmaamisesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T09:32:38Z",
+      "urls": [
+        {
+          "sign": "71f247140f2f9160bc952744d9d6081e79e3e44e2db2e4b1e3ba771c9b1be534",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "47ffd6b132bd0f63ddc9dff6bc6599fa211b44d90734c60cce0ec8b4fedcb020",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T15:08:04Z",
+      "urls": [
+        {
+          "sign": "e75791e2ba07857ca61ca61ffca976fc927e769ed9586b2013a7e7bfc937f8eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "San Francisco 49ersin omistaja Jed York pidätettiin Ohiossa yrityksestä ostaa seksiä 160 dollarilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T12:00:32Z",
+      "urls": [
+        {
+          "sign": "56d1b3ce49fd33b284105f2870dd87344b155d9b4e93b198956ceb86837a28fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wiimax ostaa lähes 100-vuotiaan Eskelisen liikenteen, toiminta jatkuu ennallaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T14:57:22Z",
+      "urls": [
+        {
+          "sign": "16c119516e3ae1b897e57c0abb5e16b7e00979c9bd9ede9fd1e148fc8c82d740",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan Villenasta ryöstettiin muinainen kultakokoelma neljässä minuutissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
