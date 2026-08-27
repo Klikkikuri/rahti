@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T03:42:24Z",
+  "updated": "2026-08-27T03:51:00Z",
   "entries": [
     {
       "updated": "2026-08-27T00:33:22Z",
@@ -932,23 +932,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-24T13:44:00Z",
-      "urls": [
-        {
-          "sign": "517563df25c085f647fd70c587fdc2a64c240ae6fc72739cabdeb4aca0986ee9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hanna Sumari neuvoo tarjoamaan pilkottuja kasviksia lapsille heti kotiin tultua nälkäkiukun hillitsemiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-24T17:00:00+03:00",
       "urls": [
         {
@@ -964,23 +947,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T14:17:22Z",
-      "urls": [
-        {
-          "sign": "fa9eded78f18485c09307348fc2eeb0af024b55e20e69d0c3f41f5439ea23e94",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Alexander Stubb pitää Ukrainan iskuja Venäjän logistiikkakeskuksiin sotilaallisesti järkevinä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-24T14:37:46Z",
@@ -5294,21 +5260,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T15:41:48Z",
-      "urls": [
-        {
-          "sign": "56a17ea67a3016198c0c9c0365c2967d7718e721f67c7267f05c24d6181e0ec3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tšekkiläinen jääkiekkotoimittaja julkaisi SM-liigan budjetit – fanit vertasivat palkkatasoja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T15:38:10Z",
@@ -13550,6 +13501,54 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T03:47:47Z",
+      "urls": [
+        {
+          "sign": "23c847fc9de3acc3d1487f39aace6cb1d6543dcd54aa5bf0bf6f60e7b93ee5de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa elämäntilannevinkkejä ja pohdittavaa kaikille eläinradan merkeille",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T03:45:00Z",
+      "urls": [
+        {
+          "sign": "b591b676f36e4c23b103e4e48bddd45e74c109f0ef615e6257e1fa3b5c8ab189",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Baltian suurlähettiläät: Ukrainan droonit ovat muuttaneet maiden puolustusvalmiuksia ja maahanmuuttoreittejä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T03:51:00Z",
+      "urls": [
+        {
+          "sign": "902daf03c433c7672a5e79839bff8f7549bbf9b653fcced37d7ab97b522dbd31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: Ultraprosessoidut elintarvikkeet lisäävät miesten eturauhassyöpäriskiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
