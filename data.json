@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T18:14:00+03:00",
+  "updated": "2026-08-27T15:29:54Z",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -725,38 +725,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T08:27:00+03:00",
-      "urls": [
-        {
-          "sign": "b73517c0fa5a3cbcd0fa934af68ed0f7cb71d370ee45fd7d2b12cf1646777ab8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T08:47:00+03:00",
-      "urls": [
-        {
-          "sign": "a28ed8861fb0743d231ae267a2e54d66e5acd243f20d26e25db4f03f735c3f8e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karoliinisessa sairaalassa tapahtui lääkevirhe: kaksi potilasta saattaa tarvita sydänsiirton",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T09:05:00+03:00",
       "urls": [
         {
@@ -1126,23 +1094,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T10:29:45Z",
-      "urls": [
-        {
-          "sign": "f0d41128c41b0471c1f47090b559784cf7e10f02ac462becd1416f5b7cfa3f5f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaisten eduskuntaryhmä kokoontuu kesäkokoukseen Imatralle, puheenjohtaja Riikka Purra pitää puheen kello 14",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-25T15:41:00+03:00",
       "urls": [
         {
@@ -1209,23 +1160,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T10:55:45Z",
-      "urls": [
-        {
-          "sign": "693201a0449c860013ef4a09e17159687e1ce2bc5c459e3c7e9d2d2afc45d15d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kärppien päävalmentaja Petri Karjalainen korostaa välittömiä toimia putoamisriskin vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-25T10:56:15Z",
       "urls": [
         {
@@ -1275,21 +1209,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T10:45:07Z",
-      "urls": [
-        {
-          "sign": "97a9c6d00b23cb843374da3df391cd4f025814a75cf9d8d5b5092bca75f84bba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreiden ryhmän varapuheenjohtaja Saara Hyrkkö kritisoi kokoomuksen pelkkiin menoleikkauksiin nojaavaa sopeutusta ja vaatii veronkorotuksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T11:08:34Z",
@@ -1437,41 +1356,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T11:32:02Z",
-      "urls": [
-        {
-          "sign": "57f7586f8f922a039c83612589d864884a383e0622d35a8c6009e36095961a52",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fintraffic keskittää tievalvonnan kahteen toimipisteeseen – automaatio tukee operaattoreita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T11:30:32Z",
-      "urls": [
-        {
-          "sign": "df7e17a0d36dd60b518fdfaf19c0729bb86e7022ae9098f38b7b13894c8f4320",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohteen aluehallitus peruu Lumijoen ja Utajärven palvelukotien sulkemiset – paikkojen alueellista jakautumista selvitetään ensin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
     },
@@ -4218,23 +4102,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T08:32:46Z",
-      "urls": [
-        {
-          "sign": "9cd9f952b93df3ba14289242c54bc434905e34d3670a8fba41e474adfbd5ce46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Orpo viimeistelee vastauksensa oikeuskanslerin selvitykseen Valmet Automotive -esteellisyydestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T09:08:00+03:00",
@@ -13550,6 +13417,133 @@
       ],
       "title": "Espanjan Villenasta ryöstettiin muinainen kultakokoelma neljässä minuutissa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T15:15:00Z",
+      "urls": [
+        {
+          "sign": "2a00ff84136cf993c7afb72e08dab88a2636d75cabf2e748148494ada97fe960",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Tim Curry on kuollut; kollegat ja fanit muistelevat häntä somessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T15:17:00Z",
+      "urls": [
+        {
+          "sign": "c640699a3051b26d953c863c917246ac549f8ecab7824b225f1af6c638829311",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan viranomaiset vetävät markkinoilta tuhansia vaatimustenvastaisia kondomeja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T15:29:54Z",
+      "urls": [
+        {
+          "sign": "27aefa1e420f50f3d4f8eeeb9a05f49769da461fbd68661e34d21a044e486a66",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jorma Panulan kapellimestarikilpailu kasvaa kansainvälisesti arvostetuksi; Vaasassa järjestetään ensi vuonna kymmenes kilpailu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T18:15:00+03:00",
+      "urls": [
+        {
+          "sign": "9e4a72a34daca759e5a035d54c4df3328f89c7d20bdc58d2c230e64f623fba9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T18:24:00+03:00",
+      "urls": [
+        {
+          "sign": "7cda68a6cf802b2a1c88ce9eda8c813d6a06284203c03b847c9c156a6d917ac5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmastoaktivistit estivät Viking Cinderellan lähdön Tukholmassa neovan turpeennoston vastaisella tempauksella",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T15:21:25Z",
+      "urls": [
+        {
+          "sign": "70fe062cfe2843bd1987de4e606d225651c7d86adb734e9bc55297670265a46a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hyvinvointialuejohtaja Kirsi Leivonen ehdottaa yt-neuvotteluita 15 miljoonan euron säästöjen turvaamiseksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T15:21:25Z",
+      "urls": [
+        {
+          "sign": "2efeded5ab69280a8c47227992b7e1d424cc2d56c76d2a46132b7eb426d56571",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Julia Jokinen löysi Vuosaaressa kiharaisen kantarellin – tutkija selittää poikkeuksellisen muodon kasvuhäiriöllä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T15:21:18Z",
+      "urls": [
+        {
+          "sign": "c0c68b951a4139bdf6509e2faa8d4e47286054ef77a97718cb21ee701739a26b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lahden Kariston nuoret pyytäneet anteeksi häirintää – poliisin mukaan tilanne on rauhoittunut",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
