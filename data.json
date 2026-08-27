@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T18:43:22Z",
+  "updated": "2026-08-27T18:59:09Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1154,21 +1154,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T13:15:48Z",
-      "urls": [
-        {
-          "sign": "d131a1882d93a931a56c8acaf7536f076262467bc8d92334864b9024c360ecdc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuopiolainen paitavalmistaja Petrifun hakee yrityssaneerausta kasvavien kustannusten ja tappioiden vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-25T13:34:22Z",
       "urls": [
         {
@@ -1228,23 +1213,6 @@
       "title": "Bloomberg: Oura listautuu Yhdysvalloissa syyskuussa ja tavoittelee jopa kolmea miljardia dollaria",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T13:43:00Z",
-      "urls": [
-        {
-          "sign": "3f9efc03718a61e4375eac2286492a7bc813bc5da3fc75c202314801c8ac2d6b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puhelinmyynnin kokenut Elina Laurinen: ”Ammatti on aliarvostettu – sitä ei voi tehdä kuka vain”",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -4836,38 +4804,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T11:27:33Z",
-      "urls": [
-        {
-          "sign": "b3b75870a05fdb5eff517932b01e69db8258378778ad8c0e325e7988b61959a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kaupunki ehdottaa käyttöhuoneiden sallimista lainsäädännöllä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T11:19:54Z",
-      "urls": [
-        {
-          "sign": "6e15cb5d82ad44ca55f90772be10406fd5e5f11c3211d8fdc214a5de80863b64",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee tahallista tulipaloa Kuopiossa – Henkilö kuoli",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T11:30:34Z",
@@ -9971,7 +9907,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T08:11:44Z",
+      "updated": "2026-08-27T18:41:06Z",
       "urls": [
         {
           "sign": "f22290612e0e3b2a97af6fcaee20110a66633c6f82a2ab888ae72f2ef4459ade",
@@ -9980,8 +9916,8 @@
           ]
         }
       ],
-      "title": "Kuninkaalliset perheenjäsenet saapuneet Oslon sairaalaan kuninkaan terveydentilan heikennyttyä",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Norjan kuninkaallinen perhe käy vuorotellen sairaalassa kuninkaan Haraldin terveydentilan heikennyttyä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -12753,7 +12689,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T18:39:05Z",
+      "updated": "2026-08-27T18:59:09Z",
       "urls": [
         {
           "sign": "2a64d5b09d39dcc71bb5162b1475435b30399bcc734a6c7739e64e3a55b8dac5",
@@ -13250,7 +13186,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T17:54:41Z",
+      "updated": "2026-08-27T18:45:18Z",
       "urls": [
         {
           "sign": "b72946fc0e2891cca8a4f4ea1155e996ba4cb11c73bb6b9ea2e2cc52dd552aba",
@@ -13259,9 +13195,10 @@
           ]
         }
       ],
-      "title": "Susijengi hävisi Ruotsille MM-kisojen jatkokarsinnoissa",
+      "title": "Susijengi hävisi Ruotsille MM-kisojen jatkokarsinnoissa lukemin 86–81",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
+        "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
@@ -13532,6 +13469,73 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T18:48:38Z",
+      "urls": [
+        {
+          "sign": "ed06670cbfb06d89be66c4aba97729d9e95128ca7f30a3af8f618bcf4816047b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brasiliainen Alison dos Santos juoksi miesten 400 metrin aitajuoksun uuden maailmanennätyksen Zürichissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T18:49:22Z",
+      "urls": [
+        {
+          "sign": "61fb5955c04b3d0b2863551eab2e0200649368708ebdb9f7ff03f6df8b74f62e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lauri Markkanen kommentoi protestieleensä MM-karsinnassa Ruotsia vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T18:46:17Z",
+      "urls": [
+        {
+          "sign": "00e907e0dbd799b35ae8994f779a6e3efd26cb2890afaca46a3069cd61a9decf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T18:54:19Z",
+      "urls": [
+        {
+          "sign": "f3fc7395e0a7522ae4d8eb44a5c13514fa114cb7a76ba0e85d072272506f5259",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alison dos Santos juoksi 400 metrin aitajuoksun uuden maailmanennätyksen Zürichissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
