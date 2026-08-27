@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T12:13:44Z",
+  "updated": "2026-08-27T15:29:00+03:00",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -1243,40 +1243,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T08:37:00Z",
-      "urls": [
-        {
-          "sign": "d2da0cb33645374cd4dafff916fc7398049bd87d0e3039a326bb41f3698fcb0a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnair keskeyttää lennot Dubaihin talvikaudella 2026–2027 Lähi-idän turvallisuustilanteen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T08:34:42Z",
-      "urls": [
-        {
-          "sign": "39a94ce404625e4df03c247e99ecaf5b6f3678b87c83abc4304e2933f459186d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Metalliyhtiö Boliden kehittää uutta prosessia, jolla teollisuusjätteestä valmistetaan sementin korviketta ja päästöt pienenevät jopa 95 prosenttia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-25T08:57:13Z",
       "urls": [
         {
@@ -1421,24 +1387,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T09:05:09Z",
-      "urls": [
-        {
-          "sign": "136d46b0fff860150c5581550c72381b6c31724e7487337e3ffe0838966e8590",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T13:36:00+03:00",
@@ -5070,7 +5018,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T18:04:00+03:00",
+      "updated": "2026-08-27T15:16:00+03:00",
       "urls": [
         {
           "sign": "55fc40c13a9ab23cefe160035cd891c9a95d600f1ff6bdb95f02ce65f0d722d9",
@@ -5079,8 +5027,8 @@
           ]
         }
       ],
-      "title": "Puolueet esittivät kesäkokouksissa talouslinjansa: Sdp ja Vasemmistoliitto ehdottavat veronkiristyksiä, Kokoomus vaatii leikkauksia",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Puolueet paljastivat talouslinjansa kesäkokouksissa: Sdp ja Vasemmistoliitto ehdottavat veronkorotuksia, Kokoomus vaatii leikkauksia",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -5117,36 +5065,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T06:41:14Z",
-      "urls": [
-        {
-          "sign": "591d6e6d7c6d192662f866a1ef987ea682bbcf2c76a5ce769fda5ffbbf9da11b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen kaupunginvaltuusto järjestää käytöskoulun keskustelukulttuurin parantamiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T06:42:33Z",
-      "urls": [
-        {
-          "sign": "4ee7cda0083c6a1234f814fa5c1592f27936c997f57eace8d661979c681a2dce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläissenaattori Vladimir Džabarov: Suomi voisi olla ensivaiheen kohde laajamittaisessa sotilasoperaatiossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T06:29:45Z",
       "urls": [
         {
@@ -5179,21 +5097,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T06:54:51Z",
-      "urls": [
-        {
-          "sign": "d1ab706e78142de252ba10f8a9c8a68965b746b01339a87496392797d3c620c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaiset ja kokoomus pohtivat SDP:n sivuuttamista pääministeripuolueena vaalivoitosta huolimatta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T06:49:49Z",
@@ -10428,7 +10331,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T15:13:00+03:00",
+      "updated": "2026-08-27T15:29:00+03:00",
       "urls": [
         {
           "sign": "44c06ecaa4ba62b811f91983c8e8457aab5cd0239c0431bd6ece6a9fa8d5b50f",
@@ -10437,7 +10340,7 @@
           ]
         }
       ],
-      "title": "Jäätikön sortuma aiheutti Himalajalla tuhoisan tulvan, viranomaiset varoittavat uudesta tulvasta",
+      "title": "Jäätikön sortuma aiheutti Himalajalla tuhoisan tulvan, viranomaiset varoittavat uudesta tulvasta ja pelastustyöt jatkuvat vaikeissa olosuhteissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13548,7 +13451,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T12:13:08Z",
+      "updated": "2026-08-27T12:16:06Z",
       "urls": [
         {
           "sign": "6aa9c563e02549e3676756c43516d24fa310f4d60819181ee277e59a69db500c",
@@ -13557,8 +13460,8 @@
           ]
         }
       ],
-      "title": "Tuusulan mopokiilauksen esitutkinta valmis: 15-vuotiasta mopoilijaa epäillään törkeästä liikenneturvallisuuden vaarantamisesta",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Tuusulan mopokiilauksen esitutkinta valmis: 15-vuotiasta epäillään törkeästä liikenneturvallisuuden vaarantamisesta",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13580,6 +13483,100 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T12:22:51Z",
+      "urls": [
+        {
+          "sign": "fe99f9bf50ba186a2a6e2ad6571707f937b2f017aa2ed7d861e6733848cb5aa0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Jääkiekkoliitto, Nocco antavat Karjala-turnaukselle uudeksi nimeksi Nocco Hockey Games",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T12:26:55Z",
+      "urls": [
+        {
+          "sign": "cb848b900ecbb5dcc5f73ba7951b9b6bb11581048012b7f959eee88b89c03eff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat raportoivat asuntomarkkinoiden ostajien käyttäytyneen muuttuneen: yksityisnäytöillä ghostaaminen yleistyy, markkina alkaa elpyä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T12:18:23Z",
+      "urls": [
+        {
+          "sign": "25f76d4d736b05e4a0f0411ce27addde030c4f03858126359da24bf9f7ddda2a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SDP:n ehdottama puolustusvero kohdistuisi korkeisiin ansiotuloihin, pääomiin ja kulutukseen – asiantuntija varoittaa tuottojen jäävän ennusteita pienemmiksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T12:19:50Z",
+      "urls": [
+        {
+          "sign": "7cb061dafe40a22b34d103ffe062fe94a7ee30ef688e817abbe53d88c5cebb1b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nepalin tulva-alueen järvi nousee vaarallisesti – viranomaiset varoittavat purkautumisesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T12:23:45Z",
+      "urls": [
+        {
+          "sign": "ca7211fbb3e26609db9d6036ba17d39e034ced6dc0277b768a2415982da3d0f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Laulaja Arttu Wiskari kertoi saaneensa suru-uutisen juuri ennen keikkalavalle nousua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T12:13:57Z",
+      "urls": [
+        {
+          "sign": "48169c146e7a275fbe080e19b2eaea67bb2a0ffae0026e5034888074a33f07d6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin poliisi selvitti Tuusulan mopokolarin: 15-vuotiaan esitutkinta valmis, poliisia tutkitaan jäljityksestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
