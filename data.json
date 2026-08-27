@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T20:44:43Z",
+  "updated": "2026-08-27T23:45:00+03:00",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1152,21 +1152,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T13:43:42Z",
-      "urls": [
-        {
-          "sign": "2f2096c135fabdb2dcf00667972ebdd1ea9d6cf784f2d1878557575504eadb15",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan hallitus haluaa kieltää älylasien kasvojentunnistuksen julkisilla paikoilla",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T18:30:00+03:00",
@@ -11911,7 +11896,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T18:14:00+03:00",
+      "updated": "2026-08-27T23:45:00+03:00",
       "urls": [
         {
           "sign": "48d0e48d9611707943597b36cd9b33205363c0a9187ba8df6dd7b97906b54085",
@@ -11920,8 +11905,8 @@
           ]
         }
       ],
-      "title": "Iranin valtion televisio lupasi 10 miljoonan dollarin palkkion Trumpin pojan surmaamisesta",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iranilainen valtio-TV esitti videolla 10 miljoonan dollarin palkkion Trumpin pojan surmaamisesta – Iranin viranomaiset kiistävät",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13535,6 +13520,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T12:55:32Z",
+      "urls": [
+        {
+          "sign": "7a2c5fd2d076dfbdee86944f832e32031aac5d98f4c0cdddd3dc7f2b2bdb9dea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä-Pohjanmaan opisto myy Kauhajoen Turjanlinnan huutokaupalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
