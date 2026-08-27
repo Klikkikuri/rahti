@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T06:14:50Z",
+  "updated": "2026-08-27T06:28:26Z",
   "entries": [
     {
       "updated": "2026-08-27T00:33:22Z",
@@ -1118,38 +1118,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-24T17:24:01Z",
-      "urls": [
-        {
-          "sign": "10adeb201404849398f5430d34e3da6b97c8da7f6fa6b02d72948d1b6f339e4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan hallitus kieltää matkapuhelinten käytön lukioissa ensi kuusta alkaen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T17:30:00Z",
-      "urls": [
-        {
-          "sign": "da03753e745cabc559f9efe48505e8134a4f66ce21ca6cc46b820b45ec6fd786",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henrik katoaa vieroituksesta – Aki etsii kadonnutta Salatut elämät -hahmoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-24T20:15:00+03:00",
       "urls": [
         {
@@ -1373,23 +1341,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T19:41:05Z",
-      "urls": [
-        {
-          "sign": "46774fae14d15b8a53a1bcf00c2549e2cd6f585ce12035a4fb180f925e299e94",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat poisti Syyrian terrorismia tukeneiden valtioiden listalta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T19:24:21Z",
@@ -12680,7 +12631,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T08:15:00+03:00",
+      "updated": "2026-08-27T09:23:00+03:00",
       "urls": [
         {
           "sign": "44c06ecaa4ba62b811f91983c8e8457aab5cd0239c0431bd6ece6a9fa8d5b50f",
@@ -12689,8 +12640,8 @@
           ]
         }
       ],
-      "title": "Jäätikön sortuma aiheutti valtavat tulvat Nepalin ja Kiinan rajalla – lähes 1 500 ihmistä kateissa",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Jäätikön sortuma aiheutti tulvan Nepalin ja Kiinan rajalla: lähes 1 500 ihmistä kateissa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13315,7 +13266,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T05:38:12Z",
+      "updated": "2026-08-27T06:24:17Z",
       "urls": [
         {
           "sign": "44ed5311ebde12812274b545406ea1bebb813ec3f8cac5c2e66b7aaa7a011bbb",
@@ -13324,7 +13275,7 @@
           ]
         }
       ],
-      "title": "Elmo Aittola siirtyy Liettuan Hockey Punksin päävalmentajaksi – näkee valtavaa kasvupotentiaalia ja edullista elämää",
+      "title": "Elmo Aittola siirtyi Liettuan Hockey Punks Vilniusin päävalmentajaksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13553,6 +13504,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
+    },
+    {
+      "updated": "2026-08-27T06:04:40Z",
+      "urls": [
+        {
+          "sign": "3a98513c1e608f4c312f19b600e0a386386a7f8069b509d87772116f74783eb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Japanilainen nykytaiteilija Yayoi Kusama kuoli Tokiossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T06:21:14Z",
+      "urls": [
+        {
+          "sign": "4e4986ddcb364e2278738b5697b21f263e3f6aba97a600af1fc13f95b3830e4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miley Cyrus julkaisee Instagramissa muistijulkaisun kummitädiltään Dolly Partonilta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T06:28:26Z",
+      "urls": [
+        {
+          "sign": "edf513f921bd4b3183c8a2100de168a426894d041035ede3a15e0876b2fe7230",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohde siirtää psykiatristen osastopotilaiden hoidon pois Oulun Peltolasta sisäilmaongelmien vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
