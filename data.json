@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T14:11:17Z",
+  "updated": "2026-08-27T17:25:00+03:00",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -708,40 +708,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T06:00:00+03:00",
-      "urls": [
-        {
-          "sign": "2a9b5564877203a2ba47ac201df252dc2ff6784ba8473173d0d601248d082da8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kelan kysely: Sosiaaliturvan leikkaukset lisäävät toimeentulotukiasiakkaiden ahdistusta ja pakottavat tinkimään ruoasta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T06:30:00+03:00",
-      "urls": [
-        {
-          "sign": "8e6fad11c610937e7379fa411afdad302ec4c0f20e4b7bb03ff04bf185dbd8ce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T07:00:00+03:00",
       "urls": [
         {
@@ -1132,38 +1098,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T09:44:56Z",
-      "urls": [
-        {
-          "sign": "e9735847f13e04b4df96cacd5e95cae12c18532bec03a617c1e5c27b9d2ce259",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ei-terveysperusteiset kouluruokatoiveet kasvavat – Yle etsii kokemuksia evätyistä pyynnöistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T09:57:57Z",
-      "urls": [
-        {
-          "sign": "20b03c48bb7e21aa304c11eae61a71d4906b8394b22d4e54015473138aa5097f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun yliopiston tutkijat kehittivät ketterän vesiruton keräyskoneen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T12:44:00+03:00",
@@ -5193,21 +5127,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T08:00:58Z",
-      "urls": [
-        {
-          "sign": "d18cb74fd2c4ff9282c613341721909bec956ad55f9326313b27c2c7906edf24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Krimin viranomaiset julistivat hätätilan Jaltan lähellä riehuvan maastopalon vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T08:02:00Z",
       "urls": [
         {
@@ -5223,21 +5142,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T08:00:45Z",
-      "urls": [
-        {
-          "sign": "12930fa39a720a81855d3bc173377815ab644740482ac3f8e1944248044dcb21",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vasemmistoliitto julkisti 9,4 miljardin euron verokiristyslistan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T08:25:03Z",
@@ -11335,7 +11239,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T11:25:00+03:00",
+      "updated": "2026-08-27T17:25:00+03:00",
       "urls": [
         {
           "sign": "765109c87c6d83f31d37632b08ab920a28e984ffa7fe29589b00a91de112837b",
@@ -11344,8 +11248,8 @@
           ]
         }
       ],
-      "title": "Helsingin hovioikeus myöntää Suomen toimivallan Eagle S:n kaapelirikostapauksessa ja palauttaa asian käräjäoikeuteen",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Helsingin hovioikeus myöntää Suomen toimivallan Eagle S:n tapauksessa, palauttaa asian käräjäoikeuteen",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13556,6 +13460,98 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T14:18:28Z",
+      "urls": [
+        {
+          "sign": "d0f427fa46ae5c784bf49add96edb1f2ea635777d2776ab0bbd5771420d0ff0d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden murresanatesti haastaa lukijat tunnistamaan alueellisia kielenkäyttötapoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T14:19:16Z",
+      "urls": [
+        {
+          "sign": "2790605b96eac4539d65d96fdd17874be1ffccb0f85318d1484bdd9818d5eb9e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Talibanhallinto kielsi kaikki mielenosoitukset – ihmisoikeusjärjestöt arvioivat päätöksen johtuvan pelosta toisinajattelijoita kohtaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T14:16:41Z",
+      "urls": [
+        {
+          "sign": "ba65ee991433001d26f68be384a1a8b45123ba86078e308395e4674d241dea37",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuluttajien talousluottamus nousi elokuussa pitkän ajan keskitasolle, Tilastokeskuksen asiantuntija korostaa selvää jakoa eri väestöryhmien välillä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T17:18:00+03:00",
+      "urls": [
+        {
+          "sign": "5ea53b6541f54863db9409acc70bfcf6065ed435cc83f68f8fbbb6e6fc0221dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kouluhyökkäyksessä Brandenburgissa kuoli ihmisiä, poliisi pidätti epäillyn",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T14:21:26Z",
+      "urls": [
+        {
+          "sign": "7f629a162047c228e8c192e7f533a1e336edc6ba006d45dbffe7ce66fae64f63",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä nostaa syytteet Temptation Island -osallistujaa vastaan Annimari Kortteen pahoinpitelystä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T17:15:00+03:00",
+      "urls": [
+        {
+          "sign": "954b3c301e49a4a7cc72c910ef11397874729c960d2aaf2046abed8cce18893d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viron ulkomaantiedustelu HS:lle: Venäjä ei suunnittele sotilaallista iskua Naton maihin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
