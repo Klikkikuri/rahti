@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T18:59:09Z",
+  "updated": "2026-08-27T19:07:46Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1152,21 +1152,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T13:34:22Z",
-      "urls": [
-        {
-          "sign": "d552b7789d8a5566c0cd5338bebe62900ba76d095a5aa43a3a722352545ab941",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastusviranomaiset määräävät ilotulitusilmoitusten käytännöt ja maksut alueittain",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T13:43:42Z",
@@ -4931,39 +4916,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T11:41:05Z",
-      "urls": [
-        {
-          "sign": "7fac3dfb3fcdaf411590ac88b49ca06a237960a7e968d252240077d3d8b52bdd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Marko Kilpi vaatii järeämpiä toimia tekoälyväärennösten torjumiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T11:41:27Z",
-      "urls": [
-        {
-          "sign": "a221307c1ed71b1b1197ceaea50e5e681924599982ba474ac5bcf83ea335a1a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T12:11:52Z",
@@ -12689,7 +12641,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T18:59:09Z",
+      "updated": "2026-08-27T19:04:49Z",
       "urls": [
         {
           "sign": "2a64d5b09d39dcc71bb5162b1475435b30399bcc734a6c7739e64e3a55b8dac5",
@@ -12698,8 +12650,8 @@
           ]
         }
       ],
-      "title": "KuPS eteni Konferenssiliigan liigavaiheeseen voitettuaan Shamrock Roversin yhteismaalein 2–1",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "KuPS eteni Konferenssiliigan liigavaiheeseen, Inter putosi karsinnoista",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13521,7 +13473,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T18:54:19Z",
+      "updated": "2026-08-27T19:07:46Z",
       "urls": [
         {
           "sign": "f3fc7395e0a7522ae4d8eb44a5c13514fa114cb7a76ba0e85d072272506f5259",
@@ -13530,12 +13482,59 @@
           ]
         }
       ],
-      "title": "Alison dos Santos juoksi 400 metrin aitajuoksun uuden maailmanennätyksen Zürichissä",
+      "title": "Alison dos Santos rikkoi 400 metrin aitajuoksun maailmanennätyksen Zürichissä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T19:05:44Z",
+      "urls": [
+        {
+          "sign": "607b83c54e8e9e9b4713802a25401cbca6cf41bd28dd19337134c6b73e3e8e7f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SDP esittää budjettiriiheen vaatimuslistan ja kritisoi vasemmistoliiton verotuslinjaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T19:00:35Z",
+      "urls": [
+        {
+          "sign": "f99e4d72fe84221ca984634f36ddaac2a1299f3b20424112c8eda1624890281a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Grand Theft Auto VI:n virallinen traileri julki – Rockstar Games esittelee pelin laajennetun näytönottomateriaalin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T19:01:36Z",
+      "urls": [
+        {
+          "sign": "3aa70d06f35b84ef0d87aeff7af3e35d20df51623d6d8f28ac99a3f726c343eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cybernewsin asiantuntija varoittaa: Grok-tekoälyn pankkiyhteys voi johtaa peruuttamattomiin tietovuotoihin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
