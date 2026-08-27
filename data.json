@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T19:44:00Z",
+  "updated": "2026-08-27T19:59:02Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1295,21 +1295,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T14:06:27Z",
-      "urls": [
-        {
-          "sign": "c5752cbf4cb7ba8fd481b01998e2e6b9dae72633227a37d13b8c972f81252601",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SAK:n Eloranta: Hallituksen on puututtava ennätystyöttömyyteen budjettiriihessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T17:10:00+03:00",
@@ -4839,21 +4824,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T12:11:52Z",
-      "urls": [
-        {
-          "sign": "cce37eb252c853c299c73d4473a60effd6dbc693d7060b438a5b5e92741a12c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prinssi Harry ja herttuatar Meghan saapuvat Britanniaan pidemmäksi aikaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T11:51:46Z",
       "urls": [
         {
@@ -5109,23 +5079,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T12:31:48Z",
-      "urls": [
-        {
-          "sign": "9342b01787b06cbe953fe89e020a951fb473d9a3336ad84cec7fee44a98d3fce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Helsingin Puistossa syttyneen tulipalon tuhotyönä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T18:05:00+03:00",
@@ -13139,7 +13092,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T19:44:00Z",
+      "updated": "2026-08-27T19:59:02Z",
       "urls": [
         {
           "sign": "0de7176da99aa992557288b298577c8a06b267e21fd6cd37f79869c0555d952c",
@@ -13148,7 +13101,7 @@
           ]
         }
       ],
-      "title": "Armand Duplantis epäonnistui 632 sentin ME-yrityksessä Zürichin Timanttiliigassa",
+      "title": "Zürichin Timanttiliigan tulokset: Pathiragen keihäsvoitto ja Duplantisin epäonnistunut maailmanennätysyritys",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13538,6 +13491,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T19:56:55Z",
+      "urls": [
+        {
+          "sign": "d43393300b3e2a40baabe669d87cf8c365175a6fd52dd4082e6214f9c3dd6438",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poison-laulaja Bret Michaels peruu loppuvuoden konserttinsa toipuessaan munuaisleikkauksesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T19:53:20Z",
+      "urls": [
+        {
+          "sign": "9ed7af8e8c822a25cec6ee384437161c9055738c7660cbc09759287df7635823",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Armand Duplantis voitti Zürichin seiväskisan, Emmanouil Karalis haastoi maailmanennätystä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T19:53:12Z",
+      "urls": [
+        {
+          "sign": "7399e84417d996d891224987b511d54d73c306e60ebfb7fb864b345a91d458f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NHL-vahdi Connor Hellebuyck julkistaa siirtopyyntönsä Winnipeg Jetsille",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
