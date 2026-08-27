@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-26T23:49:37Z",
+  "updated": "2026-08-27T00:24:12Z",
   "entries": [
     {
       "updated": "2026-08-26T10:58:24Z",
@@ -1305,23 +1305,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T15:14:45Z",
-      "urls": [
-        {
-          "sign": "c7d7d52bfa9f26b3e06cf7a8785c0af19fe29e2448d9358e2aefef45d1ce9f6f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Inhimillinen virhe laivan letkun irtoamisessa aiheutti öljyvahingon Saimaalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T18:20:00+03:00",
@@ -13535,6 +13518,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T00:24:12Z",
+      "urls": [
+        {
+          "sign": "afcc93dd4f37f41723339960f8cd20ef70b7c57c67dd29582e893e6525dcdf81",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskassa auto törmäsi väkijoukkoon – poliisi pidätti kuljettajan, syyttäjä arvioi tapauksen johtuvan riidasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
