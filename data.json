@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T13:44:57Z",
+  "updated": "2026-08-27T13:59:46Z",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -691,21 +691,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-25T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "31c0df3d28d0a60c86f65139224021201b6b9a2283fe6c9d8e66d53bb724cf46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Everstiluutnantti Osmo Eskola, 86, kuoli Hyvinkäällä – YK-rauhanturvaajan sotilasura ja perhe muistetaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T09:23:00+03:00",
       "urls": [
         {
@@ -720,21 +705,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "81377ec07a34dcc36cd2144efb308bfc9d374f9cdfa861a5ac57ea2932d0d0a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Duunitorin tutkimus: Reilu työilmapiiri vahvistaa nuorten luottamusta työelämään",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1128,23 +1098,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T08:58:24Z",
-      "urls": [
-        {
-          "sign": "103dc5f6ec97da07d12c94d55c08a330a1827e1a952e651e546cea2e181a0f76",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaan valtuusto pohtii kaupungin talousvaikeuksia, ratikkahankkeen kustannuksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-25T09:09:48Z",
       "urls": [
         {
@@ -1211,23 +1164,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T09:36:47Z",
-      "urls": [
-        {
-          "sign": "6ddde50a9a89455246bd527ee45d3f285f37caa1972a6b17be9eead647855edd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Petteri Orpo pitää kokoomuksen kannatuslaskun syynä hitaaseen talouskasvuun",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T09:44:56Z",
@@ -1307,24 +1243,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T09:57:48Z",
-      "urls": [
-        {
-          "sign": "267a65eff4e6f5b8ce7d835f49d1fda23d6d820bc145b4bad1a33c856da38c5a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Stubb pitää ulkopolitiikan linjapuheen – mediatilaisuus alkaa klo 14.45",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T13:06:00+03:00",
@@ -5142,21 +5060,6 @@
       ],
       "title": "Petrus Palmu siirtyy HIFK:sta SaiPaan ja kertoo eroista joukkueiden harjoittelussa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T07:53:53Z",
-      "urls": [
-        {
-          "sign": "4c2937e106056862887dde8682088501c06a4fe8f3928d87bb46e3e6769c099b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereella varastettu kymmeniä kiviä – kaupunki varoittaa sanktioista ja muistuttaa jokamiehenoikeuksien rajoista",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13546,6 +13449,105 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T13:55:39Z",
+      "urls": [
+        {
+          "sign": "d5b6f82c654544bf45477432fd88e369b2cb9ad620b33a64754fce3f1aa63370",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjalainen hiihtäjä Jan Thomas Jenssen loukkasi sormensa vakavasti pyöräonnettomuudessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T13:48:22Z",
+      "urls": [
+        {
+          "sign": "db73b26f110a5c8f5051aa517e5d29a7be94d74686e1fdcb8dbe4074cbb945a6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jäätikkövyöry laukaisi Nepalin pohjoisosassa tuhoisan äkkitulvan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T13:59:46Z",
+      "urls": [
+        {
+          "sign": "bca7c54a3ed2ae7cd0213604f37929039b5b81e64f5526437305f26bd89d51f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auto syttyi palamaan Kehä III:lle Espoossa torstaina – kuljettaja ehti poistua ajoissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T16:45:00+03:00",
+      "urls": [
+        {
+          "sign": "c04e153f1164d4e314fc93128fae60037526220b09a7820f523c1213e64a9fe0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Palta ry: Kaupunkien nollapäästövyöhykkeet vaativat harkintaa ja valtakunnallista koordinointia",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T16:54:00+03:00",
+      "urls": [
+        {
+          "sign": "2b873d9b3f3bb1d33676df43e0664bd28ec6b71c41917f5fa92ed460ceaeb8b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vihreät ehdottavat hoivakulujen perimistä kuolinpesältä varakkailta ikäihmisiltä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T13:50:20Z",
+      "urls": [
+        {
+          "sign": "b85ddcab4796274d3201bcf5a82c16518f9c99de47f3979f7321221a045fdf66",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi varoittaa: Töytäisemäksi joutunut villisika liikkuu loukkaantuneena Mikkelissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
