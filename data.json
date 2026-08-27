@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T16:11:56Z",
+  "updated": "2026-08-27T19:26:00+03:00",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -720,23 +720,6 @@
       "title": "Helsingin Sanomat esittelee viisi tapahtumavinkkiä Espoo-päivään 27.–29. elokuuta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T10:00:00+03:00",
-      "urls": [
-        {
-          "sign": "410e0da7969fe06f892c36791d1f4e19ce412f3fa71567be6137e3f549dd1c67",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -4961,23 +4944,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T09:56:46Z",
-      "urls": [
-        {
-          "sign": "a01aaf08cf257693b675cd8f92aa8a029893ba6b0188459ed4c33247a9d4e150",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeri Mari Rantanen kritisoi pääministeri Petteri Orpoa suojelupoliisin siirtokeskusteluista ja hallitusneuvottelujen ohittamisesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T12:51:00+03:00",
@@ -13538,6 +13504,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T16:21:38Z",
+      "urls": [
+        {
+          "sign": "e56213b9ab7843c2911069eba1e9a2b5648db3a19747ee7403580afff4da5e8f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uusi otsikko",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T19:26:00+03:00",
+      "urls": [
+        {
+          "sign": "865af16ab4a37672f25a4fbef9e4566a5cd8701b903853d192b3f50549a67e40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sotarikoksista tuomittu Ratko Mladić on kuollut 83-vuotiaana",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
