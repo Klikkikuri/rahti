@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T01:11:17Z",
+  "updated": "2026-08-27T01:43:56Z",
   "entries": [
     {
       "updated": "2026-08-27T00:33:22Z",
@@ -1352,23 +1352,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-24T15:42:55Z",
-      "urls": [
-        {
-          "sign": "24560f7acc2cf3d78f9bf09249a5002dff337bcc91f4b73482760e6306d9b38e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lakimuutos velvoittaa kouluja lisäämään liikettä ja vähentämään istumista – oppilaat ehdottavat konkreettisia keinoja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T16:01:24Z",
@@ -13531,6 +13514,21 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T01:43:56Z",
+      "urls": [
+        {
+          "sign": "88d4d6b1a4e035e4b63ae8976e77ad5c2cd8ffb742e537754f7f040518ba56e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat ja YK lupasivat Nepaliin hätäapua äkkitulvien jälkeen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
