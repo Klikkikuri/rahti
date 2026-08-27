@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T23:13:00+03:00",
+  "updated": "2026-08-27T20:24:09Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1359,23 +1359,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T14:18:58Z",
-      "urls": [
-        {
-          "sign": "3dd9d7bca630ef14ad62a5f023c2b7100b3442ef265411a953396d02dde777b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tasavallan presidentin puoliso Suzanne Innes-Stubb osallistuu syyskuun alussa alkavaan maanpuolustuskurssiin",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T14:16:36Z",
@@ -4986,21 +4969,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T12:44:56Z",
-      "urls": [
-        {
-          "sign": "634d0c3fd10a37405fbadfa39349f81c80ca728a7568581673ce29a9ada44205",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Niilin virus leviää Euroopassa, Hollannissa vahvistettu tartunta ja kuolemantapaus",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T12:44:45Z",
       "urls": [
         {
@@ -5044,23 +5012,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T12:42:44Z",
-      "urls": [
-        {
-          "sign": "86d29f7be6f385e94727b535b1d27d2b421cb4773f8a88c8d24785909ca7c3bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HJK vaatii Motherwell FC:ltä yli 74 000 euron korvauksia kannattajien aiheuttamasta vahingosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T18:42:54Z",
@@ -13535,6 +13486,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T19:04:49Z",
+      "urls": [
+        {
+          "sign": "31acab20e09f14767c8faf60bf307a1989116c562151529fa3c3a883f3745770",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilona Mononen sijoittui Zürichin Timanttiliigan estejuoksussa kymmenenneksi ajalla 9.17,50",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T20:24:09Z",
+      "urls": [
+        {
+          "sign": "ccf10a81400eaea94ea3bd823522b1d454150e9a7e861738bb8912944efeabce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mielentilatutkimus valmis: Murhasta syytetty oli syyntakeinen surmatessaan tukiperheen äidin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T20:14:54Z",
+      "urls": [
+        {
+          "sign": "985e59b2b0ca0100aa42feb3bc116616096cbb14070dd57a2cbe4be5fb14d084",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sri Lankalainen Rumesh Tharanga Pathirage heitti Zürichin Timanttiliigassa 92,07 metriä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
