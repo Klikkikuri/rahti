@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T00:33:22Z",
+  "updated": "2026-08-27T01:11:17Z",
   "entries": [
     {
       "updated": "2026-08-27T00:33:22Z",
@@ -851,21 +851,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-24T12:35:00+03:00",
-      "urls": [
-        {
-          "sign": "27faab128c670b4f61ba45b573062fce9cf180e5632d30206d8175e8e0289274",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinki tarjoaa ilmaisia C-hepatiittitestejä ja hoitoa päihteidenkäyttäjille liikkuvalla autolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-24T11:52:34Z",
       "urls": [
         {
@@ -1350,23 +1335,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T15:19:12Z",
-      "urls": [
-        {
-          "sign": "0812313f2773217fedbde11b8c2114df5225ee3df8723ea660110c2697ee4498",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi eläinoikeusjärjestö Vera julkaisi salakuvia sikatiloilta – Ruokavirasto pyysi tietoja tiloista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T15:52:26Z",
@@ -13533,6 +13501,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T01:11:17Z",
+      "urls": [
+        {
+          "sign": "8f8e6956246522951b6fcc8e6bcba880f668868a7c0cb8b786b456869219be6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo neuvottelee Berliinissä EU:n vuosien 2028–34 rahoituskehyksestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T04:05:00+03:00",
+      "urls": [
+        {
+          "sign": "81e663e56cd43ad20f60861787637cd1f446bce159066f7d32c323a1fcc7d321",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Politicon mukaan CIA:n johtaja varoitti salaisella vierailullaan Venäjää hyökkäämästä Baltiaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
