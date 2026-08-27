@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T15:43:11Z",
+  "updated": "2026-08-27T15:57:29Z",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -725,23 +725,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-25T09:05:00+03:00",
-      "urls": [
-        {
-          "sign": "7458a9e889d54b126795cfcca35c11765d7d3c246fe2cc553fcf330e015f2737",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-26T09:01:00+03:00",
       "urls": [
         {
@@ -1160,23 +1143,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T10:56:15Z",
-      "urls": [
-        {
-          "sign": "ceadcaca7dd75f42a5cce2e1adb0daa6b83e14e37b1d46f1d8f9963fa8a6dffd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Santa Fé Oy ja Morrison’s hakevat konkurssia – ravintolat palvelevat edelleen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-25T13:46:00+03:00",
       "urls": [
         {
@@ -1323,21 +1289,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T11:42:28Z",
-      "urls": [
-        {
-          "sign": "19f87695aed0a442776c0df107b256dd6205c2031f889b80ce9db3bb6ee798da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Škoda Transtech irtisanoo 117 työntekijää muutosneuvottelujen päätyttyä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T11:57:56Z",
@@ -13406,7 +13357,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T18:24:00+03:00",
+      "updated": "2026-08-27T18:47:00+03:00",
       "urls": [
         {
           "sign": "7cda68a6cf802b2a1c88ce9eda8c813d6a06284203c03b847c9c156a6d917ac5",
@@ -13415,7 +13366,7 @@
           ]
         }
       ],
-      "title": "Ilmastoaktivistit estivät Viking Cinderellan lähdön Tukholmassa neovan turpeennoston vastaisella tempauksella",
+      "title": "Ilmastoaktivistit kahlitsivat Viking Cinderellan savipiipun Tukholmassa – mielenilmaus Neovan turveottoa vastaan",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13545,6 +13496,54 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "67431ec30b4b19ca68980a8785d9958b92acebd7ace154b99c48448b851596c6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääketeollisuuden toimitusjohtaja: Lääkkeiden rahoituksen leikkaaminen ei vähennä yhteiskunnan kokonaiskustannuksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T15:57:29Z",
+      "urls": [
+        {
+          "sign": "bccc64314646fbbb6fff7eb8c9997ab9b802bee0813002da9355fee3bb2f0608",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jäätikön romahdus aiheutti massiiviset tulvat Nepalissa, viranomaiset etsivät kadonneita ja järjestävät hätäapua",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T15:42:44Z",
+      "urls": [
+        {
+          "sign": "d9574ed9db68469b3c7b6c54e93a81362de843c4166ee01efb49fc463abe8b94",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uefa pyrkii nostamaan rikosilmoituksen Fifan puheenjohtajasta salaisen kaupallisuuksien myyntisuunnitelman vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
