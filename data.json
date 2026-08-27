@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T18:27:45Z",
+  "updated": "2026-08-27T18:43:22Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -4838,21 +4838,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T11:18:59Z",
-      "urls": [
-        {
-          "sign": "a0f86669ad03ae7b9ba9554bebb04a8331da4bef2da021c3e1066d643ee680f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lehden mukana tullut poskipuna vauhditti Elle Sverige -syysnumeron loppumyyntiä Suomessa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T11:27:33Z",
       "urls": [
         {
@@ -4881,21 +4866,6 @@
       ],
       "title": "Poliisi epäilee tahallista tulipaloa Kuopiossa – Henkilö kuoli",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T11:16:09Z",
-      "urls": [
-        {
-          "sign": "6721c7990a18d9a429b60bba12cdba2086ff12dffdb576064d699b60b5ee352a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henrik Larsson vetäytyy Helsingin yleisurheilun maaottelusta nilkkavamman vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -9655,7 +9625,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T17:40:20Z",
+      "updated": "2026-08-27T18:32:41Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -12783,7 +12753,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T18:27:45Z",
+      "updated": "2026-08-27T18:39:05Z",
       "urls": [
         {
           "sign": "2a64d5b09d39dcc71bb5162b1475435b30399bcc734a6c7739e64e3a55b8dac5",
@@ -12793,7 +12763,7 @@
         }
       ],
       "title": "KuPS eteni Konferenssiliigan liigavaiheeseen voitettuaan Shamrock Roversin yhteismaalein 2–1",
-      "clickbaitiness": "Moderately Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -12924,7 +12894,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T16:29:16Z",
+      "updated": "2026-08-27T18:34:55Z",
       "urls": [
         {
           "sign": "5827859046d4166fd7b007e493c3ccb5e20d92e21be19c669bb54b790e15755a",
@@ -12933,7 +12903,7 @@
           ]
         }
       ],
-      "title": "Otto Virtanen vetäytyi Yhdysvaltain avoimien karsinnoista selkävaivojen vuoksi",
+      "title": "Otto Virtanen luovutti Yhdysvaltain avoimien karsintaottelun selkävamman vuoksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13529,6 +13499,39 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T18:43:02Z",
+      "urls": [
+        {
+          "sign": "517ccab6f69fba8f1e404848e54e781b878bc350cb665b09ca35022f61006d2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T18:43:22Z",
+      "urls": [
+        {
+          "sign": "e30b17e111e27a3b4ac102607af142790c21e969b738165fe987f31596bcb43b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump allekirjoitti määräyksen Ontariojärven uudelleennimeämiseksi Amerikkajärveksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
