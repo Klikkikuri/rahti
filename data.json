@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T06:28:26Z",
+  "updated": "2026-08-27T06:43:38Z",
   "entries": [
     {
-      "updated": "2026-08-27T00:33:22Z",
+      "updated": "2026-08-27T06:36:21Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa ja käsittelee Venäjän propagandaa, joka pyrkii horjuttamaan Suomen Nato-tukea",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja käsittelee Venäjän propagandaa, joka kohdistuu Suomeen",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1101,21 +1101,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T17:37:02Z",
-      "urls": [
-        {
-          "sign": "c4613f1ff0f19eecffbb202f2dcf371a4983278dce4de841f64c7bc22bcf8140",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Manse PP voitti Tahkon 3–0, kolmannessa ottelussa kaikki juoksut kotiutuskilpailussa – Juha Niemen ura päättyi kyyneliin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-24T20:15:00+03:00",
@@ -5250,53 +5235,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T18:09:31Z",
-      "urls": [
-        {
-          "sign": "c3f0b9ab1e2fa71f44a8ab5f1f12783e59b36258a1423618fbb4bf3d101031ce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "TPS voitti Jokeritin 4–2 harjoitusottelussa Turussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-25T17:58:49Z",
-      "urls": [
-        {
-          "sign": "bd63d2683b266de3cbc954e5d0b955a79d09b6f56e189976e7fcc79a7c347f0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi etsii Vantaalta kadonnutta 16-vuotiasta tyttöä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-25T18:14:20Z",
-      "urls": [
-        {
-          "sign": "425e74cfc8f34b7fe57c06f1309983a890a7ba7aff8ed7127768faf9d96f16c2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Väestöliiton Finsex-tutkimus: suomalaisten yhdynnät vähenevät ja itsetyydytys lisääntyy",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-25T18:14:41Z",
@@ -13553,6 +13491,70 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T06:41:12Z",
+      "urls": [
+        {
+          "sign": "42ae823354267016ca60d60cb122ecca5235dcc4273b93d45b1481c7575cf55b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Myymälävarkaudet kasvoivat seitsemän prosenttia toisella neljänneksellä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T06:38:48Z",
+      "urls": [
+        {
+          "sign": "999292d29fee839c04669f10feebce5f09589729b835a7394c3c519f060bc57f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkoministeriö vahvistaa yhden suomalaisen kadonneen Nepalin äkkitulvien jälkeen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T06:43:38Z",
+      "urls": [
+        {
+          "sign": "72a54d2fb74bf23b8dd785b1484b07af7ea8b64baa8f77502617ded6237ecc99",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dolly Parton kuoli 80-vuotiaana, kantrilegenda selvensi rintahuhut ja jakoi kauneusrutiinit",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T06:36:39Z",
+      "urls": [
+        {
+          "sign": "48661f092701e6b3a48c427fc5432f699001dd9b6e22a6b6ba1ff1561eac4967",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimien tutkimuslaitos: Maanpuolustustahto voi murentua, jos yhteiskunnallinen eriarvoisuus ja epäluottamus syvenevt",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
