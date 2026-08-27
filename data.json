@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T09:29:37Z",
+  "updated": "2026-08-27T09:44:53Z",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -1243,21 +1243,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T05:28:24Z",
-      "urls": [
-        {
-          "sign": "55dccf2ee6b94f00231401fb143de12d9a04d7c4eda465b78cb767e4985243bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Naisten työttömyys nosti koko maan työttöluvut 20 000:n nousuun heinäkuussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-25T05:37:45Z",
       "urls": [
         {
@@ -1352,23 +1337,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T06:38:27Z",
-      "urls": [
-        {
-          "sign": "ef6e80af04c5aa0cb00170fb5a18f12657903762509c508474ca7bf1c9d03337",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Humanoidirobotit rikkovat pikajuoksun maailmanennätyksiä Kiinan kisoissa, mutta kömpelyys näkyy suorituksissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T09:01:00+03:00",
@@ -4812,38 +4780,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T00:37:40Z",
-      "urls": [
-        {
-          "sign": "b71f2eb6876c2c9acd765087d2b658a6d32bdff06bf38efeab964b30ba4467da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dolly Partonin edustaja vahvistaa: Kantrilegenda menehtyi lyhyen syöpätaistelun jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T02:04:22Z",
-      "urls": [
-        {
-          "sign": "11934eeda3ba4b459fa3bdb7319a57203b7cd68b4fe1d3c4cdedf6870f8adce7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Check Pointin raportti: Huijarit käyttävät Chat GPT:n nimeä yhä useammin tietojenkalastelussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T02:25:17Z",
       "urls": [
         {
@@ -4891,21 +4827,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T02:35:12Z",
-      "urls": [
-        {
-          "sign": "890ca6620b61c400bf416d0bf152a4e6b6b5273ea5caa6a12db05dc6eaa6dc23",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vastaamo-tuomittu Kivimäki karkoteillä, poliisi hakee pidätystä virka-apupyynnöllä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T02:37:16Z",
@@ -11200,7 +11121,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T04:05:00+03:00",
+      "updated": "2026-08-27T12:43:00+03:00",
       "urls": [
         {
           "sign": "81e663e56cd43ad20f60861787637cd1f446bce159066f7d32c323a1fcc7d321",
@@ -11209,7 +11130,7 @@
           ]
         }
       ],
-      "title": "Politicon mukaan CIA:n johtaja varoitti salaisella vierailullaan Venäjää hyökkäämästä Baltiaan",
+      "title": "Politico: CIA:n johtaja varoitti Moskovassa Venäjää hyökkäämästä Baltian maihin",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -11471,7 +11392,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T12:03:00+03:00",
+      "updated": "2026-08-27T12:36:00+03:00",
       "urls": [
         {
           "sign": "44c06ecaa4ba62b811f91983c8e8457aab5cd0239c0431bd6ece6a9fa8d5b50f",
@@ -13570,6 +13491,90 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T09:44:53Z",
+      "urls": [
+        {
+          "sign": "b029b75b6248371741f257d87cdc0a57b143dc513cdd1bc120e13ec1d046cc62",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Remu Aaltonen ja tyttärentytär Reetta Ylä-Rautio keskustelevat dokumentissa kommunikaatioeroistaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T09:31:19Z",
+      "urls": [
+        {
+          "sign": "e60a823c6557d65e1a26cf194b7ef9c145d772add980b92a9e158d3ac4eb863f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaskisten perussuomalaisvaltuutettu selitti Putin-mainintansa kuntaliitoskeskustelun aiheuttamaksi turhautumisen vitsiksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T09:42:25Z",
+      "urls": [
+        {
+          "sign": "ec22f5ded6b09739ea914a838281ecdff6453c365b818deebf2f6d8a2b93e0ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkintavankeessa oleva Marius Borg Høiby kävi tapaamassa sairaalahoitoa saavaa kuningas Haraldia",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T09:31:43Z",
+      "urls": [
+        {
+          "sign": "86694c515ea82e59ee08cdcb6b2f75c1c93f2ce8d8f9964bae3b5582498eb5f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee törkeää petosta: Vähintään 12 henkilöä hankki Suomen kansalaisuuden ostamalla tekaistun työpaikan, kielitestin",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T09:38:22Z",
+      "urls": [
+        {
+          "sign": "3e85581da70bfa12c2f610da8ac1672ae02fc42eca360747191b3f317a295afe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
