@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T02:25:46Z",
+  "updated": "2026-08-27T02:36:00Z",
   "entries": [
     {
       "updated": "2026-08-27T00:33:22Z",
@@ -851,24 +851,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-24T11:52:34Z",
-      "urls": [
-        {
-          "sign": "a69847bfc9b6e2e905bdbdd5d45f96bf7ccb53e3d0c8a1f5cf31d7c9c4540e03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Orpo ja Ukrainan pääministeri Serhi Koretsky lähettävät kirjeen valtiojohtajille väestönsuojien tärkeydestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-24T14:11:00+03:00",
       "urls": [
         {
@@ -1401,24 +1383,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-24T15:55:10Z",
-      "urls": [
-        {
-          "sign": "d10a0c561ceccf2b1c49fe309668c1906910bd61dcd250c1be5f652d0f0c1eb8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-24T16:02:24Z",
@@ -4728,23 +4692,6 @@
       ],
       "title": "Entinen tiedusteluvirkamies arvioi: CIA:n johtaja saattaa viedä Moskovassa varoituksen Putinille",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-25T14:40:01Z",
-      "urls": [
-        {
-          "sign": "67cd350dd0c6e099aa358755421e237c37f1e05bd02a614a1a34faac6c9ac5b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lääkärihelikopteri vei Nummelan koulun opiskelijan sairaalaan sairauskohtauksen vuoksi – koulu järjestää kriisiapua",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13529,6 +13476,56 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T02:30:35Z",
+      "urls": [
+        {
+          "sign": "fdc17421e797ccc01493d423befbca3e4df61e8bab0c4d308bb1757aea918e8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoälytutkija Bernhard Schölkopf varoittaa: Alihinnoitellut tekoälymallit syrjäyttävät työvoimaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T02:31:15Z",
+      "urls": [
+        {
+          "sign": "b4149cc88c2a5db2343ec218b5d752f2f5d762ad4659b08def1b2279822c7807",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sosiaaliturvaministeri Partanen suhtautuu varauksellisesti keskustan ehdotukseen työttömien vapaaehtoistyöstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T02:36:00Z",
+      "urls": [
+        {
+          "sign": "4e59db38f6dc3450bd0da79575344ba9c7be91bfe51651fb5ecfa9cc79dbc652",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläissyntyiset kirjailijat Dess Terentjeva ja Julia Kuokkanen kertovat Venäjän passista luopumisesta ja Putinin kannatuksesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
