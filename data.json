@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-27T12:44:17Z",
+  "updated": "2026-08-27T15:58:00+03:00",
   "entries": [
     {
       "updated": "2026-08-27T09:29:25Z",
@@ -706,23 +706,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T00:56:00+03:00",
-      "urls": [
-        {
-          "sign": "59e242152429c847335c81b2c32a9dc05c70d6bf5b0d5f1ba2a4fbe8ca0545f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "AP: Trumpin hallinto aikoo peruuttaa jopa 200 000 liike- ja turismiviisumia turvapaikkahakemusten vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T02:00:00+03:00",
       "urls": [
         {
@@ -1288,39 +1271,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T08:48:18Z",
-      "urls": [
-        {
-          "sign": "bfae7775981ac904aaa1a815a72338fd85c8e37a3d533589186257a6ee56ce43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Helsingin lastenkodin tulipalon tuhotyönä – 16-vuotias poika myöntää teon",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T08:49:10Z",
-      "urls": [
-        {
-          "sign": "7a9eafc6f93e6a25c1c9115ef84f814dde93477c1060c861b2c47201b4943eb5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
       ],
       "outlet": "Yle Uutiset"
     },
@@ -5274,21 +5224,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T07:18:15Z",
-      "urls": [
-        {
-          "sign": "4f10fcd17b1c83dea24b09e144349f14a123f035777e6cda9eea2db08bbb7daf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kommentti: Dolly Partonin kuolema tuo esiin hänen puoluerajojen ylittävän suosionsa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T10:15:00+03:00",
@@ -10284,7 +10219,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T15:44:00+03:00",
+      "updated": "2026-08-27T15:53:00+03:00",
       "urls": [
         {
           "sign": "44c06ecaa4ba62b811f91983c8e8457aab5cd0239c0431bd6ece6a9fa8d5b50f",
@@ -10293,8 +10228,8 @@
           ]
         }
       ],
-      "title": "Jäätikön sortuma aiheutti Himalajalla tuhoisan tulvan, viranomaiset varoittavat uudesta tulvasta",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Himalajan jäätikön sortuma aiheutti tuhoisan tulvan, viranomaiset varoittavat uudesta vaarasta",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -12768,7 +12703,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T13:29:00+03:00",
+      "updated": "2026-08-27T15:45:00+03:00",
       "urls": [
         {
           "sign": "08542bae24ac893188788811a93076e64fb8efc4445cf71c6028fc9a25c78eb1",
@@ -13533,7 +13468,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T15:38:00+03:00",
+      "updated": "2026-08-27T15:47:00+03:00",
       "urls": [
         {
           "sign": "b5e584963a688dac8e92e136ea658911bfaa8df39eaf6c73c71ae68215dbb15a",
@@ -13542,7 +13477,7 @@
           ]
         }
       ],
-      "title": "Tuomittu kansanmurhasta Ratko Mladić on kuollut 83-vuotiaana",
+      "title": "Tuomittu kansanmurhasta Ratko Mladić on kuollut 83-vuotiaana Haagin vankilassa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13561,6 +13496,66 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T12:46:16Z",
+      "urls": [
+        {
+          "sign": "8c470bbe99465f2e92ee181c952e960ca6c3263f1b3307bf6c58675c1870cd7d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruokavirasto asentaa Virolahdelle sikarutosta varoittavat kyltit",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-27T15:58:00+03:00",
+      "urls": [
+        {
+          "sign": "44a7975e89393c24db071861a7465427e1a9ee6c9473eaf89a4981fa50ec7609",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Australialaisnainen synnytti kaksoset eri vanhemmilta, oikeus päätti erottamisesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-27T12:53:36Z",
+      "urls": [
+        {
+          "sign": "199e7725f14f7b47d02045e887947497beaa641f068d380261c6b6c4e8fbdd8d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan kuninkaan tila vakava – hovi on valmistanut suunnitelman vallanvaihdosta ja hautajaisista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-27T12:49:22Z",
+      "urls": [
+        {
+          "sign": "88279898b0bad032ea573f64c4804af8d2698dfd1463bf653db39d0ca5fbdcfa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sotarikoksista tuomittu Ratko Mladić on kuollut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
