@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T04:39:08Z",
+  "updated": "2026-08-28T08:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-28T04:01:53Z",
@@ -787,21 +787,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-25T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "4202fc576e13b1468887405cbfd61a0158c040832c0adea5a384c878e6c6f21d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukija: Verottajan alv-määräys nostaa ajokortin uusimiskustannuksia",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T15:33:00+03:00",
       "urls": [
         {
@@ -1242,21 +1227,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T16:02:59Z",
-      "urls": [
-        {
-          "sign": "e1af3645a48f37d03fe41f78d6c98fb2afcb8050e6d61687041b0738e58373bc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kolmostien Terveysin tietomurto paljasti tuhansien asiakkaiden yhteystiedot",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13520,6 +13490,40 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T04:45:00Z",
+      "urls": [
+        {
+          "sign": "46cbeaeaad7e6eec2d9f89b89327cf13a31724f398300e3e271a525babae7326",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Joel Harkimo pudotti kahdeksassa kuukaudessa yli 20 kiloa – HUS Painonhallintatalon asiantuntija neuvoo maltilliseen painonpudotukseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "3382176c191efc0979f524ee055ddfff02dd7404ed80a0daca6029444775fa36",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
