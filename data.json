@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T02:28:04Z",
+  "updated": "2026-08-28T02:30:35Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1067,24 +1067,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T14:16:36Z",
-      "urls": [
-        {
-          "sign": "3d0acd9f437a2da4315b58dafa7e3c907dce3a4243f529561ba13fece2931f7c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valokuvaaja Meeri Koutaniemi sai kansainvälisen kuvajournalismiapurahan silpomisvastaiselle dokumenttihankkeelle",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T14:32:00Z",
@@ -4821,21 +4803,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T13:23:59Z",
-      "urls": [
-        {
-          "sign": "f4932bcebc5616c2f36ecbd1310144b50f3a9eab21ea152208916d5b24d9ab95",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Martina Aitolehden Aitolehti Capital Oy:n liikevaihto oli vuonna 2025 nolla euroa, analyytikko arvioi yhtiön taloustilanteen heikoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T13:27:50Z",
@@ -13528,6 +13495,38 @@
       "title": "Kyselytutkimus: Noin puolet nuorista arvioi taloustaitonsa hyviksi – pojat luottavat taitoihinsa tyttöjä enemmän",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T02:30:31Z",
+      "urls": [
+        {
+          "sign": "bb46421488343568e445abb22c52d34aa354951a0cd2f135b7dd6ef0b2bed505",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "90 päivää morsiamena -tähti Catie haluaa avoimen suhteen, Josh vaatii yksiavioisuutta – pariskunta menee silti naimisiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T02:30:35Z",
+      "urls": [
+        {
+          "sign": "d79c4cff72792ecb7f930c1c31580c6360269eba46dfe31975e82a7ba7c5715d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Terveydenhuollon työntekijät katsovat vuosittain omia potilastietojaan laittomasti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
