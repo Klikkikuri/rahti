@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T19:41:00+03:00",
+  "updated": "2026-08-28T16:50:01Z",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -804,21 +804,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T09:50:00+03:00",
-      "urls": [
-        {
-          "sign": "3f3e76eed9917b59fed6ecb87372244ebb6a83a50ca71755fa2c58f8fdebfa14",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alisa Vainiosta kuvataan dokumenttielokuva hänen valmistautumisestaan Los Angelesin olympiamaratonille 2028",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-26T07:06:25Z",
       "urls": [
         {
@@ -1456,23 +1441,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T11:51:20Z",
-      "urls": [
-        {
-          "sign": "a22011187b1934d90f55264477b860305a70e25cf9e5eedc344b4d2a41a005c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus käsittelee Lauttasaaren pyöräliikkeen tuhopolttoa – syyttäjän mukaan nuorten motiivi oli raha",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T15:00:00+03:00",
@@ -4348,7 +4316,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T16:22:16Z",
+      "updated": "2026-08-28T16:50:01Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -13562,6 +13530,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T16:48:15Z",
+      "urls": [
+        {
+          "sign": "8af494a05e0d47d77effc4027e1f7f0fbbe8b3632ba0e8a64e594cedd4eda364",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Islanti äänestää EU-neuvotteluista: Turvallisuustilanne vahvistaa Euroopan houkuttelevuutta, arvioi professori Teivo Teivainen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T19:48:00+03:00",
+      "urls": [
+        {
+          "sign": "869f24a8d105ad31c2549ce8c3751e342dbab1db6bf169f327415b9e009ed638",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat vahvistavat: Grönlannin pakkoehkäisy rikkoi naisten oikeuksia, kansanmurhasta eri näkemyksiä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
