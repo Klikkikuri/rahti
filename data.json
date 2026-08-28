@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T02:03:52Z",
+  "updated": "2026-08-28T02:28:04Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1067,23 +1067,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T14:16:12Z",
-      "urls": [
-        {
-          "sign": "f261def62d788145b283d19a5ace6a87b25d2241817f1839dec054b7f3170fb9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduskunnan kansliatoimikunta käsittelee uudelleen Antti Pelttarin virasta pidättämisen kesän syytteen johdosta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T14:16:36Z",
@@ -13531,6 +13514,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T02:28:04Z",
+      "urls": [
+        {
+          "sign": "3df409151ba66e20945fdadfa979b77a729e842e267a08584c16d66e512c658d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kyselytutkimus: Noin puolet nuorista arvioi taloustaitonsa hyviksi – pojat luottavat taitoihinsa tyttöjä enemmän",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
