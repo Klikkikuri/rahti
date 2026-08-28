@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T14:11:19Z",
+  "updated": "2026-08-28T14:29:08Z",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -808,23 +808,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-26T07:00:00+03:00",
-      "urls": [
-        {
-          "sign": "09b94dae3b29b161986df2a125a8497d699c4bf2494007d521ec1c771baee190",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-26T16:21:00+03:00",
       "urls": [
         {
@@ -1030,23 +1013,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T07:36:07Z",
-      "urls": [
-        {
-          "sign": "439667af8e5af1f225f664ff539ad35106282607db654aa449755a8495210580",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "PTT suosittelee yhteisöveron alennuksen peruuttamista, eläkkeiden verotuksen kiristämistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T07:58:41Z",
       "urls": [
         {
@@ -1059,23 +1025,6 @@
       "title": "Paralumilautailija Matti Suur-Hamari hyväksyy Imatralta vuonna 2017 luvatun palkintotontin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T07:46:38Z",
-      "urls": [
-        {
-          "sign": "48e265b10c9c4c590fd684e1c8d148069f75452795f2703cf9921a520a85c015",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat: Kohtuuttomat vanhempien vaatimukset kuormittavat opettajia, luottamus ja yhteistyö vähentävät konflikteja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -4493,21 +4442,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T06:43:38Z",
-      "urls": [
-        {
-          "sign": "72a54d2fb74bf23b8dd785b1484b07af7ea8b64baa8f77502617ded6237ecc99",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dolly Parton kuoli 80-vuotiaana, kantrilegenda selvensi rintahuhut ja jakoi kauneusrutiinit",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T07:00:02Z",
       "urls": [
         {
@@ -4862,7 +4796,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T14:02:21Z",
+      "updated": "2026-08-28T14:17:39Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -4871,11 +4805,11 @@
           ]
         }
       ],
-      "title": "Norjan kuningas Harald V on kuollut 89-vuotiaana – poika Haakonista uusi hallitsija",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": null,
+      "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/type=video"
       ],
       "outlet": "Iltalehti"
     },
@@ -13549,6 +13483,71 @@
       ],
       "title": "Huvipuistot sulkavat ovensa koulujen alkamisen myötä ja harkitsevat ympäri vuoden toimintaa",
       "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T14:29:08Z",
+      "urls": [
+        {
+          "sign": "afd34e223ea0466cad42d26ec4cc182b66f862fdd8f76ab5cc1538c267fc3d78",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tietokilpailukirjailija Magnus Mali on laatinut kymmenen kysymyksen testin Suomen historiasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T14:27:56Z",
+      "urls": [
+        {
+          "sign": "2022e467316cf72de661d792c50336baedb1ac325c53ecd591fde421ebd79dc6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Partiolaistoimija Pawan Koirala auttaa Nepalin tulvien uhreja evakuoinneilla, pelastustöillä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T17:27:00+03:00",
+      "urls": [
+        {
+          "sign": "7ae26cae1ff2ffaf5d69fb684cbf53987633fcd416106db3715ab6031c254100",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Himalajan äkkitulva tuhosi tamangien asuin- ja pyhäkköalueita – aktivisti syyttää vesivoimaloiden patoja pahennuksesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-28T14:23:36Z",
+      "urls": [
+        {
+          "sign": "47ecb296103261ca2e8e534d47c15aeb3cd4e66ff0bdb1680a8b5fbfbd46247f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo puolustaa valtion 40 miljoonan euron tarjousta Palokin voimalaitoksesta: Hinta on markkinaehtoinen",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
