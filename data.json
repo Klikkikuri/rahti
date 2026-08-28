@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T02:30:35Z",
+  "updated": "2026-08-28T02:55:00Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1067,23 +1067,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T14:32:00Z",
-      "urls": [
-        {
-          "sign": "e84a873d9146951aed0f22e272e5a7c61d6b4f7dde38da6af8ebbe4793898397",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija: Työperäinen hyväksikäyttö on juurtunut Suomen matalapalkka-aluille, kielimuuri vaikeuttaa oikeusturvaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T18:03:00+03:00",
@@ -13528,6 +13511,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T02:55:00Z",
+      "urls": [
+        {
+          "sign": "a4d9f891d581a4599a993623dde3abaad2285d34a7f1e9cd8cfd12a73d709234",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liikenneasiantuntijat varoittavat: Monipuolistuva liikennekirjo vaatii lisää valppautta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
