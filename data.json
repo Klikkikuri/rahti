@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T13:09:55Z",
+  "updated": "2026-08-28T16:30:00+03:00",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -1045,21 +1045,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-26T07:22:25Z",
-      "urls": [
-        {
-          "sign": "8d448841cdb8bfaa3df86cd80ef4cdd901edbc06f29367e7927abd7095a76555",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin yliopisto ennustaa kotona asuvien muistisairaiden määrän kaksinkertaistuvan vuoteen 2040 mennessä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T10:22:00+03:00",
       "urls": [
         {
@@ -1397,23 +1382,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T09:03:27Z",
-      "urls": [
-        {
-          "sign": "3940537256f8162f5ec8998a03aa3bbde833b5a977f2c1b0b65e2bdf2cb8d5c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroopan komissio vastustaa UPM:n ja Sappin yhteisyritystä kilpailun vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T09:07:54Z",
@@ -3504,7 +3472,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T13:12:58Z",
+      "updated": "2026-08-28T13:22:23Z",
       "urls": [
         {
           "sign": "fcb1dfca6dcaac7383208cf52be033892db161c79d55ed7a92737aa40a9c432b",
@@ -3513,10 +3481,11 @@
           ]
         }
       ],
-      "title": "Ulkoministeriö vahvistaa yhden suomalaisen olevan kateissa Nepalin tulvissa",
+      "title": "Ulkoministeriö: Yksi suomalainen kateissa Nepalin tulvissa, loukkaantuneita tai kuolleita ei vielä tiedetä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -4584,36 +4553,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T06:10:10Z",
-      "urls": [
-        {
-          "sign": "f834d3c6446233c5c1fed068e5129a369a73fd06f8a0cc9a24e64f5a6c7035d4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jalkapalloilija Esther González siirtyi Saudi-Arabiaan ja poisti Instagram-tililtään kuvia vaimostaan ja lapsestaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-27T06:11:42Z",
-      "urls": [
-        {
-          "sign": "4df7421b8140f8e0f3f1df84d6bc34d74dd3a074b5335daa159bbcd3aec5ab40",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nightwishin Holopainen aloittaa albumityöt, Jansenin mukaan paluu on vielä kaukana",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T06:14:50Z",
       "urls": [
         {
@@ -5145,7 +5084,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T12:30:05Z",
+      "updated": "2026-08-28T13:20:21Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -5154,11 +5093,11 @@
           ]
         }
       ],
-      "title": null,
-      "clickbaitiness": null,
+      "title": "Norjan kuningas Harald V on kuollut",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13116,7 +13055,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T15:04:00+03:00",
+      "updated": "2026-08-28T16:30:00+03:00",
       "urls": [
         {
           "sign": "68be6cf19bb6ebaae2285e84d423ebf81bc2a4bdb0db75d7ec773a052982a6d9",
@@ -13125,8 +13064,8 @@
           ]
         }
       ],
-      "title": "Norjalaiset kokoontuivat Oslossa kuninkaanlinnalle suremaan aamulla kuollutta kuningas Haraldia",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Norjalaiset kokoontuivat Oslossa suramaan aamulla kuollutta kuningas Haraldia",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13229,7 +13168,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-28T12:55:11Z",
+      "updated": "2026-08-28T13:18:31Z",
       "urls": [
         {
           "sign": "29f086803bc4c1ab45720d153bf851747dd9c67de5937dc279feed46031c63a7",
@@ -13238,11 +13177,9 @@
           ]
         }
       ],
-      "title": "IL seuraa: Takamoto Katsuta koki vaikean alun Paraguayn MM-rallin perjantain erikoiskokeilla",
+      "title": "IL seuraa: Takamoto Katsuta aloitti vaikeasti Paraguayn MM-rallin perjantain erikoiskokeilla",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13550,6 +13487,68 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T13:28:12Z",
+      "urls": [
+        {
+          "sign": "b13b7d5f284889ebecb0fca6aeecd2cd5b2a66fb9f735c4a6e11e50a60127a31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee 12 venäläisen hankkineen Suomen kansalaisuuden petoksella tekaistuilla työsuhteilla ja maksetuilla kielikokeilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T13:15:44Z",
+      "urls": [
+        {
+          "sign": "d47c8cff5291dc621e2e0f1aa8e908e49154ade59d4fa06e0395dabe6d655a85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kespron tuotevetäminen esti Raaseporin kouluilta lounaspuuron – kunta sai vain puoli tuntia reagoida",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T13:19:35Z",
+      "urls": [
+        {
+          "sign": "0e7b5546b3cf23cbf2a6e897556aaf90a6df929d795f2806438917d60512a37a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lidl vetää vegaanisen juustoraasteen myynnistä maidon allergeenin vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T13:29:57Z",
+      "urls": [
+        {
+          "sign": "4aac9a17783d8cab1ac16b8852eb9e96bb733dd8f61b64d1d73b131af77fa98b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjalaiset kuninkaalliset ovat solmineet avioliittoja tavallisten kansalaisten kanssa, mikä on pitänyt monarkian suosion yllä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
