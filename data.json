@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T19:19:19Z",
+  "updated": "2026-08-28T19:41:53Z",
   "entries": [
     {
       "updated": "2026-08-28T18:30:54Z",
@@ -1374,21 +1374,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T13:26:51Z",
-      "urls": [
-        {
-          "sign": "acfdd446eb5e50b2fc16eecbad9a0ad83b312b8d11240b39e17abbbc099bf25d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maratonin Euroopan mestari Alisa Vainio juoksee Ruotsi-ottelussa 10 000 metrillä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T16:37:00+03:00",
@@ -4927,21 +4912,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T10:35:00Z",
-      "urls": [
-        {
-          "sign": "36e4c8ca4a2321dbaf9daaaa366b47d0a95ea8b13f360011b55f876f2ad324f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin yliopiston professori Katalin Miklóssy varoittaa EU-demokratian rapautumisesta ja itäisten jäsenmaiden kasvavasta vaikutusvallasta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T10:57:05Z",
@@ -8523,7 +8493,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T18:35:00+03:00",
+      "updated": "2026-08-28T22:40:00+03:00",
       "urls": [
         {
           "sign": "e7fe90626e29423e0a2b78ec388b970e6aa8a7462f84996484922cd7be6e4694",
@@ -8532,7 +8502,7 @@
           ]
         }
       ],
-      "title": "Himalajan tulvissa ja maanvyöryissä pato murtui Tiibetissä, pelastustyöt jatkuvat",
+      "title": "Tulvat ja maanvyöryt Nepalin ja Kiinan rajalla ovat vaatineet satoja kuolonuhreja, joukossa suomalainen tutkija",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -11660,7 +11630,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-28T19:19:19Z",
+      "updated": "2026-08-28T19:41:53Z",
       "urls": [
         {
           "sign": "29f086803bc4c1ab45720d153bf851747dd9c67de5937dc279feed46031c63a7",
@@ -11669,7 +11639,7 @@
           ]
         }
       ],
-      "title": "Oliver Solbergin auto sammui Paraguayn MM-rallin perjantain erikoiskokeella",
+      "title": "Sami Pajarin auto sai ongelmia Paraguayn MM-rallin perjantain erikoiskokeella",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13549,6 +13519,41 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T19:33:02Z",
+      "urls": [
+        {
+          "sign": "b100b34c8bc3d2c0e9975f1667ec7731c0ea0dd9b1f072779d38ce36e28c5eaf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T19:31:01Z",
+      "urls": [
+        {
+          "sign": "0c2ae31692ffa83d88f93177581dd9bd5ff491f56b3906dcf66bf129c3679aa5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jere ja Nanna Karalahti ottavat osaa Immu Fight Night -tapahtumaan 12. syyskuuta – Jere nyrkkeilee Mika ”Immu” Ilméniä vastaan, Nanna vapaaottelussa Martina Aitolehden häkissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
