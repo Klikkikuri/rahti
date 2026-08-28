@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T11:55:36Z",
+  "updated": "2026-08-28T12:12:12Z",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -823,38 +823,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "24bdb1b8290c1b6f34f90978dcf8aba506e04a2c51930ab8ff9fd07883a6d51d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Sanomat tuo arkistostaan 26.8.1976 päivän uutiset: jalkapallovoiton, ravintolatestin ja talouskeskustelun",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d10b6707e0d71e2a336f309b99d60b29923eba6cff013b548830628f3d5ed14f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-26T10:38:33Z",
       "urls": [
         {
@@ -998,23 +966,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T06:14:17Z",
-      "urls": [
-        {
-          "sign": "85f105ad402e6ac4430dbf2bbdca4322a61e97ef6d54379b1f495fb883f0201b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nuorten hoitajien tunnekuorma kasvaa – lähihoitaja kehittää kirjoituskurssia purkureitiksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T09:08:00+03:00",
       "urls": [
         {
@@ -1045,23 +996,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T06:15:57Z",
-      "urls": [
-        {
-          "sign": "6520244c184b952237231acdc0d7f13d6cde4c10f8cebee6f161ae02798c06c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mehiläishoitajat arvioivat hunajasadosta viimevuotista paremman – alueelliset erot suuria",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-26T06:16:15Z",
@@ -4544,36 +4478,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T04:00:26Z",
-      "urls": [
-        {
-          "sign": "c670f042717102e60514b601346ab3ce26e9891b591cb6b9c342463b709cda89",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Otto Virtanen voitti US Openin karsintaottelun selkävaivoista huolimatta ja kohtaa Grigor Dimitrovin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-27T04:18:03Z",
-      "urls": [
-        {
-          "sign": "0e8568fc06f8cf6b97aaf06687241b831b3f64b7ca114ba5440b42eb4c9f93b4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuningas Haraldille todettiin bakteeritulehdus – kruununprinssi Haakon toimii sijaishallitsijana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T04:24:08Z",
       "urls": [
         {
@@ -4587,21 +4491,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T04:23:35Z",
-      "urls": [
-        {
-          "sign": "5919fbfea327c8337a9f7cf92d5261a36e05ab58d243f1eecfdfb4bcfebd0fb6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos varoittaa voimakkaasta tuulesta Etelä-Suomessa lauantaina – uhkana sähkökatkoja ja puiden kaatumista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T04:22:18Z",
@@ -13543,6 +13432,119 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T12:08:53Z",
+      "urls": [
+        {
+          "sign": "e93db98e72bb709acdd0e608042d0cedea441d6d1520015f3448a473c2a8a652",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Märtha Louisen puoliso Durek Verrett kommentoi kuningas Haraldin kuolemaa: ”Rakastan sinua”",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T12:12:12Z",
+      "urls": [
+        {
+          "sign": "8c15add3894fc15f1c0bd28c759edc7ce01bf4285f5bce86e5b8306ad73e72d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jere Karalahti kertoo sydänongelmistaan ja saa lääkärin luvan otella Mika Ilméstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T12:07:13Z",
+      "urls": [
+        {
+          "sign": "04d1e68227616119baaed03d440f4548e31fedb6ba69fc59d131934a6e7acf55",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T12:11:43Z",
+      "urls": [
+        {
+          "sign": "547efba6d782ab1e729383e54a4518b0c291995ba7f522725d17f421448f67ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaskinen palkkasi ulkopuolisen juristin selvittämään kaupunginjohtajasta esitetyt väitteet",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T15:04:00+03:00",
+      "urls": [
+        {
+          "sign": "68be6cf19bb6ebaae2285e84d423ebf81bc2a4bdb0db75d7ec773a052982a6d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjalaiset kokoontuivat Oslossa kuninkaanlinnalle suremaan aamulla kuollutta kuningas Haraldia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-28T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "ef43149411bfeabfb3f15e4c5576403e469b3f3cbe84706a3defc9eb46b6d576",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Työturvallisasiantuntija: Vastaukset lievittävät oheiskärsimystä, järjestelmälliset turvaratkaisut ehkäisevät virheitä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-28T12:06:38Z",
+      "urls": [
+        {
+          "sign": "f2105e0bf54ab319279a1d03e56cc04870a91f6856569382debceb712ef98c3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WWF ja pelastuslaitos saattavat Haukiveden öljyturman puhdistustyöt päätökseen tänään",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
