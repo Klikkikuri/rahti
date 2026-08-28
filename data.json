@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T09:38:53Z",
+  "updated": "2026-08-28T09:53:15Z",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -791,21 +791,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T19:51:00+03:00",
-      "urls": [
-        {
-          "sign": "5ad25212db15c3bbfa62c73aef35a394e701da2675d6f8792a04947ee4e5e682",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putin ja Venäjän ortodoksinen kirkko lähettävät Dmitri Donskoin jäänteet Itä-Ukrainaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T20:00:00+03:00",
       "urls": [
         {
@@ -1132,24 +1117,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T05:09:22Z",
-      "urls": [
-        {
-          "sign": "aad382d8858b9cc1a196c6386ef05b94c59960dba4cc6c0f6b096995252e3bee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T08:00:00+03:00",
       "urls": [
         {
@@ -1163,23 +1130,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T05:21:18Z",
-      "urls": [
-        {
-          "sign": "5c58a72b6947b3b592f1418a568a2bac6517c84b9d6fc05d30e0501dc4e67438",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmaston lämpeneminen sulattaa Saamenmaan palsasuot, mäntyjen levinneisyys laajenee tuntureille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-26T05:23:46Z",
@@ -12650,7 +12600,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T12:38:00+03:00",
+      "updated": "2026-08-28T12:46:00+03:00",
       "urls": [
         {
           "sign": "abacc62ad7177ce7ab47b481b6bfc20591e8a73481da0c6c529908737f2a57aa",
@@ -12659,7 +12609,7 @@
           ]
         }
       ],
-      "title": "Poliisi tutkii epäiltyä murhaa Vantaan Martinlaaksossa – poliisi etsii silminnäkijöitä keskiviikkoillalta",
+      "title": "Poliisi tutkii epäiltyä murhaa Vantaan Martinlaaksossa – etsii havaintoja keskiviikkoillalta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13548,6 +13498,57 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T09:53:15Z",
+      "urls": [
+        {
+          "sign": "d0621a700418956c69ce45ac357a8a54a674579352f30d194d8f5b718886917b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan kuningas Harald vieraili Suomessa kolmesti valtiovierailulla vuosina 1993–2016",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T12:50:00+03:00",
+      "urls": [
+        {
+          "sign": "f7ebf6acb494cbf4e8387ea2e1b61567e21b7a201a624bc6f6fde1f05aeeb7fe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-28T09:52:50Z",
+      "urls": [
+        {
+          "sign": "0afc4ac5b44dd5c0d7f3e1f1852ba1ebbc9d3a5b5e932b588d3cad7261303616",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kunnat supistavat palveluita, korottavat veroja nousevien työttömyyskulujen ja valtionosuuksien leikkausten myötä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
