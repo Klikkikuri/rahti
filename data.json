@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T18:29:29Z",
+  "updated": "2026-08-28T18:40:24Z",
   "entries": [
     {
-      "updated": "2026-08-28T18:28:34Z",
+      "updated": "2026-08-28T18:30:54Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Iltalehden Ukrainan sodan liveseuranta: Venäjän propagandan keinoja ja disinformaatiota",
+      "title": "Iltalehden liveseuranta Ukrainan sodasta – Venäjän propagandan keinot selitetään",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -864,23 +864,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T09:44:58Z",
-      "urls": [
-        {
-          "sign": "39d549c1858352061e8d4cfb543c2f1f603632d5ee36dc311cc32ee9ff3a962e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Koneyrittäjät vaativat valtiolta korvauksia sikaruttorajoitusten aiheuttamista tulonmenetyksistä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T13:54:00+03:00",
       "urls": [
         {
@@ -1442,21 +1425,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T13:12:53Z",
-      "urls": [
-        {
-          "sign": "7ce3ad420dcb7b5a49223918a55ddc52087916f48eb08674f3f51091299f73fc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiekko-Espoo pelaa harjoitusottelun Växjö Lakersia vastaan ilman yleisöä tänään",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T13:26:51Z",
@@ -13029,7 +12997,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T19:41:00+03:00",
+      "updated": "2026-08-28T21:33:00+03:00",
       "urls": [
         {
           "sign": "e6e380e9aa1e96a55a72201d2f4cc655caf45ea4ae9b2ff3194b57bbdd085f3c",
@@ -13038,8 +13006,8 @@
           ]
         }
       ],
-      "title": "OAJ varoittaa ammattikorkeakoululakoista saatavuuslisäkiistan vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Opetusalan ammattijärjestö OAJ varoittaa syyskuun ammattikorkeakoululakoista saatavuuslisäkiistan vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13554,6 +13522,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T18:40:24Z",
+      "urls": [
+        {
+          "sign": "626dea9fae6128ca9c20f8c262ac2cdc04a318e7399489f3d54a81ba7ab3d246",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruokavirasto: Afrikkalaisen sikaruton tartuntavyöhyke laajenee Kotkaan, Haminaan ja Pyhtäähän",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T18:38:07Z",
+      "urls": [
+        {
+          "sign": "e5b084bec90a64e294414cd1117a28a412103fab46ba478b12eaab7ade9b75b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruokavirasto: Afrikkalaisen sikaruton tartuntavyöhyke laajenee Pyhtäälle, Kotkaan, Haminalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
