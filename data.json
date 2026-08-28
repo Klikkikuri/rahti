@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T15:12:17Z",
+  "updated": "2026-08-28T15:27:58Z",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -964,21 +964,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T08:03:38Z",
-      "urls": [
-        {
-          "sign": "5f12e35a54bcbff785940767851218887dbdda51b315be1f158ce83241c75a71",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sipoon hindutemppelin naapurit valittavat melusta – kunta ei aseta toiminnalle rajoituksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T11:00:00+03:00",
       "urls": [
         {
@@ -1440,23 +1425,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T11:05:17Z",
-      "urls": [
-        {
-          "sign": "d73a1434ca6b2ff4582d527c6a7fce26dc2fc53617f9edd8078bced72478646e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fazer muuttaa Klassikot-konvehtirasiaa, pienentää kokoa – kuluttajat närkästyneitä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T13:20:25Z",
@@ -4765,21 +4733,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T07:55:47Z",
-      "urls": [
-        {
-          "sign": "7c55cfb95af7447a0550133a83257e38dd40fa12c4e6978441bca971b07ff020",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alivaltiosihteeri Timo Lankinen myöntää virheen Supo-selvityksen tiedottamisessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T07:57:38Z",
@@ -13549,6 +13502,55 @@
         }
       ],
       "title": "Nepalin äkkitulva tuhoututti rakennuksen alemmat kerrokset – video tallensi perheen selviytymisen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T15:21:11Z",
+      "urls": [
+        {
+          "sign": "e579671c1a90ae5b20dd0500f966bca8721733ac39895d31debce8947f16fc3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjalaiset kokoontuvat Oslossa muistelemaan kuningas Harald V:tä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T15:27:58Z",
+      "urls": [
+        {
+          "sign": "92f7970163b8757808629eafc345e9aaec6a90cd18458042ff6078592ef4813b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Seela Sella kärsii syöpähoitojen aiheuttamista kivuista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T15:25:00Z",
+      "urls": [
+        {
+          "sign": "b06abbc44ed99d2b2769adc6ed809a0b42178457f65e284dc20da1787968bf42",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wessavalmistaja suosittelee: Pese wc-istuin 1–3 kertaa viikossa ja käytä miedosti happamaa puhdistusainetta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
