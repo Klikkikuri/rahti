@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T12:56:29Z",
+  "updated": "2026-08-28T13:09:55Z",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -996,23 +996,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T06:54:53Z",
-      "urls": [
-        {
-          "sign": "7e282a42d37f8170d28a219fb1502a544e95e6616b567438444db7aa88d24f2c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Patagonian Holdfast-säätiö lahjoittaa kaksi miljoonaa dollaria Palokin virtavesien ennallistamiseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T10:00:00+03:00",
       "urls": [
         {
@@ -1043,21 +1026,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T07:00:10Z",
-      "urls": [
-        {
-          "sign": "2cb1c1cac55b19e5fc6414f72cda9d4db560dec30bbe2aee2745235bcdaf701b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjanmaan käräjäoikeus aloittaa Icon-talousrikosvyyhden käsittelyn – oikeudenkäynti kestää arviolta 50 päivää",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-26T07:06:25Z",
@@ -1378,24 +1346,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T08:51:12Z",
-      "urls": [
-        {
-          "sign": "edf5e0e53b177d0393b3f98f4ec7f641b7d10bd0475af175524179ff4ed29b33",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kristillisdemokraatit tukevat työttömyysturvan ja toimeentulotuen suojaosien palauttamista",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T08:57:08Z",
@@ -4617,21 +4567,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-27T05:48:12Z",
-      "urls": [
-        {
-          "sign": "6c6c87b5f1f88f22a40d9fa5d2fbf6b5954e3a10430c5c0b09eea42fe3da71fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maanmittauslaitos: Omakotitalojen hinnat laskivat Helsingissä ja Espoossa, nousivat Pirkkalassa ja Kirkkonummella tammi–heinäkuussa 2026",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T07:29:40Z",
       "urls": [
         {
@@ -4724,21 +4659,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T06:00:31Z",
-      "urls": [
-        {
-          "sign": "56837663c5940aceb1664ed1b88558a6e63c221ce91d29f3821c454bcb8c7499",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mauri Pekkarinen kritisoi hallituksen talouspolitiikkaa ja keskustan passiivista oppositiolinjaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T06:13:05Z",
@@ -10591,7 +10511,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-28T07:53:35Z",
+      "updated": "2026-08-28T12:50:36Z",
       "urls": [
         {
           "sign": "bee21d6e293c4831736c9aae3e06087f3f6a4153ee5ec924ba95919b7d9a5b2c",
@@ -10600,9 +10520,11 @@
           ]
         }
       ],
-      "title": "Poliisi tutkii Vantaan Martinlaaksossa tapahtunutta epäiltyä murhaa ja pyytää vihjeitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": "Poliisi tutkii Vantaan Martinlaaksossa 26. elokuuta tapahtunutta murhaa, pyytää vihjeitä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13550,6 +13472,85 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T13:00:20Z",
+      "urls": [
+        {
+          "sign": "6e975932089725ec77f2878276078673ae1745b6271be6000611ffcc24d98812",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii kateissa olevaa 42-vuotiasta naista Pihtiputaalla",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T13:09:55Z",
+      "urls": [
+        {
+          "sign": "5ee4bcf36f005b05dffd62b0db3ad87a0c2b77bcb87ee4bf6ea0da40e19c216a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuninkaalliset, valtionjohtajat ja jalkapalloilija Haaland muistelevad Norjan edesmennyttä kuningasta Haraldia",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T13:02:44Z",
+      "urls": [
+        {
+          "sign": "b32508e2d01ab95a3284cb779a34f7acf9cefff286cd04eafc03a062fc5df689",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kambodžan viranomaiset sulkivat yli 700 nettihuijauskeskusta ja pidättivät lähes 30 000 epäiltyä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T13:05:53Z",
+      "urls": [
+        {
+          "sign": "305cabac5653d56310966116e50b3d75e2c44529918b5800b2c70e5a624a0ffe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaiset yleisurheilutähdet julkaisivat bilekuvia Viivi Lehikoisen syntymäpäiväjuhlista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T13:00:40Z",
+      "urls": [
+        {
+          "sign": "0cab93adb8c45af0fceeb9061d423e404cd93f55b64b9850244f31ac5f2c767c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii kadonnutta 42-vuotiasta naista Pihtiputaalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
