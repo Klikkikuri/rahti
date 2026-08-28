@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T00:00:12Z",
+  "updated": "2026-08-28T01:01:35Z",
   "entries": [
     {
       "updated": "2026-08-27T17:39:16Z",
@@ -1067,21 +1067,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T14:11:23Z",
-      "urls": [
-        {
-          "sign": "64a0b05343a9efabf889d36cce0d3d007615653e95c6af2ef3a110339932ea90",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Slovakian poliisi esti droonitehtaan tuhopolttoyrituksen – kolme epäiltyä pidätetty",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T14:16:12Z",
@@ -13526,6 +13511,23 @@
       "title": "Syyrian presidentti Ahmed al-Sharaa nimitti entisen SDF-komentajan Mazloum Abdin neuvonantajaksi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T01:01:35Z",
+      "urls": [
+        {
+          "sign": "6ac5a6b2e82634836201ea1697cdabba3d5837c0c487c2d9c8c245aef2e921ca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "GTA VI:n traileri yhdistää fotorealistisen grafiikan ja vuorovaikutteisen tarinankerronnan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
