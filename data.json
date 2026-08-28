@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T17:10:51Z",
+  "updated": "2026-08-28T20:28:00+03:00",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -740,21 +740,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T10:15:00+03:00",
-      "urls": [
-        {
-          "sign": "bd040d38ad6b4aa49dc3858d1eeda2757b618fc5fe6c7c473a4c191dce2de944",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmastointilaitteen räjähdys aiheutti Pakistanin sairaalassa tulipalon – pääministeri määräsi välittömän tutkinnan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T15:37:00+03:00",
       "urls": [
         {
@@ -801,21 +786,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T10:15:00+03:00",
-      "urls": [
-        {
-          "sign": "7e736b66a5dd6e96906417d5213566765687a20a3a26954445ad77dab2cb0b35",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammattikorkeakoulujen rehtorit vaativat maisterin tutkintonimikkeen käyttöönottoa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1005,21 +975,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T12:18:05Z",
-      "urls": [
-        {
-          "sign": "7819a49321c21f2048078b08d6daca3ab348127fa79d743983383db7beed9d39",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP ehdottaa määräaikaista puolustusveroa, jolla kerätään viisi miljardia euroa puolustushankintoihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T13:54:00+03:00",
@@ -1437,23 +1392,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T12:15:00Z",
-      "urls": [
-        {
-          "sign": "3dbadd34f4e149d9a09eddffaae5f8de3d71326dd32535a9475823ccdf2be8c3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Esko Eerikäinen kommentoi Martina Aitolehden ja Nanna Karalahden ottelua: \"Toivon, että hän lähtee nyrkkeilemään\"",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T12:33:51Z",
@@ -4230,7 +4168,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T17:08:23Z",
+      "updated": "2026-08-28T17:18:26Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -9187,7 +9125,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T11:15:00+03:00",
+      "updated": "2026-08-28T20:28:00+03:00",
       "urls": [
         {
           "sign": "774ff0f4d52394492ca2e26938c7c4af1a598f0a078f67e78b5c1e5adb76b821",
@@ -9196,8 +9134,8 @@
           ]
         }
       ],
-      "title": "Norjan hovin mukaan kuningas Harald V on kuollut 89-vuotiaana – kruununprinssi Haakon nousee valtaistuimelle",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Norjan kuningas Harald V on kuollut 89-vuotiaana – kruununprinssi Haakon nousee valtaistuimelle",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13555,6 +13493,72 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T17:25:17Z",
+      "urls": [
+        {
+          "sign": "e94695e260114a96e2ffe434a6c48addf55bb40f1a7a400512f7ac2344520066",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain presidentti Trump jättää väliin Manhattanin 9/11-muistotilaisuuden järjestäjien puhekiellon vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T20:15:00+03:00",
+      "urls": [
+        {
+          "sign": "468640b74db82bc84b422b122aa877e3352355d377d5572035326f69526900b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liikenneturvan toimitusjohtaja: Kieli vaikuttaa liikennekulttuuriin – ohjeistukset vaativat suomalaista tutkimusta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-28T17:26:59Z",
+      "urls": [
+        {
+          "sign": "440581732b91fafebe1de02693b24d6bcd5bb8b091da6c99295e060c29993eee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tietosuojavaltuutettu: Älylaseiden käyttö voi rikkoa tietosuojalainsäädäntöä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T20:23:00+03:00",
+      "urls": [
+        {
+          "sign": "57209205f8843be626f02513faa3241f64b048a4d9b326f2db43514baa4c5a8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan Ceutassa kärjistyi väkivaltaisia mielenosoituksia, mielenosoittajat polttivat siirtolaisten majoja ja estivät avustustyötä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
