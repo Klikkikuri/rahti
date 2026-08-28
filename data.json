@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T11:37:12Z",
+  "updated": "2026-08-28T11:55:36Z",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -1320,24 +1320,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T05:57:09Z",
-      "urls": [
-        {
-          "sign": "de96be712cd276b52f399031b9b766c832157c6fe9a49ce7e80d321efa28eae1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T07:46:38Z",
       "urls": [
         {
@@ -1480,23 +1462,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T08:02:00Z",
-      "urls": [
-        {
-          "sign": "a8d169823304aca5f91b44d28d9aa4ed343dc49a8c7500138a12c753fb45cddc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "TPS:n päävalmentaja Toni Söderholm lähtee uuteen kauteen positiivisin mielin edelliskauden rehellisen arvioinnin jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T08:25:03Z",
@@ -4497,21 +4462,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T03:47:47Z",
-      "urls": [
-        {
-          "sign": "23c847fc9de3acc3d1487f39aace6cb1d6543dcd54aa5bf0bf6f60e7b93ee5de",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppi tarjoaa elämäntilannevinkkejä ja pohdittavaa kaikille eläinradan merkeille",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T03:45:00Z",
       "urls": [
         {
@@ -4592,21 +4542,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T04:00:16Z",
-      "urls": [
-        {
-          "sign": "cb78ed21c09a72ab2e7988a5e22b44014caf24b53c8f91a07f42fa2ea4672b80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Professori Katalin Miklóssy ennustaa Puolan nousevan Ukrainan sodan myötä Euroopan johtavaksi puolustusvallaksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T04:00:26Z",
@@ -13546,6 +13481,68 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T11:55:36Z",
+      "urls": [
+        {
+          "sign": "55ed3edc9e0e355676558027fb27899d6f4d4866df53c25c2527653312529c36",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Voimakas tuuli ja epävakaat sääolot saapuvat Suomeen viikonloppuna, ennustaa Forecan meteorologi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T11:47:15Z",
+      "urls": [
+        {
+          "sign": "cdc658411009062c6ad5e770c66b115e5531c6284506f301f0cdc5ddef6b53d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruka Nordic ja Kuusamon Erä-Veikot eivät päässeet sopuun maailmancupin talkoovapaaehtoisten korvauksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T11:47:16Z",
+      "urls": [
+        {
+          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti päivittää päivittäin graafin pörssisähkön varttihinnasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T11:40:15Z",
+      "urls": [
+        {
+          "sign": "6e371a82ceff2e76e25a2ba466c940c54b85ea6e00d6fd94e4b460798d8f9b57",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsi lähettää Suomeen Gripen-hävittäjiä ja korvetteja droonivalvonnan tueksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
