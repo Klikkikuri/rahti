@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T08:15:00+03:00",
+  "updated": "2026-08-28T05:29:19Z",
   "entries": [
     {
       "updated": "2026-08-28T04:01:53Z",
@@ -1266,41 +1266,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-25T16:45:00Z",
-      "urls": [
-        {
-          "sign": "06f3ab54c7a7017efe206d9d57f96e2f6d6f7d6e908fa66f4428f709b7f9c96f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "...",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-25T16:49:18Z",
-      "urls": [
-        {
-          "sign": "005acb73b831710813131698458889a6fc5862a4cd55fe9f39f049f5bb7a186b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-25T19:51:00+03:00",
       "urls": [
         {
@@ -1349,23 +1314,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-25T17:01:51Z",
-      "urls": [
-        {
-          "sign": "e858d20d174fb1f2a862b4984246ba8f994fb73d73c297e4fb9f49b2b9ac3bb5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelicansin Kapanen asettaa kaudelle tavoitteeksi pudotuspelit ja korostaa joukkueellisuutta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-25T17:51:12Z",
@@ -4775,23 +4723,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T15:08:04Z",
-      "urls": [
-        {
-          "sign": "2784a6e1a18c4cccf21ddc429a012fe9c242245a884073b3e34972bd6ab9dab3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi Aleksi Jokela: Tyylissä tärkeintä on itsevarmuus, oman olon säilyttäminen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-26T15:09:18Z",
       "urls": [
         {
@@ -4805,23 +4736,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T15:09:41Z",
-      "urls": [
-        {
-          "sign": "bf1cfe154f736d5bc8e62faca995dacf7d0a310a4f1c405c8b79a808f072b88c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SaiPan urheilujohtaja Harri Aho avautuu sopimustilanteestaan, budjetista ja mahdollisesta paluusta Kärppiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-26T15:13:41Z",
@@ -12056,7 +11970,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T21:26:00+03:00",
+      "updated": "2026-08-28T08:27:00+03:00",
       "urls": [
         {
           "sign": "6e7ff6652633eb593d57ed4e85cc8b42ad86fa730bea7a1c895d1072706bc208",
@@ -13028,7 +12942,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T03:20:04Z",
+      "updated": "2026-08-28T05:13:18Z",
       "urls": [
         {
           "sign": "4dc87ed5ba4f0bda89dba56fe1cb8f0d7afc5c74b48d08e5a0c5e5c8ffeb3760",
@@ -13037,9 +12951,12 @@
           ]
         }
       ],
-      "title": "Viranomaiset ilmoittivat Nepalin tulvien kuolleiden määrän nousseen, Kiina varoittaa patojärven aiheuttamista uusista tuhoista",
+      "title": "Kiinan viranomaiset keskeyttävät Tiibetin etsinnät uuden tulvariskin vuoksi",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13478,7 +13395,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-28T08:15:00+03:00",
+      "updated": "2026-08-28T08:29:00+03:00",
       "urls": [
         {
           "sign": "6df3b63319787265a28954a624123b785f043522f851595544aab695061f1e3a",
@@ -13487,11 +13404,9 @@
           ]
         }
       ],
-      "title": "Tilastokeskuksen tarkennetut luvut: Suomen talous kasvoi huhti–kesäkuussa 0,4 prosenttia",
+      "title": "Tilastokeskuksen tarkennetut tiedot: Suomen talouskasvu jäi huhti–kesäkuussa ennakoitua heikommaksi",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13528,6 +13443,85 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T05:29:19Z",
+      "urls": [
+        {
+          "sign": "504eb345f0a6e97fb47937a2072ea0c2774819b8f24002162dab4c662e6fe8ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "JYPin päävalmentaja Petri Matikainen vaatii itseltään parannusta edelliskauden pudotuspelitappion jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T05:26:35Z",
+      "urls": [
+        {
+          "sign": "b0002d0c183bb0ac8d0107b9695b29fc4c27e5094270fe2449d7a41c32788d68",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zürichin Timanttiliigassa nähtiin kaksi maailmanennätystä ja Ilona Mononen juoksi 3 000 metrin esteissä ajan 9.17,50",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T05:18:27Z",
+      "urls": [
+        {
+          "sign": "bee21d6e293c4831736c9aae3e06087f3f6a4153ee5ec924ba95919b7d9a5b2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii henkirikosta Vantaan Martinlaaksossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T05:27:03Z",
+      "urls": [
+        {
+          "sign": "4b737b70240e0fcfab0a2e0cfad0a5bca8888ae3a1dcce4dada16a18026ebf0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuningas Haraldin terveydentila pysyy erittäin vakavana – kruununprinssi Haakon toimii sijaishallitsijana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T05:15:59Z",
+      "urls": [
+        {
+          "sign": "5c62131c4ed80eaa32c24acc0ac3d96773f036bfec709d6110b0cf6efae31b73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii epäiltyä murhaa Vantaan Martinlaaksossa – uhri nuori mies",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
