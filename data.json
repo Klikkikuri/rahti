@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T21:10:28Z",
+  "updated": "2026-08-29T01:23:00+03:00",
   "entries": [
     {
       "updated": "2026-08-28T18:30:54Z",
@@ -894,23 +894,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T10:28:23Z",
-      "urls": [
-        {
-          "sign": "0479e3bfb6014e3d5b8669425c55ad7828e39ef98bfb57a16c69c447cf3674f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Evergranden perustaja Hui Ka Yan tuomittiin elinkautiseen vankeuteen Kiinan asuntomarkkinoiden romahduksen myötä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-26T13:22:00+03:00",
@@ -5040,21 +5023,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T11:54:03Z",
-      "urls": [
-        {
-          "sign": "4e68066b8b6b87a70db5cdaf22e7e6abab5c06a695341d709a4722ac6fb021ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Niko Saarisen Nevahööd Oy päättyi protestilistalle 7 689 euron laskun vuoksi – Saarinen: Kirjanpito unohtui lomamatkan aikana",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T11:48:43Z",
@@ -13488,7 +13456,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-28T23:45:00+03:00",
+      "updated": "2026-08-29T01:23:00+03:00",
       "urls": [
         {
           "sign": "d403617ae44e50a408999c4d8d5c1a0ed7c33eb58cb0f9edbcf2a0e304020bc5",
@@ -13497,7 +13465,7 @@
           ]
         }
       ],
-      "title": "Poliisi etsi aikuista henkilöä Parikkalassa – IC 11 -juna myöhästyi lähes kaksi tuntia",
+      "title": "Poliisin etsintä Parikkalassa aiheutti IC 11 -junan lähes kahden tunnin myöhästymisen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13548,6 +13516,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T22:21:20Z",
+      "urls": [
+        {
+          "sign": "98d0810a47c1b7716f4fcc12a3099adbdc9f3ecdad1daee1c06401f4fff2c087",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukkosmyrsky pakotti Swedish House Mafian perumaan keikan Göteborgissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T19:03:19Z",
+      "urls": [
+        {
+          "sign": "bb90d733967393978fe4ad0160eb05bf01295f5018efc6ad3a9fbfcf95e873e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Palokunta sammutti tulipalon Kemissä rivitaloasunnossa – ei henkilövahinkoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
