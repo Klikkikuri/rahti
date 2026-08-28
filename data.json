@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T15:44:58Z",
+  "updated": "2026-08-28T19:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-28T09:15:09Z",
@@ -657,38 +657,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T09:01:00+03:00",
-      "urls": [
-        {
-          "sign": "9c09069fc655bfb4b1bada494f52b5498a051e6c0f2d928c5177476870834b56",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Sanomat esittelee viisi tapahtumavinkkiä Espoo-päivään 27.–29. elokuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T09:03:00+03:00",
-      "urls": [
-        {
-          "sign": "24cf5906aa3058ba19157ab7155886b77718ef2cbaca6551f996c734737d5c31",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-25T12:00:54Z",
@@ -1490,21 +1458,6 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T11:43:17Z",
-      "urls": [
-        {
-          "sign": "01ac767338ed1e349a2fac989f0b4de1a3444ce3c3334c6bca858b5b656833c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Komentaja Anna Eronen nousee ensi kertaa Tasavallan presidentin ensimmäiseksi adjutantiksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T11:43:24Z",
@@ -13562,6 +13515,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T19:00:00+03:00",
+      "urls": [
+        {
+          "sign": "9a5448b0ad01ae5f08de0702883511680b4f53c36b7d8633c141646ebf8ce6d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin ravintolat tarjoavat edullisempia menuja houkutellakseen asiakkaita arkisin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-28T15:49:56Z",
+      "urls": [
+        {
+          "sign": "c9ced212449e4f0ced13f677bfd018a3a671b30619e40ea1eb6119f0cd99f579",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oulun Kärpät tiedotti 1,5 miljoonan euron liiketappiosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-28T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "28172a586b83bd0c8771c120c9ed95612bb76f37e5f383aa9a5f43691013991e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mielipide: Professori Anssi Vainikka kritisoi Suomen metsätaloutta ja vaatii hallinnon ottavan tieteen tulokset käyttöön",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
