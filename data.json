@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T04:13:25Z",
+  "updated": "2026-08-28T04:21:47Z",
   "entries": [
     {
       "updated": "2026-08-28T04:01:53Z",
@@ -802,23 +802,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-25T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "91d25cdc0a6434c41d641c810f9400346ba67ced1ea71e0e949990aacd06fa13",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-25T15:33:00+03:00",
       "urls": [
         {
@@ -1082,23 +1065,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-25T15:20:11Z",
-      "urls": [
-        {
-          "sign": "969fe6b3e35989bc9779262b5a8228260d08b2ebc21095996e8365906b7b6577",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaisfanit matkustivat Lontooseen Ariana Granden konserttiin ennen tämän julkisuudesta vetäytymistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-25T19:32:00+03:00",
@@ -13524,6 +13490,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-28T04:21:47Z",
+      "urls": [
+        {
+          "sign": "2cbd0e4f112c5e6db169b7f36086633bc57b1557a8e3a502392c5b8fb9e2446e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat: Vaikka somevaikuttajia hyödynnetään, yritysten kannattaa tuoda somesen omat johtajat esiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-28T07:20:00+03:00",
+      "urls": [
+        {
+          "sign": "774ff0f4d52394492ca2e26938c7c4af1a598f0a078f67e78b5c1e5adb76b821",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan kruununprinssi Haakon yöpyi sairaalassa vakavasti sairaan kuningas Haraldin luona",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
