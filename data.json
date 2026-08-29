@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T07:59:00+03:00",
+  "updated": "2026-08-29T05:13:06Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -1154,23 +1154,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T15:22:14Z",
-      "urls": [
-        {
-          "sign": "f51e810dcefbff7fbadc2ca6400ced6600c3aea8bdb915f6e9272acf4be8eec9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rinnekodit tukee ulkopuolista selvitystä kehitysvammaisen kuolemasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T18:16:00+03:00",
@@ -5017,38 +5000,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T14:10:33Z",
-      "urls": [
-        {
-          "sign": "e78c05e184e1e89df2818c983e1ac3749e6fb5a9d38ca280fe1a81de811035a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-27T14:18:28Z",
-      "urls": [
-        {
-          "sign": "d0f427fa46ae5c784bf49add96edb1f2ea635777d2776ab0bbd5771420d0ff0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden murresanatesti haastaa lukijat tunnistamaan alueellisia kielenkäyttötapoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T14:19:16Z",
@@ -13534,6 +13485,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T05:05:00Z",
+      "urls": [
+        {
+          "sign": "4cf7553c705d2bbde1e72aa769006a6213383a3740f5b6c7c9a7be40124d170e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Julianna Jokela: Niko Saarisen kanssa kaikki hyvin, mutta aikataulut eivät ole sallineet tapaamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T05:13:06Z",
+      "urls": [
+        {
+          "sign": "88a468c0412451970b97379601e8967848ab922ad047392cc2d4a0d053476926",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ingrid Alexandra nousee kruununprinsessaksi ja vannoo valansa kuningas Haraldin kuoltua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T05:01:31Z",
+      "urls": [
+        {
+          "sign": "004d2f3d0fdab8c9be925c148502f483f8e3b53d7daa8cdf4c4ce838d88a800b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lotus Soft Embo -vessapaperirullan hylsy on nyt kierrätettävä, ei huuhdottava",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
