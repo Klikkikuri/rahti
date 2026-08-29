@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T03:25:13Z",
+  "updated": "2026-08-29T03:30:49Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -740,21 +740,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T11:10:10Z",
-      "urls": [
-        {
-          "sign": "adce6962b47f8a8efa3aec34b836cfadfd6cbc956d46c175c3d6d27572836429",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen ympäristövalvonta arvioi Blockfestin meluhaittoja vasta järjestäjien mittausraporttien valmistuttua",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T11:30:34Z",
       "urls": [
         {
@@ -766,21 +751,6 @@
       ],
       "title": "Prinssi Harry ja Meghan palaavat Britanniaan tänään, yksityishenkilöinä",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T11:15:32Z",
-      "urls": [
-        {
-          "sign": "4d79a0e8a1afc6f3c71fb0cb534bc1d7a9812899cbfb37b730cca8cac57d92ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kantritähti Dolly Parton on kuollut syöpään; hän toivoi pieniä hautajaisia",
-      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5070,21 +5040,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T13:41:22Z",
-      "urls": [
-        {
-          "sign": "26736aa0ecc68e9655643b62bc023fe1bac47080511820b0a44885963ea7069f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkomaankauppaministeri Tavio lopettaa UNRWA:n rahoituksen, Vihreiden Hopsu pitää päätöstä vastuuttomana",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T16:36:00+03:00",
@@ -13520,6 +13475,57 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T03:00:35Z",
+      "urls": [
+        {
+          "sign": "840cb96d1c4d7c55c294983d6482a69fa6bf69ed4ae6a2b8179ea14a7b858879",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi ehdotti Israelille kymmenvuotista puolustusmateriaaliyhteistyön jatkoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T03:30:35Z",
+      "urls": [
+        {
+          "sign": "7f923153b9e1aa5677cd47e06300648253bcf55091da27a09001a127a9626def",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen talous kasvoi 0,4 % toisella vuosineljänneksellä – ekonomisti ennustaa kahden prosentin vuosikasvua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T03:30:49Z",
+      "urls": [
+        {
+          "sign": "1bee48785e1fe0a84fc5475bc256eff13aa6b695650bdbfe5c8ced596dc7ca33",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
