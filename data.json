@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-28T23:40:40Z",
+  "updated": "2026-08-29T00:42:11Z",
   "entries": [
     {
       "updated": "2026-08-28T18:30:54Z",
@@ -832,23 +832,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T10:42:59Z",
-      "urls": [
-        {
-          "sign": "aae69f5db9b9c14d666fc60e057406c77cba30c7a703ec8f142e2af0b3897a5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kauhava kokeilee koulumatkaliikuntaa – koulukuljetuksen oppilaat kävelevät viimeiset 400 metriä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T11:30:34Z",
       "urls": [
         {
@@ -990,23 +973,6 @@
       "title": "Jäätikön sortuma aiheutti tuhoisan tulvan Nepalissa ja Tiibetissä – satoja kuollut ja kateissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "e894fc3d063d33bac46dc92729c02029cf09e3752a8b7883ca389c0c40a9129f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Metsänomistajajärjestöt: Sikarutto lamauttaa kaakkoissuomalaisen metsätalouden, vaativat nopeampaa torjuntaa ja korvauksia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13552,6 +13518,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T03:01:00+03:00",
+      "urls": [
+        {
+          "sign": "8ee3a87e159045a1b089b308a2035de784f02f2036d25fccc8436c41daa3acb0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hakkerit vaativat Berliiniltä 30 bitcoinia lunnasta varastettujen tietojen vuoksi, kaupunki kieltäytyy maksamaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T00:42:11Z",
+      "urls": [
+        {
+          "sign": "0ba1cd55a0a4fe271a62de7fcb4d1dc04b1ca07166e3d8d74d79bb25b4c5d8c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin mukaan USA saisi sopimuksella hallintaansa suuresta osasta Venezuelan öljyvaroja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
