@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T08:27:27Z",
+  "updated": "2026-08-29T08:42:43Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -970,21 +970,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T18:32:00+03:00",
-      "urls": [
-        {
-          "sign": "702659ee7c14134562d7a23045ab4f30375fbfd35d5ac47147b944a27f8a3508",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Gazprom-areena kieltäytyi Kanye Westin konsertista Pietarissa järjestelyongelmien vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-26T18:35:00+03:00",
@@ -13070,7 +13055,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-29T06:49:01Z",
+      "updated": "2026-08-29T08:42:43Z",
       "urls": [
         {
           "sign": "e5951e9d3e8783ff7af3068aaf075f8993742f8d57ae8988f88880fb88afc2a7",
@@ -13079,8 +13064,8 @@
           ]
         }
       ],
-      "title": "Bubs‑karkkikaupan avajaiset aiheuttivat massiivisen jonon Helsingin Keskuskadulle lauantaiaamuna",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Bubs‑karkkikaupan avajaiset houkuttivat satoja ihmisiä jonoon Helsingin Keskuskadulle lauantaiaamuna",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13547,6 +13532,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T11:34:00+03:00",
+      "urls": [
+        {
+          "sign": "d4fca8e6429e9702d4827746cd7e52292793cf381872e1db8c467b4b39e214ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
