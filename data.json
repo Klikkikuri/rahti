@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T15:28:15Z",
+  "updated": "2026-08-29T15:41:51Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -744,38 +744,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T16:58:13Z",
-      "urls": [
-        {
-          "sign": "3b30813551eb2f7035a70ad3c510d417c2524fee39485de3b67c7471a4f5e6a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Loimaalainen viljelijä Niilo Salo kehittää ilmastokestäviä siemenviljoja – sadonkorjuu etenee odotusten mukaisesti",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T16:55:07Z",
-      "urls": [
-        {
-          "sign": "f4f2a64fc70c93eadf00f7abb97fbb93a0825573d01af18397ea9f08f299b093",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prinsessa Märtha Louisen puoliso sai onnistuneen munuaisensiirron Oslon yliopistosairaalassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-28T14:18:00+03:00",
@@ -1523,23 +1491,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T06:50:58Z",
-      "urls": [
-        {
-          "sign": "92c5119b15fac09baa496f3dc71b32fc2834e4703f7fe75155d1face0b93b8e3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuluttajien ja elinkeinoelämän talousluottamus koheni elokuussa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T06:52:12Z",
@@ -5735,36 +5686,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-28T06:50:45Z",
-      "urls": [
-        {
-          "sign": "010acd75098f7eaa0e26f56683908606d44f8e3621da2353f616cd2ef4c524c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kruununprinssi Haakon nousee valtaistuimelle Haraldin kuoleman jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-28T06:49:02Z",
-      "urls": [
-        {
-          "sign": "da9eb0bc2e7521832576855899610459c68e293ff1218f2b8e0e93080384b608",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltalainen Masai Russell rikkoi naisten 100 metrin aitajuoksun maailmanennätyksen Zürichissä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T06:50:46Z",
       "urls": [
         {
@@ -5824,23 +5745,6 @@
       "title": "Jäätikköromahdus mursi luonnonpadon Himalajalla, viranomaiset evakuoivat alueen nopeiden tulvien vuoksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-28T06:50:39Z",
-      "urls": [
-        {
-          "sign": "c04adc2569aa212e19d6d53c2f9f932e6d6a76c5dc0d0131336a1d02cf3dbba4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13033,7 +12937,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-29T15:11:58Z",
+      "updated": "2026-08-29T15:41:51Z",
       "urls": [
         {
           "sign": "ff14f16d0232113a2b0dd26b8348ea691e97208a95eae82a5a0c22e975b8e299",
@@ -13042,9 +12946,11 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Suomi–Ruotsi-yleisurheilumaaottelua Helsingissä – katso aikataulu",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
+      "title": "Iltalehti seuraa Suomi–Ruotsi-yleisurheilumaaottelua Helsingissä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13565,6 +13471,104 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T15:32:35Z",
+      "urls": [
+        {
+          "sign": "42d87d555ceefd03e3e3bb3d44d770cb7d783d840d2510ac2f84743340d313a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainasta Suomeen paennut Yehor Tereshchenko johtaa tekoälydroonia kehittävää startupia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T15:36:00Z",
+      "urls": [
+        {
+          "sign": "7bbc2bfdadce55fc80745fac92984ff0571b604fb9348f2d6857705034895a1b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HSL Looks -muotinäytös aiheutti valtavan tungoksen Helsingin päärautatieasemalla lauantaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T15:40:34Z",
+      "urls": [
+        {
+          "sign": "c0c7927e6fc56aeffcc65f0e31156ff812ca1cf55bfd79dffa153ba95ff95e26",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Martina Aitolehti ei astu kehään alle sadan tonnin korvauksella – kohtaa Nanna Karalahden Immu Fight Nightissa 12. syyskuuta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T14:25:19Z",
+      "urls": [
+        {
+          "sign": "ec813ebeb6e7b8999895ae6ddfe7f1ba9543b1f05c4e282bea1f49ddc3a1ce3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itä-Uudenmaan poliisi: Sipoonkorvessa lauantaina kadonnut mies löytyi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T15:30:00Z",
+      "urls": [
+        {
+          "sign": "8fdfe494fffc9e3fa38f328d8d6b157dd39205d9e2acac0b0877fd36d408aa22",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vappu Pimiä on kertonut uuden TTK‑juontajan vain aviomiehelleen – julkistus elokuun lopussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T15:40:47Z",
+      "urls": [
+        {
+          "sign": "359234131d0f43911330024f32f310326b08d19f53315c10e18ef8d5ebcb7cd9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä ei nostanut syytteitä irakilaiskaksosille supposed Supo‑iskun suunnittelusta elokuussa 2023",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
