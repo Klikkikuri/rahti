@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T19:35:55Z",
+  "updated": "2026-08-29T19:53:37Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -1686,21 +1686,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T08:52:40Z",
-      "urls": [
-        {
-          "sign": "14af006c19edf41cb6ddc2dd79100093459e5e4e0b32eb3db582f2275282186c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Seela Sella on sairaalahoidossa kivun vuoksi – seuraava teatteriesitys perutaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T15:09:00+03:00",
@@ -5311,21 +5296,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-28T10:08:05Z",
-      "urls": [
-        {
-          "sign": "1c20c78a9831cd72377c5f8c41c09f2401c8025c48747eeb24b6d4f7551f0aea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen presidentti ja eurooppalaiset hallitsijat osoittavat surunsa Norjan kuningas Haraldin kuolemasta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T07:01:39Z",
       "urls": [
         {
@@ -6154,21 +6124,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-28T10:12:59Z",
-      "urls": [
-        {
-          "sign": "589798c3a86750d932f660b4aa7edd088021ddeb273c2e393c6a3340b6bc6066",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hali ja Soste: Valtionavustusten leikkaukset voivat johtaa 40 prosentin sote-järjestöjen toiminnan lakkauttamiseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T10:08:59Z",
@@ -11532,7 +11487,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-29T18:53:29Z",
+      "updated": "2026-08-29T19:51:31Z",
       "urls": [
         {
           "sign": "a8e1012c7816f21a66ee8cdc25816b41f079ab7587757e28902fe4eaaf964ce5",
@@ -11541,9 +11496,11 @@
           ]
         }
       ],
-      "title": "Sami Pajari johtaa Paraguayn MM-rallia avauspäivän jälkeen",
+      "title": "Sami Pajari vahvisti johtoaan Paraguayn MM-rallin avauspäivänä – ero Paddoniin 27,6 sekuntia",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13556,6 +13513,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T19:53:37Z",
+      "urls": [
+        {
+          "sign": "6785aafbaa628d3d45a078425c5c834808878be2d97ac5f312d16edd23a8ed77",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mustafe Muuse harkitsee siirtymistä ratajuoksusta maantiekisoihin ja aikoo rahoittaa uraansa puhujakeikoilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T19:48:21Z",
+      "urls": [
+        {
+          "sign": "9c8cdb39469d4e1ece4d43a73907df25e4ed4b53fa4dacaabcbe3c33b1a161a3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Gladys Knightin outo käytös Hollywood Bowlissa sai yleisön poistumaan keikalta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T19:50:17Z",
+      "urls": [
+        {
+          "sign": "c23bf1cfd6cf69928d385832196eb0877174f13db097921398f113e539312c73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fourmaux ajoi nopeimman ajan EK 15:ssä, kavensi eroa Elfyn Evansiin – Pajari johtaa Paraguayn MM-rallia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
