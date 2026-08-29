@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T02:00:00+03:00",
+  "updated": "2026-08-29T23:28:57Z",
   "entries": [
     {
       "updated": "2026-08-29T20:41:37Z",
@@ -1347,23 +1347,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-27T11:36:00+03:00",
-      "urls": [
-        {
-          "sign": "f2a1cf95a4b066c148bc7574b092458286200be2f55b4edf00394d1eba011a53",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-27T08:33:45Z",
@@ -5947,21 +5930,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T10:39:59Z",
-      "urls": [
-        {
-          "sign": "ed81bf6f17e6879f8f6a1c1cb8aba936651f5262254d9ed12aad3e02377a72b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen lumilautailija Henri Sankala, 44, on kuollut syöpään",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T10:32:19Z",
@@ -13564,6 +13532,36 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "378397cb11574db669b4a7b04a406fdb1598e10580a084ea95ba99a1333bbb13",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS 50 vuotta sitten: Alen voitti Suurajot, Espoossa kiisteltiin tiemaksuista ja Bergmanille myönnettiin Goethe-palkinto",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T23:28:57Z",
+      "urls": [
+        {
+          "sign": "94e2f1bb1d8a14b70ecb7922c4f99d32f8cdeee24fc8041e251f2b1ad779ce0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bild: Stubb arvioi Venäjän ei todennäköisesti hyökkäävän Nato-maata vastaan – varautuminen silti tarpeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
