@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T17:44:25Z",
+  "updated": "2026-08-29T17:56:37Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -1569,23 +1569,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T07:32:42Z",
-      "urls": [
-        {
-          "sign": "4180ff3f8134a47489e693a82e0c1b207498cf8f8a40bc4f2bdc494b0eaf506d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Joel Harkimo kertoo Huomenta Suomessa laihtuneensa yli 20 kiloa, kokeilevansa deittailua",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T17:25:00+03:00",
@@ -11955,7 +11938,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-29T14:54:10Z",
+      "updated": "2026-08-29T17:51:50Z",
       "urls": [
         {
           "sign": "a8e1012c7816f21a66ee8cdc25816b41f079ab7587757e28902fe4eaaf964ce5",
@@ -12489,7 +12472,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-29T17:21:46Z",
+      "updated": "2026-08-29T17:56:37Z",
       "urls": [
         {
           "sign": "ff14f16d0232113a2b0dd26b8348ea691e97208a95eae82a5a0c22e975b8e299",
@@ -12498,8 +12481,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Suomi–Ruotsi-yleisurheilumaaottelua Helsingissä",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Iltalehti seuraa Suomi–Ruotsi-yleisurheilumaaottelua Helsingissä – katso aikataulu",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13556,6 +13539,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T17:43:45Z",
+      "urls": [
+        {
+          "sign": "264da39e8686535973ffe2029cdd2b5e59006665ae8f625fde3d0c3540dd1839",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Krista Tervo ja Wilma Heltelä voittivat moukarin ja seivään Ruotsi-ottelussa – Suomi saavutti tuplavoiton",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
