@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T07:14:58Z",
+  "updated": "2026-08-29T10:29:00+03:00",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -890,36 +890,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9d8d163b793d1ad426042a6daa80f5dd2c49c891ec2d0448077fb30eb5ab769b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi monipuolistaa turvallisuuspolitiikkaansa liittolaisten ennustettavuuden heiketessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T17:45:00+03:00",
-      "urls": [
-        {
-          "sign": "d3326a045c717b6404a13bddd2fe06e86ac312dbdafd0deae6334828a96861eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskipohjalainen sähköyhtiö laskuttaa asiakastaan noin 2 500 eurolla mittarin kytkentävirheen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T13:13:00+03:00",
       "urls": [
         {
@@ -1385,24 +1355,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T16:56:08Z",
-      "urls": [
-        {
-          "sign": "43e4c90ce572b5b3df71070cd61d35792929fa2ae6917813ba187e8570e71e3a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kuningatar ja kruununprinsessa vierailivat sairaalahoidossa olevaa kuningas Haraldia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T14:18:00+03:00",
@@ -9019,7 +8971,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-28T09:04:09Z",
+      "updated": "2026-08-29T07:22:06Z",
       "urls": [
         {
           "sign": "641188e920838402078dbbe81293118ce70bc32b9f181f96f71eadd7d16820ba",
@@ -9028,8 +8980,8 @@
           ]
         }
       ],
-      "title": "Meteorologi Liisa Rintaniemi: Viikonlopun lämpötilojen jälkeen sadealue saapuu Suomeen lännestä",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Elokuun sademäärät vaihtelevat Suomessa – joissakin osissa vettä on tullut kaksinkertaisesti normaalia, joissakin vain kymmenesosa",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13546,6 +13498,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T10:29:00+03:00",
+      "urls": [
+        {
+          "sign": "2d3033c23c64a7bd7d2e21dc7f659c07f945d3488acc1fae94c20f8cdf81e96a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimien komentaja Jaakkola: Ruotsin joukot Suomessa kertovat uudesta turvallisuusnormaalista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T10:15:00+03:00",
+      "urls": [
+        {
+          "sign": "7a2128926ccd36aae5b3b8826ca48671fe32b689d8ed9651ba167596d6bcb6e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mökkiläiset kritisoivat avohakkuita vapaa-ajan asuntojen ympärillä ja vaativat metsälainsäädännön uudistusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T07:06:05Z",
+      "urls": [
+        {
+          "sign": "4b186616812ddab744986805d0abd4cf0a915c7d800f235a8090c1018405d084",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toyota varustaa autonsa snorkkelilla Paraguayn MM-rallin sateisiin, Hyundai ei tee vastaavia muutoksia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
