@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T02:49:00Z",
+  "updated": "2026-08-29T03:07:55Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -4803,24 +4803,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T12:44:17Z",
-      "urls": [
-        {
-          "sign": "6aa9c563e02549e3676756c43516d24fa310f4d60819181ee277e59a69db500c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuusulan mopokiilauksen esitutkinta valmis: Syyttäjä harkitsee syytettä 15-vuotiaalle, poliisia tutkitaan virkavelvollisuudesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T15:08:00+03:00",
       "urls": [
         {
@@ -4900,21 +4882,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T12:35:00Z",
-      "urls": [
-        {
-          "sign": "892fe36f4719c50d2bd37334082bf6b245db588eeca2eb7e582b8088fde89a91",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuomittu sotarikollinen Ratko Mladić on kuollut 84-vuotiaana",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T12:46:16Z",
@@ -13520,6 +13487,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T03:07:55Z",
+      "urls": [
+        {
+          "sign": "7751ca736ea9fa2d81f4aed1f21de7914d613176f55627dc7385bb636db372db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T03:00:53Z",
+      "urls": [
+        {
+          "sign": "8f7e9d34b32f30bd1679fbe9e974af52209a5f5f51bb379cf86dee3cf939e219",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entiset poliisit kritisoivat Tuusulan mopomiittitapausta ja kyseenalaistavat kokemattoman poliisin yksin lähettämisen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
