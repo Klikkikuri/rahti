@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T03:07:55Z",
+  "updated": "2026-08-29T03:25:13Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -1154,21 +1154,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T14:02:00Z",
-      "urls": [
-        {
-          "sign": "6a56250709edb4f5f7c258ff48b4c67d356b116b19a7635be956c2bc6e1ca53b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liittovaltion tuomari kumosi Teksasin drag-esitysten kieltävän lain perustuslain vastaiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-26T17:10:00+03:00",
       "urls": [
         {
@@ -1197,23 +1182,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T14:17:59Z",
-      "urls": [
-        {
-          "sign": "e372f72794a3d730a1834eee5e77893834fcc8bbac4901eac11cdd3f1f18db67",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meta maksaa 17 miljardin dollarin sovintokorvaukset, lupaa palvelumuutoksia lastensuojelun vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T14:24:31Z",
@@ -4959,21 +4927,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T13:07:46Z",
-      "urls": [
-        {
-          "sign": "9728c7a07ed702607399cea8b881a30c5ebd96176e30aaf25219e2aac68ad4a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Martina Aitolehti kertoo Instagramissa saavansa kuusinumeroisen palkkion syyskuun nyrkkeilyottelusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T13:09:31Z",
@@ -13519,6 +13472,54 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T03:00:00Z",
+      "urls": [
+        {
+          "sign": "a23f13dc05b0e4a3e46952782686fd6ede7601b294db929d8fc27627df20495c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksa suunnittelee 35 miljardin euron avaruuspuolustusinvestoinnit – suomalaisyrityksille avautuu uusia mahdollisuuksia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T02:46:50Z",
+      "urls": [
+        {
+          "sign": "3460d65a968d4e206dc69c87084804e7ca2559e3abf71c90974c4c0e30138442",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa kovasta tuulesta ja korkeasta aallokosta merialueilla elokuun viimeisenä viikonloppuna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T03:25:13Z",
+      "urls": [
+        {
+          "sign": "de3d02d4b2c7cf4c84324d69da960698cdf9d8930fc2a5f7416ba3c1a15833fb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin mukaan Yhdysvallat sai Venezuelan öljyvarannoista 65 miljardia barrelia hallintaansa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
