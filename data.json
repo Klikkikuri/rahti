@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T06:43:00Z",
+  "updated": "2026-08-29T06:49:01Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -5174,21 +5174,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T16:11:56Z",
-      "urls": [
-        {
-          "sign": "3468766eda5fd8e213bd38075c0dd0c53d8fd2dc8ff2b7e75deb0e63ca5bb166",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin poliisi pidätti kaksi aktivistia Viking Cinderellan mielenilmaisusta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T15:43:11Z",
       "urls": [
         {
@@ -5269,21 +5254,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T16:11:04Z",
-      "urls": [
-        {
-          "sign": "499936cebb588f874cfd87d7522aad35547ee1530238d7b44ef1228bf70f565c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vasemmistoliiton veronkiristykset herättivät kritiikkiä – pääkirjoitus suosittaa menoleikkauksia ennen laajoja verokantoja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T16:08:35Z",
@@ -10815,7 +10785,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-28T17:06:00+03:00",
+      "updated": "2026-08-29T09:46:00+03:00",
       "urls": [
         {
           "sign": "1e31c4205c3059698c055a6259ca919ddddcec78db283fd2b341f6a38a0f10ec",
@@ -13538,6 +13508,38 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T06:49:01Z",
+      "urls": [
+        {
+          "sign": "e5951e9d3e8783ff7af3068aaf075f8993742f8d57ae8988f88880fb88afc2a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bubs‑karkkikaupan avajaiset aiheuttivat massiivisen jonon Helsingin Keskuskadulle lauantaiaamuna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T06:37:30Z",
+      "urls": [
+        {
+          "sign": "18ebd5c0507c950019b985ca88ea58936864c5ef1dc5178b6af9794acc43a9fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sarah Ferguson muuttaa takaisin Britanniaan – vuokraa Lontoon lähialueelta yli 11 000 euroa kuukaudessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
