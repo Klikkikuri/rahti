@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T07:43:49Z",
+  "updated": "2026-08-29T10:57:00+03:00",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -954,21 +954,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T18:09:00+03:00",
-      "urls": [
-        {
-          "sign": "1bbb1b8e068cd1643d9a864d54785c4f2c32b5debd1199be3259b4011ce5f900",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meta sopii Yhdysvaltain oikeuskiistoista: Alaikäisille rajoitetaan Instagramin ja Facebookin käyttöä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-26T15:25:46Z",
@@ -5291,21 +5276,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T17:36:12Z",
-      "urls": [
-        {
-          "sign": "6a93d45c6c55aca4cc9d01a330630502dc628a4f38774a0a9afcab3e4d41d938",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Analyysi: Perussuomalaisten kannatusnousu ja Purran vahva asema kiristävät painetta kokoomukselle",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T17:00:00Z",
@@ -13406,7 +13376,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-29T10:29:00+03:00",
+      "updated": "2026-08-29T10:57:00+03:00",
       "urls": [
         {
           "sign": "2d3033c23c64a7bd7d2e21dc7f659c07f945d3488acc1fae94c20f8cdf81e96a",
@@ -13415,7 +13385,7 @@
           ]
         }
       ],
-      "title": "Puolustusvoimien komentaja Jaakkola: Ruotsin joukot Suomessa kertovat uudesta turvallisuusnormaalista",
+      "title": "Puolustusvoimien komentaja Janne Jaakkola: Ruotsin joukot Suomessa kertovat uudesta normaalista",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13550,6 +13520,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T07:46:23Z",
+      "urls": [
+        {
+          "sign": "908e4a1b787127665986c12406eb41560899040065fc7692eb2849b7e62ab6b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lätkäpodin asiantuntijat pohtivat Hartikaisen kuntoa, Piitulaisen johtajuutta ja Kiekko-Espoon tilannetta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T10:46:00+03:00",
+      "urls": [
+        {
+          "sign": "0b499fab6853e14433fc34129cf5b95f2c08d04a610291f0c2358977d7e30402",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain maahanmuuttovirasto ICE pidätti Milo Yiannopoulosin Louisianassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
