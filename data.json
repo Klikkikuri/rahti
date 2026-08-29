@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T10:29:00+03:00",
+  "updated": "2026-08-29T07:43:49Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -708,36 +708,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T12:44:45Z",
-      "urls": [
-        {
-          "sign": "7ce90042848fc430c82fe23c8cd1b3b9b501a2b162de471b07f7630fe75aaa74",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dokumentti seuraa maratonjuoksija Alisa Vainiota kohti Los Angelesin olympialaisia 2028",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T18:05:00+03:00",
-      "urls": [
-        {
-          "sign": "627b1bf3f9731a5cce08ef68363d05121441989e22fb941e39218b21281f7245",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovioikeus jatkaa Janne Puhakan tapetta – Syyttäjä vaatii murhatuomiota, Nordmo myöntää teon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-26T12:57:39Z",
       "urls": [
         {
@@ -1372,21 +1342,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T17:10:53Z",
-      "urls": [
-        {
-          "sign": "c7feb719b1c91c9342d4ff5a9f15eef8e898665b9fccca986e9083ef5bcad7c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtiovarainministeri Purra haluaa puuttua ulkomailta tilatun alkoholin verovajeeseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T20:09:00+03:00",
@@ -5291,21 +5246,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-27T16:49:31Z",
-      "urls": [
-        {
-          "sign": "5b02d5384b44338c7c79d57ddca77a9879d37bd33e253b5b63976a8f8cd16326",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirja: Markku Toikka paljastaa elämäkerrassaan menneet suhteensa ja lyhyen avioliiton",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-27T16:58:26Z",
       "urls": [
         {
@@ -5351,23 +5291,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T17:13:07Z",
-      "urls": [
-        {
-          "sign": "e0a3b3d53669664be205a33b26a985c3367e69adb421b9233b7f95d17bac0ffb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Check Point estää velkahelpotushuijauskampanjan, joka ohjaa uhreja soittamaan rikollisille ilman haitallisia linkkejä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T17:36:12Z",
@@ -5481,23 +5404,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T17:15:51Z",
-      "urls": [
-        {
-          "sign": "60bf89d0f54b4d8983d56f9ebab1f4997e6bf63caa730fc27062aa3900bf33ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T17:41:59Z",
@@ -13546,6 +13452,103 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T07:38:26Z",
+      "urls": [
+        {
+          "sign": "bac8cc7a163326abee93f675f0e22d9a54a200e30629a7bdc100ce5a183c3ff3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsi lähettää Gripen-hävittäjiä ja Visby-luokan korvetteja Suomeen vahvistaakseen alueellisen koskemattomuuden valvontaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T07:30:17Z",
+      "urls": [
+        {
+          "sign": "ffbdb6624b5e1e218c430147d5322ee36a4fcfdda34d560c926ef182f1ce57c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi ruumiskoiraa merkitsi Mika Moringin auton takakontin joulukuussa 2019 – poliisi tutki Saara Arvan katoamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T10:36:00+03:00",
+      "urls": [
+        {
+          "sign": "d4e94edab564065943001ce194b557c2ad1c071a3b071783cd7b58e951618422",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii Lauttasaaresta vedestä löytynyttä ruumista – henkilöllisyys vielä epäselvä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T07:33:38Z",
+      "urls": [
+        {
+          "sign": "1ecdeebc3d778db2327ead8c6ed2d8a23e44c13f87897ae7014914afd79c0496",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Riku Huttunen myöntää Ihan oikeesti -podcastissa harrastaneensa seksiä taksinkuljettajan kanssa ajon aikana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T07:43:49Z",
+      "urls": [
+        {
+          "sign": "d148c0871b6829b2e3fd15c7be59334d78512bcdc03ebd57886d24e1dfd56fce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimain komentaja Janne Jaakkola korostaa Suomen-Israelin puolustusyhteistyön arvoa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T07:32:40Z",
+      "urls": [
+        {
+          "sign": "2bbeb07be499d52dafe039816dd89b27b20317ce1f192c053686cd108fcb4211",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi ja Israel sopivat kymmenvuotisesta sotakalustoyhteistyöstä – tieto jäi julkisuudesta Gazan sodan aikana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
