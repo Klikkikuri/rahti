@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T15:14:00Z",
+  "updated": "2026-08-29T15:28:15Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -746,23 +746,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T16:35:20Z",
-      "urls": [
-        {
-          "sign": "18f15e34df6524674b2a5bc2f2e7455096187fdef87002b52d094580798ee7c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nepalin äkkitulvan aiheutti pienimuotoinen maanjäristys, kertoo Helsingin yliopiston seismologi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T16:58:13Z",
       "urls": [
         {
@@ -974,21 +957,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T02:35:00+03:00",
-      "urls": [
-        {
-          "sign": "b09ad88b342b012c7727f7c52bca68d27d038a0103afff1c2af1564427242853",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Belgian perunanviljelijät varoittavat äärimmäisen sään uhkaavan ranskalaisten valmistusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1491,23 +1459,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-27T06:21:14Z",
-      "urls": [
-        {
-          "sign": "4e4986ddcb364e2278738b5697b21f263e3f6aba97a600af1fc13f95b3830e4a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miley Cyrus julkaisee Instagramissa muistijulkaisun kummitädiltään Dolly Partonilta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T06:28:26Z",
@@ -5827,21 +5778,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-28T06:46:38Z",
-      "urls": [
-        {
-          "sign": "57339e45b28ed76c4627dd2c38766b23f2fb13e6d94caaf33ecc12004e0c002a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen bruttokansantuote kasvoi toisella neljänneksellä 0,4 prosenttia – ekonomistit luonnehtivat tarkistettua lukua pettymykseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T09:51:00+03:00",
@@ -13565,6 +13501,70 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T15:28:15Z",
+      "urls": [
+        {
+          "sign": "1c18d3041b13f1d6872f293757bca07e957f45d319297f8fc571e34be9dffa6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pariskunta sai sakot seksistä Hervannan Keinupuistossa – lapset todistivat tilanteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T18:15:00+03:00",
+      "urls": [
+        {
+          "sign": "53aa1d92563b4a59105a15aecd7c06e81fd258e594a5a30a82f524a2684fd30b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T14:59:25Z",
+      "urls": [
+        {
+          "sign": "bc41af877b2f260e05ea8a8690a2b7150c9be3badea2c10d6c67f7c72ed7b7b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Epätietoisuus tulvan uhreista painaa Kathmandussa – Ylen kirjeenvaihtaja raportoi tilanteesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T11:13:41Z",
+      "urls": [
+        {
+          "sign": "873f5ae43d1cc7348c7725caf3a5c3dc3a3729171aa5f1ae36095771a1d8d519",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee henkilöä yleisvaaran tuottamuksesta rivitalon terassipalon syttymisestä Kemin Peurasaaressa perjantai-iltana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
