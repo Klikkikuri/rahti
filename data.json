@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T03:30:49Z",
+  "updated": "2026-08-29T07:00:00+03:00",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -755,21 +755,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-26T11:19:56Z",
-      "urls": [
-        {
-          "sign": "1f2f58f4fcd2c0140c24568a3093cd159544caf55c53f250e8502e43a493d5ea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee tuhotyötä Kuopion autotallipalossa – vainaja löytyi autosta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T11:44:59Z",
       "urls": [
         {
@@ -867,21 +852,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T15:01:00+03:00",
-      "urls": [
-        {
-          "sign": "ab81fd5025e7d690ef52c9bcf4bdc57f9e6004e90c9dcd94cbbeb8e0553a1f7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "BBC: Harry ja Meghan saapuvat Britanniaan tänään – perhe suunnittelee muuttoa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-26T12:03:32Z",
@@ -1186,38 +1156,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T14:37:00Z",
-      "urls": [
-        {
-          "sign": "786c64a27017f6636dd21068b1bb7e2074464704220ebcc3f29b3ff20cf578b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Scandic: Matkatavaravarkauksissa asiakas vastaa säilytykseen jättämästään omaisuudesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T14:31:04Z",
-      "urls": [
-        {
-          "sign": "f1080cce3ec32b9ee49e17ee2ef7f89328b8991fb1d2cdf5415a497790b85424",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranilainen kehonrakentaja Hadi Choopan vetäytyy Mr. Olympia 2026 -kilpailusta viisumiongelmien vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T14:38:03Z",
@@ -5070,21 +5008,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T13:44:31Z",
-      "urls": [
-        {
-          "sign": "ff78e028dc23494d875de34bc76b55207af9061a3f7c7fdd624e4f2d2f133c3b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos: Sää muuttuu viikonloppuna epävakaaksi, sateiseksi ja viileämmäksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T13:39:00Z",
@@ -13526,6 +13449,89 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T03:56:00Z",
+      "urls": [
+        {
+          "sign": "7e25f02e3828f3cc907c219fa01b02a076369714ba89f38a942b7ea96618fa07",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liigaviikon asiantuntijat nimeävät JYPin hyökkäyksen SM-liigan superkauden parhaaksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "4c0989a0c861f08403e0064355b7d3181d15b3fa5cbfeb314b8aa28c61f128b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T03:30:18Z",
+      "urls": [
+        {
+          "sign": "17b847dce73267af07d081b83b8e884218f262c5e824339e9c16f3013eba0723",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Prinssi Harry hakee turvallisuustasonsa palauttamista – sisäministeriö tilannut uuden uhka-arvioinnin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T03:45:35Z",
+      "urls": [
+        {
+          "sign": "9386289d0873b349bac39d06b8dd8265603a8861159853d4f592c710fd3c4c0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Amani Al-mehsenin kolumni kertoo vihapuheen estävän naisten osallistumisen politiikkaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T03:59:00Z",
+      "urls": [
+        {
+          "sign": "8e3111985c9dc0d92fa7de1c3a275a64b342a23964ea183f0e08e85a3d4c33d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maria Ehnqvist käytti pastakauhaa puolukoiden poimintaan – 10 litraa puolessa tunnissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
