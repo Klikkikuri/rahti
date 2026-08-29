@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T05:13:06Z",
+  "updated": "2026-08-29T05:14:44Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -708,24 +708,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T11:44:59Z",
-      "urls": [
-        {
-          "sign": "cf62ecbfee6d0e20058c43b0ef6f39f036eddd4d1d0f82549ab42dbc1cd674c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T11:55:52Z",
       "urls": [
         {
@@ -1271,21 +1253,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T15:28:40Z",
-      "urls": [
-        {
-          "sign": "35d0e53e8791d80846bba68681650f1f9fc1f9a951423c27dd3132ae59e7ee6f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Samuel Pökälä voitti pyöräsuunnistuksen MM-kultaa, Miika Nurmi hopealle ja Ruska Saarela pronssille",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-26T18:35:00+03:00",
       "urls": [
         {
@@ -1301,23 +1268,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T15:50:23Z",
-      "urls": [
-        {
-          "sign": "210b7750a366f95c0fc66409e74c8a8b35bc432dfb4ed4cc096e7e62f368caab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mikkelin Jukurit solmi Elias Ruusun ja Elias Koposen kanssa pelaajasopimukset – Patrik Satosaari ei jatka",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T15:55:10Z",
@@ -1411,23 +1361,6 @@
         }
       ],
       "title": "Paula Joukanen ja Nacho elävät etäsuhteessa Yhdysvaltojen ja Suomen välillä käytännön syiden vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-26T15:45:00Z",
-      "urls": [
-        {
-          "sign": "742164737fa3662e63be78e6414e13b0ef6b83e081e6159fd1ffa6458f5f5f07",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Työsuojeluasiantuntija Päivi Laakso listaa psykososiaalisen kuormituksen varoitusmerkit ja kehottaa puuttumaan niihin ajoissa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13532,6 +13465,70 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T04:32:00Z",
+      "urls": [
+        {
+          "sign": "6425f4c5e869f549859619c51c9b4a4433a7288529ed5788a9cdfd0f76efe82e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Abdoulaye Kone siirtyy AC Oulusta Belgian Westerloon – seura saa merkittävän siirtokorvauksen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T04:30:48Z",
+      "urls": [
+        {
+          "sign": "8d395fd7566c6e6b285564aa5568e8a88eace828d06f2755cfbc0af58147a854",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Islannissa äänestetään tänään EU:n jäsenyysneuvottelujen uudelleen aloittamisesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T05:00:35Z",
+      "urls": [
+        {
+          "sign": "6620604ec3b6ed732e8002514b2682c3874d21eac7e0614adddbe4f9a9f5cebc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäili yli 60‑vuotiasta miestä Piia Ristikankareen murhasta ja kuunteli hänen puhelintaan 2003 ja 2007",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T05:14:44Z",
+      "urls": [
+        {
+          "sign": "1dc2b5fbf610b74252a55678923e20d5b57d09b489571d8643607764ab575cda",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nepalin ja Tiibetin tulvat ovat vaatineet satoja kuolleita ja johtaneet tuhansien katoamiseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
