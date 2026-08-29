@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T19:55:00+03:00",
+  "updated": "2026-08-29T17:13:57Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -1149,21 +1149,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T08:57:00+03:00",
-      "urls": [
-        {
-          "sign": "8800850c992e1df8059d06689c7b1aa41079055822b3f590dc57d90b78f85cad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Japanilainen nykytaiteilija Yayoi Kusama on kuollut 97-vuotiaana",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T05:03:25Z",
       "urls": [
         {
@@ -1263,23 +1248,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-27T07:29:40Z",
-      "urls": [
-        {
-          "sign": "0f42c098ec7017dafc6e5c865a548bec7766ad4814246c2031304ea6a1dea190",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä-Savon käräjäoikeus kuulee loppulausunnot 19-vuotiaan tukiperheenmurhasta – Puolustus vaatii tappotuomiota, syyttäjä elinkautista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T06:13:46Z",
@@ -12634,7 +12602,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-29T16:17:45Z",
+      "updated": "2026-08-29T17:13:57Z",
       "urls": [
         {
           "sign": "ff14f16d0232113a2b0dd26b8348ea691e97208a95eae82a5a0c22e975b8e299",
@@ -12643,7 +12611,7 @@
           ]
         }
       ],
-      "title": "Alisa Vainio voitti naisten 10 000 metrillä Helsingin Suomi–Ruotsi-yleisurheilumaaottelussa, Janne Saarinen osoitti hellyttävää eleä suorassa lähetyksessä",
+      "title": "Iltalehti seuraa Suomi–Ruotsi-yleisurheilumaaottelua Helsingissä",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13559,6 +13527,36 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "128e82c287ee5333690702cf39b13ee899ca160f70f753f72fc63063d62b9952",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat selvittivät orjuuden uhreiden alkuperän hampaiden strontium-isotoopeista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T17:11:02Z",
+      "urls": [
+        {
+          "sign": "3216e3f88a128908853274aac48196d66f207b6780acb999ffb2ea6de9de3db3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tadej Pogacar loukkaantui vakavasti Vuelta a Espanan kahdeksannella etapilla ja joutui keskeyttämään kilpailun",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
