@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T16:11:50Z",
+  "updated": "2026-08-29T16:17:45Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -879,23 +879,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T08:35:00+03:00",
-      "urls": [
-        {
-          "sign": "6fb997cc47a394ecc735f83304693a7ce0f2da54dc137473594c0927626e194a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-28T10:29:00+03:00",
       "urls": [
         {
@@ -1555,23 +1538,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T07:20:31Z",
-      "urls": [
-        {
-          "sign": "d8e20d086ca52520759fd9ba606b941a8dc7540fd4b6f06b6826a91cbe637c65",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan hovin mukaan kuningas Haraldin vointi on heikentynyt, tila erittäin vakava",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T07:21:38Z",
@@ -5856,23 +5822,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T07:31:06Z",
-      "urls": [
-        {
-          "sign": "5aef365db8d9eb2f025fdb9bcd777e4840a70cbbf59dc874f1d8efe0bfe25268",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokaboksi avasi Helsingissä pop up -ravintolan, jossa Vappu Pimiän lounasannokset maksavat 5,99 euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T07:30:33Z",
@@ -12796,7 +12745,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-29T16:09:30Z",
+      "updated": "2026-08-29T16:17:45Z",
       "urls": [
         {
           "sign": "ff14f16d0232113a2b0dd26b8348ea691e97208a95eae82a5a0c22e975b8e299",
@@ -12805,7 +12754,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Helsingin Suomi–Ruotsi-yleisurheilumaaottelua – Alisa Vainio kärjessä, Janne Saarinen osoitti hellyttävää eleä",
+      "title": "Alisa Vainio voitti naisten 10 000 metrillä Helsingin Suomi–Ruotsi-yleisurheilumaaottelussa, Janne Saarinen osoitti hellyttävää eleä suorassa lähetyksessä",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13567,6 +13516,51 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T16:07:08Z",
+      "urls": [
+        {
+          "sign": "4e72a78ca69a2d1fa33bdf02f9a2a59a7e4db17d6aba3ecbc96f3f7bedb34548",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vasemmistoliiton Pirkanmaan piirihallituksen jäsenen X-tilillä uhkailtiin väkivallalla – puolue käynnisti jäsenyyden poistamisen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T15:55:00Z",
+      "urls": [
+        {
+          "sign": "1aba6332afdcdcb9c07bb4c46055b2289e9fffbb4c3e74905242404808f8db0b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Curiosity-mönkijän Mars-kuvassa näkyvä outo täplä johtuu kosmisen säteilyn aiheuttamasta kuvavirheestä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T19:16:00+03:00",
+      "urls": [
+        {
+          "sign": "07c6c90a03704a2bcb23e6747f91d03703eae43e538f86ebe46f183322b39811",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vimma-yhtye julkaisee neljännen albuminsa ja aloittaa Luontokiertueen – aktivismi saa henkilökohtaisen sävyn",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
