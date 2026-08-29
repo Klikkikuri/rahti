@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T08:11:49Z",
+  "updated": "2026-08-29T08:27:27Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -1322,23 +1322,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T17:19:06Z",
-      "urls": [
-        {
-          "sign": "69d1f65504dfa024c1d8009fab12639d6ef7f7955cb036db5812209fa925c601",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Kulttuurirahasto ja Svenska kulturfonden rahoittavat 1,5 miljoonalla eurolla hanketta, joka madaltaa kynnystä laulaa yhdessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T17:20:07Z",
@@ -5424,21 +5407,6 @@
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-27T17:49:52Z",
-      "urls": [
-        {
-          "sign": "9cb7cc98c97500ae1a3cee19658b185db33ed347e8c5e1a44da30347c8a52ad2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kuningas Harald hoidettu sairaalassa useamman kerran tänä vuonna – aikajana kuninkaan terveydentilan muutoksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13547,6 +13515,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T08:27:27Z",
+      "urls": [
+        {
+          "sign": "338af440cce398f357c325a92f5a951d655369ab091063225d5bf2b21dff1e0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Richard Dean Anderson tapasi faneja MetzTorii-tapahtumassa Ranskassa toukokuussa 2026",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T08:14:50Z",
+      "urls": [
+        {
+          "sign": "0a4575e384e427fd328aa7cc57a04440b5cf9f7de99249761ef13751db2eb1e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elfyn Evans kritisoi Paraguayn MM-rallin rengasongelmia pudottuaan kärkipaikalta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
