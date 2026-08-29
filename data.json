@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T02:00:35Z",
+  "updated": "2026-08-29T02:49:00Z",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -19,36 +19,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-08T03:00:55Z",
-      "urls": [
-        {
-          "sign": "153d781295fd3ac22d5b8d365ecbaca28f0c383a90badb4be8839a138d872ca5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marja Mäkinen ja Henna Puustinen julkaisivat kirjan Muumiomummot sotesotkuissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-08T03:00:40Z",
-      "urls": [
-        {
-          "sign": "99bd1764a9a80ea163cbcac287206c127d70e5427848359104928e78671dc32a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suolahden Kansantalon toimintapäivät alkavat taas – kaikille avoimet keskiviikot 12.8. alkaen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Äks"
     },
     {
       "updated": "2026-08-09T03:00:41Z",
@@ -770,21 +740,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T11:04:36Z",
-      "urls": [
-        {
-          "sign": "f542869f13690032af63442b75245f7ea67805165f2f3cbc8dc96765bcc1c8a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeri Rantanen kritisoi pääministeri Orpoa Supo-selvityksen käsittelystä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-26T11:10:10Z",
       "urls": [
         {
@@ -1227,23 +1182,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T14:02:00Z",
-      "urls": [
-        {
-          "sign": "f28a716e62c56119b3feeecf3b2c32c08411971e8f7054cbf1f442b001c9fce0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tupac Shakurin murhaoikeudenkäynnissä syyttäjät pyrkivät vahvistamaan syytetyn Duane Davisin kertomusta, puolustus kiistää sen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T17:24:00+03:00",
@@ -13543,6 +13481,40 @@
         }
       ],
       "title": "Islannissa lauantainen kansanäänestys päättää EU-jäsenyysneuvottelujen jatkamisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T02:49:00Z",
+      "urls": [
+        {
+          "sign": "733495f3a3f4551452b1c40d34e62e818b79471c2d6bd1f12f7be4cbeebdcc67",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liikenneturvan suunnittelija: Tietyömaiden ajoitus määräytyy sääolosuhteista ja työn järjestyksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-27T05:29:34Z",
+      "urls": [
+        {
+          "sign": "5f12e35a54bcbff785940767851218887dbdda51b315be1f158ce83241c75a71",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sipoon Paippisiin rakennettu hindutemppeli aiheuttaa naapureille meluhaittaa kesäilloilla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
