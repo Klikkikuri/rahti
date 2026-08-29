@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T17:22:37Z",
+  "updated": "2026-08-29T17:44:25Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -779,38 +779,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-26T19:07:28Z",
-      "urls": [
-        {
-          "sign": "dc71b44f19789dec7d1f2ad8240cde4c80c0e12f39001daf33ef3a07855f8b0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi selvitti Myllypuron drooniepäilyn: siimanjäljet veivät tutkijat leijaan kuusen latvaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T19:32:11Z",
-      "urls": [
-        {
-          "sign": "017ae489f64350763b79637b60291be37104e43d98718aa33df802866163abe1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat kehottavat puolueita löytämään kompromissin 8–11 miljardin euron budjettisopeutuksiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-27T10:12:00+03:00",
@@ -13557,6 +13525,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T17:44:25Z",
+      "urls": [
+        {
+          "sign": "246b6b9c25cdddc08cf4a048905cc13273410fe0be57455e1f9f38ac855d39d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuningas Haakon kiitti isäänsä Haraldia muistopuheessaan ja selitti mottoaan Kaikki Norjalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T17:34:09Z",
+      "urls": [
+        {
+          "sign": "ad54453bf33d080639f6521e1dd7517a9126afcbadca7c6db37d5b4ed129394f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläisviranomaiset eri mieltä Kanye Westin Pietarin konserteista – peruutus vahvistui Moskovasta tulleella puhelinsoitolla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
