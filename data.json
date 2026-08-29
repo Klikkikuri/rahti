@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T09:04:00+03:00",
+  "updated": "2026-08-29T09:29:00+03:00",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -1347,23 +1347,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T16:12:00Z",
-      "urls": [
-        {
-          "sign": "6ba2c705ea3c289bd2529c2c14fd7307cc9053f999bb303bc835664005d10e4d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hermostovalmentaja Airikka Nurmela varoittaa työelämän henkisestä ylikuormituksesta ja kehottaa yrityksiä puuttumaan tilanteeseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T19:00:00+03:00",
@@ -13072,7 +13055,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-29T07:01:00+03:00",
+      "updated": "2026-08-29T09:29:00+03:00",
       "urls": [
         {
           "sign": "20c8fe18b1ae909c2559ead494e48b92127820f66a3400abb98401aee3c6b3db",
@@ -13081,7 +13064,7 @@
           ]
         }
       ],
-      "title": "Himalajan tulvat vaikeuttavat pelastusoperaatioita uusien tulvien uhan vuoksi – yli 2 400 ihmistä kateissa",
+      "title": "Jäätikön romahdus aiheutti Himalajan tulvan – satoja kuolleita, tuhansia kateissa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13533,6 +13516,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T06:28:13Z",
+      "urls": [
+        {
+          "sign": "c6b22bbe0bd3a1e1e883340f010c3b6cef1a1bb235ec1f71ce83b73c48193e3c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Pajari johtaa Paraguayn MM-rallia avauspäivän jälkeen ja ennustaa lauantaille haastavaa päivää",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
