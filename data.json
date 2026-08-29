@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T04:04:43Z",
+  "updated": "2026-08-29T07:42:00+03:00",
   "entries": [
     {
       "updated": "2026-08-29T01:48:59Z",
@@ -661,21 +661,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-26T16:21:00+03:00",
-      "urls": [
-        {
-          "sign": "7ddc8a2e2407831733a5766eeb0513528ae4a41c2e17850531abad92c637c617",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee tahallista sytytystä Helsingin Puistolan tulipalossa – rakennus ja useat autot vaurioituivat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T15:37:00+03:00",
       "urls": [
         {
@@ -753,23 +738,6 @@
       "title": "Valkoposkihanhi ja merimetso saavat suojametsästää syyskuusta alkaen maatalous- ja kalastushaittojen vuoksi",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T11:35:36Z",
-      "urls": [
-        {
-          "sign": "dba85e8ea12ea9ad864339a6fcb7f1f50d4e29534364d7d143b43545aecb0ad7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vuodetut Grand Theft Auto VI -videot ovat aitoja – pelin hahmot ja miljöö erottuvat selvästi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -1124,23 +1092,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T14:38:03Z",
-      "urls": [
-        {
-          "sign": "ab8c5922eed98b7b4dcde4e6f0dc6b48529af873fd2d5e0760cd46a66b96bc7c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomus vaatii alle 15-vuotiaiden somekieltoa ja kritisoi perussuomalaisten linjaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-26T18:00:00+03:00",
@@ -13532,6 +13483,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T07:42:00+03:00",
+      "urls": [
+        {
+          "sign": "126c0586181c438c0a53a3935cf94d76e7dd386bf1cc7264f47ef6c23eada001",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain sotilastuomari hylkäsi Khalid Sheikh Mohammedin FBI-tunnustukset oikeudenkäynnissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T04:29:36Z",
+      "urls": [
+        {
+          "sign": "1737f16c4c58909b762670255e229ae8e46d881674c4456e94786b333af54dcd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cale Makarille kahdeksanvuotinen, 163,2 miljoonan dollarin NHL-sopimus – kaikkien aikojen suurin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T04:32:35Z",
+      "urls": [
+        {
+          "sign": "f2722b8c7dcbc7bac0493b1e64abf9cab25ab74a874141bcffc46b9eb51322c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "CTS Nordics keskeytti datakeskustyömaan Kouvolassa – omistaja sveitsiläinen miljonääri",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
