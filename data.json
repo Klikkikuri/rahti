@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T11:59:12Z",
+  "updated": "2026-08-29T12:29:02Z",
   "entries": [
     {
       "updated": "2026-08-29T11:21:39Z",
@@ -693,21 +693,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-26T22:06:00+03:00",
-      "urls": [
-        {
-          "sign": "2518a249d8a0203d4fc2117c50495990098b098523e8217200b8b4598c2276b4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jäätikön sortuma aiheutti tuhoisan tulvan Nepalissa ja Tiibetissä – satoja kuollut ja kateissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T09:08:50Z",
       "urls": [
         {
@@ -740,36 +725,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-26T15:09:18Z",
-      "urls": [
-        {
-          "sign": "90a8079c464a58ef14ae07232817e61df4fd9f061228523db254b08c8597a488",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elinkeinoelämän keskusliitto ja Valtion taloudellinen tutkimuskeskus pitävät Vasemmistoliiton veronkorotusehdotuksia toteuttamiskelvottomina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T15:13:41Z",
-      "urls": [
-        {
-          "sign": "b6a6e9b4865df3dfebf40eb9f8c0fc934bfe8dec6664e5e1c8e69b58bcec047d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anni Koivisto eroaa saamelaiskäräjiltä varhaiskasvatuksen tehtävien vuoksi, Paavo Riihitammela astuu hänen tilalleen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-26T15:15:44Z",
@@ -1101,21 +1056,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T22:37:00+03:00",
-      "urls": [
-        {
-          "sign": "7a6bbff2665117b64c8f8a88b7e91be4924e3d2e0af3e67df54fe5cbd5252b19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain mukaan kiinalaiset hakkerit ovat murtautuneet keskeisiin viranomaisjärjestelmiin, operaatio on häiritty",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-26T19:32:11Z",
@@ -1598,38 +1538,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T04:22:18Z",
-      "urls": [
-        {
-          "sign": "4fe09bbda3a029f244bf3e0adb171c884c91592c9dac23c4ac7d9ca001aad18b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin kuningas Kaarle XVI Kustaa vihki kalatien käyttöön Ylitorniolla tänään",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T04:40:25Z",
-      "urls": [
-        {
-          "sign": "08ea390bb2e6fc00fa33c040de24e93280e163371eb8ad6f51120c1328e93f24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fenerbahçen Guendouzin provokaatio johti kahakkoon Mestarien liigan karsinnassa – Lyonin valmentaja yritti hyökätä pelaajan kimppuun",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T04:39:44Z",
@@ -2298,7 +2206,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-29T10:25:45Z",
+      "updated": "2026-08-29T12:24:50Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -2307,11 +2215,11 @@
           ]
         }
       ],
-      "title": "Norjan kuningas Harald V on kuollut 89-vuotiaana – kruununprinssi Haakonista uusi hallitsija",
-      "clickbaitiness": "Very Clickbaity",
+      "title": null,
+      "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/type=video"
       ],
       "outlet": "Iltalehti"
     },
@@ -5454,21 +5362,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-28T03:01:19Z",
-      "urls": [
-        {
-          "sign": "c08e4a885d127174ac17e99e553676e2ad7d75689220877ce0960000300372b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Juhani Pajunen teki 90 kilon Suomen ennätyksen hauiskäännön SM-karsinnoissa Vantaalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T03:02:08Z",
       "urls": [
         {
@@ -5531,21 +5424,6 @@
       ],
       "title": "Mia Halonen lopetti Maajussille morsianin juontamisen huonon sopimuksen vuoksi",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-28T03:00:10Z",
-      "urls": [
-        {
-          "sign": "84b1f4d8b06039067822f806a44155f344c45d199bcd935a49006b8cfac44bab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HUS:n infektiosairauksien ylilääkäri Ville Holmberg: Flunssakausi käynnistyy syyskuussa, korona- ja norovirustilanne on rauhallinen",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13096,7 +12974,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-29T13:14:00+03:00",
+      "updated": "2026-08-29T15:05:00+03:00",
       "urls": [
         {
           "sign": "eba0905b807607767bf610b3926c04c3ef9cf33aa7e46bb21040e2ef60b559f2",
@@ -13358,7 +13236,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-29T11:30:01Z",
+      "updated": "2026-08-29T12:23:22Z",
       "urls": [
         {
           "sign": "62493dd25d911634f4baa88d289a9138980903c17412de643870e677f36ee862",
@@ -13367,9 +13245,11 @@
           ]
         }
       ],
-      "title": "Poliisi pyytää Martinlaaksossa Laajaniitynkujalla 26. elokuuta liikkuneita ilmoittautumaan henkirikostutkinnassa",
+      "title": "Poliisi pyytää Martinlaaksossa Laajaniitynkujalla 26. elokuuta liikkuneita ja koiran ulkoiluttajaa ilmoittautumaan henkirikostutkinnassa",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13420,7 +13300,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-29T11:51:39Z",
+      "updated": "2026-08-29T12:29:02Z",
       "urls": [
         {
           "sign": "a8e1012c7816f21a66ee8cdc25816b41f079ab7587757e28902fe4eaaf964ce5",
@@ -13430,12 +13310,12 @@
         }
       ],
       "title": "Sami Pajari johtaa Paraguayn MM-rallia avauspäivän jälkeen puhtaalla ajolla",
-      "clickbaitiness": "Extremely Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-29T11:59:12Z",
+      "updated": "2026-08-29T12:24:12Z",
       "urls": [
         {
           "sign": "b25dd3b498265d7a56a3450d83e42b8f7dc1a940e982d817ab97dcce91cee1cc",
@@ -13548,6 +13428,134 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T10:31:07Z",
+      "urls": [
+        {
+          "sign": "a8e2f115ab9e01d4621689d6e2926b546365b2cfe2f141c53a37dd2beea853c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois-Karjalan ammattiopisto Riveria keskeytti maahanmuuttajille tarkoitetut kaksikieliset koulutukset työttömyyden vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "9aa4b18d45dbd11e97d30f102638faadca1101989d2cd1b4bc191312a6a6b090",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T12:19:28Z",
+      "urls": [
+        {
+          "sign": "a4fe7e06fe176432f4321a7142e558a4f406d6962323cac9a36ba92f7ef91f9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pyytää havaintoja Martinlaakson Laajaniitynkujalta murhatutkintaan liittyen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-29T12:21:16Z",
+      "urls": [
+        {
+          "sign": "19a81c337a36f162bded4f5a87ef688dd56a69963456e41e015558696e86afa8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos ennustaa laajaa sateista venetsialaisviikonloppua Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "f1b369d7306857aa1b5742eb3425ecc8bf710be72b7f4d7124a9002c82b2abe3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Psykiatri Peppi Sievers: Eläintuotannon laillisuus ei takaa eettisyyttä – vaatii eläinten hyvinvoinnin parantamista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-29T12:15:54Z",
+      "urls": [
+        {
+          "sign": "548fec985cd143376cb5cc4646a8016dded79f75b590d9d52caa77a957d7a315",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T12:27:45Z",
+      "urls": [
+        {
+          "sign": "5f499a7f4643c71173415013012714de3f9ec3563f43b2d6d4400a8afcbc558a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan kuningas Haakon pitää muistopuheen lauantai-iltana kello 19",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T12:05:53Z",
+      "urls": [
+        {
+          "sign": "9552a7c563ba2cc36b92cf4094f59ad2804e64d7649595345563f77eeb12704b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Pajari johtaa Paraguayn MM-rallia yhdeksän erikoiskokeen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
