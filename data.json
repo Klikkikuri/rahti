@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-29T00:42:11Z",
+  "updated": "2026-08-29T01:06:31Z",
   "entries": [
     {
       "updated": "2026-08-28T18:30:54Z",
@@ -942,23 +942,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-26T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "23972e2694d373a36dbd6cf4b5350b3ccc8595ae03b13e9e3949c3ea46700176",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-26T22:06:00+03:00",
@@ -4994,21 +4977,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T12:23:45Z",
-      "urls": [
-        {
-          "sign": "ca7211fbb3e26609db9d6036ba17d39e034ced6dc0277b768a2415982da3d0f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laulaja Arttu Wiskari kertoi saaneensa suru-uutisen juuri ennen keikkalavalle nousua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-27T12:13:57Z",
@@ -13548,6 +13516,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-29T01:06:31Z",
+      "urls": [
+        {
+          "sign": "f599073a45b265d7bfc7f406861e287114d182034a170380df1a627475d48dc9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalaiset teknologiajätit vahvistavat suhteitaan demokraatteihin lahjoituksilla ja uusilla palkkauksilla",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-29T03:54:00+03:00",
+      "urls": [
+        {
+          "sign": "da21622e3c94bda4a2e78db0a82b81b969bae05bf128d14e74d60a264f24ec5b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump väittää Yhdysvaltojen sopimuksen antavan hallinnan viidenneksestä Venezuelan öljyvaroista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
