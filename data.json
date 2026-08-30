@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T03:45:35Z",
+  "updated": "2026-08-30T04:02:53Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -1437,23 +1437,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T09:59:09Z",
-      "urls": [
-        {
-          "sign": "d6b3f9b2cabb391933130c5bc4b5f68fc274b62591eb1dd93febbeffc97c6710",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Räppäri Turisti havahtui rasismiin tiimin reaktion myötä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T13:08:00+03:00",
@@ -5817,21 +5800,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-28T11:14:24Z",
-      "urls": [
-        {
-          "sign": "f85aeafe3fd91fa93227827fbcca3d824c52d52dda7665f88d1194a50db48323",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valokuvaaja havaitsi harvinaisen maitovalaan Porvoon saaristossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T14:00:00+03:00",
       "urls": [
         {
@@ -5894,21 +5862,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-28T11:18:09Z",
-      "urls": [
-        {
-          "sign": "5b9f9ad16d335bbeb9e5f1d7875e82f78dfd1b73253aa31fd2a3393d2b3695f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii alaikäisen pojan tekoälyllä luomia alastonkuvia – uhrien määrä osoittautui aiempaa pienemmäksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T14:26:00+03:00",
@@ -13544,6 +13497,57 @@
       "title": "Vähärasvainen vegaaninen ruokavalio vähensi painoa enemmän kuin Ozempic lyhyemmässä ajassa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T03:57:00Z",
+      "urls": [
+        {
+          "sign": "38d5f18730e5cd32b76ad0dc9042cd7845b5781f5f7110dd7e6d22477de2a951",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kari Jalonen selittää, miksi ei soittanut Tapparan edeltäjälleen Rikard Grönborgille – halusi luottaa omaan näkemykseensä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T04:02:53Z",
+      "urls": [
+        {
+          "sign": "e6d8459a21272b6a79bd5a3726470f4fa712f83fefa68000e2f56792bc41e091",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anu Koski voitti womens physiquen Suomen mestaruuden ja valmistautuu MM-kisoihin – kertoo kehonmuutoksestaan ja treenistään",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T04:01:54Z",
+      "urls": [
+        {
+          "sign": "deaf17a5dcf6b3df3ccc654a522a9317016fd843c44ea52f497982394ab26694",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
