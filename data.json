@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T02:04:37Z",
+  "updated": "2026-08-30T02:15:00Z",
   "entries": [
     {
       "updated": "2026-08-29T20:41:37Z",
@@ -1475,21 +1475,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T09:53:47Z",
-      "urls": [
-        {
-          "sign": "eb083b807046d0ce60594a595e9e554f24b9a9d4c6b2984107f6987ef5f5ecf4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeri Mari Rantanen hylkää Supo-tapauksen selityksen näppäilyvirheeksi ja kritisoi asian käsittelyä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T13:00:00+03:00",
@@ -13562,6 +13547,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T02:15:00Z",
+      "urls": [
+        {
+          "sign": "d71ef3c12671e93ddc169671a909b001bf2e7e01f832582b5b290070b2c54516",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Amerikkalainen kiipeilijä Shelley Johannesen kuoli lumivyöryssä Makalulla keväällä 2026",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
