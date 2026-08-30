@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T22:39:55Z",
+  "updated": "2026-08-30T22:57:23Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -6377,23 +6377,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-29T09:54:38Z",
-      "urls": [
-        {
-          "sign": "d671772b0ba869e501530c4d1d6b1365523e9ec1a594afdb3a6d42bc31c29f09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putin harkitsee uutta liikekannallepanoa ja lisää ohjusiskuja Ukrainan infrastruktuuriin Venäjän troopipulan vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T10:35:57Z",
@@ -13499,7 +13482,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-31T00:31:00+03:00",
+      "updated": "2026-08-31T01:51:00+03:00",
       "urls": [
         {
           "sign": "85ac5c72e4b568a8467650acd0a919fd5c58bed3c42e9cf8638279bcd5a49c75",
@@ -13508,8 +13491,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat iski Iranin Larak-saarille Hormuzinsalmessa ja tuhosi kaksi raketinheitintä",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Fox News: Iran laukaisi ohjuksia Yhdysvaltain joukkoja vastaan Jordaniassa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13527,6 +13510,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T22:57:23Z",
+      "urls": [
+        {
+          "sign": "ae72e764faf7406b9b816a1ddee6d64a96049ce3ecd2081e1ec5955bfaf67af9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset löysivät Jejun saarelta neljä ruumista – poliisi Bu pidätettiin asiakirjojen väärentämisestä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
