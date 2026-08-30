@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T10:29:43Z",
+  "updated": "2026-08-30T10:39:36Z",
   "entries": [
     {
       "updated": "2026-08-30T08:28:43Z",
@@ -320,7 +320,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-30T06:36:20Z",
+      "updated": "2026-08-30T10:39:36Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -329,7 +329,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin 28. helmikuuta, tappamalla Ali Khamenein",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin helmikuun 28. päivänä, Israel iski Libanoniin – jännitteet Lähi-idässä jatkuvat",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -805,24 +805,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T08:10:15Z",
-      "urls": [
-        {
-          "sign": "12764968615958a0b23ec1e864b08389e9c3e30b023a9eab1fa0656c80817978",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Muusikko Mikko Aaltio kiertää Suomen metsiä herättämään huomiota arvokkaiden vanhojen metsien suojelusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-27T19:58:48Z",
@@ -1801,21 +1783,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T15:08:04Z",
-      "urls": [
-        {
-          "sign": "e75791e2ba07857ca61ca61ffca976fc927e769ed9586b2013a7e7bfc937f8eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "San Francisco 49ersin omistaja Jed York pidätettiin Ohiossa yrityksestä ostaa seksiä 160 dollarilla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T12:00:32Z",
@@ -13428,7 +13395,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T10:29:43Z",
+      "updated": "2026-08-30T10:38:45Z",
       "urls": [
         {
           "sign": "777d444794b2d96f81f52a1c7d290bf61dcbf0bcca19b7d39bbee98c43d1da2e",
@@ -13544,6 +13511,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T10:37:00Z",
+      "urls": [
+        {
+          "sign": "855e982ff3b474322c27db8d9d696c2ad3823eef4438de391b67dcfd16a0f68b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ihotautien erikoislääkäri Carl Kyrklund kehottaa välttämään vahvoja happoja ja A-vitamiinijohdannaisia lasten ihonhoidossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T10:39:12Z",
+      "urls": [
+        {
+          "sign": "832c7fedc2a0600591ece8e4bfe6c32d21623528abd59aa5f236abc2e23f296b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luontoliiton nuoret Itämeri‑lähettiläät siivosivat Helsingin Mustikkamaan rantaa ja löysivät styroksia, tupakantumppeja, nikotiinipusseja ja muovia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
