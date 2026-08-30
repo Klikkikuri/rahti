@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T03:01:17Z",
+  "updated": "2026-08-30T03:28:42Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -841,23 +841,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T04:48:56Z",
-      "urls": [
-        {
-          "sign": "ecf11266cffb3cb3d5232d09ee4038327597bfc9d1a53fa8cb6c19e42ed4a431",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maanmittauslaitos: Pohjanmaan kiinteistöhinnat nousevat, pääkaupunkiseudun laskevat",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-27T05:03:25Z",
       "urls": [
         {
@@ -1281,23 +1264,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T09:56:40Z",
-      "urls": [
-        {
-          "sign": "8c6bfd026b558c7b672f6d4ce949d5384f653b9097fceb9620a70fed7db574b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtioneuvoston kanslian inhimillinen virhe viivästytti tietoa supo-työryhmästä sisäministeri Mari Rantaselle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T08:57:01Z",
@@ -5913,21 +5879,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T11:06:30Z",
-      "urls": [
-        {
-          "sign": "b2dff4148a4e4cfdd8ad4c4f9482da92b4176c6c92b9ec06711361ada4c4842b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "PS-ryhmä käsitteli Peltokankaan kohua ilman nimenomaista mainintaa, Mäkelä vahvistaa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T11:09:00Z",
@@ -13549,6 +13500,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T03:00:00Z",
+      "urls": [
+        {
+          "sign": "99e3a77a54a945f15f508e058b9655d4e54f59a5361effdf8dad8daf95f72d35",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalainen ensihoitaja: Prinsessa Diana olisi voinut selvitä hengissä, jos ensihoidossa olisi tajuttu vammojen vakavuus",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T03:00:31Z",
+      "urls": [
+        {
+          "sign": "e20c469926ea0384cf6b7bf0990feeddcbc8664ee3f90fc97af821ef11063bf6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Check Pointin mukaan haavoittuvuuksien hyödyntämisaika lyheni 771 päivästä vuonna 2018 puoleen päivään vuonna 2024",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T03:28:42Z",
+      "urls": [
+        {
+          "sign": "45c7e5a914ccac8f8939af30ba0782ce705f9ab1ed89cf446e1b105eede904f6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sää on sunnuntaina sateinen Länsi-Suomessa, lämpötila 15–20 °C",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
