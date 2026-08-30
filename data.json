@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T19:11:00+03:00",
+  "updated": "2026-08-30T16:33:06Z",
   "entries": [
     {
-      "updated": "2026-08-30T08:28:43Z",
+      "updated": "2026-08-30T16:21:45Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Iltalehti raportoi Ukrainan sodan kehittymisestä ja Venäjän propagandan keinoista",
+      "title": "Venäjän propaganda kohdistuu Suomeen Nato-jäsenyyden jälkeen – Iltalehti selvittää keinoja ja vaikutuksia",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -730,21 +730,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-27T19:58:48Z",
-      "urls": [
-        {
-          "sign": "e5b2e44a6eeb16cd7b3f911bcb846f8300cea9f929b7a6cb83c696b4ec84f2a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hus tiedottaa puhelinhäiriön olevan ohi – palvelut palautettu, vika ei vaarantanut potilashoitoa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-27T20:34:29Z",
       "urls": [
         {
@@ -792,40 +777,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T11:48:43Z",
-      "urls": [
-        {
-          "sign": "26efbc23177440f5e341d97bed0b51583850775254a861c119e1f0ab249e9d7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alustavat kustannusarviot Tampereen seudun lähijunaseisakkeille – Ylöjärven pysäkki kallein",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T11:53:15Z",
-      "urls": [
-        {
-          "sign": "d0eb67585c3c82739f77a93ae5f4cf838a389758b446178f09074ef24ba95667",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kruunusillat-hanke korjasi Kruunuvuorensillan epätasaiset saumat – pyöräilijät kokevat ajettavuuden parantuneen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-27T12:13:44Z",
@@ -1020,23 +971,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T17:43:00+03:00",
-      "urls": [
-        {
-          "sign": "9d0dcb153eaf6656490e5fa86aee57b7f40591b40d9987df0ddadf3d44b5c634",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-27T14:39:34Z",
@@ -1668,23 +1602,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T19:53:20Z",
-      "urls": [
-        {
-          "sign": "9ed7af8e8c822a25cec6ee384437161c9055738c7660cbc09759287df7635823",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Armand Duplantis voitti Zürichin seiväskisan, Emmanouil Karalis haastoi maailmanennätystä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-27T19:50:37Z",
       "urls": [
         {
@@ -1698,23 +1615,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T20:08:48Z",
-      "urls": [
-        {
-          "sign": "7feb66ad59a016a302bc52a3b486116321896473c1cccfed6a7adf77bbd23b28",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi Pekka Pouta: Sää kääntyy sateiseksi, seuraavat kaksi viikkoa ovat selvästi sateisempia mutta lämpimiä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T20:14:54Z",
@@ -6071,21 +5971,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-29T04:35:26Z",
-      "urls": [
-        {
-          "sign": "4773a01d0d7e198bd1fb4f9ea6c59dbf2b16fc01c6c3aab94d52e427e4583b51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Colorado Avalanche solmi Cale Makarin kanssa 163,2 miljoonan dollarin kahdeksan vuoden jatkosopimuksen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-29T02:19:24Z",
       "urls": [
         {
@@ -6114,38 +5999,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-29T05:13:06Z",
-      "urls": [
-        {
-          "sign": "88a468c0412451970b97379601e8967848ab922ad047392cc2d4a0d053476926",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ingrid Alexandra nousee kruununprinsessaksi ja vannoo valansa kuningas Haraldin kuoltua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-29T05:01:31Z",
-      "urls": [
-        {
-          "sign": "004d2f3d0fdab8c9be925c148502f483f8e3b53d7daa8cdf4c4ce838d88a800b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotus Soft Embo -vessapaperirullan hylsy on nyt kierrätettävä, ei huuhdottava",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T04:32:00Z",
@@ -6430,21 +6283,6 @@
       ],
       "title": "Moottorikelkkailija loukkaantui vakavasti Hailuodossa aamuyöllä ajettuaan pellolta ojaan – alkoholilla epäillään olevan osuutta",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-29T04:32:20Z",
-      "urls": [
-        {
-          "sign": "251cf81a8100ca8caf83a5d5e3ce34e5c56949953062435d39be6dd8779612e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uusi akkujen jätestatus uhkaa nostaa sähköautojen korjauskustannuksia ja laskea jälleenmyyntiarvoa Suomessa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13538,6 +13376,160 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T16:32:00Z",
+      "urls": [
+        {
+          "sign": "586b4875c10b400e4f1223d45adbc194ceea74e20d0e8e56a1ace59df2c9e8e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uniikki opettaa Liisa Setälälle tanssiliikkeitä TTK:n ensimmäisissä treeneissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T16:28:55Z",
+      "urls": [
+        {
+          "sign": "1ff1678790bf712b5514dd8b78ec1c282e7d81e83e8d55ad063a40c31c22786a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Thuja menestyy puutarhoissa, mutta vaatii säännöllistä leikkausta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T12:00:35Z",
+      "urls": [
+        {
+          "sign": "32c6599a118f6ac27f74a1331ec517760a61c206f671f1d3f505081c1c24a694",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilöauto paloi Porvoonväylällä Rita liittymässä – kuljettaja ohjasi auton tien reunaan, ei henkilövahinkoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T15:15:00Z",
+      "urls": [
+        {
+          "sign": "b03eeac4e42ba51599a71c738a1d17e774af7046d69a0aeb9af743b2beea9d87",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hylätyt öljy- ja kaasuputket päästävät mikromuovia mereen Britannian ympärillä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T19:08:00+03:00",
+      "urls": [
+        {
+          "sign": "9c4558243a10b464f9104657c7641c53ff056415f31642f0f95ce23f357d9b00",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vihreät ehdottavat hoivan kulujen perimistä kuolinpesältä – tutkija pitää säästölaskelmaa optimistisena",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T16:31:35Z",
+      "urls": [
+        {
+          "sign": "20189f9cb419ada61d40d7b87ccb96a24ff8d0278e3838c5e9fd9052d0424997",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastajat vapauttivat jumiin jääneen jahtikoiran Luumäellä lauantaiaamuna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T16:09:53Z",
+      "urls": [
+        {
+          "sign": "150050f588667ba38c207cc0c5759157a80878fc9027d4ac36775802e7b2bdd9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toyotan Takamoto Katsuta ja kartturi Aaron Johnston vietiin helikopterilla sairaalaan Paraguayn MM-rallin ulosajon jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T16:33:06Z",
+      "urls": [
+        {
+          "sign": "08e352c4c3ecc4677c2f826593148ae9e62466e51dce261acd6c87a88e16494b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Stella Parton: Dolly Parton toivoi kokeellisia syöpälääkkeitä auttaakseen muita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T16:21:48Z",
+      "urls": [
+        {
+          "sign": "780c5863cf9a0ee34d6718a8d22181cd2e86eeb6ad4061f7c130f5e498c091f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Timo Soini kutsuu EU:ta kolhoosiksi ja iloitsee Islannin hylänneen jäsenyysneuvottelut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T16:27:17Z",
+      "urls": [
+        {
+          "sign": "24eb02c529e1598bc949e351012dfb95447fab027b19280baddc2c2fe41f05e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin yleisurheilutähdet vastustivat magnesiumvettä tarjoiltua juomaa Ruotsi-ottelussa Helsingissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
