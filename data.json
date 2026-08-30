@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T03:56:00+03:00",
+  "updated": "2026-08-30T01:09:43Z",
   "entries": [
     {
       "updated": "2026-08-29T20:41:37Z",
@@ -856,23 +856,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T04:04:51Z",
-      "urls": [
-        {
-          "sign": "1991e69ace670cdb7151b767f7253e14cea9bf08eab05a8e3437afbc8f9001a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jäätikön romahdus aiheutti massiiviset tulvat Nepalin ja Kiinan rajaseudulla – satoja ihmisiä kateissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-27T04:11:30Z",
@@ -13562,6 +13545,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T01:09:43Z",
+      "urls": [
+        {
+          "sign": "e521da3c77dbadfad37079784bb8ebb0c056fa6e914681f15fa7478c128f2496",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kunnat kritisoivat matkailijaveron prosenttimallia ja kannattavat kiinteää maksua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
