@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T03:36:00+03:00",
+  "updated": "2026-08-30T03:56:00+03:00",
   "entries": [
     {
       "updated": "2026-08-29T20:41:37Z",
@@ -858,23 +858,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T03:30:35Z",
-      "urls": [
-        {
-          "sign": "e9be82adf7bf3f736148a00e71e51a38a92bacac2351f937bf642386ae5e1225",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turun Lausteen koulu sai OAJ:n tunnustuksen monikielisyyden hyödyntämisestä ja vahvasta yhteisöllisyydestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-27T04:04:51Z",
       "urls": [
         {
@@ -1364,21 +1347,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "86e70f200d875ff74acaebb1679300255ff9ab833c7a20033e6e3d4e1f708aa0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii Kirkkonummella ilotulitteella sytytetyn asuntopalon murhan yrityksenä – viisi epäiltyä kiinni",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-27T08:39:26Z",
@@ -13562,6 +13530,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T03:56:00+03:00",
+      "urls": [
+        {
+          "sign": "bd1d090beffaee2d5633368a8704cc8a7c03d1270b73fe3ac3d138ed25c016f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Islannin kansanäänestyksessä EU-myönteiset johtavat niukasti ensimmäisten äänten laskennan jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T00:50:23Z",
+      "urls": [
+        {
+          "sign": "21a59f29a395db6e59ab97593575f3eedcbfda0e485188c81db38e4601295366",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Islannin EU-jäsenyysneuvottelujen jatkoa kannattava puoli johtaa niukasti kansanäänestyksessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
