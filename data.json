@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T05:23:12Z",
+  "updated": "2026-08-30T05:36:58Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -1018,7 +1018,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-29T16:35:41Z",
+      "updated": "2026-08-30T05:36:47Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -1027,7 +1027,7 @@
           ]
         }
       ],
-      "title": "Norjan kuningas Harald V on kuollut 89‑vuotiaana – kruununprinssi Haakonista uusi hallitsija",
+      "title": "Norjan kuningas Harald V kuoli 89‑vuotiaana, kruununprinssi Haakonista tuli Norjan uusi kuningas",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
@@ -1211,21 +1211,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "2f9d611f2a1db23aaa4c1ec05d75591e0f79ab429090cd7421af122a2b956501",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sähköstimulaatio voi lieventää muistihäiriöitä – tutkijat korostavat realistisia odotuksia",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5910,23 +5895,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-28T12:23:40Z",
-      "urls": [
-        {
-          "sign": "de22cadf064437e96237fb7aa3fa3afe9734fd684fbaecd4a92996abc1295aed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsalainen Bubs-karkkibrändi avaa myymälän Helsingin keskustaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T15:26:00+03:00",
       "urls": [
         {
@@ -5944,21 +5912,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-28T12:22:15Z",
-      "urls": [
-        {
-          "sign": "9a4bbf806f942a3357929a034052580f93a4a17b4a2b56918aa13a1fee55b023",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainan parlamentti myönsi eduskunnan puhemiehelle Halla-aholle kunniamerkin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T20:38:34Z",
       "urls": [
         {
@@ -5969,21 +5922,6 @@
         }
       ],
       "title": "Sami Pajari jahtaa kolmatta peräkkäistä voittoa Paraguayn MM-rallissa – autossa ilmeni ongelmia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-28T12:27:26Z",
-      "urls": [
-        {
-          "sign": "5fbedda269bb5ffba14ca3d2093fa42e0a2bb3bab2e5d78066bd6af58b81ff3f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sotamenojen kasvu ajoi Venäjän kassakriisiin – Kreml leikkasi menoja 35 prosenttia",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13549,6 +13487,68 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T05:36:58Z",
+      "urls": [
+        {
+          "sign": "d65d3dc9107e162e6550137a972ff79ff385be5d911a712a449b38299d83c1b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilja Remeslo todettiin täysijärkiseksi – oikeudenkäynti alkaa syyskuussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T05:35:19Z",
+      "urls": [
+        {
+          "sign": "db906169fc591c66ef667c3052aafbba881bcaaf8e1c2f66f001bb30baec54a6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HPK:n hyökkäyspäässä on paljon epävarmuutta – vain Sami Päivärinta on takuuvarma tähti",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T08:24:00+03:00",
+      "urls": [
+        {
+          "sign": "0178b9dc1445b9d36e827dfcc82a5be8bd08e656d740a69600a7a8051b172f98",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Himalajan tulvat ja maanvyörymä ovat johtaneet satoihin kuolonuhriin ja tuhansiin kateisiin Kiinassa ja Nepalissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T05:35:56Z",
+      "urls": [
+        {
+          "sign": "c7be581e0df4296a17b036d6e22efe6a9a8bb16a496dfb06d7de9a0551a66553",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Monet suomalaiset kokevat saaneensa aiheettomia pysäköintisakkoja yksityisiltä valvontayhtiöiltä – valituksia tulvii",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
