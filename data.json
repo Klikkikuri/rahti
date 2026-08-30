@@ -1375,21 +1375,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T10:02:45Z",
-      "urls": [
-        {
-          "sign": "0b599b06c2d85cfb79d0b6b02041bb998f0b063b79885ad01812ae799098758f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ronnie O’Sullivan voitti Mark Selbyn 5–3 ja eteni Wuhan Openin välieriin",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-27T10:09:35Z",
       "urls": [
         {
@@ -5926,21 +5911,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-28T11:37:12Z",
-      "urls": [
-        {
-          "sign": "5fa3cc84283e581ae72f2788129dd68fb2fc3a0987e74cbe6b3ed15daee08b89",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle yhdistää Ellis-sarjan toisen kauden neljä jaksoa kahteen pitkään osaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T11:55:36Z",
@@ -13231,7 +13201,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-30T05:45:00+03:00",
+      "updated": "2026-08-30T06:45:00+03:00",
       "urls": [
         {
           "sign": "bd1d090beffaee2d5633368a8704cc8a7c03d1270b73fe3ac3d138ed25c016f1",
@@ -13240,7 +13210,7 @@
           ]
         }
       ],
-      "title": "Islannin kansanäänestyksessä EU-myönteiset niukassa johdossa – ääntenlasku vielä kesken",
+      "title": "Islannin kansanäänestyksessä EU-vastustajat niukassa johdossa – ääntenlasku jatkuu",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13547,6 +13517,40 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T03:57:00Z",
+      "urls": [
+        {
+          "sign": "20e0801df5eb4d1bf31bf8e5230e1b79b83a158bb28fdc13edd37de073196355",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääkäri kertoo, että vessapaperiin mahdollisesti joutunut verinen neula ei aiheuta merkittävää tartuntariskiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T04:01:36Z",
+      "urls": [
+        {
+          "sign": "c27a87657b6441173c8c301388a30d9f6c5640c385eaa78521cb61779bfd3104",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi Selviytyjät Suomi -kilpailijaa joutuivat sairaalahoitoon epäillyn käärmeenpureman jälkeen kuvauksissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     }
