@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T21:09:00+03:00",
+  "updated": "2026-08-30T18:19:28Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -745,21 +745,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-27T12:46:16Z",
-      "urls": [
-        {
-          "sign": "8c470bbe99465f2e92ee181c952e960ca6c3263f1b3307bf6c58675c1870cd7d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto asentaa Virolahdelle sikarutosta varoittavat kyltit",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-27T12:49:22Z",
       "urls": [
         {
@@ -1053,23 +1038,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b495288a7ef81995097a51321b2ed0fcb7c2865b6b34a5133f3124f2a8af5f52",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-08-27T19:06:00+03:00",
@@ -1722,57 +1690,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-28T02:55:00Z",
-      "urls": [
-        {
-          "sign": "a4d9f891d581a4599a993623dde3abaad2285d34a7f1e9cd8cfd12a73d709234",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liikenneasiantuntijat varoittavat: Monipuolistuva liikennekirjo vaatii lisää valppautta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-28T03:03:00Z",
-      "urls": [
-        {
-          "sign": "44fe862e95a82dd118d42c698da3fbc759057ca49ac0cbba6f5edc8fe7e4c9ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liigaviikko rankkas SM-liigan parhaat maalivahtikaksikot: Tapparasta ykkönen, Pelicans ja KooKoo kärjessä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-28T03:01:00Z",
-      "urls": [
-        {
-          "sign": "b2253c33d9ad4249c9ab338a7f163f413afa67feadba6b5117dd07f2fa1d6e26",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU:n Copernicus-ohjelman mukaan valtamerien lämpötila saavutti elokuussa uuden historiallisen maksimin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T03:00:36Z",
@@ -10522,7 +10439,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T20:56:00+03:00",
+      "updated": "2026-08-30T21:18:00+03:00",
       "urls": [
         {
           "sign": "58f88b5986d452274891ec539797918e744aa3bd04b073bac99f0689c8c88cb7",
@@ -10531,8 +10448,8 @@
           ]
         }
       ],
-      "title": "Poliisi etsii ampumisen epäiltyä Aarauksen rave-tapahtuman jälkeen koko Sveitsin alueella – uhri kuoli, useita loukkaantui",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Aarauksen rave-tapahtumassa ammuskelu: uhri kuoli, useita loukkaantuneita, poliisi etsii epäiltyä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13312,7 +13229,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T18:02:16Z",
+      "updated": "2026-08-30T18:18:12Z",
       "urls": [
         {
           "sign": "a9058b07353d3387e5b7bd37a4f162cff235bb9d76aa9ec34ce839a71737da1f",
@@ -13321,11 +13238,9 @@
           ]
         }
       ],
-      "title": "Susijengi voitti Viron MM-jatkokarsintaottelussa Tallinnassa murskaluvuin",
+      "title": "Suomi voitti Viron MM-jatkokarsintaottelussa Tallinnassa 96–67",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13535,6 +13450,87 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T18:19:28Z",
+      "urls": [
+        {
+          "sign": "9b5997e77cc783c1780e2fb82abd4b0139c4dc1241b76b12c9c5de9eb5f05ce4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veronica Verho aloittaa Tanssii Tähtien Kanssa -juontajana Vappu Pimiän tilalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T17:57:51Z",
+      "urls": [
+        {
+          "sign": "d4de1b93d6ad9286b0642243c47453a827021360f74c13c317c8af03b8dfbac8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veronica Verho on valittu Tanssii tähtien kanssa -ohjelman uudeksi juontajaksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T20:19:00+03:00",
+      "urls": [
+        {
+          "sign": "76cc9f047fc71091e5d971ac9d984b899b3f10b54104eba32ff603be61b500cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Taysin sairaanhoitaja tuli humalassa yövuoroon ja pahoinpiteli kaksi kollegaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T18:15:34Z",
+      "urls": [
+        {
+          "sign": "dd80dffb38c035afaaabd50a7c6bccf6764e6186aacb54905f3735213a98f098",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Pajari voitti Paraguayn MM-rallin – kolmas peräkkäinen voitto",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T18:16:03Z",
+      "urls": [
+        {
+          "sign": "21961525e614db9027afb76136f42ac22a2df8acc1f6de938b5d1294ae7d0392",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veronica Verho vahvistaa olevansa uusi TTK-juontaja ja pahoittelee pitkää salailua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
