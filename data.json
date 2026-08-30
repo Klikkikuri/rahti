@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T17:00:00+03:00",
+  "updated": "2026-08-30T17:11:00+03:00",
   "entries": [
     {
       "updated": "2026-08-30T08:28:43Z",
@@ -305,7 +305,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-30T13:28:52Z",
+      "updated": "2026-08-30T14:03:49Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel tappoivat Iranin johtajan Ali Khameneinin 28. helmikuuta – Israel myös Libanoniin",
+      "title": "Yhdysvallat ja Israel iskivät Iraniin 28. helmikuuta – Israel myös Libanoniin",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -1108,21 +1108,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T16:26:00+03:00",
-      "urls": [
-        {
-          "sign": "3266f95208b567c5e9230a1bcdd88f5b710b2fcc5ffd59ff7310701a153d68e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rajavartiolaitos palautti yhden turvapaikanhakijan Italiaan uuden EU-asetuksen voimaantulon jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T16:36:00+03:00",
       "urls": [
         {
@@ -1830,40 +1815,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T17:29:11Z",
-      "urls": [
-        {
-          "sign": "a4befe05133bc9ebacb86d9f4e8edd8a4053126f5f3b5a9283fbf1d8f64fd881",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "La Tomatina -tomaattisota keräsi 20 000 osallistujaa Espanjan Buñoliin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T17:32:27Z",
-      "urls": [
-        {
-          "sign": "45a615f91bcc1f5af0e9c1515db1429deffd65ba202cb295d890d675ffdf407c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitoksen asiantuntija: Ilmastonmuutos voi lisätä Euroopan vyöryriskiä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T20:45:00+03:00",
@@ -6030,21 +5981,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T22:21:20Z",
-      "urls": [
-        {
-          "sign": "98d0810a47c1b7716f4fcc12a3099adbdc9f3ecdad1daee1c06401f4fff2c087",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukkosmyrsky pakotti Swedish House Mafian perumaan keikan Göteborgissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T19:03:19Z",
@@ -10952,7 +10888,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-30T15:45:00+03:00",
+      "updated": "2026-08-30T17:11:00+03:00",
       "urls": [
         {
           "sign": "bd1d090beffaee2d5633368a8704cc8a7c03d1270b73fe3ac3d138ed25c016f1",
@@ -12987,7 +12923,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-30T11:44:33Z",
+      "updated": "2026-08-30T14:02:17Z",
       "urls": [
         {
           "sign": "b82754fb62e5d4338f345e976de3c1a74e01598c2f3c21661ce9b81d5a767bfe",
@@ -12996,9 +12932,11 @@
           ]
         }
       ],
-      "title": "Anne Pohtamo muistelee 1975 Miss Universum -kilpailua: ystävyys Venezuelan kilpailijan kanssa ja puuttuva kutsu juhlaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "title": "Oikaisu: Anne Pohtamon nimissä julkaistut Instagram-vastaukset eivät olleet hänen omiaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13536,6 +13474,70 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T13:45:02Z",
+      "urls": [
+        {
+          "sign": "f27731ff5c5990a0aeb5157b85bc3145b1cdcf3b3daea97f9b31711e4983e4b8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "BBC:n artikkeli kertoo suomalaisten käyttävän tervaa ruoanlaitossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T17:11:00+03:00",
+      "urls": [
+        {
+          "sign": "53dbd5cea6e34e700f975b702e92bf281467f06fef63ce1463080afe48e9155d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "YK:n pääsihteerinvaali: ehdokkaat näkevät järjestön vakavan kriisin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T14:10:24Z",
+      "urls": [
+        {
+          "sign": "33f4092fd1e1379fec87464dd55a521c4c142768e0b122bcd0edb6920bde19c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T14:03:00Z",
+      "urls": [
+        {
+          "sign": "3620ef7ba390880ebe763a791c076dced970913ac54b95e30d71188b8b8cc320",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tanssii Tähtien Kanssa alkaa sunnuntaina 30. elokuuta – tässä ovat kauden tähtiparit",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
