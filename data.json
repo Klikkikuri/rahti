@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T09:12:06Z",
+  "updated": "2026-08-30T09:26:13Z",
   "entries": [
     {
       "updated": "2026-08-30T08:28:43Z",
@@ -774,41 +774,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-27T07:26:01Z",
-      "urls": [
-        {
-          "sign": "c3b98ad009e5c7c1b6776adf9e6beaaa690b118985a8e3dbafce022b5a3b6dde",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin hovioikeus palauttaa Eagle S:n tapauksen käräjäoikeuteen: Suomen tuomioistuimilla on toimivalta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T07:40:49Z",
-      "urls": [
-        {
-          "sign": "0778b8e32eb7134525009a387aaacb1b08311553cafa642c055d89f8274f3830",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kuningashuone: Kuningas Haraldin terveys heikentynyt merkittävästi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-30T08:58:23Z",
+      "updated": "2026-08-30T09:23:09Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -817,11 +783,11 @@
           ]
         }
       ],
-      "title": "Norjan kuningas Harald V on kuollut 89‑vuotiaana – Haakonista uusi kuningas",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": null,
+      "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/type=video"
       ],
       "outlet": "Iltalehti"
     },
@@ -13539,6 +13505,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T09:26:13Z",
+      "urls": [
+        {
+          "sign": "34c077c2682fc360f9c70530102c756a1b6b70405be701e239a0e60dd3a128a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi Punkaharjun koulun oppilasta kulkee koulumatkan veneellä – koulun säännöt mahdollistavat poikkeuksellisen liikkumistavan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T08:49:43Z",
+      "urls": [
+        {
+          "sign": "08de8e1d563cc6dc137ec376cba35f5ad4156fae5c8345fbf5b2903d20073ff5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat tuottivat saimaannorpan viitegenomin tekoälyn avulla – tukee lajin suojelua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
