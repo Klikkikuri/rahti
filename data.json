@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T20:45:00Z",
+  "updated": "2026-08-30T20:58:22Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -290,7 +290,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-30T14:03:49Z",
+      "updated": "2026-08-30T20:58:22Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -299,8 +299,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel iskivät Iraniin 28. helmikuuta – Israel myös Libanoniin",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin 28. helmikuuta – Iranin vallankumouskaarti uhkaa kostoa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1824,23 +1824,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T04:45:00Z",
-      "urls": [
-        {
-          "sign": "46cbeaeaad7e6eec2d9f89b89327cf13a31724f398300e3e271a525babae7326",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Joel Harkimo pudotti kahdeksassa kuukaudessa yli 20 kiloa – HUS Painonhallintatalon asiantuntija neuvoo maltilliseen painonpudotukseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T08:00:00+03:00",
@@ -13531,6 +13514,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T19:39:52Z",
+      "urls": [
+        {
+          "sign": "ddaad4f26d52bff53f1c826eadbfa6aea39eb6ac147d688b9423c3db81c3aa40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yrittäjät vaatii pankeilta kevyempää lainapolitiikkaa, kun joka viides pk-yritys kokee rahoituksen saamisen vaikeaksi",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
