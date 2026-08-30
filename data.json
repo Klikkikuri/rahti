@@ -5981,21 +5981,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-28T10:52:32Z",
-      "urls": [
-        {
-          "sign": "1d787216ea0803a55d11120e06391e350098b4382fc0578cd25baccef0b0d0bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kuningas Harald menehtyi Oslossa, kuningatar Sonja saapui sairaalaan kuoleman jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T10:58:32Z",
       "urls": [
         {
@@ -13560,6 +13545,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T00:23:07Z",
+      "urls": [
+        {
+          "sign": "b64643ef06fc7eda110ccf68a3dd6d666f13292e27d7f9bdca22760479c7d0b5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois-Korea erotti puolustusministeri No Kwang-cholin ja nimitti Kim Song-gin uudeksi puolustusministeriksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
