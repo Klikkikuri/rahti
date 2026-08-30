@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T09:59:16Z",
+  "updated": "2026-08-30T10:13:51Z",
   "entries": [
     {
       "updated": "2026-08-30T08:28:43Z",
@@ -6082,25 +6082,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-28T16:26:20Z",
-      "urls": [
-        {
-          "sign": "21ba0d0ddaf4c6b05c20a0e2eb9b8b7043f778e20e30d04a4410132095e01881",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "5a2b340ee67a597b1b892fc4975b3ed874b6aea7a9b3c2c047033332009007f8",
-          "labels": []
-        }
-      ],
-      "title": "Fifa-puheenjohtaja Infantino kohtaa kansainvälistä kritiikkiä MM-kisojen osamyyntisuunnitelmista – Ari Lahti tuomitsee yrityksen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T16:16:38Z",
       "urls": [
         {
@@ -6148,23 +6129,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T16:40:52Z",
-      "urls": [
-        {
-          "sign": "9dfcb8e37b9d743f30d3067921c64f81beb39280abb9b8bba8f7e9e12abd99f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainan asevoimien uusi komentaja Mykhailo Drapatyi uudelleenjärjestää joukkoja ja selvittää rynnäkköyksiköiden toimintaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T16:37:51Z",
@@ -13028,7 +12992,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-30T07:31:56Z",
+      "updated": "2026-08-30T10:13:51Z",
       "urls": [
         {
           "sign": "2010457e5b64c0d9b26164fb14e8d156f3619a84a061e81ab9544db7df91c74d",
@@ -13037,10 +13001,10 @@
           ]
         }
       ],
-      "title": "Islantilaiset hylkäsivät EU-jäsenyysneuvottelujen jatkamisen kansanäänestyksessä 52,5 prosentilla äänistä",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Islannin kansanäänestyksessä 52,8 prosenttia äänesti EU-jäsenyysneuvottelujen jatkamista vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13537,6 +13501,41 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T10:00:48Z",
+      "urls": [
+        {
+          "sign": "777d444794b2d96f81f52a1c7d290bf61dcbf0bcca19b7d39bbee98c43d1da2e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T10:09:44Z",
+      "urls": [
+        {
+          "sign": "aa4b09ccf9a82bb40e50fc17998348117c4004d97183217a9eaf205b24e2d81e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
     }
