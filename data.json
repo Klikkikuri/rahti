@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T12:10:18Z",
+  "updated": "2026-08-30T12:28:49Z",
   "entries": [
     {
       "updated": "2026-08-30T08:28:43Z",
@@ -822,21 +822,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-27T09:29:37Z",
-      "urls": [
-        {
-          "sign": "2cc73eef5da8b471b8ebb5d30e3098b1729b6902737262f2f2b613f444594bdd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP ehdottaa puolustusveroa, alkoholin etämyynnin verotuksen kiristystä ja järjestöavustusten leikkausten lieventämistä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-27T09:31:43Z",
       "urls": [
         {
@@ -1262,23 +1247,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T15:30:04Z",
-      "urls": [
-        {
-          "sign": "08ce07cb7704d8fdafccc999d2974bdae403da873d52778dc5e707eb472f5973",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehitysministeri Tavio: Suomi lopettaa UNRWA-tukisopimuksen, ohjaa humanitaarisen rahoituksen muihin järjestöihin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T16:36:00+03:00",
@@ -13039,7 +13007,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T11:49:49Z",
+      "updated": "2026-08-30T12:28:49Z",
       "urls": [
         {
           "sign": "777d444794b2d96f81f52a1c7d290bf61dcbf0bcca19b7d39bbee98c43d1da2e",
@@ -13048,11 +13016,10 @@
           ]
         }
       ],
-      "title": null,
-      "clickbaitiness": null,
+      "title": "Juhani Pajunen nosti 95 kg hauiskäännössä ja rikkoi Suomen ennätyksen Lahdessa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13382,7 +13349,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T11:02:59Z",
+      "updated": "2026-08-30T12:14:18Z",
       "urls": [
         {
           "sign": "d38e7421e35d5bf4c4e1b7359fce872c7f2c89129bb8ea8fc7d49828de2c9f01",
@@ -13391,8 +13358,8 @@
           ]
         }
       ],
-      "title": "Kuningas Haraldin hautajaiset pidetään syyskuun toisella viikolla",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Kuningas Haraldin hautajaiset sijoittuvat syyskuun toiselle viikolle – tarkkaa päivää ei kerrottu",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13461,7 +13428,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T14:42:00+03:00",
+      "updated": "2026-08-30T15:23:00+03:00",
       "urls": [
         {
           "sign": "e00a51ebf84b872aa6fb5ffcc020c586c7733bfd112a874f1da334314e6ff2f4",
@@ -13540,6 +13507,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T12:18:30Z",
+      "urls": [
+        {
+          "sign": "fb8fb83ac98e0e849b13cdb5c271989753f6d355a9a3b0f2bd82e671a929caf8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi käytti koiraa väkivaltaisesti käyttäytyneen henkilön taltuttamiseksi Tampereen keskustassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T12:03:41Z",
+      "urls": [
+        {
+          "sign": "229dbbaa934a96fdcd28d0baa68c2ec6511a1bc848dadfe5f35bf12242dc78cc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Matkustaja-alus on kaatunut Pohjois-Kyproksen lähivesillä – noin 260 ihmistä kyydissä, pelastustyöt käynnissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
