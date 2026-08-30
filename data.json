@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T07:12:25Z",
+  "updated": "2026-08-30T07:26:44Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -678,23 +678,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T12:59:00+03:00",
-      "urls": [
-        {
-          "sign": "fd1d001adfbce5734f97c5a1eb53f23c37cabfa62d5aae419887d4bfd278e834",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-28T14:18:00+03:00",
       "urls": [
         {
@@ -1177,21 +1160,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T13:00:00+03:00",
-      "urls": [
-        {
-          "sign": "cdc79523f95a0d701f0c473f764483fc1012bf53f24cb2ee73b68a1d00841693",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asuntojen myyntiajat ovat venyneet – etsimme kokemuksia siitä, mikä lopulta ratkaisee pitkän myyntiajan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T10:09:35Z",
       "urls": [
         {
@@ -1474,23 +1442,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T11:53:08Z",
-      "urls": [
-        {
-          "sign": "c83e9eb9dad026042157b09bb52caca4b8585290482f59a366d6cf12d0c10802",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus ehdottaa lakimuutosta: vaaratiedotteet suoraan puhelimiin ilman sovellusta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-27T11:48:43Z",
       "urls": [
         {
@@ -1538,21 +1489,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T12:03:15Z",
-      "urls": [
-        {
-          "sign": "e6a4937741f1c45aa434ed2932639ae8f0eb2b945f411b9ab4c4f5c9ff9811fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alpinen talli jatkaa Franco Colapinton sopimusta kaudelle 2027",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T15:00:00+03:00",
@@ -6040,21 +5976,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-08-28T13:58:24Z",
-      "urls": [
-        {
-          "sign": "0c7e675d96c5b13c06c83ed430410339c39738278d792a167fde2c97bdf6cf5d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maahantuoja RSA tuo kiinalaisen Jaecoo 7 -hybridin Suomeen hintaan 34 900 euroa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-08-28T14:00:00Z",
       "urls": [
         {
@@ -6117,21 +6038,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-28T13:51:58Z",
-      "urls": [
-        {
-          "sign": "37b0a6d50c3e66ad6e85875ce8bf0199136a4e82a19aedd586d09059c9e56f43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen huippujalkapalloilija Petri Pasanen vahvistaa MTV:n jääkiekkolähetyksiä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T09:46:00+03:00",
@@ -13546,6 +13452,100 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T07:26:44Z",
+      "urls": [
+        {
+          "sign": "3da90bc89da534193892da1ec495055650a0903ddf82d86287c3612e84736662",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SM-liigan kymmenen pelaajan tunnistustesti – 15 sekuntia aikaa jokaiselle kuvalle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T07:11:00Z",
+      "urls": [
+        {
+          "sign": "00ffe546037096ea387888060ed41715f0ef90333460616d100fa484f2ce4933",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ninni Jauhiainen ja Dokke Tas puolustavat sometähtien oikeutta esiintyä tv-ohjelmissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T10:15:00+03:00",
+      "urls": [
+        {
+          "sign": "24f829249792ae00368f18f050e6d7cf021d172dac03e07df2dfe0fb4f11b4f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lukijan mielipide: Afrikkalaisen sikaruton torjunta Suomessa perustuu tutkittuun tietoon ja parhaisiin käytäntöihin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T07:17:37Z",
+      "urls": [
+        {
+          "sign": "630e31b4e0f86252591f237564333a479f9949040edf3c2fc2cee1cb555a7cb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Pajari johtaa Paraguayn MM-rallia 24 sekunnin erolla ennen päätöspäivää",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T07:09:30Z",
+      "urls": [
+        {
+          "sign": "dbf5bb5a100f189ae6903e6a55024d67c3b31ec930185bdad6b410b76e276d1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Otto Karvinen ja Lauri Huhdanpää siirtyvät Jokereista Liettuan Hockey Punks Vilniukseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T10:06:00+03:00",
+      "urls": [
+        {
+          "sign": "21adac0fdb59fa382d6cb8bf3a416c66265aaf3934c168a9f0f07ca429b68450",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ekonomistit kehottavat yhdistämään veronkorotukset ja leikkaukset sijaan sata-nolla-sopeutuksiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
