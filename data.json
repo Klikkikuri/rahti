@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T05:09:58Z",
+  "updated": "2026-08-30T05:23:12Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -678,23 +678,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T11:55:00+03:00",
-      "urls": [
-        {
-          "sign": "328b0464920102ac6c7e7671a917128cf0be5899db1590aa512be68754d640e3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T12:59:00+03:00",
       "urls": [
         {
@@ -875,24 +858,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-27T05:36:24Z",
-      "urls": [
-        {
-          "sign": "ce931e09cb8ad8b837c7c8e047fc2176031e1f89df4c3b6d4ad7fa57a004272a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-27T05:59:33Z",
       "urls": [
         {
@@ -955,23 +920,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T10:54:47Z",
-      "urls": [
-        {
-          "sign": "999292d29fee839c04669f10feebce5f09589729b835a7394c3c519f060bc57f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeriö vahvistaa yhden suomalaisen kadonneen Nepalin äkkitulvien jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T06:53:42Z",
@@ -1641,21 +1589,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T11:10:48Z",
-      "urls": [
-        {
-          "sign": "0cdd52c3af3903a071783b9d3b8e07f263d2bd736cccb869869ec25c32d6770b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Michael Jordanin pesti NBC:n NBA-asiantuntijana päättyy vuoden mittaiseen urakkaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13551,6 +13484,71 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T04:57:47Z",
+      "urls": [
+        {
+          "sign": "abb66a5d9438459d8451432f10fed66fd952b5d083f0de1927b873d3fff30876",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Filip Hrgovic voitti Moses Itauman IBF-liiton raskaansarjan MM-ottelussa Lontoossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T05:22:00Z",
+      "urls": [
+        {
+          "sign": "a35ec29f9753e69533a11c14ecb3b4ae52f176d0d1097ea23a058f60622baf5c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilveksen puolustus vahvistuu Leo Lööfin paluulla – asiantuntijat pitävät häntä liigan parhaimpana puolustajana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "8f6c03d154b5f34ea44e562a873e51ebfe00bcf5c37a843dab5ff624d91d869d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Sanomien autovisa esittelee klassikkoautoja – testaa tietosi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T05:23:12Z",
+      "urls": [
+        {
+          "sign": "9421a33d4038a9340ec703b5d6002c25df1123c05a897c6ace24e6da6925cd08",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä-Korean poliisi laajentaa tutkintaa Jejun saaren katoamistapauksiin konstaapeli Buun epäiltyjen väärentämisten jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
