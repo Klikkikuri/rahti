@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T06:56:35Z",
+  "updated": "2026-08-30T07:12:25Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -729,21 +729,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T12:43:00+03:00",
-      "urls": [
-        {
-          "sign": "81e663e56cd43ad20f60861787637cd1f446bce159066f7d32c323a1fcc7d321",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Politico: CIA:n johtaja varoitti Moskovassa Venäjää hyökkäämästä Baltian maihin",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-08-27T03:00:25Z",
       "urls": [
         {
@@ -819,23 +804,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-08-27T06:13:46Z",
-      "urls": [
-        {
-          "sign": "c54c5a97b72b4fdd3c3930d6c9fff921aa794bf0ea5df6e61b73cbd9f5bb6427",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjois-Savon hyvinvointialue vähentää yli 200 työvuotta – suurimmat leikkaukset ikääntyneiden palveluissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-27T06:13:05Z",
@@ -6005,36 +5973,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-28T13:29:57Z",
-      "urls": [
-        {
-          "sign": "4aac9a17783d8cab1ac16b8852eb9e96bb733dd8f61b64d1d73b131af77fa98b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjalaiset kuninkaalliset ovat solmineet avioliittoja tavallisten kansalaisten kanssa, mikä on pitänyt monarkian suosion yllä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-28T13:44:10Z",
-      "urls": [
-        {
-          "sign": "402eeaa33e2018158e7674b1f19b6d2d3e735cf7a57ea7c248d48ccaa37433a8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alaston mies aiheutti liikennehäiriön Gran Canarialla – poliisi sulki tunnelin puoleksi tunniksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T13:43:46Z",
@@ -13469,7 +13407,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T09:22:00+03:00",
+      "updated": "2026-08-30T10:08:00+03:00",
       "urls": [
         {
           "sign": "58f88b5986d452274891ec539797918e744aa3bd04b073bac99f0689c8c88cb7",
@@ -13478,7 +13416,7 @@
           ]
         }
       ],
-      "title": "Useita loukkaantunut ampumisessa Sveitsin Aaraussa rave-juhlien lähellä sunnuntaina yöllä",
+      "title": "Ampuminen Aaraussa aiheutti kuoleman ja useita loukkaantumisia yöllä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13542,6 +13480,72 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "2f9034a70539fd4ba95d9d75dacf2ee8221701402a8dc9810a97eeb093d5c524",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-30T07:10:55Z",
+      "urls": [
+        {
+          "sign": "7a4c26dd47764259d25b777e4421ae6c66bbb24a90d23487d90a963c9e3abc5a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjalaiset surevat kuningas Haraldia ja toivottavat Mette-Maritille lykkeä – 'Lykke til' toistuu surussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T07:11:53Z",
+      "urls": [
+        {
+          "sign": "791cbcd60d27716b1441de1ac03a841eb187539925bbaf755a0dfe58be04a336",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fatim Diarra haluaa vihreät hallitukseen ja kritisoi nykyhallituksen köyhyyttä lisääviä toimia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T07:12:25Z",
+      "urls": [
+        {
+          "sign": "a336a2b09c5d206c4acd59f2f7bddaa2c542d72577d19202d99f8cd42e5fb487",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Islannin kansanäänestyksessä enemmistö vastusti EU-jäsenyysneuvottelujen jatkamista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
