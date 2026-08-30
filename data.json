@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T02:59:56Z",
+  "updated": "2026-08-30T03:01:17Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -839,23 +839,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T04:39:44Z",
-      "urls": [
-        {
-          "sign": "5087f6de2d2703d6d56cabb58b6c7e30d3af5824facd3830b8478e80d9149a61",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rockstar Games kommentoi Grand Theft Auto VI:n vuotoja, aloittaa oikeustoimia levittäjiä vastaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-27T04:48:56Z",
@@ -5973,21 +5956,6 @@
       ],
       "title": "Poliisi pidätti neljä thaimaalaismiestä kiinalaisen naisturistin sieppausyrityksestä Bangkokiin",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-28T11:01:53Z",
-      "urls": [
-        {
-          "sign": "e3ee23d997880e6c21008b229c717b894269724101c6c7037cf3fefaf5c91200",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Markkinoiden ylireagointi paljastaa arvokohteita Englannin alasarjojen Vakio-otteluihin",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13406,7 +13374,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-30T05:41:00+03:00",
+      "updated": "2026-08-30T05:45:00+03:00",
       "urls": [
         {
           "sign": "bd1d090beffaee2d5633368a8704cc8a7c03d1270b73fe3ac3d138ed25c016f1",
@@ -13415,7 +13383,7 @@
           ]
         }
       ],
-      "title": "EU-myönteiset johtavat niukasti Islannin kansanäänestyksessä ääntenlaskun alkupuolella",
+      "title": "Islannin kansanäänestyksessä EU-myönteiset niukassa johdossa – ääntenlasku vielä kesken",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13547,6 +13515,40 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T03:00:35Z",
+      "urls": [
+        {
+          "sign": "75f6ac76686827b73d66a7f72f2d3754b10544b929ca4eefde3dd98cdc04bc75",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jun Linin perhe investoi lähes puoli miljoonaa euroa etnisten ruokakauppojen ketjun laajentamiseen Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T03:01:17Z",
+      "urls": [
+        {
+          "sign": "512fb841d3f70a50b3815f59365660d25d85675209b8059f12ab2f5f0027d27c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
