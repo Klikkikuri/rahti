@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T08:28:43Z",
+  "updated": "2026-08-30T08:36:10Z",
   "entries": [
     {
       "updated": "2026-08-30T08:28:43Z",
@@ -1636,21 +1636,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-27T13:55:39Z",
-      "urls": [
-        {
-          "sign": "d5b6f82c654544bf45477432fd88e369b2cb9ad620b33a64754fce3f1aa63370",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjalainen hiihtäjä Jan Thomas Jenssen loukkasi sormensa vakavasti pyöräonnettomuudessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-08-27T13:48:22Z",
       "urls": [
         {
@@ -1875,23 +1860,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T14:52:18Z",
-      "urls": [
-        {
-          "sign": "62abdf5e6b08dcd9a9894311bd17db828ac7c12a84e97be030befffcab2d3945",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi nuorta sytytti helsinkiläisen pyöräliikkeen tuleen – motiivi epäselvä, tapaus käräjäoikeudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T18:00:00+03:00",
@@ -6106,21 +6074,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-28T15:27:58Z",
-      "urls": [
-        {
-          "sign": "92f7970163b8757808629eafc345e9aaec6a90cd18458042ff6078592ef4813b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Seela Sella kärsii syöpähoitojen aiheuttamista kivuista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T15:25:00Z",
@@ -12851,7 +12804,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-08-30T07:53:28Z",
+      "updated": "2026-08-30T08:36:10Z",
       "urls": [
         {
           "sign": "6fa2a0a32dd817e2d6bd25f26c7b1522184493b7a61fdc17996c5e46cea51b8c",
@@ -12860,11 +12813,9 @@
           ]
         }
       ],
-      "title": "Ampuminen Aarau'n rave-tapahtuman läheisyydessä vaati yhden hengen ja haavoittuseita Sveitsissä varhain sunnuntaiaamuna",
+      "title": "Ampuminen Aarau'n hevostradan läheisyydessä rave-tapahtuman yhteydessä – poliisi jahtaa tekijää",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13536,6 +13487,53 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T08:32:00Z",
+      "urls": [
+        {
+          "sign": "2f1cd0288c5999a453e2b0be8a5cb321eddf355986b686d8a18605a9afbedd7b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyskuun alussa sateet jatkuvat – luvassa 30–40 mm vettä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T08:30:05Z",
+      "urls": [
+        {
+          "sign": "61fdf3add851e706a6f9a8681204f3279379cfe1ad9c11fcb2a3d5aebb64b311",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chelsea vahvisti Emiliano Martinezin siirron Aston Villasta kolmivuotisella sopimuksella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T08:33:00Z",
+      "urls": [
+        {
+          "sign": "61bae3bd61750d6d61cc5853b92b892aa7f58a169001613fa5b6abfdcd4052ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Katriina Rinne kuoli 13. elokuuta Helsingissä – kuolinilmoitus julkaistiin Helsingin Sanomissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
