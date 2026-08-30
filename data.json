@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T03:40:29Z",
+  "updated": "2026-08-30T03:45:35Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -839,23 +839,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-27T05:03:25Z",
-      "urls": [
-        {
-          "sign": "52ac92ee2f953bc34d46f2e2bffc148f084247db5c027d898b4e274f18cb11ce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Otavan surman oikeudenkäynti jatkuu tänään: syytetty kiistää murhasta, syyttäjä vaatii elinkautista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-08-27T05:45:18Z",
@@ -5879,21 +5862,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T11:09:00Z",
-      "urls": [
-        {
-          "sign": "7e33024d85f9212ad6671b8f04e377cf20e7a28b8a8dbb25e965514c5512956d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilves jatkaa slovenialaishyökkääjä Matic Törökin sopimusta kevääseen 2029",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T14:05:00+03:00",
@@ -13545,6 +13513,36 @@
       ],
       "title": "Nuoriso aiheutti häiriöitä ilotulitteiden käytöllä elokuun viimeisenä viikonloppuna ympäri Suomea",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T03:45:35Z",
+      "urls": [
+        {
+          "sign": "5028970fdda0afd6e594bed51e45e5aef75a3368f1011ba5606f9e91fdcb9187",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yritykset siirtävät asiakaspalvelun työn asiakkaille kyselyiden ja itsepalvelun kautta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-30T03:30:19Z",
+      "urls": [
+        {
+          "sign": "75c6f45db65894cf7c5e69423dd64557799a68e816167d9742c6e4c05e7f7dd0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vähärasvainen vegaaninen ruokavalio vähensi painoa enemmän kuin Ozempic lyhyemmässä ajassa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
