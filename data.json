@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T05:36:58Z",
+  "updated": "2026-08-30T05:51:17Z",
   "entries": [
     {
       "updated": "2026-08-30T02:59:56Z",
@@ -1541,40 +1541,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-27T11:27:31Z",
-      "urls": [
-        {
-          "sign": "5f7f9bb455252543ac7e3a5ec61a5882d1671b73821c92975e8c9ea29486ac61",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prinsessa Märtha Louisen puoliso Durek Verrett sai toisen munuaisensiirron Oslon Rikshospitaletissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-27T11:15:00Z",
-      "urls": [
-        {
-          "sign": "d88c15b3f0ec88ff4688dc4c6a59f45a813af343467b789222e9d6d765637eb1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "THL:n tutkija: Jo vartin oleskelu luonnossa alentaa stressitasoja ja parantaa mielialaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-27T11:36:21Z",
@@ -5940,21 +5906,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T12:39:31Z",
-      "urls": [
-        {
-          "sign": "2326399102246fef54776a11801d62f608a873420d97ce02ad9a3b6fd3c94c21",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kaupunki ehdottaa 264 euron kotihaidon tuen lisän poistamista vuoden 2027 talousarvioon varhaiskasvatuksen osallistumisen edistämiseksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-28T12:33:20Z",
@@ -13549,6 +13500,57 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T05:51:17Z",
+      "urls": [
+        {
+          "sign": "2126288511fae0725e61954555ba3c934392ab3617ecd40f983bf9ee41dfbbec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ampuminen Aaraun raviradan rave-juhlissa Sveitsissä loukasi useita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-30T05:48:01Z",
+      "urls": [
+        {
+          "sign": "6fa2a0a32dd817e2d6bd25f26c7b1522184493b7a61fdc17996c5e46cea51b8c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ampuminen Aarau'n rave-tapahtuman läheisyydessä Sveitsissä varhain sunnuntaiaamuna on johtanut useisiin kuolonuhriin ja loukkaantumisiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-30T05:34:00Z",
+      "urls": [
+        {
+          "sign": "877bde0f5c4cc6ef4800ed263bc7c27840a5343a5c9ea98091b706cff7c21776",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marttaliitto suosittelee sikurirouskua vuoden 2026 sieneksi – herkullinen ja käyttövalmis ilman esikeittoa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
