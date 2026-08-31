@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T05:35:51Z",
+  "updated": "2026-08-31T05:46:50Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -1998,21 +1998,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T07:41:20Z",
-      "urls": [
-        {
-          "sign": "7c0c3b1b914953c73de44077f011ce7d5a3344021f588c9f99c3b880a4771fc3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KuPS solmi ranskalaisen laitahyökkääjä Ayman Aikin kanssa sopimuksen kauden 2027 loppuun asti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T07:44:00Z",
@@ -6146,23 +6131,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-29T13:11:45Z",
-      "urls": [
-        {
-          "sign": "828f761591dfba701208d3a00a6aec6f2579c603806421606310e3cc12a54d43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henkilöauto törmäsi moottoripyörään Kehä III:lla lauantaina – moottoripyöräilijä kuoli",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T16:00:00+03:00",
@@ -13506,6 +13474,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-31T05:46:50Z",
+      "urls": [
+        {
+          "sign": "0f613cadb6737db141a1d711e452a994a909bbaedffe259d9936b9614f9c833b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vivi Wahlström arvostelee Selviytyjät-kilpailijoiden käytöstä pettyäksi ja jopa kiusaamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-31T05:31:33Z",
+      "urls": [
+        {
+          "sign": "90b31359319ad64b2b7ee0fa671ff437c0e2f4e98d40d50ca87608db24ad9743",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mariano Navone voitti Novak Djokovicin Yhdysvaltojen avoimissa tenniskilpailuissa 3–2",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
