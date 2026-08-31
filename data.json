@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T03:36:54Z",
+  "updated": "2026-08-31T03:58:00Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -1666,21 +1666,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-28T06:21:29Z",
-      "urls": [
-        {
-          "sign": "66934b8a939b02b58399ca9a5386d73b1c00f65b493eeabe4a52b5cbc707c700",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hersonin kuvernööri kehottaa siviilejä evakuoitumaan Venäjän kiihtyvien iskujen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T06:24:13Z",
@@ -13512,6 +13497,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-31T03:58:00Z",
+      "urls": [
+        {
+          "sign": "e8647188f8d458b8d6797eea9fa4d58927cc725057438137c029cfdae1463a43",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "...",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
