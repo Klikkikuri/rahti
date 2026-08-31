@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T05:28:50Z",
+  "updated": "2026-08-31T05:35:51Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -1936,23 +1936,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T07:30:33Z",
-      "urls": [
-        {
-          "sign": "0741039fa27e4a1ae1c5bc5a1ba763c5c4ec9deaf4b360d891431de984b15017",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Emmanouil Karalin nousu haastaa Armand Duplantisin vallan miesten seiväshypyssä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T07:34:45Z",
@@ -13506,6 +13489,21 @@
       ],
       "title": "Iranin asevoimat sanoo iskeneensä Yhdysvaltain joukkoihin Al-Minhadin lentotukikohdassa Arabiemiirikunnissa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-31T05:35:51Z",
+      "urls": [
+        {
+          "sign": "825abf2744f1ba45561ae2c521d0c3ac924ef181e40a450dbd44058574b9600f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yli 900 000 suomalaista saa veronpalautuksia torstaina, yli 300 000 maksaa mätkyjä huomenna",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
