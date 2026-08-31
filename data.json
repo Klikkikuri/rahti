@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T02:26:00Z",
+  "updated": "2026-08-31T02:30:12Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -6061,21 +6061,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-29T10:23:35Z",
-      "urls": [
-        {
-          "sign": "3d97e75e8676073046e1ce8302739d33bed95ec45ae8f1d2df8be17d72927dc9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karhu kaivoi kuopan itärajan esteaidan alitse Kaakkois-Suomessa – Rajavartiosto ryhtyy toimenpiteisiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T10:00:37Z",
@@ -13519,6 +13504,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-31T02:30:12Z",
+      "urls": [
+        {
+          "sign": "8972c32cc41984501b47f9f96ad0e6f2f2d39ae183940fe81cd4c5e1584ec3ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi suunnittelee viiden vuoden tarkastuksia kulttuurihistoriallisille ajoneuvoille – vaikutus voi koskea jopa puolta miljoonaa harrasteautoa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
