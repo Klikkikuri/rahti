@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T03:56:00+03:00",
+  "updated": "2026-08-31T02:00:42Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -1662,23 +1662,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T05:04:15Z",
-      "urls": [
-        {
-          "sign": "391d95a7bcd7de793067bc3c00a4a8f36000eeef3fbbb1f0481b9c119b52c565",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Avustustyöntekijä: Sääolosuhteet ja saavutettavuus hankaloittavat Nepalin tulva-alueiden pelastustöitä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T05:07:33Z",
@@ -6123,21 +6106,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-29T10:04:00Z",
-      "urls": [
-        {
-          "sign": "2b20bfca17fb314587769e37481d90445d9828dc42d32cbb87b313148a7e93f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaalivuoden verolupaukset: euron bensa ja autoveron poisto eivät toteudu ilman lisämaksuja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T10:01:08Z",
@@ -13519,6 +13487,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-31T02:00:42Z",
+      "urls": [
+        {
+          "sign": "55b9c1c9deacb3306e9681a9223cf9e4add7018b83f86b97b2943d0107580b8f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinkiläinen Abbe Karlsson, 24, sai HIV-diagnoosin huhtikuussa eikä tiedä tartunnan lähdettä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-31T02:00:00Z",
+      "urls": [
+        {
+          "sign": "5d1382a4bb0af1f3eab91b79f895d00ddbdd1369cda9997ec53a558815fe41ab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eija Haapasaari selvisi Thaimaan tsunamista vuonna 2004 ja kertoo elämänmuutoksestaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
