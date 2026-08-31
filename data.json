@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T06:12:23Z",
+  "updated": "2026-08-31T09:19:00+03:00",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -697,7 +697,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-30T10:54:56Z",
+      "updated": "2026-08-31T06:15:28Z",
       "urls": [
         {
           "sign": "1abaf9ced3a1e040f587aceea89b70cb4984a14f7734177b0360964fc6c9e4ca",
@@ -706,11 +706,11 @@
           ]
         }
       ],
-      "title": "Norjan kuningas Harald V kuoli 89‑vuotiaana – poika Haakonista uusi hallitsija",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": null,
+      "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/type=video"
       ],
       "outlet": "Iltalehti"
     },
@@ -1115,21 +1115,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "563f8ab7f1aad40a10f12caab96f5085ce566694a6cf05bd176aff19599a1bb2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lääketieteen emeritusprofessori Arno Hollmén muistetaan uranuurtajana, joka loi pohjan pohjoissuomalaiselle tehohoidolle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1936,23 +1921,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T07:43:46Z",
-      "urls": [
-        {
-          "sign": "e5d7e71d211ccb8acc009689f22575225357928e834c67e62214cc33eeaa9c6e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen presidentti Alexander Stubb osoittaa osanottonsa Norjan kuninkaan Harald V:n kuoleman johdosta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T10:32:00+03:00",
@@ -12433,7 +12401,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-31T07:34:00+03:00",
+      "updated": "2026-08-31T09:17:00+03:00",
       "urls": [
         {
           "sign": "16e4a86a5eda3fe4e0add691f4cfad6431e86b36eeec50aa3d2f3f9a51fce92f",
@@ -12442,7 +12410,7 @@
           ]
         }
       ],
-      "title": "Grand Canyonin kansallispuistossa äkkitulva aiheutti ainakin yhden kuoleman, useita katoamisia ja kymmeniä evakuointeja",
+      "title": "Grand Canyonin kansallispuistossa Arizonassa äkkitulva aiheutti yhden kuoleman, useita katoamisia ja kymmeniä evakuointeja",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -12495,7 +12463,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-08-31T02:00:00+03:00",
+      "updated": "2026-08-31T09:19:00+03:00",
       "urls": [
         {
           "sign": "061d6a727e2543ef77a296ed66132d98a04a09aeb1a6fd4bc14e18116aabffab",
@@ -13508,6 +13476,39 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-31T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "551cac65d9696232c07d4b297c9d086e8f77d8b721a412a0b4a0937d319a6236",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vanhemmat kokevat koulun viestinnän kuormittavana ja toivovat lisää yhteistyötä kodin ja koulun välille",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-31T06:03:10Z",
+      "urls": [
+        {
+          "sign": "775dc336b0b097cdf29355cd38945ea1dfda781be86c4d0b4cd1337de22527c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset: Tulvien kuolonuhreja Nepalissa ja Tiibetissä yli 900",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
