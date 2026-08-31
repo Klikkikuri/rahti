@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T03:00:43Z",
+  "updated": "2026-08-31T06:30:00+03:00",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -730,23 +730,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-08-27T13:48:22Z",
-      "urls": [
-        {
-          "sign": "db73b26f110a5c8f5051aa517e5d29a7be94d74686e1fdcb8dbe4074cbb945a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jäätikkövyöry laukaisi Nepalin pohjoisosassa tuhoisan äkkitulvan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-08-27T14:06:37Z",
       "urls": [
         {
@@ -1275,21 +1258,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "08007726c02dd029f5e2725ff81d62919545c46ff46088aa346b6b946c0eb632",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Tapanilassa toimiva perhe kasvattaa kanoja jo yli puoli vuosisataa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -6084,38 +6052,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-29T10:53:25Z",
-      "urls": [
-        {
-          "sign": "03f2973e15419af363906f78386fa6cbae78e506597fb09b0e74d127cf539869",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuningas Haakon nousi valtaistuimelle isänsä Haraldin kuoltua – elämää 15 kuvassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-08-29T10:53:55Z",
-      "urls": [
-        {
-          "sign": "74b042be414f5d718f24bd8a2c7db492b437682416324d8cd6b8bb76a8c1c5a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Intian keihään olympiavoittaja Neeraj Chopra keskeyttää kauden nilkkavamman jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T11:18:25Z",
@@ -13515,6 +13451,70 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-08-31T03:00:29Z",
+      "urls": [
+        {
+          "sign": "770f418ff9cd6ce2c6e6fad8df58c573c865f9bc83049caed91082f4f06bbc31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jarmo Lindberg varoittaa hybridiuhista: meri- ja datakaapelien katkomista, GPS-häirintää ja välineellistettyä maahantuloa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-31T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "267c53c2fda8e9a92f844a381d654fb0df58d4237ea003b02eba5e00aa8a3333",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-31T03:23:52Z",
+      "urls": [
+        {
+          "sign": "dd2d6a464100fd3d4c3ae7f0783c96fdb143012b4a60ef22cb523671d0758e82",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen La Promesa – Salaisuuksien kartano jatkuu tänään yllätystauon jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-31T03:18:30Z",
+      "urls": [
+        {
+          "sign": "18408566ffa93269110a54cda984c71125f52a5bea88bf3c6966032d66a53c5e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alkuviikko tuo epävakaista säätä ja mahdollisia ukkosia – lämpötilat 15–20 astetta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
