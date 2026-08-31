@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-30T23:32:55Z",
+  "updated": "2026-08-31T00:25:58Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -1355,23 +1355,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-28T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "19dc39303b53bd245e1df2d52895100e9d08b326654041878692c4926c38bfa5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Huhtamäen johtaja: EU:n pakkausasetus tuo velvoitteita, mutta vaatii myös infrastruktuuri-investointeja",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -6187,21 +6170,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-08-29T10:02:52Z",
-      "urls": [
-        {
-          "sign": "e089e71d1de9e627a723787d2495e034b5b051c80008fdad978dd45e29e3fea9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lando Norris solmi jatkosopimuksen McLarenin kanssa kaudelle 2030 asti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T15:05:00+03:00",
@@ -13337,7 +13305,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-08-31T01:17:00+03:00",
+      "updated": "2026-08-31T02:32:00+03:00",
       "urls": [
         {
           "sign": "16e4a86a5eda3fe4e0add691f4cfad6431e86b36eeec50aa3d2f3f9a51fce92f",
@@ -13346,8 +13314,8 @@
           ]
         }
       ],
-      "title": "Äkkitulva Grand Canyonin kansallispuistossa jätti yli 20 ihmistä kateissa",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Äkkitulva Grand Canyonin kansallispuistossa Arizonassa jätti useita ihmisiä kateissa lauantaina",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13520,6 +13488,38 @@
       "title": "Tutkijat: Metsätalous ojitetuilla soilla ei ole kestävää – ennallistaminen tarpeen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-08-31T00:25:58Z",
+      "urls": [
+        {
+          "sign": "332c7742a761d944261f9cb1c657a2baad397869eab5455638caf34ad70c95ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Grand Canyonin äkkitulva aiheutti evakuointeja – yli 20 ihmistä mahdollisesti kateissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-08-31T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "3ea62b6dc355337bd1ba7c1c746fbb7cf44c4e971a150e8d17e9b78c0a6d6cb7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallituksen sote-järjestöleikkaukset uhkaavat liikkumisen edistämistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
