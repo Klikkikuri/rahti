@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-08-31T03:58:00Z",
+  "updated": "2026-08-31T04:13:25Z",
   "entries": [
     {
       "updated": "2026-08-30T16:21:45Z",
@@ -1666,21 +1666,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-08-28T06:24:13Z",
-      "urls": [
-        {
-          "sign": "3be19b5ebf80ceac8faad2db9080173e2dc125973be0e69d67f808cb58dfdf02",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eveliina Salonen johdossa naisten frisbeegolfin MM-kisoissa, Iida Lehtomäki kolmantena",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-08-28T09:16:00+03:00",
@@ -5954,23 +5939,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-08-29T11:22:18Z",
-      "urls": [
-        {
-          "sign": "ea863b941274de8c968e5db36375afb87196a93de438f2f8360f6969a6fbe0a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MS Europa -luksusristeilijä saapui Helsinkiin osana 12 yön Itämeri-risteilyä – matkustajat kertoivat lipun maksavan noin 8 400 euroa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-08-29T10:43:46Z",
@@ -13514,6 +13482,41 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-31T04:02:00Z",
+      "urls": [
+        {
+          "sign": "d546adc49a9f7b0cd41edfeaef2c425744dcdf223f84a952b86a4ebfcb5df11e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veronica Verho aloittaa Tanssii Tähtien Kanssa -juontajana syksyllä 2026",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-08-31T04:13:25Z",
+      "urls": [
+        {
+          "sign": "61254afb0cfa464bc02adc3bdc66bca99e9abd732b987478fc8b459d68004710",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
