@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-05T04:00:52Z",
+  "updated": "2026-09-05T04:17:39Z",
   "entries": [
     {
       "updated": "2026-09-04T17:18:21Z",
@@ -535,21 +535,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-09-01T12:38:01Z",
-      "urls": [
-        {
-          "sign": "61c52a60b2e28d3586f598d88e879322923ffedd91e1ab501a0ca0b379d91162",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovioikeus korotti yhden ja piti toisen Kuopion sarja-ahdistelijan tuomion ennallaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-01T12:41:43Z",
       "urls": [
         {
@@ -562,23 +547,6 @@
       "title": "EU keskeyttää brasilialaisen lihan, siipikarjan lihan, kananmunien ja hunajan tuonnin torstaista alkaen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-01T12:29:29Z",
-      "urls": [
-        {
-          "sign": "3b970012c429d8c1fc6bf4ab6eb52e24c195194e1c0159158141a5670f83cccc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuningatar Mette-Maritin terveysongelmat ja poikansa tuomio varjostavat hänen ensimmäisiä päiviään Norjan valtaistuimella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -7061,21 +7029,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-03T14:13:51Z",
-      "urls": [
-        {
-          "sign": "0ebdd84d6fb1f04bf68293b620f3655aa19a35304d07ffc6f6ef8057fc951381",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oppositio: Hallituksen budjetti heikentää julkista taloutta – Purra ja Orpo puolustautuivat eduskunnassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-03T16:03:02Z",
       "urls": [
         {
@@ -13292,6 +13245,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-04T17:12:42Z",
+      "urls": [
+        {
+          "sign": "91c83b18968fd13d591ddaab38d0d266452a1e2f47077e4e7b857c9d5de6edea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuopion kaupunki selvittää, mitkä Kumpusaaren hylätyt veneet voidaan huutokaupata ja mitkä ovat jätettä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-05T03:45:35Z",
+      "urls": [
+        {
+          "sign": "d5ab53ee3e01488406f343710bb7897498a3948ece99c0abe08aa1a426709b0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saara Särmä vaatii ydinaseriisunnan edistämistä ja avoimempaa keskustelua ydinaseiden todellisista seurauksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-05T04:17:39Z",
+      "urls": [
+        {
+          "sign": "09cb02160db89640ef1d9260a2a3f2d497ad03ee859e00c31b77c20d60e26d33",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin yliopiston tutkimus: Hyvät sydän- ja verisuoniriskitekijät keski-iässä lisäävät mahdollisuutta elää 90-vuotiaaksi ja pysyä toimintakykyisenä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
