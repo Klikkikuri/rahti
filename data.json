@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-05T19:56:23Z",
+  "updated": "2026-09-05T21:20:58Z",
   "entries": [
     {
       "updated": "2026-09-05T18:47:28Z",
@@ -553,23 +553,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-02T04:58:52Z",
-      "urls": [
-        {
-          "sign": "914ec39bae02219d539cb2f7db4ea475fcb4662f202feacbef82bbc11030565b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hannu Jortikka vaatii SM-liigapelaajille lyhyempää kesätaukoa ja enemmän harjoittelua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-02T05:47:15Z",
       "urls": [
         {
@@ -597,23 +580,6 @@
       "title": "Asiantuntijat: Hallituksen budjetti ei nopeuta työllisyyden parantumista – työttömyys Suomessa pysyy EU:n korkeimpana",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-02T04:44:41Z",
-      "urls": [
-        {
-          "sign": "096a52dc84ab4d7a9bf4537a6a8ea7c105e93ba1079f4d30c7142c08e13a266b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ähtärin eläinpuiston uusi johtaja hoitaa kassaa ja siivoaa vessoja oppiakseen työn käytännössä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -10077,7 +10043,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-05T16:33:00+03:00",
+      "updated": "2026-09-05T17:59:00+03:00",
       "urls": [
         {
           "sign": "2897a4dd6317812d0576774898ebd68929054f5f0ac99a2adba087c9f2577bbf",
@@ -10086,7 +10052,7 @@
           ]
         }
       ],
-      "title": "Antifasistien ja sinimustien mielenosoitukset Helsingissä kulkivat eri reittejä, poliisi puuttui välikohtaukseen",
+      "title": "Antifasistien ja sinimustien mielenosoitukset Helsingissä kulkivat eri reittejä, poliisi otti neljä kiinni",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13379,6 +13345,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-05T21:20:58Z",
+      "urls": [
+        {
+          "sign": "5005506d74ac6566992e02b250c582c8ac97448b9bfe48beac01b1c0be346196",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Isar Aerospace laukaisi saksalaisen Spectrum-raketin avaruuteen Norjan arktiselta alueelta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-05T21:01:35Z",
+      "urls": [
+        {
+          "sign": "cfcfcbefb13fe8222b8fef7c6726621df39f3499266f3b4ea646f1ac8d6ba3e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomenhevosen päivää vietetään tänään – rotu uhattuna, alle tuhat varsaa vuodessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
