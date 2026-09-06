@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-06T02:00:00+03:00",
+  "updated": "2026-09-06T03:22:00+03:00",
   "entries": [
     {
       "updated": "2026-09-05T21:50:15Z",
@@ -2384,23 +2384,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-03T12:54:00+03:00",
-      "urls": [
-        {
-          "sign": "a931ffc15f392348fb84b5a6a4662eeed6640538102ae8bd771b5ad8ba2573b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-03T08:23:39Z",
       "urls": [
         {
@@ -2448,23 +2431,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-03T12:55:00+03:00",
-      "urls": [
-        {
-          "sign": "47091e55da5a0895b10f3077bf79cc6c83b8791dab6cbaeb763e85583812fff8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-03T13:38:52Z",
@@ -10832,7 +10798,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-05T23:55:00+03:00",
+      "updated": "2026-09-06T01:17:00+03:00",
       "urls": [
         {
           "sign": "7c0451cdcdba091204042363d2dc6946f9dc2755f48e950bcb2c9ef12caf1708",
@@ -10841,8 +10807,8 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain lähettiläät Witkoff ja Kushner tapasivat Putinin Moskovassa – Putin kutsui Ukrainan tilannetta vaikeaksi ja kielsi Kiovan iskut kolmeksi päiväksi",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Putin tapaaminen Yhdysvaltain lähettiläiden kanssa Moskovassa päättyi – Putin kuvasi Ukrainan tilannetta vaikeaksi",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -11086,7 +11052,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-05T12:38:59Z",
+      "updated": "2026-09-05T20:28:53Z",
       "urls": [
         {
           "sign": "3935d1e9613dfab99a0e62c413fdc0d8fdb28494db8e15c9f74b6b0c3bf82a99",
@@ -11095,11 +11061,10 @@
           ]
         }
       ],
-      "title": null,
-      "clickbaitiness": null,
+      "title": "Putinin ja Yhdysvaltojen lähettiläiden tapaaminen Moskovassa päättyi – Venäjä ilmoitti kolmen päivän tulitauosta Kiovaan",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13373,6 +13338,36 @@
         }
       ],
       "title": "Viestinnän ammattilainen Anssi Siukosaari kuoli 91-vuotiaana Espoossa 5. elokuuta 2026",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-06T03:22:00+03:00",
+      "urls": [
+        {
+          "sign": "646317c1071cc1e87dfbab39f652ce6dc120b88fc33ee400b17e3db57eeaa014",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Isar Aerospace laukaisi Spectrum-raketin Norjasta ja sijoitti viisi satelliittia kiertoradalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-06T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "63d460812df5783491272eab04f349ff44e1722678c96ec358d3738d89f8dedb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi voitti Ruotsin yleisurheilumaaottelussa, YYA-sopimuksen tulkinta säilyi muuttumattomana ja syksy tuli myöhässä 6.9.1976",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
