@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-08T00:13:25Z",
+  "updated": "2026-09-08T00:42:38Z",
   "entries": [
     {
-      "updated": "2026-09-07T20:32:47Z",
+      "updated": "2026-09-08T00:42:38Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Zelensky arvioi, että Putin tarvitsee Trumpin tukea – Iltalehti seuraa Ukrainan sotaa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Kiovassa on raportoitu räjähdyksiä – Iltalehti seuraa tilannetta reaaliajassa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -486,23 +486,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-03T15:37:48Z",
-      "urls": [
-        {
-          "sign": "7e2a74de10241e2f9790647ea860b96fccebf62567d91a129eabde6b2cbd20f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lakko ylitti torstaina miljoonan tilaajan – tiettävästi ensimmäisenä suomenkielisenä tubettajana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-03T23:05:19Z",
       "urls": [
         {
@@ -610,24 +593,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-03T15:42:51Z",
-      "urls": [
-        {
-          "sign": "a74a781e57534e161b7bb10c9b3534ed8d39ba8ad985749b89a1339111ec7164",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
       ],
       "outlet": "Yle Uutiset"
     },
@@ -761,23 +726,6 @@
       "title": "Helsingin Oodin Vaatekirjastosta voi lainata design-vaatteita kirjastokortilla – suurin osa lainattiin ensimmäisen vuorokauden aikana",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-03T15:37:50Z",
-      "urls": [
-        {
-          "sign": "7c4d4cbd5d6ddbdd74ab1c0aa39b9689e0d5d3380df80123e4b235a7ba28ef05",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Konsulttiselvitys suosittaa Apotin jatkamista ja toiminnan tehostamista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -6305,21 +6253,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-06T12:33:21Z",
-      "urls": [
-        {
-          "sign": "f52b4c5a6b834a97dbf0a265039f5282f42c44543f5b421b65f7de4da533461e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijat suosittelevat Suomen parhaita paikallisia kahviloita – lista eri puolilta maata",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-06T13:15:53Z",
@@ -13435,6 +13368,68 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-07T14:34:24Z",
+      "urls": [
+        {
+          "sign": "225ac6ded81b72e49b8abd7b0d94d1d70b5c2c1e6298ac71cc4475116f4c1bb2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kesko rakentaa 50 miljoonan euron K-Citymarketin Oulun Ritaharjuun – avaus loppuvuonna 2027",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-08T00:30:33Z",
+      "urls": [
+        {
+          "sign": "afc84bdb55c147533a9e7c01a9194cccde38f403be473ec5a2df6ff5f562790a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä syyttää yhdysvaltalaista äitiä 2-vuotiaan poikansa tappamisesta Yhdysvalloissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-07T19:34:04Z",
+      "urls": [
+        {
+          "sign": "4107e26d27908c9c30d44c6058ac37a299589b3617acd37587639d1bdb110173",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain kauppasaarto aiheutti Kuuballe yli 8 miljardin dollarin tappiot",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-07T21:39:17Z",
+      "urls": [
+        {
+          "sign": "e14f29cc6ecd571fca1c973823f1dd2c75ed7f1ca6a3d6469cb462eca84f7b63",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump vaatii Bombardieria siirtämään tuotannon Yhdysvaltoihin tai menettämään myyntiluvan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
