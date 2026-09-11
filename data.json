@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-11T00:50:26Z",
+  "updated": "2026-09-11T01:33:28Z",
   "entries": [
     {
       "updated": "2026-09-10T13:00:31Z",
@@ -2290,23 +2290,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-09T15:22:07Z",
-      "urls": [
-        {
-          "sign": "9fe9cdf447ab0251b447f942d2b0024e513606898c24029995569c8fefa715d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rolf Nordmon murhaoikeudenkäynti hovioikeudessa päättyi – puolustus vaatii, syyttäjä vastustaa mielentilatutkimusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-09T05:21:54Z",
@@ -13504,6 +13487,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-11T01:33:28Z",
+      "urls": [
+        {
+          "sign": "5af0814bffba903295bbfac881895720e2e5b21c385bcf31e794859f924957c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti julkaisee 20 unohtumatonta kuvaa 9/11-terrori-iskujen 25-vuotispäivänä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
