@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-10T23:11:55Z",
+  "updated": "2026-09-11T03:06:00+03:00",
   "entries": [
     {
       "updated": "2026-09-10T13:00:31Z",
@@ -644,23 +644,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-08T10:05:55Z",
-      "urls": [
-        {
-          "sign": "f030494c43860ed3783df781b483461b9739f54364a75179f4b5cd4e1d56517a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lääkäri kehotti Tomas Wikblomia keskeyttämään 800 kilometrin kävelyn – matka jatkuu asuntoautolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-09T15:18:00+03:00",
       "urls": [
         {
@@ -866,23 +849,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-08T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "876b0973adb7f75496e233ace4a5e18d382c37a373839bbd06c3a9157ef4340c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-09T10:13:00+03:00",
@@ -5139,23 +5105,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-09T15:15:07Z",
-      "urls": [
-        {
-          "sign": "1caeaf00e2e886c6ac070ef463d2a93ee87afe07a772022d537fafe02e0f9d63",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pukuasiantuntija kritisoi Alexander Stubbin liiviä Norjan kuninkaan hautajaisissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-10T05:38:42Z",
@@ -13507,6 +13456,53 @@
       "title": "Presidentti Trump jättää 9/11‑muistotilaisuuden; neljä entistä presidenttiä osallistuvat 25‑vuotisjuhlassa New Yorkissa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-11T00:02:05Z",
+      "urls": [
+        {
+          "sign": "ac4d1e1955a960ae66ad18110acf19470ae6e9399927dbcb7cd4beb1e330f40f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valkoinen talo poisti Tetris‑tyylisen \"Build the Wall\" -pelin tekijänoikeusvaatimuksen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-11T03:06:00+03:00",
+      "urls": [
+        {
+          "sign": "3f333460b85123416e99d0cd1435829d16ded8259328080aeac5e00b6bb91636",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finnairin toimitusjohtaja Turkka Kuusisto: Kiinalaisyhtiöiden pääsy Venäjän ilmatilaan luo epäreilua kilpailua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-11T00:04:15Z",
+      "urls": [
+        {
+          "sign": "a34b53b1bca56146684c270109bccad0a4f32d42d577bbd37388423940967715",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anthropic esti tekoälymallien väärinkäytön kyberhyökkäyksiin, valvontaan ja biologisen aseen tutkimuksessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
