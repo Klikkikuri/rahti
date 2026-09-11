@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-11T01:33:28Z",
+  "updated": "2026-09-11T05:00:00+03:00",
   "entries": [
     {
       "updated": "2026-09-10T13:00:31Z",
@@ -881,23 +881,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-08T18:08:00+03:00",
-      "urls": [
-        {
-          "sign": "35d0356ab82a22bb6f22ce64b765069bd1f1205350a470c5674bccf617b16525",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-08T18:27:00+03:00",
@@ -5422,21 +5405,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-09T15:35:48Z",
-      "urls": [
-        {
-          "sign": "494a6bb6afd3e57d6d797db417391264bbbb550ed7e161a5a8d455d432ac8033",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Edmonton Oilers solmi vuoden sopimuksen Alex Formentonin kanssa – syytteistä vapautettu hyökkääjä palaa NHL:ään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-09T14:52:31Z",
@@ -13489,7 +13457,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-11T01:33:28Z",
+      "updated": "2026-09-11T01:54:51Z",
       "urls": [
         {
           "sign": "5af0814bffba903295bbfac881895720e2e5b21c385bcf31e794859f924957c4",
@@ -13503,6 +13471,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-11T05:00:00+03:00",
+      "urls": [
+        {
+          "sign": "617996d9321083fb91816562661e6aba444a75131d7b16c986e8f61fbd8b03e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "World Trade Centerin iskuista 25 vuotta – muistotilaisuudessa ensimmäistä kertaa hiljainen hetki myös iskuihin liittyviin sairauksiin kuolleille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-11T01:48:38Z",
+      "urls": [
+        {
+          "sign": "622469bbe9793805d4f7ce83b0298371a0178644a04ee13ab126076fa460e0f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finnairin toimitusjohtaja Turkka Kuusisto: Kiinalaisten lentoyhtiöiden pääsy Venäjän ilmatilaan on epäreilua kilpailua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
