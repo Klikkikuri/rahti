@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-11T23:16:04Z",
+  "updated": "2026-09-12T00:11:27Z",
   "entries": [
     {
       "updated": "2026-09-11T19:29:53Z",
@@ -791,21 +791,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-09T11:26:40Z",
-      "urls": [
-        {
-          "sign": "e36219caa9182e27e5e07c7927d9538bda71f70fc4b3503f7700327de020b25c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeri Valtonen puolustaa Israelin siirtokuntia tuomitsevaa julkilausumaa hallituskumppaneiden kritiikistä huolimatta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-09T11:31:23Z",
@@ -13460,6 +13445,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-12T00:11:27Z",
+      "urls": [
+        {
+          "sign": "a9996795c9c621bf33ccae1cd09b9f32157d0909a17c159308ca2dafe1729ea9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Migreeniyhdistys valaisee kaupunkikohteita sinisiksi Euroopan migreenipäivänä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
