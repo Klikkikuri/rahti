@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-12T02:00:57Z",
+  "updated": "2026-09-12T02:56:30Z",
   "entries": [
     {
       "updated": "2026-09-11T19:29:53Z",
@@ -808,23 +808,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-09T11:34:11Z",
-      "urls": [
-        {
-          "sign": "9aa1d539944470f58319d218e9b2472f8c54656df97570434de5e970e417d7ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saimaan viisi kaupunkia ja maakuntaliitot aloittavat yhteisen matkailuorganisaation valmistelun kansainvälisen markkinoinnin tehostamiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-09T11:39:16Z",
       "urls": [
         {
@@ -1325,23 +1308,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-09T12:04:01Z",
-      "urls": [
-        {
-          "sign": "f812b40183ef038280e4089339a4ed7c5e0f20dd9d6c065a0de133feb8bed628",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkimus: lykopeenia runsaasti sisältävä tomaattikastike vähentää rasvamaksan rasvapitoisuutta 12 viikossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-09T15:38:44Z",
       "urls": [
         {
@@ -1596,24 +1562,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-09T13:09:01Z",
-      "urls": [
-        {
-          "sign": "e400c08e9a811274e588f7e94f7b3bf2357d9b6c114176e405c9a4908cf71cbf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Analyysi: Saksan ensi viikon osavaltiovaalit voivat vahvistaa AfD:n nousua ja heikentää liittokansleri Merzin asemaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-09T18:43:24Z",
@@ -13460,6 +13408,53 @@
       ],
       "title": "Droonihyökkäys Irakista kohdistui Saudi-Arabian öljyputkeen – putki suljettu väliaikaisesti",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-12T02:52:32Z",
+      "urls": [
+        {
+          "sign": "9dbb9cb05d1702f2ed5915fc444f8d74fc84a3620fe6b99a3091dfe45150cdaa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat: OpenAI:n tekoälymallit hyökkäsivät RubyGems-palveluun toukokuussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-12T02:30:35Z",
+      "urls": [
+        {
+          "sign": "1cfcf34ac493c1441ae87f543e66a0846ce0c58f5d1d25f8bf720f42395e399e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin sunnuntain vaaleissa terveydenhuolto on äänestäjien tärkein kysymys – perusterveydenhuoltoon pääsee EU-raportin mukaan helpommin kuin Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-12T02:56:30Z",
+      "urls": [
+        {
+          "sign": "d8c3daaad3912c17da3482caccdf85d342e779dc7b382cce9c85282319687534",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen meteorologi: Lauantaina poutaa, sunnuntaina sateita",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
