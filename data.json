@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-12T04:42:00+03:00",
+  "updated": "2026-09-12T02:00:57Z",
   "entries": [
     {
       "updated": "2026-09-11T19:29:53Z",
@@ -838,21 +838,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-09T11:32:56Z",
-      "urls": [
-        {
-          "sign": "6c84ca8795eb83a5d6318c18ccb0bb1bc567629540cb691b5ae83e48a98e353d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Serbian presidentti hajotti parlamentin ja määrää ennenaikaiset vaalit",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-09T19:00:00+03:00",
@@ -13462,6 +13447,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-12T02:00:57Z",
+      "urls": [
+        {
+          "sign": "e69475c87b735853533e36bd1ec2ab71b423d632b5a41762487ea95997d41779",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Droonihyökkäys Irakista kohdistui Saudi-Arabian öljyputkeen – putki suljettu väliaikaisesti",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
