@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-12T03:25:00+03:00",
+  "updated": "2026-09-12T04:42:00+03:00",
   "entries": [
     {
       "updated": "2026-09-11T19:29:53Z",
@@ -1403,21 +1403,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-09T17:50:00+03:00",
-      "urls": [
-        {
-          "sign": "50f362b5aee100eded5c175916dd900d79ba4fa1d5df3ff7064c877c91f5acb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jippiimissio sai valtiontukea ilman valtionapukelpoisuutta – Sari Essayah perustelee kristillisen kulttuuriperinnön vaalimisella",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13459,6 +13444,23 @@
       "title": "Pohjois-Korea laukaisi lauantaina useita lyhyen kantaman ballistisia ohjuksia Japaninmereen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-12T04:42:00+03:00",
+      "urls": [
+        {
+          "sign": "bde2263eb3b18458dae2d15c585bccc8f4b718fcec952acb1e9f5da909e7b683",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "**Saudi-Arabia sulki kriitiittisen öljyputenssa drooni-iskun vuoksi**",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
