@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-12T03:16:09Z",
+  "updated": "2026-09-12T03:39:31Z",
   "entries": [
     {
       "updated": "2026-09-11T19:29:53Z",
@@ -710,21 +710,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-09T11:14:39Z",
-      "urls": [
-        {
-          "sign": "4504f73c2b3613c60053230cf8d71da9fba878da8ca678e29b44c9ec0581f1ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomainen: Britannian lentokaaos ei johtunut kyberiskusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-09T11:33:50Z",
       "urls": [
         {
@@ -902,23 +887,6 @@
       ],
       "title": "Professori Vainikainen: Viron vahvempi koulutususko ja yhteiskunnan kehitys selittävät Pisa-eron",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-09T13:45:17Z",
-      "urls": [
-        {
-          "sign": "443bb8c3601eebd3ffdcd9a0b6bbb216cf5f9174540880c2f619d6caaa1e880e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MOT:n tiedot: HUS ei aluksi antanut lupaa siirtää Olivia Orasta sairaalaan",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -5651,21 +5619,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-10T14:41:22Z",
-      "urls": [
-        {
-          "sign": "b1aec69a0eda1eef84d29107259ca5c41d22056ccb42a55b3a64e2869151c3e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Melania Trumpin kärkiavustaja Marc Beckman puolustaa Natalie Harpia Trumpin ja Harpin suhdehuhujen keskellä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-10T15:14:57Z",
@@ -13458,6 +13411,53 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-12T03:32:00Z",
+      "urls": [
+        {
+          "sign": "94635f20e86121c284b59f12d5380a7644932723ddb368a0313cdaad802a1238",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miltton USA:n toimitusjohtaja Kristiina Helenius: Suomen vesiosaaminen on lähes hyödyntämätön vientivaltti, kun vesipula yleistyy",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-12T03:39:31Z",
+      "urls": [
+        {
+          "sign": "e044f946fd70b791acbda7d6e99576656834557bf7c1616d698233138bcce796",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turvallisuusalan koulutuksiin kymmeniä hakijoita yhtä paikkaa kohden syksyn yhteishaussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-12T03:32:24Z",
+      "urls": [
+        {
+          "sign": "9f46ab3a08e7398924b6c92f9c8ce25038f71fd416f65ecd49b19af1fd732fce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Minna Tervamäki kertoo kirjassaan lapsuuden balettiopettajan pelottelusta ja nöyryytyksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
