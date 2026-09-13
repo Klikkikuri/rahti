@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-13T06:59:00+03:00",
+  "updated": "2026-09-13T07:15:00+03:00",
   "entries": [
     {
       "updated": "2026-09-12T23:49:35Z",
@@ -938,23 +938,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-10T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "19e6744dbe985719fca14ab29ce632c1a2fbef9e8ed8e946bdf00c32ead4a84d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ars Fennica -palkinnosta kilpailevat Anna Camner, Anna Estarriola, Joel Slotte ja Sandra Mujinga",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-10T09:15:06Z",
@@ -5745,21 +5728,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-11T12:35:19Z",
-      "urls": [
-        {
-          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden graafi näyttää pörssisähkön 48 tunnin hintakehityksen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-11T13:36:44Z",
       "urls": [
         {
@@ -6254,21 +6222,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-11T12:37:16Z",
-      "urls": [
-        {
-          "sign": "de242a6b03b077bc5959b0c3fea0a9265028467119128114f4fe36f2c51c1421",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Napapiirin Sankareiden elokuvassa esiintynyt Ford Sierra myynnissä 10 000 eurolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -9614,7 +9567,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-12T08:00:28Z",
+      "updated": "2026-09-13T04:08:51Z",
       "urls": [
         {
           "sign": "a7e4faae37c844f1ef58a795f310efe6aa39401f53b34d1e3d3e705fe087dbda",
@@ -9623,8 +9576,8 @@
           ]
         }
       ],
-      "title": "Mies kuoli mönkijän ulosajossa Salon Somerolla",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Mies kuoli mönkijän ulosajossa Somerolla",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13425,6 +13378,53 @@
       "title": "Yle lähettää ylimääräisen uutislähetyksen Ruotsin vaaleista tänään kello 21 TV1:llä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-13T04:03:29Z",
+      "urls": [
+        {
+          "sign": "995575f3508d662b9a58f1c549b016bc25b2c769a5068c99225d496cfffc287f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Armand Duplantis voitti seiväshypyn Ultimate Championshipsin Budapestissä perjantai-iltana ja kommentoi häitään sekä kilpakumppanin kuittia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-13T07:15:00+03:00",
+      "urls": [
+        {
+          "sign": "6b7d8d431ae58d674e3756eccfddbce4d8e8edc21cb10271e75c3aecaca236cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harvinaista sairautta poteva Céline Dion palasi lauantaina vuosien tauon jälkeen konserttilavalle Pariisissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-13T04:00:21Z",
+      "urls": [
+        {
+          "sign": "8b7c1175a7d346845c82bfa413da7591b922f921fa979f8dc7d788beabf3e5e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin oikeistoblokki vahvistuu vaalien alla, Ruotsidemokraatit tavoittelevat hallituspaikkaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
