@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-13T05:04:14Z",
+  "updated": "2026-09-13T05:44:56Z",
   "entries": [
     {
       "updated": "2026-09-12T23:49:35Z",
@@ -701,36 +701,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-10T08:04:10Z",
-      "urls": [
-        {
-          "sign": "058d3725b9955a0bc92c362bb9749f64ee3d46cfbb29b351851ce1fe97bc68ea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisihallitus nimitti Jarkko Lehtisen Pohjanmaan poliisipäälliköksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-10T08:04:39Z",
-      "urls": [
-        {
-          "sign": "739e268ef9419e10651a6ccf4a691b6d47fe8b804e0ae1b38de443560b94a3c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kysely: Suomalaiset maksavat musiikin suoratoistosta muita pohjoismaalaisia harvemmin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-10T09:38:47Z",
       "urls": [
         {
@@ -761,21 +731,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-10T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "a959b4041f7114e8ee02e415fa9d23e5c3a0176503b5c42091b1693c48c605aa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyväskylän yliopiston tutkimus: samanikäisten nuorten biologinen ikä voi erota jopa seitsemän vuotta – tupakointi selvin selitys",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-10T13:04:00+03:00",
@@ -1087,21 +1042,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-10T08:30:00Z",
-      "urls": [
-        {
-          "sign": "45209e8843adc32487b19e2cb8b07e48fc23278b60517edd10210adcde574483",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan kuningasperheen naiset kantoivat kuningas Harald V:n muotokuvaa hautajaisissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-10T09:23:06Z",
@@ -13420,6 +13360,72 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-13T05:44:56Z",
+      "urls": [
+        {
+          "sign": "2d98e170e6245dd3f207e1b562e963157784e2bc61889b85d510d8d593645926",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän suurlähettiläs Pavel Kuznetsov ojensi kunniamerkin Naapuriseuran kunniapuheenjohtajalle Karkkilassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-13T05:44:22Z",
+      "urls": [
+        {
+          "sign": "4c637fedc3e71952a120933cfa2f47d607e93826a79f33ae352fd22023a1b044",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsalaiset äänestävät tänään – sosiaalidemokraatit johdossa gallupeissa, kakkossijasta kisaavat ruotsidemokraatit ja maltillinen kokoomus",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-13T08:31:00+03:00",
+      "urls": [
+        {
+          "sign": "d4235019b4056d92f0f546c1115a66b9820190b29db75eeccd26b9417afc0250",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan viranomaiset sallivat helleaallon takia tilapäisesti jopa 15 prosentin vahvuista samppanjaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-13T05:32:00Z",
+      "urls": [
+        {
+          "sign": "2e6e87dad2222dc0166e25425d8628e770fb1911322caa62245d1ddeb66f0dbb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Leipätiedotuksen toiminnanjohtaja Kaisa Mensonen: Yhden homeisen leivän takia koko pussi on heitettävä pois",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
