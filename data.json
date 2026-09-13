@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-13T07:15:00+03:00",
+  "updated": "2026-09-13T04:32:45Z",
   "entries": [
     {
       "updated": "2026-09-12T23:49:35Z",
@@ -633,23 +633,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-10T08:14:26Z",
-      "urls": [
-        {
-          "sign": "33d2f8857acd99bc783abaf58b2df91dccb4b847201a6c2f8852ba048672209a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tommi Kinnunen: Kirjailija saa noin kolme euroa kirjasta ja 50 senttiä äänikirjasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-10T13:50:00+03:00",
@@ -6351,23 +6334,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-11T12:51:04Z",
-      "urls": [
-        {
-          "sign": "bdfd0abf417129ad41e9fc775d0ca10b1ab5a53a3a3bd079417403d097a52752",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan prinsessa Astrid kuoli 94-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-11T13:59:37Z",
@@ -13425,6 +13391,38 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-13T04:32:00Z",
+      "urls": [
+        {
+          "sign": "4db48631a4cdd221be6228b9e6049f86b1aa65e23cfaa21f4fba7cb81ed5bb3e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sveitsin jäätiköt sulavat ennätysvauhtia – tutkija: ne voivat kadota vuoteen 2100 mennessä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-13T04:32:45Z",
+      "urls": [
+        {
+          "sign": "7307cbae36547594b1416b6ba55ef4d8145643e9598081f1cf8b406eff454cb9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Piia Bergén kertoo Nancyyn muutetusta perheestään – puistossa hän erottuu lenkkareillaan: ”Sen verran suomalainen olen”",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
