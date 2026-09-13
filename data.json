@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-13T09:42:00+03:00",
+  "updated": "2026-09-13T06:51:48Z",
   "entries": [
     {
       "updated": "2026-09-12T23:49:35Z",
@@ -5843,23 +5843,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-11T14:09:03Z",
-      "urls": [
-        {
-          "sign": "e1599fb0cdec5131848e3ca1c1ea73739a225a0cc67cdf56fda4cf6ab4fd8d3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-11T16:45:00+03:00",
@@ -13439,6 +13422,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-13T06:51:48Z",
+      "urls": [
+        {
+          "sign": "e984bc06d7a55a4b214f2b686bbff313ea5ebd71adbf614269529b1131b0103f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsidemokraattien Jomshof varoittaa Suomea toistamasta Ruotsin maahanmuuttovirheitä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
