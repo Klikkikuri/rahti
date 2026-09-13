@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-13T03:20:00+03:00",
+  "updated": "2026-09-13T01:05:11Z",
   "entries": [
     {
       "updated": "2026-09-12T23:49:35Z",
@@ -744,23 +744,6 @@
       ],
       "title": "Ylen kokeilu: Toinen alkoholin kotitesti ei havainnut alkoholia viinin jälkeen – poliisi varoittaa luottamasta testeihin",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-10T07:32:17Z",
-      "urls": [
-        {
-          "sign": "4a82eeb6b5c9bfcddfba1e0e42bb9d86d5c7e3b21aa8ebe9a0d423c9fbb1cafb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Republikaanien puoluekokous Dallasissa paljastaa puolueen vahvan riippuvuuden Trumpista",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -6720,21 +6703,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-11T11:48:11Z",
-      "urls": [
-        {
-          "sign": "cd88b2f68c0fedf05ce286974789a6f3ee3c77c68b9080d940820a35284d6e92",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korkeushyppääji Mahutikshen manageri kritisoi valmennuksen tasoa – urheilija hämmäastelee arvostelua",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-11T13:45:00Z",
@@ -13434,6 +13402,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-13T01:03:23Z",
+      "urls": [
+        {
+          "sign": "542f67e7adf9e156d63a538d7d3a541c560cbc6369faf56fe473bc3733ab7ebe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Céline Dion palasi konserttilavalle Pariisissa ensimmäistä kertaa kuuteen vuoteen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-13T01:05:11Z",
+      "urls": [
+        {
+          "sign": "26cabb34c6ca84ffd83ad1877e4c009d55e2fb188c19ac883fd083dcf850d786",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Céline Dion itki ja esitti hittikappaleita Plenitude Arenan avauskonsertissa Pariisissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
