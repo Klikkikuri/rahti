@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-12T23:37:08Z",
+  "updated": "2026-09-13T03:20:00+03:00",
   "entries": [
     {
-      "updated": "2026-09-12T19:14:40Z",
+      "updated": "2026-09-12T23:49:35Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Venäjän hyökkäys eri puolille Ukrainaa aiheutti useita kuolonuhreja – Iltalehti seuraa sotaa",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja raportoi Venäjän propagandan leviämisestä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1330,23 +1330,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-10T11:25:00+03:00",
-      "urls": [
-        {
-          "sign": "1ff5e68fb770041a68ed9a1f191774ae46032a37451c30fc48f2a1ba7f738445",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-10T08:30:00Z",
@@ -13436,6 +13419,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-13T03:20:00+03:00",
+      "urls": [
+        {
+          "sign": "855a48ce77a91ab222951b4f1e13896d764a9e19d9304601e1b767faa137d62b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilöauto tuhoutui palossa Äänekosken mopomiitissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
