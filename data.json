@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-12T23:07:06Z",
+  "updated": "2026-09-12T23:37:08Z",
   "entries": [
     {
       "updated": "2026-09-12T19:14:40Z",
@@ -744,23 +744,6 @@
       ],
       "title": "Ylen kokeilu: Toinen alkoholin kotitesti ei havainnut alkoholia viinin jälkeen – poliisi varoittaa luottamasta testeihin",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-10T07:31:21Z",
-      "urls": [
-        {
-          "sign": "15b54c4ad23accc8e80e2b367b6bcd1098331d4e0f906d9850568a02e9e4b87c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen kaupunki ajaa Pohjoismaiden suurimman sisävesivarustamon Hopealinjat alas kannattamattomana",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13438,6 +13421,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-12T23:37:08Z",
+      "urls": [
+        {
+          "sign": "6e05619f1cd9d6e23e9bda2a48e851d6f555fc8537152b86e190fcaec6a186c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tanskalainen elokuva Woman Unknown voitti Venetsian Kultaisen leijonan, parhaan naisnäyttelijän palkinnon",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
