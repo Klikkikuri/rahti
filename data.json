@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-13T20:10:13Z",
+  "updated": "2026-09-13T20:41:45Z",
   "entries": [
     {
       "updated": "2026-09-13T16:55:56Z",
@@ -3505,23 +3505,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-12T11:10:28Z",
-      "urls": [
-        {
-          "sign": "fdceed29aa7d910146f30bdeaa9565f256f82914d5beb8c8b101fca50fa26edf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Politiikan puskaradio: SDP:n mukaan Nasima Razmyar ei ole Afganistanin kansalainen – lausunto jättää epäselvyyden",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-11T13:32:19Z",
       "urls": [
         {
@@ -6523,21 +6506,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-12T11:00:25Z",
-      "urls": [
-        {
-          "sign": "41363d291e1cf939e84ff6d51418cc14c4d457881294c569c6ff1cb02ad5edcd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kreikan seivästähti Emmanouil Karalis putosi maahan Budapestissa – stadion haukkoi henkeä, mutta vammat jäivät lieviksi ja hän sijoittui toiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-12T11:03:06Z",
@@ -11308,7 +11276,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-13T19:18:13Z",
+      "updated": "2026-09-13T20:41:45Z",
       "urls": [
         {
           "sign": "ff6233faed05bdd2599eb5a0873cd45882600863764f9c1c9cf34143d70c73bf",
@@ -11317,8 +11285,8 @@
           ]
         }
       ],
-      "title": "Vasemmistoblokki johtaa Ruotsin vaaleissa ovensuukyselyiden mukaan",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Vasemmistoblokki johtaa niukasti Ruotsin parlamenttivaaleissa SVT:n ennusteen mukaan",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -12572,7 +12540,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-13T20:01:17Z",
+      "updated": "2026-09-13T20:28:56Z",
       "urls": [
         {
           "sign": "4edd66dad161727a3679358ca5ae94378b6279667d2f4eaed6d8843e25a29b23",
@@ -12581,8 +12549,8 @@
           ]
         }
       ],
-      "title": "SVT:n ovensuukysely: sosiaalidemokraatit johtavat Ruotsin vaaleja, mutta kannatus laskee – Lindtman: Äänestäjät haluavat muutosta",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Ruotsin valtiopäivävaaleissa sosiaalidemokraatit johdossa ovensuukyselyssä – SVT:n ennusteessa blokit tasoissa",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13430,6 +13398,36 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-13T20:32:48Z",
+      "urls": [
+        {
+          "sign": "ded62f20bd07ca4bd19a08efc66847ca5fb39dc5d0fd0df384f6ae676ae41372",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin toive Irlannin ja Pohjois-Irlannin yhdistymisestä herättää vastaraktion brittipoliitikoissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-13T20:19:25Z",
+      "urls": [
+        {
+          "sign": "4ae0a21fba77919816035ad74b3948a30c1c3a2ba1cc1155b0d0087ef6faf0f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kushed: Ukraiinassa olisi jo rauha, jos maa suostuisi Venäjän aluevaatimuksiin – Venäjä iski Puolaan matkalla olleeseen junaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
