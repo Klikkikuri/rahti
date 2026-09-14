@@ -118,6 +118,15 @@
           "template": "https://www.svt.se/nyhetskoll/{{ .ArticleSlug }}"
         }
       ]
+    },
+    {
+      "domain": "",
+      "templates": [
+        {
+          "pattern": "^(?P<Path>/.*?)/*$",
+          "template": "https://{{ .Host }}{{ .Path }}"
+        }
+      ]
     }
   ]
 }
