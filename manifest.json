@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Klikkikuri/meri/refs/heads/main/docs/manifest.schema.json",
+  "schema_version": "1.0.0",
+  "name": "Klikkikuri",
+  "updated": "2026-09-14T11:46:31Z",
+  "resources": [
+    {
+      "type": "suola-rules",
+      "href": "./rules.json"
+    },
+    {
+      "type": "rahti-data",
+      "href": "./data.json"
+    },
+    {
+      "type": "site-configs",
+      "href": "./sites.json"
+    }
+  ]
+}
