@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-15T03:51:00+03:00",
+  "updated": "2026-09-15T02:30:02Z",
   "entries": [
     {
       "updated": "2026-09-14T21:35:31Z",
@@ -1776,21 +1776,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-12T03:32:00Z",
-      "urls": [
-        {
-          "sign": "94635f20e86121c284b59f12d5380a7644932723ddb368a0313cdaad802a1238",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miltton USA:n toimitusjohtaja Kristiina Helenius: Suomen vesiosaaminen on lähes hyödyntämätön vientivaltti, kun vesipula yleistyy",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-12T03:39:31Z",
@@ -6065,21 +6050,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-13T14:16:58Z",
-      "urls": [
-        {
-          "sign": "ff0a6fdd5da5430ff95f49d1da7194067d276a619d2235eb4526b496d98273ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus salli perheen omakotitalon myynnin miehen velkojen kattamiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-13T18:31:19Z",
       "urls": [
         {
@@ -6138,21 +6108,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-13T14:16:53Z",
-      "urls": [
-        {
-          "sign": "849e0beab14029db05472eb87867a0c0401b4559b8598b1d00ae176291570a9f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "F3-kuljettaja Tuukka Taponen voitti kauden päätöskisan, nousi sarjan kolmanneksi – ensi kauden jatko on rahoituksesta kiinni",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-13T15:05:04Z",
@@ -13418,6 +13373,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-15T02:30:02Z",
+      "urls": [
+        {
+          "sign": "2274ee80fb6258bf96304941e254ee9adccb3426b61b3dff82b80c9c990cfe5c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Klarna ottaa käyttöön puhelun vahvistuksen – sovellus paljastaa huijauspuhelut",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-15T02:00:02Z",
+      "urls": [
+        {
+          "sign": "23c1f91cd729c6fbe7b407b145f7f49baf37805ccc29f49ae633d15c30a0b8a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sateet saapuvat lännestä keskiviikkona – runsaimmat länsiosassa ja Länsi-Lapissa 30–40 mm vettä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-15T02:23:45Z",
+      "urls": [
+        {
+          "sign": "70acde6ab20d6185fe906763377db859d1f70f64b78fbcbb507b20d19e00ed4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän fregatti ampui hätäraketteja Tanskan helikopteria kohti – Tanska kutsuu suurlähettilään puhutteluun",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
