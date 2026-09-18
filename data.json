@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T07:13:00+03:00",
+  "updated": "2026-09-18T04:29:14Z",
   "entries": [
     {
       "updated": "2026-09-18T03:54:49Z",
@@ -1503,24 +1503,6 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-15T17:44:03Z",
-      "urls": [
-        {
-          "sign": "e5261d6d6ca9c609ff8f7a7aff9d3a00f17554dc27cf39b442b2d339b6f882dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-16T02:00:00+03:00",
@@ -4820,21 +4802,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-16T16:44:32Z",
-      "urls": [
-        {
-          "sign": "e6025910e72fdd13d7ec9a63410dcb7aa32d4c4bee822ef2aeea83eccf8e5388",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Johnny Depp söi paperinpalan saadakseen roolin Mika Kaurismäen elokuvassa – palkkana 1 540 dollaria viikossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-17T02:00:00+03:00",
       "urls": [
         {
@@ -5999,21 +5966,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-16T16:39:01Z",
-      "urls": [
-        {
-          "sign": "0eedb75ccc1278b3c115d0c3fe90f705ac756c72d08d2108f7aed1e4914849a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain oikeusministeriö syyttää viittä Venäjän tiedustelupalveluihin kytkeytyneen verkoston jäsentä salamurhien ja terrori-iskujen suunnittelusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-17T06:11:00+03:00",
@@ -13367,6 +13319,54 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-18T04:24:53Z",
+      "urls": [
+        {
+          "sign": "bbdbcdb9bbd3f8cc5a7d2d329e169b12a78d47d02fbeefe36c8f7dadd387084b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Riia Martinojan EM‑lentopallo Tampereen Nokia‑areenalla lisää seurojen kyselymäärää",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T04:25:00Z",
+      "urls": [
+        {
+          "sign": "ab84cb4034fbf0db2561f77c4fd317b373b770ad5241ea67bb019abe99e5737f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset esittelevät 9.30 suorassa lähetyksessä kauneusklinikoiden tiukennetut valvontatoimet Olivia Oraksen kuoleman jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-18T04:29:14Z",
+      "urls": [
+        {
+          "sign": "4bac35b8bf41464868e877286e588d30d644c249f6f56ff835c56e6211bbd91a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan kuningas Haakon ei käytä kruunua, koska maassa ei ole kruunajaisia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
