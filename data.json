@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T05:57:56Z",
+  "updated": "2026-09-18T06:14:40Z",
   "entries": [
     {
       "updated": "2026-09-18T05:33:50Z",
@@ -738,38 +738,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-15T12:52:04Z",
-      "urls": [
-        {
-          "sign": "aacf0b64f295d5eb3bff43d664d0e0c71b39bc16f49261debc16428e4034ebc3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump kritisoi Googlen Suomen miljardihanketta, Orpo ei ole huolissaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-15T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "760249fdc93ec30f7297fe3bdf00a1c7c8b00f193e50f9873d4b22f2f8a0490e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus käyttää sähkön hintakattoa vaalimainoksena",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-15T18:45:00+03:00",
@@ -5144,21 +5112,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-16T17:58:44Z",
-      "urls": [
-        {
-          "sign": "9f6b9ab2fadbde99076ffcb1c1f6aecc1d9ebeefc2a45dec6629e0cd40cf3e64",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalifornian poliisi pysäytti Volkswagen Jetta -kuljettajan, jonka piilotettu rekisterikilpi johti 250 dollarin sakkoon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-16T20:15:00+03:00",
       "urls": [
         {
@@ -5347,21 +5300,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-16T17:44:01Z",
-      "urls": [
-        {
-          "sign": "67d846fcbe3d45900db77de1086e16752c706db9c1b757c24aa4abd602f0adba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Suomi laittaa nyt paljon Yhdysvaltain varaan – tämä on muistettava",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-16T19:42:56Z",
@@ -11999,7 +11937,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-17T21:56:00+03:00",
+      "updated": "2026-09-18T09:05:00+03:00",
       "urls": [
         {
           "sign": "3062345885fdfa70da270fc203d4645684183c3438f4cbee6c02a89285b1263b",
@@ -13370,6 +13308,70 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T06:04:10Z",
+      "urls": [
+        {
+          "sign": "f0143d0c315111353912c835a04b8611dca45eef5f06beb1c2b951f4bfd5380f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kauppias Markku Hautala ja kokki Henri Alén kritisoivat suomalaisten välinpitämättömyyttä kotimaisesta kalasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T06:14:40Z",
+      "urls": [
+        {
+          "sign": "5dec35d2a6b2b2827d7f59256917731b575bbbac633889972bd99c33122404e2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T06:06:36Z",
+      "urls": [
+        {
+          "sign": "e5a298e0402d427ed1b8e8c9a6567738d22c574eb8541da485dc4521c78ed98e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtion koulukotien hankintaepäselvyydet: Jani Méling sai sakot, Kaisa Lepolan syyte hylättiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-18T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "7f15bb1ef48827cf0aa15dcdea33f20c64f4eaf9bb68f1c0dd3f9ca03d081430",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
