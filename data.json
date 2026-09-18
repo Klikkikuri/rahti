@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T04:33:39Z",
+  "updated": "2026-09-18T04:58:44Z",
   "entries": [
     {
       "updated": "2026-09-18T03:54:49Z",
@@ -917,23 +917,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-15T12:19:04Z",
-      "urls": [
-        {
-          "sign": "7c3e047f0268d9dda2cac7a931fd80e5de10c002457784a393538d9307f2a8ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vahtimestari Birgit Lindeman on lukiolaisten turvallinen aikuinen Lappeenrannan Lyseossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-15T12:40:24Z",
       "urls": [
         {
@@ -1552,23 +1535,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-15T18:01:05Z",
-      "urls": [
-        {
-          "sign": "49c762078379d215725113d10cc32fef9869276c6104916802527602a1f4acf9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KalPa voitti HPK:n 7–0 SM-liigan tiistain ottelussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-15T19:21:00+03:00",
@@ -5541,21 +5507,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-16T17:06:59Z",
-      "urls": [
-        {
-          "sign": "0228f705d5fd44955268fe1e6fd1cb0a80a3b3b86b75e9d06ec27ceb3fc15611",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Florida Panthers joutuu aloittamaan NHL-kautensa ilman Brad Marchandia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-16T17:09:36Z",
@@ -12769,7 +12720,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-18T04:05:48Z",
+      "updated": "2026-09-18T04:54:11Z",
       "urls": [
         {
           "sign": "494aabb5955ab1c9e6a9d9dc0c777b8f26e4d3b21be565091740494eb3325c55",
@@ -12778,7 +12729,7 @@
           ]
         }
       ],
-      "title": "Ville‑Veikko Ahonen varoittaa: hyvinvointialueiden rahoitusmalli tekee sote‑palvelut kestämättömiksi",
+      "title": "Analyysi: Valtiovarainministeriön ylijohtaja Ville‑Veikko Ahonen varoittaa hyvinvointialueiden rahoitusmallin aiheuttamasta sote‑palveluiden eriytymisestä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13367,6 +13318,58 @@
       ],
       "title": "Suomen ulkoministeriön arkistodokumentit: 9/11:n jälkeen Kenian‑edustustoon kohdistui pommivaroitus",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T04:57:21Z",
+      "urls": [
+        {
+          "sign": "ee92f232fa5b64e77eb08e2373c3cdc355b84967766ed6a9a6d44456c7b16c7b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finland ranks second in EU for work‑related stress and depression, with 45% of employees affected",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-18T04:55:15Z",
+      "urls": [
+        {
+          "sign": "5062fd0470145d32bade5402e0baa0f87d55258195b37279ef5b70c7e3efce6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Huoltovarmuuskeskus hakee kumppania uuden kriisivarajärjestelmän rakentamiseen Meri‑Porin varauksen tilalle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-18T04:58:44Z",
+      "urls": [
+        {
+          "sign": "aebd72ce57dd11c80fb9742b5a72175d0a8c994b394f7db37bdc838644b1c630",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "85020a48764fd50f1586447223b3f62a521c398be19470740842a70d43a20820",
+          "labels": []
+        }
+      ],
+      "title": "Salud‑ravintolan perustaja Hannu Wiss (81) kuoli torstaina Tampereella",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
