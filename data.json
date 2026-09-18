@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T02:37:52Z",
+  "updated": "2026-09-18T02:59:55Z",
   "entries": [
     {
       "updated": "2026-09-18T00:59:41Z",
@@ -1043,23 +1043,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-15T16:37:00+03:00",
-      "urls": [
-        {
-          "sign": "41dbaf6769a0787e44382204083414c7b2726ddfe11dd8e72d58c5c17146c2e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-15T18:00:00+03:00",
       "urls": [
         {
@@ -1811,24 +1794,6 @@
       "title": "Trump tyrmää tekoälyn turvallisuushuolet huijauksena",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-15T16:22:33Z",
-      "urls": [
-        {
-          "sign": "cfee4ad8f87eb26f019d39ad32c621548bac111893dbc5afb6621944fb343cb6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kristian Smedsin Viidakon villit naiset -näytelmä ruotii Kansallisteatterissa tosi-tv:tä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -4861,21 +4826,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-16T15:03:53Z",
-      "urls": [
-        {
-          "sign": "0782e0d3b03489964c46b39c151d66486d8e0b0e06ef97012f123ab1e5bd206b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Strandman kritisoi joulukalentereiden myyntiä jo syyskuussa – Kaupan ala: kysyntää riittää",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-16T14:19:26Z",
       "urls": [
         {
@@ -5120,21 +5070,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-16T15:11:29Z",
-      "urls": [
-        {
-          "sign": "5e5bf77cc41112f770d566e6704a59a709cec11c45bed546455ffb19a918d6ea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tom Cruisen GQ:n kansikuva jakaa mielipiteet sosiaalisessa mediassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-16T13:53:46Z",
@@ -13351,6 +13286,72 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-18T02:52:14Z",
+      "urls": [
+        {
+          "sign": "2ade62b211c774f523fda69dc84b2093aab81190ff51c0d4875c7f819bf09229",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulosottolaitos varoittaa: Älä klikkaa huijausviestejä, ota yhteys pankkiin jos olet antanut tietoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T02:59:55Z",
+      "urls": [
+        {
+          "sign": "3465880939186f8b7eccf02e681219a0489827a7e152d242b3c939711ec11b74",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat yhdistivät yöaikaisen keinovalon sydämen rakenteellisiin muutoksiin ja suurempaan vajaatoiminnan riskiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T05:58:00+03:00",
+      "urls": [
+        {
+          "sign": "e88577a5e3aff29fbf9471ee309d845513bf0d02e4071484651faa4417d452b8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansalaisaloite vaatii tiukempaa datakeskusten sääntelyä – etenee eduskuntaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-18T02:57:00Z",
+      "urls": [
+        {
+          "sign": "3a0d4fba0682c358f862bb8b6ad011ba71a0369aa0130213ea51fc176a1d7243",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suuret pörssiyhtiöt pitävät etätyöpolitiikkansa ennallaan, vain yksi tiukentaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
