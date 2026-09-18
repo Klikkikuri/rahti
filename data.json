@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T04:58:44Z",
+  "updated": "2026-09-18T05:11:00Z",
   "entries": [
     {
       "updated": "2026-09-18T03:54:49Z",
@@ -691,21 +691,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-15T17:51:00+03:00",
-      "urls": [
-        {
-          "sign": "8d3508851cfa3d4943ba2a339988e67b84dcb136170277d24c31bfe2941a6996",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuolemansairas Jace Eon Ilias palautetaan Yhdysvaltoihin – ambulanssilento maksaa vähintään 100 000 euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-15T14:38:25Z",
       "urls": [
         {
@@ -1130,21 +1115,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-15T18:44:40Z",
-      "urls": [
-        {
-          "sign": "76861a7cd26ada4df97b4f474b769e19bf28aeaf8845c9e62df0f26dd5cf6fd7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeri Valtonen: Venäjän toimet Tanskan helikopteria kohtaan olivat vastuuttomia ja vaarallisia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-16T02:00:00+03:00",
@@ -5458,21 +5428,6 @@
       ],
       "title": "Putin kehottaa äänestämään duuman vaaleissa – ”yhteinen panoksemme voiton eteen”",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-16T17:09:13Z",
-      "urls": [
-        {
-          "sign": "5961ca6e40e6cccab5ea0d41405e71b5aa4a43c536e8f00129ea6201ee62a82d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyvil: Lastensuojelun sijoitusten nettokustannukset yli kaksinkertaistuivat 15 vuodessa – sijoitettujen lasten määrä pysyi ennallaan",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -12720,7 +12675,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-18T04:54:11Z",
+      "updated": "2026-09-18T05:04:43Z",
       "urls": [
         {
           "sign": "494aabb5955ab1c9e6a9d9dc0c777b8f26e4d3b21be565091740494eb3325c55",
@@ -12729,7 +12684,7 @@
           ]
         }
       ],
-      "title": "Analyysi: Valtiovarainministeriön ylijohtaja Ville‑Veikko Ahonen varoittaa hyvinvointialueiden rahoitusmallin aiheuttamasta sote‑palveluiden eriytymisestä",
+      "title": "Analyysi: VM:n ylijohtaja Ville‑Veikko Ahonen varoittaa hyvinvointialueiden taloudellisesta eriytymisestä ja sote‑palveluiden jakautumisesta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13372,6 +13327,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T05:08:46Z",
+      "urls": [
+        {
+          "sign": "362d7a99b4854cc3b8739c8425dd1ade76ee4de7678e2b5fcfe2aee14123d98a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Florida Panthersin harjoitusleirillä Aleksander Barkov harjoittelee uudessa linjassa Sam Reinhartin ja Brady Tkachukin kanssa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "fa6c78ef671800704a8d5df8d94fc8f99007056956fd9eead09e6f7a1727a53f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-18T05:11:00Z",
+      "urls": [
+        {
+          "sign": "3b2c44b23cc5f56fe2964d8fb1da292a6d7e2703727842d1069786dfd44cfc00",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä-Korean kahden Michelin-tähden ravintola Evett sai sakot muurahaisten tarjoilusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
