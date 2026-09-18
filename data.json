@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T10:44:57Z",
+  "updated": "2026-09-18T10:59:49Z",
   "entries": [
     {
       "updated": "2026-09-18T09:45:14Z",
@@ -5861,21 +5861,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-17T06:55:52Z",
-      "urls": [
-        {
-          "sign": "613df49cf02e209f5ce126f8abc91723c05522859e4a5e52f5aa6cd74c1a03b4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jani Mäkelä kommentoi kokoomuksen takarivin poliitikkojen linjauksia työn verotuksesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-17T06:39:00+03:00",
@@ -13302,7 +13287,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-18T10:34:52Z",
+      "updated": "2026-09-18T10:59:49Z",
       "urls": [
         {
           "sign": "b11a7b01af5a95539eb54f097bace5922fae062d74457f16545565ee544f7d27",
@@ -13311,8 +13296,8 @@
           ]
         }
       ],
-      "title": "Hesburger avaa ensimmäisen ravintolansa Materassa lokakuussa",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Hesburger avaa ensimmäisen ravintolansa Materassa Etelä-Italiassa lokakuussa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13393,6 +13378,21 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T10:57:47Z",
+      "urls": [
+        {
+          "sign": "7978d67d2b51b88b999e1c661a293ba4f10c6be5219e62e9cfeb0b0c75516e67",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Olivia Oras kuoli plastikkileikkauksessa – oli sukua valtiovarainministeri Riikka Purralle ja viranomaiset raportoivat klinikan puutteita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
