@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T03:43:26Z",
+  "updated": "2026-09-18T03:59:56Z",
   "entries": [
     {
-      "updated": "2026-09-18T00:59:41Z",
+      "updated": "2026-09-18T03:54:49Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Euroopan unioni myöntää 3,3 miljardia euroa lisäapua Ukrainalle, Iltalehti seuraa sotaa",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja analysoi Venäjän propagandaa",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -243,7 +243,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-09-17T14:47:54Z",
+      "updated": "2026-09-18T03:59:56Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -252,8 +252,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Iranin sotaa – Yhdysvallat ja Israel iskivät Iraniin, Iran vastaa iskuihin",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "YK:n mukaan Yhdysvallat ja Israel syyllistyivät sotarikoksiin Iranin hyökkäyksessä – Iltalehti seuraa tilanteen kehittymistä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -819,21 +819,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-15T11:10:26Z",
-      "urls": [
-        {
-          "sign": "5dc7a55f54a5739308acf43af9ff2bc6b66d315d06f739eacf73974938310ecb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Macklemore putoaa Ed Sheeranin Pohjois-Amerikan kiertueelta Palestiina-puheidensa takia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-15T11:40:08Z",
       "urls": [
         {
@@ -1128,24 +1113,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-15T17:26:53Z",
-      "urls": [
-        {
-          "sign": "2a5fef395ce7d9e703621c6bbf6d67b0fbd669d879316a1c297c362a1e23cbb8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "OpenAI, Anthropic ja Google suunnittelevat yhteistä tekoälyn valvontaelintä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-15T20:00:00+03:00",
@@ -13360,6 +13327,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T03:47:15Z",
+      "urls": [
+        {
+          "sign": "bc5dcb704aae3c2d53d0606994f60a36d6a8c9f97d4582e4d02cdb2bb22afd7e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän presidentti Vladimir Putinin hallinto järjestää perjantain‑sunnuntain parlamentin alahuoneen duuman ja aluehallintojen vaalit – oppositiojohtaja Kirill Gontšarov varoittaa, että ne voivat olla viimeiset",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-18T03:52:29Z",
+      "urls": [
+        {
+          "sign": "aa40d721fa31e0f31d129f5b622c29ae64ecab666d949976e7506e6a903c02f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jokerit-fanit heiluttivat kenkiä Valtonenin suuntaan JYP:n 2–4‑tappion jälkeen, valmentaja vastasi rauhallisesti",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
