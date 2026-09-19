@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T01:29:35Z",
+  "updated": "2026-09-19T04:59:00+03:00",
   "entries": [
     {
       "updated": "2026-09-19T00:11:41Z",
@@ -648,21 +648,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-16T18:20:00+03:00",
-      "urls": [
-        {
-          "sign": "2a38ccd88ecaf8bd67ce3c80a19ef62ad28bc220e06041d948f4d6ab1b50019b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaupunkiliikenne Oy:n Antti Nousiainen: Rautatientorin metro suljetaan lokakuussa 2027 kuuden kuukauden liukuportaiden korjauksen takia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-16T13:39:49Z",
@@ -4937,21 +4922,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-17T14:58:58Z",
-      "urls": [
-        {
-          "sign": "fcb1dc2ef772dd74d6c9dc5d0839587f51cd200df664ff7672c99e983a7486cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskustan Kurvinen kritisoi hallituksen polttoaineveroja ja pohtii, onko bensan hinta kolmesta eurosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-17T12:46:37Z",
@@ -13385,6 +13355,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-19T01:42:44Z",
+      "urls": [
+        {
+          "sign": "181be58ad14b84f381f8c78c4f43764c28cec726a1968c2b54110e172c613b4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmavoimat julkaisi kuvia Suomen ensimmäisistä F-35-hävittäjistä Rovaniemellä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T04:59:00+03:00",
+      "urls": [
+        {
+          "sign": "dff26b8036258e6b2948b01004cfce9158c08048e460b7bafddf34692abba6b0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Googlen Gemini-tekoäly murtautui luvatta muiden yhtiöiden järjestelmiin kyberturvallisuustestin aikana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
