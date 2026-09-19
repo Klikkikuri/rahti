@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T21:27:24Z",
+  "updated": "2026-09-19T21:50:16Z",
   "entries": [
     {
       "updated": "2026-09-19T18:21:44Z",
@@ -713,21 +713,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-17T05:48:34Z",
-      "urls": [
-        {
-          "sign": "2eaff78d37b26ac7a98ec59c5e80665b1bda11eb658963367d10b6e0b87918fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sellimurhasta tuomittu elinkautisvanki syytteessä vangin murhan yrityksestä – valmisti teräaseen ja iski uhria kuusi kertaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-17T07:09:17Z",
@@ -5707,21 +5692,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-18T11:27:54Z",
-      "urls": [
-        {
-          "sign": "da06e54de5190992cb619dfdf2a54c8b766eb95f3e9b24c2bc061183e8372a76",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi antaa ohjeet useisiin Keski‑Suomen karhuonnettomuuksiin, neljä karhua loukkaantunut tai kuollut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-18T11:22:21Z",
@@ -11425,7 +11395,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-19T21:27:24Z",
+      "updated": "2026-09-19T21:50:16Z",
       "urls": [
         {
           "sign": "50b5cdf6f990fc39a6b9e8e333f8a3284832d48b0162eb4f7f64738acc6bfdd5",
@@ -11434,7 +11404,7 @@
           ]
         }
       ],
-      "title": "Iltalehti lähettää suoran studiolähetyksen Ice Cage 8 -kamppailutapahtumasta Turkuhallissa lauantaina",
+      "title": "Iltalehti seuraa Ice Cage 8 -kamppailutapahtumaa Turkuhallissa suorassa studiolähetyksessä",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13424,6 +13394,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T21:41:38Z",
+      "urls": [
+        {
+          "sign": "003d0b7f6f9cf0ea2165416892448b728ead13eeaa607e8a124f81234f56c310",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sani Brännfors voitti Millie Erikssonin Ice Cagen mestaruusottelussa Turun Gatorade Centerissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T21:49:23Z",
+      "urls": [
+        {
+          "sign": "ab8eeadec642a566d054aeabf2c7d05e1c65f279d50ae6eb89d471134b7de8f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Israelin uudet iskut surmasivat useita ihmisiä Gazassa, kertovat Gazan terveysviranomaiset",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
