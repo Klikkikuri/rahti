@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T20:54:00Z",
+  "updated": "2026-09-19T21:27:24Z",
   "entries": [
     {
       "updated": "2026-09-19T18:21:44Z",
@@ -196,7 +196,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-09-19T13:18:30Z",
+      "updated": "2026-09-19T21:13:26Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -205,7 +205,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin, Israel hyökkäsi Libanoniin – Iltalehti seuraa Lähi-idän tilannetta",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin, Iran iskee vastatoimilla Lähi-idässä – Iltalehti seuraa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -3603,21 +3603,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-18T11:26:18Z",
-      "urls": [
-        {
-          "sign": "c9e72ee67a9a40cd078ed6210681cb292deaac8425b706611d4ef8d513499d98",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kommentti: Suomi hävisi EM‑avausottelun Virolle, menetti C‑lohkon ykköstilan",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-17T18:07:09Z",
@@ -11440,7 +11425,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-19T20:54:00Z",
+      "updated": "2026-09-19T21:27:24Z",
       "urls": [
         {
           "sign": "50b5cdf6f990fc39a6b9e8e333f8a3284832d48b0162eb4f7f64738acc6bfdd5",
@@ -11452,8 +11437,7 @@
       "title": "Iltalehti lähettää suoran studiolähetyksen Ice Cage 8 -kamppailutapahtumasta Turkuhallissa lauantaina",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13418,6 +13402,23 @@
         }
       ],
       "title": "Italialainen ottelija Gianmarco Cinque yllättyi suomalaisten ananas-pizzasta Turun ottelun jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T21:27:21Z",
+      "urls": [
+        {
+          "sign": "cc6be9aea7ef3e59a105136073c9a74da8aa112877aeed5cb38952a9a90ff506",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sani Brännfors voitti Millie Erikssonin Ice Cage -ammattilaisottelussa Turun Gatorade Centerissa, Eriksson murtui kyyneliin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
