@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T04:59:00+03:00",
+  "updated": "2026-09-19T02:22:00Z",
   "entries": [
     {
       "updated": "2026-09-19T00:11:41Z",
@@ -552,23 +552,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-16T13:46:00Z",
-      "urls": [
-        {
-          "sign": "b794ce5f36822a2c7f5540c1899a231dab4f3db3c4d9bc5dbe902a6cacae123d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaalikääryleet kiinnostavat nuoria – historia yllättää Osmanien valtakunnan ajoilta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-16T15:52:13Z",
       "urls": [
         {
@@ -647,21 +630,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-16T13:39:49Z",
-      "urls": [
-        {
-          "sign": "052337406e5528500fd41c213ba1cecd1d62c58cc719fdee5e56f05ab0311998",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Barack Obama ilmoitti Facebookissa perheen koiran Sunnen kuolleen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -812,21 +780,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-16T14:19:51Z",
-      "urls": [
-        {
-          "sign": "ce4e73c4056c9975f68ec67d59ab9272ed191ca4d310b7ecbdf09fe14c9dc1b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Alexander Stubb kehottaa suomalaisia varautumaan sabotaasi-iskuihin ja hybridiuhkiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-16T15:18:33Z",
@@ -13385,6 +13338,57 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-19T02:00:35Z",
+      "urls": [
+        {
+          "sign": "528f7fc39f8ae06794cad051cf21174703fbca85508f2abca4bbb35f0a50db17",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uutissuomalaisen kysely: Hyvinvointialueiden sote-palveluihin tyytyväisten suomalaisten osuus nousi vuodessa 4 prosenttiyksikköä",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-19T02:22:00Z",
+      "urls": [
+        {
+          "sign": "f3cc77fd8da48b1009961f3f2838e605fd139f9e910151407cbda239e8dbb62a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen ulkoministeriö julkaisi 25‑vuotiaat salaiset Putin‑vierailun asiakirjat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-19T02:00:00Z",
+      "urls": [
+        {
+          "sign": "42970467d5300fb8e49752448e0c0fe84f01385225a29433c87fd3f2cb77ba4f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Korkojen nousu 3,4 % uhkaa kotitalouksien ostovoimaa ja pk‑yritysten investointeja juuri talouskasvun alussa, sanoo Finnveran ja VLK:n ekonomistit",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
