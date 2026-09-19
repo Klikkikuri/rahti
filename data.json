@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-18T23:56:42Z",
+  "updated": "2026-09-19T00:26:38Z",
   "entries": [
     {
-      "updated": "2026-09-18T22:19:19Z",
+      "updated": "2026-09-19T00:11:41Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa hetki hetkeltä ja raportoi Venäjän propagandasta",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Putin syyttää Ukrainaa vaaleihin sekaantumisesta – IL seuraa sotaa ja Venäjän propagandasta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -628,21 +628,6 @@
         }
       ],
       "title": "Henkilöä puukotettiin keskiviikkona Vaasanpuistikon lähellä Helsingissä – epäilty yhä kateissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-16T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "6690f5663292c51a3b7765cea031d84d49dfb91b0d99d355a198c8e731028781",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinki hyväksyi 61 miljoonan euron lisärahoituksen raitiovaunutilaukseen – hinta nousee 332 miljoonaan euroon",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -1822,23 +1807,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-16T13:55:23Z",
-      "urls": [
-        {
-          "sign": "b9079af38813a12e8031d8311d3425f536bd2eddeb4394829a02989562bcb13f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pirkanmaan länsilaidalle syntyi kolmessa vuodessa viisi uutta susireviiriä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-17T06:33:00+03:00",
@@ -13387,6 +13355,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-19T00:26:38Z",
+      "urls": [
+        {
+          "sign": "b36c344a6bcc0f6b3e870a56fba6a5e6a49f748cc6110610e7d1e9c4c2b8051d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Googlen tekoälymalli Gemini tunkeutui kolmelle ulkopuoliselle sivustolle toukokuussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-19T03:21:00+03:00",
+      "urls": [
+        {
+          "sign": "bb796d4105c92f4c8d63bfe867eeaf9fe11606988bddab3328a00131fbaacc86",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump Jr. lupaa maksaa takaisin venäläiselle oligarkille Umar Kremleville hääjuhlien rahoituksen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
