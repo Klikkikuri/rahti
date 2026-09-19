@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T22:03:57Z",
+  "updated": "2026-09-19T22:53:39Z",
   "entries": [
     {
       "updated": "2026-09-19T22:03:57Z",
@@ -5773,23 +5773,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-18T11:30:37Z",
-      "urls": [
-        {
-          "sign": "a9566f09d82cc4cb3f7e777a596721924432a833271f18f932412feb154b2ee0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pasi Nurminen hakeutui hoitoon Marko Jantusen puhelun jälkeen syyskuussa 2020",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-18T11:33:26Z",
@@ -13426,6 +13409,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-19T22:53:39Z",
+      "urls": [
+        {
+          "sign": "321c64a3ab6e6b9fe79dad46d48ec460274cd7056a10fb0f33dd723e5046a9a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain presidentti Trump pyytää seuraajiaan valitsemaan tekoälylle uuden nimen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
