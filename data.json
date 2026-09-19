@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T22:58:00+03:00",
+  "updated": "2026-09-19T20:54:00Z",
   "entries": [
     {
       "updated": "2026-09-19T18:21:44Z",
@@ -5582,23 +5582,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-18T11:15:46Z",
-      "urls": [
-        {
-          "sign": "49a1bd4637d1345e77174f3c22727f1fbe4d95148fffe2deefc0d27c44fb76c2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-18T11:01:29Z",
       "urls": [
         {
@@ -5649,21 +5632,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-18T11:10:51Z",
-      "urls": [
-        {
-          "sign": "1a20f0a923fbfb0b076738ae1a87a9ba9c76884c3d878f28ae1914d716b45fca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Hoskonen kiistää valtion 40 miljoonan euron tarjouksen Palokin vesivoimalaitoksen ostosta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-18T14:00:00+03:00",
       "urls": [
         {
@@ -5679,23 +5647,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-18T11:12:27Z",
-      "urls": [
-        {
-          "sign": "f0e584aea944e855c6271518c38b4a9cc1a5be0f2aafd5b97287fe693269ede6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Hippos määräsi ravivalmentaja Dimitri Palmroosin 18 kuukauden kilpailukieltoon dopingrikkomuksesta ja 5 300 euron sakkoon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-18T11:11:53Z",
@@ -5771,21 +5722,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-18T11:17:42Z",
-      "urls": [
-        {
-          "sign": "0f8d944614f04f5be3a59b72b1aadd07e3450cb8fe809677d87b4f21b9a541b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduskunnan puhemiesneuvosto siirsi kaksi asiaa Krista Kiurun sosiaali‑ ja terveysvaliokunnalta muille valiokunnille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-18T11:27:54Z",
@@ -11504,7 +11440,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-19T19:38:50Z",
+      "updated": "2026-09-19T20:54:00Z",
       "urls": [
         {
           "sign": "50b5cdf6f990fc39a6b9e8e333f8a3284832d48b0162eb4f7f64738acc6bfdd5",
@@ -11513,10 +11449,11 @@
           ]
         }
       ],
-      "title": "Iltalehti lähettää suoran lähetyksen Ice Cage 8 -kamppailutapahtumasta Turkuhallissa lauantaina",
+      "title": "Iltalehti lähettää suoran studiolähetyksen Ice Cage 8 -kamppailutapahtumasta Turkuhallissa lauantaina",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13419,6 +13356,72 @@
       "title": "Loton pääpotti jäi jakamatta – yksi pelaaja voitti 258 439 euroa 6+1 -tuloksella",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T20:49:45Z",
+      "urls": [
+        {
+          "sign": "9236895b80012c5015a0ea682fab8a777839f8487bc15b438c111d67a1637509",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain presidentti Trump allekirjoitti laajan Venäjä-pakotuslain",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T20:32:23Z",
+      "urls": [
+        {
+          "sign": "94b4aa029902f970d8f8f04ba5a47946442df1054b06a225693d167dbc204823",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksi Nurminen voitti Matias Niemen Ice Cage 8 -ottelussa viime hetken valmistautumisongelmista huolimatta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T20:37:12Z",
+      "urls": [
+        {
+          "sign": "4684e3e9619a3e1091af6eade3d59b1243ad330c677989c03d808a055b10366b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "CNN, MS NOW ja Politico vastustavat Trumpin Valkoisen talon pääsykieltoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T20:01:29Z",
+      "urls": [
+        {
+          "sign": "3455e8c73355942c13cad3e49ac0fc59d4e265014572952505e23ccc398c619f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Italialainen ottelija Gianmarco Cinque yllättyi suomalaisten ananas-pizzasta Turun ottelun jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
