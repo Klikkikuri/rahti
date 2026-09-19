@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T02:14:00+03:00",
+  "updated": "2026-09-18T23:56:42Z",
   "entries": [
     {
       "updated": "2026-09-18T22:19:19Z",
@@ -959,23 +959,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-16T13:44:19Z",
-      "urls": [
-        {
-          "sign": "1df758b6c5af92b3185d1ec676452fbf4711ff5f57cc41c6ef2ac84de1f0214e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kouvolan kaupunki purkaa Anu Pentikin vihreän Ogoh-Ogoh-veistoksen Kouvolatalon edustalta – teos ei kestänyt sään vaihtelua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-16T15:03:25Z",
@@ -2124,21 +2107,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-17T14:31:21Z",
-      "urls": [
-        {
-          "sign": "aa0822189224a84fbc23fcb813ae2259127eef3bf941c8f0cc573025270b2179",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Proviisori Jenni Sainio: lääkkeen nimeä ei tarvitse sanoa ääneen apteekissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-17T09:36:00+03:00",
@@ -13387,6 +13355,38 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-18T23:30:27Z",
+      "urls": [
+        {
+          "sign": "d2355773270efab747eb97e79bb34db5771ed2183d5a7e354baac840b463a38a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Melania Trumpin video Xi Jinpingin illallisesta sai voimakasta kritiikkiä talouskriisin keskellä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-18T23:56:42Z",
+      "urls": [
+        {
+          "sign": "77750018d49c539f7bda30554572301889bfda17cbc1c1f2edef20ee4efdd04a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump ja Xi tapaavat teknologiajohtajia Valkoisessa talossa ensi viikolla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
