@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T01:00:09Z",
+  "updated": "2026-09-19T01:29:35Z",
   "entries": [
     {
       "updated": "2026-09-19T00:11:41Z",
@@ -978,21 +978,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-16T14:17:51Z",
-      "urls": [
-        {
-          "sign": "a5319b46135346617bf00269e73685890d94deb8a55574bde3c8528e0869e62f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kymmeniä ihmisiä kuoli asuinrakennuksen romahdettua Gazassa viime yönä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-16T11:22:12Z",
@@ -13385,6 +13370,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T01:29:35Z",
+      "urls": [
+        {
+          "sign": "378617bb5d2957b613fc2e0aa8ddee1026241252b56695ce0aef5f8ddad2f9cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa voimakkaasta tuulesta viikonloppuna – puuskat yli 15 m/s Etelä- ja Keski-Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
