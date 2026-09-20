@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-19T23:38:36Z",
+  "updated": "2026-09-20T00:23:19Z",
   "entries": [
     {
       "updated": "2026-09-19T22:03:57Z",
@@ -662,23 +662,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-17T07:09:17Z",
-      "urls": [
-        {
-          "sign": "3454be4405298c3d069e4db583cfe8bdcc823111450eea3def6a9aa2f0b2c373",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uudisasuntorakentaminen elpymässä Rovaniemellä – lyhytvuokraus kielletty molemmissa uudiskohteissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-17T13:07:09Z",
@@ -5298,21 +5281,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-18T11:38:11Z",
-      "urls": [
-        {
-          "sign": "b11a7b01af5a95539eb54f097bace5922fae062d74457f16545565ee544f7d27",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hesburger avaa ravintolan Materassa Italiassa lokakuussa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-18T13:41:00+03:00",
@@ -13427,6 +13395,40 @@
       "title": "Venäjän duuma‑vaalit päättyvät tänään, Putinin Yhtenäinen Venäjä odottaa enemmistövoittoa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-20T00:23:19Z",
+      "urls": [
+        {
+          "sign": "e4b152175a6ec82b2ae925d2b632f786a951a90e879af4dbad427ce6ea4fbb6f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mellakkapoliisi hajotti väkivaltaiseksi muuttuneen äärioikeistolaisen mielenosoituksen Haagissa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-17T11:27:09Z",
+      "urls": [
+        {
+          "sign": "522690dca19cc906cc8e7dc897de4996a2b5916ded18490deb87d8cbfdba46df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Noin 20 ruokalähettiä asuu Helsingin kerrostalossa, osa nukkuu patjoilla yhteishuoneessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
