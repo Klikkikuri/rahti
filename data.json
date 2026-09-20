@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-20T02:13:00+03:00",
+  "updated": "2026-09-19T23:38:36Z",
   "entries": [
     {
       "updated": "2026-09-19T22:03:57Z",
@@ -531,23 +531,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-17T07:08:14Z",
-      "urls": [
-        {
-          "sign": "8a3d0ccf804d13862553e6b172c3f77afcc3bd0aef2c4da5f4571b2841e26e57",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuntarahoituksen kysely osoittaa eteläpohjalaiset onnellisimmiksi ja satakuntalaiset onnettomimmiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-17T07:17:46Z",
@@ -13430,6 +13413,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-19T23:38:36Z",
+      "urls": [
+        {
+          "sign": "9026a6a0cee7d2338d069665a9bbd1aa0e7211644d1d4c02264025ce89a7ce76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän duuma‑vaalit päättyvät tänään, Putinin Yhtenäinen Venäjä odottaa enemmistövoittoa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
