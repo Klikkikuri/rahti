@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-20T20:33:17Z",
+  "updated": "2026-09-20T21:11:42Z",
   "entries": [
     {
-      "updated": "2026-09-20T13:47:10Z",
+      "updated": "2026-09-20T20:58:09Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa ja analysoi Venäjän propagandan vaikutuksia Suomessa",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja raportoi Venäjän propagandasta",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -1510,24 +1510,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-18T04:55:15Z",
-      "urls": [
-        {
-          "sign": "5062fd0470145d32bade5402e0baa0f87d55258195b37279ef5b70c7e3efce6c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Huoltovarmuuskeskus hakee kumppania uuden kriisivarajärjestelmän rakentamiseen Meri‑Porin varauksen tilalle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-18T08:00:00+03:00",
       "urls": [
         {
@@ -1543,23 +1525,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-18T05:11:00Z",
-      "urls": [
-        {
-          "sign": "3b2c44b23cc5f56fe2964d8fb1da292a6d7e2703727842d1069786dfd44cfc00",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä-Korean kahden Michelin-tähden ravintola Evett sai sakot muurahaisten tarjoilusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-18T05:23:39Z",
@@ -6188,21 +6153,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-19T09:24:13Z",
-      "urls": [
-        {
-          "sign": "8e0dc823e17892cad3149a69cfd1ae7fbcb3efb4a233a7f295f4f6b9857d01ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ismo Leikolan tuotantoyhtiö teki vuonna 2025 lähes 330 000 euron tuloksen, nettovarallisuus nousi yli kahteen miljoonaan euroon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-19T09:01:00Z",
@@ -13435,6 +13385,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-20T20:45:22Z",
+      "urls": [
+        {
+          "sign": "02d385bf34420b0887aeb9e934d3cfe9b34c7233ebf7cdf9a354ab5b281aefd3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi ja Trump sopivat New Yorkin tapaamisesta, presidentti korostaa Ukrainan tavoitetta kohti rauhaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-20T21:11:42Z",
+      "urls": [
+        {
+          "sign": "1e8bda7bc3b239f8839b124d478b2d50ecccb7531546f69d15c0a49328267c3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oulun käräjäoikeus tuomitsi nuorisokodinohjaajan kahteen vuoteen vankeuteen seksuaalisesta hyväksikäytöstä 17‑vuotiaaseen tytön kanssa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-21T00:00:00+03:00",
+      "urls": [
+        {
+          "sign": "8ce4eb6d1040eaa2dfa6be4a71c5b689edc10870fb0b91abfad97b3cb6290c36",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viikkohoroskooppi 38: Lue jokaisen tähtimerkin ennusteet rahaan, rakkauteen ja työhön",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
