@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-20T03:00:09Z",
+  "updated": "2026-09-20T03:30:35Z",
   "entries": [
     {
       "updated": "2026-09-19T22:03:57Z",
@@ -532,21 +532,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-17T07:45:03Z",
-      "urls": [
-        {
-          "sign": "141b4a8e202542b469de753d78d43e1d201225fe2ee9b2406a07acad75c1db75",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi karhunpentua kuoli junan törmäyksessä Keuruulla, emoa etsitään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -1651,23 +1636,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-17T09:55:05Z",
-      "urls": [
-        {
-          "sign": "cf16adc3a5d687b68a81d83de588f63b87351feba5ae90ec5d77ac1d12744049",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liigaviikon asiantuntijat: HIFK:n avauspelaaminen on luokatonta – Olli Jokinen vastuussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-17T16:45:00+03:00",
       "urls": [
         {
@@ -1728,23 +1696,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-17T09:59:39Z",
-      "urls": [
-        {
-          "sign": "9e77b0d446e551797131940bae0777bc6358639a9014bd7f8f4eb2647beb1837",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jokerit pelaa ensimmäisen SM-liigakotiottelunsa yli 12 vuoteen – Patrik Virta debytoi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-17T17:15:00+03:00",
@@ -5469,21 +5420,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-18T11:52:21Z",
-      "urls": [
-        {
-          "sign": "988bc114ec94c00ee95db35dda945fe5a25fea4ba0c1dca8a54e47de1749405c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jari tekee etätöitä alasti – Iltalehden kyselyssä yli 4 000 vastaajaa kertoi alastomuustottumuksistaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-18T11:57:44Z",
@@ -13430,6 +13366,70 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-20T03:30:35Z",
+      "urls": [
+        {
+          "sign": "c5deb26892debbef19b56bb128a03e0bb986a04dd80279427f97cdb8e524f479",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntija varoittaa: rahapelaaminen ja nettiporno lisäävät ongelmia työpaikoilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-20T03:12:00Z",
+      "urls": [
+        {
+          "sign": "0cbf2911ac1d8f6cdc80014f7b1a6682d7e223e03eb56357463f8feb917607aa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuluttajatutkija Joeri Van den Bergh neuvoo suuryrityksiä: Kauneus‑ ja hyvinvointikulut kasvavat, pitkäikäisyys on uusi luksus",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-20T03:18:38Z",
+      "urls": [
+        {
+          "sign": "1c8db5ba37bcf2a30d1c1a2c3cda065cc84959930daf96318f4a3175c30e5989",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Burkina Faso luovutti Suomessa asuneen, Ukrainassa taistelleen miehen salaa Venäjälle – hän on nyt vankina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-20T03:28:07Z",
+      "urls": [
+        {
+          "sign": "c84d203cbe869c1f8b55a58c3f8492d9707b06a536e4028ec592069ff469019d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Autoklinikan kyselyn mukaan taskuparkki on stressaavin pysäköintitilanne, lähes kolmasosa suomalaisista kokee sen ahdistavaksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
