@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-20T05:12:00+03:00",
+  "updated": "2026-09-20T02:40:15Z",
   "entries": [
     {
       "updated": "2026-09-19T22:03:57Z",
@@ -1499,21 +1499,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-17T09:45:21Z",
-      "urls": [
-        {
-          "sign": "61b0da210b1cc65247176cf1ea347ea4baea84650e363c3d4c2ac9af70c3d201",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Matti ja Teppo julkaisevat uuden Hulabaloo-kappaleen perjantaina 18. syyskuuta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -10219,7 +10204,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-19T14:09:10Z",
+      "updated": "2026-09-20T02:40:15Z",
       "urls": [
         {
           "sign": "b2365d722930b00af8688154a3036a0d5bbb558efe4b7fcf0f9ec4ad8707cf2a",
@@ -10228,7 +10213,7 @@
           ]
         }
       ],
-      "title": "Venäjän duuman vaalit 18.–20.9.: oppositiolla ei mahdollisuutta haastaa Yhtenäinen Venäjä, äänestys myös miehitetyillä alueilla",
+      "title": "Venäjän duuman vaaleissa 18.–20.9. Yhtenäinen Venäjä etenee varmana voittajana, äänestys koskee myös miehitettyjä alueita",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13427,6 +13412,23 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-20T02:24:00Z",
+      "urls": [
+        {
+          "sign": "8c70bc348460be3b9e5f3b2b8009d5d871f3459b27f82c577db3a879ac679494",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hector kutsuu Venäjää roistovaltioksi ja kritisoi Israelin sekä Yhdysvaltojen toimintaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
