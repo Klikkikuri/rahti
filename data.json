@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-20T01:42:39Z",
+  "updated": "2026-09-20T05:12:00+03:00",
   "entries": [
     {
       "updated": "2026-09-19T22:03:57Z",
@@ -516,38 +516,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-09-17T14:35:00+03:00",
-      "urls": [
-        {
-          "sign": "488c9b6c48e41596773097940264b99df16c31813b0e7e0338a59a8936a83ed5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Opposition voitti Ruotsin vaalit niukasti – keskusta ratkaisijan asemassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-17T07:17:46Z",
-      "urls": [
-        {
-          "sign": "05f8e335fdc04bda27e2fa7a29ca7e4c85f92d8d9140706bec1acec5ce4a52a5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Amerikkalaisturistit tulevat Suomeen etsimään onnellisuutta ja rauhaa Helsingissä ja Lapissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-17T08:23:23Z",
@@ -1985,21 +1953,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-17T09:19:03Z",
-      "urls": [
-        {
-          "sign": "071408d1e46a6dd0922d9a36a7b2099833a633b6651ca6b73cfbd229532afb89",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto: Frosty Pocket -jäähilejuomat vedetään myynnistä – liikaa glyserolia lapsille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-17T18:00:00+03:00",
@@ -13426,6 +13379,56 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-20T05:12:00+03:00",
+      "urls": [
+        {
+          "sign": "5307ea73d1dc9dc1a10fcdb7ce0d5296155101eb182e7d140b5f0d0eacc56e63",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ed Sheeran palasi Philadelphiassa lavalle Macklemore‑kohu‑jälkeen ja pyysi tekemiään virheitä vastaan anteeksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-20T02:10:36Z",
+      "urls": [
+        {
+          "sign": "257639f073344a58c29e11fdbd82345c7760851296efb836d34f1dfc797919ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ed Sheeran kritisoi Gazan tilannetta Philadelphian konsertissaan; lämmittäjät vetäytyivät kiertueen kiistan vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-20T02:00:00Z",
+      "urls": [
+        {
+          "sign": "f8b09622dac61bb36b77c15930f7775e00ca4be2db9eba4b39e718bc9b60347b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansainvälinen tutkimus: Grönlannin ja Etelämantereen jäätiköt menettivät 11,3 biljoonaa tonnia jäätä 1979–2023, mikä nosti maailman merenpintaa 3,14 cm",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
