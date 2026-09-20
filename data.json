@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-20T00:23:19Z",
+  "updated": "2026-09-20T04:06:00+03:00",
   "entries": [
     {
       "updated": "2026-09-19T22:03:57Z",
@@ -1468,23 +1468,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-17T14:06:00+03:00",
-      "urls": [
-        {
-          "sign": "380f1818c8b54b57e53b9e8fbe73df11ba59dfb00d41eadc33fda07cec9a1ca1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-17T14:15:30Z",
@@ -5598,21 +5581,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-18T11:44:10Z",
-      "urls": [
-        {
-          "sign": "27a659170214010ec10559f8affc55c83fcfcf206283889cd27e5ce50ecee5e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyrki Sukula ei näe Hesburgerin Italiaan tuloa uhkana ruokakulttuurille – pitää pelkoja liioiteltuina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-18T11:52:21Z",
@@ -13430,6 +13398,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-20T04:06:00+03:00",
+      "urls": [
+        {
+          "sign": "d3cdb6b0726c2b8f8916dfefe4d94af278625fc88dc429ad8c4323f7e2ed74c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat iski Karibianmerellä huumeiden salakuljetuksesta epäillyttyyn veneeseen, jossa kuoli useita ihmisiä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-20T01:01:40Z",
+      "urls": [
+        {
+          "sign": "5a03a1ee9b244026e9f19dc551aad1a65bb21944efcae058660facf4cf1dcdea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ed Sheeran kommentoi Macklemoren poistamista omalta kiertueeltaan Philadelphia-konsertissa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
