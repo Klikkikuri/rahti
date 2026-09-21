@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-21T00:32:39Z",
+  "updated": "2026-09-21T01:08:52Z",
   "entries": [
     {
       "updated": "2026-09-20T20:58:09Z",
@@ -6146,23 +6146,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-19T10:07:09Z",
-      "urls": [
-        {
-          "sign": "a12b39f1488eea500e4255944ed9592987fd6ca5789e6aabc48452a2467ab0f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13439,6 +13422,23 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-21T01:08:52Z",
+      "urls": [
+        {
+          "sign": "47cec5c0ec516b4de3ee25a1000e18326af00627e313c5c640b3d922c9a583e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Neljä ulkomaalaista turistia kateissa Norjan kalastusretkellä – yksi vahvistettu kuolleeksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
