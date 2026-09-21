@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-21T21:09:56Z",
+  "updated": "2026-09-22T00:32:00+03:00",
   "entries": [
     {
       "updated": "2026-09-21T19:57:59Z",
@@ -809,23 +809,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-18T16:45:00+03:00",
-      "urls": [
-        {
-          "sign": "257f605959348f290c866bfa72eb72b5b718cc96487d5c4644f03e8bf63e01ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jorma Seppänen kritisoi: metsien ja erämaiden korvaamaton arvo uhkaa tuulivoimarakentaminen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-18T13:05:34Z",
@@ -13454,6 +13437,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-22T00:32:00+03:00",
+      "urls": [
+        {
+          "sign": "f4be9af800f89899fa5dda5e8ac6f05978dc9a1f03827b54a0e57a2c6da7a444",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU:n pakoteneuvottelut: Ranska ja Luxemburg vaativat oligarkkien Usmanovin ja Fridmanin poistamista pakotelistalta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
