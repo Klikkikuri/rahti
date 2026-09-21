@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-20T23:00:11Z",
+  "updated": "2026-09-20T23:48:51Z",
   "entries": [
     {
       "updated": "2026-09-20T20:58:09Z",
@@ -196,7 +196,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-09-20T15:56:43Z",
+      "updated": "2026-09-20T23:48:51Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -205,8 +205,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel tappoivat Iranin ylimmän johtajan Ali Khamenein 28. helmikuuta, Iranin vastaiskut jatkuvat Lähi-idässä",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Yhdysvallat ja Israel tappoivat Iranin ylimmän johtajan Ali Khamenein, Iranin vastaiskut jatkuvat Lähi-Idässä",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -6193,23 +6193,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-19T10:03:11Z",
-      "urls": [
-        {
-          "sign": "f8981577de7e41e6898ad2586d9c03ca0d7867f568bc5aef762a27cceaaed0c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lena Meriläinen jatkaa Syke‑sarjassa – 24. kausi alkaa 17. syyskuuta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13439,6 +13422,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-20T23:29:28Z",
+      "urls": [
+        {
+          "sign": "6b2571f0cc34281eff73a06df7489e94591ef94ec935730bafb4864384776eee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aivonsyöjäameeba tappoi lapsia Yhdysvalloissa – Tutkijat varoittavat ilmastonmuutoksen lisäävän riskiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
