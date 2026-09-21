@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-21T01:08:52Z",
+  "updated": "2026-09-21T02:00:04Z",
   "entries": [
     {
       "updated": "2026-09-20T20:58:09Z",
@@ -5888,7 +5888,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-20T22:09:27Z",
+      "updated": "2026-09-21T01:41:37Z",
       "urls": [
         {
           "sign": "b2365d722930b00af8688154a3036a0d5bbb558efe4b7fcf0f9ec4ad8707cf2a",
@@ -5897,7 +5897,7 @@
           ]
         }
       ],
-      "title": "Venäjän duuman vaalien ääntenlaskenta on käynnissä: Yhtenäinen Venäjä on vaalien ennakoitu voittaja – Iltalehti seuraa",
+      "title": "Venäjän duuman vaalit käynnistyvät – Yhtenäinen Venäjä odotetaan voittavan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -6131,23 +6131,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-19T10:19:10Z",
-      "urls": [
-        {
-          "sign": "89c0126b7b5c332f29e0a25e5f7f6e329c4defd3daa14b52a543b1cd6194a2d6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaan sellimurhasta elinkautiseen tuomittu Perttu Pyynönen puukotti vankia kaulaan Riihimäen vankilassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-19T09:29:11Z",
@@ -6410,21 +6393,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-19T10:30:45Z",
-      "urls": [
-        {
-          "sign": "7e82726e2a8f3f159e0bb623fe5be82df1c8fa8415136cfb88cea5ab386333f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KuPS:n urheilutoimenjohtaja Sixten Boström selittää, miten joukkue on ansainnut yli 5 miljoonaa euroa europeleistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-19T11:39:03Z",
@@ -12417,7 +12385,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-20T23:26:00+03:00",
+      "updated": "2026-09-21T04:54:00+03:00",
       "urls": [
         {
           "sign": "aafef3f1e216a77c5d0961e3c87326acf22cfe42a297bcded3b3abd3af3f61d2",
@@ -12427,7 +12395,7 @@
         }
       ],
       "title": "Saksan osavaltiovaaleissa Die Linke ja AfD nousivat suurimmiksi, liittokansleri Merzin johtamat kristillisdemokraatit kärsivät tappiot",
-      "clickbaitiness": "Slightly Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13438,6 +13406,36 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-21T01:30:22Z",
+      "urls": [
+        {
+          "sign": "9c2a49ee0b26e695026205288c6cbc9a01dde1496515e3202255fd7f72da7f13",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sauli Niinistö uutuuskirjassa: Paavo Lipponen jätti eduskunnalle viini- ja oopperasotkun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-21T02:00:04Z",
+      "urls": [
+        {
+          "sign": "1a252ea9e2b5c694c0270732fbadb2bf733c4a5d71bf4d977c242b730e7c22fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Remppa vai muutto Suomi -ohjelmassa Paloheinän perheen yläpohjan rakenteet voivat aiheuttaa putoamisen lattiasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
