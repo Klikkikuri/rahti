@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-22T23:10:21Z",
+  "updated": "2026-09-22T23:22:29Z",
   "entries": [
     {
       "updated": "2026-09-22T19:12:14Z",
@@ -610,23 +610,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-19T15:33:20Z",
-      "urls": [
-        {
-          "sign": "30b44c11f1c46ffa142f2bff105e3f7d9fd2539d52ba0c249b44517bf8d6e12c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Äkäslompololainen Mirka Kanerva: hän haaveilee perheestä, mutta turistit haluavat hetken huumaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-19T15:35:10Z",
@@ -13471,6 +13454,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-22T23:22:29Z",
+      "urls": [
+        {
+          "sign": "247b496d2262fb153e1d4f87296079846dacfaf9fbd092f28e39ce908767ed76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilöauto törmäsi tyhjään kasettirekkaan Utajärvellä – kuljettaja loukkaantui",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
