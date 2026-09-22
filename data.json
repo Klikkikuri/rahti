@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-21T23:00:04Z",
+  "updated": "2026-09-21T23:53:29Z",
   "entries": [
     {
       "updated": "2026-09-21T19:57:59Z",
@@ -147,7 +147,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-09-21T19:36:39Z",
+      "updated": "2026-09-21T23:48:09Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -156,7 +156,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Lähi-idän tilannetta: Yhdysvallat ja Israel hyökkäsivät Iraniin, Ali Khamenei kuoli",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin 28. helmikuuta, Ali Khamenei kuoli",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -550,21 +550,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-09-18T11:41:43Z",
-      "urls": [
-        {
-          "sign": "76c06dd13ec244006f971a8ce6ed9093dab3a35e6ebaeafecbe55f3c75518714",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rovaniemen hovioikeus hylkäsi Puolangan kunnan sote‑hankinnan rikossyytteet",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-18T11:57:44Z",
@@ -13446,6 +13431,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-21T23:53:29Z",
+      "urls": [
+        {
+          "sign": "eb2b71f50f9f9764598704cda8c4ae22c5a907e02eadf6a537947856b083e610",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Macron: Keskustelu Trumpin kanssa Ukrainan ja Punaisenmeren konflikteista oli rakentava",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
