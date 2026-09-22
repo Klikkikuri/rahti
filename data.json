@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-22T02:00:02Z",
+  "updated": "2026-09-22T02:30:48Z",
   "entries": [
     {
       "updated": "2026-09-21T19:57:59Z",
@@ -550,21 +550,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-09-18T11:57:44Z",
-      "urls": [
-        {
-          "sign": "b683f993ddecad0ce68b10f113fcbbe6a5451417aeb9c68d94bb0804d1f04d87",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seinäjoen käräjäoikeus käsittelee kerrostalopalon syytteet – kaksi myanmarilaista miestä syytettynä törkeistä varkauksista ja tuhotyöstä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-18T20:22:00+03:00",
@@ -5910,21 +5895,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-20T13:48:07Z",
-      "urls": [
-        {
-          "sign": "e7ba51de16830e00c2407693200beac1305e189342bf03e8c5eb8f98610cf089",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Isännöitsijä kieltää 1,5‑vuotiaan tytön leikkialueen käytön Mikkelissä, kritisoiden kaupungin perhebrändiä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-20T16:45:00+03:00",
@@ -13446,6 +13416,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-22T02:30:35Z",
+      "urls": [
+        {
+          "sign": "8dbe9d1a4f43257ddaf62c1eb0bc1ded3beeef82809b8dbbfbf369dea9cb262e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat siirtää varusmiesten majoituksen metsäynnyttimiksi drooniuheen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-22T02:30:48Z",
+      "urls": [
+        {
+          "sign": "4d225f267986623ab25f135cf14295941caa9566699072dcad74a3cca854108d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Myrkytystietokeskus varoittaa: puolukkaämpäriin voi sekoittua myrkyllisiä kielon‑ ja oravanmarjoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
