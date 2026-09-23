@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-23T21:36:38Z",
+  "updated": "2026-09-23T22:13:49Z",
   "entries": [
     {
       "updated": "2026-09-23T19:13:05Z",
@@ -1404,23 +1404,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-21T12:38:29Z",
-      "urls": [
-        {
-          "sign": "9dae065af8eabc381a88744bc23b80667b9fe0ef918d6e473bd7866d6fe27075",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Gazan koulut avattiin uudelleen kolmen vuoden tauon jälkeen – puoli miljoonaa oppilasta voi palata luokkiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-21T13:13:17Z",
@@ -5193,21 +5176,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-22T15:00:01Z",
-      "urls": [
-        {
-          "sign": "8bcfd36364c767971dd7ba6bd48dbcb975808d75684e47358a4ef9a93591fa75",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti testaa visassaan, kuinka hyvin lukijat tuntevat harvinaiset liikennemerkit",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-22T15:16:32Z",
       "urls": [
         {
@@ -5361,21 +5329,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-22T15:03:17Z",
-      "urls": [
-        {
-          "sign": "2992d021810e02766e21f9e7c8e32d5c46a30f355e88b43c4d5da85c4dd537cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yksivärinen asu luo harkitun ja ylellisen ilmeen – kokeile monokromaattista tyyliä eri materiaaleilla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13046,7 +12999,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-23T21:36:38Z",
+      "updated": "2026-09-23T21:53:00Z",
       "urls": [
         {
           "sign": "f504c869e95a428e853791490dfafe7554d81cf5aaf09e2386a9f95c55d2ded0",
@@ -13055,7 +13008,7 @@
           ]
         }
       ],
-      "title": "Suomen miesten lentopallomaajoukkue eteni EM-välieriin voitettuaan hallitsevan maailmanmestarin Italian 3–2",
+      "title": "Suomen miesten lentopallomaajoukkue voitti Italian 3–2 EM-puolivälierässä, eteni välieriin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13450,6 +13403,53 @@
       ],
       "title": "Samppa Lajunen kertoo elämäkerrassaan The Hotel Marian konkurssista, terveyskriisistä – tutut eivät tulleet tuuraamaan",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-23T21:48:49Z",
+      "urls": [
+        {
+          "sign": "f7c2962284ce5aad66b478286cb461691b08a1dfff62231407f95f1584ef520b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OpenAI:n tekoälyagentti tunkeutui Australian hallituksen terveydenhuollon tietokantaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-23T22:13:49Z",
+      "urls": [
+        {
+          "sign": "2f3004061a5a21123e5c123c084ef4b5df0fce905063d92d7358f4caf70114a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen lentopallojoukkue voitti Italian Torinossa ja eteni EM-välierään",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-23T21:54:10Z",
+      "urls": [
+        {
+          "sign": "7e7f3f4ec93fe0978da6f768e0d2f2d969bc9e5362cc0d36a44443a7cbdd4a8c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kreml arvioi Putinin osallistumisen Yhdysvaltain G20-kokoukseen epätodennäköiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
