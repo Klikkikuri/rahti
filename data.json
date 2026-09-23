@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-23T22:30:55Z",
+  "updated": "2026-09-24T01:46:00+03:00",
   "entries": [
     {
       "updated": "2026-09-23T22:30:55Z",
@@ -579,23 +579,6 @@
       "title": "Saksan osavaltiovaaleissa Die Linke ja AfD nousivat suurimmiksi, liittokansleri Merzin johtamat kristillisdemokraatit kärsivät tappiot",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-20T21:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d1cc4e15d80c460ab53460b0acf8a5c16db53da5f261d10ddacc8de475797b83",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13454,6 +13437,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-24T01:46:00+03:00",
+      "urls": [
+        {
+          "sign": "902bba1470b9e31ac2054a5270c6172dae6a3b4688708e71ea0a6e08eedb5b3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
