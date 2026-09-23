@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-23T02:45:00Z",
+  "updated": "2026-09-23T05:55:00+03:00",
   "entries": [
     {
       "updated": "2026-09-22T23:54:13Z",
@@ -644,23 +644,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-19T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f8adadfead5a74f660ff0869490109b3aa175a79a95395840767e62b1087c126",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-20T06:55:00+03:00",
       "urls": [
         {
@@ -1220,23 +1203,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-20T06:18:56Z",
-      "urls": [
-        {
-          "sign": "c2fa81db92f93a680eddc3985b94e3a9244c0e6d00ae5f735832a13e96344902",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina iski Moskovan alueelle satoilla drooneilla Venäjän parlamenttivaalien aikana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-20T05:00:46Z",
       "urls": [
         {
@@ -1265,21 +1231,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-20T05:39:11Z",
-      "urls": [
-        {
-          "sign": "6d08b0fe04a9e3d7ca4012804a4f49e2fe768ade277c87099a73550f8d28b04a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sani Brännfors voitti Ice Cagen historian ensimmäisen naisten mestaruuden teknisellä tyrmäyksellä Millie Erikssonistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-20T06:00:35Z",
@@ -13469,6 +13420,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-23T02:50:11Z",
+      "urls": [
+        {
+          "sign": "a57fbb2b178f66f70627c5fc12aaf2621f85d1fdef73e364c3d1e748edd3f1cc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltojen ja Iranin edustajat tapasivat tiistaina YK:n yleiskokouksen yhteydessä New Yorkissa, kertoo Trump",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-23T02:22:10Z",
+      "urls": [
+        {
+          "sign": "41016d897c81da9716ef080442fe6e5d5d5c1504685fb667b146450638581a8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii kadonneita 11‑vuotiaita tyttöjä Helsingin Oulunkylässä – havainnot numeroon 112",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-23T05:55:00+03:00",
+      "urls": [
+        {
+          "sign": "0e094ca11010dd05502aea90548330c2f3b92a80f1a6d01a72c209ee5768e3d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "YK:n yleiskokouksen avauspäivänä Grönlanti‑sopimus sinetöitiin ja Trump tapasi Zelenskyin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
