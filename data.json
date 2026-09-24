@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-25T00:35:00+03:00",
+  "updated": "2026-09-24T22:00:42Z",
   "entries": [
     {
-      "updated": "2026-09-24T21:31:08Z",
+      "updated": "2026-09-24T22:00:42Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa, sen seurauksia ja Venäjän propagandaa",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja Venäjän propagandaa hetki hetkeltä",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -3557,21 +3557,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-23T14:37:38Z",
-      "urls": [
-        {
-          "sign": "ab15735e98fa932e24bc9b96ce962c93cb6a4db972474a1b37f68d76e804eccd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela myi elokuussa 166 taideteosta nettihuutokaupassa yhteensä 18 705 eurolla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-23T09:33:07Z",
@@ -13515,7 +13500,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-25T00:35:00+03:00",
+      "updated": "2026-09-25T01:00:00+03:00",
       "urls": [
         {
           "sign": "d17e5fe96d15ad2514f11d70a22cf67b36709fff8f680302595323b55350b277",
@@ -13524,10 +13509,25 @@
           ]
         }
       ],
-      "title": "Suomen presidentti Stubb pyytää Elon Muskia laajentamaan Starlink-järjestelmän Venäjälle, jotta Ukraina voi iskeä ballististen ohjusten laukaisualustoihin",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Presidentti Stubb vetoaa Elon Muskiin: Starlink tulisi kattaa Venäjä, jotta Ukraina voi iskeä ballististen ohjusten laukaisualustoihin",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-24T21:54:12Z",
+      "urls": [
+        {
+          "sign": "4706a5b6260d6a135352567192b0bcca28c27270823037959c8b16cbd63507f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Costa Rican presidentti erotti ulkoministeri Manuel Tovarin Trumpin kokoukseen osallistumisesta ilman etukäteisilmoitusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
