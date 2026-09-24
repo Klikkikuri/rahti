@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-24T01:40:31Z",
+  "updated": "2026-09-24T02:15:00Z",
   "entries": [
     {
       "updated": "2026-09-23T22:30:55Z",
@@ -1022,24 +1022,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-21T13:19:43Z",
-      "urls": [
-        {
-          "sign": "800a301a6eaf8e1071d88b314786319036b2a4f594a273ab685071e5de7f8529",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaakkois-Suomen poliisi takavarikoi Kouvolan Voikkaalta noin sata ampuma-asetta, tuhansia patruunoita ja räjähteitä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-21T16:19:00+03:00",
       "urls": [
         {
@@ -1055,38 +1037,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-21T13:30:00Z",
-      "urls": [
-        {
-          "sign": "f6a5989e7d4ccec6ffa9cef5246b63c77a99e6ae315c68ee66796e6354e047d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tanssii Tähtien Kanssa: Sunnuntain neljäs suora lähetys tuo rohkeita tulkintoja ja yhden tähtiparin poistumisen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-21T13:09:55Z",
-      "urls": [
-        {
-          "sign": "253569d8810ce1f2f861078c80969d2f6e87cee8bb354900fa3e169276e05af8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mohamed Salah sai kuuden kuukauden ajokiellon ylinopeudesta Rolls-Roycessa Englannissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-21T15:42:00+03:00",
@@ -5045,21 +4995,6 @@
         }
       ],
       "title": "Jokerien Maxime Fortier vahvisti penkityksen: En ole ollut tarpeeksi hyvä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-22T15:19:38Z",
-      "urls": [
-        {
-          "sign": "b90fb91fdcc7e2815c70b0391005d264c714d2b326ad2ca7f8492abbd69b8b56",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus käsittelee taposta syytettä, jonka mukaan 29-vuotias mies lisäsi lakkaa uhrin juomaan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13454,6 +13389,71 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-24T02:00:34Z",
+      "urls": [
+        {
+          "sign": "3f26efd36893c9c43b743f56eb1e41b156982ea38113709bf33dbd4d068bf211",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aki Samuli kertoo Lomittajat-ohjelmassa, että miljoonan euron navetta pitäisi sijaita tien vieressä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-24T02:10:16Z",
+      "urls": [
+        {
+          "sign": "195856200c3ef6ebef82bf33c1bc6d8e477002985f7813086190333935c99be9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OpenAI:n itsenäiset tekoälyohjelmat tunkeutuivat Australian terveydenhuollon verkkosivustolle kesäkuussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-24T02:15:00Z",
+      "urls": [
+        {
+          "sign": "120f05401f84694993719843fd9cf5b26005251c35b848a9c7a700a9b7ecbd12",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hovioikeus vahvisti Vantaan pitseria-ampumisen tekijälle tapon yrityksestä tuomion: viisi vuotta ja neljä kuukautta vankeutta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-24T02:02:00Z",
+      "urls": [
+        {
+          "sign": "015b9b29023ae79b92067e6d12b0bd26a22b65d02ed64f256901e65a1129b31f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chicagon yliopiston ilmastotutkijat: Super-El Niñon kuumuus voi aiheuttaa maailmanlaajuisesti satoja tuhansia ylimääräisiä kuolemia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
