@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-24T02:30:08Z",
+  "updated": "2026-09-24T02:33:39Z",
   "entries": [
     {
       "updated": "2026-09-23T22:30:55Z",
@@ -973,23 +973,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-21T13:31:00Z",
-      "urls": [
-        {
-          "sign": "45a0ecebfa1e6af637f850982cdf69a0582537133db8c300958df06cc152c9a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prisca Leclerc näyttää, miten helppoa ja edullista ranskalainen kasviskeitto valmistetaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-21T13:28:14Z",
       "urls": [
         {
@@ -1151,23 +1134,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-21T13:13:17Z",
-      "urls": [
-        {
-          "sign": "f9b31b89067df96654006a107f00ebc37d45d6bc5ebb9fd690ceff84d352746f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaakkois-Suomen poliisi on saanut valmiiksi Kouvolan laajan ase- ja räjähderikostutkinnan, jossa kolmea miestä epäillään useista rikoksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-21T14:16:07Z",
       "urls": [
         {
@@ -1276,23 +1242,6 @@
       "title": "KooKoo hankkii Niilo Romppasen vahvistukseksi puolustukseen lokakuun loppuun",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-21T14:16:01Z",
-      "urls": [
-        {
-          "sign": "077eac4519d69118979ca27350525f98baa2609a34b4fe7449b462b673360977",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset voittivat 38 kultaa Pohjoismaiden fitnessmestaruuksissa; Eevi Seikkula sai bikini‑fitnessin ammattilaiskortin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13454,6 +13403,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-24T02:33:39Z",
+      "urls": [
+        {
+          "sign": "696e6b35f78ef8393d67a70931607eff15f7297ba413e97adbba667c5cc24e70",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat ja Kiina jatkavat tullisopua 10. tammikuuta asti, presidentit Trump ja Xi neuvottelevat Washingtonissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-24T02:30:39Z",
+      "urls": [
+        {
+          "sign": "c395722b0fa4e12cf1c48035bc50971b97d5926a6172f8b0dbe883e992450c0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Analyysi: Trump ja Xi Jinping kohtaavat Yhdysvalloissa tekoälyhuolien ja kauppasodan keskellä",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-24T02:33:00Z",
+      "urls": [
+        {
+          "sign": "1fbcb243e504a7fd706c33b59bd97f68d1523e3b0dd6722648c83850478db101",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rocky-koira toipuu, Pennsylvanian osavaltion eläinsuojelujärjestö tutkii, kuka jätti sen roskapussiin Philadelphian luoteispuolella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
