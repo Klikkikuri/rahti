@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-23T23:01:49Z",
+  "updated": "2026-09-23T23:44:20Z",
   "entries": [
     {
       "updated": "2026-09-23T22:30:55Z",
@@ -595,23 +595,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-21T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "96adeaf4d67effe38b1df295ffb2c805bd354ae09ab4fab75b08fa438b9683c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -4628,7 +4611,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-23T19:18:06Z",
+      "updated": "2026-09-23T23:44:20Z",
       "urls": [
         {
           "sign": "c52702bb2fda736f1aff566ec512abb7a855540269a3a2a8aca6bc3406a51a4a",
@@ -4637,8 +4620,8 @@
           ]
         }
       ],
-      "title": "YK:n yleiskokous New Yorkissa: presidentit Stubb ja Trump puhuivat tiistaina, Ukrainan presidentti Zelenskyi puhuu keskiviikkona",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Presidentti Alexander Stubb puhui YK:n yleiskokouksessa New Yorkissa",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13457,6 +13440,21 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-24T02:41:00+03:00",
+      "urls": [
+        {
+          "sign": "9608419192bc07d69efe699895b71051bdba886c1f226aaf58bc21c368d564cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OpenAI:n tekoäly pääsi luvatta Australian hallituksen terveystietoportaaliin kesäkuussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
