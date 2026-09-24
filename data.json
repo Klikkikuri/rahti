@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-24T22:00:42Z",
+  "updated": "2026-09-24T22:27:01Z",
   "entries": [
     {
       "updated": "2026-09-24T22:00:42Z",
@@ -641,23 +641,6 @@
       "title": "Yhdysvallat, Tanska ja Grönlanti allekirjoittivat Grönlannin puolustusta koskevan sopimuksen, jossa Yhdysvallat perustaa kaksi uutta sotilastukikohtaa Grönlantiin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-22T10:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f94fa7161680e42ad58d028175edca13fa0a5197bf4399861856cf4f550d665d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -4880,21 +4863,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-23T14:39:49Z",
-      "urls": [
-        {
-          "sign": "e81ac381f27ce9e0702abd32f6d8783b31346112336eac27b8128c2fb202e29d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Christian Eriksen purkee sopimuksensa VfL Wolfsburgin kanssa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-23T14:15:00Z",
@@ -13528,6 +13496,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-24T22:27:01Z",
+      "urls": [
+        {
+          "sign": "6c7962920fc85a03b3a07dad237262444c3a7fd427ae6421c17e3e56722ac552",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolan ulkoministeri varoittaa Venäjän mahdollisesta merkittävästä toimista tänä vuonna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T01:22:00+03:00",
+      "urls": [
+        {
+          "sign": "d5b15dd36384b74596c359f07b66035fa2c76addee18acccdacea5624c90c7f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksan syyttäjät epäilevät 105-vuotiasta miestä avunannosta murhissa natsi-Saksan Stalag VI-K -leirillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
