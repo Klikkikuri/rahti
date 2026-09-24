@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-24T21:01:33Z",
+  "updated": "2026-09-25T00:35:00+03:00",
   "entries": [
     {
-      "updated": "2026-09-24T10:57:38Z",
+      "updated": "2026-09-24T21:31:08Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "CIA varoitti Eurooppaa Venäjän drooni-iskuista",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Iltalehti seuraa Ukrainan sotaa, sen seurauksia ja Venäjän propagandaa",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -675,21 +675,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-22T09:53:00+03:00",
-      "urls": [
-        {
-          "sign": "6224d0f643038f36828df48da5be6ec7345469136110ccc28d7ef980af843526",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kelan mukaan joka kolmas vuonna 1997 syntynyt nainen on saanut mielenterveyteen tai neurokirjoon liittyvää etuutta tai kuntoutuspsykoterapiaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13164,7 +13149,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-24T19:21:59Z",
+      "updated": "2026-09-24T20:23:00Z",
       "urls": [
         {
           "sign": "ad3504b6429fc6d978b8cd36e88e4bf23f1eb5b93f22f525b65c476ddf4277a7",
@@ -13528,6 +13513,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T00:35:00+03:00",
+      "urls": [
+        {
+          "sign": "d17e5fe96d15ad2514f11d70a22cf67b36709fff8f680302595323b55350b277",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen presidentti Stubb pyytää Elon Muskia laajentamaan Starlink-järjestelmän Venäjälle, jotta Ukraina voi iskeä ballististen ohjusten laukaisualustoihin",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
