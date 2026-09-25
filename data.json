@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-25T21:57:08Z",
+  "updated": "2026-09-25T22:29:33Z",
   "entries": [
     {
       "updated": "2026-09-25T17:25:27Z",
@@ -2144,21 +2144,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-23T17:13:53Z",
-      "urls": [
-        {
-          "sign": "dd2a0c62e6de646cb738f5c328bf230f2e05ba0ac7abf2c3452955603669c142",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapin uusi aluebrändi: Lappi viestii jatkossa Omatahtoisten maana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-23T17:55:02Z",
@@ -5813,21 +5798,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-24T14:42:27Z",
-      "urls": [
-        {
-          "sign": "649cb24a6bc06ec745dbc921ea52b52e2146397cb13d8ce6ee02c5bbb85f9012",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jori Lehterä pahoittelee some-päivitystään ja kertoo motivaation loppuneen syy HIFK-lähtöön",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-25T01:40:42Z",
@@ -13524,6 +13494,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T22:29:33Z",
+      "urls": [
+        {
+          "sign": "84291664093603af691a3dd4c228e09859281950569943c2931de0f773c66372",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "BBC:n haastattelemat asukkaat kertovat syöneensä rikkaruohoja ruoan loppuessa Venäjän miehittämässä Etelä-Ukrainan Oleškyssä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T22:12:40Z",
+      "urls": [
+        {
+          "sign": "abd771baea1ff8a86ff5fb76a6ad20934f6f17024a975b8b812486a6e984a892",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset julistivat hätätilan New Yorkin ja New Jerseyn osiin voimakkaan myrskyn vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
