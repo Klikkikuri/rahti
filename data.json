@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-25T22:29:33Z",
+  "updated": "2026-09-25T22:58:16Z",
   "entries": [
     {
       "updated": "2026-09-25T17:25:27Z",
@@ -2192,21 +2192,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-23T17:43:05Z",
-      "urls": [
-        {
-          "sign": "37c3386166d4e74cd1fb9319698f6b37e59242b62644a08502bb1c377f83fa20",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eversti Tuukka Elonheimo aloittaa Lapin lennoston komentajana lokakuussa – Saku Joukas siirtyy F-35-yhteystoimiston päälliköksi Yhdysvaltoihin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -6044,25 +6029,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-24T14:45:25Z",
-      "urls": [
-        {
-          "sign": "9865133f1a9b503156fb6d20f37e8f7cdb64bd96d76a0c26fdcd5eae8fb4fad3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "aa221f226c873d1b6406b841d16fc72e39670a150e05478640e741a9a54ea982",
-          "labels": []
-        }
-      ],
-      "title": "Asiantuntijat: Super-El Niño nostaa ruokahintoja Suomessa ja voi aiheuttaa hellekuolemia maailmalla",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-24T17:29:00+03:00",
@@ -13523,6 +13489,40 @@
       "title": "Viranomaiset julistivat hätätilan New Yorkin ja New Jerseyn osiin voimakkaan myrskyn vuoksi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-25T22:58:16Z",
+      "urls": [
+        {
+          "sign": "f63bdf7a5aa5cdd8e2bed70bf4388fe31265c82d9188ced6d26de62d5a8c75eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eemi Tervaportti vahvistaa Suomen miesten lentopallomaajoukkuetta EM-pronssiotteluun – hän pelaa ensimmäisenä suomalaisena kahdeksannet EM-kisat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T22:29:59Z",
+      "urls": [
+        {
+          "sign": "5acde05c0499c6cddfe056122b9bc3fe7b7fcd67bac1264eccf2ee1fd9d5eb44",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen lentopallomaajoukkueen passari Fedor Ivanov loukkaantui nilkkaansa ja ei pelaa lauantain EM-pronssipeliä Sloveniaa vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
