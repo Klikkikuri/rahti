@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-25T01:40:42Z",
+  "updated": "2026-09-25T02:00:25Z",
   "entries": [
     {
       "updated": "2026-09-24T22:00:42Z",
@@ -804,21 +804,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-22T13:03:29Z",
-      "urls": [
-        {
-          "sign": "a9e228ac431d4d32202b2dad19bb866dba58e4b21443021faec4ef5f85827165",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Suomen poliisi varoittaa verkkopetoksista, joissa huijarit tekeytyvät pankkien tai viranomaisten edustajiksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-22T15:00:00+03:00",
@@ -5287,23 +5272,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-23T15:34:25Z",
-      "urls": [
-        {
-          "sign": "53b0b603593e95495ca185b63671797051a7ad44a39dc9fad0c4ea697974f348",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lahden Pelicans Oy aloitti muutosneuvottelut taloudellisten vaikeuksien keskellä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-23T16:45:09Z",
@@ -13523,6 +13491,40 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T02:00:25Z",
+      "urls": [
+        {
+          "sign": "50baa21c413762f78ed9c5899771381c389acd5abf6503b295e09bdd6f0b1aa0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elina Taalasmaa löytyi kuolleena pakastimesta Salatut elämät -sarjan 5000. jaksossa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T02:00:00Z",
+      "urls": [
+        {
+          "sign": "dc636f783e5e5ac1d1c344a705fa8806807a8cc2709b25c7b3a93cbe964f857a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nainen selvisi hengissä ja kertoi kostonhalusta sen jälkeen, kun hänet heitettiin 24 metrin syvään kaivoskuiluun Ruotsissa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
