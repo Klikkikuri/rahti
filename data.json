@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-25T23:07:44Z",
+  "updated": "2026-09-26T02:54:00+03:00",
   "entries": [
     {
       "updated": "2026-09-25T17:25:27Z",
@@ -767,21 +767,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-23T13:42:00+03:00",
-      "urls": [
-        {
-          "sign": "a9f5ced6ac2b55bfef85088dbe90ba4b00da997cfd31c5936a0e276726087103",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustajat viidestä eduskuntaryhmästä jättivät eduskunnalle aloitteen Timo Vornasen erottamisen tutkimisesta lainvoimaisen vankeustuomion vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5839,21 +5824,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-24T15:10:51Z",
-      "urls": [
-        {
-          "sign": "4621c472294c2452a95c9ba88e2528c025c611dcdc319cf3c732db959ab930f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti julkaisee 15 kysymyksen visan Suomen historian vuosiluvuista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-24T14:00:11Z",
@@ -13526,6 +13496,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-25T23:48:48Z",
+      "urls": [
+        {
+          "sign": "2abe38dbcab1dbe9b631d92b82db99ffa39659cbc476f85e71bc687baa2b4a46",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "James Copenhaver, joka haavoittui vuonna 2024 Trumpin murhayrityksessä, on kuollut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-26T02:54:00+03:00",
+      "urls": [
+        {
+          "sign": "aea73bb8844410a92cb11d126b7460ca015560b470fa4a80e79f438ed6d5acc2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanadalaiset tutkijat löysivät Tyynenmeren luoteisosasta kaksi uutta merihämähäkkilajia, joista toinen on punasilmäinen ja karvajalkainen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
