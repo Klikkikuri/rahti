@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-26T02:11:43Z",
+  "updated": "2026-09-26T03:00:03Z",
   "entries": [
     {
       "updated": "2026-09-25T17:25:27Z",
@@ -829,23 +829,6 @@
       "title": "Iranin presidentti Masoud Pezeshkian kutsui Yhdysvaltoja terroristiksi YK:n yleiskokouksessa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-23T10:21:33Z",
-      "urls": [
-        {
-          "sign": "35dd0899d9db1ac38f6894032d1bcea4a2c790a5b47953adb4c1875ff9907867",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saksan jalkapalloliiton puheenjohtaja Bernd Neuendorf kutsui Gianni Infantonin kirjeen juoniksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -2034,21 +2017,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-23T18:50:04Z",
-      "urls": [
-        {
-          "sign": "b30e1f7ca68d67f0eaf9e78c9756b768a3ff26f8e2d6db325f587dd8eb461cb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinki hyväksyi 48 miljoonan euron pikaraitiotien ja hylkäsi yliopiston metroaseman sisäänkäynnin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-23T18:25:12Z",
@@ -6132,21 +6100,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-24T15:29:11Z",
-      "urls": [
-        {
-          "sign": "d9ac4ec9264809f4f64abe74dbbeb6754e4609e427524699cff6c5a18639fab9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen naantalilainen opettaja Elias Redin siirtyi pornokohun jälkeen aikuisviihdealalle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-24T16:21:35Z",
       "urls": [
         {
@@ -6162,21 +6115,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-24T15:38:39Z",
-      "urls": [
-        {
-          "sign": "493bc8b8d3a0f5942a2eda540c858b480baed2670342e8968b606e71d0b8af97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan hovi kutsuu kuningatar Sonjaa kuningasäidiksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-25T05:17:00+03:00",
@@ -13521,6 +13459,72 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-26T03:00:03Z",
+      "urls": [
+        {
+          "sign": "ebe2e8f591cae32f117f8eaf12b9b95a0f2d1465882d37d13b5ed1b5b7e4e68d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-26T02:30:36Z",
+      "urls": [
+        {
+          "sign": "baa39d1a803f812517ece993b713337354ba45a14a0444f163e1f11caa101f0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus osoittaa, että Sulkavalla jo 20 % omakotitaloista on tyhjillään ja jos tyhjentymisnopeus jatkuu, 60 vuoden kuluttua lähes kaikki talot voivat olla asuttomia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-26T02:48:00Z",
+      "urls": [
+        {
+          "sign": "6826fab90330836bd9509240bd49a9c8a277eb3151823d8d3b97303cd2b132a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos: ilmaston lämpeneminen pehmentää Suomen talvia ja pidentää kesää",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-26T02:44:25Z",
+      "urls": [
+        {
+          "sign": "bd175bae59615ba9ee6a54dd44eb1c047bba81ce4cbac8aed596e3d2990e5834",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "New Yorkin ja New Jerseyn kuvernöörit julistivat hätätilan myrskyn vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
