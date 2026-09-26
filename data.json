@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-26T04:28:00+03:00",
+  "updated": "2026-09-26T02:11:43Z",
   "entries": [
     {
       "updated": "2026-09-25T17:25:27Z",
@@ -1891,24 +1891,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-23T17:59:17Z",
-      "urls": [
-        {
-          "sign": "36ac4a054706b98d67d802b9b3f7a1ecc30d014a31c3fd854243a87bb786d133",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-23T20:52:00+03:00",
@@ -13524,6 +13506,21 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-26T02:11:43Z",
+      "urls": [
+        {
+          "sign": "6ef586d4665e2bb4837c215151a5e36dae58a61ea6eb5a21887790f8e8c4a947",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paavi Leo XIV pitää tänään Pariisissa ulkoilmamessun, johon odotetaan yli puoli miljoonaa osallistujaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
