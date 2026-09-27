@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-27T05:13:00+03:00",
+  "updated": "2026-09-27T02:55:00Z",
   "entries": [
     {
       "updated": "2026-09-26T22:55:15Z",
@@ -759,23 +759,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-24T06:19:05Z",
-      "urls": [
-        {
-          "sign": "9b7335cea12a6ff03958e9f616062217a02c7d98ea1dfbccc399d9bc2e3673ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liittovaltion tuomari määräsi Trumpin mediaporttikiellon kumottavaksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-24T09:35:00+03:00",
       "urls": [
         {
@@ -1019,23 +1002,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-24T09:11:09Z",
-      "urls": [
-        {
-          "sign": "a4b5aa7b17359e528ee678174559cabf9ddff10515c8d361166da72bcad51032",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiinalainen presidentti Xi Jinping saapui Yhdysvaltoihin keskiviikkona kolmen vuoden tauon jälkeen – Trump otti vastaan Andrewsissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-24T12:42:00+03:00",
@@ -13527,6 +13493,38 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-27T02:55:00Z",
+      "urls": [
+        {
+          "sign": "99227fda932927bec42f3a620a33b43160ffd7af0a4894194784186139901e56",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen ulkoministeriö julkaisi salaiset asiakirjat, joissa Venäjän ja Yhdysvaltojen välinen kauppa 9/11:n jälkeen herätti huolta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-27T02:30:35Z",
+      "urls": [
+        {
+          "sign": "7d4fbeb167e2703b20fe70cc4a8a21623df98b9c34012fb07bf31615891210f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle testasi chat‑lääkäreiltä saatavia reseptejä – ahdistukseen ja uniongelmiin lääkkeitä sai muutamassa minuutissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
