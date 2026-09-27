@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-27T22:45:01Z",
+  "updated": "2026-09-28T02:00:00+03:00",
   "entries": [
     {
       "updated": "2026-09-27T22:45:01Z",
@@ -708,23 +708,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-24T18:33:00+03:00",
-      "urls": [
-        {
-          "sign": "7dd40778787a3353e8f2600dbdfa40d94dfb4386b853237e161354563735f0ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-24T19:12:00+03:00",
       "urls": [
         {
@@ -808,38 +791,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-24T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "6385f98e851a7260e284b7ff6b4d1ffbb3bb50652a8e4e7e0aee6f962b0302d3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus | Suomen puolustusalan kasvuyritykset kumoavat vanhat talousviisaukset",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-24T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f14f307742470b39466d787b96460156f8c7c0af8485a416797b2c3eba6126cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-24T14:39:19Z",
       "urls": [
         {
@@ -855,36 +806,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-24T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "bfc1b7736024c2ded483f48eb229157d78db1524a0df80beb18d371fe3e931a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin opettaja irtisanottiin liiallisen voimankäytön jälkeen 12‑vuotiaaseen oppilaan kanssa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-24T18:01:00+03:00",
-      "urls": [
-        {
-          "sign": "72c9a9ea0772dfa27a8cec43350fd3bd86c6ad0e61e1a25ec19c6d1e1cadf2dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heka aloittaa vartioinnin Postipuiston kerrostalossa häiriöiden ehkäisemiseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-24T14:00:11Z",
@@ -972,21 +893,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-24T18:30:00+03:00",
-      "urls": [
-        {
-          "sign": "a0a385060fa5aaefed66f43c049f29d6a9f135197dd7cdc21d239a2dd2040c09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Inka Hopsu kiistää vaikuttaneensa puolisonsa yrityksen hankintaan Länsi-Uudenmaan hyvinvointialueella",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-24T16:53:10Z",
       "urls": [
         {
@@ -1066,21 +972,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-24T18:34:00+03:00",
-      "urls": [
-        {
-          "sign": "feefd47521ba5b08b1050b12431d87b39c235e5edc1fb04589966d18ebf15c29",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pariisissa oikeus tuomitsi lapsia käyttäneen taskuvarkausverkoston johtajan kahdeksaksi vuodeksi ihmiskaupasta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-24T16:35:56Z",
@@ -13556,6 +13447,121 @@
       "title": "Etelä‑Suomessa maanantai aurinkoinen, lämpö nousee 15–17 °C; keskiviikosta voi olla jopa 20 °C",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "bacf807d1face2b746175d73a4e3bd77e22579ed6a94c8cd7d449ff50a137108",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Relex Sääti:n johtajat: Ennallistaminen tarjoaa taloudellisia ja ekologisia hyötyjä Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "0591d4b878e2cbeba11521dabf00ba5918e2f592b6407913b3d70cc2b7a25b23",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MKT‑Yhtiöt kunnostaa suojellun Villa Novillan Kumpulassa kahvila‑ ja taidetilojen käyttöön",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "483ea234f6d62d5a41910b6288373baa8b7769bac9c5c16347ab981256738d98",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "28.9.1976 – Kokoomus pohti keskiryhmien hallitusta, soiden ojituksia kritisoitiin ja vaalimainokset alkoivat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "35b3ae576c50d520b8b4e3f9af9261cd6e4c617f9e9dc469e39ad3a27c1461cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Insinööri Pertti Heino: Korkeat energian hinnat hidastavat Suomen talouskasvua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "27ef7a5c8c08318fb2c9b90c4bb59ac33741f2dc2214a94e42d8ad62e58ef990",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Erkki Rautio, 94‑vuotias suomalainen sellistimestari, kuoli 15. elokuuta 2026 Espoossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "12a58d66a3347784a12ef8ef613adf943cd2ae1e0055d1150f3a793322c76b9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "d899efcd47f982a4ed627a94837fafc87ad321f920ad1e9567a778c4fcd50871",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lukijan mielipide: Hallituksen opintotukireformi asettaa taideopiskelijat velkavaaran",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
