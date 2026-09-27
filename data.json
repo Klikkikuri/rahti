@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-27T22:12:47Z",
+  "updated": "2026-09-28T01:24:00+03:00",
   "entries": [
     {
       "updated": "2026-09-27T17:52:56Z",
@@ -936,23 +936,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-24T17:30:00+03:00",
-      "urls": [
-        {
-          "sign": "113290db53e8f4be8ff769d4d9127a20809579e2fac95932b7b776f8e2e4d876",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-24T16:46:57Z",
@@ -13559,6 +13542,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-28T01:24:00+03:00",
+      "urls": [
+        {
+          "sign": "78f120d105167e5f065c990fcc7d55d64f74fc516bbb1968d8c1ac4922bd0f0b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä‑Suomessa maanantai aurinkoinen, lämpö nousee 15–17 °C; keskiviikosta voi olla jopa 20 °C",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
