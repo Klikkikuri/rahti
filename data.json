@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-27T21:29:39Z",
+  "updated": "2026-09-27T22:12:47Z",
   "entries": [
     {
       "updated": "2026-09-27T17:52:56Z",
@@ -774,21 +774,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-24T13:57:25Z",
-      "urls": [
-        {
-          "sign": "f4523ced15ea90d370a33bca911ad602f25a878703f999930143bf6898e67e91",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "BBC leikkaa TV- ja radiopalveluitaan merkittävästi osana 2026‑vuoden säästökuuria",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-24T22:42:00+03:00",
       "urls": [
         {
@@ -836,23 +821,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-24T13:49:10Z",
-      "urls": [
-        {
-          "sign": "03f204d55c1d610fee6c702748bd4e5fcf114b61e4a479265f5ddedbfeb7cdfe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HSL tekee vuosittain kymmeniä rikosilmoituksia väärennetyistä matkalipuista ja valmistelee lippujen varmentamista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-24T18:00:00+03:00",
@@ -2550,23 +2518,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-25T09:15:30Z",
-      "urls": [
-        {
-          "sign": "40851c62f642d6c2862e30b407ed83a89cddb28cbd76a2a12ab5bbc3fa9237f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjan kuningaspari saapuu Suomeen valtiovieraille 6.–7. lokakuuta 2026",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-25T10:10:03Z",
@@ -13559,6 +13510,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-27T21:47:55Z",
+      "urls": [
+        {
+          "sign": "8bb6307ae796c340f574aa666c3b20ae126dd04b53850546b2b6a8e72e2a032e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Delta‑lento DL251, Barcelonasta Bostoniin, teki hätälaskun Portoon savun ja mekaanisen vian vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-27T21:00:00Z",
+      "urls": [
+        {
+          "sign": "8ce4eb6d1040eaa2dfa6be4a71c5b689edc10870fb0b91abfad97b3cb6290c36",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "AI luo viikkohoroskoopin 40: raha‑, rakkaus‑ ja työneuvot kaikille horoskoopeille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-27T22:12:47Z",
+      "urls": [
+        {
+          "sign": "80d1fec3e79884d8f106655ffff0d02be32351b6b188052430e6b689b4117108",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tehostaa hirvenmetsästyksen valvontaa lokakuun 25. päivään saakka",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
