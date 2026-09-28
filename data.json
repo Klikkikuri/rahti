@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-28T01:12:40Z",
+  "updated": "2026-09-28T02:11:27Z",
   "entries": [
     {
       "updated": "2026-09-27T22:45:01Z",
@@ -6179,23 +6179,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-26T10:32:37Z",
-      "urls": [
-        {
-          "sign": "b1503ed0d3469a0a5bb0cec80d9d98c59da97eb52f67e41bd5928ab5160d6e83",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-26T11:03:35Z",
@@ -13562,6 +13545,21 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-28T02:11:27Z",
+      "urls": [
+        {
+          "sign": "d006ae6847e1a8a147feeae817c8675babbc6855496c20cbd0a549fbd57fae20",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "57-vuotias Satu suuteli Askoa Maajussille morsian -ohjelman ryhmätreffeillä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
