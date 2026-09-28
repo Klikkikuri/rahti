@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-28T02:00:00+03:00",
+  "updated": "2026-09-28T00:24:19Z",
   "entries": [
     {
       "updated": "2026-09-27T22:45:01Z",
@@ -821,23 +821,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-24T13:59:33Z",
-      "urls": [
-        {
-          "sign": "942d4cef845999c682a871bcec5b2b05d313341add0740b47d40b78e16a0d15e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjois‑Savon pelastuslaitos hakee reservilaisia ja vapaaehtoisia neljään väestönsuojelujoukkuuteen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
     },
@@ -6112,21 +6095,6 @@
         }
       ],
       "title": "George Russell voitti Azerbaidžanin GP:n 0,196 sekunnin erolla Max Verstappenista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-26T10:17:58Z",
-      "urls": [
-        {
-          "sign": "73bab42d6414c960e4618525f05a182dcd3021032a6f3043b76b9aa72b1b0c51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jokerit esittelee uuden ykkösnyrkin Kiekko-Espooa vastaan, Matt Caito on sivussa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13565,6 +13533,36 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T00:24:19Z",
+      "urls": [
+        {
+          "sign": "913e5ddeb6ecb607e673e8537b4fe63534d4251335f948754f4f55edd65af806",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mauritanian rannikkovartiosto pelasti 260 siirtolaista Nouakchottin edustalta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-28T00:07:59Z",
+      "urls": [
+        {
+          "sign": "1bdeaed46b67a0817dee8f9c5a1618357824d20edd6cdb0f4e53e79065157fc4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa jokaiselle eläinradan merkille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
