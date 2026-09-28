@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-28T23:00:08Z",
+  "updated": "2026-09-28T23:43:16Z",
   "entries": [
     {
       "updated": "2026-09-28T19:18:31Z",
@@ -770,23 +770,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-09-25T13:15:54Z",
-      "urls": [
-        {
-          "sign": "cfc02aadad540b405c396b77233b440acc14c2aae07264f78469726392c7e412",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HUSin tietohallintojohtaja: Tekoälyagentit kasvattavat kyberuhkia, mutta HUS nukkuu hyvin",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-25T17:00:00+03:00",
@@ -13551,6 +13534,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-28T23:43:16Z",
+      "urls": [
+        {
+          "sign": "eccd066e44c58068096839c79a56cb76cfc0e70eec5cee680001b63907550c40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Netanjahu pyysi Yhdistyneitä arabiemiirikuntia kiistämään varoituksen Hamasin hyökkäyksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
