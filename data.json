@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-28T20:49:23Z",
+  "updated": "2026-09-28T21:23:17Z",
   "entries": [
     {
       "updated": "2026-09-28T19:18:31Z",
@@ -866,21 +866,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-25T12:59:21Z",
-      "urls": [
-        {
-          "sign": "9a385f5a2b997799e1ea47403fd2c4cfee62627f8885cd0d60a30fe2d4b36660",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammattiliitot kiittävät FMG:n selvitystä Kotkan akkumateriaalitehtaan työolojen ongelmista ja vaativat tiukempaa sääntelyä ulkomaisten työntekijöiden tuontiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-25T15:00:00+03:00",
@@ -6138,23 +6123,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-27T14:45:36Z",
-      "urls": [
-        {
-          "sign": "83d4d9e66f419e9be812c58952375f8ca4a735f74619f8f6f01ff2657bc8f043",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jokerit potkui sunnuntaina päävalmentaja Tomek Valtosen, Juuso Hahl nousee päävalmentajaksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-27T14:49:18Z",
@@ -13040,7 +13008,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-28T21:52:00+03:00",
+      "updated": "2026-09-29T00:00:00+03:00",
       "urls": [
         {
           "sign": "c931927db6cd6dc861b3d11043b03d1507ee609dfc2b0208230f48e3893e6bcf",
@@ -13049,7 +13017,7 @@
           ]
         }
       ],
-      "title": "WSOY aikoo julkaista Orélienin kirjan tekoälysyytöksistä huolimatta",
+      "title": "WSOY julkaisee suomeksi Orélienin romaanin \"Tämä tai kuolema\" kiistanalaisena tekoälykirjana",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13553,6 +13521,38 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-28T21:23:17Z",
+      "urls": [
+        {
+          "sign": "ff320b68e535839a32ec1630e45931c744421a71e0e8743f5f53eb3a4116d272",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toronto Maple Leafs ja Columbus Blue Jackets vaihtoivat NHL:ssä Matthew Kniesin ja Kirill Martšenkon",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-28T21:19:49Z",
+      "urls": [
+        {
+          "sign": "ffa9b797af4689709af626cdaa096b7b4a0c17d383c3218d4e85024e2f1d51ed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paavi Leo varoitti tekoälyn vaaroista Metzissä ja kritisoi Trumpin väitteitä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
