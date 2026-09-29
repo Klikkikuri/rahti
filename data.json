@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-28T23:52:28Z",
+  "updated": "2026-09-29T00:28:35Z",
   "entries": [
     {
       "updated": "2026-09-28T19:18:31Z",
@@ -832,23 +832,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-25T13:22:26Z",
-      "urls": [
-        {
-          "sign": "330fdb33c3eb5109bf5a8c0d73a651ea8d4ad6d472af1aee99288111946ab1c2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ylen videoanalyysi: Venäjän johto pyrkii jatkamaan sotaa Ukrainassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-25T16:45:00+03:00",
@@ -13547,6 +13530,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-29T00:28:35Z",
+      "urls": [
+        {
+          "sign": "008d194e2aa912868800d3d073b1742839e186de2cb15877b41c3e1bf81c9427",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OpenAI peruuttaa uuden tekoälymallin julkaisun turvallisuushuolten vuoksi, Wall Street Journalin mukaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
