@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-28T23:43:16Z",
+  "updated": "2026-09-28T23:52:28Z",
   "entries": [
     {
       "updated": "2026-09-28T19:18:31Z",
@@ -5690,23 +5690,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-27T14:55:51Z",
-      "urls": [
-        {
-          "sign": "51e7804e88c1d387bba6aec7d0051c4ccb88f13c605238c09e77db5b1b91e541",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen miesten lentopallomaajoukkueen EM-pronssimitalisteja saapui Suomeen – Iltalehti seurasi paluuta suorana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-27T16:58:00+03:00",
@@ -13549,6 +13532,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-28T23:52:28Z",
+      "urls": [
+        {
+          "sign": "7cf6d9dee04c41f34efe82f87fb422d1912259bdc163638534877ff2fe39ad4d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Prahalaisessa alakoulussa tarjoiltu pilaantunut pasta carbonara sairastutti yli 360 ihmistä Tšekissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
