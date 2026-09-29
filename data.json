@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-29T00:54:01Z",
+  "updated": "2026-09-29T01:01:05Z",
   "entries": [
     {
       "updated": "2026-09-28T19:18:31Z",
@@ -770,21 +770,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-25T13:34:32Z",
-      "urls": [
-        {
-          "sign": "c1b4c45ca0cbc925f012421c2112ff94f03e3a638cde94b722f051de5806e751",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun käräjäoikeus hylkäsi perhetyöntekijää vastaan nostetut syytteet asiakkaiden tietojen luvattomasta katselusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-25T16:08:00+03:00",
@@ -2324,21 +2309,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-26T07:36:57Z",
-      "urls": [
-        {
-          "sign": "c1d246b68707d05d3c0617d78fedd00676873fd7fb9baa5a3ef94ed5f8f3a30c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kouvolan KooKoo jää SM-liigassa ilman avausvoittoa seitsemän ottelun jälkeen, sarjan viimeisenä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-26T10:52:00+03:00",
@@ -5942,23 +5912,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-27T15:09:35Z",
-      "urls": [
-        {
-          "sign": "98e14da7a86d584766caea250c15122cbb1bd8651988fe79d78fcbe45d090e83",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV:n tv-kasvo Siim Liivik: Berliinin maratonissa pimeys iski – ”Tässä tulee totuus esiin”",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-27T14:30:00Z",
@@ -13544,6 +13497,55 @@
         }
       ],
       "title": "Helsingin yliopiston lääketieteen pääsykokeessa vilppiä tehnyt mies kertoo halunneensa osoittaa sähköisen pääsykoejärjestelmän haavoittuvuuden",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-29T01:00:35Z",
+      "urls": [
+        {
+          "sign": "80f0883dd423c3b052ec297f6da2caa97341a120190534484eed276def85f9ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Telan kyselyn mukaan 60 % suomalaisista epäilee eläkkeen riittävyyttä vuonna 2050",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-29T01:00:00Z",
+      "urls": [
+        {
+          "sign": "debae0611d419f722c74e8626a8b773a03374c686846fe031d6874cbd4d26b0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Telan kyselyn mukaan 73 % suomalaisista vastustaa työeläkkeiden heikentämistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-29T01:01:05Z",
+      "urls": [
+        {
+          "sign": "51a2380ce5f192ba22b9259d8519c0ce9b27302ff75680cd937cc051f1f5154c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Telan kysely: 61 % suomalaisista epäilee työeläkkeiden riittävyyttä vuoteen 2050 mennessä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
