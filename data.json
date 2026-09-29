@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-29T00:28:35Z",
+  "updated": "2026-09-29T00:54:01Z",
   "entries": [
     {
       "updated": "2026-09-28T19:18:31Z",
@@ -734,23 +734,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-25T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "81929525f28672237c81e7b6dab7efc519e84353958fd5555331783335d4ebe1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laadukas perusterveydenhuolto vähentää erikoissairaanhoidon tarpeettomia tutkimuksia, säästää kustannuksia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -5897,21 +5880,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-27T15:04:02Z",
-      "urls": [
-        {
-          "sign": "1963c9fa8ef023a2a3060151b977cae6497e48152fd106af1595151167d46c18",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kolme kotimaista viljaa soveltuvat riisin korvikkeiksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-27T14:02:01Z",
       "urls": [
         {
@@ -6153,21 +6121,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-27T14:56:10Z",
-      "urls": [
-        {
-          "sign": "cd54bbefa8651dd2ef64754cdd26b382d4a6e3abc1d9b5d38023d535675888e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elina Knihtilän loukkaantuminen laiturilla pakotti Q-teatterin perumaan Suliko-esityksen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-27T14:32:18Z",
@@ -13547,6 +13500,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-28T23:33:56Z",
+      "urls": [
+        {
+          "sign": "ad621585809b3651c1cd920f9ae741bfadda565d9afcc55c8184b5c3c716e5a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa jokaiselle tähtimerkille pohdittavaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-29T03:46:00+03:00",
+      "urls": [
+        {
+          "sign": "fafe797bae429808d133079fabaf22b98ad4498d0efa249fadbb0c2010062054",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoäly | OpenAI peruu uuden tekoälymallinsa julkaisun, syynä turvallisuushuolet",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-09-29T00:54:01Z",
+      "urls": [
+        {
+          "sign": "25f17106f12bd9fb0e4d4a9904d226c0530097c908e25d2b9b459a425b735978",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin yliopiston lääketieteen pääsykokeessa vilppiä tehnyt mies kertoo halunneensa osoittaa sähköisen pääsykoejärjestelmän haavoittuvuuden",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
