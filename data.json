@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-30T04:33:00+03:00",
+  "updated": "2026-09-30T02:20:00Z",
   "entries": [
     {
       "updated": "2026-09-29T22:41:08Z",
@@ -890,21 +890,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-27T04:30:02Z",
-      "urls": [
-        {
-          "sign": "d225c8257584aeb8ae1ac223aae66731dc5febbd624fa512f5f71387ef0aec1c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiinan Yhdysvalloille lupaama isopandapari Ping Ping ja Fu Shuang lähti kohti Atlantan eläintarhaa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-27T05:11:24Z",
       "urls": [
         {
@@ -1158,38 +1143,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-27T09:04:00Z",
-      "urls": [
-        {
-          "sign": "170d003e8ccf54b464d3b03d46de3a5ff910a9886f8edcce7b6214ee792f8053",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuomarit kehuivat viime sunnuntaina Ellinooran ja Marko Keräsen wieninvalssia Tanssii Tähtien Kanssa -ohjelmassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-27T09:10:09Z",
-      "urls": [
-        {
-          "sign": "e30d69a9e8e686b70bb9d342b3915ed41e14bd41d73844e1b94887058ee5b853",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Moa Lundgren kritisoi Australian urheilijan ulostamista Hyrox-kilpailussa ja tukee sääntömuutosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-27T11:45:00+03:00",
@@ -13502,6 +13455,56 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-30T02:04:12Z",
+      "urls": [
+        {
+          "sign": "5e7d489c53235cdf023b0100c85883e05db396dfd6fcfd0e176a521f2dcf8580",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain puolustusministeri Pete Hegseth aikoo leikata viidenneksen kenraalien ja amiraalien paikoista, kertovat amerikkalaiset mediat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-09-30T02:20:00Z",
+      "urls": [
+        {
+          "sign": "e6303c05f24ca5344ec6134ef6622e503fc3e601345a1b2a22651813500ee901",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opas John Michalenin johtama safariryhmä todisti gepardin saalistuksen Serengetissä",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-09-30T02:00:00Z",
+      "urls": [
+        {
+          "sign": "b4264aeb30704f08f07eaecbb25b8cc6c10e41463d776c9d019b95d1d0174bb2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Verot muodostavat noin puolet bensiinin hinnasta Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
