@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T18:59:35Z",
+  "updated": "2026-10-01T19:14:04Z",
   "entries": [
     {
       "updated": "2026-10-01T17:51:43Z",
@@ -4733,23 +4733,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T10:57:01Z",
-      "urls": [
-        {
-          "sign": "e5f18510151668f917ddfd1f695ac91aee92d748ce073f7215f90056c6ef6a0c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/processing-failure=headline-language"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T09:50:08Z",
@@ -13192,7 +13175,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-01T20:03:00+03:00",
+      "updated": "2026-10-01T22:07:00+03:00",
       "urls": [
         {
           "sign": "fb933daeddbd7996aae9d420005d903b3a0be1ee324ee183623d30a4c5e36d95",
@@ -13201,7 +13184,7 @@
           ]
         }
       ],
-      "title": "HS:n lähteet: Kansanedustajien koteihin kohdistuneet tunkeutumisepäilyt tuskin ovat pelkkää kuvittelua",
+      "title": "Viranomaiset selvittävät epäiltyjä tunkeutumisia kansanedustajien koteihin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13631,6 +13614,21 @@
       ],
       "title": "Erikoisjoukkojen jaksossa ennätysmäärä luovutuksia – Antti‑Jussi Sipilän lähtö yllätti Matias Petäistön",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T19:14:04Z",
+      "urls": [
+        {
+          "sign": "6245d1cb70f0fdc4b663702531c60c8597ab1c1ad4b52e49d60b04bd75497f2b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kehonrakentaja Juhani 'Jussi' Hokkanen on kuollut 67-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
