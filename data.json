@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T10:29:15Z",
+  "updated": "2026-10-01T10:43:05Z",
   "entries": [
     {
       "updated": "2026-10-01T08:07:07Z",
@@ -743,23 +743,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-28T19:37:00+03:00",
-      "urls": [
-        {
-          "sign": "51c588f66db1e92535f295e1f89d0acd63f87902728fd549d1355df9541e3365",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-29T00:00:00+03:00",
       "urls": [
         {
@@ -1280,23 +1263,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T06:13:50Z",
-      "urls": [
-        {
-          "sign": "b78547cbee6aee4090a4e32d8ed0dc53dc522e4f99819dbdb4fee6802d159fb5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi esittää vangittavaksi Naantalin kylpylässä lauantai-iltana ammuskelleen miehen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-29T05:45:50Z",
       "urls": [
         {
@@ -1534,21 +1500,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-29T07:06:29Z",
-      "urls": [
-        {
-          "sign": "a03fee39ecbee30609e4d78b71066bafc446bba26627547c169dae5f18a7aa6c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tehosekoitin palaa festareille kesällä 2027",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T07:12:59Z",
@@ -4696,21 +4647,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T03:00:11Z",
-      "urls": [
-        {
-          "sign": "a0020bea08cff87b6847d1eb160d3aeda482df4e4077f8e91c332afa6b9c0037",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nina af Enehjelm kertoo uutuuskirjassaan Tapani Kansan elämästä ja äkillisestä kuolemasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T09:32:42Z",
@@ -11886,7 +11822,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-01T10:29:15Z",
+      "updated": "2026-10-01T10:43:05Z",
       "urls": [
         {
           "sign": "cda53dcc4eb890615986c04b56734d83145a01e29aeeef473e6802b4ec5487ee",
@@ -11895,8 +11831,8 @@
           ]
         }
       ],
-      "title": "Ilmavoimien ensimmäiset F-35A-hävittäjät saapuivat Suomeen – Stubb: Migit eivät lennä Suomen ilmatilassa",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Ilmavoimien ensimmäiset F-35A-hävittäjät saapuivat Rovaniemelle – Stubb: Migit eivät lennä Suomen ilmatilassa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13030,7 +12966,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-01T10:28:53Z",
+      "updated": "2026-10-01T10:39:08Z",
       "urls": [
         {
           "sign": "dd78f507e68134dc0ddb2cf24de28bc1ae8d6fa44fe5c0fcdb20b5ddf1dc77ad",
@@ -13040,7 +12976,7 @@
         }
       ],
       "title": "Kansanedustaja kertoo epäillystä kotitunkeutumisesta – Supo vahvistaa tietävänsä asiasta",
-      "clickbaitiness": "Slightly Clickbaity",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13610,6 +13546,70 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T10:33:15Z",
+      "urls": [
+        {
+          "sign": "c8cf604a4a84c662285dfb4d866524432b8724767c2eaf8383d7bf98f7a14dae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Huumekoirat etsivät huumeita Kuopion torilla – vankiloissa Subutex-tabletit ovat yleisimpiä löydöksiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T10:29:52Z",
+      "urls": [
+        {
+          "sign": "3a2a73c462bfad8409ea87c1c8f35e853e4072d5390e7f9de05c1c3746273ad9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turun Palloseura erotti valmentajan alaikäisen pelaajan kanssa tapahtuneen epäasiallisen viestinnän vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T10:40:23Z",
+      "urls": [
+        {
+          "sign": "faa5adba952cdba5244d5c98b05b77ce2b5960f319ca6acdd2e48fc9508cf518",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Timo Jutila asettuu kokoomuksen kansanedustajaehdokkaaksi – Kalervo Kummola kertoo yrittäneensä suostutella häntä jo kolmesti",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T13:30:00+03:00",
+      "urls": [
+        {
+          "sign": "fdfb1244c9b982fa23ceab4256041c07a81a569c8cf29fe4adb36ec30f4b868d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
