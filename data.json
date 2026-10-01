@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T19:43:32Z",
+  "updated": "2026-10-01T19:51:23Z",
   "entries": [
     {
       "updated": "2026-10-01T17:51:43Z",
@@ -1144,23 +1144,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T13:00:16Z",
-      "urls": [
-        {
-          "sign": "ff798dcb8c8eecbd256738bfe4be94aae286a31601a223f60d69e71547b85c5f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun käräjäoikeus antoi Hagos Nahomille kolmannen raiskaustuomion – kahdeksan kuukauden ehdotonta vankeutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T17:36:00+03:00",
@@ -4477,21 +4460,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T11:36:42Z",
-      "urls": [
-        {
-          "sign": "135f40cbc081b7cfe923d31e296dac6bbc57bb77bb01eb836eb0ca53d44a1fc0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vevex varoittaa: älä nosta lattialämmitystä heti täysille – riski laattojen irtoamiselle kasvaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T18:36:38Z",
@@ -13256,7 +13224,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-01T20:57:00+03:00",
+      "updated": "2026-10-01T22:45:00+03:00",
       "urls": [
         {
           "sign": "a176eb86c79bc7706bbeb0c8e8169a44420b004ae9a842131dfcc634ceb8e7c0",
@@ -13624,6 +13592,39 @@
         }
       ],
       "title": "Sean “Diddy” Combsin luksusvanki‑elämä – hänet siirrettiin eristysselliin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T19:50:43Z",
+      "urls": [
+        {
+          "sign": "158708502f49e9ad1b3228451fdb2b6f640570897b080ee6c0b4250fd8275013",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset siirsivät Flydubai-lennon kapteenin ja perämiehen Dubaihin tappelun ja hätälaskun jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T19:51:23Z",
+      "urls": [
+        {
+          "sign": "39013ce586f74923ef8d2003efb719fc6aa4af04bf986fbf035f76101d545ebc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kornelia Lesiewicz lopettaa yleisurheilu-uransa 23-vuotiaana",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
