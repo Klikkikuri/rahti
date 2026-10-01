@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T17:42:08Z",
+  "updated": "2026-10-01T20:58:00+03:00",
   "entries": [
     {
-      "updated": "2026-10-01T08:07:07Z",
+      "updated": "2026-10-01T17:51:43Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda on lisääntynyt Suomessa Naton liittymisen jälkeen – IL seuraa sotaa",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Venäjän propaganda lisääntyy Suomessa Naton liittymisen jälkeen",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -734,53 +734,6 @@
       "urls": [
         {
           "sign": "2e6799d4f1be8176fca6d8f639355d53d45c5b8bc784baadda2d1bf951d15fdd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T10:58:00+03:00",
-      "urls": [
-        {
-          "sign": "13bc43a6409d33d2ca38fa4a71792ef5e08b3c2e81faffd47a1ef49554e5c8b9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "McDonald’sin osakekurssi on laskenut 31 prosenttia helmikuun huipusta – asiakkaat pitävät aterioita liian kalliina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T10:54:00+03:00",
-      "urls": [
-        {
-          "sign": "7e5c06b9dcec350821f655dd67575180e616c29feadccf1e27cc3cab3e2f063b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putinin Sotšin-residenssi laajenee Mustallamerellä – ympärille perustetaan laajempi turvavyöhyke",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T10:51:00+03:00",
-      "urls": [
-        {
-          "sign": "093193e7a476cecd7d45d717e73867951024efad3d047d1abe0220039beb349c",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -3994,24 +3947,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-30T10:23:45Z",
-      "urls": [
-        {
-          "sign": "9dcd4746a9ee56e15a4bc35567d13c4bb6d3191bac687aa1631586b000ef843c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T10:41:41Z",
@@ -13645,6 +13580,66 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T17:51:18Z",
+      "urls": [
+        {
+          "sign": "8d9971e56da217658b06cbf32448dc0da1f6a5aeba6c6d83572f22d96f18bebd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Selviytyjät Suomi -kuvaaja Lars Johnson loukkaantui jalkaan kesken kilpailun",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T20:57:00+03:00",
+      "urls": [
+        {
+          "sign": "a176eb86c79bc7706bbeb0c8e8169a44420b004ae9a842131dfcc634ceb8e7c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Emirates aloitti Helsingin–Dubai-reitin, Finnair keskeyttää lennot turvallisuussyistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-01T20:58:00+03:00",
+      "urls": [
+        {
+          "sign": "dd09d632c90f61499ede37d11c011b946072d57faddb38389404a9099ac07d18",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venom-yhtyeen laulaja-basisti Conrad ’Cronos’ Lant on kuollut 63-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-01T20:51:00+03:00",
+      "urls": [
+        {
+          "sign": "58fb539010b12037c35dcf81e1b711a927e3a35f9e7392856a8b8fa0bb5deede",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskalainen aktivisti Théodore Djamai, 19, kutsuu koolle lukiolaisprotestin ja sanoo koulujen olevan kesällä kuumia ja talvisin kylmiä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
