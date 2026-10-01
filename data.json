@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T12:29:27Z",
+  "updated": "2026-10-01T12:39:51Z",
   "entries": [
     {
       "updated": "2026-10-01T08:07:07Z",
@@ -664,23 +664,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T00:00:00+03:00",
-      "urls": [
-        {
-          "sign": "c931927db6cd6dc861b3d11043b03d1507ee609dfc2b0208230f48e3893e6bcf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "WSOY julkaisee suomeksi Orélienin romaanin \"Tämä tai kuolema\" kiistanalaisena tekoälykirjana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-29T10:46:00+03:00",
       "urls": [
         {
@@ -1039,21 +1022,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T06:20:27Z",
-      "urls": [
-        {
-          "sign": "46bb60458cf38ea5b59e97560f4dcb84772e84b5d46f69f82d06888782afee44",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Snookerin Shenzhen Openissa Ronnie O'Sullivan, Zhao Xintong ja Mark Williams hävisivät maantain avauskierroksella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T09:19:00+03:00",
@@ -1780,21 +1748,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T10:35:10Z",
-      "urls": [
-        {
-          "sign": "6f72baf9a2a476b2fcac099e2fbc9f1767ef68656d33758e0b29ffcc30181178",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Petteri Orpo: Suomi ei aja maatalouden leikkauksia, tavoittelee matalampaa EU-budjettia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T14:24:00+03:00",
@@ -4301,23 +4254,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T05:16:28Z",
-      "urls": [
-        {
-          "sign": "2f0f4c3349bd2dc4a462f9bf1c2c926e61fb79d490ae505f395f5fd37e911031",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NHL-puolustaja Evan Bouchard teki kauden avauspelissä hattutempun ja viisi pistettä, mutta Edmonton Oilers hävisi Vancouverille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T04:10:00Z",
@@ -13617,6 +13553,72 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T15:39:00+03:00",
+      "urls": [
+        {
+          "sign": "b1f6e4110298758f0705128799b8b4e50e7a15c8884b1daf7afaf3b6ab16b7ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-01T12:35:10Z",
+      "urls": [
+        {
+          "sign": "d8d3251c29fd1a4dace1348148384bc9e4e0d16531c337ece2bb2dbb3be9c49b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opposition nostaa bensan hinnan esiin kyselytunnilla, puhemies Jussi Halla-aho varoittaa kansanedustajien kotiin tunkeutumisista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T12:39:51Z",
+      "urls": [
+        {
+          "sign": "385865a6cefa31c05f1d6a1dff0f40232182cbe3d7ec58d2adf2b1ed5ce5a3a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teknikens Värld: Nokian Hakkapeliitta 01 -nastarenkaan pito jäällä hyvä, mutta nastojen ympärillä halkeilua ja korkea hinta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T12:30:00Z",
+      "urls": [
+        {
+          "sign": "0576d2906f105e78c5fa0247aa7f8a682968119cfef610705cc31ebac4766e2d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keijo Leppänen ja Niko Saarinen aloittavat juontajaparin uudessa ohjelmassa Suomen älyttömin julkkis 1. lokakuuta Maikkarilla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
