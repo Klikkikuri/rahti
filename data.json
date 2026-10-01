@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-09-30T23:39:15Z",
+  "updated": "2026-10-01T01:08:06Z",
   "entries": [
     {
       "updated": "2026-09-30T10:19:11Z",
@@ -5317,21 +5317,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-29T14:47:54Z",
-      "urls": [
-        {
-          "sign": "261a9f9ddf095844890cf77612f2d22b5cfd50407f09c066af6ff21ac3897049",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aitajuoksija Karsten Warholm avioitui Oda Djupvikin kanssa – hääkuvassa hän hyppää vaimonsa yli",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-29T15:33:27Z",
       "urls": [
         {
@@ -5429,23 +5414,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-29T14:48:42Z",
-      "urls": [
-        {
-          "sign": "275023f11fca38a422c61fd1e8574c2fa0742da5ae0e89d97f3252a6460154fa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heidi Havastila neuvoo, miten suojautua sovellusten tietopyynnöiltä tietomurtojen riskissä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-29T15:47:26Z",
@@ -13566,6 +13534,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-01T00:23:21Z",
+      "urls": [
+        {
+          "sign": "3819bd3def59ff3bef1f2b2ad8c347275c312b55e592fb13aabc679e674c5354",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Flydubain lennon perämiehen hyökkäys osoittaa sisäisten uhkien olevan lentoturvallisuuden heikko lenkki",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T01:08:06Z",
+      "urls": [
+        {
+          "sign": "57789689dd14edcec042958387008780ab7a9babbffb2ec30beb58503a65d81f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanye Westin konsertit Pietarin Gazprom Arenalla peruttu – järjestäjät lupaavat lippujen hyvityksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
