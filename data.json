@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T20:29:28Z",
+  "updated": "2026-10-01T23:53:00+03:00",
   "entries": [
     {
       "updated": "2026-10-01T17:51:43Z",
@@ -1455,23 +1455,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T15:52:30Z",
-      "urls": [
-        {
-          "sign": "a6a3b6bd725dd851ebc0a7eb7564eaa938f69bf87ae31238cc6d6078288bd155",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arctial jakoi ämpäreitä Kokkolassa – moni tiedusteli työpaikoista suunnitellussa alumiinitehtaassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T15:12:00Z",
@@ -11619,7 +11602,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-01T16:13:00+03:00",
+      "updated": "2026-10-01T23:53:00+03:00",
       "urls": [
         {
           "sign": "7e5b2e16b06ee7e9425d7ef8cdd228e71df3c49b7dc166b46b44a4b1038f6a01",
@@ -11628,7 +11611,7 @@
           ]
         }
       ],
-      "title": "Christa Pike selvisi hengissä kahdesta teloitusyrityksestä Tennesseen Nashvillessä keskiviikkona",
+      "title": "Christa Pike selvisi hengissä kahdesta teloitusyrityksestä Tennesseen Nashvillessä – tilanne kriittinen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13622,6 +13605,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T20:48:35Z",
+      "urls": [
+        {
+          "sign": "32797f402cbcfade0789801a153ea7a70f985f6bb385af329bae2b832681ede9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan viranomaiset pidättivät lähes 2 000 lukiolaisprotestoijaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
