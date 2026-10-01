@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T19:14:04Z",
+  "updated": "2026-10-01T19:26:33Z",
   "entries": [
     {
       "updated": "2026-10-01T17:51:43Z",
@@ -873,23 +873,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T12:54:24Z",
-      "urls": [
-        {
-          "sign": "a945008676d163c0f68cdd2bb8652be880af9777c18a0828c3e61cb2d1485fe5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduskunta käsittelee tänään Timo Vornasen kansanedustajuuden jatkamista tuomion jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T13:22:00+03:00",
@@ -5038,23 +5021,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-30T11:06:08Z",
-      "urls": [
-        {
-          "sign": "66683cce15ccad28aafdcf44783006c8cc45cdcc02b47ebb98ae150b3b01bf60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-30T11:32:00Z",
       "urls": [
         {
@@ -6534,21 +6500,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T11:16:30Z",
-      "urls": [
-        {
-          "sign": "c7c66a8cf456bdcf9dd0dd006f5210e7d733a78637f2535c6fc30d48ab8321cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bruce Willisin tytär julkaisi hoitokodissa asuvasta isästään tuoreen kuvan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T17:40:48Z",
@@ -12928,7 +12879,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-01T16:10:17Z",
+      "updated": "2026-10-01T19:26:33Z",
       "urls": [
         {
           "sign": "69f75eda7982b0af00570079aa6eb62268a147bfcaadefe166d116941e14eea2",
@@ -12937,7 +12888,7 @@
           ]
         }
       ],
-      "title": "Christa Pike selvisi teloitusyrityksestä Tennesseessä – asiantuntija epäilee lääkkeen joutuneen kudokseen",
+      "title": "Tennesseessä Christa Piken teloitusyritys epäonnistui – nainen kriittisessä tilassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13631,6 +13582,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T19:22:53Z",
+      "urls": [
+        {
+          "sign": "594ace83fddb24bcc353a150bb3364a7cd8838f256c5d9dd9702e4296f0012e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen presidentti Stubb tapasi Venäjän ulkoministeri Lavrovin New Yorkissa YK:n yleiskokouksen aikana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T19:20:48Z",
+      "urls": [
+        {
+          "sign": "0b91421a2f724de754aa4cb4e01166f8198b1555706488b2495fc65f0f2d37eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SpaceX:n Falcon 9 -raketin jälki näkyi Pirkanmaan taivaalla iltakuuden jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T19:17:06Z",
+      "urls": [
+        {
+          "sign": "25876fbc677c6c1e1fa20e91b2644fe54f9d0529ec162f051d92b36074d626f6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kehonrakennuslegenda Juhani 'Jussi' Hokkanen on kuollut 67-vuotiaana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
