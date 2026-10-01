@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T04:44:02Z",
+  "updated": "2026-10-01T05:00:07Z",
   "entries": [
     {
       "updated": "2026-10-01T02:51:28Z",
@@ -632,7 +632,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-01T01:55:18Z",
+      "updated": "2026-10-01T04:53:35Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -641,7 +641,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin – Iltalehti seuraa Lähi-idän sotaa",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin helmikuun 28. päivänä – Iltalehti seuraa Lähi-idän tilannetta",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -5291,23 +5291,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-29T17:26:45Z",
-      "urls": [
-        {
-          "sign": "a66032331503d40e3ab1983290384e4ffdfdbb3daa7c986977bc49215377a038",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-29T19:19:00+03:00",
       "urls": [
         {
@@ -5841,21 +5824,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-29T17:39:11Z",
-      "urls": [
-        {
-          "sign": "3c20ce39c5e61ea798af3ced41619cfa352281f9baf67d01c1c16dd353ff6aad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Kokoomus hakee kahden miljardin euron säästöjä eläkkeistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-29T18:03:00Z",
@@ -13567,6 +13535,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T05:00:07Z",
+      "urls": [
+        {
+          "sign": "ad2f80d05ef31465cbc05f5577b90218e747856d1d1e1c2d6b3d231a502e7bfb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääkäri Karl Johan Svedjeholm syytteessä viestintäsalaisuuden loukkauksesta – oikeudenkäynti alkaa torstaina Helsingin käräjäoikeudessa kello 9.30",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T04:51:37Z",
+      "urls": [
+        {
+          "sign": "b2aec1aaac39b2b797a592d909141d6b5968e5f7e987d0ef2ab25d66ca9eb674",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lätkäpodin juontajat kritisoivat suomalaisten yritysjohtajien päätökset SM-liigaseuroissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
