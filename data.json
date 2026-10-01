@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T04:27:45Z",
+  "updated": "2026-10-01T04:44:02Z",
   "entries": [
     {
       "updated": "2026-10-01T02:51:28Z",
@@ -944,21 +944,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-28T13:25:23Z",
-      "urls": [
-        {
-          "sign": "a38dc4916220b4246d34231480d2b78e5adba34c4b70eea8e39493f98b4ab190",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian poliisi: Viisi Lontoosta kotoista brittiläistä miestä pidätetty Fairfordin lentotukikohdan pommiuhkauksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-28T14:16:10Z",
@@ -5340,21 +5325,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T17:21:58Z",
-      "urls": [
-        {
-          "sign": "df15f84fbf4f486268aeb21fbf3979ba8328bf048a43806695212e5bd185f1d8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomus aikoo esittää 8–9 miljardin leikkauslistaa, SDP:n kansanedustaja Joona Räsänen: puolue on tullut järkiinsä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-29T19:05:40Z",
       "urls": [
         {
@@ -5482,23 +5452,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-29T17:21:08Z",
-      "urls": [
-        {
-          "sign": "cbeff213cbba4d492f2ee642073b71be2f42fb97385c55856ac4e688845bc19d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maitovalas uiskenteli Espoon Suvisaaristossa – biologi: todennäköisesti sama yksilö",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-29T20:12:13Z",
@@ -12913,7 +12866,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-01T07:13:00+03:00",
+      "updated": "2026-10-01T07:30:00+03:00",
       "urls": [
         {
           "sign": "bfec3d1ebd3cd8d340da47305fe690db73c51245e31c49dff57fc8a08749286d",
@@ -12922,8 +12875,8 @@
           ]
         }
       ],
-      "title": "Tennesseen viranomaiset epäonnistuivat Christa Piken teloituksessa – nainen vietiin sairaalaan, kertoo BBC",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Tennesseen viranomaiset vahvistavat Christa Piken teloituksen yrityksen epäonnistuneen, nainen vietiin sairaalaan",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13564,6 +13517,55 @@
       "title": "Keskiviikkoiltana Christa Pike sai kaksi myrkkyruisketta teloituksessa ja vietiin sairaalaan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T04:44:02Z",
+      "urls": [
+        {
+          "sign": "4c8628e43a84b9b1e78b6d4556e26f09483afc30a16ae9391d4219996cc550d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tukes kehottaa lopettamaan AliExpressin heijastimien käytön puutteellisen heijastuksen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T04:31:35Z",
+      "urls": [
+        {
+          "sign": "78cf4d3d14b4f167d117f3bf59973acc08b8ea4cfce8e21b8369e41e229186c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pavut, parsakaali, sipuli ja viljat aiheuttavat turvotusta ja ilmavaivoja – oireita voi lievittää näillä keinoilla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T04:34:33Z",
+      "urls": [
+        {
+          "sign": "9be028c7c24ac9d6744ea4310b80c01b878b2b03cc22062dafad103c66aa22e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin isot raidetyöt aiheuttavat liikkumishaittoja ja hermostressiä asukkaille tänä syksynä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
