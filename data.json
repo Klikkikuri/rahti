@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T01:44:00Z",
+  "updated": "2026-10-01T02:00:06Z",
   "entries": [
     {
       "updated": "2026-09-30T10:19:11Z",
@@ -649,7 +649,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-09-29T20:50:27Z",
+      "updated": "2026-10-01T01:55:18Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -658,7 +658,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Yhdysvaltojen ja Israelin hyökkäyksiä Iraniin ja Libanoniin sekä Iranin laajaa vastaiskua Lähi-idässä",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin – Iltalehti seuraa Lähi-idän sotaa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -740,23 +740,6 @@
       "title": "Magdalena Andersson luopui hallitustunnustelijan tehtävästä vasemmiston tuettua kokoomuksen puhemiehekandidaattia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-28T13:00:00+03:00",
-      "urls": [
-        {
-          "sign": "52f18bb43981c128536deab3c42d7c79ead9f7da8a29928051eba7c6f4e8ec0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5284,21 +5267,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-29T15:33:27Z",
-      "urls": [
-        {
-          "sign": "92e3495fadd0fe6b7e8035b78e8dd959c6ce80a7007b0f85bffef73d469ca498",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi vangitsi länsiuusimaalaisen urheiluseuran valmentajan, entisen Suomen maajoukkueurheilijan, seksuaalirikoksista epäiltynä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13566,6 +13534,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T02:00:06Z",
+      "urls": [
+        {
+          "sign": "118694f235cd248a274ffc7399a27c5cf1b43fa7d3e8be19c0cb611b69596e34",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toimittaja Raija Pelli vastasi väärin Suomen itsenäisyyspäivästä tv-ohjelmassa Suomen älyttömin julkkis",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T05:00:00+03:00",
+      "urls": [
+        {
+          "sign": "06540079b54047572d6cb3a10f7719972c96289da4cf3eaceb86793ac9cd1df4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinki purkaa Kallion kesäkadut lokakuussa – asukkaat voivat hakea kasveja istutuslaatikoista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
