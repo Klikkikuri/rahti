@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T15:59:39Z",
+  "updated": "2026-10-01T16:12:52Z",
   "entries": [
     {
       "updated": "2026-10-01T08:07:07Z",
@@ -728,21 +728,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T09:19:00+03:00",
-      "urls": [
-        {
-          "sign": "8829b6c02ac72b1c9d151fdf1dfc1730fc6363b8790a77ce1cee8817808c5070",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Reuters: Anthropicin listautumisesitteen mukaan yhtiö teki viime vuonna 42 miljardin dollarin tappiot ja suunnittelee lähivuosina 518 miljardin dollarin tekoälyinvestointeja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-29T17:44:00+03:00",
       "urls": [
         {
@@ -965,21 +950,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T10:19:08Z",
-      "urls": [
-        {
-          "sign": "8f5ed19eae91b5561ea51e54eb46384b2fd510b33a419c42115f8e88d38ea71c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen sarja L/over – ikuisesti minun sai ehdokkuuden Venice TV Awards -gaalan pääsarjakategoriassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T10:27:46Z",
@@ -1361,21 +1331,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T13:31:34Z",
-      "urls": [
-        {
-          "sign": "309bed9b1c288484a8ffae13b200485d01514607d9477fbab8644c755be1ae03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun käräjäoikeus tuomitsi Nahom Hagosin kolmannen kerran raiskauksesta – aiempi raiskaustuomio lyhensi rangaistusta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T13:03:21Z",
@@ -12908,7 +12863,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-01T13:50:21Z",
+      "updated": "2026-10-01T16:08:28Z",
       "urls": [
         {
           "sign": "a7a1093a7f29cc788fd949f30be6cc562ff6d752de29d001f6d1a9c404035a62",
@@ -12917,8 +12872,8 @@
           ]
         }
       ],
-      "title": "Hyvinvointivalmentaja Aki Manninen palaa kamppailuhäkkiin, Iltalehden tietojen mukaan ottelu on 12. joulukuuta Crash Fight -tapahtumassa Vaasassa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Aki Manninen ei ottele Crash Fight -tapahtumassa Vaasassa 12. joulukuuta – toimii isäntänä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13620,6 +13575,57 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T19:00:00+03:00",
+      "urls": [
+        {
+          "sign": "89739d2f54af306c32de6acb0ee74fca0664997179edfb994a901392e3e72e18",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-01T16:10:17Z",
+      "urls": [
+        {
+          "sign": "69f75eda7982b0af00570079aa6eb62268a147bfcaadefe166d116941e14eea2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Christa Pike selvisi teloitusyrityksestä Tennesseessä – asiantuntija epäilee lääkkeen joutuneen kudokseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T16:12:52Z",
+      "urls": [
+        {
+          "sign": "2951cce8dd5877349ce799f4054c8010bc380b4f025936775d56c0ad8e26523a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL:n mukaan Suomessa todettiin ennätysmäärä puutiaisaivokuumetapauksia – Etelä-Karjalassa kaikki tartunnan saaneet rokottamattomia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
