@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T18:14:54Z",
+  "updated": "2026-10-01T18:28:44Z",
   "entries": [
     {
       "updated": "2026-10-01T17:51:43Z",
@@ -1050,24 +1050,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T12:41:38Z",
-      "urls": [
-        {
-          "sign": "ba685c8dd4b0a9d713380a18eacdd5492eb11becebb03d734b3f4779d635b183",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T16:22:00+03:00",
@@ -4134,21 +4116,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-09-30T10:36:59Z",
-      "urls": [
-        {
-          "sign": "c6c6eca32e1f86cc1707c0c20d6c286cf9b0946f0c04261ff5022ee2cd87cf5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STT suunnittelee uutis- ja kuvatoimintansa alasajoa – jopa 95 työtehtävää vaarassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-30T14:17:16Z",
       "urls": [
         {
@@ -4243,21 +4210,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-30T10:32:03Z",
-      "urls": [
-        {
-          "sign": "0d85e727f34a6636209dd2ecc0fcdf2b5616d2d60b597d809161c40f5ff7b5ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian suurlähetystö korostaa: ydinasepelote on osoitettu Natolle, ei JEF-joukoille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T09:40:44Z",
@@ -13635,6 +13587,56 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T18:21:42Z",
+      "urls": [
+        {
+          "sign": "c0e81e22f05875ff59673d4917064dfc519475d876a7f109c45ea22979289858",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T18:28:44Z",
+      "urls": [
+        {
+          "sign": "1a105195ae813015d4a2bf24b839e09f0ecb28f4803cb0a489252c453da54a4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "FIS ei myöntänyt venäläishiihtäjä Savelii Korosteleville kilpailulupaa alkavalle kaudelle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T18:17:02Z",
+      "urls": [
+        {
+          "sign": "a6de4d9c70f0ae537a6a86dc1a5c06adaab081f82a63774cc4fc1805a0f198ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ronaldo jätti Portugalin maajoukkueen – pelinumero 7 siirtyi Rafael Leãolle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
