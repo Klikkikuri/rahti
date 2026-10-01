@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T12:13:33Z",
+  "updated": "2026-10-01T12:29:27Z",
   "entries": [
     {
       "updated": "2026-10-01T08:07:07Z",
@@ -1577,21 +1577,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-29T10:11:38Z",
-      "urls": [
-        {
-          "sign": "259c1e3cda2f1e6da3907a4f68f87f0562d801bf884c217185d8ef7e31aef8d6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lähihoitaja sai hovioikeudessa kahdeksan kuukauden ehdollisen vankeuden potilastietojen luvattomasta katselusta Keski-Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-29T10:19:08Z",
       "urls": [
         {
@@ -1684,21 +1669,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-29T10:27:49Z",
-      "urls": [
-        {
-          "sign": "e40815394fd757b0010e62a6eba60cf93087799fa1b0ce63f74dcb29b17c7371",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kymenlaakson käräjäoikeus tuomitsi kotkalaismiehen elinkautiseen vaimonsa murhasta Kotkassa toukokuussa 2026",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T13:22:00+03:00",
@@ -4333,24 +4303,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T05:00:58Z",
-      "urls": [
-        {
-          "sign": "e77c156ebb3d18c84dabe361cceaf7149d80a67f7d659883425d9592f74eb403",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Kustannusyhdistyksen mukaan kuntien oppimateriaalikustannukset vaihtelevat 90–356 euroa oppilasta kohden – ero voi selittää heikkoja Pisa-tuloksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-30T05:16:28Z",
       "urls": [
         {
@@ -4660,21 +4612,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T04:51:42Z",
-      "urls": [
-        {
-          "sign": "5a7ff3a2beb24d615804c34dc4bb8c644c17be06498881c64ee43df22d3d6827",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump varoittaa: datakeskusten sijoittaminen Suomeen ja muualle rikastuttaa muita maita, ei Yhdysvaltoja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T05:57:19Z",
@@ -13552,7 +13489,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-01T12:12:49Z",
+      "updated": "2026-10-01T12:23:49Z",
       "urls": [
         {
           "sign": "83dc8daf606307d3b837ed9b59fe1499752debe7baac1881f9656a0069adfa31",
@@ -13561,9 +13498,10 @@
           ]
         }
       ],
-      "title": "Dieselin litrahinta nousi Inarissa yli kolmeen euroon – St1-asemalla 3,019 euroa litralta",
+      "title": "Inarin St1-asemalla diesel maksaa 3,019 euroa litralta, ylittäen kolmen euron rajan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
+        "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13617,6 +13555,68 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-01T12:20:56Z",
+      "urls": [
+        {
+          "sign": "b7f69fd280efd84189908819b781a6eb702d2cef4aadc386cfaf76ccde8ad343",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaisäitiä epäillään kolmesta törkeästä ihmiskaupasta lasten kuljettamisesta Syyrian konfliktialueelle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T12:29:27Z",
+      "urls": [
+        {
+          "sign": "cfc55565856783db10a827e661167a63158cbf46beffd8ab1f0db666f83bc358",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tampereen nepalilaispari viettää hindulaisen hään Helsingissä, ystävät esittävät sukulaisia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T12:23:49Z",
+      "urls": [
+        {
+          "sign": "492f0966687fb4854837634e6d41c1d108cff98449fadf63def9818d37df56c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Police investigate suspected intrusions at Finnish MPs' homes",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T12:22:54Z",
+      "urls": [
+        {
+          "sign": "12dd7113e19882be9eb58997d53ad8ddb71e392aca08c7cbbd4c74ca3d6c96dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus keskeytti Christa Piken teloituksen Tennesseessa kahden myrkkyruiskeen epäonnistuttua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
