@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T05:14:00Z",
+  "updated": "2026-10-01T05:22:02Z",
   "entries": [
     {
       "updated": "2026-10-01T02:51:28Z",
@@ -931,23 +931,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-28T14:16:10Z",
-      "urls": [
-        {
-          "sign": "fdc4fba361f36e5bd353b2e61cf5a63a08da44f8f98c7e822924da7e61ea3f41",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kongon demokraattisessa tasavallassa on todettu yli 8000 ebolatapausta – lähes puolet johtanut kuolemaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-28T14:31:00Z",
       "urls": [
         {
@@ -1136,21 +1119,6 @@
       ],
       "title": "Ruotsin eduskunta valitsi Maltillisen kokoomuksen Andreas Norlénin puhemieheksi, ja Vasemmistopuolueen tuki johti Magdalena Anderssonin luopumiseen hallituksen muodostamisesta",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-28T13:52:30Z",
-      "urls": [
-        {
-          "sign": "fdd2a2b5f88a794abd1517b3c0d2ba817a64e84e36db0b03d26b402bbefd001d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satakunnassa sähkö- ja hybridiautojen osuus on pienempi kuin Varsinais-Suomessa ja koko Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -13567,6 +13535,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T05:22:02Z",
+      "urls": [
+        {
+          "sign": "21a25c43d29adc1cc057326a6362aa2b21b07b5a929873b545b7008f697bdb2a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Colorado Avalanche voitti Los Angeles Kingsin 8-4 ja Artturi Lehkonen teki kaksi maalia kauden avauspelissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T05:17:23Z",
+      "urls": [
+        {
+          "sign": "3331942977ab5f91465786b3c07504e939bc9805580386821dbdd7f0b1ccec0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dahl Linjaliikenne ennustaa polttoainekustannusten olevan noin miljoona euroa viime vuotta korkeammat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
