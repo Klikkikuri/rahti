@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T03:59:58Z",
+  "updated": "2026-10-01T07:13:00+03:00",
   "entries": [
     {
       "updated": "2026-10-01T02:51:28Z",
@@ -617,23 +617,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-28T12:51:34Z",
-      "urls": [
-        {
-          "sign": "96fa336d6434cdb1de3084ba221f93f073015f860a6319aadb3882e1b9ebe120",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "TPS:n päävalmentaja Toni Söderholm harmitteli Ilves-tappiota ja sanoi harmituksen koskevan myös muita asioita",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-27T17:22:14Z",
       "urls": [
         {
@@ -886,21 +869,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-28T13:20:04Z",
-      "urls": [
-        {
-          "sign": "b8309914a2f3935bbf17ac6dd007d209bf7df43e687af5edc519fd10dc5e538e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ampui Helsingin Kalliossa veitsellä varustetun miehen, joka ei totellut käskyjä – mies pidätetty ja sairaalassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-28T15:51:00+03:00",
       "urls": [
         {
@@ -976,23 +944,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-28T13:16:58Z",
-      "urls": [
-        {
-          "sign": "6b7bc841a20ac00dd7a20ae89989ea964bcadd2aa486e28b4edb8340ecca91ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuottaja Aimo Räsänen muistelee Seela Sellan kanssa vietettyä viimeistä päivää: Sella kuoli 89-vuotiaana, päivä oli hänen viimeinen teatteriesityksensä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-28T13:24:38Z",
@@ -5292,21 +5243,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T16:46:06Z",
-      "urls": [
-        {
-          "sign": "ca41621396366e2566e74b4d120e15b67ce9abad0dc5fe594f380a1dd6723454",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeusministeriö: vuokralait muuttuvat lokakuun alussa – irtisanomisaika pitenee neljään kuukauteen, vuokravakuus palautetaan kahdessa viikossa ja tupakointi vaatii vuokranantajan luvan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-29T17:17:29Z",
       "urls": [
         {
@@ -5563,23 +5499,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T17:00:26Z",
-      "urls": [
-        {
-          "sign": "c10de7014683f08dd0f5c2138c85419a85586c5b477e0cc175ec0f46bd56c45e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kimmo Timonen kutsuu Flyersin GM:n toimintaa Leo Carlssonin tarjouksessa historiallisen huonoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-29T17:12:43Z",
@@ -13058,7 +12977,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-01T06:57:00+03:00",
+      "updated": "2026-10-01T07:13:00+03:00",
       "urls": [
         {
           "sign": "bfec3d1ebd3cd8d340da47305fe690db73c51245e31c49dff57fc8a08749286d",
@@ -13067,7 +12986,7 @@
           ]
         }
       ],
-      "title": "Kuolemanrangaistukset | Tennesseen viranomaiset epäonnistuivat Christa Piken teloituksessa, nainen vietiin sairaalaan",
+      "title": "Tennesseen viranomaiset epäonnistuivat Christa Piken teloituksessa – nainen vietiin sairaalaan, kertoo BBC",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13565,6 +13484,89 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T04:02:00Z",
+      "urls": [
+        {
+          "sign": "7c5a644cc3a3d27982d096dc346a8e1175cf59be18dc69ea57914836406646c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elfyn Evans kärsii aura-autona Sardinian MM-rallissa perjantaina – Sami Pajari jahtaavat maailmanmestaruutta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T04:01:27Z",
+      "urls": [
+        {
+          "sign": "4400906107740916ee343615a1fa8990bdff073669741d29abd6b812b3c44021",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Analyysi: Suomen David's Sling -ilmatorjuntajärjestelmän hankinta voi vaarantua Israelin Venäjä-suhteiden vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-09-30T04:52:31Z",
+      "urls": [
+        {
+          "sign": "09051710378fcfa82ae74ffe2bc500351fb25cb3d888e9c95a32d0c2589b974b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dylan Sprouse ja Barbara Palvin saivat tyttären nimeltä Sylvie",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T04:09:46Z",
+      "urls": [
+        {
+          "sign": "d40b00428f2bb9208093b8aeca263bd732642aa000574c1c391467050a7275b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Penguins voitti Flyersin 7–0 – Ville Koivunen teki maalin 32 miljoonan dollarin sopimuksen jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T04:01:57Z",
+      "urls": [
+        {
+          "sign": "ca8e9d69cde3786133971e749409ecb3c727b6c58b46ce91c741e800e6dd1249",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Benita Heiskanen arvioi sitoutumattomien ratkaisevan Yhdysvaltain välivaalit",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
