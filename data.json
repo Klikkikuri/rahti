@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T19:26:33Z",
+  "updated": "2026-10-01T19:43:32Z",
   "entries": [
     {
       "updated": "2026-10-01T17:51:43Z",
@@ -632,21 +632,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T11:32:05Z",
-      "urls": [
-        {
-          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden graafi päivittää pörssisähkön 48 tunnin varttihinnat iltapäivisin",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-29T18:38:00+03:00",
@@ -1406,23 +1391,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T15:27:42Z",
-      "urls": [
-        {
-          "sign": "ff9f141c9e608f7bad1ef7d03045d7619566a543c67be97c915e3df0bb313659",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aalto-yliopiston taiteen maisteri Camilla Naukkarinen voitti Vuoden nuori suunnittelija -kilpailun vuonna 2026",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T15:57:19Z",
@@ -13629,6 +13597,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-01T19:38:58Z",
+      "urls": [
+        {
+          "sign": "ec237daeeb4fdce040f31e67df0b84633e90e26172c517edb8f1fbf74777c4bd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU-maat ja komissio kokoontuvat perjantaina keskustelemaan polttoaineiden hinnoista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T19:43:32Z",
+      "urls": [
+        {
+          "sign": "ba4f1d5bd3f1329a12296e389442018979f3beaf5a21310cd5e4e75dce3da011",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sean “Diddy” Combsin luksusvanki‑elämä – hänet siirrettiin eristysselliin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
