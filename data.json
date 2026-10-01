@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T02:45:17Z",
+  "updated": "2026-10-01T03:00:05Z",
   "entries": [
     {
-      "updated": "2026-09-30T10:19:11Z",
+      "updated": "2026-10-01T02:51:28Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda sisältää voimakkaita Naton‑väitteitä ja uhkaa ydinasen käytöllä – IL seuraa sotaa",
+      "title": "Venäjän propaganda uhkaa Tanskaa vakavalla välikohtauksen riskillä – IL seuraa sotaa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -853,21 +853,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-28T10:28:26Z",
-      "urls": [
-        {
-          "sign": "636332ec06e9d87b9e43024adbaf70a526fedaa532869b1db6d5345b1187983d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Seela Sella on kuollut 89-vuotiaana: uudessa kirjassaan hän kertoi suunnitelleensa hautajaisensa, joihin kaikki ovat tervetulleita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5202,23 +5187,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T15:55:56Z",
-      "urls": [
-        {
-          "sign": "8e18fd26a5d69cb613e995a5caa128d04a00510b78f6b9003574a38ec409c2cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU:n viherpesudirektiivi alkaa – HS:n mukaan Kesko on tarkistanut satojen tuotteiden ympäristöväitteet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-29T15:59:07Z",
@@ -13565,6 +13533,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T03:00:05Z",
+      "urls": [
+        {
+          "sign": "5002b2181f699dfb0f9fabd63f353e6d2d339f14b8850c08ef7ca28cda5c80ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansanedustaja Jarno Limnell: Venäjä voi lähiaikoina iskeä Naton alueelle drooneilla tai ohjuksilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T02:44:29Z",
+      "urls": [
+        {
+          "sign": "c0172aa1f0e02e58eca12933634ba215d0a25ff3e8ef2ba2c6f54444dc179de4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain korkein oikeus salli murhasta tuomitun naisen teloituksen Tennesseessä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
