@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T21:07:52Z",
+  "updated": "2026-10-02T22:28:15Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -1931,21 +1931,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T14:03:25Z",
-      "urls": [
-        {
-          "sign": "2ad88996e4c20dc475cbf84c2d640a7d5338cbb98fc1943b48d046e093f74383",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi on edistynyt Vaasan ja Laihian epäillyn kaksoismurhan tutkinnassa, mutta ei kerro yksityiskohtia julkisuuteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T16:05:53Z",
@@ -13556,6 +13541,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T22:28:15Z",
+      "urls": [
+        {
+          "sign": "b6108666a58a54b253e3d5a204d6040047f95ae5f6cdee77a3038595b0d3ecd7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois-Korea laukaisi ohjuksen itärannikoltaan mereen, ja ammus laskeutui Japanin talousvyöhykkeen ulkopuolelle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
