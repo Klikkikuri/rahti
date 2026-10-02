@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T04:14:51Z",
+  "updated": "2026-10-02T04:36:20Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -873,23 +873,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T14:35:16Z",
-      "urls": [
-        {
-          "sign": "3f800302e743355cdd2ead68a30acd9a5b8b8c8687ae1a7765e7bc7043233544",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sosiaaliturvaministeri Wille Rydman piti eduskunnassa vahingossa väärän lakiesityksen puheenvuoron – kukaan ei huomannut",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T14:35:21Z",
@@ -4747,23 +4730,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T14:44:10Z",
-      "urls": [
-        {
-          "sign": "bd6f73a56bddd3e962cb1afa233c85302e9dccd578435f01572149dbfb886182",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brittiläisen Tropic Biosciencesin geenimuokattu banaani pysyy keltaisena jopa 24 tuntia kuorimisen jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-30T14:59:38Z",
       "urls": [
         {
@@ -6237,23 +6203,6 @@
       ],
       "title": "Atte Korhola: Trumpin jälkeinen USA muuttuu radikaalisti, paluuta entiseen ei ole",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-30T14:38:57Z",
-      "urls": [
-        {
-          "sign": "40cd75fa121ea4fbb8c96f44364079ba8fca64f9ee4898a24f6bbcedbb7bbee8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Flixbusin Suomen‑johtaja Leman kehottaa hallitusta olemaan tukematta bensakuluja ja lupaa pitää bussilippujen hinnat alhaisina",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13641,6 +13590,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T04:28:18Z",
+      "urls": [
+        {
+          "sign": "bb3149cf3482ab7ebbc55b967e74b41820d8c410684665271e5fb947c4301fce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän presidentti Putin varoitti länttä turvautuvansa kaikkiin aseisiin, jos Kaliningradia uhataan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T04:36:20Z",
+      "urls": [
+        {
+          "sign": "445943014932252e11fa6bb193238b16524cc5caaa4a72744bb99f54b2938c6b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Olivier Martinez syyttää Halle Berryä poikansa pahoinpitelystä ja vaatii yksinhuoltajuutta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T04:31:27Z",
+      "urls": [
+        {
+          "sign": "2f2b4e0e13e0c249d8ad3f61c7d83a8cf703f61dd5d79da7ad943e2be6d0f618",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bensiini kallistui 0,52 €/l ja diesel 0,80 €/l – laskurit näyttävät vuotuisen lisäkustannuksen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
