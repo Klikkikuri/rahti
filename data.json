@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T18:45:00+03:00",
+  "updated": "2026-10-02T15:57:20Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -1818,23 +1818,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T08:15:07Z",
-      "urls": [
-        {
-          "sign": "4712246a3938f56ab7ba9ef90202252adb74df8600d71eab17ff2210ac0f31cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NHL-kauden avauksessa Vancouver Canucks voitti Edmonton Oilersin jatkoajalla 6–5 – Lankinen torjui 31 laukausta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-30T16:25:26Z",
@@ -5208,21 +5191,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T10:17:29Z",
-      "urls": [
-        {
-          "sign": "a2d9032cc8a7db83ff84571ee9c1211ee00057a74a7c7028dcd5ceea7ea02e3f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jaajo Linnonmaan ja Aki Keskitalon päätös: Superterassi ei tule Lahteen eripuran vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T10:24:32Z",
@@ -13401,7 +13369,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T15:36:19Z",
+      "updated": "2026-10-02T15:57:20Z",
       "urls": [
         {
           "sign": "094ffc17f55290dabfbc8adf07591f5ffcffbf339de489bfcd40acdbbe146ec5",
@@ -13562,6 +13530,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T15:45:34Z",
+      "urls": [
+        {
+          "sign": "889a73de8382df23664508120749ab5d5ddb46acd42bdd79c7e5af8ced5caa00",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Virolainen Jaan Roose asetti uuden maailmanennätyksen slacklinella Tonavan yllä Bratislavassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T15:49:03Z",
+      "urls": [
+        {
+          "sign": "a3c505ed4bc6eb7ccc4759a641b7acc9aa219984943eb23fc8621e2e489ddb9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Erikoisjoukot-kouluttajien voimakas kielenkäyttö herätti sekä naurua että kritiikkiä katsojissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
