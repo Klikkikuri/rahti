@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T02:37:45Z",
+  "updated": "2026-10-02T02:59:11Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -715,23 +715,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T14:00:00+03:00",
-      "urls": [
-        {
-          "sign": "229b20975e80b1eb4fc85f0be8e66648b14ab7a895ee4e6dcf1140c212f9d22a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuluttajaluottamus laski hieman syyskuussa – lehdet kehottavat taloudellisesti vakaampia kuluttajia käyttämään rahaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-29T14:24:00+03:00",
       "urls": [
         {
@@ -890,21 +873,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T13:34:58Z",
-      "urls": [
-        {
-          "sign": "559e113430c5116edbaa270359cf0225a75665b17148f52fc2ead479db416c42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valko-Venäjän entinen jalkapallomaajoukkueen pelaaja: Kansojen liigan Suomi-ottelu pelottaa hiikan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-29T16:45:00+03:00",
       "urls": [
         {
@@ -1005,23 +973,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T13:46:00Z",
-      "urls": [
-        {
-          "sign": "a9b82a29d89b69ea0f860e12fc7b42f57f716298848eecd27acb69ffff9e7c53",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kespron messuilla esitelty humanoidirobotti Arska ei vielä saa käyttää veitsiä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-29T17:10:00+03:00",
       "urls": [
         {
@@ -1050,23 +1001,6 @@
       ],
       "title": "Henri Lipponen perhe havaitsi harvinaisen maitovalaan Espoon saaristossa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-29T13:48:51Z",
-      "urls": [
-        {
-          "sign": "037e69f7908e63da2cad9644031a0f1cedcadc0ee1fef6591e7742b87e338f1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi: Urbaani löytöretkeily voi liittyä espoolaispoikien katoamiseen – varoittaa vaarallisuudesta",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1610,23 +1544,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-29T17:05:30Z",
-      "urls": [
-        {
-          "sign": "ea81c0d67078e198b6bdc5a78f09ebdc786939af7881d30355ad0b661212ac38",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä-Karjalan hyvinvointialueen mukaan Parikkalan vuodeosasto saattaa sulkea ovensa vuoden lopussa, koska lääkäripula tekee hoidosta kalliin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T19:00:17Z",
@@ -5896,23 +5813,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T13:04:48Z",
-      "urls": [
-        {
-          "sign": "a6a490d2e912cdf257e3eb1a1f2ccd5b6e0634043e4b3b3576b434999742ff02",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreät esittävät laajoja helpotuksia paperittomien oleskeluluvan saantiin, terveyteen ja koulutukseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T16:10:00+03:00",
@@ -13624,6 +13524,100 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T02:49:00Z",
+      "urls": [
+        {
+          "sign": "bd5738ba2bcd152e1e2a4fccd773f250972585bdbfe2d678fc7ce98d64c284dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kirkon diakoniatyöntekijät: heikoimpien apuun tarve on kasvanut ja sosiaaliturvan leikkaukset näkyvät",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T05:54:00+03:00",
+      "urls": [
+        {
+          "sign": "10d3162b3d2a64fa2e235626fb4e0049c7b281e98744aabda59c50ca804af913",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoäly | Open AI irtisanoo kolme työntekijäänsä, käsittelivät väärin arkaluonteisia tietoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T02:53:03Z",
+      "urls": [
+        {
+          "sign": "d43b37a32d5e2f2dda250fe5df3b329917ab84969f7ccba88033962d3c6fbfae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Konsta Helenius teki maalin Columbusta vastaan, mutta Blue Jackets voitti 6–3",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T02:58:24Z",
+      "urls": [
+        {
+          "sign": "2da086d04fd20262ed3418648dfa510bd368bb07a3ddffced8411302c8d15425",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Neljä Keminmaan kunnanhallituksen jäsentä vältti syytteet kuukauden katoamisella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T02:45:44Z",
+      "urls": [
+        {
+          "sign": "3f8364fc487982501a2de99df8c8dfece13e731d7bfab5e987ad91b5e9090396",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Neljä astronauttia saapui kansainväliselle avaruusasemalle – oleskelu kestää noin kuusi kuukautta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T02:59:11Z",
+      "urls": [
+        {
+          "sign": "e91b43676142bfe996bea07c9505ba67587c274460e8fc11110792fc5c442def",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eduskunta äänestää hallituksen ja puolustusministeri Antti Häkkäsen luottamuksesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
