@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T17:55:03Z",
+  "updated": "2026-10-02T18:14:51Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -700,23 +700,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T09:32:42Z",
-      "urls": [
-        {
-          "sign": "b89f065fe7c10b9418f5c0891ae78fecf7958a11f90e59f15dc3cf055be3fa06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomus julkisti säästölistan: 9 miljardia leikkauksia, eläkejärjestelmästä 2 miljardia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-30T12:14:00+03:00",
@@ -5746,21 +5729,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-01T13:00:35Z",
-      "urls": [
-        {
-          "sign": "ccf7fe8f9d2602119489bc22ee885892517a062401b500963d1d00e806a69c5c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Jim Carrey avioitui 32-vuotiaan Min Ahin kanssa Los Angelesissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-01T13:11:53Z",
       "urls": [
         {
@@ -5776,23 +5744,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T13:00:17Z",
-      "urls": [
-        {
-          "sign": "7b7dc513f64de1643649de80fc0548ec620f93e3bab30014b5eb65e3105d28f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltojen harkitsema diesel-vientikielto voi lisätä suomalaisten autoilijoiden polttoainekustannuksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T13:07:33Z",
@@ -12758,7 +12709,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T17:54:07Z",
+      "updated": "2026-10-02T18:00:19Z",
       "urls": [
         {
           "sign": "094ffc17f55290dabfbc8adf07591f5ffcffbf339de489bfcd40acdbbe146ec5",
@@ -13556,6 +13507,55 @@
       "title": "Jokerien Maxime Fortier tasoitti pelin kahdesti, mutta Tappara voitti jatkoajalla Tampereella",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T18:01:12Z",
+      "urls": [
+        {
+          "sign": "ff896d2cf91a9bf71c7d2e9d90268bfc8ba61ebb8ff4e020c864e5b494806eba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mary Louise Weller, Delta‑jengi‑elokuvasta tunnettu näyttelijä, on kuollut 79‑vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T18:06:21Z",
+      "urls": [
+        {
+          "sign": "73bdafcae195821e91642f5d7a6dd00ff5137073260d1a20070da8d72a0a5355",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "JYP-hyökkääjä Aaro Vidgren löi HPK-maalivahti Kim Saarisen kumoon ottelun jälkeen – HPK voitti 2-1",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T18:14:51Z",
+      "urls": [
+        {
+          "sign": "6ec0e6316e1d57d58b480a16f427fd25eb637bdbe31074026fbb76869dec4223",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Myllypuron muuttopäivä johti kaaokseen ja poliisin paikalle kutsumiseen – asukkaat kuvailevat tilannetta ennennäkemättömäksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
