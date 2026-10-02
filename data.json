@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T13:11:00+03:00",
+  "updated": "2026-10-02T10:24:14Z",
   "entries": [
     {
       "updated": "2026-10-02T09:30:53Z",
@@ -783,21 +783,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T21:14:00+03:00",
-      "urls": [
-        {
-          "sign": "e8d7bab2dc9ecee1dec627a8e5093af20b8944f8b4705d1dd2bcc799ac83b74a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjanmeren paikalla kasvoi yli 16 000 vuotta sitten metsää",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-29T21:23:00+03:00",
       "urls": [
         {
@@ -1419,21 +1404,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-29T21:23:00+03:00",
-      "urls": [
-        {
-          "sign": "e69618a57bfb0c8ce6613c6bd0bb91e0b3b39e4aa447f2be361044348b047ce8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Slipknot on valinnut Marilyn Mansonin lämmittelijäksi Lontoon Wembley-stadionin ja Etelä-Amerikan konsertteihin – fanit ilmaisevat pettymystään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-30T10:30:00+03:00",
       "urls": [
         {
@@ -1794,23 +1764,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T08:29:09Z",
-      "urls": [
-        {
-          "sign": "ec200980d3c937fd3405ca58167d79c5640d630d22b0fdf81cb94ae5f6960bc4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjan hallitus hyväksyy asuntokriisin lieventämistoimenpiteet, mutta mielenosoitukset jatkavat protesteja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T13:30:00+03:00",
@@ -4929,36 +4882,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T03:32:37Z",
-      "urls": [
-        {
-          "sign": "5422b4f914e5730ec1f4401da28ad75850f0504cc6bc53dc0449ac82f823beb4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Polttonesteiden hinnan nousu on hidastanut henkilöautojen vauhtia ja lisännyt perässä ajamista – rekkakuskit varoittavat turvallisuusriskeistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-01T03:43:50Z",
-      "urls": [
-        {
-          "sign": "cb50a5cdd9d037b898027e9f382d4b9d9ef0c8636f321565a97bfb9c183a44d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "TPS:n Lukas Wernblom vaatii ketjujen vakauttamista paremman kemian luomiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T03:31:50Z",
@@ -13459,7 +13382,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T10:09:53Z",
+      "updated": "2026-10-02T10:24:14Z",
       "urls": [
         {
           "sign": "6407e30a3428ce4172f6e71874cef2969ae40c6ee64fafccb451b214f5dd564a",
@@ -13468,9 +13391,11 @@
           ]
         }
       ],
-      "title": "Hippos rangaisti Eija Sorvistoa, Matias Saloa ja Hanna Lepistöä doping- ja lääkeainerikkomuksista perjantaina",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
+      "title": "Hippos määräsi Sorvistolle ja Salolle 24 kuukauden kilpailukiellon sekä Lepistölle kolmen kuukauden kiellon doping- ja lääkeainerikkomuksista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13569,7 +13494,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T13:11:00+03:00",
+      "updated": "2026-10-02T13:15:00+03:00",
       "urls": [
         {
           "sign": "6676d751fadc68afe8e95d7c0a917b79c962720ba326c17b6d0bc421d91ac4a9",
@@ -13578,8 +13503,8 @@
           ]
         }
       ],
-      "title": "Eduskunta antoi luottamuksen hallitukselle ja puolustusministeri Antti Häkkäselle",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Eduskunta antoi perjantaina luottamuksen Orpon hallitukselle ja puolustusministeri Antti Häkkäselle",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13598,6 +13523,88 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "2d1395e74c736ab16cb0ecd0026616884a20797206d3257e9576b0f265ba8b1f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Museoviraston virkamiehet korostavat STT Lehtikuvan kuvaperinnön turvaamista",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T10:20:30Z",
+      "urls": [
+        {
+          "sign": "6c5af54bfc9f876b8f094d4cfa6239d1fd3056f1b3642927ef17eb9ee86b2fcd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "18626980f13e8403438eec35c5547d59f4d42f719acca8ad68bc851757891bdb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Käräjäoikeus tuomitsi 74-vuotiaan miehen kahden vuoden ehdolliseen vankeuteen muun muassa toimivan Suomi-konepistoolin luvattomasta hallussapidosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T10:20:52Z",
+      "urls": [
+        {
+          "sign": "57b3b2a92959ae72900cead5bbf956661123de9ef017fffd6310c518a7a14381",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Petteri Orpo kutsui turvallisuusviranomaiset koolle varhain aamulla kansanedustajien kotien tunkeutumisten vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T10:23:34Z",
+      "urls": [
+        {
+          "sign": "c4b6249396d09201c3d6c8000dd8a1d3ac515a59e2014ca0425a9b92143f105a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keusote ei aio palkata uusia työntekijöitä noin 400 eläköityvän tilalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
