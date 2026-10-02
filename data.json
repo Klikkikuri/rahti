@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T16:58:58Z",
+  "updated": "2026-10-02T17:12:42Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -847,23 +847,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T10:21:00+03:00",
-      "urls": [
-        {
-          "sign": "11df65ac796f25c26c4f1a84b4a5655f3ffabc726babdb9824268d1f21ee2fbe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-30T11:26:00+03:00",
       "urls": [
         {
@@ -875,21 +858,6 @@
       ],
       "title": "Elina Knihtilä palaa Staliniksi käsi kantositeessä Q-teatterin Suliko-esitykseen",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T10:15:00+03:00",
-      "urls": [
-        {
-          "sign": "31efe1b67b0fb48752d9d9b511a5e5c08e63b4c379aba09bd55f5de91c03b755",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainan talous- ja ympäristöministeri Oleksandr Kravtšenko: Ilmahälytykset maksavat Ukrainalle kymmeniä miljoonia euroja tunnissa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -2333,23 +2301,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-09-30T13:07:47Z",
-      "urls": [
-        {
-          "sign": "a57c4098e83f6b618af4a55a9c0591a5ac5685b1d34d4e9533e7128b9adb7f46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen työ- ja elinkeinoministeriön alivaltiosihteri Elina Pylkkänen peräänkuuluttaa työttömyysjarrua velkajarrun tilalle: Yksi toteutumaton työura maksaa valtiolle noin kaksi miljoonaa euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T16:00:00+03:00",
@@ -13114,7 +13065,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T15:18:26Z",
+      "updated": "2026-10-02T17:07:26Z",
       "urls": [
         {
           "sign": "b53a54597fe203711f7519478649b1a0087c1c266524e4015a350488fdddb0ee",
@@ -13123,10 +13074,11 @@
           ]
         }
       ],
-      "title": "G7-maat vapauttavat 100 miljoonaa tynnyriä dieseliä ja raakaöljyä hillitäkseen polttoaineen hintaa",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "G7-maat vapauttivat 100 miljoonaa tynnyriä dieseliä ja raakaöljyä, mikä laski raakaöljyn hintaa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13486,7 +13438,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T16:58:09Z",
+      "updated": "2026-10-02T17:11:48Z",
       "urls": [
         {
           "sign": "23d510d578ded1b0c2ee56549140ac0bd5a36f582490d0fe1a1c20a9d9e1dd08",
@@ -13496,7 +13448,7 @@
         }
       ],
       "title": "Lukon puolustaja Nuutti Viitasalo sai ulosajon poikittaisesta mailasta Ässien Sakari Kostilaisen kasvoihin Satakunnan derbyssä",
-      "clickbaitiness": "Moderately Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13561,6 +13513,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T17:12:42Z",
+      "urls": [
+        {
+          "sign": "6ee1e2eeab760add3ca62b6590d7fb883780f7b3824d2a481f4275adcaad8670",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskalaislukiolaiset protestoivat huonoja kouluolosuhteita ja kokevat olevansa sivuutettuja politiikassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T20:00:00+03:00",
+      "urls": [
+        {
+          "sign": "fc9ad49aae63affaa25e96ea29cf9970004cca7f02ecf8ddaee125db95ef6698",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T19:59:00+03:00",
+      "urls": [
+        {
+          "sign": "f3b5769352feec4577829501201a81effdeb691ecbc898e00ff62c609a4e489c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Psykologi Ferdinand Garoff: Kansanedustajien koteihin tunkeutuminen voi heikentää turvallisuudentunnetta tavallista murtoa enemmän",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
