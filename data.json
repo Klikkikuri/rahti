@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T18:14:51Z",
+  "updated": "2026-10-02T18:28:19Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -947,23 +947,6 @@
       "title": "Helsingin Sanomat kysyy lukijoilta anonyymisti painoon, kehoon ja liikuntaan liittyviä asenteita – vastausaika päättyy 1. lokakuuta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "5a939f68fbf896b3a1b1439b6421dfac8988f6163fe516a9978448d12be3866c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5744,21 +5727,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T13:07:33Z",
-      "urls": [
-        {
-          "sign": "8e28637f2562df22fb0c91bdb7b87df23ef45cdb3ffc6ea87a13e65daef6701c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomuksen kansanedustaja Ben Zyskowicz: Kansanedustajien epäillyt kotitunkeutumiset muistuttavat hänen mukaansa Neuvostoliiton tiedustelumenetelmää",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T13:07:39Z",
@@ -11718,7 +11686,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T12:06:36Z",
+      "updated": "2026-10-02T18:17:57Z",
       "urls": [
         {
           "sign": "b9a32b4906b918ae99a8fe28c65d34f22e04469b7554042554260b0052440fe7",
@@ -11727,8 +11695,8 @@
           ]
         }
       ],
-      "title": "Poliisi julkaisi kuvan Keiteleellä kadonneesta yli 90-vuotiaasta miehestä – havainnot pyydetään numeroon 112",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Puolustusvoimien helikopterin havainto johti yli 90-vuotiaan miehen löytymiseen kylmissään Keiteleellä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13556,6 +13524,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T21:18:00+03:00",
+      "urls": [
+        {
+          "sign": "5e4ba83c47bbb6a5b531be4daefcd50cacb7910154ad35694eb8e789b8435469",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teloitusyritys Christa Piken kohdalla epäonnistui – hän on kriittisessä tilassa sairaalassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T18:28:19Z",
+      "urls": [
+        {
+          "sign": "d884d19075f2447c4123e8d853ffc05e6e15342f9f18e166b573fe7e28ca4f7f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teemu Suninen menetti WRC2-johtonsa renkaanrikon takia Sardinian MM-rallissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
