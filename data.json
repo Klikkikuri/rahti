@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T11:11:54Z",
+  "updated": "2026-10-02T14:27:00+03:00",
   "entries": [
     {
       "updated": "2026-10-02T09:30:53Z",
@@ -847,40 +847,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "70f37d2ac328e912f33846b61b65628e02e7298d7af44ce8c2456d2be788e2ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Terhi Vapola pohtii, vastaisiko Suomi Googlen datakeskusinvestointeihin kiinteistöillä vai energiatehokkailla innovaatioilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "adcb1be7c9acb6d3218ef298c8e39cf601060ea79c82532b28e32f633d0a9af2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-30T03:46:00+03:00",
       "urls": [
         {
@@ -1712,21 +1678,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T09:46:31Z",
-      "urls": [
-        {
-          "sign": "0fc196cefbeb8676ab73b71636c8353446ef822305893901b2564d3c88612832",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi vangitsi epäillyn Naantalin kylpylän ampumisesta keskiviikkona – miehellä on aiempia ampuma‑aserikostuomioita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T10:44:45Z",
@@ -5018,21 +4969,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T05:59:59Z",
-      "urls": [
-        {
-          "sign": "f4da8ac92bbc1d82974025b98e629d07a044eaa33775c9eb25c05609d9ed6030",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Seela Sella toivoi lahjoituksia rescuekoirille kukkien sijasta ennen kuolemaansa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T08:57:00+03:00",
@@ -13600,6 +13536,68 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T14:27:00+03:00",
+      "urls": [
+        {
+          "sign": "85ce732ae14d10b5b6d4614dbf192b0e6f201bfaac4e2d46f5b7b632f83d1cca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltalaistutkimus osoitti varhain aloitetun hormonikorvaushoidon yhteyden pienempään sydänriskiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T11:17:12Z",
+      "urls": [
+        {
+          "sign": "9c33640e00f3ccb18faaf8e3deb1fe9b4eb54ba2ae988bb0e1a98ee331c05393",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi vuotta van lapsi hukkui saaviin Oulun Ylikiimingissä – kirkkoherra Pauli Niemelä järkyttynyt",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T14:25:00+03:00",
+      "urls": [
+        {
+          "sign": "a458ccfcf12bcc02732bf11df0d27eca0fc57743decaf972ebf81ccd3c804110",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maavoimat: Suomalainen rauhanturvaaja loukkaantui vahingonlaukauksessa Libanonissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T11:16:28Z",
+      "urls": [
+        {
+          "sign": "950928ac5b3d918e8cefa3a3fe7a331062e39b9ac0dfec799d9b67134f490cc8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Flydubain kapteeni Smit Machchharia esti terrori-iskun avattuaan ohjaamon oven haavoittuneena – Narendra Modi haastatteli häntä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
