@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T12:44:44Z",
+  "updated": "2026-10-02T12:57:31Z",
   "entries": [
     {
       "updated": "2026-10-02T12:38:13Z",
@@ -980,24 +980,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T04:40:00Z",
-      "urls": [
-        {
-          "sign": "0931a5cefb534b95745b756f93e83df364bb7018317b0bd43d4def8f547934a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "UNOSAT:n satelliittikuvat: yli 80 % Gazan rakennuksista tuhoutunut, kokonaiset korttelit hävinneet",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-30T07:40:00+03:00",
       "urls": [
         {
@@ -1858,21 +1840,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T11:02:31Z",
-      "urls": [
-        {
-          "sign": "5e0b138b6a4d70eb6e99e16ce7e8ddd4de8d9b7b3d6134451296525b1330caaa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "S-Pankki ostaa Oma Säästöpankin lähes 600 miljoonalla eurolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T11:16:37Z",
@@ -4869,21 +4836,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T06:59:57Z",
-      "urls": [
-        {
-          "sign": "6a16db4cb22b45d3e75a5c727e374f75e02b56f63e38a75cbb2c31d503ed788a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kielitieteilijä toteaa maailman kauneimmaksi nimeksi Sophian",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T06:56:18Z",
@@ -10704,7 +10656,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T12:43:44Z",
+      "updated": "2026-10-02T12:54:35Z",
       "urls": [
         {
           "sign": "baaf73aef08e49e0df29d44e52d79a1448f9aa7465ec011028bfb79126cd9226",
@@ -10713,7 +10665,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari pelkää, ettei ero Elfyn Evansiin riitä Sardinian MM-rallin EK4:llä",
+      "title": "Sami Pajari kasvatti eroa Elfyn Evansiin Sardinian MM-rallin EK5:llä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13574,6 +13526,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T12:47:48Z",
+      "urls": [
+        {
+          "sign": "2ce74fa491113f2a3c077112dbf29017347b0b385e777edc43f33949bbf92c01",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Loviisassa kuului perjantai-iltapäivänä kova pamaus – puolustusvoimat: ääni johtui hävittäjän äänirajojen rikkomisesta valvontalennolla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T12:57:31Z",
+      "urls": [
+        {
+          "sign": "12cde2eb795074996ca7f267fcfe4c0940e51182d12342fb3fb04befa85273a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Useat kansanedustajat epäilevät luvattomia käyntejä kodeissaan – eduskunta selvittää ilmiötä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T12:57:05Z",
+      "urls": [
+        {
+          "sign": "cae0c3234f071fa5ecb67fc18d874b4471b5f8e28ee8c0bfa1f1a35a63e46c09",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nokia ja Iceye kehittävät turvallista satelliittiviestintää valtioille ja puolustusasiakkaalle",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     }
