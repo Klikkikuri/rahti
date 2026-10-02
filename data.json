@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T03:11:32Z",
+  "updated": "2026-10-02T03:24:00Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -1039,21 +1039,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-09-29T14:21:50Z",
-      "urls": [
-        {
-          "sign": "f074f0af22456f8a57848efa3dc55e9e1ce83aa41d9ed88dfca05e3309c56c6f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cristiano Ronaldo ei kiinnittänyt Malmössä huomiota kokoontuneisiin faneihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-29T17:04:00+03:00",
       "urls": [
         {
@@ -1278,23 +1263,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T17:17:29Z",
-      "urls": [
-        {
-          "sign": "791531f17669593e540243e2aed2258c3ce88ae7254501d1eea1c3e5654ea65b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian poliisi: epäillyt kantivat polttoainetta, eivät räjähteitä – heidät vapautettiin takuita vastaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T19:16:00+03:00",
@@ -13635,6 +13603,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T03:20:35Z",
+      "urls": [
+        {
+          "sign": "5ca9f83bb89d673f31fa463077c418afaaf7a0d2d67f0dc4ae118bc686d7f32c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nainen hakee korvauksia raiskausepäilystä Cornellin fraterniteetin juhlissa – professori vaatii veljeskuntien kieltämistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T03:24:00Z",
+      "urls": [
+        {
+          "sign": "b9601518ed0ae3ee02f152052c5dbe8bf1c46e39e47887b64671e7407f4d0888",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU:n kuluttajaviranomaiset aloittivat tutkinnan yhdeksän videopeliyrityksen virtuaalivaluuttojen käytännöistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
