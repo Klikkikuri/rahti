@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T22:28:15Z",
+  "updated": "2026-10-02T22:33:13Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -5536,23 +5536,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T14:39:15Z",
-      "urls": [
-        {
-          "sign": "cbad6087b92673211cd50dd7630a6e7731ad17ac3c6d4f64dd899bf7ebb81147",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija Henri Vanhanen epäilee vessapönttötapauksien liittyvän Venäjän vaikutusyrityksiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T16:00:00+03:00",
@@ -13558,6 +13541,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T22:33:13Z",
+      "urls": [
+        {
+          "sign": "a739b93cdcbf02aa3a6c111746ae4f6cb80996a9461d1656ba119ab533e8892a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Koeputken rikkoutuminen aiheutti venäläisen laborantin kuoleman ruttoon ja lähes 200 ihmisen karanteenin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
