@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T20:53:33Z",
+  "updated": "2026-10-02T21:07:52Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -5989,21 +5989,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T14:33:37Z",
-      "urls": [
-        {
-          "sign": "b72925789ccf11fcc796152feae62e8deae93757abab6c87c3a1f53bc124d029",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Risti Djurgårdenin harjoituskentällä herätti uhkausepäilyjä valmentaja Jani Honkavaaraa vastaan – seura ilmoitti asiasta poliisille",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T14:42:34Z",
@@ -13539,7 +13524,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T20:53:33Z",
+      "updated": "2026-10-02T21:07:52Z",
       "urls": [
         {
           "sign": "ec8cfd43faa15edf9a4aa1f7255d8b236e201e5010a96d9c6fc5f543657c13b9",
@@ -13548,7 +13533,24 @@
           ]
         }
       ],
-      "title": "Henkilöauto paloi korjauskelvottomaksi K-supermarketin edustalla Porissa perjantai-iltana – ei henkilövahinkoja",
+      "title": "Henkilöauto syttyi palamaan K-supermarket Karjarannan parkkipaikalla Porissa perjantai-iltana – ei henkilövahinkoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T21:00:24Z",
+      "urls": [
+        {
+          "sign": "faa37983dd0cb1debffdd00b9de82c19fbdd70166272371a6fbe11c49a871014",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina varoittaa Venäjän suunnittelevan iskuja sähköön, lämpöön ja vesihuoltoon talven aikana",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
