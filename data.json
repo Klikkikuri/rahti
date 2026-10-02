@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T03:45:14Z",
+  "updated": "2026-10-02T04:00:04Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -973,23 +973,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T14:22:11Z",
-      "urls": [
-        {
-          "sign": "cd685987ba07f9f7154c87d6e42ade14701479db43e015f51b34533145d009bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henri Lipponen perhe havaitsi harvinaisen maitovalaan Espoon saaristossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T14:30:43Z",
@@ -5420,21 +5403,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T13:47:59Z",
-      "urls": [
-        {
-          "sign": "0509e00cabb4c4262bb3bfe6236be72c31e2a1a97131b34db1ee14d0a33d9f13",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä perui entisen maajoukkuejääkiekkoilijan syytteet avunannosta törkeään petokseen Oulun käräjäoikeudessa viime hetken sovinnon jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-30T14:38:25Z",
       "urls": [
         {
@@ -5783,21 +5751,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-30T13:58:17Z",
-      "urls": [
-        {
-          "sign": "fff192f26c9656ce84207f8ebddcb583477165c0a8d1cde84279e84645cda10c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtiovarainministeri Purra sanoo, ettei valtion pidä pelastaa STT:tä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T16:23:53Z",
@@ -13628,7 +13581,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T03:45:14Z",
+      "updated": "2026-10-02T03:59:24Z",
       "urls": [
         {
           "sign": "8ab468cc811b0dca144d98eabf0ccf75604fb1687f38f5167a726f2ad12abc3a",
@@ -13637,9 +13590,59 @@
           ]
         }
       ],
-      "title": "Aleksander Barkov loukkaantui yön NHL-ottelussa San Jose Sharksia vastaan",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Florida Panthersin kapteeni Aleksander Barkov loukkaantui yöllisessä NHL‑ottelussa San Jose Sharksia vastaan",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T03:51:00Z",
+      "urls": [
+        {
+          "sign": "9200b7a1f0dfedcb54ade667c5dd426848127ce28458178b91fbb7f32eddd83e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tennesseen epäonnistunut teloitus Christa Pike herättää kuolemanrangaistuskeskustelua – vastustus korkeimmillaan 50 vuoteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T03:57:09Z",
+      "urls": [
+        {
+          "sign": "3482735a69a24df45bdfc5a6bbc699be4da19f0ef67530df09c61ef84746ff08",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Millu Haataja lähtee Loopin aamushowsta – somessa spekuloidaan hänen mahdollisesta siirtymisestään Big Brother -juontajaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T04:00:04Z",
+      "urls": [
+        {
+          "sign": "eb53240bc86b2e246a8779c5df066c7476e10e533f663091624a6b395ce5e8fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ammattiliitto Pro ehdottaa, että työuupuneet saisivat sairauspäivärahan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
