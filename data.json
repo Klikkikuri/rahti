@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T06:30:05Z",
+  "updated": "2026-10-02T06:43:55Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -1411,21 +1411,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T22:39:23Z",
-      "urls": [
-        {
-          "sign": "072baf939bf018a050014ce1d3b44ce5bc264989896cc0d112e95cdeec7a3704",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kim Yo Jong kiistää Etelä‑Korean väitteet Pohjois‑Korean syyllisyydestä DMZ:n miinaräjähdyksessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-30T02:00:00+03:00",
       "urls": [
         {
@@ -1539,21 +1524,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T23:19:51Z",
-      "urls": [
-        {
-          "sign": "cab9269be4977cbd2227efe93296620e172c0305cc766e0115c033cbc47dcc24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Norjan parlamentti aloittaa kaksipäiväiset Epstein-kuulemiset",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T03:46:00+03:00",
@@ -5164,23 +5134,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-09-30T17:04:11Z",
-      "urls": [
-        {
-          "sign": "f127dd5f28d0882907a21209a75f6fc589e29a448eed6202e3e02bae89b235dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP:n Tytti Tuppurainen ja kokoomuksen Pia Kauma riidelleet Ukkola-ohjelmassa Suomen Israel-politiikasta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-30T18:02:12Z",
       "urls": [
         {
@@ -5284,23 +5237,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-30T17:17:17Z",
-      "urls": [
-        {
-          "sign": "2ab62ba41d2b55f13541514d5a5f3074f9abeda1e80b421ba86b43834619b85b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -5476,21 +5412,6 @@
       ],
       "title": "Pääkirjoitus: Maailmanloppu ei ole uhka, mutta tekoälylle tarvitaan sääntelyä",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-30T17:12:31Z",
-      "urls": [
-        {
-          "sign": "d56cd41d5a83e73a4dc6b626d16a9848b877666eb821a88887c5f194cb7f7f46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK:n Aron Kiviharju on valmis pelaamaan, joukkue hakee uutta sentteriä",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13055,7 +12976,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T06:23:32Z",
+      "updated": "2026-10-02T06:38:25Z",
       "urls": [
         {
           "sign": "8e9bc7b353311ca1a5745b869d5265a1623f67311babd192c3e669c9ec8f383d",
@@ -13064,9 +12985,11 @@
           ]
         }
       ],
-      "title": "Syyttäjä lukee syytteet Kai-Pekka Savolaisen murhasta 55- ja 35-vuotiaille miehille Seinäjoen käräjäoikeudessa perjantaina",
+      "title": "Syyttäjä lukee syytteet Kai-Pekka Savolaisen murhasta 55- ja 35-vuotiaille miehille perjantaina Seinäjoen käräjäoikeudessa",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13360,7 +13283,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T06:22:10Z",
+      "updated": "2026-10-02T06:36:48Z",
       "urls": [
         {
           "sign": "baaf73aef08e49e0df29d44e52d79a1448f9aa7465ec011028bfb79126cd9226",
@@ -13369,7 +13292,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari taistelee MM-tittelistä Sardinian EK2:lla perjantaina – MTV seuraa",
+      "title": "Sami Pajari taistelee MM-tittelistä Sardinian toisella erikoiskokeella perjantaina – MTV seuraa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13626,6 +13549,81 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T06:31:47Z",
+      "urls": [
+        {
+          "sign": "1b3595cc79883c4142e78564f9dec0033fe3b48911ea1d84d7d38d2a24816946",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Essi Antervo kertoi syövästään Erikoisjoukoissa ja Matias Petäistö hiljeni hetkeksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T06:31:15Z",
+      "urls": [
+        {
+          "sign": "0bab6cf07360cc90f58450acc946e7cb1a93952317bc01070461c19e073775f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hesperianpuiston peruskorjaus alkaa Töölönlahdella – pyöräily- ja jalankulkuväylät erotetaan, poikkeusjärjestelyt jatkuvat vuoteen 2028",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T06:39:25Z",
+      "urls": [
+        {
+          "sign": "b66858b48a74f3cd7cd94fc1989d488f41e5080f0b2ff94fa7c377b04270b619",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo tapasi turvallisuusviranomaisia kansanedustajien asuntoihin liittyvistä turvallisuushavainnoista",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T06:43:55Z",
+      "urls": [
+        {
+          "sign": "7e37e6843ac9b5a3b010f6642c637387db283f2ae2ca3923ef8d27ccc1e2ff0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Petteri Orpo sai turvallisuusviranomaisilta katsauksen epäillyistä kansanedustajien kotiin tunkeutumisista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T06:32:00Z",
+      "urls": [
+        {
+          "sign": "cf4cefdaf243c59bf37e6854c73bb11afcd0aafebe4fc86457952ae4e69580a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veikkauksen Milli-pelin päävoitto Leppävirralle toi nettipelaajalle miljoona euroa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
