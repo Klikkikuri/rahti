@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T02:28:09Z",
+  "updated": "2026-10-02T02:37:45Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -1841,21 +1841,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-29T16:59:44Z",
-      "urls": [
-        {
-          "sign": "79f8292a6ea310d46c286b139798ec2387414538bf773ce0a1b3cb10ff98a2a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kaupungin mukaan helsinkiläiset sairastavat yleisimpiä kansantauteja vähemmän kuin muualla, mutta psykoosia enemmän",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T21:14:00+03:00",
@@ -4687,21 +4672,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-30T12:58:44Z",
-      "urls": [
-        {
-          "sign": "0b87f11c8be43b01b161cd7feffa245c704c656334966e16fbd177a679b704e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomus esitteli 9 miljardia euroa kattavan leikkauslistan – vastustusta opposition ja ammattiliittojen taholta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T11:34:57Z",
@@ -13624,6 +13594,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T02:30:33Z",
+      "urls": [
+        {
+          "sign": "5a6f8ee40cc44eda62e1df34ff09a811506b86fd9e085eb64b25baceb7fbc0ae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaisista miehistä 39 % ja naisista 30 % on pettänyt kumppaniaan – yleisin syy uuden tilanteen houkuttelevuus",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T02:37:45Z",
+      "urls": [
+        {
+          "sign": "19e09805d4a6d81f93a08f597a744fc315d1084f88ba99ee57d1073ad72598d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perjantaina sää on enimmäkseen poutainen, lauantaina hajanaisia sateita leviää lännestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
