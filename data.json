@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T12:27:40Z",
+  "updated": "2026-10-02T12:44:44Z",
   "entries": [
     {
-      "updated": "2026-10-02T09:30:53Z",
+      "updated": "2026-10-02T12:38:13Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa ja raportoi Venäjän propagandan vaikutuksista Suomessa Naton liittymisen jälkeen",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Iltalehti tarjoaa live-seurantaa Ukrainan sodasta ja raportoi Venäjän propagandan vaikutuksista Suomessa Naton liittymisen jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1919,23 +1919,6 @@
       "title": "Poliisi lopetti Hatanpään koululla tapahtuneen ”blessauksen” tutkinnan",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-30T11:02:01Z",
-      "urls": [
-        {
-          "sign": "6d2ccde7174e91c6213a258318be70975dfcc394a65f5d9e1cc0fba9bcc59c4d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin sotalaiva vartioi Suomenlahtea Suomen johdolla täydessä aselastissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -4933,21 +4916,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T06:56:57Z",
-      "urls": [
-        {
-          "sign": "b12c4dd2d226845a60fdc368603be83fa9c476970b437d22f8aa13f84d8b0604",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Volodymyr Holubiev katosi karkotuspäätöksen jälkeen – ystävä Ramin Amirkhani ilmaisee huolensa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T06:46:55Z",
@@ -10736,7 +10704,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T12:20:29Z",
+      "updated": "2026-10-02T12:43:44Z",
       "urls": [
         {
           "sign": "baaf73aef08e49e0df29d44e52d79a1448f9aa7465ec011028bfb79126cd9226",
@@ -10745,7 +10713,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari myönsi pelkonsa riittämättömästä erosta Elfyn Evansiin Sardinian MM-rallin EK4:llä",
+      "title": "Sami Pajari pelkää, ettei ero Elfyn Evansiin riitä Sardinian MM-rallin EK4:llä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13574,6 +13542,40 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T12:40:44Z",
+      "urls": [
+        {
+          "sign": "3eb452dd1324da0bedc051d788eba6578ea416171f2c039f9161fc58b65ae6eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finnish MPs report unexplained home intrusions as Ukrainian student seeks internship and new young‑driver stickers roll out",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T12:44:44Z",
+      "urls": [
+        {
+          "sign": "31b28e563027e7db683183017a5a96feb049abe37c53979a319e9289d8091588",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii eduskunnan kansanedustajien asunnoista löytyneitä ulostejäämiä – Petteri Orpo epäilee vieraan vallan vaikutusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
