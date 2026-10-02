@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-01T23:01:10Z",
+  "updated": "2026-10-02T00:00:01Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -698,21 +698,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T13:15:00+03:00",
-      "urls": [
-        {
-          "sign": "f88cad4edb191ebc822c14454020e8f94d54c19cf11bcd510287ab09bd7f651f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide | Matti Leisola: Taloudellinen ajotapa voi käytännössä nollata polttoaineen hinnankorotuksen vaikutuksen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-29T13:22:00+03:00",
       "urls": [
         {
@@ -1261,23 +1246,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T15:59:07Z",
-      "urls": [
-        {
-          "sign": "71ccc74a29866bb63acdc8b444a9ce73501fbe9d7d609009a07fafc0867b93d9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi kohtaa Valko-Venäjän Kansojen liigan ottelussa Olympiastadionilla – Valko-Venäjän kansallislaulu buuattiin, tukikeräys Ukrainalle käynnissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T18:45:00+03:00",
@@ -4539,21 +4507,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-30T12:12:29Z",
-      "urls": [
-        {
-          "sign": "afc10a401b2ed430eef06f6c0e758a827d8824ea8e74abe6c7d84b925717cf9b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Varkaat varastivat Thomas Morgensternin helikopterin Itävallan Mauterndorfissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T13:26:31Z",
@@ -13623,6 +13576,55 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T00:00:01Z",
+      "urls": [
+        {
+          "sign": "6c5d0b5a7f566769e71caa0d377ab2bcd60f3b63b5b72561d9cbd417a5e56d4f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Open AI erotti kolme tutkijaa luottamuksellisen tiedon jakamisesta ulkopuoliselle organisaatiolle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-01T23:18:08Z",
+      "urls": [
+        {
+          "sign": "ca381b633bce09a75c4d43b26fd9dda5387e34525e3c82c0b283ec2b6374c071",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Christa Pike selvisi hengissä teloituslääkkeiden annoksesta – on kriittisessä tilassa ja saa elämää pelastavaa hoitoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T02:00:00+03:00",
+      "urls": [
+        {
+          "sign": "4e92ef454cf6164a22fa3ccaff5d88a131b0121c9c335f94036262b59f8728b1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS kertoo 2.10.1976 TV‑ohjelmista, Jyväskylän tiehankkeesta, silakkamarkkinoista ja Hakalehdon koululakosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
