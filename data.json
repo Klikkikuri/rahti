@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T04:10:20Z",
+  "updated": "2026-10-02T04:14:51Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -1461,24 +1461,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T17:32:36Z",
-      "urls": [
-        {
-          "sign": "fcb3819fb8780b50d4a005cd486b0c356235aa9676d7f1bb1884f093e4a423b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "E18-moottoritien kahvilat ovat tyhjillään, elinkaarisopimus päättyy tänään – Väylävirasto selvittää kahviloiden omistussuhteita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-29T18:34:59Z",
@@ -13642,6 +13624,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T04:14:51Z",
+      "urls": [
+        {
+          "sign": "cbedc7482fd7d377f19dd762db5d30c492bf2af4439c8d55627ca4eb1337cefd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keiju julkaisee Lapin sota -elokuvaan tehdyn tilaussinglen ja kuvasi musiikkivideon Pelkosenniemen suolla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
