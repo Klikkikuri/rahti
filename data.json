@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T00:22:12Z",
+  "updated": "2026-10-02T00:46:38Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -4362,23 +4362,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T12:29:30Z",
-      "urls": [
-        {
-          "sign": "e0954ea5be54c16ff9fad55632a41cfbb6ed1ecd6fe11fe82af445ef976bcb28",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomus hakee kahden miljardin eläkesäästöjä, Orpo kiistää leikkausaikeet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T17:06:49Z",
@@ -13626,6 +13609,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-02T00:46:38Z",
+      "urls": [
+        {
+          "sign": "636991c7379160b2d053f550724bd5f7bb6a3e7e1f8d0fb570372b1061bb00cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Disney-tähti Ashley Tisdale kertoi yrittäneensä erota miehestään monta kertaa synnytyksen jälkeisen masennuksen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
