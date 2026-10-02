@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T03:24:00Z",
+  "updated": "2026-10-02T03:45:14Z",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -726,21 +726,6 @@
       ],
       "title": "Työnantajien rahoittama Pro Markkinatalous jakaa ensi kevään eduskuntavaaleja varten kaksi miljoonaa euroa vaalitukea, kysyy ehdokkailta 15 kysymystä",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T14:13:00+03:00",
-      "urls": [
-        {
-          "sign": "72e1e434bc4d82a57f6832729475ffdf19146295dbaf1d34c327652274ce0f7e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "UDPS:n paikallisjohtaja Marie‑Celestin Karondwa kuoli Butembossa viikonloppuna sen jälkeen, kun hän varoitti ebolasta radiossa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -5078,21 +5063,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T13:33:15Z",
-      "urls": [
-        {
-          "sign": "7765d25ab50f0dda9d44cf4042e7d0aba77556c1f440407f59f0bb7ff4a2b97f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Koripalloilija Jacob Grandison siirtyy Ranskan pääsarjaan Elan Chaloniin dopingkiellon jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-09-30T15:39:34Z",
       "urls": [
         {
@@ -5201,21 +5171,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-30T13:45:46Z",
-      "urls": [
-        {
-          "sign": "2d0d0e641f659eddce8beaa76917c6f2684ba3c6bb077daa3b471724765eb46c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jarkko Martikainen muistelee Seela Sellan viimeisiä kuukausia syöpätaistelun keskellä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13639,6 +13594,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T03:34:03Z",
+      "urls": [
+        {
+          "sign": "d3ceeaff1afb0962e18eb15fe034cd19c0d3ee3850767b275aa4f8e043a9acf0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommentti: Varhaiskasvatuksen opettaja vaihtoi alaa resurssipulan ja jatkuvan työkuorman vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "2479f5ba0c7aa6579bca5f06dab9c864c3d92b11469dabcaabbf6041843fee84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T03:45:14Z",
+      "urls": [
+        {
+          "sign": "8ab468cc811b0dca144d98eabf0ccf75604fb1687f38f5167a726f2ad12abc3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksander Barkov loukkaantui yön NHL-ottelussa San Jose Sharksia vastaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
