@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T20:29:31Z",
+  "updated": "2026-10-02T20:53:33Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -1276,23 +1276,6 @@
         }
       ],
       "title": "Luonnonvarakeskuksen karhuasiantuntija Otso Huitu sanoo, että karhuja ei tarvitse pelätä Suomessa enempää kuin aiemmin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T10:33:48Z",
-      "urls": [
-        {
-          "sign": "6d38cdb928afe5227da7d72f57bfa37b01a068b4918fb8f298b5b18de539488c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Journalistiliitto ja Ylen ohjelmatyöntekijät vaativat valtiolta ja poliitikoilta toimia STT:n uutis- ja kuvatoiminnan mahdollisen alasajon estämiseksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -5974,21 +5957,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T14:25:55Z",
-      "urls": [
-        {
-          "sign": "58bce320c7326f72bf6c625530a679fb47197b7f0718086c05b035267c6b81f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Husin ylilääkäri Vesa Kontinen kertoo teloitusruiskeiden kolmen aineen yhdistelmästä Christa Piken tapauksen jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T17:19:00+03:00",
@@ -13554,6 +13522,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T20:45:28Z",
+      "urls": [
+        {
+          "sign": "c47a728e96eaf96256faf433e2820e4b7dacba0ca69b46608b8277a2117e9d4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä suunnittelee tuhannen ohjuksen iskua Ukrainan energiaverkkoon talveksi, NYT:n lähteiden mukaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T20:53:33Z",
+      "urls": [
+        {
+          "sign": "ec8cfd43faa15edf9a4aa1f7255d8b236e201e5010a96d9c6fc5f543657c13b9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilöauto paloi korjauskelvottomaksi K-supermarketin edustalla Porissa perjantai-iltana – ei henkilövahinkoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
