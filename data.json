@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-02T05:00:07Z",
+  "updated": "2026-10-02T08:14:00+03:00",
   "entries": [
     {
       "updated": "2026-10-01T21:09:38Z",
@@ -715,23 +715,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-29T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b15022cc62179d889a1d2b730e43ade07dc8a3365e37bbd181e174d4586b3f71",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen YTHS:n terveydenhoitaja Anna Malmberg‑Virta kritisoi organisaation suuntaa ja resurssipulaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-29T16:22:00+03:00",
       "urls": [
         {
@@ -986,23 +969,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-29T15:12:00Z",
-      "urls": [
-        {
-          "sign": "b104e08ec40edaccae65f2bdb5951b044726dc038c2ea2ab793fba19ec36269e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalakavereiden tärpit -sarja muistuttaa: veneessä kannattaa olla ensiapulaukku ja kalankäsittelyvarusteet",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-29T18:47:00+03:00",
@@ -5226,21 +5192,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-09-30T15:05:48Z",
-      "urls": [
-        {
-          "sign": "39281692bc89d6d42bee66bccfe1135284f6e92d1b34caefac9b0129fb4dee84",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Video Isokyrön nuorten asumisyksikön väkivallasta leviää – poliisi epäilee kahta nuorta työntekijöihin kohdistuneesta tapon yrityksestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-09-30T13:07:47Z",
@@ -13629,6 +13580,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-02T08:14:00+03:00",
+      "urls": [
+        {
+          "sign": "8cf4bd8039cdfa33b1630ae6ad839ade9a179bdbcf1c53735786867875899dc7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä iski Kiovan eteläiseen siltaan perjantaina aamulla – liikenne ja metro pysäytettiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-02T05:10:32Z",
+      "urls": [
+        {
+          "sign": "8261663130b6d33a96ca81c5d08f4b14bed3c703f938b8e215f4850120e12a61",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ex-kansanedustaja Tapani Mäkinen sai uuden sydämen Husin Tornisairaalassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-02T03:52:48Z",
+      "urls": [
+        {
+          "sign": "b57577a4c99f3f6510ad7b40c7926bd932146d676e4c5fb85cf5944d2da424dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksander Barkov loukkaantui polveensä Florida Panthersin ottelussa San Jose Sharksia vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
