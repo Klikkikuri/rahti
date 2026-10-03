@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T10:00:00+03:00",
+  "updated": "2026-10-03T07:13:59Z",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -783,23 +783,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-30T13:26:31Z",
-      "urls": [
-        {
-          "sign": "b913b2e5148f0b5f99ec2efb7848053ca44cebb795cbf51033b83c006959c045",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Stubb: Ydinaseista ei ole keskusteltu JEF-yhteistyössä Luxemburgin valtiovierailulla",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-30T20:40:00+03:00",
       "urls": [
         {
@@ -1036,21 +1019,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T16:10:00+03:00",
-      "urls": [
-        {
-          "sign": "951a2031374d16a6636bf2b91634aad1401e6534922241f2a9cc0ba65cd800ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STT aloittaa muutosneuvottelut – Sanoman lähtö uhkaa lopettaa perinteisen uutistoiminnan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13149,7 +13117,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T06:55:06Z",
+      "updated": "2026-10-03T07:13:59Z",
       "urls": [
         {
           "sign": "85b860ce63ab57a263150a80fc3d9c40b0c5250453a90a6c1b932fedf6f018fb",
@@ -13158,8 +13126,8 @@
           ]
         }
       ],
-      "title": "Sami Pajari nousi neljänneksi, Fourmaux sai rengasrikon Sardinian MM-rallin EK8:lla – MTV seuraa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Sami Pajari nousi neljänneksi Sardinian MM-rallin EK8:lla, kun Fourmaux sai rengasrikon – MTV seuraa kilpailua",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13213,7 +13181,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T05:47:13Z",
+      "updated": "2026-10-03T07:08:40Z",
       "urls": [
         {
           "sign": "a206cd1d72109799e714c59bba5e6813351c393a89d0b734aeeba241eff43b2c",
@@ -13562,6 +13530,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T10:09:00+03:00",
+      "urls": [
+        {
+          "sign": "150b1bac7cb3a932c911145d5c6261ec9dde9098e318b9562783c640993b4af2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Flydubain perämies hyökkäsi lentäjän kimppuun pelastuskirveellä – matkustajat taltuttivat hänet ja kone ohjattiin Saudi-Arabiaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T07:00:00Z",
+      "urls": [
+        {
+          "sign": "64f91f786f6080b7b3a2891284f46120f57f585f88f1fe70316869594c27578f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Jarmo Koski kertoo Salatut elämät -kohtauksen herättäneen muiston veljen itsemurhasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
