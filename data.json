@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T12:25:57Z",
+  "updated": "2026-10-03T12:43:38Z",
   "entries": [
     {
       "updated": "2026-10-03T11:59:07Z",
@@ -1342,21 +1342,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T02:40:11Z",
-      "urls": [
-        {
-          "sign": "8df6a330ec9aff14c0512d038cbfe75a1d4fea18cbf56cee6c246f5ac2cf9b4e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Torstain sää on poutainen aamun sumun jälkeen, etelässä lämpötila nousee yli 15 astetta ja pohjoisessa jää alle 10",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T02:44:29Z",
@@ -6139,21 +6124,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T06:22:40Z",
-      "urls": [
-        {
-          "sign": "a76c3c9389e35ad710352c948f86b07b817245e0bf5b26911a5b6fb89d2cf5a7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alona Kuusisto julkaisi Instagramissa kuvia mustelmista jaloistaan ja käsivarsistaan Erikoisjoukot-ohjelman jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T06:15:09Z",
@@ -13548,6 +13518,38 @@
       ],
       "title": "Ylen Belzebubs-sarja saa kiitosta – JP Ahonen vastaa yhdelle kriitikolle",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T12:43:38Z",
+      "urls": [
+        {
+          "sign": "58fdb7ecf6b2eef0d91108cf0c46ce197f56a087a1018c174024266605eae47b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi kohtaa Albanian Kansojen liigan ottelussa Helsingissä – panoksena lohkovoitto ja nousu B-liigaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T12:40:17Z",
+      "urls": [
+        {
+          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden palvelu näyttää pörssisähkön 48 tunnin hintatiedot graafissa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
