@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T02:34:47Z",
+  "updated": "2026-10-03T03:00:41Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -1050,21 +1050,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T10:59:26Z",
-      "urls": [
-        {
-          "sign": "25acf97a555a99e86599d5f36362d4992ddd1506ab2d739568aaf3911ae5d250",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uefan puheenjohtaja Aleksander Ceferin kiristää hyökkäystään Fifan puheenjohtajaa Gianni Infantinoa vastaan ennen kevätvaaleja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-30T11:32:00Z",
@@ -5884,36 +5869,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T15:47:32Z",
-      "urls": [
-        {
-          "sign": "0c6579beb44c2e705628a538f5bd71b8987488cf7393e1790b449f2a56014890",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miika Elomo kuoli yliannostukseen kotonaan Ranskassa 9. helmikuuta 2025",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-01T15:31:16Z",
-      "urls": [
-        {
-          "sign": "a10526eb49cfd7e04a4e9780da859dc9186c9ef6a155b5628a858ade4a747c5e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä vaatii 20-vuotiaalle miehelle vankeutta äitinsä murhan yrityksestä Ylivieskassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T15:21:12Z",
@@ -13561,6 +13516,55 @@
         }
       ],
       "title": "Putin varoittaa länttä Kaliningradista – asiantuntija: alue on muuttunut Venäjän ongelmaksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T03:00:34Z",
+      "urls": [
+        {
+          "sign": "26ea5726c969d92243813a724cf44bc92e46407caf23a2124983e0983aa8eea7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T03:00:00Z",
+      "urls": [
+        {
+          "sign": "3e6f25a78319c8592fdf7796d82d06059f20aaa2e8910a61b28409dda294762e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen ensimmäiset F-35-hävittäjät saapuivat Rovaniemelle – Jarmo Lindberg korostaa monitoimikykyä ja kiistää tappokytkinväitteet",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T03:00:41Z",
+      "urls": [
+        {
+          "sign": "e21f1f7dd85807077cc20ac70c0dbcc2c8df774c1530124435e8414205d7db8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karpalon satokausi on alkanut – marja tarjoaa terveyshyötyjä sydämelle, virtsateille ja suulle",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
