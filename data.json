@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T20:36:00+03:00",
+  "updated": "2026-10-03T21:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-03T14:31:21Z",
@@ -823,23 +823,6 @@
       "title": "Hannu Laitinen ehdottaa polttoaineveron väliaikaista alennusta ja kompensoivaa ajoneuvoveroa sähkö- ja hybrideille",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "dc56a1b00c415af67f92c9263c9ff06d3ad2dd4185ac63fcc10058e5d72fb3b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -6304,21 +6287,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T09:34:13Z",
-      "urls": [
-        {
-          "sign": "95f73f62770f014b49afa580bdc0eb9089d4e30908a569aec563598c64fa352c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara kohtaa Jokerit ilman Rauhalaa, Lindqvistiä ja Niemeläistä – Kuusla palaa Jokerien vahvuuteen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T09:47:02Z",
@@ -13555,6 +13523,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T21:00:00+03:00",
+      "urls": [
+        {
+          "sign": "6115de0ba49011e000d6462af176bfec4c386d5b7abdaedc28618ead3a2aad2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T17:56:05Z",
+      "urls": [
+        {
+          "sign": "9fbf9c1c805a3411cdb1083429057af6f351315bbbe2b7a0075f63c336568987",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Leo Walta teki kaksi vapaapotkumaalia ja ratkaisi Suomen 2–1-voiton Albaniasta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
