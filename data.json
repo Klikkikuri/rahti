@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T03:28:05Z",
+  "updated": "2026-10-03T03:40:00Z",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -892,23 +892,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-09-30T11:16:37Z",
-      "urls": [
-        {
-          "sign": "360c187d616973c84b7970f7f088c8a58c5f1d98504b9854dca5bb77e9e8d0f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STT:n mahdollinen alasajo: pääluottamusmies: 140 vuotta suomalaista historiaa katoaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-30T11:46:30Z",
       "urls": [
         {
@@ -988,21 +971,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T14:09:00+03:00",
-      "urls": [
-        {
-          "sign": "5fd318063dbd2763192df28324d67988a5155376c9603ef40b4d36a072334792",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuluttaja-asiamies vie Fitness24Sevenin markkinaoikeeseen: vaatii irtisanomisaikojen lyhentämistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-30T12:35:44Z",
@@ -5965,23 +5933,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T15:53:38Z",
-      "urls": [
-        {
-          "sign": "c6e3c81c7087e36366143f8460262226030fa40144b8ed05ba5ebf4bdba3c076",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset hylkäsivät Saija Kinnusen ovenavaajahakemuksen – hän jää kotiinsa vankiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T15:59:39Z",
@@ -13567,6 +13518,53 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "111bb34794ef5ad3baee5693ab74039c252e1ed1ab04e3d3a8d71e92026b531a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS julkaisi Olivia Oraksen kuolinilmoituksen – poliisi epäilee törkeää kuolemantuottamusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T03:34:36Z",
+      "urls": [
+        {
+          "sign": "4ca53e68caf587fa2879801b86ac4625f7cae4556d4b4badb2df313ee2532f77",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle paljastaa katsojien eniten toivoman elokuvan Levoton Tuhkimo – näytös tänään Bio Rexissä kello 21",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T03:40:00Z",
+      "urls": [
+        {
+          "sign": "b51c6912d838335afcb40cb67d7fe4cb67f474001b7b2697aa9a55f68a70eaeb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi etsii Niuvanniemestä karannutta Jani Väänästä – kateissa yli kaksi viikkoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     }
