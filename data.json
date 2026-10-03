@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T15:10:48Z",
+  "updated": "2026-10-03T15:27:02Z",
   "entries": [
     {
       "updated": "2026-10-03T14:31:21Z",
@@ -1291,38 +1291,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T04:27:01Z",
-      "urls": [
-        {
-          "sign": "ca19e21306bae3f7273529894637e80e2ffaa59db4d593100dbaf36efeb19106",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskiviikkoiltana Christa Pike sai kaksi myrkkyruisketta teloituksessa ja vietiin sairaalaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T04:34:33Z",
-      "urls": [
-        {
-          "sign": "9be028c7c24ac9d6744ea4310b80c01b878b2b03cc22062dafad103c66aa22e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin isot raidetyöt aiheuttavat liikkumishaittoja ja hermostressiä asukkaille tänä syksynä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T05:14:00Z",
@@ -6272,23 +6240,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T08:02:00Z",
-      "urls": [
-        {
-          "sign": "2c484309b1c4bc6c47b24d6c65c5264e889031c1b8bc41ca8656818c213c03a7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T08:00:38Z",
@@ -13479,7 +13430,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T15:10:48Z",
+      "updated": "2026-10-03T15:26:02Z",
       "urls": [
         {
           "sign": "0bd97d880cc39b38894624d3c9c569e51510fd3271dee4b449272bb24da08c8e",
@@ -13488,7 +13439,7 @@
           ]
         }
       ],
-      "title": "Ulkoministeriö toteaa Venäjän varoituksen Kiovan massiivisista iskuista olevan hyväksymätön",
+      "title": "Ulkoministeriö: Venäjän varoitus Kiovan massiivisista iskuista ei ole hyväksyttävä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13539,6 +13490,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T15:23:27Z",
+      "urls": [
+        {
+          "sign": "878a3e3044a9375d4167485ab2d925daf3b61e9be1dc4481b079aa09fa5a4032",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "STM ehdottaa sairaalapalveluiden keskittämistä ja päällekkäisten toimintojen karsimista säästöpaineiden helpottamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T15:27:02Z",
+      "urls": [
+        {
+          "sign": "87336886294d7d80de359536224e4c96aac78946cab90a6a9d1ce35ae81bcf0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommentti: Leo Walta:n oikean jalan laukaus ratkaisi Suomen 2-1-voiton Albaniasta ja piti Huuhkajat lohkovoittokamppailussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T15:21:49Z",
+      "urls": [
+        {
+          "sign": "8411e2fa6b52ec9e7359e1efec4edb731ac6ad43c23faccf0f311918c8e04a10",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuuli voimistuu suuressa osassa Suomea alkuviikolla – pohjoisessa voi sataa ensilunta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
