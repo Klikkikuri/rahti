@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T03:39:00+03:00",
+  "updated": "2026-10-03T02:34:47Z",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -1424,21 +1424,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T14:27:27Z",
-      "urls": [
-        {
-          "sign": "b5761a20ea78f10d06ebcf7b47780665bc4d43beb38d76c58997e7fa40f01d28",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korkein hallinto-oikeus vahvisti Sysmän kunnanjohtajan valinnan kumoamisen, virka haetaan uudelleen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-09-30T18:26:00+03:00",
       "urls": [
         {
@@ -2587,23 +2572,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T15:24:04Z",
-      "urls": [
-        {
-          "sign": "ebb81eb3145b20129fb933303fecc4118a4e29a40d082bde5463c5c9b3d9eb9f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Christa Pike jatkoi kuorsaamista saamiensa kahden myrkkyruiskeen jälkeen teloituksen epäonnistuttua Tennesseessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T05:00:00+03:00",
@@ -13562,6 +13530,38 @@
       ],
       "title": "Tennesseen kuolemaan tuomittu Christa Pike on sairaalassa tiedottomassa ja hengityskoneessa – herääminen nostaa esiin teloituksen eettisen kysymyksen",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T02:30:35Z",
+      "urls": [
+        {
+          "sign": "3792c50ec5cba0cc7008867502c71b767c5d20b69b6516cf5b76472894e67949",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Inka Mero vaatii peruskoulun luokkakojen pienentämistä keskitason osaajien tasoa parantaakseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T02:34:47Z",
+      "urls": [
+        {
+          "sign": "a4bb1663289bc12e2e7012cca2caecfc950ded3b6c830bf7cd0b0fafe0498d26",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin varoittaa länttä Kaliningradista – asiantuntija: alue on muuttunut Venäjän ongelmaksi",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
