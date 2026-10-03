@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T15:27:02Z",
+  "updated": "2026-10-03T15:35:54Z",
   "entries": [
     {
       "updated": "2026-10-03T14:31:21Z",
@@ -6050,21 +6050,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T08:13:25Z",
-      "urls": [
-        {
-          "sign": "c4a60bbe96fde1a609f7a42d465891d57a42edc7c1568c31a81a0208446bbcbf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalainen Sensofusion sai vientiluvan droontorjuntajärjestelmille Yhdysvaltain salaiselle palvelulle ja valmistelee pörssilistautumista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T09:45:45Z",
       "urls": [
         {
@@ -11197,7 +11182,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T15:01:44Z",
+      "updated": "2026-10-03T15:35:54Z",
       "urls": [
         {
           "sign": "a206cd1d72109799e714c59bba5e6813351c393a89d0b734aeeba241eff43b2c",
@@ -11206,8 +11191,8 @@
           ]
         }
       ],
-      "title": "Oliver Solberg johtaa Sardinian MM-rallia EK12:n jälkeen, Ogier toisena ja Pajari kolmantena",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Sardinian MM-rallin 12. erikoiskokeen jälkeen Oliver Solberg johtaa, Ogier toisena ja Pajari kolmantena",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13539,6 +13524,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T15:32:30Z",
+      "urls": [
+        {
+          "sign": "fc66d132429fa8f2cff4110a4b2d04184f0366f1442865166954f7c877f63616",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vilma Karjalainen kertoo olleensa raskaana rasvaimun aikana Virossa – ei tiennyt raskaudesta ennen toimenpidettä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
