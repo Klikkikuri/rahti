@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T19:44:55Z",
+  "updated": "2026-10-03T19:58:23Z",
   "entries": [
     {
       "updated": "2026-10-03T19:04:09Z",
@@ -875,23 +875,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T04:27:45Z",
-      "urls": [
-        {
-          "sign": "6eba33edc0fc8b631c9f05e7897d916f8d3decbff174887d2d4fa36f747b00c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset epäonnistuivat Christa Piken teloituksessa Tennesseessä – nainen vietiin sairaalaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T05:14:00Z",
@@ -6278,21 +6261,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T10:43:36Z",
-      "urls": [
-        {
-          "sign": "13b7dfa5dabcacb0a7898863a9523676976e363989c811d598c1ae09ee995708",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nelikymppiset huomaavat oluen vaikutuksen muuttuvan: uni häiriintyy ja väsymys kasvaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T10:57:45Z",
       "urls": [
         {
@@ -6370,21 +6338,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T10:34:48Z",
-      "urls": [
-        {
-          "sign": "77fee30d20bc70e32d428ab645cdcd76164c49035fb7483ac22706dde9712f0c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HPK ja JYP kohtaavat loukkaantumisten täyteisessä Liigaottelussa illalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T10:45:00Z",
@@ -13542,7 +13495,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-03T22:44:00+03:00",
+      "updated": "2026-10-03T22:55:00+03:00",
       "urls": [
         {
           "sign": "3f1102046b423d6c40e1cdd1374c4a9a03a83102cadfdd50ebedb0f747611809",
@@ -13551,12 +13504,55 @@
           ]
         }
       ],
-      "title": "Poliisi sulki meriväylän Helsingin edustalla tuntemattoman esineen löydön vuoksi",
+      "title": "Poliisi sulki Helsingin edustan meriväylän suppilomaisen metallisen esineen löydön vuoksi",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T19:49:15Z",
+      "urls": [
+        {
+          "sign": "d5ec2188dc6e2d68e1acb1648ebdd91627e9f62c2837418315a08c9534e2ef7c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii Kustaanmiekan eteläpuolella löytynyttä suppilomaista metalliesinettä – laivaliikenne pysäytetty",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T19:58:23Z",
+      "urls": [
+        {
+          "sign": "dc0f1b8bcac2df0b0d74a6a4ae10441c0d1f09491ae836e2d18fc087d0183553",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen kehonrakentaja Danny Andrews kertoo steroidien aiheuttaneen hedelmättömyyden",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T19:55:34Z",
+      "urls": [
+        {
+          "sign": "817e0652ea170b3d065a1274bc9add988f07749c814ed1439eba03ee1659e4f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kasmirin Espoon talon hinta laski 95 000 euroa – talo ei vielä mene kaupaksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
