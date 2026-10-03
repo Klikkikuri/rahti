@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T18:57:22Z",
+  "updated": "2026-10-03T19:04:09Z",
   "entries": [
     {
-      "updated": "2026-10-03T14:31:21Z",
+      "updated": "2026-10-03T19:04:09Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa: Venäjä lisää propagandaansa Suomeen Nato-jäsenyyden jälkeen",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja Venäjän propagandaa Suomen Nato‑jäsenyyden jälkeen",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -6214,21 +6214,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T10:10:34Z",
-      "urls": [
-        {
-          "sign": "9f5c62094ae48ce74b0aafdb10e0de25915b8e76c4b00550fd2cd30242ddf181",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduskunta vahvisti Antti Häkkäsen ja hallituksen luottamuksen perjantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T16:08:00+03:00",
@@ -13559,6 +13544,23 @@
       "title": "Ulkomainen artisti Tomas Ledin nousi ensimmäistä kertaa Elämäni biisi -lavalle lauantaina 3. lokakuuta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T19:00:20Z",
+      "urls": [
+        {
+          "sign": "b59b141b6f51960b2701467cecf9c0954fd9f75bfedc8a06ce552b334660ac74",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pekka Toveri varoittaa: jokainen suomalainen voi olla vieraan valtion tiedustelun kohde",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
