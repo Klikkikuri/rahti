@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T06:42:47Z",
+  "updated": "2026-10-03T10:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -766,21 +766,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T16:08:00+03:00",
-      "urls": [
-        {
-          "sign": "9e0d5fdd24509e1e4ed041154512a307a986f374d9e921eea9d5e74dd55a2e6b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kruunuvuorensillalle ilmestyi graffiti 'Kissat veräjästä' – siivous voi maksaa tuhansia euroja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-30T17:06:49Z",
       "urls": [
         {
@@ -1326,23 +1311,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T16:10:00+03:00",
-      "urls": [
-        {
-          "sign": "6c2c9b8558917a8368b49bcaf5589bca370282692cf8d536719d238615158075",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranin tuomioistuin vahvisti 74 raipaniskun Parastoo Ahmadin rangaistuksena ilman huivia esiintymisestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-09-30T17:40:48Z",
@@ -5945,53 +5913,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T19:14:04Z",
-      "urls": [
-        {
-          "sign": "6245d1cb70f0fdc4b663702531c60c8597ab1c1ad4b52e49d60b04bd75497f2b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehonrakentaja Juhani 'Jussi' Hokkanen on kuollut 67-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-01T19:22:53Z",
-      "urls": [
-        {
-          "sign": "594ace83fddb24bcc353a150bb3364a7cd8838f256c5d9dd9702e4296f0012e3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen presidentti Stubb tapasi Venäjän ulkoministeri Lavrovin New Yorkissa YK:n yleiskokouksen aikana",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-01T19:20:48Z",
-      "urls": [
-        {
-          "sign": "0b91421a2f724de754aa4cb4e01166f8198b1555706488b2495fc65f0f2d37eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SpaceX:n Falcon 9 -raketin jälki näkyi Pirkanmaan taivaalla iltakuuden jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T19:17:06Z",
@@ -13228,7 +13149,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T06:42:47Z",
+      "updated": "2026-10-03T06:55:06Z",
       "urls": [
         {
           "sign": "85b860ce63ab57a263150a80fc3d9c40b0c5250453a90a6c1b932fedf6f018fb",
@@ -13237,7 +13158,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari jahtaa Sardinian MM-rallin maailmanmestaruutta EK8:lla – MTV seuraa kilpailua",
+      "title": "Sami Pajari nousi neljänneksi, Fourmaux sai rengasrikon Sardinian MM-rallin EK8:lla – MTV seuraa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13564,6 +13485,83 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T06:58:59Z",
+      "urls": [
+        {
+          "sign": "f4703bdcd83514b3db9d58c0564831350404bca6ef0727ae7e6c375d0fdb428e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden testi kartoittaa tietämystä omakotitalon asumisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T06:57:03Z",
+      "urls": [
+        {
+          "sign": "eaa03d1be923ebc846bc62df0e8b37fa1642a29344fd242c405a64c76246a821",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Seela Sella kertoi Elämäni biisi -ohjelmassa Nightwish-muistoista ja korosti loppupään merkitystä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e7af1007da45d576dc007b20a8584e5d0b36ed329a7775fce72ec27ef31853f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "0ce4bd8e2d27ccd773655ce35b8521f88a0a1a0a388715ab57f198f28b83b758",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Banaani-kaurahiutalevälipala raejuustolla tarjoaa proteiinipitoisen välipalan lapsille ja aikuisille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T06:45:33Z",
+      "urls": [
+        {
+          "sign": "fd92a9bee150cae9e908b3eb7b86b5b7c22b0465ffc27dff413a20e23fef9781",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen urheilutähti Matilda Castren lopettaa golfuransa ja muuttaa Saksaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
