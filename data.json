@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T20:42:56Z",
+  "updated": "2026-10-03T20:58:39Z",
   "entries": [
     {
       "updated": "2026-10-03T19:04:09Z",
@@ -1040,23 +1040,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T06:40:14Z",
-      "urls": [
-        {
-          "sign": "0c1bb2f7e99c72dd5a36b7bfd17099ddac0879efd2ad2220d31add57f23bc131",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehitysvammaliitto väittää Keusoten siirron Sami Velinin työtoiminnasta päivätoimintaan laittomaksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T08:53:14Z",
@@ -13482,7 +13465,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T20:25:35Z",
+      "updated": "2026-10-03T20:49:50Z",
       "urls": [
         {
           "sign": "d5ec2188dc6e2d68e1acb1648ebdd91627e9f62c2837418315a08c9534e2ef7c",
@@ -13491,7 +13474,7 @@
           ]
         }
       ],
-      "title": "Poliisi ja Merivoimat tutkivat Kustaanmiekan eteläpuolella löytynyttä suppilomaista metalliesinettä – merialue Helsingin edustalla suljettu",
+      "title": "Poliisi ja Merivoimat tutkii Kustaanmiekan eteläpuolella löytynyttä suppilomaista metalliesinettä – merialue Helsingin edustalla suljettu",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13555,6 +13538,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T20:58:39Z",
+      "urls": [
+        {
+          "sign": "876e994ae34ff0931e51ea63870799b14dabb2b2c0d3024f4158da6258292ae6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastustyöntekijät löysivät lauantaina yhden uhrin lisää Pohjois-Kyproksen lauttaturmasta – kuolleita 19, yhdeksän kateissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
