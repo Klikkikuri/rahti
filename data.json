@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T19:15:39Z",
+  "updated": "2026-10-03T19:44:55Z",
   "entries": [
     {
       "updated": "2026-10-03T19:04:09Z",
@@ -777,21 +777,6 @@
       ],
       "title": "Silja‑Elisa Laitonen puolustaa uutta lastensuojelulakia lapsien suojelun kriisin vuoksi",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "8d58aca7708527b16f72857d9b81b8bb05680bc7691c9e793e72f602c73eb394",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS julkaisee 50 vuotta vanhan Wall Street Journalin artikkelin Suomen tilanteesta: 'Hyvän elämän korkea hinta'",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -6167,23 +6152,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T10:24:14Z",
-      "urls": [
-        {
-          "sign": "6407e30a3428ce4172f6e71874cef2969ae40c6ee64fafccb451b214f5dd564a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hippos määräsi Sorvistolle ja Salolle 24 kuukauden kilpailukiellon sekä Lepistölle kolmen kuukauden kiellon doping- ja lääkeainerikkomuksista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T09:45:34Z",
       "urls": [
         {
@@ -6278,24 +6246,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T10:20:52Z",
-      "urls": [
-        {
-          "sign": "57b3b2a92959ae72900cead5bbf956661123de9ef017fffd6310c518a7a14381",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Petteri Orpo kutsui turvallisuusviranomaiset koolle varhain aamulla kansanedustajien kotien tunkeutumisten vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T10:23:34Z",
@@ -13560,6 +13510,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T19:44:55Z",
+      "urls": [
+        {
+          "sign": "80072159b03e9bcea74f2e7041e0d6909f276e89164ad7e9775da344c069ac09",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lotto arvottiin lauantaina – oikea rivi 12, 29, 32, 33, 34, 36, 40, lisänumero 27",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T19:33:31Z",
+      "urls": [
+        {
+          "sign": "2133918e6d212a667f45b7dc9a9af80ddac8dfaf4abc4148215277f4607f087c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisioperaatio Suomenlahdella viivästytti Viking XPRS -laivan lähtöä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T22:44:00+03:00",
+      "urls": [
+        {
+          "sign": "3f1102046b423d6c40e1cdd1374c4a9a03a83102cadfdd50ebedb0f747611809",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi sulki meriväylän Helsingin edustalla tuntemattoman esineen löydön vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
