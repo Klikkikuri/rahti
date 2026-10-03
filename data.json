@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T10:24:11Z",
+  "updated": "2026-10-03T13:45:00+03:00",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -6008,21 +6008,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T04:10:20Z",
-      "urls": [
-        {
-          "sign": "604ca18f16e7c17cea788ffb7d51628ac7db8a4e4a38667b1cc2c12e9fdda4ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syksyinen käänne tuo viileämpää ilmaa ja mahdollisia myrskyjä Suomeen ensi viikolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T07:06:00+03:00",
@@ -12115,7 +12100,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-03T12:07:00+03:00",
+      "updated": "2026-10-03T13:45:00+03:00",
       "urls": [
         {
           "sign": "83f088b004d8c807363083456b2165c2c8631b6f0ab0ae825eb289f9b343c438",
@@ -12124,8 +12109,8 @@
           ]
         }
       ],
-      "title": "Venäjä iski Kiovan pohjoiseen siltaan lauantaina aamulla – liikenne osittain poikki",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Venäjä iski jälleen Kiovan merkittävään pohjoissiltaan lauantaina – liikenne osittain poikki",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13561,6 +13546,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T10:36:37Z",
+      "urls": [
+        {
+          "sign": "60680008cf68ba9f5f3041b8d8c644319e8cd3fee21f9f03ae8396a005d1235c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miss Suomi Veera Grönlund kertoo koulukiusaamisesta, syömishäiriöstä ja kehonkuvantajustaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
