@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T03:00:41Z",
+  "updated": "2026-10-03T03:28:05Z",
   "entries": [
     {
-      "updated": "2026-10-02T13:11:59Z",
+      "updated": "2026-10-03T03:28:05Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Iltalehti tarjoaa live‑seurantaa Ukrainan sodasta ja analysoi Venäjän propagandan vaikutuksia Suomessa Naton liittymisen jälkeen",
+      "title": "Iltalehti seuraa Ukrainan sotaa livenä, uutisoi Venäjän propagandasta",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -889,23 +889,6 @@
       "title": "Jorma Seppälä esti Mika Murasen tulituksen perhettä vastaan – perhe selvisi hengissä Kotkassa 1994",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T11:01:14Z",
-      "urls": [
-        {
-          "sign": "4522efbb6c856c1975c868e637406a6ea41b11c65541a66310d9b1dba1750d15",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Myrsky ja äkkitulvat iskeivät Barcelonan alueelle – viranomaiset kehoittavat yli miljoonaa ihmistä pysymään sisällä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13568,6 +13551,24 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T03:26:18Z",
+      "urls": [
+        {
+          "sign": "7b904a441500ecec927a13a5da013884f2876980a1329b7ff2d15823ab7013e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain presidentti Trump: Dieselin vientikielto ei ollut harkinnassa, kehui Eurooppaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
