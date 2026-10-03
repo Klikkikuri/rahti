@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T18:11:10Z",
+  "updated": "2026-10-03T18:27:50Z",
   "entries": [
     {
       "updated": "2026-10-03T14:31:21Z",
@@ -811,21 +811,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-01T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b158de5fda50c8c72f744aeaec90649faf0c0244335435fc102c74a6ff3d48d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hannu Laitinen ehdottaa polttoaineveron väliaikaista alennusta ja kompensoivaa ajoneuvoveroa sähkö- ja hybrideille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-01T12:49:00+03:00",
       "urls": [
         {
@@ -920,23 +905,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T04:02:00Z",
-      "urls": [
-        {
-          "sign": "7c5a644cc3a3d27982d096dc346a8e1175cf59be18dc69ea57914836406646c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elfyn Evans kärsii aura-autona Sardinian MM-rallissa perjantaina – Sami Pajari jahtaavat maailmanmestaruutta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T04:27:45Z",
@@ -1169,21 +1137,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T06:36:06Z",
-      "urls": [
-        {
-          "sign": "6fafa8ca387f41859a0e5a7d97f9f654a5e9846c3933afe500a6eef49d079dc0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset epäonnistuivat Christa Piken teloituksessa Tennesseessä – nainen siirretty sairaalaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T06:37:48Z",
@@ -13558,6 +13511,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T18:25:54Z",
+      "urls": [
+        {
+          "sign": "323b01e7dac080a20f1a7bd2fcc64e2e0c8b4d7c37b512cc3f561a924eb75e60",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Florida Panthers asetti Aleksander Barkovin pitkäaikaisloukkaantuneiden listalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T21:25:00+03:00",
+      "urls": [
+        {
+          "sign": "22c2adcb19c313a059058fa7b2ba75cfe4148662d43ec120a1e09ad237bc74ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cornellin yliopiston epäilty joukkoraiskaus nostaa esiin veljeskuntien turvallisuusongelmat Yhdysvalloissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T18:27:50Z",
+      "urls": [
+        {
+          "sign": "b50e64b8a03fc022d21ec86c1f54f1665b61cac49f7310a12aceaa1cb1933d6e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Faktantarkistus kumoaa Orpon väitteen Suomen talouden Euroopan nopeimmasta kasvusta – Viro, Tanska, Ruotsi ja Norja kasvavat nopeammin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
