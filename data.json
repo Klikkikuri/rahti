@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T06:59:00+03:00",
+  "updated": "2026-10-03T04:12:43Z",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -811,21 +811,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T14:35:00+03:00",
-      "urls": [
-        {
-          "sign": "e8d10e9c960b6fb909c96f05ea93a6c3e2599bfc81d0d0dcfe32ad3f12b6a3b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Noin 600 000 ihmistä on käynyt kahden viikon aikana ihmettelemässä Etelä-Korean Busanin satamaan eksynyttä haita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-30T15:00:00+03:00",
       "urls": [
         {
@@ -1368,23 +1353,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-09-30T14:36:13Z",
-      "urls": [
-        {
-          "sign": "7dfc3cc8e8cf0a43d16e00f40534076524e25ac3dcdaf4085658b2a4d7e9ac20",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maavoimat testaa Patrian uutta panssaroitua Trackx‑tela‑ajoneuvoa Kainuun prikaatissa syksyllä 2027",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
     },
@@ -5898,36 +5866,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T15:59:39Z",
-      "urls": [
-        {
-          "sign": "6b241e744ff5e9bcc89610cdb6e39cc70ae9be8a82f1efc63b461e35925b2e10",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eläkkeellä oleva MTV:n uutisankkuri Keijo 'Keke' Leppänen yllätti fanit palaamalla uutispöydälle videolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-01T15:58:19Z",
-      "urls": [
-        {
-          "sign": "d8043b4290b8a68250ecb6e2795b7908c60169157638bdae0f48867331c27b97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjä pysäytti Viron Sillamäen satamaan matkalla olleen rahtialuksen",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T19:00:00+03:00",
@@ -13562,6 +13500,74 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "1ad1c0404faf35cc9a1a693bb8486727887bd09277a7909253a67fb4aa5a02c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T04:00:35Z",
+      "urls": [
+        {
+          "sign": "95d7d777a15af77ebef9860cfaef3dd3c4769c6841eae0e2489eab9dfede6ba0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolan itärajan lähellä venäläiset iskut kuuluvat asuinalueilla – viranomaiset järjestävät evakuointiharjoituksia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T04:04:09Z",
+      "urls": [
+        {
+          "sign": "c581fbd90d039e1dba6512f24524b21843bf93a62c940027498a4f035cc39197",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin nopein nainen Julia Henriksson asuu Tampereella Ilveksen maalivahti Christoffer Rifalkin kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T04:12:43Z",
+      "urls": [
+        {
+          "sign": "dfe1daa9c0295cb647b49265786056b067ffd4f28dfed3d9f88e6e0f6bfd6fa0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
