@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T03:40:00Z",
+  "updated": "2026-10-03T06:59:00+03:00",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -826,23 +826,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T11:30:00Z",
-      "urls": [
-        {
-          "sign": "f5dc958b80121e24ad6c0fff45a645f8138bfdee58ddd64eebc0c43720a8a09f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen presidentti Alexander Stubb vierailee Luxemburgissa, Suzanne Innes-Stubb pukeutui Katri Niskasen asuun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-09-30T15:00:00+03:00",
       "urls": [
         {
@@ -1035,24 +1018,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T14:32:49Z",
-      "urls": [
-        {
-          "sign": "0855cfddc7695dac9840bd89a01371957e9a87977b1ca3d4d6e1f412f5b99ca9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hollolan ekoteollisuushanke lupaa satoja työpaikkoja, mutta Destian poikkeuslupa uhanalaisen perhospaikan hävittämiseksi herättää vastustusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T14:40:14Z",
@@ -13522,7 +13487,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T06:30:00+03:00",
+      "updated": "2026-10-03T06:59:00+03:00",
       "urls": [
         {
           "sign": "111bb34794ef5ad3baee5693ab74039c252e1ed1ab04e3d3a8d71e92026b531a",
@@ -13531,8 +13496,8 @@
           ]
         }
       ],
-      "title": "HS julkaisi Olivia Oraksen kuolinilmoituksen – poliisi epäilee törkeää kuolemantuottamusta",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "HS julkaisi Olivia Oraksen kuolinilmoituksen – poliisi epäilee törkeää kuolemantuottamusta kauneusklinikalla",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13567,6 +13532,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T03:53:00Z",
+      "urls": [
+        {
+          "sign": "077190fb3d45fb94a7f2ff7b17770f53bb5ca9b844540f6db6fc9802500b1d1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Länsi-Vantaan Eläinklinikka varoittaa parvoviruksen leviämisestä Lounais-Suomessa – rokottamattomat koirat suurimmassa riskissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T03:45:35Z",
+      "urls": [
+        {
+          "sign": "e7fa16a18083df7bfdb9d9fda03904c94464edea3c238298cc310f6652b60bf0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Timo R. Stewartin kolumnissa: Rasismi tyhmentää virheellisten uskomusten vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
