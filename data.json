@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T14:44:11Z",
+  "updated": "2026-10-03T14:57:06Z",
   "entries": [
     {
       "updated": "2026-10-03T14:31:21Z",
@@ -902,23 +902,6 @@
         }
       ],
       "title": "SaiPa hävisi Kärpille 4–1, Helminen: \"Tyhjät housut\"",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T18:26:20Z",
-      "urls": [
-        {
-          "sign": "3460e14fa242652852a9cdf18bcb52eccf0846853389c20709f96fdd1a97990d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KooKoo hävisi SM-liigassa kaikki yhdeksän avausotteluaan, kun Tappara voitti 3–0",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -6112,38 +6095,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T07:43:38Z",
-      "urls": [
-        {
-          "sign": "b113cb0012de26cbae13b7dc105fd38f75b74a92b448576b8fb1815a5c52d728",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iida Tikka ja muut suomalaiset toimittajat kertovat Venäjän viranomaisten valvonnasta: omituinen puhelu ja kukkatoimitus jäivät saapumatta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T07:40:29Z",
-      "urls": [
-        {
-          "sign": "549cf2370897d5e3946c670c480a91c7fb964ea3ed356e76f2f528b41ac1750e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kesko ja S-ryhmä päivittivät satojen tuotteiden pakkausmerkinnät EU:n vihreän siirtymän direktiivin mukaisesti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T07:42:17Z",
       "urls": [
         {
@@ -11327,7 +11278,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T13:33:01Z",
+      "updated": "2026-10-03T14:55:34Z",
       "urls": [
         {
           "sign": "85b860ce63ab57a263150a80fc3d9c40b0c5250453a90a6c1b932fedf6f018fb",
@@ -11336,8 +11287,8 @@
           ]
         }
       ],
-      "title": "Thierry Neuville keskeytti Sardinian MM-rallin EK11:lla, Oliver Solberg nousi kärkeen – MTV seuraa mestaruustaistelua lauantaina",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Elfyn Evans kasvatti johtoaan Oliver Solbergiin neljällä pisteellä Sardinian MM-rallin EK12:lla",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13543,6 +13494,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T14:45:46Z",
+      "urls": [
+        {
+          "sign": "133a2843c9b86dba0826a278ed44afded64fb98b9aea6f06ef50b533b4907795",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sää viilenee ensi viikolla – terminen syksy lähestyy",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T14:57:06Z",
+      "urls": [
+        {
+          "sign": "08f0207c326d2c72b5c6acd0696904f119a5f891b7e74539fc6254994abc170a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Walta toi Suomelle tärkeän voiton Albaniasta, mutta Kosken loukkaantuminen varjostaa seuraavaa ottelua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T14:56:44Z",
+      "urls": [
+        {
+          "sign": "2563e8b3e1911be97c46e1ecd02c2672b94593f12823aa02ebe7e4dd11e52749",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelicansin Brett Stapley sai ulosajon, Anton Kettunen iski alivoimamaalin KooKoon ylivoimavirheen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
