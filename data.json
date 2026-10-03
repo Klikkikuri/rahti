@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T08:09:58Z",
+  "updated": "2026-10-03T08:28:25Z",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -1024,24 +1024,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-09-30T14:24:00Z",
-      "urls": [
-        {
-          "sign": "3d5e68e5e55d327265409822e3e9128953175a317139c46e4ecf1b5b3dfaab2f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-30T16:25:00Z",
@@ -6042,36 +6024,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T01:46:25Z",
-      "urls": [
-        {
-          "sign": "5de12ae866121b7f0b11f97ccd9d52809ad31152694710f250829151ac429ef7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat kutsui Suomen salaisiin Nato-kokouksiin – Baltian maat, Britannia ja Ranska jätettiin ulos",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T02:00:33Z",
-      "urls": [
-        {
-          "sign": "56cd45a4381935c2275258141e0d44a11bab2215817931e673c1b1094862fa1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Riku Rantalan ja Kale Puontin uusi rikossarja *Pimeä puoli* käyttää pelkästään tekoälyä luotuihin dramatisointeihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T02:00:35Z",
@@ -12820,7 +12772,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T08:09:43Z",
+      "updated": "2026-10-03T08:25:50Z",
       "urls": [
         {
           "sign": "85b860ce63ab57a263150a80fc3d9c40b0c5250453a90a6c1b932fedf6f018fb",
@@ -12829,7 +12781,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari paransi sijoitustaan EK8:lla, Fourmaux sai rengasrikon Sardinian MM-rallissa",
+      "title": "Sardinian MM-rallin EK9: Pajari ja Solberg taistelevat Evansin kanssa kärkisijoista – MTV seuraa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -12884,7 +12836,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T08:07:49Z",
+      "updated": "2026-10-03T08:25:48Z",
       "urls": [
         {
           "sign": "a206cd1d72109799e714c59bba5e6813351c393a89d0b734aeeba241eff43b2c",
@@ -13564,6 +13516,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T08:20:46Z",
+      "urls": [
+        {
+          "sign": "70f8f2ac975ea49fe73068ef3c197af9b0ffa0dab11e6b0d5aa1a326db0e8a46",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Petteri Orpu puhuu kokoomuksen puoluevaltuustolle klo 12 – Iltalehti näyttää suoran lähetyksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T08:28:25Z",
+      "urls": [
+        {
+          "sign": "e8ecc9c3c6174a9dc4bea6ef4e2eff7025458ab6a6d74334062030ee07706b43",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SJK:n kapteeni Roope Paunio siirtyy Ilvekseen kauden jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-03T08:19:42Z",
+      "urls": [
+        {
+          "sign": "ec542df9a3e3b7886e2e2a07f0fbade8578cf5c9994c85d9f73d8281ebfebe6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pekka Pouta letkautti seksiaiheisen kommentin MTV:n Huomenta Suomen suorassa lähetyksessä: “Saisi olla vähän enemmän piip”",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
