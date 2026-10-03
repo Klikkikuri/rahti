@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T04:43:59Z",
+  "updated": "2026-10-03T08:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -796,23 +796,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-09-30T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "4bfe361a326841e39ca18e41f442ebc42141ca2fe0226bc1471b250506e863ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide: Johanna Takko kehottaa Espoota turvaamaan 15 ostopalvelupäiväkoden toimintaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-09-30T12:51:23Z",
       "urls": [
         {
@@ -921,23 +904,6 @@
       "title": "Kokoomus julkisti yhdeksän miljardin säästöohjelman – oppositio kritisoi leikkausten kohdistuvan pienituloisiin ja hyödyttävän varakkaita",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T14:41:00+03:00",
-      "urls": [
-        {
-          "sign": "b1c700b66a9b57563a31a3bdbd2e44d042784bd71ba9dcc51d31f4657776c1fd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1325,23 +1291,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-09-30T15:03:12Z",
-      "urls": [
-        {
-          "sign": "d476cb7842e444c9ee96f55193c85bfaab6509054cee846ca450bb1585c409f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rakennusliitto vaatii henkilöstöpalveluyritysten nopeutetun oleskelulupamenettelyn poistamista – Migri: Laki ei salli",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T15:14:00Z",
@@ -13567,6 +13516,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T04:57:23Z",
+      "urls": [
+        {
+          "sign": "abadf679e68a95e3e671cb7d094f9f654be09c4faf464d188042cf54d35565c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Flydubain lennolla puukotuksesta epäilty perämies sai lentokiellon Omanissa ääriajattelun vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T07:59:00+03:00",
+      "urls": [
+        {
+          "sign": "83f088b004d8c807363083456b2165c2c8631b6f0ab0ae825eb289f9b343c438",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä iski Kiovan pohjoiseen siltaan lauantaina aamulla – liikenne poikki",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-03T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "dac14d72b2c73b34c8c3023d4d9dc7fb1a6decdf3bb76d56f48d9f16f171df6f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rapeat chililinssit valmistuvat helposti uunissa ja sopivat lisäkkeeksi moniin ruokiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
