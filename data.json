@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T19:04:09Z",
+  "updated": "2026-10-03T19:15:39Z",
   "entries": [
     {
       "updated": "2026-10-03T19:04:09Z",
@@ -6263,23 +6263,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T10:20:30Z",
-      "urls": [
-        {
-          "sign": "6c5af54bfc9f876b8f094d4cfa6239d1fd3056f1b3642927ef17eb9ee86b2fcd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T13:15:00+03:00",
@@ -13561,6 +13544,21 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T19:15:39Z",
+      "urls": [
+        {
+          "sign": "0cc9d87a56b5b36a16a34b06012c5e4f3412f9fb9bf927f026166e98e42f9aeb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oliver Solbergillä on vielä pienet mestaruusmahdollisuudet Sardinian rallin jälkeen – Thierry Neuvillen keskeytys paransi Elfyn Evansin asemaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
