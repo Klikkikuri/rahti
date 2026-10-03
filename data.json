@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T03:09:00+03:00",
+  "updated": "2026-10-03T03:39:00+03:00",
   "entries": [
     {
       "updated": "2026-10-02T13:11:59Z",
@@ -1407,23 +1407,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T14:26:05Z",
-      "urls": [
-        {
-          "sign": "e962909aaf7ef53d2c20a1deaace2ce2b3e112546cc32052048e8f1738a1cc06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keski-Suomen käräjäoikeus tuomitsi miehen yli kahdeksan vuoden vankeuteen alaikäisiin kohdistuneista seksuaalirikoksista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-09-30T16:10:00+03:00",
@@ -5854,21 +5837,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T15:05:41Z",
-      "urls": [
-        {
-          "sign": "bfebf5060227b9afb19c7564f0ec2c4556afad1d942cf3223baabdc15aaa1376",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eetu Kallioinen voitti skeetin EM-kultaa, Suomi voitti joukkuehopeaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T15:14:18Z",
@@ -13521,7 +13489,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-03T03:09:00+03:00",
+      "updated": "2026-10-03T03:39:00+03:00",
       "urls": [
         {
           "sign": "f60f90fac67ad1ba1fd1faca321024c7262ed723dad93baffc7108d4da15e9ea",
@@ -13530,7 +13498,7 @@
           ]
         }
       ],
-      "title": "Pohjois-Korea laukaisi ballistisen ohjuksen Japaninmereen lauantaina",
+      "title": "Pohjois-Korea laukaisi ainakin yhden ballistisen ohjuksen Japaninmereen lauantain vastaisena yönä Suomen aikaa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13564,6 +13532,36 @@
       ],
       "title": "Iltalehden horoskooppi tarjoaa pohdittavaa jokaiselle eläinradan merkille",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T00:29:24Z",
+      "urls": [
+        {
+          "sign": "d56dd4cd376a4a5fdf79e2e7eb6e9829772f7fb9fe9248dc73dac405f29bb874",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläismediat kertovat lähes 200 ihmisen karanteenista Siperiassa epäillyn ruttokuoleman jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-03T00:36:57Z",
+      "urls": [
+        {
+          "sign": "af85da9af71c636df7a2777770bc2f9f22b766fa31f5dedc555054e4e38346d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tennesseen kuolemaan tuomittu Christa Pike on sairaalassa tiedottomassa ja hengityskoneessa – herääminen nostaa esiin teloituksen eettisen kysymyksen",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
