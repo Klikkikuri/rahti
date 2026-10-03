@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T14:00:00+03:00",
+  "updated": "2026-10-03T11:07:05Z",
   "entries": [
     {
       "updated": "2026-10-03T03:28:05Z",
@@ -4807,7 +4807,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-01T15:21:12Z",
+      "updated": "2026-10-03T11:07:05Z",
       "urls": [
         {
           "sign": "24c6a3d0ba49f5f49f3b6afbe598b8314a6ab6662e1a74d912ef57de2bb29dd4",
@@ -4816,7 +4816,7 @@
           ]
         }
       ],
-      "title": "IL-päätoimittaja Kauppinen: STT:n alasajo ei aiheuta vahinkoa yhteiskunnalle",
+      "title": "IL-päätoimittaja Kauppinen arvioi, että STT:n alasajo ei aiheuta vahinkoa yhteiskunnalle",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -6159,21 +6159,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T05:10:32Z",
-      "urls": [
-        {
-          "sign": "8261663130b6d33a96ca81c5d08f4b14bed3c703f938b8e215f4850120e12a61",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ex-kansanedustaja Tapani Mäkinen sai uuden sydämen Husin Tornisairaalassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T03:52:48Z",
       "urls": [
         {
@@ -6201,21 +6186,6 @@
         }
       ],
       "title": "Hyvinkään Willassa lisääntynyt ilkivalta ja häiriö – tekijöinä pääasiassa 5.–7.-luokkalaiset lapset",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T05:19:36Z",
-      "urls": [
-        {
-          "sign": "322832d9f74f6d03b66477c4cc3cb5d9533f3e61c213e17388fd892dbdae173a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Erikoisjoukot-tuotanto vahvistaa, että reppujen paino pysyy samana kaikille kokelaille ennätyksellisen luovutusmäärän jälkeen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13087,7 +13057,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T12:49:00+03:00",
+      "updated": "2026-10-03T14:01:00+03:00",
       "urls": [
         {
           "sign": "9f2419035c45931ea03c6f99b11a99ffa5f932de3d59f6a209f801348a076cca",
@@ -13096,7 +13066,7 @@
           ]
         }
       ],
-      "title": "Kansanedustajat vaativat rauhallista tutkintaa kotitunkeutumisista ja varoivat julkista spekulointia",
+      "title": "Pääministeri Orpo myöntää: tiedottaminen mahdollisista kansanedustajien kotitunkeutumisista on ollut haaste",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13568,6 +13538,38 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T11:04:11Z",
+      "urls": [
+        {
+          "sign": "ebe94d695f1b35397d3d54a3a526fdd2162e12ed69ec1dd53fabdf14320f9aa2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T11:05:59Z",
+      "urls": [
+        {
+          "sign": "65a28f3593d2c7d9b7942cc8541c3d31a673bd395b3a182a1b145493a947a2a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WRC2-kuljettaja Fabio Schwarz sai selkänikaman murtuman Sardinian MM-rallissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
