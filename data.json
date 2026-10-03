@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T12:43:38Z",
+  "updated": "2026-10-03T12:52:41Z",
   "entries": [
     {
       "updated": "2026-10-03T11:59:07Z",
@@ -749,23 +749,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-09-30T16:25:18Z",
-      "urls": [
-        {
-          "sign": "551559e50abd95b8c8b31df44b3b19a27d8f4859e3b2901bfa3b714e2aa598cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perämiehen epäillään puukottaneen Flydubain lennon kapteenia – kone teki hätälaskun Tabukiin",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-09-30T13:31:23Z",
@@ -5977,23 +5960,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T06:29:02Z",
-      "urls": [
-        {
-          "sign": "83c4087238b981a755926cda183af07480c8c7462193a89a96632687d0bbce3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "47‑vuotias pihtiputaalainen yrittäjä vangittiin perjantaiaamuna epäiltynä kaverinsa taposta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T15:38:06Z",
@@ -13552,6 +13518,39 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T12:49:32Z",
+      "urls": [
+        {
+          "sign": "a9b1c2b44db0a39135093799152b2a86f265de00d3e112f6f09666dac77d512d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tennesseen kuvernööri keskeytti teloitukset Christa Piken epäonnistuneen teloituksen jälkeen – toinen epäonnistunut tapaus tänä vuonna",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-03T12:52:41Z",
+      "urls": [
+        {
+          "sign": "e8a32207f4743184e7c660910e2f3ca175f4eaa5fb915938bab1f3fc585f8b4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo oli menossa saunaan Kesärannassa, kun turvallisuus otti yhteyttä – useita poliisipartioita saapui paikalle, hälytys osoittautui aiheettomaksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
