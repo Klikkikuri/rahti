@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T03:44:45Z",
+  "updated": "2026-10-04T03:52:52Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -900,23 +900,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T07:12:47Z",
-      "urls": [
-        {
-          "sign": "588727b40b31b9706aedb00fbe390eab5ddc34d5eb39463fe3941ed24a574393",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "UMK:n vuoden 2027 liput loppuivat ennätysajassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T07:03:31Z",
@@ -6103,21 +6086,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T11:07:19Z",
-      "urls": [
-        {
-          "sign": "2ae27410bed75753e26d10bfedec8605690fb90d0274138f1699fea48d429262",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Susanna Penttilä kertoo HS:lle panobussin olevan nähtävyys ja että sitä pyydetään yhteiskuvaan koko perheen voimin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T11:11:54Z",
@@ -13577,6 +13545,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T03:52:52Z",
+      "urls": [
+        {
+          "sign": "cd114ff6ed363a3f69dda9016e588d4534ed1f0f49b18244e0e91deda7de9445",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T03:45:35Z",
+      "urls": [
+        {
+          "sign": "edb972d7f31a1c6ae206d81b67cc9a092235a3596fd9c3b5caa8e412207211f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auli Viitala kolumnissaan: Sosiaaliturva perustuu diagnooseihin, mutta niiden riittävyyttä kyseenalaistetaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
