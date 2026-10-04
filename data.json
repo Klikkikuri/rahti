@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T08:44:00+03:00",
+  "updated": "2026-10-04T05:53:10Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -931,21 +931,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T07:58:46Z",
-      "urls": [
-        {
-          "sign": "7355d7aa325c49a450171f648115d46140e2dd4fdeed9a4fffa03a7ec8b60b0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Björkin DJ‑keikka Oulussa myytiin loppuun neljässä minuutissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T08:10:58Z",
@@ -6133,21 +6118,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T12:14:37Z",
-      "urls": [
-        {
-          "sign": "fa1c045708c3790249496dfb992cffb1c48bf143aee9ab7e875c1604d0baaf1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Emil Ruusuvuori antoi päivityksen tilanteestaan: selkäleikkaus New Yorkissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T12:03:00Z",
@@ -13580,6 +13550,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-04T05:50:54Z",
+      "urls": [
+        {
+          "sign": "03605b0b8dc026415ece38bd643e9ffd8b46f82f1dd5b239a89fede53164114f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SVT:n dokumentti kertoo lähes 300 pohjoismaalaisen palvelevan Israelin puolustusvoimissa – joukossa 62 suomalaista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-04T05:53:10Z",
+      "urls": [
+        {
+          "sign": "c80975f883fbceb215a13bd4df5c1e67541fe791da6f763a4b66c61141ebb841",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sylvester Stallonen mukaan 17‑vuotiaana hänen penistään yritettiin repiä irti koulussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
