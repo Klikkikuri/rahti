@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T03:05:32Z",
+  "updated": "2026-10-04T03:18:34Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -749,38 +749,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T05:14:00Z",
-      "urls": [
-        {
-          "sign": "1b2b83200a22ba9da65993091c7f749a1576c50082f2eb0eab13ff6efaeb50e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pasta Alfredon syntytarina ja helppo kermainen kanapastaohje",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T05:12:43Z",
-      "urls": [
-        {
-          "sign": "9a3ed14e41e6afc5a469bd99726426534b02cf757fa0bfa104c7b50c6e9eb5ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tallulah Willis julkaisi harvinaisen kuvan isästään Bruce Willisistä, joka sairastaa frontotemporaalista dementiaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T05:22:02Z",
@@ -13575,6 +13543,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T03:01:00Z",
+      "urls": [
+        {
+          "sign": "95b6df262f8262f5cc0ad3722fce6d3c57f34945ebb1b422c33b8f633fe4ac9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harvardin professori Serhii Plokhy ennustaa Euroopan hankkivan omat ydinaseet – Venäjän hyökkäysharkinta vaikeutuisi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-04T03:18:34Z",
+      "urls": [
+        {
+          "sign": "db9d6630986a28ed73dcec042d997a9de86b2389bc5532500197db7420c66c53",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Seela Sella kuoli 89-vuotiaana, Helsingin Sanomat julkaisi kuolinilmoituksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
