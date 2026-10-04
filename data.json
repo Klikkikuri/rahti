@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T05:15:00Z",
+  "updated": "2026-10-04T08:44:00+03:00",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -800,21 +800,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T06:48:47Z",
-      "urls": [
-        {
-          "sign": "5d468dd8d1fdfe4b0a99ef029e31f1329095c5c6b9281bea017c1143b5f5d5d7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tavoitti Jyväskylässä taideteoksen vahingoittamisesta epäillyn miehen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -6178,36 +6163,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T11:52:54Z",
-      "urls": [
-        {
-          "sign": "4cc886743611fccd57b7466d381c8b368804cd159596f42c942caefae6d1a474",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kimanttia-podcastissa Mäkinen: Red Wings ja Kings tavoittelevat Patrik Lainetta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T12:09:53Z",
-      "urls": [
-        {
-          "sign": "84401764373066815a599190e53b428eae8ba6917ff80565ba3a3d9d1383ae48",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marika Fingerroos palautti syntymänimensä Fingerroosiksi – häntä syytetään useista rikoksista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T02:00:00+03:00",
@@ -12768,7 +12723,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T07:14:00+03:00",
+      "updated": "2026-10-04T08:44:00+03:00",
       "urls": [
         {
           "sign": "3f1102046b423d6c40e1cdd1374c4a9a03a83102cadfdd50ebedb0f747611809",
@@ -12777,8 +12732,8 @@
           ]
         }
       ],
-      "title": "Suomenlinnan edustalta löytynyt esine on erittäin vanha laivan hylyn osa – viranomaiset rajoittivat meriliikennettä",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Poliisi rajoitti meriliikennettä Suomenlinnan edustalla löydetyn mahdollisen vanhan hylyn osan vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13572,6 +13527,55 @@
       ],
       "title": "Toimittaja Rauli Virtanen ahdistui teloitushuoneessa Texassa 2000-luvun alussa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-04T05:32:43Z",
+      "urls": [
+        {
+          "sign": "64f1d956982ada5195621918973845d69b4e1efdf514c231999db54be29e439a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saarioinen lanseerasi salmiakkimaksalaatikon maksalaatikkopäivän kymmenvuotisjuhlan kunniaksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T05:31:15Z",
+      "urls": [
+        {
+          "sign": "2cd9c5eeca14d5365f2d67ef091b74cfb3332af128308517f85bdae3ffae3be7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjalainen sarja Nepobaby – rikkaaksi yhdessä yössä jatkuu toisella tuotantokaudella – jaksot nyt Yle Areenassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T05:33:00Z",
+      "urls": [
+        {
+          "sign": "962ab618bde5f6b890c458f39356445adce13419836fc07fac6e5c28aaf16aca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vappu Pimiä suosittelee kurpitsaa syksyn edullisena ja monikäyttöisenä raaka-aineena",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
