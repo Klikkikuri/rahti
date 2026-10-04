@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T20:00:00+03:00",
+  "updated": "2026-10-04T17:13:47Z",
   "entries": [
     {
       "updated": "2026-10-04T14:03:06Z",
@@ -6504,36 +6504,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T05:18:46Z",
-      "urls": [
-        {
-          "sign": "7a4a08828efaa3bf40f552a5fac46d9cd4e59a60d18a3e93f48eca689abd7e42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Carolina Hurricanes hävisi Washington Capitalsille 5–2, Sebastian Aho teki joukkueen kauden avausmaalin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T05:25:34Z",
-      "urls": [
-        {
-          "sign": "f53aa1cc0ad9b528edcaa74bc92e87726c327752251b3ca84e8a5d8ef944d78e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Latvala ennustaa sateista viikonloppua ja alkuviikkoa koko Suomessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-03T08:30:00+03:00",
       "urls": [
         {
@@ -6595,21 +6565,6 @@
         }
       ],
       "title": "Asiantuntija Ilmari Käihkö varoittaa: Ukrainan talvi voi tehdä Kiovasta elinkelvottoman",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T05:34:43Z",
-      "urls": [
-        {
-          "sign": "8ce267d706b5c8e87b824987a8abd9234ac8e12e928d75996f698c5a6952a73c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Matti ja Teppo lopettavat keikkailun – Teppo: Matti voi hyvin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13547,7 +13502,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T16:53:06Z",
+      "updated": "2026-10-04T17:13:47Z",
       "urls": [
         {
           "sign": "e12380d06f0acddfd5ff73a0b2406319ece870d6d4ed9fc9e2ae0c62ab91da03",
@@ -13556,9 +13511,58 @@
           ]
         }
       ],
-      "title": "Kratom-yliannostus tappoi opiskelijan Yhdysvalloissa – aine leviää myös Suomeen",
+      "title": "Poliisi pidätti isän ja pojan epäiltyinä kratom-liittyvistä opiskelijakuolemista Mississippissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T17:03:38Z",
+      "urls": [
+        {
+          "sign": "36202c1393162a35b1e61d95e9269e1576264dc4a192bac975b91ffc5f600d06",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T17:07:15Z",
+      "urls": [
+        {
+          "sign": "4f59ede3dd78746565172d2a4d6f57c42b26be832b36416c26771c9ae0e2f40f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa tiistaina vaarallisesta tuulesta läntisessä ja keskisessä Suomessa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T17:10:21Z",
+      "urls": [
+        {
+          "sign": "c2c9b2e2ebd6776aae7eabb36156d571d970661cf786d28a92b5acd8b196cdac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SM-liigaviikko: HPK paransi, TPS:n Lukas Haudum iski hattutempun, Ilvesin ykkösketju oli tehokas, KooKoo ilman voittoja ja päävalmentajan potkut uhkaavat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
