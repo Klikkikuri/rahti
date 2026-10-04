@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T03:00:08Z",
+  "updated": "2026-10-04T03:05:32Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -1077,23 +1077,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T10:15:00+03:00",
-      "urls": [
-        {
-          "sign": "d3d0ffa1c90ca0c2b264507a69a80ef4aca0da1ae544a7fb60be5b7df5cb2e8c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide | Suomen tulee kantaa vastuunsa turvallisesta tulevaisuudesta ilmastonmuutoksen ja tekoälyn haasteissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-01T07:18:53Z",
@@ -6179,21 +6162,6 @@
         }
       ],
       "title": "Syyttäjä vaatii vauvan roikottamisesta syytetylle äidille vähintään kolmen vuoden vankeutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T11:03:12Z",
-      "urls": [
-        {
-          "sign": "8d53fc1eb293cf1936d903fefe9f9676b1c2be1955b7deaf12195050460b85d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusministeri Antti Häkkänen vaatii SDP:ltä selitystä puolustusyhteistyöstä Israelin kanssa luottamusäänestyksen jälkeen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13166,7 +13134,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T20:49:50Z",
+      "updated": "2026-10-04T03:05:32Z",
       "urls": [
         {
           "sign": "d5ec2188dc6e2d68e1acb1648ebdd91627e9f62c2837418315a08c9534e2ef7c",
@@ -13175,8 +13143,8 @@
           ]
         }
       ],
-      "title": "Poliisi ja Merivoimat tutkii Kustaanmiekan eteläpuolella löytynyttä suppilomaista metalliesinettä – merialue Helsingin edustalla suljettu",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Poliisi: Helsingin edustalta löytynyt suppilomainen metalliesine on vanha laivanhylyn osa – merialue suljettu",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13574,6 +13542,38 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T06:00:00+03:00",
+      "urls": [
+        {
+          "sign": "13e262c2b7f36d5e4101831604c17c502ba159d12733c981223c41236126a2ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T03:00:32Z",
+      "urls": [
+        {
+          "sign": "bef83bc51acf4f1f6f71f7d336029dc47377d53f80bf2452b8ff5638ed4381b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kirja: Kikka yritti levyttää ronskin kappaleen 2000-luvulla mutta terveysongelmat estivät nauhoituksen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
