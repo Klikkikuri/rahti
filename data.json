@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-03T23:54:42Z",
+  "updated": "2026-10-04T00:28:53Z",
   "entries": [
     {
       "updated": "2026-10-03T19:04:09Z",
@@ -964,21 +964,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-01T07:08:17Z",
-      "urls": [
-        {
-          "sign": "59caf15ab332b57979f3a907c9d3b1aa71ce376b2467c911bf335af093a84169",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi sai kiinni miehen, joka vahingoitti Jyväskylän Valon kaupunki -taideteosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T07:11:09Z",
@@ -6183,21 +6168,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T10:53:45Z",
-      "urls": [
-        {
-          "sign": "7d1358750d8c2ffd47ed249be4e7a7c4919790fafe39c566ef6d4029b9bc7941",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Essi Unkuri avautuu synnytyksen jälkeisestä vaikeasta palautumisesta – \"Kaikkialle sattui\"",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13245,7 +13215,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T02:13:00+03:00",
+      "updated": "2026-10-04T03:26:00+03:00",
       "urls": [
         {
           "sign": "3f1102046b423d6c40e1cdd1374c4a9a03a83102cadfdd50ebedb0f747611809",
@@ -13254,7 +13224,7 @@
           ]
         }
       ],
-      "title": "Rajavartiolaitoksen partio löysi tunnistamattoman metallisen esineen Helsingin edustalta; poliisi sulki meriväylän",
+      "title": "Poliisi sulki Helsingin edustan meriväylän löydetyn mahdollisesti erittäin vanhan hylyn osan vuoksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13572,6 +13542,39 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T00:28:53Z",
+      "urls": [
+        {
+          "sign": "1e9b4d2a125b187d18e38e5f96b62dd19c21f14f76e9a2026ffc5a187c9bbbca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat ja Venäjä neuvottelevat Lukoilin kansainvälisistä öljyomaisuuksista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-01T09:46:57Z",
+      "urls": [
+        {
+          "sign": "959cebb090b7b39208c09c4a2a9b5dadc12fc9d7453228a92de834f772a3bda5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: luonnonmukainen piha ja lehtien maahan jättäminen vahvistavat asukkaiden mikrobistoa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
