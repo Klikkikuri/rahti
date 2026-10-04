@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T16:10:31Z",
+  "updated": "2026-10-04T19:25:00+03:00",
   "entries": [
     {
       "updated": "2026-10-04T14:03:06Z",
@@ -1477,21 +1477,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T17:45:00+03:00",
-      "urls": [
-        {
-          "sign": "e711b293ea307cba6e8bef83a67d0b885312977cac9237104cb8557ebd1d4adb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kaupunki suunnittelee Töölönlahteen Alvar Aallon Villa Mairean altaan inspiroimaa skeittipoolia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-01T14:50:01Z",
@@ -6428,23 +6413,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-03T04:04:09Z",
-      "urls": [
-        {
-          "sign": "c581fbd90d039e1dba6512f24524b21843bf93a62c940027498a4f035cc39197",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin nopein nainen Julia Henriksson asuu Tampereella Ilveksen maalivahti Christoffer Rifalkin kanssa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-03T04:39:48Z",
       "urls": [
         {
@@ -11238,7 +11206,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T14:51:00+03:00",
+      "updated": "2026-10-04T19:25:00+03:00",
       "urls": [
         {
           "sign": "8d99562da7254971c295360ae9dd59b87cf074c285c2cd5e1414c96af8fdb873",
@@ -13571,6 +13539,36 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T19:15:00+03:00",
+      "urls": [
+        {
+          "sign": "372f16d64ffcc1cbaf02dcfcb32bca0ac60daf4597b2b89cd5771f539727c53d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Googlen 13 miljardin euron datakeskusinvestoinnit Kajaaniin, Muhokselle, Vaalaan ja Haminaan eivät saa polkea työehtoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T16:16:24Z",
+      "urls": [
+        {
+          "sign": "72a093a18258e8db4fa2e4d60623b1835c78f296fe999caf3e829e0f6b70daaf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ravitsemusterapeutit suosittelevat mantelia, kirsikkaa ja muita tiettyjä iltapalaruokia unen laadun parantamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
