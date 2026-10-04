@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T12:13:00+03:00",
+  "updated": "2026-10-04T09:28:08Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -2242,24 +2242,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T15:33:39Z",
-      "urls": [
-        {
-          "sign": "2e765ef84c0ced50dc00ad78181ec0c2931c339db50756ba629d53fb90cd1af7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-01T13:57:00Z",
@@ -6501,23 +6483,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T15:35:33Z",
-      "urls": [
-        {
-          "sign": "9a870a8c29d6e21b0f7e0ad7a304787ac289a403fe28b9a4c360452e4be3587e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovioikeus vahvisti Arttu Heikkisen tuomion ja lisäsi vahingonkorvauksia – urheilija harkitsee valitusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T15:29:51Z",
@@ -11925,7 +11890,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T12:13:00+03:00",
+      "updated": "2026-10-04T12:21:00+03:00",
       "urls": [
         {
           "sign": "3f1102046b423d6c40e1cdd1374c4a9a03a83102cadfdd50ebedb0f747611809",
@@ -11934,7 +11899,7 @@
           ]
         }
       ],
-      "title": "Poliisi julkaisi kuvan mahdollisesta vanhasta laivan hylyn osasta Suomenlinnan edustalta",
+      "title": "Poliisi julkaisi kuvan Suomenlinnan edustalta löytyneestä mahdollisesta vanhasta laivan hylyn osasta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13004,7 +12969,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T09:07:15Z",
+      "updated": "2026-10-04T09:28:08Z",
       "urls": [
         {
           "sign": "9fc82f194f147b2e29d3da317c4524c8ae167611cfb4f1795354e64dadef2c06",
@@ -13013,7 +12978,7 @@
           ]
         }
       ],
-      "title": "Max Verstappen nousi kärkeen Malesian GP:ssä",
+      "title": "Max Verstappen nousi kärkeen Malesian GP:ssä sateen aiheuttamassa sekamelsassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13036,7 +13001,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T09:57:00+03:00",
+      "updated": "2026-10-04T12:28:00+03:00",
       "urls": [
         {
           "sign": "8d99562da7254971c295360ae9dd59b87cf074c285c2cd5e1414c96af8fdb873",
@@ -13045,8 +13010,8 @@
           ]
         }
       ],
-      "title": "Ampumavälikohtaus Haldenissa haavoitti kolmea ihmistä – epäilty poliisin hallussa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Kaksi ihmistä kuoli ja yksi loukkaantui vakavasti ampumisessa Haldenissa – epäilty poliisin hallussa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13552,6 +13517,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-04T09:12:58Z",
+      "urls": [
+        {
+          "sign": "450fb1b87784f68eaef4eaeb47ee790c19eaa77c959b0ac218d1cfb625f47363",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi julkaisi kuvan Suomenlahdella löytyneestä noin 40 senttimetrin halkaisijaltaan olevasta esineestä – ei räjähde",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T09:21:07Z",
+      "urls": [
+        {
+          "sign": "b0a7f1bf66c6b20afd89d5b21753823841a47143fc3e02a44d969ecee0233098",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vihreiden puheenjohtaja Sofia Virta syyttää pääministeri Petteri Orpoa kaksinaamaisuudesta ja kehottaa häntä kaatamaan hallituksensa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
