@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T04:30:00Z",
+  "updated": "2026-10-04T04:30:17Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -6121,21 +6121,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T11:17:12Z",
-      "urls": [
-        {
-          "sign": "9c33640e00f3ccb18faaf8e3deb1fe9b4eb54ba2ae988bb0e1a98ee331c05393",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi vuotta van lapsi hukkui saaviin Oulun Ylikiimingissä – kirkkoherra Pauli Niemelä järkyttynyt",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T14:31:00+03:00",
@@ -13579,6 +13564,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-04T04:30:17Z",
+      "urls": [
+        {
+          "sign": "31e49ea6683b2df9a957e7ecb9cdca7bba09cbbbbb812fa9523c08fe7aa093d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat: Politkovskajan varoitukset Putinista jäivät Suomessa huomiotta, tilanne häpeällinen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
