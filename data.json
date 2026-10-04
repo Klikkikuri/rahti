@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T17:44:42Z",
+  "updated": "2026-10-04T17:55:49Z",
   "entries": [
     {
       "updated": "2026-10-04T14:03:06Z",
@@ -1329,23 +1329,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T14:45:00Z",
-      "urls": [
-        {
-          "sign": "70b87452314d9d6b9bd9fd5a7ef4646f4d20e6a3e9ea9aa823166d331f84ea3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kaupunki suunnittelee Alvar Aaltoa kunnioittavaa skeittipoolia Töölönlahden puistoon",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T14:33:22Z",
@@ -6490,21 +6473,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T06:04:45Z",
-      "urls": [
-        {
-          "sign": "a998254896650bb6f007eb45b095504ec8b34e3d31833dbc0b4c5d9b5c56ed81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi noin 3-vuotiasta lasta karkasi Jyväskylän Liinalammin päiväkodin metsäretkellä – sivullinen löysi lapset noin 15 minuutin kuluttua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13571,6 +13539,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-04T17:55:49Z",
+      "urls": [
+        {
+          "sign": "60e868450ae9cff754d294dbcdd20ecc6c13c577ae0ee20a1ca02ea16cc437b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sebastian Aho teki Hurricanesin eniten avausmaaleja NHL‑ottelussa sunnuntaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T17:43:14Z",
+      "urls": [
+        {
+          "sign": "5a86d78e033a6ee1d0433c2febf9f1cace4841190ca60da5381438d1a3767e31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jemenin hallinto aloittaa sotilaallisen operaation Houthi‑kapinallisten poistamiseksi Punaisenmeren rannikolta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
