@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T02:30:35Z",
+  "updated": "2026-10-04T03:00:08Z",
   "entries": [
     {
-      "updated": "2026-10-03T19:04:09Z",
+      "updated": "2026-10-04T02:50:55Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa ja Venäjän propagandaa Suomen Nato‑jäsenyyden jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "YK: Siviiliuhrien määrä noussut rajusti Ukrainassa – IL seuraa sotaa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -6122,23 +6122,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T10:58:36Z",
-      "urls": [
-        {
-          "sign": "7a1e310817363db2c584d7d8c72c4101bc1dd1dba72583e53603b70e6e2852ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T11:02:00Z",
@@ -13575,6 +13558,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-04T03:00:08Z",
+      "urls": [
+        {
+          "sign": "c273c30a5e24481297fac7abf947cab7bb398361a9050366b0f0440e31ef2152",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
