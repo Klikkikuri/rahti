@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T09:28:08Z",
+  "updated": "2026-10-04T09:44:52Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -6519,21 +6519,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T15:49:03Z",
-      "urls": [
-        {
-          "sign": "a3c505ed4bc6eb7ccc4759a641b7acc9aa219984943eb23fc8621e2e489ddb9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Erikoisjoukot-kouluttajien voimakas kielenkäyttö herätti sekä naurua että kritiikkiä katsojissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T19:00:00+03:00",
       "urls": [
         {
@@ -12937,7 +12922,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-04T08:50:00Z",
+      "updated": "2026-10-04T09:41:31Z",
       "urls": [
         {
           "sign": "570dbf65d73497867403c91b45db03efad4a26f06d5f92ae051cacfc9586578e",
@@ -12946,7 +12931,7 @@
           ]
         }
       ],
-      "title": "Sami Pajari sijoittui kolmanneksi Sardinian MM-rallin EK15:llä – Oliver Solberg pitää kärjessä, Sébastien Ogier toisena",
+      "title": "Sami Pajari ajoi kolmanneksi Sardinian MM-rallin EK15:llä kello 11.05 – Oliver Solberg johtaa, Ogier toisena",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -12969,7 +12954,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T09:28:08Z",
+      "updated": "2026-10-04T09:44:52Z",
       "urls": [
         {
           "sign": "9fc82f194f147b2e29d3da317c4524c8ae167611cfb4f1795354e64dadef2c06",
@@ -12978,8 +12963,8 @@
           ]
         }
       ],
-      "title": "Max Verstappen nousi kärkeen Malesian GP:ssä sateen aiheuttamassa sekamelsassa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Max Verstappen johtaa Malesian GP:ää sateen aiheuttamassa sekamelsassa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13001,7 +12986,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T12:28:00+03:00",
+      "updated": "2026-10-04T12:41:00+03:00",
       "urls": [
         {
           "sign": "8d99562da7254971c295360ae9dd59b87cf074c285c2cd5e1414c96af8fdb873",
@@ -13010,7 +12995,7 @@
           ]
         }
       ],
-      "title": "Kaksi ihmistä kuoli ja yksi loukkaantui vakavasti ampumisessa Haldenissa – epäilty poliisin hallussa",
+      "title": "Sivulliset ottivat epäillyn kiinni metsästäjien surmassa Haldenissa sunnuntaiaamuna – yksi loukkaantui vakavasti",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13112,7 +13097,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T08:24:42Z",
+      "updated": "2026-10-04T09:28:12Z",
       "urls": [
         {
           "sign": "db83b2ffc60b39d356319c434e53869a4c56316a02d2167be9aa67a09bffaee6",
@@ -13121,9 +13106,11 @@
           ]
         }
       ],
-      "title": "Poliisi otti epäillyn kiinni kolmen ihmisen ampumisen jälkeen Haldenissa sunnuntaiaamuna, kriisitiimi lähetetty paikalle",
+      "title": "Kaksi metsästysseuran jäsentä kuoli, yksi loukkaantui vakavasti ampumisessa Haldenissa sunnuntaiaamuna – epäilty otettu kiinni",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13472,7 +13459,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T12:03:00+03:00",
+      "updated": "2026-10-04T12:42:00+03:00",
       "urls": [
         {
           "sign": "73bda7614e424baa924cffe67d2aa04d56384f7d4da9092612dee410691ab1a1",
@@ -13481,8 +13468,8 @@
           ]
         }
       ],
-      "title": "Veneilijät havaitsivat Suomenlinnan edustalla oudon metallisen esineen ennen viranomaisoperaatiota; esine osoittautui vaarattomaksi laivan osaksi",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Kaksi veneilijää havaitsi oudon metallisen esineen Suomenlinnan edustalla ennen viranomaisoperaatiota; esine osoittautui vaarattomaksi laivan osaksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13546,6 +13533,23 @@
       "title": "Vihreiden puheenjohtaja Sofia Virta syyttää pääministeri Petteri Orpoa kaksinaamaisuudesta ja kehottaa häntä kaatamaan hallituksensa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T09:44:18Z",
+      "urls": [
+        {
+          "sign": "9b025efaa3c7fab49c7cff9ddc05fd39f3156da4afd7b20f72a8dc36a9ff0dbf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rankkasateet aiheuttivat tulvia Ierapetraan Kreetalla – hätätila julistettu, suomalaisperheen loma keskeytyi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
