@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T07:14:00+03:00",
+  "updated": "2026-10-04T04:30:00Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -766,23 +766,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T06:10:57Z",
-      "urls": [
-        {
-          "sign": "f74e3cbb82d46528b2bef80066f48a5da0a406fd9cb35e39fdfbd9fcec6a98eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keurig Dr Pepper vetää pois yli 77 000 7UP Tropical Zero Sugar -tölkkiä Yhdysvalloissa sokerivirheen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T06:26:23Z",
@@ -13579,6 +13562,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T04:30:00Z",
+      "urls": [
+        {
+          "sign": "75a1c50b7565f0102c171475f7aa1dafd7ea72dfaad951c585add546b159775d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paparazzi Panu Hörkkö päivysti viikon metsässä saadakseen kuvan Jari Sarasvuosta ja Virpi Kuitusesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
