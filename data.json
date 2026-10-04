@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T07:13:31Z",
+  "updated": "2026-10-04T07:25:46Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -799,40 +799,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T07:58:44Z",
-      "urls": [
-        {
-          "sign": "a1b5521120dda9cfcb65412df29ed997e257b79b64901ca86f68a612e10ccf32",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porvoon Runo-hotellin saunaosänimaisema palkittiin International Sound Awards -kilpailussa Hampurissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b4291d0ce04384b9c7188a29c56bd2e7522217d99624bb50ca7bc15c93c55f8d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-01T08:10:58Z",
@@ -6532,21 +6498,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T14:00:24Z",
-      "urls": [
-        {
-          "sign": "ab2fe815eb96059115729c352ea53a4f52b13a27a35eb8335bde2714a09cd1b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helena Koivu sai sakkorangaistuksen pyöräilijöihin törmäämisestä Turussa elokuussa 2025",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T14:20:06Z",
       "urls": [
         {
@@ -6595,21 +6546,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T14:09:10Z",
-      "urls": [
-        {
-          "sign": "51f4c7322820385b3dff4a24a1e84a15f769069a8547143c810ebde1c01cd39d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kommentti: Kansanedustajien wc-pöntöistä löytyi ulosteita – epäillään Venäjän hybridivaikuttamista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T14:49:38Z",
@@ -11117,7 +11053,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T03:44:45Z",
+      "updated": "2026-10-04T07:21:16Z",
       "urls": [
         {
           "sign": "6fbe9a7a30b423eab219626f84214172c3a6c6fb13fee20eb621b382351dfb7a",
@@ -11126,9 +11062,11 @@
           ]
         }
       ],
-      "title": "Andris Kulbergsin Yhdistynyt lista voitti Latvian parlamenttivaalit 35,5 prosentin kannatuksella",
+      "title": "Latvian vaalivoittaja Kulbergs kritisoi Venäjää mestariksi likaisissa asioissa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13371,7 +13309,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T06:25:45Z",
+      "updated": "2026-10-04T07:19:56Z",
       "urls": [
         {
           "sign": "9c85d2f2dfeab3837cbddbd456680fc3eb0c7158d8d28acc1acbf06bcd7d358d",
@@ -13380,8 +13318,8 @@
           ]
         }
       ],
-      "title": "Evans, Solberg ja Pajari kilpailevat WRC-mestaruudesta Sardinian rallin EK14:llä – MTV seuraa",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Sardinian rallin EK14: Evans kärjessä, Solberg pohja-aika, Pajari ja Ogier takana – MTV Urheilu seuraa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13403,7 +13341,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-04T06:39:06Z",
+      "updated": "2026-10-04T07:25:46Z",
       "urls": [
         {
           "sign": "570dbf65d73497867403c91b45db03efad4a26f06d5f92ae051cacfc9586578e",
@@ -13412,8 +13350,8 @@
           ]
         }
       ],
-      "title": "Sardinian MM-rallin viimeinen kilpailupäivä ratkaisee maailmanmestaruuden – Solberg kärjessä, Evans ja Pajari takana",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Oliver Solberg pohja-ajan Sardinian MM-rallin EK14:llä – Pajari ja Evans jahtaavat mestaruutta",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13450,7 +13388,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T06:55:06Z",
+      "updated": "2026-10-04T07:22:57Z",
       "urls": [
         {
           "sign": "641586818c131e39a004df2173332b0925b89e0d36facfbca8ef2306d358f4b5",
@@ -13459,7 +13397,7 @@
           ]
         }
       ],
-      "title": "Helsingin poliisi ja merivartiosto tutkivat noin 40 senttimetriä pitkää, painavaa esinettä merellä – meriliikennettä rajoitettiin yöaikaan",
+      "title": "Helsingin poliisi ja merivartiosto rajoittivat meriliikennettä Suomenlahdella löydetyn noin 40 senttimetriä pitkän esineen vuoksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13556,6 +13494,66 @@
         }
       ],
       "title": "SVT: 62 suomalaista palvelee Israelin puolustusvoimissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T07:24:54Z",
+      "urls": [
+        {
+          "sign": "b32df9efef341498098d330fb7305c6c57ecd16736bd5ddff5b781a0ea88da65",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Olivia Oraksen avoin muistotilaisuus käynnissä Koskella tänään kello 10–16",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T07:09:33Z",
+      "urls": [
+        {
+          "sign": "db83b2ffc60b39d356319c434e53869a4c56316a02d2167be9aa67a09bffaee6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: Kolme ihmistä ammuttu Haldenissa sunnuntaiaamuna, epäilty saatu kiinni",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-04T10:15:00+03:00",
+      "urls": [
+        {
+          "sign": "b7685f3d984082ef26e9229f1d532b85406a34a538a285bcefc1d132f9dea9a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen muodostelmaluistelija: Pienikin tauko tuntui luovuttamiselta kilpaurheilussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T07:15:52Z",
+      "urls": [
+        {
+          "sign": "ed26972042ab8c697114d44f357e7423d3e540d40c73531722457853a7fb8ce7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilta-lehden kalavisa mittaa tietämystäsi Suomen yleisimmistä kalalajeista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
