@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T11:37:36Z",
+  "updated": "2026-10-04T15:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -1172,23 +1172,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T14:13:00+03:00",
-      "urls": [
-        {
-          "sign": "4489a18e597a7e4fb7875cb7cb88a88dd0184cfe33c981b77f362458b7102c7b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-01T11:02:59Z",
@@ -12586,7 +12569,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T13:44:00+03:00",
+      "updated": "2026-10-04T14:51:00+03:00",
       "urls": [
         {
           "sign": "8d99562da7254971c295360ae9dd59b87cf074c285c2cd5e1414c96af8fdb873",
@@ -12595,8 +12578,8 @@
           ]
         }
       ],
-      "title": "Kaksi metsästäjää sai surmansa ja yksi haavoittui vakavasti ampumisessa Haldenin metsässä sunnuntaiaamuna – epäilty noin parikymppinen mies pidätettiin",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Kaksi metsästäjää kuoli ja yksi haavoittui vakavasti ampumisessa Haldenin metsässä sunnuntaiaamuna – epäilty noin parikymppinen mies pidätettiin",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -12680,7 +12663,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T11:36:19Z",
+      "updated": "2026-10-04T11:58:51Z",
       "urls": [
         {
           "sign": "b32df9efef341498098d330fb7305c6c57ecd16736bd5ddff5b781a0ea88da65",
@@ -12689,7 +12672,7 @@
           ]
         }
       ],
-      "title": "Olivia Oraksen muistotilaisuus avoinna yleisölle Koskella tänään kello 10–16",
+      "title": "Yleisö voi osallistua Olivia Oraksen muistotilaisuuteen Koskella tänään kello 10–16",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13514,7 +13497,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T11:37:36Z",
+      "updated": "2026-10-04T11:54:58Z",
       "urls": [
         {
           "sign": "0cb74a7caa329dc6830f4a0006c0df24410f18cf8387ba030f633345a40c31c7",
@@ -13523,7 +13506,7 @@
           ]
         }
       ],
-      "title": "Sardinian Power Stage ratkaisee rallin maailmanmestaruuden – Evans johtaa Solbergia pisteellä",
+      "title": "Elfyn Evans johtaa MM-sarjaa yhdellä pisteellä ennen Sardinian Power Stagea",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13576,6 +13559,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T15:00:00+03:00",
+      "urls": [
+        {
+          "sign": "9c1914dce089a994ad04dc412c98bbecb13e8e60d2e54f2fe3b3195760a1c904",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Markku Ojanen: Nyt on hyvä tilaisuus sopia köyhyysjarrusta puolueiden välillä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
