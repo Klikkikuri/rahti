@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T10:41:00+03:00",
+  "updated": "2026-10-04T07:53:30Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -826,23 +826,6 @@
         }
       ],
       "title": "IS: Joidenkin kansanedustajien koteihin on tunkeuduttu – Pääesikunnan tiedustelupäällikkö Pekka Turunen arvioi: Kotiin tunkeutuminen on osa Venäjän toimintatapoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T08:06:51Z",
-      "urls": [
-        {
-          "sign": "727166e77656604752462fc01ba0a61ef81ac1d59e5e3d0dc0bb0695453e17cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sami Pajari jäi seitsemän sekuntia Elfyn Evansistä Sardinian testierikoiskokeella tomun haitattua ajoa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -6399,21 +6382,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T14:14:57Z",
-      "urls": [
-        {
-          "sign": "c87bddb621bff6c743f555d6e9d5c53a97012658d1059839f2e7dd383520d0ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden viihdetesti haastaa erottamaan tunnetut parivaljakot, esimerkiksi Matti ja Tepon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13341,7 +13309,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T07:40:38Z",
+      "updated": "2026-10-04T07:53:30Z",
       "urls": [
         {
           "sign": "9fc82f194f147b2e29d3da317c4524c8ae167611cfb4f1795354e64dadef2c06",
@@ -13350,8 +13318,8 @@
           ]
         }
       ],
-      "title": "Malesian F1-kisan lähtö viivästyy sateen takia – MTV seuraa",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Useampi F1-auto hyytyi lämmittelykierroksella Malesian Sepangin radalla – lähtö viivästyi sateen takia",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13558,6 +13526,38 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-04T07:52:01Z",
+      "urls": [
+        {
+          "sign": "e4d6093d97402c684ac672bf2665e67ca2cdd78abd0a4988e1d0b9587138203a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brooklyn sai E. coli -infektion ja HUS‑oireyhtymän juotuaan pastöroimatonta vuohenmaitoa ja joutui tehohoitoon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T07:45:00Z",
+      "urls": [
+        {
+          "sign": "7f9a513eadaf59fcfa8a2e2e5e26f609aecbd2c7fe2e1139485462fa8a14f469",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lapset matkustavat yhä useammin isovanhempiensa tai vain yhden vanhemman kanssa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
