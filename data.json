@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T09:44:41+03:00",
+  "updated": "2026-10-04T06:57:40Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -784,23 +784,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-01T10:30:00+03:00",
-      "urls": [
-        {
-          "sign": "daeccf61e971e58035ed25bb095947b6cfd4bd263d7997a3fdf41c7f82562742",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-01T08:19:07Z",
@@ -6500,21 +6483,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-02T13:49:15Z",
-      "urls": [
-        {
-          "sign": "5a76d19b048ec2dba92f7242f73603ff5a1da18c413a47333f066d9650497e73",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kommentti: Ravien suurkilpailu osoittautui farssiksi dopingrikkomusten paljastuttua – vertaus Lahden 2001 skandaaliin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-02T14:44:32Z",
       "urls": [
         {
@@ -11684,7 +11652,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-04T06:24:34Z",
+      "updated": "2026-10-04T06:52:27Z",
       "urls": [
         {
           "sign": "ddd9c413abb33338a194e6624917e97b272ea8f9fba0e843b88aa895e30196c7",
@@ -11693,7 +11661,7 @@
           ]
         }
       ],
-      "title": "Kaksi autoa törmäsi nokkakolarissa Orimattilassa lauantai-iltana – kuljettaja puhalsi 0,44 promillea, poliisi epäilee törkeää liikenneturvallisuuden vaarantamista",
+      "title": "Rattijuoppo aiheutti nokkakolarin Orimattilassa – lapsi loukkaantui, poliisi epäilee törkeää liikenneturvallisuuden vaarantamista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13529,7 +13497,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T09:44:41+03:00",
+      "updated": "2026-10-04T06:52:56Z",
       "urls": [
         {
           "sign": "9fc82f194f147b2e29d3da317c4524c8ae167611cfb4f1795354e64dadef2c06",
@@ -13538,13 +13506,13 @@
           ]
         }
       ],
-      "title": "Max Verstappen lähtee paalulta Malesian F1-kisaan, sade vaihtelee rataolosuhteita – MTV seuraa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Malesian F1-kisan lähtö viivästyy sateen vuoksi – MTV seuraa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T06:39:38Z",
+      "updated": "2026-10-04T06:55:06Z",
       "urls": [
         {
           "sign": "641586818c131e39a004df2173332b0925b89e0d36facfbca8ef2306d358f4b5",
@@ -13553,11 +13521,41 @@
           ]
         }
       ],
-      "title": "Helsingin poliisi tutkii noin 40 senttimetriä pitkää, painavaa esinettä merellä – meriliikennettä rajoitettiin yöaikaan",
+      "title": "Helsingin poliisi ja merivartiosto tutkivat noin 40 senttimetriä pitkää, painavaa esinettä merellä – meriliikennettä rajoitettiin yöaikaan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T09:57:00+03:00",
+      "urls": [
+        {
+          "sign": "8d99562da7254971c295360ae9dd59b87cf074c285c2cd5e1414c96af8fdb873",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ampumavälikohtaus Haldenissa haavoitti kolmea ihmistä – epäilty poliisin hallussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T06:57:40Z",
+      "urls": [
+        {
+          "sign": "e7ae18a78bf8398534d99aacf6951b9dc3a9283c5977a94775dbc2f222274b99",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nasima Razmyar kutsuu kokoomuksen kahden miljardin euron eläkesäästösuunnitelmaa härskiäksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
