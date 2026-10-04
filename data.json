@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T05:11:49Z",
+  "updated": "2026-10-04T05:15:00Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -813,21 +813,6 @@
         }
       ],
       "title": "Poliisi tavoitti Jyväskylässä taideteoksen vahingoittamisesta epäillyn miehen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T06:46:55Z",
-      "urls": [
-        {
-          "sign": "8d3c8aee1bb9a9d50a89e7b655944d90d9e3472331a1f204ae85802d13bcc1ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara solmi kevääseen 2028 asti ulottuvan sopimuksen puolustaja Markus Niemeläisen kanssa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13574,6 +13559,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T05:15:00Z",
+      "urls": [
+        {
+          "sign": "43d26092a0f1a276fe8075f4350fd520d3e171b2a087ed4926ca704b38e0bb80",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Toimittaja Rauli Virtanen ahdistui teloitushuoneessa Texassa 2000-luvun alussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
