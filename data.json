@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T02:27:40Z",
+  "updated": "2026-10-04T02:30:35Z",
   "entries": [
     {
       "updated": "2026-10-03T19:04:09Z",
@@ -981,21 +981,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T07:10:07Z",
-      "urls": [
-        {
-          "sign": "92e9cc984f148dcd78711a5758ca96392b402d51c8289241487e63d586ac541d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovioikeus muutti KTP:n entisen jalkapalloilijan ehdollisen raiskaustuomion ehdottomaksi keskiviikkona",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T07:32:58Z",
@@ -13573,6 +13558,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T02:30:35Z",
+      "urls": [
+        {
+          "sign": "22727642ca6d9664c2e59a1a4ab4facadda4197b9dbce11adb43efd916950422",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Musiikinopettajat kertovat vanhempien pyynnöistä rajoittaa soittamista ja Euroviisujen kuuntelua – oppilaille tarjotaan vaihtoehtoisia tehtäviä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
