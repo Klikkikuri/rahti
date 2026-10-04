@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T18:30:00+03:00",
+  "updated": "2026-10-04T15:39:59Z",
   "entries": [
     {
       "updated": "2026-10-04T14:03:06Z",
@@ -764,21 +764,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-01T17:00:00+03:00",
-      "urls": [
-        {
-          "sign": "7386e7a69c3f61329d6407662f6d2c39edd19509b3f86368f46a124a1989ec2c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin poliisi aloittaa esiselvityksen kansanedustajien koteihin mahdollisista tunkeutumisista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-01T10:24:32Z",
@@ -6449,21 +6434,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-03T00:36:57Z",
-      "urls": [
-        {
-          "sign": "af85da9af71c636df7a2777770bc2f9f22b766fa31f5dedc555054e4e38346d9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tennesseen kuolemaan tuomittu Christa Pike on sairaalassa tiedottomassa ja hengityskoneessa – herääminen nostaa esiin teloituksen eettisen kysymyksen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T02:30:35Z",
@@ -13559,6 +13529,38 @@
       ],
       "title": "Tuija Kortelainen lainaa rahaa lapsiltaan eikä voi ostaa diabeteslääkkeitään",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T18:32:00+03:00",
+      "urls": [
+        {
+          "sign": "9df04feaf59440e1f2c14608278b514450827ae311febebb40526777b4cee5eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-04T15:39:59Z",
+      "urls": [
+        {
+          "sign": "f0739042639d59cfade95c53d9c82517450dcf8d6ad609591d3ce06f6ba5f810",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Johannes Kuorikoski sanoo: Nina af Enehjelm ei kutsuttu Tapani Kansan uurnan laskuun",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
