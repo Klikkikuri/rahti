@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T04:30:17Z",
+  "updated": "2026-10-04T04:49:47Z",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -768,23 +768,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-01T06:26:23Z",
-      "urls": [
-        {
-          "sign": "9bede01a594491763d686f063af76b87e628e0b4f54a8ac68b9324ca6825d8e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nathan MacKinnon teki kaksi maalia ja pudotti hanskat Avalanchen 8–4-voitossa Kingsistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-01T06:38:55Z",
       "urls": [
         {
@@ -979,23 +962,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T07:30:35Z",
-      "urls": [
-        {
-          "sign": "a87d55dd192169358de09a3bad1f2285a47247c56a416acf9730445cf0091f35",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmavoimat esittelee Rovaniemellä uudet F‑35‑hävittäjät; presidentti Stubb ja puolustusministeri Häkkänen puhuvat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T07:58:44Z",
@@ -12912,7 +12878,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-04T02:06:58Z",
+      "updated": "2026-10-04T04:49:47Z",
       "urls": [
         {
           "sign": "2133918e6d212a667f45b7dc9a9af80ddac8dfaf4abc4148215277f4607f087c",
@@ -13579,6 +13545,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T04:48:46Z",
+      "urls": [
+        {
+          "sign": "986b9256eda93065ec4ff60ae4593405a60294566c18b839204f02eae44405f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolme alusta törmäsi Ålesundin vuonossa – ei henkilövahinkoja tai ympäristövahinkoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-04T04:45:00Z",
+      "urls": [
+        {
+          "sign": "3e3d74f2df90cde2fba636856a316164d75a4b5e1c7074f07e1e4027d83e9106",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen peitepoliisi Sami Sallinen kertoo, miten rikolliset testaavat soluttautujien luotettavuutta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
