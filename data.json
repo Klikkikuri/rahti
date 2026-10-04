@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T14:28:35Z",
+  "updated": "2026-10-04T14:37:50Z",
   "entries": [
     {
       "updated": "2026-10-04T14:03:06Z",
@@ -795,23 +795,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T09:55:14Z",
-      "urls": [
-        {
-          "sign": "d8a4c070a5c1cead4e3d12314d9ff2806a5ec72f9a9fdea8069238a650c7f84b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "XAMK vaatii Chenilta perheperusteista oleskelulupaa avioliitosta huolimatta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
     },
@@ -6234,23 +6217,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T19:39:02Z",
-      "urls": [
-        {
-          "sign": "964618b776b6f142055c3fc9bba110f3bca26c27b99bb4f10de97dd94f0decea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mönkijäremontti epäonnistui Oulussa, yksi henkilö sai lieviä palovammoja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T19:49:00Z",
@@ -13424,7 +13390,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T14:03:11Z",
+      "updated": "2026-10-04T14:33:24Z",
       "urls": [
         {
           "sign": "aab176bc9597d26416150767ca0b403c770b58bb3cfd2a009744a0e7f56e5290",
@@ -13433,7 +13399,7 @@
           ]
         }
       ],
-      "title": "Timo Jutila ilmoittautuu kokoomuksen ehdokkaaksi Pirkanmaalla – Keskinen: mahdollisuudet hyvät",
+      "title": "Entinen jääkiekkapäällikkö Timo Jutila asettuu kokoomuksen ehdokkaaksi Pirkanmaalla – Keskinen arvioi mahdollisuudet hyviksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13563,6 +13529,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T14:37:50Z",
+      "urls": [
+        {
+          "sign": "2386e2241402d2dbb1d2795a8a6736ee4f2143b79f6aca64f28e5bee370f9e02",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Historioitsija Michael Kimmage: Trumpin hallinto ei hyväksy Venäjän tulitauon ehtoja, jotka uhkaavat Ukrainaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T14:25:41Z",
+      "urls": [
+        {
+          "sign": "9e9b819ea8bdba8458ca37376a616ec2e4b335407111291e1cdc739a3613655c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oliver Solbergin ulosajo Sardiniassa ratkaisi WRC-mestaruuden Elfyn Evansin hyväksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
