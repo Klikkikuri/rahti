@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-04T06:29:45Z",
+  "updated": "2026-10-04T09:44:41+03:00",
   "entries": [
     {
       "updated": "2026-10-04T02:50:55Z",
@@ -784,21 +784,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-01T07:32:58Z",
-      "urls": [
-        {
-          "sign": "0c6980b6a7f5465e3f7ff0d62a40fbd75ebde802dbf6f3667eabe15fb8c7cb8d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi paljasti noin 320 kiloa amfetamiinia tuoneen rikollisryhmän – aseita vaihdettu, venettä käytetty postilaatikkona Hyvinkäällä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T10:30:00+03:00",
@@ -6704,23 +6689,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T13:42:08Z",
-      "urls": [
-        {
-          "sign": "f16e2eb54dca04c7594b2173c8ee1f494101377a6d583d4105a56e2db3160d06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hevonen karkasi trailerista ja aiheutti liikennehäiriötä Kolmostiellä Hyvinkäällä perjantaina iltapäivällä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-02T14:09:10Z",
@@ -13529,7 +13497,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-04T06:26:08Z",
+      "updated": "2026-10-04T06:39:06Z",
       "urls": [
         {
           "sign": "570dbf65d73497867403c91b45db03efad4a26f06d5f92ae051cacfc9586578e",
@@ -13539,7 +13507,7 @@
         }
       ],
       "title": "Sardinian MM-rallin viimeinen kilpailupäivä ratkaisee maailmanmestaruuden – Solberg kärjessä, Evans ja Pajari takana",
-      "clickbaitiness": "Slightly Clickbaity",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13558,6 +13526,38 @@
       "title": "Ruotsi purkaa tilapäistä polttoaineveron kevennystä – hinnat nousivat lokakuussa ja nousevat joulukuussa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-04T09:44:41+03:00",
+      "urls": [
+        {
+          "sign": "9fc82f194f147b2e29d3da317c4524c8ae167611cfb4f1795354e64dadef2c06",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Max Verstappen lähtee paalulta Malesian F1-kisaan, sade vaihtelee rataolosuhteita – MTV seuraa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-04T06:39:38Z",
+      "urls": [
+        {
+          "sign": "641586818c131e39a004df2173332b0925b89e0d36facfbca8ef2306d358f4b5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin poliisi tutkii noin 40 senttimetriä pitkää, painavaa esinettä merellä – meriliikennettä rajoitettiin yöaikaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
