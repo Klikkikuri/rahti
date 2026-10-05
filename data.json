@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T07:42:26Z",
+  "updated": "2026-10-05T07:59:26Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -1573,23 +1573,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T06:08:46Z",
-      "urls": [
-        {
-          "sign": "7a7bdbd239a274c0c1c32c25c27cb64cec3b8ae3739e160076c4cd94d2f73531",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuomarit kehaisivat Jaakko Parkkala hitaasta valssista ja kutsuivat häntä vakiomieheksi Tanssii Tähtien Kanssa -ohjelmassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-05T09:42:00+03:00",
@@ -13246,7 +13229,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-05T10:22:00+03:00",
+      "updated": "2026-10-05T10:56:00+03:00",
       "urls": [
         {
           "sign": "30041f3622d83b5a94607bfa651691f56bd83f041a38524c23c62845ac7b18a0",
@@ -13256,7 +13239,7 @@
         }
       ],
       "title": "Pedro Sánchez aikaisentaa Espanjan parlamenttivaalit 29. marraskuuta asuntokriisin vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13440,7 +13423,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-05T07:27:14Z",
+      "updated": "2026-10-05T07:59:26Z",
       "urls": [
         {
           "sign": "979401e74f71a0845bf10b5e0d7c76f3ab096fca1f53f249ffd431b031cd018b",
@@ -13581,6 +13564,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T07:51:07Z",
+      "urls": [
+        {
+          "sign": "faaa0121047f12fd80c2625ea3a8dd840535eb0aca29951bbb4860ffa96d0278",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alkaviikko alkaa tuulisena ja pohjoisessa voi sataa lunta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
