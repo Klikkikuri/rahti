@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T10:42:42Z",
+  "updated": "2026-10-05T10:52:58Z",
   "entries": [
     {
       "updated": "2026-10-05T09:57:20Z",
@@ -1086,21 +1086,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-01T15:50:42Z",
-      "urls": [
-        {
-          "sign": "182e63ec46efe2e5015e3f806c38c62fe04dfc2fcbee8f7e1562fc79bc726c9e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aluevaltuusto poisti Olavi Kandolin kokouksesta – hän sanoi ettei voinut äänestää eikä vaikuttaa kollegoihin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-02T03:20:35Z",
       "urls": [
         {
@@ -1656,21 +1641,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T08:32:30Z",
-      "urls": [
-        {
-          "sign": "f52dd1ce9438f392ac800dc31e03c1820610533d118d228698dc734091e64390",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tennesseen teloitustiimi ei onnistunut tappamaan Christa Pikea – nainen selvisi kahdesta pentobarbitaaliruiskesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T11:41:00+03:00",
@@ -6388,23 +6358,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T19:00:20Z",
-      "urls": [
-        {
-          "sign": "b59b141b6f51960b2701467cecf9c0954fd9f75bfedc8a06ce552b334660ac74",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pekka Toveri varoittaa: jokainen suomalainen voi olla vieraan valtion tiedustelun kohde",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T19:15:39Z",
@@ -13589,6 +13542,57 @@
       "title": "Arttu Toivonen ja Mikko Räsänen keskustelevat polttoaineiden hinnoista ja hylkäävät turhan ajamisen välttämisvinkin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T10:52:58Z",
+      "urls": [
+        {
+          "sign": "7d5c07dc37f99fef0b948e391ecf9b07d2ffeefc199878e38eea3b2940b1b2fa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OP Pohjola aloittaa kahdet muutosneuvottelut, jotka koskevat yli 2000 työntekijää",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T10:46:28Z",
+      "urls": [
+        {
+          "sign": "e7481e052be797ea35a008945f9041f0e85816ee89c71634762f2fa31fa6472d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OP Pohjola aloittaa kaksi muutosneuvottelukierrosta – enintään 554 tehtävää voi lakkautua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T10:51:47Z",
+      "urls": [
+        {
+          "sign": "7443f10004bf1ca3e50f7bc8b9e6a7c499464f8e62b80e8058d32c04218f4a91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OP Pohjola aloittaa muutosneuvottelut 6. lokakuuta 2026 – Pohjola Vakuutuksessa uhkaa 385, keskusjärjestössä 169 työpaikan vähennys",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
