@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T02:30:36Z",
+  "updated": "2026-10-05T03:00:09Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -1449,23 +1449,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-01T18:05:54Z",
-      "urls": [
-        {
-          "sign": "19eadcff162cdbe51b2e3f64d18c9c145459a906ea25a4052f79b3095c04f5a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KooKoo kasvatti liikevaihtonsa ennätykselliseen 8,45 miljoonaan euroon ja liikevoittonsa yli 500 000 euroon tilikaudella 2025–2026",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-01T18:10:16Z",
       "urls": [
         {
@@ -1479,21 +1462,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T18:28:44Z",
-      "urls": [
-        {
-          "sign": "1a105195ae813015d4a2bf24b839e09f0ecb28f4803cb0a489252c453da54a4b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FIS ei myöntänyt venäläishiihtäjä Savelii Korosteleville kilpailulupaa alkavalle kaudelle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T18:42:50Z",
@@ -6174,21 +6142,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-03T09:53:05Z",
-      "urls": [
-        {
-          "sign": "e46d9a0b0e9b549582fce1714902aa587ce8ea717ade4404d448006658eca423",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liettuan ilmahälytys peruttu – epäilyttävä objekti ei enää aiheuta uhkaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T10:30:00+03:00",
@@ -13572,6 +13525,51 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T02:45:00Z",
+      "urls": [
+        {
+          "sign": "ab67d2b0a88bb4bd4e9b031e407e7518309162ed3d9b4831b445ba05d92e024b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Abilis-säätiö epäilee kymmenien tuhansien eurojen väärinkäyttöä Tansanian kehitysyhteistyöohjelmassa – Suomen ulkoministeriö on rahoittajana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T02:54:32Z",
+      "urls": [
+        {
+          "sign": "fbb7b1c3b37cdb4fa524e3a60c659caa0d9adf73bb4f21e55d5dcf3705635370",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nobel-viikko käynnistyy tänään lääketieteen palkinnon julkistamisella Tukholmassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T03:00:09Z",
+      "urls": [
+        {
+          "sign": "9f2f6f065995613fb188474882814c5459726c19387df4bcac8d580043dec65e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Päiväkotityöntekijät kertovat taukojen ja ruokailun puutteesta sekä henkilöstömitoituksen aiheuttamasta kuormituksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
