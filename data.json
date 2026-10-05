@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T10:52:58Z",
+  "updated": "2026-10-05T11:10:15Z",
   "entries": [
     {
       "updated": "2026-10-05T09:57:20Z",
@@ -6360,36 +6360,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T19:15:39Z",
-      "urls": [
-        {
-          "sign": "0cc9d87a56b5b36a16a34b06012c5e4f3412f9fb9bf927f026166e98e42f9aeb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oliver Solbergillä on vielä pienet mestaruusmahdollisuudet Sardinian rallin jälkeen – Thierry Neuvillen keskeytys paransi Elfyn Evansin asemaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T19:44:55Z",
-      "urls": [
-        {
-          "sign": "80072159b03e9bcea74f2e7041e0d6909f276e89164ad7e9775da344c069ac09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lotto arvottiin lauantaina – oikea rivi 12, 29, 32, 33, 34, 36, 40, lisänumero 27",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-04T04:49:47Z",
       "urls": [
         {
@@ -6448,21 +6418,6 @@
       ],
       "title": "Entinen kehonrakentaja Danny Andrews kertoo steroidien aiheuttaneen hedelmättömyyden",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T19:55:34Z",
-      "urls": [
-        {
-          "sign": "817e0652ea170b3d065a1274bc9add988f07749c814ed1439eba03ee1659e4f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kasmirin Espoon talon hinta laski 95 000 euroa – talo ei vielä mene kaupaksi",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13287,7 +13242,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-05T10:15:12Z",
+      "updated": "2026-10-05T11:07:13Z",
       "urls": [
         {
           "sign": "93464b16362de265a53b1598f97982ee6b8e90b037d2f0ee987dd73bf5a8402f",
@@ -13296,9 +13251,11 @@
           ]
         }
       ],
-      "title": "Karl Deisseroth, Peter Hegemann ja Georg Nagel saivat vuoden 2026 lääketieteen Nobel-palkinnon optogenetiikan kehittämisestä",
+      "title": "Karl Deisseroth, Peter Hegemann, Georg Nagel saivat lääketieteen Nobel-palkinnon optogenetiikan kehittämisestä",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13592,6 +13549,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T11:04:11Z",
+      "urls": [
+        {
+          "sign": "29254de328492e98e42caf2c61a98e0608d83132a9442da57bc98146e6ff025e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dallas–San Jose -otteluun yli 5,5 maalia vetovihjeenä – kerroin 1,65",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T11:10:15Z",
+      "urls": [
+        {
+          "sign": "74c5344302dff655cdd22400ba35823dbadc42e59a739852426406726fbf0374",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: Puhoksen ostoskeskus ei ole vaarallinen – perussuomalaisten pelko perusteeton",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T11:05:50Z",
+      "urls": [
+        {
+          "sign": "654cc91adaa6a4cf10f8b45f7a23135681506cf8e9ba5772246258c62cf5649c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
     }
