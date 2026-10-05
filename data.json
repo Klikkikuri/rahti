@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T00:22:41Z",
+  "updated": "2026-10-05T00:50:52Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -747,23 +747,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-01T11:13:38Z",
-      "urls": [
-        {
-          "sign": "d839aff194b991b797dc34222a10792cac78e00552ecfbcd101401533e3e4ff8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirjasto avautuu entisen yökerhon tiloissa Vantaan Jumbo-kauppakeskuksessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T11:39:54Z",
@@ -6622,23 +6605,6 @@
       "title": "Kaupunginpuutarhuri Kairi Meos neuvoo: syksy on aika istuttaa puita, siirtää kasveja ja suunnitella kevään sipulikukat",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T09:21:46Z",
-      "urls": [
-        {
-          "sign": "7eb0d436322473740b98f82785a86b0bc992648d27d15f8463f685279b676b2c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyundai julkisti viidennen sukupolven Tucsonin – muotoilu uudistui, koko kasvoi ja hybridivoimalinjat lisättiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13573,6 +13539,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-05T00:48:21Z",
+      "urls": [
+        {
+          "sign": "f97145f6abb5b696532001e6e64e1b0d88c0c47ea68593dd0cb1e38d778b44b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Milorad Dodikin johtama serbinationalistipuolue julisti vaalivoiton Bosnia-Hertsegovinan vaaleissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T00:50:52Z",
+      "urls": [
+        {
+          "sign": "2cdc54adf2dc96481b1444650f951656106006a395d05ee30ba728bc233d7ee5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marius Borg Høiby suostuu tutkintavankeutensa jatkamiseen työtarjouksen saamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
