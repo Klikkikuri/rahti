@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T03:00:09Z",
+  "updated": "2026-10-05T03:10:00Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -1492,36 +1492,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T18:58:13Z",
-      "urls": [
-        {
-          "sign": "88ca1ad26b8ceb6a54c115702fb4512f1e57b42d992487ae015d56d0873887a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ronaldo jätti Portugalin maajoukkueen – pelinumero 7 annettiin Rafael Leãolle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T19:17:06Z",
-      "urls": [
-        {
-          "sign": "25876fbc677c6c1e1fa20e91b2644fe54f9d0529ec162f051d92b36074d626f6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehonrakennuslegenda Juhani 'Jussi' Hokkanen on kuollut 67-vuotiaana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-01T19:38:58Z",
@@ -6514,21 +6484,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T09:56:54Z",
-      "urls": [
-        {
-          "sign": "4f3c525238951c46bef6f0660dea2e4f0527f2046cd061994e1558c3bcb0f8b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vain elämää -katsojat kritisoivat suomenkielisiä versioita: kappaleet muuttuvat tunnistamattomiksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-03T12:58:00+03:00",
       "urls": [
         {
@@ -6576,40 +6531,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T10:03:37Z",
-      "urls": [
-        {
-          "sign": "adfed8a8d6397f30f5a09d5d731f3fd27af10aaf4d69c174056aa1489ec96c7c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ville Koski puuttuu Huuhkajien kokoonpanosta lauantain Albania-ottelussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T10:06:12Z",
-      "urls": [
-        {
-          "sign": "50ecd0412936139eed4f44c96130e765228eac1e699a6032aaf0b39e9cf2584f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tarkasti pääministeri Petteri Orpon virka-asunnon automaattihälytyksen jälkeen – hälytys aiheeton",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T10:00:11Z",
@@ -13569,6 +13490,87 @@
       ],
       "title": "Päiväkotityöntekijät kertovat taukojen ja ruokailun puutteesta sekä henkilöstömitoituksen aiheuttamasta kuormituksesta",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T03:00:14Z",
+      "urls": [
+        {
+          "sign": "bc4ffe0b3abe2f8496c6132850c276b3e518911ba61a862e8d21f048d1c50e29",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T03:00:00Z",
+      "urls": [
+        {
+          "sign": "9a8c84c45297ed642b839726eb721fb549756012511138f644c520adf008a81e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kela: 3,1 prosenttia 6–8-vuotiaista pojista aloitti ADHD-lääkityksen viime vuonna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T03:01:57Z",
+      "urls": [
+        {
+          "sign": "7385db0ef7ece2108d17fea921c6bfd134c06bb6e08125899a352d91fb6b68bd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Petter Solberg järkyttyi Oliver Solbergin läheltä piti -tilanteesta ja epäili Sébastien Ogierin hidastaneen Elfyn Evansin hyväksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T03:10:00Z",
+      "urls": [
+        {
+          "sign": "794de601037954083acd750612df1f7be81f69b681c0f7e903403ceb16c0078c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus määräsi äidin maksamaan sakot ja korvaukset lapsen jättämisestä autoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T03:09:34Z",
+      "urls": [
+        {
+          "sign": "1b24385bfbf1b97f1f95555b10ee8a3a7a6fe41c4cd404551572bfc6589515f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Remppa vai muutto Suomi: Sanna harmittelee eteisen jääneen kapeaksi",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
