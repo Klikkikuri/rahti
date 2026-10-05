@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T04:43:52Z",
+  "updated": "2026-10-05T04:58:07Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -760,21 +760,6 @@
       ],
       "title": "YK vahvistaa, että ainakin kymmenen siviiliä, suurin osa lapsia, kuoli ilmaiskuissa Afganistanin Kunarin ja Helmandin maakunnissa torstaina",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T12:04:23Z",
-      "urls": [
-        {
-          "sign": "614f3824d5eee6c4f41797ff82a2437cc4d9550e98ffea58be4f6aede2d5c840",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus tuomitsi torstaina lapinlahtelaismiehen vuodeksi ja neljäksi kuukaudeksi ehdolliseen vankeuteen törkeästä petoksesta ja varkauden yrityksestä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -1746,23 +1731,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T03:24:00Z",
-      "urls": [
-        {
-          "sign": "b9601518ed0ae3ee02f152052c5dbe8bf1c46e39e47887b64671e7407f4d0888",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU:n kuluttajaviranomaiset aloittivat tutkinnan yhdeksän videopeliyrityksen virtuaalivaluuttojen käytännöistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T06:30:00+03:00",
@@ -13574,6 +13542,40 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T04:58:07Z",
+      "urls": [
+        {
+          "sign": "e02b39b8a9d33b4b1a53416072f0ce766751fe32604615724877df706180985e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jagex vahvisti kehittävänsä Runescape 4 -peliä Unreal Enginella, julkaisua odotetaan useiden vuosien päähän",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T04:53:15Z",
+      "urls": [
+        {
+          "sign": "caa146496d81d095cd42c4dfa411abe10ea04f4d39bda2489f86d56a52baf470",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lähi-idän öljynvienti Irania lukuun ottamatta ylitti sotaa edeltäneen tason ensimmäistä kertaa helmikuun lopun jälkeen Kplerin mukaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
