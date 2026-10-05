@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T03:10:00Z",
+  "updated": "2026-10-05T03:15:17Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -763,21 +763,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T11:39:21Z",
-      "urls": [
-        {
-          "sign": "3d738c5e5c07196a2cfb41aa314fe4b82bb30a76221611c193dca82d30d8848b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pakistanin asevoimat iskivät Afganistaniin – Taliban kertoo siviiliuhreista, Pakistan väittää taistelijoiden kuolleen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Yle Uutiset"
     },
     {
@@ -13573,6 +13558,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T03:15:17Z",
+      "urls": [
+        {
+          "sign": "ac0d7b9b917151bbf01d935107ea34105a2749cfe849bfe11451556bfbae598b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Menevä menettää kaikki Kela-ajot vuodenvaihteessa – aikoo tarjota varakuljetuksia kilpailijoiden puutuessa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
