@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T11:45:00+03:00",
+  "updated": "2026-10-05T12:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -1509,21 +1509,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T09:26:00+03:00",
-      "urls": [
-        {
-          "sign": "c0ba5357063c4a32ab412de224064cbc6175596b91a0debd97ac72f37d63c0a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin valmiusyksikkö Karhu harjoittelee Puolustusvoimien helikoptereilla Uudellamaalla 5.–8. lokakuuta, lennot voivat aiheuttaa melua iltaisin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-02T06:31:15Z",
@@ -13577,6 +13562,23 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T12:00:00+03:00",
+      "urls": [
+        {
+          "sign": "8968ae55592c2eda580ec29ab8e222d942e5c2bf995fd93748f278e4b1fd3252",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
