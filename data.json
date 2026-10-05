@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T09:28:00+03:00",
+  "updated": "2026-10-05T09:44:00+03:00",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -1949,7 +1949,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-02T09:00:00+03:00",
+      "updated": "2026-10-05T09:42:00+03:00",
       "urls": [
         {
           "sign": "db0a318a3bc1d04b3007169d1bae6b6360d4d57dc304177fe430fdae0138d8fe",
@@ -6527,21 +6527,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T13:53:50Z",
-      "urls": [
-        {
-          "sign": "07d36f2e9b8d34cf2de0ff67ee8ad06dc609f62dc15365a5dac7531cfa0babc3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korvapuustipäivää vietetään sunnuntaina – kaupoissa kymmenen kanelipullan makuista herkkua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-03T16:49:00+03:00",
       "urls": [
         {
@@ -6587,21 +6572,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T13:57:03Z",
-      "urls": [
-        {
-          "sign": "f68e5f9cd511ddce32cc7dd6bcc5a20c18d65906ca7d52ae8492f16565eb4a7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Joakim Abrahamsson kertoo Iivo Niskasen harjoittelun edenneen hyvin melanoomaleikkauksen jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T13:46:20Z",
@@ -10470,7 +10440,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-05T09:28:00+03:00",
+      "updated": "2026-10-05T09:44:00+03:00",
       "urls": [
         {
           "sign": "36308c9bfc3867791081a960420b83a6d2d1828a7c582eba0993d3e8457c4d3a",
@@ -13557,6 +13527,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T06:42:32Z",
+      "urls": [
+        {
+          "sign": "5ace6060a0d5d2aae92fa7dbae273bb6424071343c5f6daf3441a61f6c9196fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Niko Saarinen täyttää 40 vuotta tänään 5. lokakuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T06:37:14Z",
+      "urls": [
+        {
+          "sign": "c4d879499a94740ac813544546a43ecd1ae55771b0b327ca82cf0abe5718215b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veera Florica Rajala meni ravintolaan opaskoiransa kanssa, mutta työntekijä käski hänet istua ulos",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
