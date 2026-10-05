@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T08:13:41Z",
+  "updated": "2026-10-05T08:25:27Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -1528,21 +1528,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T06:09:01Z",
-      "urls": [
-        {
-          "sign": "b14accc68257b4763695ae07d77ff7bb8ffc8587315b681915291ccc7e337066",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin poliisin valmiusyksikkö Karhu harjoittelee 5.–8. lokakuuta Uudellamaalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T09:08:00+03:00",
@@ -6664,23 +6649,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-03T16:31:42Z",
-      "urls": [
-        {
-          "sign": "2fb7844efbf9610bc64d871210c18e38f23591f1a12c27bb9ff69a62bb835c9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kimmo Kiljunen ja Maarit Peltomaa kirjoittivat näytelmän Rakkaudesta, elämästä, luopumisesta – ensi-ilta Teatteri Vantaassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T17:09:34Z",
@@ -13578,6 +13546,38 @@
       "title": "Martat varoittavat: älä säilytä sipulia muovipussissa tai lämpimässä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T08:25:27Z",
+      "urls": [
+        {
+          "sign": "e0f5bd0464106071fc2017b5f67dd529de02058ea2cfd1dadf7d97cdff7c4552",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan pääministeri Pedro Sanchez ilmoitti ennenaikaisista vaaleista marraskuussa ja myönsi hallituksensa epäonnistumiset",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T08:19:45Z",
+      "urls": [
+        {
+          "sign": "cf9feae02f1c324d913817ee99e470f4870a05453c809489a0510c10ba4e9d4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vieraskynä: Putin luottaa ajan olevan hänen puolellaan – Euroopan täytyy osoittaa hänen erehtyvän",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
