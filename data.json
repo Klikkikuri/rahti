@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T03:40:00Z",
+  "updated": "2026-10-05T03:55:57Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -1716,38 +1716,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T02:21:00Z",
-      "urls": [
-        {
-          "sign": "cf990ac1ad32d6dcdce67d2d026b45c8f38e72b765cd7bc25a0242255072e2af",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maailma kiristää polttoaineiden saatavuutta, Trump harkitsee dieselin vientikieltoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T02:28:09Z",
-      "urls": [
-        {
-          "sign": "ef6dfad576f6601b03d2a7e905f9cb858283520c9986a50b95b1be8e1f28aa91",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU-maat käsittelevät tänään polttoainehintoja – Yhdysvaltain valtiovarainministeri kehottaa Eurooppaa vapauttamaan strategisia dieselvarantoja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T02:37:45Z",
@@ -6192,23 +6160,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T10:45:14Z",
-      "urls": [
-        {
-          "sign": "70f8f2ac975ea49fe73068ef3c197af9b0ffa0dab11e6b0d5aa1a326db0e8a46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Petteri Orpo kritisoi SDP:tä ja vaati velkajarruun sitoutumista hallitusneuvotteluissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T08:28:25Z",
@@ -13570,6 +13521,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T03:55:57Z",
+      "urls": [
+        {
+          "sign": "d9faf8aeafa274e4a525d18cc97c02a577b0a08e1c141220571f25129b4458f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anu Puumalainen ja Helmeri Pirinen käsittelevät eroa ja lapsitoiveita Käytetty kulta -podcastissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T03:52:00Z",
+      "urls": [
+        {
+          "sign": "171d67e47b7422d9bd41a492b9a5caa8fded833a7121a247dbaa89e7f8d1b575",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Markku-hanhi lentää Junttiloiden sinisen Mercedes-auton perässä useita kilometrejä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T03:52:00Z",
+      "urls": [
+        {
+          "sign": "4da531116a053daa93169dd09910852a04c2dd46efd0cfc5041d04277eeb0be7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Moni sairastaa eteisvärinää tietämättään – 'sähköinen kaaos' voi johtaa aivohalvaukseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
