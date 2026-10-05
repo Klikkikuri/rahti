@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T03:55:57Z",
+  "updated": "2026-10-05T04:03:20Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -747,23 +747,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-01T11:53:52Z",
-      "urls": [
-        {
-          "sign": "712153b6c16967d70a4ed5a236b3520d1089dc7aa02eb86649bdbbc7a43d1362",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat jakavat mielipiteensä Piia Vuorelan eroilmoituksen perumisesta ja valitusperusteista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T11:59:42Z",
@@ -1658,21 +1641,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-02T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "4e92ef454cf6164a22fa3ccaff5d88a131b0121c9c335f94036262b59f8728b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS kertoo 2.10.1976 TV‑ohjelmista, Jyväskylän tiehankkeesta, silakkamarkkinoista ja Hakalehdon koululakosta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-02T03:19:00+03:00",
       "urls": [
         {
@@ -1780,21 +1748,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T02:45:44Z",
-      "urls": [
-        {
-          "sign": "3f8364fc487982501a2de99df8c8dfece13e731d7bfab5e987ad91b5e9090396",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Neljä astronauttia saapui kansainväliselle avaruusasemalle – oleskelu kestää noin kuusi kuukautta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T02:59:11Z",
@@ -6496,72 +6449,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T10:54:59Z",
-      "urls": [
-        {
-          "sign": "2711dfc5216eebc626d55dd38fb858ae59ba808c460dd7d8f89896a3a623834b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Silja Kosonen varoittaa lasten liikkumattomuudesta ja kehottaa vanhempia kannustamaan liikuntaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T10:47:48Z",
-      "urls": [
-        {
-          "sign": "10dd872842b89836f39507314f0ba720bec2a0225cf08cfc78dbe3fcf37440ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Luksusmyymälät poistavat hintalaput korostaakseen tuotteen symbolista arvoa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T10:58:28Z",
-      "urls": [
-        {
-          "sign": "4476adb1824dc8bea17e9491efc025b7309ee8999a84c58cffa90437e074750b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Politiikan puskaradio -podcastissa kerrottiin Tarja Halosen lennolla aiheuttamista ongelmista – yogurt-purkki räjähti hänen rinnuksilleen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T11:04:11Z",
-      "urls": [
-        {
-          "sign": "ebe94d695f1b35397d3d54a3a526fdd2162e12ed69ec1dd53fabdf14320f9aa2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T11:05:59Z",
@@ -13570,6 +13457,119 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T04:03:20Z",
+      "urls": [
+        {
+          "sign": "f729eac26e010040435313f83a686db09ba806320d8ab5d764868b11d7242347",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syysmyräkkä tuo voimakkaita tuulia ja sateita Suomen yli",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T04:00:00Z",
+      "urls": [
+        {
+          "sign": "41fb68d14adae083fc2accc435967da1b52a890b80227416dc0669fd9f197da1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eduskunnan varapuhemies Risikko: Kansalaisaloitteet pitää käsitellä ajoissa – eutanasia-aloite jumissa jo 2,5 vuotta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T04:02:08Z",
+      "urls": [
+        {
+          "sign": "6ffe9e8986728a73d6d38d2fc6e4655832a9c1ff8d01e9e75df71b7a47494498",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Glen Kamara jättää Huuhkajat kesken Kansojen liiga -leirin QPR:n kutsusta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T04:00:19Z",
+      "urls": [
+        {
+          "sign": "f503832b9c6b862408e831870290162bb530ac802e04f7b0a7a0715d21acd36d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommentti: Trump saisi nöyryytyksen, jos Mark Carney voittaisi Nobelin rauhanpalkinnon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T04:00:38Z",
+      "urls": [
+        {
+          "sign": "63a1ad453613f2f71f2b94021c20a51bbc7ccfc75eea34589da51dc807557f73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä etsii sabotaaseihin tekijöitä sosiaalisessa mediassa – pienestä palkkiosta voi seurata 20 vuoden vankeusrangaistus",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T04:01:32Z",
+      "urls": [
+        {
+          "sign": "2ef249f024d229318579fbd884ea875e22d07ce1b4fc4564887dd3fe78cfc5b1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "56cb273dda352f0510dd547b9f6a693e639a4276e1625f144cbdb650ecb8b631",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
