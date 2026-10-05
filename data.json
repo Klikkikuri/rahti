@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T11:29:16Z",
+  "updated": "2026-10-05T14:45:00+03:00",
   "entries": [
     {
       "updated": "2026-10-05T09:57:20Z",
@@ -717,23 +717,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-01T17:10:47Z",
-      "urls": [
-        {
-          "sign": "02d3ac70570bae0ed98cdf7ec6b20425f1c3da0af87f055db47e7d32d25d96a7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STT:n aika loppuu kesken, käyttö kasvaa – maakunnat suunnittelevat seuraajaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-01T17:13:07Z",
       "urls": [
         {
@@ -1359,36 +1342,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f37006e6f6e0661a18f2f8c9df930760da62f66d81413f3ef676a2e2bdb256fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovioikeus velvoitti HOK-Elanton maksamaan yli 250 000 euroa kuolleen naisen vesivahingosta Helsingissä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "6be586b6e05027c51b7961d89e4e12f8a8f630c6cf49628b1c8007156a2e136b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS:n kahvitesti Helsingissä vertaili edullista ja kallista kahvia – hintaero jopa satoja euroja kilolta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-02T08:14:59Z",
@@ -13600,6 +13553,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T14:31:00+03:00",
+      "urls": [
+        {
+          "sign": "1d0b456f170dad96161e7546615a9322606a3a3b1a38a4f1cb956be8cca81146",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisin tainnutuskranaatti räjähti 15-vuotiaan mielenosoittajan kädessä Lensissä, Ranskassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-05T14:45:00+03:00",
+      "urls": [
+        {
+          "sign": "9b50c30550e37ffc88c770af66961dc118f012c660eb04aa1afc22b607c33c0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Apotti aloittaa muutosneuvottelut ensi viikolla – ne voivat johtaa 65 työntekijän irtisanomiseen ja jopa 300 työntehtävän muutokseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-05T11:35:33Z",
+      "urls": [
+        {
+          "sign": "8f579897117d029100107f4bb76e1ff829de2ce14385e8b297fac66fb1643b3e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Piia Vuorela ei hae Keski-Suomen hyvinvointialueen johtajan virkaa uudelleen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
