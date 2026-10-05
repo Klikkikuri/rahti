@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T15:21:26Z",
+  "updated": "2026-10-05T15:35:17Z",
   "entries": [
     {
       "updated": "2026-10-05T13:16:06Z",
@@ -768,21 +768,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T06:39:25Z",
-      "urls": [
-        {
-          "sign": "b66858b48a74f3cd7cd94fc1989d488f41e5080f0b2ff94fa7c377b04270b619",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Orpo tapasi turvallisuusviranomaisia kansanedustajien asuntoihin liittyvistä turvallisuushavainnoista",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-02T06:45:31Z",
       "urls": [
         {
@@ -1328,21 +1313,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T12:14:21Z",
-      "urls": [
-        {
-          "sign": "b26d4d1499e158a6bc0a62f7ef1faf8d81d1b34df58f735454838282b3a3da14",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi etsii dronella Keiteleellä kateissa ollutta 90-vuotiasta miestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T12:12:09Z",
@@ -4569,23 +4539,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T07:35:12Z",
-      "urls": [
-        {
-          "sign": "6fbe9a7a30b423eab219626f84214172c3a6c6fb13fee20eb621b382351dfb7a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdistynyt lista voitti Latvian vaalit 35 prosentin kannatuksella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-03T17:17:00+03:00",
       "urls": [
         {
@@ -5995,21 +5948,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T07:35:32Z",
-      "urls": [
-        {
-          "sign": "bd951ca31a1d3d7480d61c986e26d279e88e6f0c8424d40d8041c9b51ac3e7a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaan Energian ja Fortumin kaukolämpöasiakkaat voivat joutua maksamaan pakkaslisää talvisin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-04T07:32:09Z",
@@ -13576,6 +13514,68 @@
         }
       ],
       "title": "Perussuomalaiset eivät poistuneet bussista Puhoksen ostoskeskuksella – poliisi ei löytänyt uhkaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T15:31:41Z",
+      "urls": [
+        {
+          "sign": "27cf849686c92a126002d256690ca8a451bd6899ac26394bba7324fae7a92b25",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anne Ramsay ja Antti Luusuaniemi muuttavat yhteen Marbellassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T15:35:17Z",
+      "urls": [
+        {
+          "sign": "08e3677261fd56b655422a77e68bf4e87e8a2e24720a9ba60eed36b804015028",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "DVV:n mukaan Tanskan väestötietomurto on vakava ja vastaava voisi teoriassa tapahtua Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T15:33:06Z",
+      "urls": [
+        {
+          "sign": "91a11406c42810d1ad179506c0553fd7d85403cb9fc2b17525114fc9970237cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oliver Solberg ajoi ulos Sardinian MM-rallin viimeisellä erikoiskokeella, Elfyn Evans voitti maailmanmestaruuden 2026",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T15:33:28Z",
+      "urls": [
+        {
+          "sign": "f4f4485b2b967a607ccaec390cb092c282e57bbe9d6e91a3aeb47185837727ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Medvedev löi pallon katsojaa päin China Openin välierässä, hänet hylättiin ja Djokovic eteni finaaliin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
