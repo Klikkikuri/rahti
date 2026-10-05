@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T12:25:38Z",
+  "updated": "2026-10-05T12:35:00Z",
   "entries": [
     {
       "updated": "2026-10-05T09:57:20Z",
@@ -1381,23 +1381,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-02T11:44:00+03:00",
-      "urls": [
-        {
-          "sign": "3e7b9a05474ed6fbb16825f7331c6dd698282ff9964a20d66f6b8d243f7a896d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-02T08:34:38Z",
       "urls": [
         {
@@ -1571,23 +1554,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T09:15:07Z",
-      "urls": [
-        {
-          "sign": "0dccd8708ff9b20929316c4d389cc05a07847953f2ee963d707829c48e235d23",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija Jesse Joensuu pitää Barkovin turhautunutta reaktiota loukkaantumisen jälkeen huolestuttavana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T09:30:35Z",
@@ -6437,23 +6403,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T03:52:52Z",
-      "urls": [
-        {
-          "sign": "cd114ff6ed363a3f69dda9016e588d4534ed1f0f49b18244e0e91deda7de9445",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-04T03:45:35Z",
       "urls": [
         {
@@ -6484,21 +6433,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T04:04:29Z",
-      "urls": [
-        {
-          "sign": "e8777f96b2a0f88bc44e5213d67eabbb11aef5918870a966190f96e10e12bdd3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Göran Stubbin elämäkerta kertoo: Kanadan valmentaja Mike Keenan huusi 'you fucking Finns' Helsingin Hesperian yökerhossa vuonna 1979–80",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-04T04:00:35Z",
@@ -13593,6 +13527,81 @@
       ],
       "title": "Marine Alutech Oy voitti Saksan taisteluvenehankinnan – toimitti 15 Jehu‑taisteluvenettä, arvoltaan noin 175 miljoonaa euroa",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T12:33:41Z",
+      "urls": [
+        {
+          "sign": "dfbc497c3ed28c7dd7723b4def28781adb624a42d29825cc3bcbc86997734f15",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkija kuoli tuntemattomaan keuhkotautiin Irkutskissa – terveysviranomaiset valvovat lähes 200 ihmistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T12:30:30Z",
+      "urls": [
+        {
+          "sign": "5ae286162cb3b187bb3b03b628cb5473092c06a73aaa0e7797c0b6bf4bb79a45",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sampo Kaulanen palasi televisioon ja avautuu lastensa kiusaamisesta, pohtii mistä lapset oppivat huonoja tapoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T12:34:48Z",
+      "urls": [
+        {
+          "sign": "4e1d2962d4fae14323b7727faa20f67eb74e5711fc35e4000c900bd89cf57f6f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ääneseudun Moottoripyöräklubi järjesti Syyskyntö Mopoendurance 2026 -kilpailun Saarilahden tilalla Mämmellä 3.10.",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-10-05T15:32:00+03:00",
+      "urls": [
+        {
+          "sign": "47371dcb64437f5d497c9907ed0ffbb0da1aeb5adbf68b3aba5b769fb0252f7f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perhehoitoliitto irtisanoo kahdeksan vakituista työntekijäänsä loka–joulukuussa Stea-avustusleikkausten vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-05T12:35:00Z",
+      "urls": [
+        {
+          "sign": "8af31a0077304e34f7067c0be96101b25470c7540d0043d361341ba1b9dab1dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elintarviketeollisuus vaatii tieverkon kunnossapitoon lakia ja monivuotista rahoituskehystä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
