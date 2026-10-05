@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T14:45:00+03:00",
+  "updated": "2026-10-05T11:55:41Z",
   "entries": [
     {
       "updated": "2026-10-05T09:57:20Z",
@@ -1308,23 +1308,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "98ff0ab3763aef08814b6a50b532307e5eeedd9addffc6ce45da4f6ef616982e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-02T07:53:50Z",
@@ -6096,21 +6079,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T21:33:16Z",
-      "urls": [
-        {
-          "sign": "d0f9cc3193ef8de631ff797417daf8077c153a4bc4fea6e499546cb337e830aa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Florida Panthers asetti Aleksander Barkovin LTIR‑listalle – odotetaan vähintään kymmenen ottelua poissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T18:00:00Z",
@@ -13598,6 +13566,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T11:55:41Z",
+      "urls": [
+        {
+          "sign": "e102f29c99f5f040af133618be6e81376292523076351d4e80f9fe8123b17d6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Stadin derbyn lipputilanne: 9 500 lippua myyty, noin 4 000 paikkaa vielä vapaana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T14:51:00+03:00",
+      "urls": [
+        {
+          "sign": "d92cadc1bceb6d096bb62128a6b5c31c266745f258f85349d986b565a71e972f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Drooni osui romanialaiseen viljalaivaan Mustallamerellä maanantaina, ainakin kaksi kuollut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
