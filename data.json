@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T09:10:26Z",
+  "updated": "2026-10-05T09:22:39Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -715,21 +715,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-01T14:28:02Z",
-      "urls": [
-        {
-          "sign": "7ff04a44a782e52e0bedd6fc4966bc7f72f3ed410767388752c0e8824f6be11e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump katuu Yhdysvaltain korkeimman oikeuden tuomareiden nimittämistä – tuomarit ovat äänestäneet häntä vastaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T14:29:47Z",
@@ -1585,23 +1570,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T07:07:10Z",
-      "urls": [
-        {
-          "sign": "d7ab962d38b8d303e2ab3808f976817b17120df39a722595c385f0fce2afab7b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Petteri Orpo tapasi turvallisuusviranomaisia kansanedustajien kotien tunkeutumisepäilyjen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T07:21:45Z",
@@ -6548,23 +6516,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T17:14:26Z",
-      "urls": [
-        {
-          "sign": "d7f9955a3da0fbfae11c4ec1443ba14262c5f9a03033acde7b8cf84925f7050a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkimus: Runsas ultraprosessoitujen elintarvikkeiden käyttö lisää monien sairauksien ja kuoleman riskiä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T17:22:03Z",
@@ -13592,6 +13543,55 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T09:22:39Z",
+      "urls": [
+        {
+          "sign": "db9edbb3b61901f559ee112ce9537fdd1b105e0155b8aa7705f6d44bdb1c0f59",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saudi-Arabian öljyputken toiminnasta ristiriitaisia tietoja – Reutersin mukaan kuljetukset jatkuvat normaalisti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T09:21:09Z",
+      "urls": [
+        {
+          "sign": "5114f0b7c0672a2874e8c57e05615f1cd3df1e435300119050b499037008bb91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilöauto törmäsi rakennuksen seinään Mäntsälän keskustassa – mediheli hälytettiin paikalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T09:17:09Z",
+      "urls": [
+        {
+          "sign": "0812775efb15b3ae09a0fbacc7206943d01998d5cae313762f54d51bae1d3766",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Riisipiirakan kysyntä kasvaa – tehtaat valmistavat satoja miljoonia vuodessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
     }
