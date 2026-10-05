@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T05:38:18Z",
+  "updated": "2026-10-05T06:03:19Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -761,23 +761,6 @@
       "title": "Police investigate suspected intrusions at Finnish MPs' homes",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T12:22:54Z",
-      "urls": [
-        {
-          "sign": "12dd7113e19882be9eb58997d53ad8ddb71e392aca08c7cbbd4c74ca3d6c96dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus keskeytti Christa Piken teloituksen Tennesseessa kahden myrkkyruiskeen epäonnistuttua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -6475,21 +6458,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-03T12:49:32Z",
-      "urls": [
-        {
-          "sign": "a9b1c2b44db0a39135093799152b2a86f265de00d3e112f6f09666dac77d512d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tennesseen kuvernööri keskeytti teloitukset Christa Piken epäonnistuneen teloituksen jälkeen – toinen epäonnistunut tapaus tänä vuonna",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-03T12:52:41Z",
       "urls": [
         {
@@ -6506,23 +6474,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T13:13:06Z",
-      "urls": [
-        {
-          "sign": "1ea7e2549d03700e587914f8b1704d5da3b4035da778c005be70361a7a843993",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkija Sonja Miettinen varoittaa vammaisten aseman heikentyneen Orpon hallituksen leikkausten vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T09:07:25Z",
@@ -13572,6 +13523,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T06:00:29Z",
+      "urls": [
+        {
+          "sign": "3c79a514b3f0769317e91b3f3b4318d8aad45b2d78187b9b49fada5bb602e911",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainalainen kamppailu-urheilija Volodymyr Holubiev lähti Suomesta saatuaan karkotuspäätöksen ja pelkää sotaan joutumista",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T06:03:19Z",
+      "urls": [
+        {
+          "sign": "75a99e19ecd2ea669546237b124e3604943962eabbbff640fc99d9036d843fe6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OKM myönsi 5,7 miljoonaa euroa kuntien väliseen kouluyhteistyöhön tasa-arvoisten koulutusmahdollisuuksien ja opettajien saatavuuden parantamiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T06:01:20Z",
+      "urls": [
+        {
+          "sign": "16572eb02146ef4318e41f0fada152a333602ee50c711c049885c8215640e901",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin hallinto-oikeus hylkäsi Dina-koiran omistajan valituksen – lopettamismääräys jää voimaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
