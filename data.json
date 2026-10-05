@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T04:03:20Z",
+  "updated": "2026-10-05T04:29:07Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -747,21 +747,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-01T11:59:42Z",
-      "urls": [
-        {
-          "sign": "d8b43cdbbf72b00095ea4f6f67dc7854bb3450b0ac4966d3ba997f00dc419e3c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nokian Mikko Hautala käsittelee tekoälyn datakeskusten energian ja veden käyttöä sekä geopolitiikkaa Ykkösaamun haastattelussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T12:08:06Z",
@@ -1607,23 +1592,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9cae1755d6f368667b2065f6a9af5aa76c0d7f77c7946ff5c270e49a14adf239",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-02T00:00:01Z",
       "urls": [
         {
@@ -1748,21 +1716,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T02:59:11Z",
-      "urls": [
-        {
-          "sign": "e91b43676142bfe996bea07c9505ba67587c274460e8fc11110792fc5c442def",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduskunta äänestää hallituksen ja puolustusministeri Antti Häkkäsen luottamuksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T03:02:33Z",
@@ -13570,6 +13523,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-05T04:29:07Z",
+      "urls": [
+        {
+          "sign": "6bd2d34921df3d1958fe9b21a0e4b6e0f64bf1f56a80e48f6bbaf65b56d76847",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jorge Jesus antaa Cristiano Ronaldolle suoran viestin maajoukkueen paluusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-05T07:26:00+03:00",
+      "urls": [
+        {
+          "sign": "44da20578a724456ae1d1a08f5063900dc5618de3a5bae61f60ca4b05958b5ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois-Karjalassa 6–8-vuotiaiden poikien adhd-lääkitys oli vuonna 2025 lähes viisinkertainen Helsinkiin verrattuna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-05T04:27:34Z",
+      "urls": [
+        {
+          "sign": "24e97bb0f26e406c64f5a9b303cdbd628fe932d73677d2639d752352937181e7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vanhemmat poistavat tekoälyllä vesileimat koulukuvista ja käyttävät kuvia luvatta – kuvaajat jäävät ilman korvausta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
