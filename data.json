@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T02:14:03Z",
+  "updated": "2026-10-05T02:30:36Z",
   "entries": [
     {
       "updated": "2026-10-04T19:36:54Z",
@@ -776,21 +776,6 @@
         }
       ],
       "title": "Pakistanin asevoimat iskivät Afganistaniin – Taliban kertoo siviiliuhreista, Pakistan väittää taistelijoiden kuolleen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-01T11:32:10Z",
-      "urls": [
-        {
-          "sign": "063ab38e1bac2d2621096a39b5268da1327cc04dc73344ebf7c7420b34b8d6b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etiopian hallitus ja kapinalliset taistelevat – uusi sisällissota uhkaa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -6559,21 +6544,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-03T09:36:46Z",
-      "urls": [
-        {
-          "sign": "d4562b467f1ef72843ac1db9efc44c8cd3f2a4de31f0d0467d190b823a33f3c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Baari romahti La Riojassa Espanjassa lauantaiaamuna – 11 ihmistä vietiin sairaalaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-03T11:25:34Z",
@@ -13539,7 +13509,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-05T02:11:18Z",
+      "updated": "2026-10-05T02:15:11Z",
       "urls": [
         {
           "sign": "c1ef235bf30a7bb4e4b65c356ee3fa8184b551364ef27969e2fb047d51e3127f",
@@ -13569,6 +13539,40 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T02:30:35Z",
+      "urls": [
+        {
+          "sign": "846903edebc06ab1023c8f574177e71afcc2de7325a258aa83bc91a89042c0f4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkivat opettajat varoittavat: kotiopetus voi johtaa oppimisen puutteisiin ja sosiaaliseen eristäytymiseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T02:30:36Z",
+      "urls": [
+        {
+          "sign": "9da018e2a824bc3e0bd2441b70b6545b886cceab74f09149f84f771352c29696",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Digita katkaisee televisio- ja radiolähetykset Hämeenlinnassa tiistaina 6. lokakuuta huoltotöiden vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
