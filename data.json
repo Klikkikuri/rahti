@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-05T12:14:04Z",
+  "updated": "2026-10-05T12:25:38Z",
   "entries": [
     {
       "updated": "2026-10-05T09:57:20Z",
@@ -715,24 +715,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-01T17:32:38Z",
-      "urls": [
-        {
-          "sign": "c93a694f291dca9ea38576aab7e9900bcce9fcd25b0958928e24b1d47ed974a8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Emirates uskoo Suomen matkailuvaltteihin ja avasi torstaina päivittäisen lennon Helsingin ja Dubain välillä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-01T18:04:56Z",
@@ -6387,21 +6369,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-04T02:10:17Z",
-      "urls": [
-        {
-          "sign": "c8326f32499dd719d672ae107f22ce7982ddff04f491f3976007e31e8c0e78ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "New Yorkin kuvernööri Kathy Hochul vaatii Cornellin yliopiston joukkoraiskausepälyn uudelleentutkintaa ja lakia muutettavaksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-04T02:30:35Z",
       "urls": [
         {
@@ -6419,23 +6386,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-04T03:00:08Z",
-      "urls": [
-        {
-          "sign": "c273c30a5e24481297fac7abf947cab7bb398361a9050366b0f0440e31ef2152",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-04T06:00:00+03:00",
       "urls": [
         {
@@ -6451,21 +6401,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T03:00:32Z",
-      "urls": [
-        {
-          "sign": "bef83bc51acf4f1f6f71f7d336029dc47377d53f80bf2452b8ff5638ed4381b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirja: Kikka yritti levyttää ronskin kappaleen 2000-luvulla mutta terveysongelmat estivät nauhoituksen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-04T03:01:00Z",
@@ -6500,21 +6435,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T03:30:12Z",
-      "urls": [
-        {
-          "sign": "888d2d6c05245f9e811c7684eeb341977f4d070d58fcf9ec336dc31c32d6c710",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espoon Westendin luksuskerrostalon rakentaminen viivästyy – vain noin neljännes asunnoista varattu",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-04T03:52:52Z",
@@ -13595,6 +13515,86 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-05T12:25:38Z",
+      "urls": [
+        {
+          "sign": "0050a43dd0db5f5f32159a1d384093c63f3b5ccd49e57c30f0b3ea68d2689627",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miika Elomon omaiset kiistävät Ranskan syyttäjän yliannostusväitteen ja viittaavat Suomen viralliseen kuolintodistukseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T12:23:25Z",
+      "urls": [
+        {
+          "sign": "1b7f312d93923c0658c44f3f16ccb4671b0ceb4188627f7d070b871a0bf83d9f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ei aloita esitutkintaa Kaskisten kaupunginjohtajan Markku Lumion käytöksestä – rikosepäilyä ei löytynyt",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-05T12:24:19Z",
+      "urls": [
+        {
+          "sign": "9b2c080fd1faef93f5598242f28de8c4fd4b8ac1ef0b5ef44526f8f2ebafbfae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL:n ylilääkäri Leif Lakoma kertoo, että Venäjän epäilty rutto ei ole vahvistettu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T12:20:44Z",
+      "urls": [
+        {
+          "sign": "68b4871d30b79b518a3af34c052d2cc51419651200b495c0e9de42eba6fa1590",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi suorittaa suurta operaatioita Vantaan Asolassa – alue eristetty",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T12:20:54Z",
+      "urls": [
+        {
+          "sign": "39260ad4040b6551f4ff0d3c7e7b2895b4e92c0db357309c1d88dc1cf9b0ad85",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marine Alutech Oy voitti Saksan taisteluvenehankinnan – toimitti 15 Jehu‑taisteluvenettä, arvoltaan noin 175 miljoonaa euroa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
