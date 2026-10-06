@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T00:15:59Z",
+  "updated": "2026-10-06T03:41:00+03:00",
   "entries": [
     {
       "updated": "2026-10-05T19:57:21Z",
@@ -1699,21 +1699,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T22:25:00+03:00",
-      "urls": [
-        {
-          "sign": "4042235b62478cdea290147c8582959bd46bce8fd8c8abe8ddff687b2494aea8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian syyttäjä syyttää Ann Widdecomben murhasta epäiltyä myös terroritekojen valmistelusta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-02T19:49:00Z",
@@ -13609,6 +13594,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T03:41:00+03:00",
+      "urls": [
+        {
+          "sign": "4c0694eebdd8ff3fcea6fe5b3655fb71d4bf4ab7d519c26b2e7ec6812077c5b8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jemenin hallitus väittää vallanneensa öljykaupalle tärkeän Bab al-Mandabin salmen huthikapinallisilta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
