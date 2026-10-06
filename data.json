@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T17:45:00Z",
+  "updated": "2026-10-06T20:54:00+03:00",
   "entries": [
     {
       "updated": "2026-10-06T17:44:24Z",
@@ -764,40 +764,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-03T17:29:37Z",
-      "urls": [
-        {
-          "sign": "c135f560ccb75f764c6eb0d263c128f0ef696512385da1d11bcd360fef14ae4a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "JYP-valmentaja Petri Matikainen vitsaili entisen pelaajansa Lukas Haudumin hattutempusta: 'Ei tarvitse tuolla tavalla kostaa'",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T18:00:00Z",
-      "urls": [
-        {
-          "sign": "03c4753afef50352fa7b2db967f72a7f165554c036eca595966158c869e4bf36",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etsivä poisti maskinsa ensimmäisenä Masked Singer Suomi -kauden avausjaksossa – paljastui Seksikäs-Suklaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-03T18:06:44Z",
       "urls": [
         {
@@ -846,23 +812,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T21:50:00+03:00",
-      "urls": [
-        {
-          "sign": "8ee7eed5ccc328be109bee82fdc914b4cffb7893b0c8a7d6a426ea469d4bc9ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-04T16:09:00+03:00",
@@ -5349,21 +5298,6 @@
       ],
       "title": "THL:n ylilääkäri Leif Lakoma kertoo, että Venäjän epäilty rutto ei ole vahvistettu",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-05T12:20:54Z",
-      "urls": [
-        {
-          "sign": "39260ad4040b6551f4ff0d3c7e7b2895b4e92c0db357309c1d88dc1cf9b0ad85",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marine Alutech Oy voitti Saksan taisteluvenehankinnan – toimitti 15 Jehu‑taisteluvenettä, arvoltaan noin 175 miljoonaa euroa",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13688,7 +13622,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-06T17:31:16Z",
+      "updated": "2026-10-06T17:48:21Z",
       "urls": [
         {
           "sign": "da5d7c1b51fdd430731a8b3a5daad19dbf9506c619cc457c8c15fa11926e54e2",
@@ -13698,7 +13632,7 @@
         }
       ],
       "title": "Poliisi ampui aseistautuneen miehen kuninkaanlinnan lähellä Tukholmassa tiistaina",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13747,6 +13681,68 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T17:47:58Z",
+      "urls": [
+        {
+          "sign": "a4fd60bf0ee67d8529c123967ba62bba95ac99a9e39c9f2327a162d620e014dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Aleksi Jokela: Myrsky oli voimakkaimmillaan Pohjanmaan rannikolla, seuraava myrsky odotettavissa perjantaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T20:54:00+03:00",
+      "urls": [
+        {
+          "sign": "27a421db15eab0441689d3e719dc56bbba9f2e0c7619265991def8a37067438f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tukholman poliisi ampui miehen Kuninkaanlinnan lähellä tiistaina iltana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T17:50:55Z",
+      "urls": [
+        {
+          "sign": "7da3cd1ae9a117541ffd99cb3e050ac51218256366d78ace7115580130315817",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelensky varoittaa: Venäjä valmistautuu laajamittaiseen hyökkäykseen Ukrainaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T17:45:31Z",
+      "urls": [
+        {
+          "sign": "30a2bea09b34f44dabb727f8a9c3238f8ff68300bc204ee6a1fe2b5060f52947",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilana Sella kertoo Apu-lehdelle, että äidin kuolema 28. syyskuuta helpotti perhettä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
