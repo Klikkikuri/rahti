@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T02:16:01Z",
+  "updated": "2026-10-06T02:42:00Z",
   "entries": [
     {
       "updated": "2026-10-05T19:57:21Z",
@@ -751,23 +751,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T08:49:04Z",
-      "urls": [
-        {
-          "sign": "fcb527f080a345538f92a632f44598bddfcb9c82ff96b124aa51fd1b079fd32e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keski-Uudenmaan hyvinvointialue valmistelee säästöohjelmaa: palvelut keskitetään suurempiin yksiköihin ja henkilöstöä vähennetään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-02T08:52:18Z",
       "urls": [
         {
@@ -1441,23 +1424,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-02T16:43:06Z",
-      "urls": [
-        {
-          "sign": "059f0f8af82b4096520890f78133a0cb585d8d364442125b2abf7741f9f814ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sami Pajari harmitteli yhden sijan mahdollista merkitystä Sardinian MM-rallin perjantain jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-02T18:54:38Z",
       "urls": [
         {
@@ -1946,23 +1912,6 @@
       "urls": [
         {
           "sign": "14b3414cce5dcbbc6b5f235d3d8c5fa782deb36a0ee7ea7a6649da01c01a6645",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "857ff74eae31ed48a462887db03ca1878e05a3fb99a81cf15111f59b8cc91307",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -5901,21 +5850,6 @@
       ],
       "title": "Oliver Solbergin ulosajo maksoi mestaruuden, mutta toi rallin MM-sarjaan kaivattua jännitystä",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-04T14:37:50Z",
-      "urls": [
-        {
-          "sign": "2386e2241402d2dbb1d2795a8a6736ee4f2143b79f6aca64f28e5bee370f9e02",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Historioitsija Michael Kimmage: Trumpin hallinto ei hyväksy Venäjän tulitauon ehtoja, jotka uhkaavat Ukrainaa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13612,6 +13546,71 @@
       "title": "Syyttäjä: Vantaan matkasellimurhaaja yritti murhata toisen vangin kesäkuussa 2025",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T05:36:00+03:00",
+      "urls": [
+        {
+          "sign": "614e66c468954435c1636cfcae575c2f34b3f872ec3304bb35dcf6017d1e3d62",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump hyväksyi Nidal Hasanin teloittamisen ampumalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T02:42:00Z",
+      "urls": [
+        {
+          "sign": "b3c3ce35e41d2aab5e08532180bbc85d508eb766d8138848014d4009c37d4a2e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin Qatarilta saama Air Force One poistetaan käytöstä kosmeettisten parannusten vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T02:30:42Z",
+      "urls": [
+        {
+          "sign": "34b78bef5edbabef2dad5e77b9c07bac587101603657df50f3988a35e93cdd13",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mikko Rantanen maalasi Dallas Starsin voitossa San Jose Sharksia vastaan, selostaja ylisti osumaa pyhäksi jysäykseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T02:31:35Z",
+      "urls": [
+        {
+          "sign": "1ceaaaf61b9384e2bffb81efddf4251957fa4248f9b5a72dc64741e11870a00c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opetusministeri Adlercreutz: Lapsilla on oikeus musiikin opetukseen – se on osa kulttuurihistoriaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
