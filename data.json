@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T07:00:00+03:00",
+  "updated": "2026-10-06T04:09:20Z",
   "entries": [
     {
       "updated": "2026-10-06T02:49:03Z",
@@ -1299,23 +1299,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-02T18:54:38Z",
-      "urls": [
-        {
-          "sign": "23d510d578ded1b0c2ee56549140ac0bd5a36f582490d0fe1a1c20a9d9e1dd08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukon puolustaja Nuutti Viitasalo sai ulosajon poikittaisesta mailasta Ässien Sakari Kostilaisen kasvoihin Satakunnan derbyssä Porissa – Lukko voitti 3–0",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-02T16:50:23Z",
       "urls": [
         {
@@ -1361,40 +1344,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T19:20:29Z",
-      "urls": [
-        {
-          "sign": "66dcd8be855d82f87b0bba935117179a0a68d571c33fd5e60f00af99bfbae5c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jürgen Klopp kutsuu AfD:n kritiikkiä Saksan maajoukkueen kokoonpanosta idioottimaiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T18:57:04Z",
-      "urls": [
-        {
-          "sign": "d9e640ff34957f569e7c4fea37d9fb8216c0928ca99b46d2431824e63ac5b3a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan lukioprotestit ovat sulkeneet satoja kouluja ja muuttuneet väkivaltaisiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-02T19:49:00Z",
@@ -5728,21 +5677,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T15:28:08Z",
-      "urls": [
-        {
-          "sign": "94bec23377e42a94b2e585c242d2e2cd0edb6a55470f5e508735fd8f1cc850e5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuija Kortelainen lainaa rahaa lapsiltaan eikä voi ostaa diabeteslääkkeitään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-04T18:32:00+03:00",
@@ -13609,6 +13543,71 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T04:04:29Z",
+      "urls": [
+        {
+          "sign": "c1d7f9e28a5b361f8b1794228d4675a9ec000dca8735013b6127bedc9a2ff6e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Demokraatit johtavat gallupeja – Trumpin kannatus laskee ennen Yhdysvaltain välivaaleja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T04:01:00Z",
+      "urls": [
+        {
+          "sign": "15f10ccada01696641f7542e54d07165aa021cdcdd49d36a06d9bc27790f84b7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommunistit huusivat 'alas tsaari' Moskovassa – poliisi pidätti ainakin 65 mielenosoittajaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T03:56:39Z",
+      "urls": [
+        {
+          "sign": "b3aada200a93d60a87c214829356e576b1224820b532d80ed9cbff62dbd25a3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paul Maurice kiistää huhun Barkovin 10–12 viikon sairauslomasta – lisätietoa tiistaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T04:09:20Z",
+      "urls": [
+        {
+          "sign": "eff9a78100d599a551d73540b69b6e377619b030261a52e6df804f725928853e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bussionnettomuus Ruotsin Smoolannissa johti kuolemaan ja useisiin loukkaantumisiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
