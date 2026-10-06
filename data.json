@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T03:41:00+03:00",
+  "updated": "2026-10-06T02:03:09Z",
   "entries": [
     {
       "updated": "2026-10-05T19:57:21Z",
@@ -749,21 +749,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T08:26:52Z",
-      "urls": [
-        {
-          "sign": "acecb802aded1dbb4aaea63a1342248fbcb79ba14271fe79eaf3481721ea8c0f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Protestit johtivat yli 400 oppilaitoksen sulkemiseen Ranskassa perjantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-02T08:34:38Z",
@@ -5839,21 +5824,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T14:33:24Z",
-      "urls": [
-        {
-          "sign": "aab176bc9597d26416150767ca0b403c770b58bb3cfd2a009744a0e7f56e5290",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen jääkiekkapäällikkö Timo Jutila asettuu kokoomuksen ehdokkaaksi Pirkanmaalla – Keskinen arvioi mahdollisuudet hyviksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-04T13:35:43Z",
@@ -13608,6 +13578,40 @@
       "title": "Turun ortodoksinen seurakunta vaatii Turun kaupungilta neljän miljoonan euron korvauksia kirkkorakennuksen vaurioista",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T02:03:09Z",
+      "urls": [
+        {
+          "sign": "fa7b94f9d7aaf846c530e77a402e3c13d11bb7c75ac54cb4636988596b026dc5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Florida Panthersin päävalmentaja Paul Maurice tyrmäsi huhun Aleksander Barkovin 10–12 viikon poissaolosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-05T17:52:10Z",
+      "urls": [
+        {
+          "sign": "34d948b462c66b3d8d90c28b644cee0915543c33c8a004b5839690b18c6dee2e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näätämön palaneen kaupan uudisrakennus sai poikkeamisluvan, mutta polttoainesäiliöiden poisto ja maaperätutkimus viivästyttävät töitä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
