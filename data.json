@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T07:44:18Z",
+  "updated": "2026-10-06T08:00:08Z",
   "entries": [
     {
       "updated": "2026-10-06T06:56:29Z",
@@ -764,40 +764,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T12:57:31Z",
-      "urls": [
-        {
-          "sign": "12cde2eb795074996ca7f267fcfe4c0940e51182d12342fb3fb04befa85273a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Useat kansanedustajat epäilevät luvattomia käyntejä kodeissaan – eduskunta selvittää ilmiötä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T13:04:17Z",
-      "urls": [
-        {
-          "sign": "fec7f41aa226fc77441fa12448ef9c707f832394c0570d545437f869d16e8af2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat pyysi EU-maita vapauttamaan dieselvarastoja – Suomi ei saanut pyyntöä vaikka varastot ovat hyvät",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-02T13:14:12Z",
@@ -5696,21 +5662,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-04T19:00:26Z",
-      "urls": [
-        {
-          "sign": "65ab6d704366e740e55a1db9dce9f63bb7f998408425527c85fff7c8cba690cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jani Nyman keräsi 5+1 pistettä kahdessa AHL-ottelussa ja johtaa sarjan pistepörssiä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-04T20:55:54Z",
       "urls": [
         {
@@ -7316,7 +7267,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-05T07:07:36Z",
+      "updated": "2026-10-06T08:00:08Z",
       "urls": [
         {
           "sign": "2d7b95e797aaf7f3b7849873bb0bc4c967691524c6de7456782d692d94a467b5",
@@ -7325,9 +7276,11 @@
           ]
         }
       ],
-      "title": "Bermudalta Bostoniin matkalla ollut ambulanssilentokone katosi – kuuden ihmisen oletetaan kuolleen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": "Ambulanssilentokone Bermudalta Bostoniin matkalla katosi – kuuden ihmisen oletetaan kuolleen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13094,7 +13047,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-06T07:44:18Z",
+      "updated": "2026-10-06T07:58:09Z",
       "urls": [
         {
           "sign": "c958b3ecb144e29cd0d6d9fe9b7e3f204c5ee0dbae28eb023fe203422491bf14",
@@ -13103,7 +13056,7 @@
           ]
         }
       ],
-      "title": "Espanjan kuninkaallinen pari aloitti valtiovierailun Suomessa tiistaina",
+      "title": "Espanjan kuninkaallinen pari aloitti valtiovierailun Suomessa tiistaina Presidentti Alexander Stubbin isännöimänä",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13649,6 +13602,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T07:53:25Z",
+      "urls": [
+        {
+          "sign": "b5c5b43db3dc11d78492ba0270c0e583c11d7b87864bac260ce6c89a6139663a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lahden kouluissa löytyi äärioikeiston rasistisia tarroja – lapset ja nuoret levittävät Sinimustan liikkeen materiaalia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T07:45:29Z",
+      "urls": [
+        {
+          "sign": "eebb1297076f2978b127390b4565765e660e251855086b89c18d2064d0c7b188",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jiangsu Installation Finland (JSI) lupaa korjata kiinalaisten työntekijöiden työehto- ja majoitusongelmia sekä erottaa sääntöjä rikkoneet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T07:57:51Z",
+      "urls": [
+        {
+          "sign": "77183593e38995f17756eba555003902814fe23510c59f8ed9cda180083b3f4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hakijat ovat hitaasti hakeneet romutuspalkkiota – 1 200 on saanut lähes kolme miljoonaa euroa, yleisin uusi auto Toyota",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
