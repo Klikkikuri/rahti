@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T04:56:14Z",
+  "updated": "2026-10-06T05:14:11Z",
   "entries": [
     {
       "updated": "2026-10-06T02:49:03Z",
@@ -783,21 +783,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-02T10:56:37Z",
-      "urls": [
-        {
-          "sign": "8952781f5c89e48b44ce94e69802ad4450937397643ed7ba43dd4a1e48fdf4a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porvoossa kuului perjantaina voimakas jysähdys – ilmavoimat epäilevät äänenvallin rikkoutumisen johtuneen rutiinilennosta Suomenlahden yllä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-02T11:07:50Z",
       "urls": [
         {
@@ -1484,23 +1469,6 @@
       "title": "Sahateollisuus ry katsoo, että metsätalous ja ennallistaminen voidaan sovittaa yhteen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b81436a3cfed2807ab0db389e900e4f9b37bb79b9a1afcf9ee9b7351f868dfac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5747,23 +5715,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T15:50:47Z",
-      "urls": [
-        {
-          "sign": "bcb38844d07402f4221a10075e8f86de81ef5bf78f399854e901ac916f006caf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Simon Edvinsson jätti Detroit Red Wingsin ja harjoittelee Ruotsissa sopimusneuvotteluiden ollessa jäissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-04T16:10:31Z",
       "urls": [
         {
@@ -5791,21 +5742,6 @@
         }
       ],
       "title": "Oliver Solberg voitti Sardinian MM-rallin mutta menetti mestaruuden Elfyn Evansille ulosajon vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-04T16:04:42Z",
-      "urls": [
-        {
-          "sign": "0fab3afd8cfd6ee0deeed75b013a99e6e95d3e81eb8e73b14d46c487b84057d3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pia Penttala ja Ari juhlivat 30‑vuotishääpäiväänsä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13610,6 +13546,74 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T08:04:00+03:00",
+      "urls": [
+        {
+          "sign": "50e894870b8a9610c6181c8cb28db826aa27aa5076b7939ab23f7131ef097da1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T05:04:31Z",
+      "urls": [
+        {
+          "sign": "cf1a295a266b46beaf93b15caeee6ec62c68976372f5d23352cfaf61e3915e06",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "8f241a3b9eab66484c1c719a8ee8225333df3399e5df181ce4a7d123611aa8be",
+          "labels": []
+        }
+      ],
+      "title": "Käräjäoikeus hylkäsi lapsiperheen vahingonkorvausvaatimuksen 137 reiän poraamisesta vuokra-asunnossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T05:04:12Z",
+      "urls": [
+        {
+          "sign": "9708a849901e65d8eacde2b6763fb7cdfefa7875a66ee8be3a725b2030b1660a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lahden kaupunki keskeyttänyt kaavahankkeita rakentamisen hiljentyessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T05:14:11Z",
+      "urls": [
+        {
+          "sign": "160638a49f151e46fa8dcf0a2b7e530ffdb044d2481c994386a5a07290bc2b90",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin mukaan Yhdysvallat auttaa Venäjää siperialaisen ruttotutkimusinstituutin työntekijän kuoleman jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
