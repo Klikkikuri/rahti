@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T13:58:00+03:00",
+  "updated": "2026-10-06T11:11:25Z",
   "entries": [
     {
       "updated": "2026-10-06T06:56:29Z",
@@ -749,53 +749,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T22:28:15Z",
-      "urls": [
-        {
-          "sign": "b6108666a58a54b253e3d5a204d6040047f95ae5f6cdee77a3038595b0d3ecd7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjois-Korea laukaisi ohjuksen itärannikoltaan mereen, ja ammus laskeutui Japanin talousvyöhykkeen ulkopuolelle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T22:47:47Z",
-      "urls": [
-        {
-          "sign": "d802b6e0cfbc68e4fff548a8f805fb07c7389ea3eb7f1df288d95d9774b38c62",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Latviassa parlamenttivaalit tänään – ennakkoääniä jo yli kymmenesosa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-02T23:38:09Z",
-      "urls": [
-        {
-          "sign": "21f8de399dae1c15fa753892147ee3919aae7d22b5e4b5c696633721bc48ea8b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump kiitti Eurooppaa dieselin hinnan hillitsemiseksi tehdystä G7-päätöksestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-03T00:29:24Z",
       "urls": [
         {
@@ -1016,21 +969,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-03T08:28:25Z",
-      "urls": [
-        {
-          "sign": "e8ecc9c3c6174a9dc4bea6ef4e2eff7025458ab6a6d74334062030ee07706b43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SJK:n kapteeni Roope Paunio siirtyy Ilvekseen kauden jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-03T08:41:13Z",
@@ -5396,38 +5334,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-05T04:36:36Z",
-      "urls": [
-        {
-          "sign": "19fd7fedc7200b9033a4c0a9b00dea8cfcea196252f76ec8c26bc21378557e18",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jani Halme ja Claudia Ketonen putosivat Tanssii tähtien kanssa -kilpailusta – katsojien reaktiot jakautuivat pettymykseen ja hyväksyntään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-05T04:37:13Z",
-      "urls": [
-        {
-          "sign": "d671df15d8ad5a5e541df8117884b6c72aa7589cb9e5dcb556eefb7ca962370b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomainen: Linkosuon leipomossa sietämättömät jauhopölyaltistumiset vaativat välittömiä toimenpiteitä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T04:43:52Z",
@@ -10305,7 +10211,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-06T10:22:48Z",
+      "updated": "2026-10-06T11:04:59Z",
       "urls": [
         {
           "sign": "f93fe7114d9d7d59f626b7e51498c37d1297575c9d7c44a0098e3a715e6c70a9",
@@ -10314,9 +10220,11 @@
           ]
         }
       ],
-      "title": "Voimakkaat tuulet katkaisivat sähkön yli 8 000 kodista Suomessa",
+      "title": "Voimakkaat tuulet katkaisivat sähön yli 8 000 kodista Suomessa tiistaina",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -12356,7 +12264,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-06T07:35:30Z",
+      "updated": "2026-10-06T11:10:57Z",
       "urls": [
         {
           "sign": "e0b9e1689ef4322c28176f85962d29fec8a43c857e29c0ad2d3a7432a2df643d",
@@ -12365,8 +12273,8 @@
           ]
         }
       ],
-      "title": "Meteorologi Joonas Koskela varoittaa: Tiistain voimakkaat tuulet yltyvät iltapäivällä ja aiheuttavat sähkökatkoja yli 5 000 taloudessa",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Tuuli aiheutti sähkökatkoja yli 9 500 taloudessa ja lisäsi pelastustehtäviä Suomessa tiistaina",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -12885,7 +12793,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-06T13:58:00+03:00",
+      "updated": "2026-10-06T14:09:00+03:00",
       "urls": [
         {
           "sign": "b193ba690f41c7df0d49e0d18bb70b0f542c0e1181219fa208402c4cbdaa0585",
@@ -12894,7 +12802,7 @@
           ]
         }
       ],
-      "title": "Droonit upottivat kauppa-aluksen ja vaurioittivat toisen Mustallamerellä Bulgarian edustalla tiistaina, miehistö kateissa",
+      "title": "Droonit upottivat kauppa-aluksen ja vaurioittivat toisen Mustallamerellä Bulgarian edustalla tiistaina – miehistö kateissa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13696,7 +13604,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T10:54:27Z",
+      "updated": "2026-10-06T11:01:44Z",
       "urls": [
         {
           "sign": "6824c48a7a5d5e1ee6c2a0df16b7fe35a8a9a395401e7d58fd136bf1a97fc9db",
@@ -13708,6 +13616,106 @@
       "title": "Elina Valtonen: Bulgarian alueen drooni-isku upotti Togo-lippuisen laivan – tilanne todella vakava",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T11:07:18Z",
+      "urls": [
+        {
+          "sign": "84521a2b79e90d8e862c8f44d7892f983d1d02dd07faf1d6eb8cddbe1b4ed61a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itä-Uudenmaan poliisi tuomittiin virkavelvollisuuden rikkomisesta – ei lähettänyt partiota itsetuhoisen naisen luo",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T11:11:25Z",
+      "urls": [
+        {
+          "sign": "1d06abd7323b1d7456a49e2d5cf7725b04f3c4e309993de76343f8d7e3113edd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan kuninkaan Felipeä ihannoiva Pirjo Vasama saapui Kauppatorille ajoissa kuninkaallisen vierailun alkuun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T11:09:15Z",
+      "urls": [
+        {
+          "sign": "0c9a355f320b4a2a292b5969f3f1ee1a98447ff314deb10f453511799efb144e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vaasan bussilinjan 30 reitti muuttuu keskustassa 19.10.2026 – koululaiset siirtyvät Raastuvankadun pysäkille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T11:07:19Z",
+      "urls": [
+        {
+          "sign": "904ed74ecdba1fac833ebbcacaa9f00af3346646d904346e494bb730d8c3d5e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rubio korostaa Islannin merkitystä Yhdysvaltojen turvallisuudelle Pohjois-Atlantilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T11:06:44Z",
+      "urls": [
+        {
+          "sign": "87c7f9934d5e1afafc0b72c20bc2c5723d2b394ca60823567d450ac225752a1f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oikeus tuomitsi 61‑vuotiaan ex‑poliisin virkavelvollisuuden rikkomisesta, kun hän ei vastannut 22‑vuotiaan Nean itsetuhoiseen hälytystä Vantaalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T11:10:31Z",
+      "urls": [
+        {
+          "sign": "f2c33dc686f3cfdd2e3dd1c51ea803755691ef0d684da7641b33114b7a74012d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sähkökatko pimensi Laitilan Tokmannin myymälän tiistaina iltapäivällä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
