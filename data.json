@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T02:03:09Z",
+  "updated": "2026-10-06T02:16:01Z",
   "entries": [
     {
       "updated": "2026-10-05T19:57:21Z",
@@ -749,21 +749,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T08:34:38Z",
-      "urls": [
-        {
-          "sign": "1875788cfb0f3011f30a88014d6a430740155c6506bcc89a4e27f388af665564",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ympäristöministeri Sari Multala tyytymätön sähkölinjakorvauksiin – esittää hyväksyttävyyskorvausta ja kiirehtii lainvalmistelua ennen kevään vaaleja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-02T08:49:04Z",
@@ -13612,6 +13597,21 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T02:16:01Z",
+      "urls": [
+        {
+          "sign": "f918323562cfefd4a051435dbbf414c6a961a7ebc5391e7d9da544c9c64445fc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä: Vantaan matkasellimurhaaja yritti murhata toisen vangin kesäkuussa 2025",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
