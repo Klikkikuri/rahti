@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T05:25:30Z",
+  "updated": "2026-10-06T05:44:51Z",
   "entries": [
     {
       "updated": "2026-10-06T02:49:03Z",
@@ -751,23 +751,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T10:57:46Z",
-      "urls": [
-        {
-          "sign": "fd26942684a8b145af359985b9767b889960443cb347980bd6fff8b8cd9646cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalainen rauhanturvaaja loukkaantui vahingonlaukauksessa Libanonissa tänään perjantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-02T11:07:50Z",
       "urls": [
         {
@@ -1395,38 +1378,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1720c8f90401cb7e9dd41abb208b938ece704840a3d51947c236e48ffc3fd29c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "13e171134d4cbaed3f6803fd570d990ca97c937eae195a061de8efa5e787a9ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sahateollisuus ry katsoo, että metsätalous ja ennallistaminen voidaan sovittaa yhteen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-02T22:47:47Z",
       "urls": [
         {
@@ -1519,41 +1470,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-03T03:00:00Z",
-      "urls": [
-        {
-          "sign": "3e6f25a78319c8592fdf7796d82d06059f20aaa2e8910a61b28409dda294762e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen ensimmäiset F-35-hävittäjät saapuivat Rovaniemelle – Jarmo Lindberg korostaa monitoimikykyä ja kiistää tappokytkinväitteet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T03:26:18Z",
-      "urls": [
-        {
-          "sign": "7b904a441500ecec927a13a5da013884f2876980a1329b7ff2d15823ab7013e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain presidentti Trump: Dieselin vientikielto ei ollut harkinnassa, kehui Eurooppaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-03T06:59:00+03:00",
@@ -13616,6 +13532,83 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T05:44:51Z",
+      "urls": [
+        {
+          "sign": "3eee8b6347c4a23671479876fcec18cad323099c2c9fe4dcef3d80fcf9b59b31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee rikollisverkoston tuoneen yli 500 kiloa huumausaineita Suomeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T05:31:28Z",
+      "urls": [
+        {
+          "sign": "973fae232e54c38e06419e7d1079a413a72114d92c109476763cf599caec0e5b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Petteri Orpo käsittelee ensimmäistä avioerostaan Vappu Piman podcastissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T08:39:00+03:00",
+      "urls": [
+        {
+          "sign": "fcdddd7b93eda3cc9f465ea1f3ead4a9f2821d2584ba6c13497d4af6ea9f6967",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin poliisi: Rikollisverkosto toi Suomeen yli 500 kiloa huumausaineita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T05:42:48Z",
+      "urls": [
+        {
+          "sign": "b0e25ad65b67655634fe3e6de2f3123334b0cbe404342d3c7676acd79736c781",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mobilepayn nimi muuttuu Vippsiksi 12. tammikuuta 2027 – sovelluksen kuvake vaihtuu jo tänään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T08:32:00+03:00",
+      "urls": [
+        {
+          "sign": "83b17036eb5eb1038563316298a1acec5ea3451261a67ee215b4a0ed5f4c4d0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perämies epäillään yrittäneen pudottaa Flydubain koneen Ben Gurionin lentoasemalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
