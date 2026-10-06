@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T04:41:28Z",
+  "updated": "2026-10-06T04:56:14Z",
   "entries": [
     {
       "updated": "2026-10-06T02:49:03Z",
@@ -1374,23 +1374,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-02T19:25:33Z",
-      "urls": [
-        {
-          "sign": "52592c92ab4d8462066a1fc55efff15935b544a4f7a59a7edf5423f277ea55be",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kerro kaikille -elokuva tuo Seilin saaren naisten tarinat valkokankaalle – ensi-ilta 9. lokakuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-02T20:45:28Z",
       "urls": [
         {
@@ -1518,21 +1501,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "5726b58cf7deef62f8fce93bf267588574d73a4af94a85cd325e6a03bc7595cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Avannepäivänä potilasjärjestön viestintäkoordinaattorin mukaan monet avanneleikkauksen saaneet kiittävät uudesta elämästä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13610,6 +13578,38 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T04:56:14Z",
+      "urls": [
+        {
+          "sign": "04c0ae801d8a61ab3c24305a07066b8336630a2384dc60c0b54ce126a31c0699",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan vaihtomiehet tekivät neljä maalia 13 minuutissa, käänsivät ottelun voitoksi Belgiaa vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T07:49:00+03:00",
+      "urls": [
+        {
+          "sign": "675f9003ee171634978099cccd3a49287801e01b49cc78e1b3c425d9551e2510",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan kuningas Felipe VI vierailee Suomessa ja tapaa presidentti Stubbin korostaen Euroopan turvallisuusyhteistyötä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
