@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T17:15:30Z",
+  "updated": "2026-10-06T17:28:15Z",
   "entries": [
     {
       "updated": "2026-10-06T17:10:30Z",
@@ -732,23 +732,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-03T16:04:19Z",
-      "urls": [
-        {
-          "sign": "85b860ce63ab57a263150a80fc3d9c40b0c5250453a90a6c1b932fedf6f018fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Thierry Neuville keskeytti Sardinian MM-rallin – Elfyn Evans johtaa MM-taistelua kuuden pisteen erolla Oliver Solbergiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-06T09:41:00+03:00",
       "urls": [
         {
@@ -877,23 +860,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T21:00:00+03:00",
-      "urls": [
-        {
-          "sign": "6115de0ba49011e000d6462af176bfec4c386d5b7abdaedc28618ead3a2aad2c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-03T18:00:00Z",
@@ -5323,21 +5289,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-05T11:55:41Z",
-      "urls": [
-        {
-          "sign": "e102f29c99f5f040af133618be6e81376292523076351d4e80f9fe8123b17d6a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Stadin derbyn lipputilanne: 9 500 lippua myyty, noin 4 000 paikkaa vielä vapaana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T21:15:00+03:00",
@@ -13753,6 +13704,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T17:15:35Z",
+      "urls": [
+        {
+          "sign": "b6f8000a0a7fcaa6f37185b0faddf104866f95994f00742044b362cecaee22d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jukurit HC Oy raportoi tiistaina 434 000 euron tappion ja 5,2 % liikevaihdon kasvun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T20:15:00+03:00",
+      "urls": [
+        {
+          "sign": "f08dc73b9ce32b337b882f3526df98203224c1a79b758a0bc59f400070dd2872",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Taru Virrankoski: Sähköpotkulaudat tulisi sallia alle 15‑vuotiaille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T17:28:15Z",
+      "urls": [
+        {
+          "sign": "870ff41c1052656ac9a18545b623c5c635aab41dc82cd1b6c7791d5413972738",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "F‑35:n projektijohtaja Elo: Suomi voi tuhota Venäjän järjestelmät ennen kuin ne ampuvat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
