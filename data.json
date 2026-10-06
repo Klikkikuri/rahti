@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T13:59:07Z",
+  "updated": "2026-10-06T14:15:17Z",
   "entries": [
     {
       "updated": "2026-10-06T06:56:29Z",
@@ -749,41 +749,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-03T12:43:38Z",
-      "urls": [
-        {
-          "sign": "58fdb7ecf6b2eef0d91108cf0c46ce197f56a087a1018c174024266605eae47b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi kohtaa Albanian Kansojen liigan ottelussa Helsingissä – panoksena lohkovoitto ja nousu B-liigaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-03T12:52:41Z",
-      "urls": [
-        {
-          "sign": "e8a32207f4743184e7c660910e2f3ca175f4eaa5fb915938bab1f3fc585f8b4a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Orpo oli menossa saunaan Kesärannassa, kun turvallisuus otti yhteyttä – useita poliisipartioita saapui paikalle, hälytys osoittautui aiheettomaksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-03T13:03:44Z",
       "urls": [
         {
@@ -816,21 +781,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-03T16:49:00+03:00",
-      "urls": [
-        {
-          "sign": "0202e4244b1e19b1e26530f3c8e7f6d288afed17aaf314307efe2a5acdde291b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen Pussy Riot -aktivisti Rita Flores kertoo toimineensa FSB:n tiedonantajana ja paenneensa Venäjältä elokuussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-03T13:42:45Z",
@@ -5296,21 +5246,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T08:33:09Z",
-      "urls": [
-        {
-          "sign": "3c8498c11e4276e428023d82f510659f658d8d53663de48f356a9851257e9527",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos varoittaa tiistain voimakkaasta länsituulesta – puuskat voivat ylittää 20 m/s länsi- ja keskiosassa Suomea",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T11:31:00+03:00",
@@ -13750,6 +13685,68 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T17:04:00+03:00",
+      "urls": [
+        {
+          "sign": "17c73c97fec5ffc9fff3454053209ff2ebf8de0a33984cc48827431919c92e06",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T14:15:17Z",
+      "urls": [
+        {
+          "sign": "db68d2bc5741f68ec74e628fd6e1c2c91c0a85808ddd8f378aaf4fc53b16016c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tanskan viranomaiset kehottaa lopettamaan henkilötunnuksen käyttö tunnistamiseen tietoturvaloukkauksen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T14:02:30Z",
+      "urls": [
+        {
+          "sign": "05c92a265c10e245a2a7606812f392f6221f711f42bf02e0381b8e79fd569bb3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fingridin asiantuntijat ennustavat mahdollisen sähköpulan Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T14:02:00Z",
+      "urls": [
+        {
+          "sign": "8c39f5f0ec95b1205a0cc775baa14e58c5fef67783bfe6631d67ec18fdb20b49",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ex‑prinssi Andrew Mountbatten‑Windsor nostaa oikeusjutun helmikuun pidätykseen liittyvistä etsintäluvista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
