@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T02:42:00Z",
+  "updated": "2026-10-06T02:58:32Z",
   "entries": [
     {
-      "updated": "2026-10-05T19:57:21Z",
+      "updated": "2026-10-06T02:49:03Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa liveseurannalla ja analysoi Venäjän propagandaa Suomen Nato‑jäsenyyden valossa",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehti päivittää Ukrainan sodan liveseurantaa ja analysoi Venäjän propagandaa",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -749,21 +749,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-02T08:52:18Z",
-      "urls": [
-        {
-          "sign": "057772a7248e7141ac8daf5b9986d1e7a90126cf9d35fed8f653fde37368d8f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Autoilija törmäsi 8-vuotiaaseen lapseen suojatiellä Huittisissa torstaina ja pakeni paikalta – poliisi pyytää silminnäkijöitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-02T08:54:02Z",
@@ -13611,6 +13596,21 @@
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T02:58:32Z",
+      "urls": [
+        {
+          "sign": "759e623ae19f096836dd95b0f85dfb6d01e97b88dae485c6d22df33712f34268",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuuli voimistuu tiistaina vaarallisen voimakkaaksi lännessä ja merialueilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
