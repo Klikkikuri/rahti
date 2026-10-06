@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T03:44:33Z",
+  "updated": "2026-10-06T07:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-06T02:49:03Z",
@@ -751,21 +751,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-02T09:45:34Z",
-      "urls": [
-        {
-          "sign": "e86d90de3e84c88b2c7e558bd4a4f9392c5cf7d05b05dd49b5078aaac4fb39b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sekavasti käyttäytynyt nuori mies puukotti ravintolan työntekijää Helsingin rautatieasemalla keskiviikkona",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-02T10:09:28Z",
       "urls": [
         {
@@ -1378,23 +1363,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-02T18:06:21Z",
-      "urls": [
-        {
-          "sign": "73bdafcae195821e91642f5d7a6dd00ff5137073260d1a20070da8d72a0a5355",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "JYP-hyökkääjä Aaro Vidgren löi HPK-maalivahti Kim Saarisen kumoon ottelun jälkeen – HPK voitti 2-1",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-02T19:20:29Z",
       "urls": [
         {
@@ -1406,23 +1374,6 @@
       ],
       "title": "Jürgen Klopp kutsuu AfD:n kritiikkiä Saksan maajoukkueen kokoonpanosta idioottimaiseksi",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-02T18:34:07Z",
-      "urls": [
-        {
-          "sign": "cfa67fe941542e56144d22224517e057c76dad351a885a472260ee63d03ca674",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "G7-maat vapauttavat dieseliä ja raakaöljyä varmuusvarastoistaan – 100 miljoonaa tynnyriä seuraavien neljän kuukauden aikana",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1680,40 +1631,6 @@
       "title": "Per-Erik Lindholm, Soliferin ja Bensow’n pitkäaikainen vaikuttaja, kuoli 97-vuotiaana Espoossa 9. elokuuta 2026",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "8a6f6f136e1c5c37895c77a9746bae21c0ac36865b64b1f4e4243da936bf63b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-03T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "5466d83baf856c17482e09c0bb38b733e4a82e48f6a64d2811fe46989217606a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13609,6 +13526,89 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T03:45:35Z",
+      "urls": [
+        {
+          "sign": "f9f598baf29b18ed6f9344ef53371e9f776b23afc9c5ac54fdcb76625e2fcb73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan kuningaspari saapuu Suomeen korostaen turvallisuutta ja yhteistyötä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-06T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "58a652b49f75990b9e28120b98504dd9ad22953e84674971834baeefb77024e3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-06T03:54:16Z",
+      "urls": [
+        {
+          "sign": "f1bf82daf6b8dcca9467ea6f24179f55e9d0fb7737ffd4f468ac26c45b8d5f82",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat siirsi B-1-pommikoneensa pois Englannin Fairfordin lentotukikohdasta Iran-uhan vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T03:54:00Z",
+      "urls": [
+        {
+          "sign": "d55ec440380f04e92230f77762fa319d709674d565eb9a6ad51a3cbf581ce35d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veneen kuljettajan ikäraja on 15 vuotta Suomessa eikä erillistä ajokorttia vaadita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-06T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "1850cacd97bf0cd8cc784550cfcf556ef9d37a0d4f755d33d0a1652467048512",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
