@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T07:00:09Z",
+  "updated": "2026-10-07T07:05:29Z",
   "entries": [
     {
       "updated": "2026-10-07T05:19:42Z",
@@ -839,21 +839,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T12:55:00+03:00",
-      "urls": [
-        {
-          "sign": "73bda7614e424baa924cffe67d2aa04d56384f7d4da9092612dee410691ab1a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi veneilijää havaitsi oudon metallisen esineen Suomenlinnan edustalla ennen viranomaisoperaatiota; esine osoittautui vaarattomaksi laivan osaksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-04T13:00:00+03:00",
       "urls": [
         {
@@ -1492,23 +1477,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T16:10:31Z",
-      "urls": [
-        {
-          "sign": "23ddbeeabd731204cca7a2803ddf7a8613ffc8aa401238506d0226a87b027a6f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tokion keskiosassa satoi 37 päivää peräkkäin – uusi ennätys",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-04T19:00:00+03:00",
@@ -13759,6 +13727,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "65a92f0fa443789577ce56bbfe1374bcfbedc9272d4ff28ee356c2172428bce0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T07:05:29Z",
+      "urls": [
+        {
+          "sign": "c116c9cc447edadcd2fc2374d8f385992c41656cb6365b1cdf09d62074b50c24",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuntien tietopyyntöjen määrä kasvaa tekoälyn ja kuntajakoselvityksen vuoksi – vastaaminen määräajassa vaikeutuu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
