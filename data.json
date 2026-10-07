@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T11:45:00+03:00",
+  "updated": "2026-10-07T11:57:00+03:00",
   "entries": [
     {
       "updated": "2026-10-07T08:40:38Z",
@@ -860,23 +860,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-04T17:14:00+03:00",
-      "urls": [
-        {
-          "sign": "9788b0168b92b89d9f385131a54f7c319d9b1a2b07153237495bdeeb5f1ec14e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin poliisi takavarikoi Pokémon-kortteja Pokémon-tapahtumassa Mölndalissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-04T17:24:00+03:00",
       "urls": [
         {
@@ -890,21 +873,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T14:26:01Z",
-      "urls": [
-        {
-          "sign": "999883c201a4e1b6184b62d2d0fe4c45a5483c3789fbdc51d88f09c1d4855015",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anni Ihamäki ja Anssi Heikkilä jättävät väliin TTK:n suoran lähetyksen tänään Ihamäen sairastumisen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-04T17:27:00+03:00",
@@ -5909,21 +5877,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-06T04:38:44Z",
-      "urls": [
-        {
-          "sign": "a23cb9163b9a3ff1d4a77dc20be4bd22a80ccb178b8c67fd474f14f661d5940b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsi äänesti Franz Reindliä IIHF:n puheenjohtajaksi Pohjoismaiden rintaman hajotessa – Venäjä tyytyväinen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-06T04:41:28Z",
       "urls": [
         {
@@ -5988,27 +5941,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T05:04:31Z",
-      "urls": [
-        {
-          "sign": "cf1a295a266b46beaf93b15caeee6ec62c68976372f5d23352cfaf61e3915e06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "8f241a3b9eab66484c1c719a8ee8225333df3399e5df181ce4a7d123611aa8be",
-          "labels": []
-        }
-      ],
-      "title": "Käräjäoikeus hylkäsi lapsiperheen vahingonkorvausvaatimuksen 137 reiän poraamisesta vuokra-asunnossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-06T05:04:12Z",
@@ -13640,7 +13572,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-07T08:36:59Z",
+      "updated": "2026-10-07T08:49:48Z",
       "urls": [
         {
           "sign": "bdad4af9346526dc5c2c2fc6642079d22ad3ca8dea86a5b7d7fed43ef91f01d0",
@@ -13651,7 +13583,9 @@
       ],
       "title": "Jussi Markkanen jättää SM-liigan urheilujohtajan tehtävän välittömästi",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13751,6 +13685,70 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T08:48:41Z",
+      "urls": [
+        {
+          "sign": "7127e7e591f2a11de5143fb030e537461469a5283bbbb756a0ed448d770d46f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat epäilevät Venäjän iskeneen drooneilla kauppalaivoihin Mustallamerellä – tapahtuma ei vielä täytä Naton artikla 5:n kynnystä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T08:45:57Z",
+      "urls": [
+        {
+          "sign": "1d80f51b327691082171bd2d787c43afafe9aebb1ddc98f092bb8d3f6e1fe0b1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Analyysi: Suomen EU-jäsenmaksu saattaa nousta noin miljardilla eurolla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T08:54:25Z",
+      "urls": [
+        {
+          "sign": "96aa8319b7b3dbc5c1700513ddcc52766a794c62c3da2c6a7a6fa534637f39e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "STTK vastustaa eläkeiän nostamista 70 vuoteen: 'Eläkejärjestelmää ei pidä sorkkia'",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T11:57:00+03:00",
+      "urls": [
+        {
+          "sign": "cb9b580961923c6b1ae56d62cc6a89019ab6e7cc57a9236c3eb1d43549661cb9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen selvitys vahvistaa verorahojen käytön tehokkuuden ja kustannusten laskun 15 prosenttia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
