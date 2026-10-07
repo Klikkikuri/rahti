@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T01:32:32Z",
+  "updated": "2026-10-07T02:08:34Z",
   "entries": [
     {
       "updated": "2026-10-07T01:32:32Z",
@@ -1204,23 +1204,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T09:08:54Z",
-      "urls": [
-        {
-          "sign": "0ef0a8be27feedfe79e256d0cb39724f18be2982c1cd72f390bbb629eb904dde",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Riihimäellä asuva Irma Heikkinen, 85, kertoo yksinäisyydestään puolisonsa ja sisarustensa menettämisen jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-04T09:50:27Z",
@@ -5738,21 +5721,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T16:11:22Z",
-      "urls": [
-        {
-          "sign": "5a6f8ee40cc44eda62e1df34ff09a811506b86fd9e085eb64b25baceb7fbc0ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "39 % miehistä ja 30 % naisista ovat pettäneet, 70 % piilottaa sen – äänestä ja kerro mielipiteesi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T16:01:50Z",
@@ -13754,6 +13722,38 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T02:00:35Z",
+      "urls": [
+        {
+          "sign": "4ef99064cb98494777cab0b3d9351c13c0859e34d95c24138655cd9f241c9ce4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle Israelissa: Tel Avivin asukkaat arvioivat Hamasin iskun vaikutusta lokakuun vaaleihin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T02:08:34Z",
+      "urls": [
+        {
+          "sign": "b8b7d7e9a9248dfe18d975fcc4cd3cec3875dc27f98d56c36d3f945a19b8b9b7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa lumi- ja räntäsateesta loppuviikolla Kainuussa ja Koillis-Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
