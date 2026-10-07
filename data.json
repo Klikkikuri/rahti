@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T09:39:23Z",
+  "updated": "2026-10-07T13:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-07T08:40:38Z",
@@ -843,23 +843,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9a9b9e6373e081b25a4ccfef44005fc18b6901ae14fbaf24fcd351278f0ea6c3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-04T16:41:34Z",
       "urls": [
         {
@@ -1624,23 +1607,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T02:30:35Z",
-      "urls": [
-        {
-          "sign": "846903edebc06ab1023c8f574177e71afcc2de7325a258aa83bc91a89042c0f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkivat opettajat varoittavat: kotiopetus voi johtaa oppimisen puutteisiin ja sosiaaliseen eristäytymiseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-05T02:45:00Z",
@@ -5956,23 +5922,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-06T05:58:44Z",
-      "urls": [
-        {
-          "sign": "2dd9583f457795aa787bd821478505dc6e08b82f70b986575bfe71b8074db1f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Olli Keskinen, 59, tapasi Anna-Leena Härkösen, 61, Stockmannin juustotiskillä ja rakastui",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-06T06:08:35Z",
       "urls": [
         {
@@ -6052,23 +6001,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-06T06:08:29Z",
-      "urls": [
-        {
-          "sign": "25537a9457071702b1b5ad9ce1a5b1d87096aeb2253bafea371b6e7fe716b410",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mäkihyppääjä Niko Kytösaho menetti 10 000 euroa Xbilin konkurssin vuoksi ja vaatii korvauksia Lähitapiola Rahoitus Oy:ltä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-06T06:00:56Z",
       "urls": [
         {
@@ -6082,21 +6014,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-06T06:03:29Z",
-      "urls": [
-        {
-          "sign": "342a7c197fc3d40ec1d3d09c18227d2a0ce8e67be470acc644b6d20339170f58",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee 43-vuotiasta jyväskyläläistä miesopettajaa lapsiin kohdistuneista seksuaalisista rikoksista partiossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-06T06:28:11Z",
@@ -13666,7 +13583,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-07T12:36:00+03:00",
+      "updated": "2026-10-07T12:59:00+03:00",
       "urls": [
         {
           "sign": "4eb7520f355d6976616987a8c8700681aa796087749cf9f8fb1d0c5722ce3ff5",
@@ -13756,6 +13673,83 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T09:45:02Z",
+      "urls": [
+        {
+          "sign": "ad5e5f4eac322cf5243ba5eaa753438624c10012315c30d599eabfdbd72fb9b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääkärit totesivat Alisa Vainion lievän takareisivamman – kuntoutus käynnissä Ilkka Räsäsen johdolla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T09:59:49Z",
+      "urls": [
+        {
+          "sign": "09764594b2f501d6bf5ef88e6f1d9de6d07b7614112a2ae9652c82fb2ff1b5e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alisa Vainion vasemman jalan takareidestä löytyi pieni lihasvamma, kuntoutus on käynnissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T09:51:37Z",
+      "urls": [
+        {
+          "sign": "2fc824a4a684da5c5ee06fcee4eb01ee110a8c93ff6b35a372c36d40a747b89f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tanskalainen rekisteritutkimus: meluisa kaupunkiasuminen lisää Parkinsonin taudin riskiä, hiljaisempi asunto puolestaan vähentää sitä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T13:00:00+03:00",
+      "urls": [
+        {
+          "sign": "b51a50cc6bd834c32191c82e79a54742de1dd2341512965bc7a6a3b51b4f2059",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T09:52:17Z",
+      "urls": [
+        {
+          "sign": "104f77f6f212b63486b4b871a081666f655ad4199da3b89444fbd09c27ba454f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommentti: Jacob Friisille pitää antaa potkut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
