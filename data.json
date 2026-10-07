@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T09:30:10Z",
+  "updated": "2026-10-07T09:39:23Z",
   "entries": [
     {
       "updated": "2026-10-07T08:40:38Z",
@@ -843,38 +843,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T14:54:14Z",
-      "urls": [
-        {
-          "sign": "83361913d7fae752b28e65fbab395ca2cc1bf10615bdf53af67e8387da45a7b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV Uutiset haastattelee julkkiksiä Tanssii Tähtien Kanssa -ohjelman punaisella matolla klo 17.55",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T17:27:00+03:00",
-      "urls": [
-        {
-          "sign": "f3be9927f23c491879bee69a905ccf6cbbd8d6ec58503b065438313e882231da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Flávio Bolsonaro johtaa vedonlyöntejä Brasilian presidentinvaaleissa, isänsä vallankaappaustuomio huolimatta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-04T18:00:00+03:00",
       "urls": [
         {
@@ -889,21 +857,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "b76cad19cb08b646ebe5271ef9df81f7b12ceb60aab235f269091e6d50527fa6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vuokrauslait muuttuivat: tupakointi kielletty oletuksena vuokra-asunnoissa, vuokranantajan irtisanomisaika lyheni",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1688,23 +1641,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T05:52:47Z",
-      "urls": [
-        {
-          "sign": "9da018e2a824bc3e0bd2441b70b6545b886cceab74f09149f84f771352c29696",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Digita katkaisee televisio- ja radiolähetykset Hämeenlinnassa tiistaina 6. lokakuuta noin 30 minuutin ajaksi huoltotöiden vuoksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T02:45:00Z",
@@ -5986,21 +5922,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T05:55:56Z",
-      "urls": [
-        {
-          "sign": "b47f4c896e562de4541fdd92ff9cbfcc89f7187e6053dce210a28a6ed55ac3b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jeffrey Archer kuoli 86‑vuotiaana – viimeinen romaani julkaistaan tiistaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-06T05:55:00Z",
@@ -13646,7 +13567,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-07T09:11:55Z",
+      "updated": "2026-10-07T09:29:47Z",
       "urls": [
         {
           "sign": "07c6565b1de83e44f9640fc249d337ef84f7ba776b7f3188f54ab9a9072683e5",
@@ -13655,9 +13576,10 @@
           ]
         }
       ],
-      "title": "Poliisi tutkii kansanedustajien asuntoihin kohdistuneita epäiltyjä tunkeutumisia törkeän varkauden yrityksinä",
+      "title": "Poliisi tutkii kansanedustajien asuntoihin kohdistuneita epäiltyjä tunkeutumisia törkeän varkauden yrityksinä – tapausten määrää ei kommentoida",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
+        "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13744,7 +13666,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-07T12:09:00+03:00",
+      "updated": "2026-10-07T12:36:00+03:00",
       "urls": [
         {
           "sign": "4eb7520f355d6976616987a8c8700681aa796087749cf9f8fb1d0c5722ce3ff5",
@@ -13753,8 +13675,85 @@
           ]
         }
       ],
-      "title": "Helsingin poliisi käynnisti esitutkinnan kansanedustajien asuntoihin kohdistuneista epäillyistä tunkeutumisista",
+      "title": "Helsingin poliisi tutkii kansanedustajien asuntoihin kohdistuneita epäiltyjä tunkeutumisia törkeinä varkauden yrityksinä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T12:37:00+03:00",
+      "urls": [
+        {
+          "sign": "0f44ee716b34170f9dbe01bfc77af5bf7de3e00146e0443e2e7c3ecf4f5a9ee9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hannu Krook jää eläkkeelle, Arttu Laine nousee SOK:n pääjohtajaksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T09:35:34Z",
+      "urls": [
+        {
+          "sign": "da3c4e0d554b078406b6e223fd19f0f2ff4359d65b67eb8a8ada8f9f0ddbedac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Järjestöt kritisoivat VM:n eläkeikäehdotusta 70 vuoteen vastuuttomana ja vaativat työllisyyden parantamista",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T09:39:23Z",
+      "urls": [
+        {
+          "sign": "dae5f7ed17b97c294660a5383c77049917b3e78fadd647805eceb78a09e198ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin hallinto kieltäytyy Etyjin vaalitarkkailijoista Yhdysvaltain välivaaleissa – ensimmäinen kerta yli kahteen vuosikymmeneen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T09:30:56Z",
+      "urls": [
+        {
+          "sign": "a305093d0b92371d52b3153273f99aaa5d2c9807f0bb5d49da4cf6e0a9dfe60f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskustan puheenjohtaja Antti Kaikkonen kritisoi pääministeri Orpon EU-budjettineuvotteluiden kannanottoja sekavaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T12:38:00+03:00",
+      "urls": [
+        {
+          "sign": "8eedf71b66a7d548e067e512a94d2685d8ebe5e4bf69772a2f8a5e5e6c37b692",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksei Guliaev etsii töitä kyltin kanssa Helsingin päärautatieasemalla",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     }
