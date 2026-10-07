@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T05:42:16Z",
+  "updated": "2026-10-07T05:58:02Z",
   "entries": [
     {
       "updated": "2026-10-07T05:19:42Z",
@@ -1052,23 +1052,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T13:27:14Z",
-      "urls": [
-        {
-          "sign": "e06a93e293fa25548b54259b4ef1c0b5e1735118f66c8aa99cf2c467c7c8fabb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjassa vuokraprotestit kärjistyivät – poliisi käytti kumiluoteja ja viisi pidätettiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-04T13:39:24Z",
       "urls": [
         {
@@ -1956,21 +1939,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T14:01:03Z",
-      "urls": [
-        {
-          "sign": "da0f5c3d0765ffdafe74c9e9b2362e18431e045895c1c6390842314029ed799e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies kiivi sillan kaiteelle Kaarinassa, mikä käynnisti pelastusoperaation",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-04T18:57:47Z",
@@ -5678,21 +5646,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T18:42:23Z",
-      "urls": [
-        {
-          "sign": "9442939509c649fe45610e5bced84709be464c8d9bad3739bcd3d6412ca12d33",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "15 vuotias menetti kätensä Lensi‑tapahtissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T19:24:51Z",
@@ -13759,6 +13712,53 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T05:58:02Z",
+      "urls": [
+        {
+          "sign": "5f0947fc5fa8b39438e004d23275ee61b4b656dffbd41a5b2a9655c832f5d709",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Dylan Larkin palasi Red Wingsin kokoonpanoon, sai fanien sekalaisen vastaanoton ja auttoi joukkueen kauden avausvoittoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T17:45:00Z",
+      "urls": [
+        {
+          "sign": "d8b71aa36421e5ab9fb74921e6ca225c8d331884fc1b8c813be6f9172af1be70",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jutan ohje opastaa valmistamaan vadelma-lakritsirättäitä valkosuklaamoussella ja kauralastulla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T05:53:25Z",
+      "urls": [
+        {
+          "sign": "22935b8a1275c976381f3baeee84ea4af090fc37c17d1801d7e4922303b56372",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Seitsemän ihmistä hukkui syyskuussa, kertoo SUH:n ennakkotieto",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
