@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T20:59:04Z",
+  "updated": "2026-10-08T00:48:00+03:00",
   "entries": [
     {
       "updated": "2026-10-07T18:56:09Z",
@@ -826,23 +826,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-05T11:41:00+03:00",
-      "urls": [
-        {
-          "sign": "72f3539cb52d64a1828f99a8e15bcf3ace581b89f149295d880bbdf7e8e7ea13",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -13663,6 +13646,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-08T00:48:00+03:00",
+      "urls": [
+        {
+          "sign": "d76708f39f93fb68465cac8e783d78d2dc0d8a946f9dcc9df93acef5c7bc932c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanadan hallitus lykkää MAID‑lain laajentamista mielenterveyspotilaisiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
