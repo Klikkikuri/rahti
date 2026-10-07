@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T11:29:57Z",
+  "updated": "2026-10-07T14:40:00+03:00",
   "entries": [
     {
       "updated": "2026-10-07T08:40:38Z",
@@ -842,21 +842,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T18:58:00+03:00",
-      "urls": [
-        {
-          "sign": "0043e7223c2fb2814aa263d9ecf5086b678cad88dd8c9de8049273958608fb33",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolueet vaativat datakeskusten rakentamiseen kansallisia pelisääntöjä ja sähköverkon vahvistamista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1979,21 +1964,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-05T07:18:06Z",
-      "urls": [
-        {
-          "sign": "63e7e129769420e3c0d6549eca88760b8ad1ca48a588ff17dfe050c1f52e526a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnish workers' job ability improves modestly, but burnout risk remains high, researchers urge focus on core work",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-05T07:24:08Z",
       "urls": [
         {
@@ -2006,23 +1976,6 @@
       "title": "Kemiläinen mies tuomittiin 30 päiväsakoon äitinsä ruumiin jättämisestä keittiön lattialle",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-05T07:22:51Z",
-      "urls": [
-        {
-          "sign": "081fcb98e06d9374af86217c37f472d3782ce4c973d4dd26cfea9328007b9ef8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pedro Sánchez julisti Espanjassa ennenaikaiset vaalit 29. marraskuuta asuntokriisin vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -13711,6 +13664,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T14:40:00+03:00",
+      "urls": [
+        {
+          "sign": "222be261a4d5f54811eefc61a147c0c0248b8fe19fe11ef5dfb1ae6ec5c8bc25",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T11:32:00Z",
+      "urls": [
+        {
+          "sign": "74053a13706ae4d66ca7bef684c78b77406dcd2aab0f11a7d90ed30700c06064",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hämeenlinna perustaa katalyyttirahaston pk-yritysten lainoittamiseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T11:34:58Z",
+      "urls": [
+        {
+          "sign": "d747c7acbbdc7014fafe52b73c865a20083957e25dce68e031f38f39010ea01b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU-parlamentti myönsi 410 310 euron tukipaketin Valmet Automotiven entisille työntekijöille Uudessakaupungissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
