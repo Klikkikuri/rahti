@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T03:28:00Z",
+  "updated": "2026-10-07T03:40:22Z",
   "entries": [
     {
       "updated": "2026-10-07T01:32:32Z",
@@ -792,21 +792,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-04T08:10:00+03:00",
-      "urls": [
-        {
-          "sign": "c0a3b0655007cca7d0044b03022d9323fd6f27d42946fe9aac554d7d042f5f74",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranin valuutan arvo romahti ja inflaatio nousi 70 prosenttiin pakotteiden vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-04T13:39:17Z",
@@ -5542,21 +5527,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-05T16:57:24Z",
-      "urls": [
-        {
-          "sign": "51a9116530ef5303ae81ae30262032beaa939ee4e7ce1f4b5737fc1d88b76db9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Henri Korhonen, 50, sai 22‑vuotisen saarikierrosprojektinsa päätökseen kiertäen Suomen 100 suurinta saarta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T17:24:54Z",
@@ -13755,6 +13725,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T03:40:22Z",
+      "urls": [
+        {
+          "sign": "cc77812ce2b8104bd66900b17766c66bf476826fc580ed5d59d7fce403e755a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "LVV määräsi Googlen hakkuut keskeytettäväksi Kajaanissa ja Muhoksella – asiantuntijan mukaan hankkeet viivästyvät mutta eivät kaadu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "d833c3de32304d72429a8c6388d0eb599408d001f3e2704b1ce40aacc46dfd3e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
