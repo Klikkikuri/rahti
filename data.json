@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T06:14:36Z",
+  "updated": "2026-10-07T06:25:45Z",
   "entries": [
     {
       "updated": "2026-10-07T05:19:42Z",
@@ -853,23 +853,6 @@
       "title": "Venäjä iski Kiovan pohjoissillan sunnuntaina Merzin saapumisen jälkeen ja loukkasi kaksi ihmistä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "01e33fe26c5fbd3a39a6c839e321f2bf7bd96ce21d70a0e0ea024d24661d3d60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5401,23 +5384,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-05T19:14:52Z",
-      "urls": [
-        {
-          "sign": "c378b178782ccc53a4c86e39579c195aa48c68c748734af07b91cf3d26765d42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkija: Vatsalihavuus ja D‑vitamiinin puute nostavat yli 50‑vuotiasta kuolemariskiä merkittävästi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-05T19:35:57Z",
       "urls": [
         {
@@ -5849,21 +5815,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-05T19:21:48Z",
-      "urls": [
-        {
-          "sign": "b98642083e345ff363c183683fa6caa017ad7ad5f06ca9e3f3f9304b350d4fc7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Soul‑laulaja Sky Whatley syytetään pahoinpitelystä, kun hän löi naista Georgian Legendary Awards Show -konsertissa 6. syyskuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T21:25:58Z",
@@ -13756,6 +13707,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T06:25:45Z",
+      "urls": [
+        {
+          "sign": "ab0aa60ae62376cb12ceae8e047998bb9928c7c92b10f3c6d1220857bc8d5a27",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Useat NHL-seurat, mukaan lukien Calgary Flames ja Detroit Red Wings, neuvottelevat Patrik Laineen mahdollisesta siirrosta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-06T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "0fa891adec06c626074570139f27baac9d09f8d2d49f16fd737db15faefba3f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "El Niño -ilmiö vahvistuu loppuvuonna, mikä voi kiihdyttää inflaatiota kehittyvissä maissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T06:19:51Z",
+      "urls": [
+        {
+          "sign": "a71cd96eb3da1b980e6ce6df0f801801cf68351ab858b81d084f3b393876ccff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kysely paljastaa: 14 % taloyhtiöistä ei ole tarkastanut palovaroittimia lainmuutoksen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
