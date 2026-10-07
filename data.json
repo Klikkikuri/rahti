@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T00:18:11Z",
+  "updated": "2026-10-07T00:41:27Z",
   "entries": [
     {
       "updated": "2026-10-06T17:44:24Z",
@@ -1112,21 +1112,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T08:20:24Z",
-      "urls": [
-        {
-          "sign": "ed1b73c9a7412b60742c68b5a2c757a3b2cdabbd86f5fc8bf18d35d7e502b456",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sodan jakolinjat varjostavat yhä Bosnia-Hertsegovinan vaaleja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-04T10:14:00Z",
@@ -13748,6 +13733,23 @@
       ],
       "title": "Australian korkein oikeus hylkäsi Mount Pleasantin hiilikaivoksen jatkoluvan",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T00:41:27Z",
+      "urls": [
+        {
+          "sign": "36b51e7456e8b03ef6ffeee49990ef32d32f0a99127643567aead8e4f6c99449",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kosovon parlamentti valitsi Justina Shiroka Pulan presidentiksi, päättäen pitkän poliittisen kriisin",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
