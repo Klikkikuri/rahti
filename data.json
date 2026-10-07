@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T19:15:00+03:00",
+  "updated": "2026-10-07T16:26:11Z",
   "entries": [
     {
       "updated": "2026-10-07T08:40:38Z",
@@ -1743,23 +1743,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-05T13:10:34Z",
-      "urls": [
-        {
-          "sign": "bd1fff37e4fd084b186486a59c83d0d81f4dee8387ca81a3eb76c1613b5fd2ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Summa Defence ja Summa Holding Oy jättivät yrityssaneeraushakemuksen Helsingin käräjäoikeuteen maanantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-05T16:00:00+03:00",
       "urls": [
         {
@@ -2857,23 +2840,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-06T12:26:34Z",
-      "urls": [
-        {
-          "sign": "f35777a0ad4a6b179d81a75cf395ad1e71184f53f30f0e03c3623380a135a554",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi vahvistaa: Kirkkonummen viranomaistehtävä oli terveysaiheinen, ei epäillä rikosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T18:27:31Z",
@@ -5847,38 +5813,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-06T12:27:23Z",
-      "urls": [
-        {
-          "sign": "5ab8cab30769ac6446476ba14368b8e315a7fb40dc2f76a797a7dd92ec229d49",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maahanmuuttovirasto määräsi seuraamusmaksuja kuudelle työnantajalle laittomasti maassa olevien työllistämisestä – suurin sakko 30 000 euroa rakentamisalalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T12:26:57Z",
-      "urls": [
-        {
-          "sign": "e602056c9ef6e37f47ad67075f08e3954a07467b169056662b1684871af4e7f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vakuutusyhtiö Turva kehottaa ottamaan matkavakuutuksen ajoissa flunssakauden varalta syyslomamatkalle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-06T12:33:28Z",
@@ -13674,6 +13608,72 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T16:26:11Z",
+      "urls": [
+        {
+          "sign": "96d63fdbde04f5693952c1fe81ba12ef36b791502636dce8481b6f339d071a8a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karita Tykkä ja Sami Saikkonen saapuivat yhdessä Lapin sota -elokuvan ensi‑illan punaiselle matolle Helsingin Tennispalatsiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T16:15:45Z",
+      "urls": [
+        {
+          "sign": "eb8758c0f7578526e0c0dae17d88ca12085964cb40c8558e4cf5ff3223ab169b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii Googlen Muhoksen datakeskushankkeen valmistelua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T16:23:39Z",
+      "urls": [
+        {
+          "sign": "565955d36c40a99396b0ca2f87f5dbedd5e289c7a7fb6ce4f2b3a14130d290d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saarioisen salmiakkimaksalaatikko yllätti kysynnällä – myyty noin puolet tuotannosta kampanjan aikana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T16:22:41Z",
+      "urls": [
+        {
+          "sign": "da378cb2a4f99190bcb9c885f899e8d6083246dbc399c1936b765553224adc2e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jukurit keräsi 4 200 katsojan koululaisottelun keskiviikkona kello 12 Mikkelin Let’s Go‑areenalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
