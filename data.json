@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T07:45:14Z",
+  "updated": "2026-10-07T11:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-07T07:33:54Z",
@@ -856,42 +856,10 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-04T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9c1914dce089a994ad04dc412c98bbecb13e8e60d2e54f2fe3b3195760a1c904",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Markku Ojanen: Nyt on hyvä tilaisuus sopia köyhyysjarrusta puolueiden välillä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-04T16:00:00+03:00",
       "urls": [
         {
           "sign": "bbb0c8b8862b7e7f864ac6e8bd21aabdf25993375b33a1628f42d0e84d206dc5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T16:00:00+03:00",
-      "urls": [
-        {
-          "sign": "0cfc5e5adb094b5acad1035ba5132b14fa47636ade1d1c9c19a104bfbc1ddc3e",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -1560,23 +1528,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T17:44:42Z",
-      "urls": [
-        {
-          "sign": "f8cb6a8eb8321e225235a017f2067d83635511bb44113d6e22d6fd333ab38285",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjan hallitus harkitsee ennenaikaisia vaaleja asuntomielenosoitusten ja eläkeläisen häädön jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-04T17:42:54Z",
@@ -5814,42 +5765,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-06T03:01:21Z",
-      "urls": [
-        {
-          "sign": "57c4c7e57e0237c1f7acf9440db7823e5f3625755ca5cbd5a386d8b3a52cdbf8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oliver Solbergin ulosajo Sardinian MM-rallin päätöserikoiskokeella maksoi hänelle mestaruuden ja satojatuhansia euroja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T03:01:10Z",
-      "urls": [
-        {
-          "sign": "721d4be2e834ca6a6265db4c9e7cf6fbbea66d280bdbba13025df7e2e6d1175b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "c5be0eb769dbdd0c505d93108da61b8fe8b8969114413960faaf2bf0b77e6982",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-06T03:00:35Z",
       "urls": [
         {
@@ -5865,21 +5780,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T03:01:27Z",
-      "urls": [
-        {
-          "sign": "15e49f15dcca53d6ca45e877f116706402f526ef03a3dc6a2c69a64a7bc9bae0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antibioottien käyttö suomalaislapsilla väheni, hermostoon vaikuttavien lääkkeiden käyttö kasvoi 2017–2025",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-06T03:00:00Z",
@@ -13337,7 +13237,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-07T06:43:43Z",
+      "updated": "2026-10-07T07:48:06Z",
       "urls": [
         {
           "sign": "e165700831225f6627eed0e730ffe24fedb23c88ccc0b1e0d7cdc2e610f70251",
@@ -13346,8 +13246,8 @@
           ]
         }
       ],
-      "title": "Jukurien urheilutoimenjohtaja Mikko Hakkarainen selittää joukkueen hyvän alkukauden pelaajien kehityksellä ja valmennuksen pelitavalla",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Jukurien urheilutoimenjohtaja Mikko Hakkarainen sanoo, että pienestä pelaajabudjetista huolimatta joukkue menestyy kehityksen ja valmennuksen ansiosta",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13437,7 +13337,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T06:59:34Z",
+      "updated": "2026-10-07T07:48:08Z",
       "urls": [
         {
           "sign": "3ccfd71553652bd7bad3cf06dc0ede10aeec716bb5ed4a5c61a70be46fdff8fa",
@@ -13748,6 +13648,104 @@
         }
       ],
       "title": "Poliisi käytti etälamautinta kahdesti paidattomaan mieheen Espoossa sunnuntaina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T07:50:39Z",
+      "urls": [
+        {
+          "sign": "30f8ec6c7a1546593629bc097a6fc2f7545d32f78c61b022979901ebe3b6c272",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Leo Komarov jatkaa harjoittelua, mutta ei ole vielä päättänyt uransa jatkosta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T07:58:58Z",
+      "urls": [
+        {
+          "sign": "ef3a8095a51674db70cb21c6bfc6ca5707ce86dd03f8b62178f5bf363c6f4ced",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alle 30‑vuotiaiden ehdokkaiden määrä kasvaa seurakuntavaaleissa – tamperelaiset Onni Ylitalo ja Mikael Viitanen haluavat kehittää seurakuntaansa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "625b543ec840004294ebe97cd0ffad1560a69763c68f51db326b3b445de53856",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "ebd2241d921c60e24dceea83b2d3547176c8b224127aa6ac1185bcfb179d32ef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T07:53:07Z",
+      "urls": [
+        {
+          "sign": "7e1953f667b71936daa94946b4b59326baa98525d0abda1b8989efeccac7d4a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ja Puolustusvoimat takavarikoivat materiaalia Virolahdella rutiinioperaatiossa – tutkinta jatkuu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T07:50:49Z",
+      "urls": [
+        {
+          "sign": "85eb32cefc9778466b80bef4de44d5b2fd1664b3f505cadae299b25b80e7cf64",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinki vaatii Ruskeasuon Teboilin legendaarisen huoltoaseman purkamista vuoden 2026 loppuun mennessä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
