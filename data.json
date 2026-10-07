@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-06T23:01:21Z",
+  "updated": "2026-10-07T00:18:11Z",
   "entries": [
     {
       "updated": "2026-10-06T17:44:24Z",
@@ -1063,21 +1063,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T08:05:47Z",
-      "urls": [
-        {
-          "sign": "23832682f30d92335af60c75e6a1df086f2108b8ba5ce04ef38e29c032141337",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee yhdysvaltalaista merijalkaväen sotilasta japanilaisnaisen murhasta hotellissa Nahassa, Okinawa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-05T12:03:00+03:00",
@@ -6098,23 +6083,6 @@
       "title": "Kremlin tiedottaja Dmitri Peskov kiistää ruttohuhut Irkutskin alueella tutkijan kuoleman ja lähes 200 karanteenin jälkeen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-05T16:09:04Z",
-      "urls": [
-        {
-          "sign": "6b0b8c791ace5b1f9a3c574f82956442185ea40513ece3d3ed1d185d76b59a10",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pirkko Mannola ja Göran Stubb kertovat, ettei avioliitto ole suunnitelmissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13752,6 +13720,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T00:18:11Z",
+      "urls": [
+        {
+          "sign": "ace2b72cc4c4ee40c313a2671e6e6859f6314b5620c17f61d653bd4c5badeb9f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump lupaa auttaa Venäjää ja keskustella Putinin kanssa hyvin pian epäillystä ruttokuolemasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T00:16:13Z",
+      "urls": [
+        {
+          "sign": "60bd6d2e0f7cdc52066a8d8c2c1019ce009d98ad9cafd244e0d5fcba4800bcf1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Australian korkein oikeus hylkäsi Mount Pleasantin hiilikaivoksen jatkoluvan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
