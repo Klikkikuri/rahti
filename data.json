@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T11:00:00+03:00",
+  "updated": "2026-10-07T11:11:00+03:00",
   "entries": [
     {
       "updated": "2026-10-07T07:33:54Z",
@@ -854,38 +854,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-04T16:00:00+03:00",
-      "urls": [
-        {
-          "sign": "bbb0c8b8862b7e7f864ac6e8bd21aabdf25993375b33a1628f42d0e84d206dc5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T16:02:00+03:00",
-      "urls": [
-        {
-          "sign": "d33f20973982deaaad0a32061f409969134eeaf8bea4f828dd3037b93ac4f069",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vanhemmat ja ystävät muistivat Olivia Oraa kappelilla lempikukilla ja suruadresseilla Koskella",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-04T16:45:00+03:00",
@@ -5902,53 +5870,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T03:38:03Z",
-      "urls": [
-        {
-          "sign": "e862e3853873952c6806b000b4cc2202629ba4216ecc127789fb2f8fc8731d06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aki Palsanmäki alensi tarjoustaan 50 eurolla – Mandi ja Oskari hyväksyivät kaupat 200 eurolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T03:32:49Z",
-      "urls": [
-        {
-          "sign": "a7d3d86769b4fc2858ae13e9699d9730ceb8f063bf93a1e8e50ac94f6e26e88f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tampereen Alihankinta-messujen pysäköintisakot mitätöidään – vain \"Pysäköinti muualle kuin merkitylle alueelle\" -perusteiset maksut poistuvat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T03:39:18Z",
-      "urls": [
-        {
-          "sign": "36bd5f04446589ab2b43e8c5be7dfcd7b524c78e54f018ff3bad5cc443129a59",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-06T03:43:13Z",
@@ -13480,7 +13401,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T07:29:18Z",
+      "updated": "2026-10-07T08:05:16Z",
       "urls": [
         {
           "sign": "4042a38943ace697a01b8c87f0511192338465b2f729243b78400558105267b5",
@@ -13489,7 +13410,7 @@
           ]
         }
       ],
-      "title": "Valtiovarainministeriö ehdottaa eläkeiän nostamista 70 vuoteen, kuntien määrän vähentämistä ja kotihoidontuen poistoa",
+      "title": "Valtiovarainministeriö esittää hallitukselle eläkeiän nostamista 70 vuoteen, kuntien määrän vähentämistä ja kotihoidontuen poistoa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13747,6 +13668,87 @@
       ],
       "title": "Helsinki vaatii Ruskeasuon Teboilin legendaarisen huoltoaseman purkamista vuoden 2026 loppuun mennessä",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T08:10:28Z",
+      "urls": [
+        {
+          "sign": "13d201115c27de87a90aa83cb58b58c54d54484cdcb012c6a8410dfc062f5e29",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jaakko Parkkali ihmettelee rahkan ja raejuuston puuttumista kaupoissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T11:05:00+03:00",
+      "urls": [
+        {
+          "sign": "d60027cb4d6174fb96443735be6025785924f431ffe20ab4e610852af4d173a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T08:08:49Z",
+      "urls": [
+        {
+          "sign": "a8c2475a5ec69bb2ac0ed9548f7c734abf7192c02ddc3abea8275cbaa562ccbb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kysely paljastaa: kolme neljästä suomalaisesta rahoittaa ruokaa ja bensaa käytetyn tavaran myynnillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T11:11:00+03:00",
+      "urls": [
+        {
+          "sign": "dbe81a7172b9e94e0d49f7275a72f4ec697e97fc215c447cb272d4f7d98e3c5a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T08:01:19Z",
+      "urls": [
+        {
+          "sign": "8bc98c139a13a6fc92f33cad7cf69b9b1270ca40c32c4923279970a193e8cb21",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuningas Felipe VI sai yleisön avun Käpylän lausumiseen ja vitsaili vaimolleen",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
