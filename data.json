@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T03:58:48Z",
+  "updated": "2026-10-07T04:06:11Z",
   "entries": [
     {
       "updated": "2026-10-07T01:32:32Z",
@@ -841,21 +841,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T10:45:55Z",
-      "urls": [
-        {
-          "sign": "db83b2ffc60b39d356319c434e53869a4c56316a02d2167be9aa67a09bffaee6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Isä ja poika kuolivat metsästysammuskelussa Haldenissa – poliisi otti 20‑vuotiaan epäillyn kiinni, yksi loukkaantui vakavasti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-04T10:15:00+03:00",
@@ -6109,21 +6094,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T17:34:34Z",
-      "urls": [
-        {
-          "sign": "b69604e30397a4590384df0be258275840457d7406719d428f37368636cbe626",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Days of Our Lives -näyttelijä Robert Kelker‑Kelly kuoli 3. lokakuuta 62‑vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T17:31:48Z",
@@ -13756,6 +13726,38 @@
       "title": "WHO:n pääjohtaja Tedros vaatii Venäjältä läpinäkyvää tiedonvaihtoa epäillystä ruttokuolemasta Siperiassa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T04:06:11Z",
+      "urls": [
+        {
+          "sign": "ebbf04b03f57cb9935ead77ba62eadebe1d26da6ca6e188f017df79c9e5dd96a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tennesseen republikaanit harkitsevat sähkötuolin käyttöä myrkkyruiskun epäonnistumisen jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-07T04:02:00Z",
+      "urls": [
+        {
+          "sign": "94e4ac87df0eb1c655a43ffb6fadebb071ddf4d79616d3da932cba69c4eeff20",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tim Cornbill taltioi Emiratesin Airbus A380:n laskeutumisen Heathrow'n sumussa – videota ylistetään sosiaalisessa mediassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
