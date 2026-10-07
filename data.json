@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T13:11:18Z",
+  "updated": "2026-10-07T16:26:00+03:00",
   "entries": [
     {
       "updated": "2026-10-07T08:40:38Z",
@@ -830,38 +830,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T18:57:47Z",
-      "urls": [
-        {
-          "sign": "febaf9b4098c80addf085694d31c4b7f977f7d04b803c11c860164237f563846",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jani Halme kiitti TTK:n pudotusta ja sanoi sen olevan oikeus ja kohtuus",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-04T19:21:20Z",
-      "urls": [
-        {
-          "sign": "62315bcb54945cfc64a963911eefc951fb16f5fa0406324a68ca7acf1b5745a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ohjelmistovirhe aiheutti Bahrainin F1‑kierroksella autojen hyytymisen, kuljettajat kritisoivat FIA:ta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-04T21:00:00Z",
       "urls": [
         {
@@ -987,21 +955,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-05T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "5168abfad7fff3e6577cbf4c54a5fb4a5a2d4bb90585a77961984c0c146bcdb2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS kertoo 50 vuotta sitten 5.10.1976 julkaistut uutiset: teleneuvottelu, vaalimainosten ilkivalta ja Ruotsin poliittiset kuviot",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1830,21 +1783,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T09:41:29Z",
-      "urls": [
-        {
-          "sign": "e9105c716074925569bb52ff811b718988584eac5944e444cd2f58791a51fd21",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yli 2600 naisen tutkimus: varhaiset vaihdevuodet lisäävät ahdistus- ja masennusoireiden riskiä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-05T12:40:00+03:00",
@@ -6042,23 +5980,6 @@
       "title": "Vedonlyöntivihje: KooKoo tasapeli ei vetoa kertoimella 2,14 Klagenfurt-otteluun tiistaina",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T09:40:42Z",
-      "urls": [
-        {
-          "sign": "cb68fbc7192ae0c466ea6130ca3720c6c2cd1eef168d3a87f7f7d56bcccd700d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seinäjoen käräjäoikeus tuomitsi Ivan Lunhun kymmeneksi vuodeksi vankeuteen vaimonsa kurkun viiltämisestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13702,6 +13623,86 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T13:20:59Z",
+      "urls": [
+        {
+          "sign": "6f0fe6d880694037339de08f4357d1b29b7a73550acdb8ae8fabee9181305b6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T13:16:58Z",
+      "urls": [
+        {
+          "sign": "142cc9aa6d08125a4950e046beb1c25e4fd074d244e4a167f283a4adbf5b8239",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Futisprofeetat vaativat Jacob Friisin erottamista ennen EM-karsintoja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T13:16:47Z",
+      "urls": [
+        {
+          "sign": "552b3792edf45866dd9fb68f5d1af864437436695435bfa4f3e62d1ae24efefd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle celebrates 45 years of teletext service",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-07T16:26:00+03:00",
+      "urls": [
+        {
+          "sign": "0cc8d6badc4fc61581875698de595133f51672c8c78ca6b27b9b63f30bd8b570",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin hallinto-oikeus velvoitti yliopiston luovuttamaan Sivullisen kirjakaupan häätöselvityksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-07T13:21:49Z",
+      "urls": [
+        {
+          "sign": "919e124ddb1dc09c5b8a25ff34d0cfb2d473003977f48e2d07b7b44e0c9da4bd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump esiintyi Jos. A. Bankin pukussa – asiantuntijat keskustelevat valinnasta, Valkoinen talo ei kommentoi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
