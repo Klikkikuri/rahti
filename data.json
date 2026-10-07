@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T03:13:37Z",
+  "updated": "2026-10-07T03:28:00Z",
   "entries": [
     {
       "updated": "2026-10-07T01:32:32Z",
@@ -903,23 +903,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-04T07:45:00Z",
-      "urls": [
-        {
-          "sign": "7f9a513eadaf59fcfa8a2e2e5e26f609aecbd2c7fe2e1139485462fa8a14f469",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapset matkustavat yhä useammin isovanhempiensa tai vain yhden vanhemman kanssa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-04T11:11:00+03:00",
       "urls": [
         {
@@ -965,23 +948,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-04T08:05:44Z",
-      "urls": [
-        {
-          "sign": "5e2487c6bc283d99483407a86e90a6e3a8848e96f93a032c5d87263e9fb7b227",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pekka Pouta näyttää punkin pureman vatsassaan Huomenta Suomen lähetyksessä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-04T10:14:00Z",
@@ -13758,6 +13724,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T03:28:00Z",
+      "urls": [
+        {
+          "sign": "235f22d9e710d187bef47faa2d420ce7c81b6a7fa72167751d71f497a9ecf05b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perheenäiti Hanneleen ostama Kamux-auto ei läpäissyt katsastusta ruostevaurioiden vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-07T03:16:00Z",
+      "urls": [
+        {
+          "sign": "bae1c91549d82684b2bbee51c2fe7fc2fe963922d3b5b25f2de5e317325feb2a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nainen tuomittiin ehdolliseen vankeuteen ja lähes 50 000 euron korvauksiin loukkaavan kirjan julkaisemisesta – vaati ex-vaimolta ja ystävältä rahaa kirjan estämiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
