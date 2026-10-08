@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T02:15:00Z",
+  "updated": "2026-10-08T02:36:41Z",
   "entries": [
     {
       "updated": "2026-10-07T23:00:02Z",
@@ -881,23 +881,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-05T10:33:00Z",
-      "urls": [
-        {
-          "sign": "11ab425530db2b5c0f34b508baa06de7a3e58ed7ddcd1969b4217aa7e6b7466d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jaakko Parkkali kertoi sekosivansa tanssiaskeleissa suorassa Tanssii Tähtien Kanssa -lähetyksessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-05T10:46:28Z",
@@ -2278,23 +2261,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T16:17:23Z",
-      "urls": [
-        {
-          "sign": "f93fe7114d9d7d59f626b7e51498c37d1297575c9d7c44a0098e3a715e6c70a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos: voimakkaat myräkkävuodot aiheuttivat laajoja vahinkoja Suomessa, tuuli heikkenee yön aikana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-05T21:25:58Z",
@@ -13667,6 +13633,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T02:36:41Z",
+      "urls": [
+        {
+          "sign": "776f3623631535df3102c75c6123d2b3aae7c90be0ce89de2a661936a5d44990",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjät vaativat Fitburg-aluksen kapteenille ja pursimiehelle vähintään 2,5 vuoden vankeutta kaapelituhoista – oikeudenkäynti päättyy tänään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T02:35:37Z",
+      "urls": [
+        {
+          "sign": "cbd59c1ed1c664dccc376f350cf475b823ed06dba06fd36ef3e72376a89de2ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mobilepayn nimissä liikkuvat huijausviestejä varoittavat käyttäjiä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
