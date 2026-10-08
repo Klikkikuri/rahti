@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T18:28:55Z",
+  "updated": "2026-10-08T18:44:47Z",
   "entries": [
     {
       "updated": "2026-10-08T18:20:42Z",
@@ -986,21 +986,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-06T12:30:00+03:00",
-      "urls": [
-        {
-          "sign": "4f9a4ad27d8807c69b0b9a0a58136986422466aa6dfa58f2e72679d7e206378e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskipohjanmaa vaatii ankaraa tuomiota venäläisille siviili-iskuille, Turun Sanomat varoittaa El Niño:n nostavan ruokahintoja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-06T09:26:39Z",
@@ -5623,21 +5608,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-07T13:41:24Z",
-      "urls": [
-        {
-          "sign": "9f4820ac024e7146538854d499639864e1f9892603b1e838d29beeb08fe0cbe5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Joosu Tomio Karppinen tuomittiin elinkautiseen isänsä ja tämän puolison murhista Laukaassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T13:29:07Z",
       "urls": [
         {
@@ -5746,23 +5716,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-07T13:52:49Z",
-      "urls": [
-        {
-          "sign": "425eb74de3ca3d95f5442f072166c147b6bb3bedc106daaddaedeef3f2cb5ece",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aku Louhimiehen sairastuminen viivästytti Lapin sota -elokuvan kuvauksia, näyttelijät huolissaan ohjaajan terveydestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T13:55:59Z",
@@ -13548,7 +13501,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-08T18:08:04Z",
+      "updated": "2026-10-08T18:44:47Z",
       "urls": [
         {
           "sign": "92c39980d3552c64a463d245dc703a53b47f713dd7071db4a6c8eabe75b8139d",
@@ -13557,8 +13510,8 @@
           ]
         }
       ],
-      "title": "HIFK:n paikallisottelu Jokerit vastaan jäi vaisuksi – kritiikki kohdistuu seurajohtoon ja lipunhintoihin",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "HIFK:n heikko esitys Jokerit‑ottelussa nostaa kritiikkiä seurajohdolle ja lipunhinnoille",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13625,6 +13578,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T18:40:46Z",
+      "urls": [
+        {
+          "sign": "fb7b47aefb352b76d37fa0f14da6a7d1eb7d724cce170d05105fb2562fb76c92",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkija Arto Luukkanen: Venäjän hyökkäys Narvaan voi heikentää Suomen turvallisuutta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T18:41:52Z",
+      "urls": [
+        {
+          "sign": "d4faaed3d9c9f10463bc70d6d5829280a6d2b375d47ef665ab2b4b7d808730fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jokerit voitti HIFK:n 3‑2 jatkoajalla – uusi päävalmentaja Juuso Hahl ohjasi muutosta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T21:41:00+03:00",
+      "urls": [
+        {
+          "sign": "81c029da4917f2e8b2317c504759cb08a3586df42fbf5b74ceff152bf3b4b4f6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Texasissa Trumpin kampanjatilaisuudesta poistettiin 18 häiriköijää ja useita väkijoukkoja väliintuli",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
