@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T16:28:36Z",
+  "updated": "2026-10-08T16:42:03Z",
   "entries": [
     {
       "updated": "2026-10-08T12:33:58Z",
@@ -847,21 +847,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T10:11:00+03:00",
-      "urls": [
-        {
-          "sign": "098e8a9a77f1f1d908061aaac1fb09d1ea9b51fcd28d8d63b3823be18a3b6556",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bolt-kuskit kieltäytyvät noin 20 euron kyydistä Helsinki-Vantaalla tulojen laskun ja kilpailun vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-05T18:16:11Z",
       "urls": [
         {
@@ -1413,23 +1398,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-06T11:09:15Z",
-      "urls": [
-        {
-          "sign": "0c9a355f320b4a2a292b5969f3f1ee1a98447ff314deb10f453511799efb144e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaasan bussilinjan 30 reitti muuttuu keskustassa 19.10.2026 – koululaiset siirtyvät Raastuvankadun pysäkille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T11:28:10Z",
@@ -5257,23 +5225,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T12:16:09Z",
-      "urls": [
-        {
-          "sign": "161833e6be39c319b5a4ca2425a929c9419b022a8a0930ec8ce0c154f93aa5a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus tuomitsi 53‑vuotiaan isän 7,5 vuoden vankeuteen 8‑vuotiaan poikansa murhan yrityksestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T14:40:00+03:00",
@@ -10709,7 +10660,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-08T16:28:36Z",
+      "updated": "2026-10-08T16:42:03Z",
       "urls": [
         {
           "sign": "c5ce05844952df557ad3f2eeea024e3004c28240fe34aa5c4015e28377613704",
@@ -10719,7 +10670,7 @@
         }
       ],
       "title": "Iltalehti lähettää Jokerit–HIFK -derbyn suorana Veikkaus-areenasta kello 18.15 – studiossa Sami Lepistö, Ville Varakas ja Niko Hovinen",
-      "clickbaitiness": "Moderately Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
@@ -13502,7 +13453,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-08T16:07:44Z",
+      "updated": "2026-10-08T16:34:31Z",
       "urls": [
         {
           "sign": "0bd595f4f0eb68b03497623aab2a215f54231e39597733f987bac66491468155",
@@ -13511,8 +13462,8 @@
           ]
         }
       ],
-      "title": "Jere Karalahdella on yli 59 000 euron velat, joista yli 33 000 euroa on jäännösveroa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Jere Karalahdella yli 59 000 euron ja Semir Ben-Amorilla yli 40 000 euron velat",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13611,6 +13562,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T19:30:00+03:00",
+      "urls": [
+        {
+          "sign": "ecbfa1577e2f6eba2a5d2e05ccb23f55ac8c7cddd7041c629787dd71aaad11fa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-08T16:36:13Z",
+      "urls": [
+        {
+          "sign": "7df89ddf2e2e85909acb8d0cbac5c7c432e0a34019639dc75c192df574376be3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina muodostaa uusia joukkoyksiköitä pohjoisen uhan vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T16:31:05Z",
+      "urls": [
+        {
+          "sign": "90ce2b8ad4383f0e1fab9b44014725bae86800edb4202fab2bd41b31af312532",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Analyysi: Israelin-Hamasin sota jakoi Britannian – kolme tekijää selittävät jakautumista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
