@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-07T23:12:01Z",
+  "updated": "2026-10-08T00:19:55Z",
   "entries": [
     {
       "updated": "2026-10-07T23:00:02Z",
@@ -1321,21 +1321,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T14:28:13Z",
-      "urls": [
-        {
-          "sign": "5f97e7f09cf433c0c1a7274138befae980783ba5296fd58c5e680cdde7fcfaf1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaiset jäivät bussiin Puhoksen edustalla turvallisuusarvion vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-05T14:15:33Z",
@@ -13667,6 +13652,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-08T00:19:55Z",
+      "urls": [
+        {
+          "sign": "57e6aecc0742881e4e3d502bfc7aaa64abdb1aafb402e7e66c433b51c6875233",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "New Yorkin syyttäjät aikovat nostaa uusia kidutussyytteitä Nicolás Maduroa ja Cilia Floresia vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
