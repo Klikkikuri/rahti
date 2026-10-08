@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T06:59:43Z",
+  "updated": "2026-10-08T07:11:13Z",
   "entries": [
     {
       "updated": "2026-10-07T23:00:02Z",
@@ -766,21 +766,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-05T16:32:00+03:00",
-      "urls": [
-        {
-          "sign": "30041f3622d83b5a94607bfa651691f56bd83f041a38524c23c62845ac7b18a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pedro Sánchez ilmoitti Espanjan parlamenttivaalien aikaistamisesta 29. marraskuuta asuntokriisin vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-05T07:12:48Z",
       "urls": [
         {
@@ -1097,21 +1082,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-05T16:09:08Z",
-      "urls": [
-        {
-          "sign": "6212b96bfa4a56d05de1cd879bea547e8a35f6a6476c35446f07fa767b96b651",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saudi-Arabian tukemat Jemenin hallinnon joukot iskevät yli 100 ilmasta iskun hutheja vastaan maanantaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-05T16:38:14Z",
@@ -5539,38 +5509,6 @@
         }
       ],
       "title": "Sport‑Express raportoi Iivo Niskasen melanoomadiagnostiikasta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T19:47:43Z",
-      "urls": [
-        {
-          "sign": "8a99987244c95397c8a4bddc6346e7b8303bb25ca75a44bb3255751f49d5049c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ympäristöministeri Sari Multala vaatii Googlen datakeskusprojektien keskeyttämistä LVV:n määräyksellä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T20:00:10Z",
-      "urls": [
-        {
-          "sign": "b090a5a5fbe06795bcb1add7a27d81497bd4fc9e5027c84e5663090392103736",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suimii‑niminen nainen voitti Tokiossa Koala Sleep Japanin \"Matt Race\" -kilpailun 2 miljoonaa jenkiä palkintona",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13237,7 +13175,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-08T06:23:12Z",
+      "updated": "2026-10-08T07:10:02Z",
       "urls": [
         {
           "sign": "74d1ae52430710664f8af5741beab265cf01f7d61c2363a3c59cbba5707b9a1e",
@@ -13246,9 +13184,11 @@
           ]
         }
       ],
-      "title": "Marika Fingerroos saa pahoinpitelysyytteen – oikeudenkäynti alkaa torstaina klo 9 Pirkanmaan käräjäoikeudessa",
+      "title": "Marika Fingerroos vastaa pahoinpitelysyytteeseen Pirkanmaan käräjäoikeudessa torstaina kello 9",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13641,6 +13581,85 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
+    },
+    {
+      "updated": "2026-10-08T07:07:38Z",
+      "urls": [
+        {
+          "sign": "aeeae952c917012398a5aa8fd05c002515cd02b494ce3595ba947f500d20eca8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T07:11:13Z",
+      "urls": [
+        {
+          "sign": "2ddaa3b2ac95e65cf8632038c64b83fd322dbe58e9effcbe6f315c40cb136a6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kipinä Basket sai liigalisenssin ja laajan tukiverkoston ja tähtää mahdollisimman pitkään liigakevääseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Äks"
+    },
+    {
+      "updated": "2026-10-08T07:07:45Z",
+      "urls": [
+        {
+          "sign": "51897150b73ed78c3d8149723b86d825fc6baa04a045efed13b9c5c857333714",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perussuomalaiset ohitti kokoomuksen Ylen kannatusmittauksessa ensimmäistä kertaa tällä vaalikaudella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T10:11:00+03:00",
+      "urls": [
+        {
+          "sign": "831f66498fa59216ad17d7ed23f2965b3e0fb4e6e6cd043a39ae80a4c31cecba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Laura Gustafssonin Maitotytön audiodraama voitti Prix Italia -palkinnon Suomen mediakohun jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-08T07:04:30Z",
+      "urls": [
+        {
+          "sign": "fe32922f6a43e797117bd10317b5b53e764593716aceda2b6d6e9db9745d54d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arttu Lindeman erosi kesällä – vointi hyvä, keskittyy somesisältöihin ja elokuvatuotantoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
