@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T02:10:04Z",
+  "updated": "2026-10-08T02:15:00Z",
   "entries": [
     {
       "updated": "2026-10-07T23:00:02Z",
@@ -863,21 +863,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T10:17:08Z",
-      "urls": [
-        {
-          "sign": "79e29dbacc5b27a822f4f568de7dd41ab581579c3d0a067095be7afaacef2211",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Strengbergs Habit Factory lopettaa nikotiinipussien valmistuksen Pietarsaaressa ja siirtää tuotannon Ruotsiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13665,6 +13650,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T02:15:00Z",
+      "urls": [
+        {
+          "sign": "9656e14952c20ce842b13f344c8374ccc7ac1732caa42c675052868e2f0f82d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "18-vuotias kortiton mersukuski törmäsi noin 100 km/h nopeudella toiseen autoon Jyväskylässä – videolla näkyy törmäys",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
