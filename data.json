@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T04:58:55Z",
+  "updated": "2026-10-08T05:06:55Z",
   "entries": [
     {
       "updated": "2026-10-07T23:00:02Z",
@@ -1635,24 +1635,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-05T16:44:56Z",
-      "urls": [
-        {
-          "sign": "ef7bc658f54f770ba68903795a391ec48bd31fed9c19dd97c5d6d207d6eba883",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-05T18:16:11Z",
       "urls": [
         {
@@ -1794,23 +1776,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-05T16:17:38Z",
-      "urls": [
-        {
-          "sign": "b61c705d1695c38238a147bf4a848fac42955ff4ad46499a29a14d0c25dad85a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mika Luomansivu valokuvasi asunnottomat Jyväskylän parkkihalleissa korostaen heidän ihmisarvoaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T02:00:00+03:00",
@@ -5886,23 +5851,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-06T18:22:00Z",
-      "urls": [
-        {
-          "sign": "afc8d4e23e8cd7d69fc9b968ff0ef16950932e05ad679b940a97a7192a760093",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela suunnittelee päätalon avaamista turisteille 2030‑luvun alussa UNESCO‑listauksen jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-06T18:56:35Z",
       "urls": [
         {
@@ -5913,21 +5861,6 @@
         }
       ],
       "title": "Suomen Pikkuhuuhkajat tasapeli Kosovon kanssa Pristinassa 4–4 – kahdeksan maalin trilleri",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-06T18:21:05Z",
-      "urls": [
-        {
-          "sign": "ba19f7b31a85e295fa7028574f53ce5d2e302aaa7f7b1a97d23a45ae641988db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jukurit yllättävät SM‑liigan syksyn: 33 maalia, 22 pistettä 11 ottelussa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13645,6 +13578,66 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T05:05:06Z",
+      "urls": [
+        {
+          "sign": "d9d02d190dc4dc21e0888c73ad76bc81d95209a353c8c68d822c259c3639a6d3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen laboratoriotyöntekijä kuoli Yersinia pestis -altistumisen jälkeen Irkutskissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-08T05:06:38Z",
+      "urls": [
+        {
+          "sign": "32d2ab26e1bc5cacc2f5a34da57fc00238fb1f0fb7ba298cb51ad84c5e30b736",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat kumoavat Isomäen kirjan väitteet syövän aiheuttajista – tupakka, alkoholi ja ylipaino edelleen suurimmat riskit",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T05:06:55Z",
+      "urls": [
+        {
+          "sign": "2553bda2fc7e58c86ea5d9776167efa63744e0695dd49f3c7a58114ab39568a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finns Party and National Coalition Party are nearly tied in Yle poll as Social Democrats lead",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-08T05:02:34Z",
+      "urls": [
+        {
+          "sign": "0e83b21d2f9fc5d0905b3523000834daf3ac55896b45f8432028b312d20622c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ella Mikkola kiistää virolaismanagerin väitteen kehityksen puutteestä – \"Ei niitä taiota tyhjästä\"",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
