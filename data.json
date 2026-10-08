@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T21:45:02Z",
+  "updated": "2026-10-08T22:43:39Z",
   "entries": [
     {
       "updated": "2026-10-08T18:20:42Z",
@@ -1174,23 +1174,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-06T11:37:03Z",
-      "urls": [
-        {
-          "sign": "06b886ad2a48cbf8ab5acdf0ee459b520799c78542d2a256e0d13921e4ae675d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjois-Savon hyvinvointialue selvittää, pitääkö Iisalmen ja Varkauden päivystysvastuu palauttaa sotekeskuksille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T13:00:40Z",
@@ -13637,6 +13620,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T22:43:39Z",
+      "urls": [
+        {
+          "sign": "ab278fe9036965d30abad28e9431c3c133d4b7f0fddd259e41dc6c4f6e3aad9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "USS Abraham Lincoln palasi San Diegoon pitkän Lähi-idän-komennuksen jälkeen; miehistön raportoimat itsemurhayritykset ja ruokapula herättivät huolta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
