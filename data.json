@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T17:00:08Z",
+  "updated": "2026-10-08T17:14:04Z",
   "entries": [
     {
       "updated": "2026-10-08T12:33:58Z",
@@ -1400,23 +1400,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-06T11:19:43Z",
-      "urls": [
-        {
-          "sign": "da3239fc7bd86f5fe5ab0252d8dd6665edbc035f0522c3d47db23ab36d8415ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tietosuojavastaava löysi useita salaisia asiakirjoja Kanervan koulusta – mukana lasten terveystietoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T11:27:32Z",
@@ -5423,21 +5406,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T12:30:52Z",
-      "urls": [
-        {
-          "sign": "3c5221e49431a4ccf354e0b50cb320320fc956bfc22caa8954ff6441fbc872cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mika Kojonkoski: Valmennusura päättyy",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T12:30:00Z",
       "urls": [
         {
@@ -5451,21 +5419,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T12:35:44Z",
-      "urls": [
-        {
-          "sign": "c5b539193ef333e81c0e0ac44809217233c943b3d75502bf45ed0e84b6b0d884",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hyundain sähköinen Staria tarjoaa jopa yhdeksän paikkaa ja futuristisen muotoilun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T12:38:53Z",
@@ -5541,21 +5494,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T12:48:56Z",
-      "urls": [
-        {
-          "sign": "ac82c0853b904b4e4c81be2043daa17652fe6765cfa6da93db51c3d4860492b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nokia aikoo vähentää 253 työtehtävää Suomesta – yt-neuvottelut alkavat 12. lokakuuta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T12:53:57Z",
@@ -12620,7 +12558,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-08T14:45:49Z",
+      "updated": "2026-10-08T17:10:17Z",
       "urls": [
         {
           "sign": "39304feb4b610887d3ea0f3c96f3895de0f877d2069ca66477db1c6c8991d02c",
@@ -12629,7 +12567,7 @@
           ]
         }
       ],
-      "title": "Useat suomalaiset hotellit varoittavat asiakkaitaan tietomurrosta johtuvista WhatsApp- ja tekstiviestihuijauksista",
+      "title": "Tahko Spa Hotel, Santasport ja Peurunka varoittavat asiakkaitaan tietomurrosta johtuvista huijausviesteistä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13220,7 +13158,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-08T15:28:18Z",
+      "updated": "2026-10-08T17:13:43Z",
       "urls": [
         {
           "sign": "11802e1aea78fb7e49071b8ba16a9005b4b46251c3f8c440b2c346d5e7e7ada1",
@@ -13229,9 +13167,11 @@
           ]
         }
       ],
-      "title": "Norjassa laaja puhelinverkon häiriö pysäyttää junaliikenteen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "title": "Norjan puhelinverkko toimii taas, mutta junaliikenne ei vielä normalisoitunut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13457,7 +13397,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-08T16:27:38Z",
+      "updated": "2026-10-08T17:14:04Z",
       "urls": [
         {
           "sign": "161b8bac5b27b97fe45c3b7516128491dbc6ff2c2a457f9132dff6f5d98b83de",
@@ -13466,8 +13406,8 @@
           ]
         }
       ],
-      "title": "Telenorin tietoliikennehäiriö pysäyttää Norjan junaliikenteen ja haittaa hätänumeroon soittamista",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Telenor korjasi tietoliikennehäiriönsä – Norjan junat liikkeellä ja hätänumero toimii jälleen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13589,7 +13529,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-08T19:57:00+03:00",
+      "updated": "2026-10-08T20:01:00+03:00",
       "urls": [
         {
           "sign": "ce6857e2a60c1fab0a6601bb4e9d6720eb511947f38c91ee2be87eafb03871b0",
@@ -13598,8 +13538,8 @@
           ]
         }
       ],
-      "title": "Telenorin tietoliikenneongelmat pysäyttivät kaikki junat Norjassa torstaina",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Telenorin tietoliikenneongelmat pysäyttivät kaikki junaliikenteen Norjassa torstaina",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13618,6 +13558,70 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T17:00:23Z",
+      "urls": [
+        {
+          "sign": "d21fb0e6fa29ab1225e92b046bf29458b60cab734d360f890c54b830c4aa54e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T17:06:03Z",
+      "urls": [
+        {
+          "sign": "9576a2f7a07d5447d128efc958b5e03af00cf6ed1a6cda2ca0169d925a32611a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Natalie Harp, 35, luottaa dramaattiseen silmärajaukseen ja nude-avokkaisiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T17:05:58Z",
+      "urls": [
+        {
+          "sign": "504b21455f86f8f77cb535311c522b0deb11ee695061cd7dec9d309bf83a7b10",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "AfD:n Tobias Rausch valittiin Sachsen-Anhaltin parlamentin puhemieheksi tiistaina – CDU:n ryhmä hajoamisen partaalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-08T17:04:01Z",
+      "urls": [
+        {
+          "sign": "2cc2cdd1e0034d5a5593565b2388a36c48d634d7eb155f0ce3be5d275b5da5d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nicolas Lempinen, joka on muuttanut 49 kertaa, nimeää Riihimäen Suomen parhaaksi asuinpaikaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
