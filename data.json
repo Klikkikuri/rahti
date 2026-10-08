@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T03:07:00Z",
+  "updated": "2026-10-08T03:28:32Z",
   "entries": [
     {
       "updated": "2026-10-07T23:00:02Z",
@@ -1225,23 +1225,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-05T14:43:36Z",
-      "urls": [
-        {
-          "sign": "ef5204cce567f8e038fc788724bbd4f82ebf5f2583cd4dfb168b1d4b8d23b39a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump kampanjoi republikaanien vahvoilla alueilla kannustaakseen ydinkannattajiaan äänestämään välivaaleissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-05T17:30:00+03:00",
@@ -13661,6 +13644,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T03:28:32Z",
+      "urls": [
+        {
+          "sign": "534cb6705c743b4b1bc11f2d69d851d6f550012cc487baaa353de701c0d38082",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sateet saapuvat Suomeen torstaina, perjantaina runsaita sateita länsi- ja keskiosissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
