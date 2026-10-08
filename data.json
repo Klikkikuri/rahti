@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-08T16:13:30Z",
+  "updated": "2026-10-08T16:28:36Z",
   "entries": [
     {
       "updated": "2026-10-08T12:33:58Z",
@@ -5500,21 +5500,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-07T12:10:20Z",
-      "urls": [
-        {
-          "sign": "7faaa90b0aeeef6bc35a4412ec8e9d5e6b72693ba878dc5f8b4c35e482b60906",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Putinin uhkailut paljastavat Venäjän heikkouden",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T12:07:40Z",
       "urls": [
         {
@@ -10724,7 +10709,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-08T16:00:15Z",
+      "updated": "2026-10-08T16:28:36Z",
       "urls": [
         {
           "sign": "c5ce05844952df557ad3f2eeea024e3004c28240fe34aa5c4015e28377613704",
@@ -10733,10 +10718,11 @@
           ]
         }
       ],
-      "title": "Iltalehti lähettää Jokerit–HIFK -ottelun suorana Veikkaus-areenasta kello 18.15 – studiossa Sami Lepistö, Ville Varakas ja Niko Hovinen",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Iltalehti lähettää Jokerit–HIFK -derbyn suorana Veikkaus-areenasta kello 18.15 – studiossa Sami Lepistö, Ville Varakas ja Niko Hovinen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13610,6 +13596,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T16:27:38Z",
+      "urls": [
+        {
+          "sign": "161b8bac5b27b97fe45c3b7516128491dbc6ff2c2a457f9132dff6f5d98b83de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Telenorin tietoliikennehäiriö pysäyttää Norjan junaliikenteen ja haittaa hätänumeroon soittamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
