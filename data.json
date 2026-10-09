@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T10:11:41Z",
+  "updated": "2026-10-09T10:27:59Z",
   "entries": [
     {
       "updated": "2026-10-09T09:00:40Z",
@@ -930,38 +930,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T19:30:00+03:00",
-      "urls": [
-        {
-          "sign": "36306cdcc6a57dd7af8cb9fde92be4a078d45d501869e6782b7c63e95f8de4a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espoon ihmiskauppajutun puolustus kritisoi poliisin syyttömyysolettaman puutetta oikeussalissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "9623fbe95994dcf655ad2b4d6cb5784c90d94e9e017dce7e73eeb31c93689017",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-06T20:15:00+03:00",
       "urls": [
         {
@@ -1067,41 +1035,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T19:12:15Z",
-      "urls": [
-        {
-          "sign": "8d77724f0d5fd653dc6047433a1ee49bd39f329bfbe081d277424d3f9a0c16bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen U21‑miesten Pikkuhuuhkajat tasapeli Kosovon kanssa ja varmistivat toisen paikan EM‑jatkokarsinnoissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T20:00:56Z",
-      "urls": [
-        {
-          "sign": "2787f2c53b149a3730abcb22195cc2ebf268e581d1ff5dcf6a6ec11f1c58b9ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T21:01:35Z",
@@ -13587,6 +13520,68 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T08:33:16Z",
+      "urls": [
+        {
+          "sign": "a1117199eb58c738cccbac434b6f13f2c084e73bd407c1fda014499457d90819",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metsänhakkuut tuhosivat suojellun neidonkenkäesiintymän Keminmaassa – neljälle syytteet luonnonsuojelurikoksesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T10:27:59Z",
+      "urls": [
+        {
+          "sign": "8cd2376d4a524a732109d95fdf7dc8d27c8419d6526e4d033ba18d40c0adab9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finland prepares to send €1 million defence aid package to Ukraine",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "cc8650d730f71743f098b24390071a9706074b55d55fb990e0bc66c64bba229f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professorin mukaan taitamaton riskinotto valtionyhtiöissä johtaa taloudelliseen turmioon",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T13:23:00+03:00",
+      "urls": [
+        {
+          "sign": "12b26cafdb2a337ed1d737e605f5de0324ccc63d88e152c99df84e480a4e2388",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kampin metroaseman uusi lippuhalli avautuu maanantaina – taideteos Meren jano tuo Itämeren kaupunkiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
