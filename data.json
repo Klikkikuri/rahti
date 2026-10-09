@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T15:23:19Z",
+  "updated": "2026-10-09T18:45:00+03:00",
   "entries": [
     {
       "updated": "2026-10-09T09:00:40Z",
@@ -964,39 +964,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T05:39:13Z",
-      "urls": [
-        {
-          "sign": "4c23b723e21bec98c1c0590e6cbe542f790a7d5c7f27b66a1f99f55cfbc97414",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ronaldo vaatii rangaistusta maajoukkueen lähdöstä ja syyttää päävalmentaja Jorge Jesusta lupauksien rikkomisesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T06:31:00Z",
-      "urls": [
-        {
-          "sign": "8419968288aeb0bac20de8a0a06c9d42a01ab41a4dd07a3a46790c21890cfc7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaistutkimus löysi yhteyden varhain alkaneiden vaihdevuosien ja lisääntyneiden ahdistus- ja masennusoireiden välillä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-07T06:56:03Z",
       "urls": [
         {
@@ -1012,23 +979,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T10:00:00+03:00",
-      "urls": [
-        {
-          "sign": "65a92f0fa443789577ce56bbfe1374bcfbedc9272d4ff28ee356c2172428bce0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-07T10:18:00+03:00",
@@ -5550,21 +5500,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-08T10:29:53Z",
-      "urls": [
-        {
-          "sign": "8008040ecf172c855716251503f8a6faa737f430e38ca344fd31d164c7e092b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suosittelemme Jokerit–HIFK yli 5,5 maalia ja JoKP–KeuPa HT kotivoittoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-08T10:31:24Z",
       "urls": [
         {
@@ -5575,21 +5510,6 @@
         }
       ],
       "title": "Janni Hussi esittelee kotinsa Helsingissä: Katso upeat kuvat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-08T10:30:28Z",
-      "urls": [
-        {
-          "sign": "22bb5a8479b4cecbf21e13d219648ec43869cfc418896657781d35942b2ea3c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä nosti syytteen 55-vuotiasta erikoislääkäriä vastaan vaimonsa murhan yrityksestä 19. helmikuuta 2026 Kuopiossa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13132,7 +13052,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-09T15:01:22Z",
+      "updated": "2026-10-09T15:36:03Z",
       "urls": [
         {
           "sign": "c8550eafb0b01dcf9a056c8687d9b60a6d2ef9560324294c6dd665e1fa8bcb87",
@@ -13597,6 +13517,86 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "15782e01feb73d71a379c1b3dd8ac75bcd41f6f95dbe3581147a367079e38cfe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaisa-Leena Juvonen: Israel jatkaa hyökkäyksiä Gazassa tulitauosta huolimatta – hätätilat täyttyvät haavoittuneista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T15:40:00Z",
+      "urls": [
+        {
+          "sign": "22ca0f728fb73b23b5a173a48ad6b449f00dfd1358b17148fa838d8bb414f89b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vedestä leviävä sieni uhkaa Kalifornian rupikonnia – havaintoja myös Pohjoismaissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T15:40:11Z",
+      "urls": [
+        {
+          "sign": "85e1c864472f6ed4784b213352b1e57798fce52d2f9912aaa1762f66fa2511f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaupunki hyvittää espoolaisperheen 155 euron sanktiomaksun kahdesta päiväkotipäivästä – ohjeiden epäselvyys myönnetty",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T15:43:43Z",
+      "urls": [
+        {
+          "sign": "3195149770d9c7e59002c1d7d29815347fbad27808ad14ae188c36f754516ebb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pia Penttala vaatii koulujen rauhaa ja lisäresursseja Pisa-tulosten nostamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T15:38:32Z",
+      "urls": [
+        {
+          "sign": "4c1e3c6a2e17cbda453bd761413b26793d7f351732a74ea1b47d742b705c7c0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Google aloitti metsähakut datakeskushankkeessaan ennen YVA-menettelyä – viranomainen pitää tapausta poikkeuksellisenä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
