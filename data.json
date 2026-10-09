@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T17:44:49Z",
+  "updated": "2026-10-09T17:50:38Z",
   "entries": [
     {
       "updated": "2026-10-09T17:24:50Z",
@@ -960,21 +960,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T09:03:36Z",
-      "urls": [
-        {
-          "sign": "a5a3cc0a10f1733153d5cc9e5a46982b2454464838e5647a84391e134581dcb2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jussi Markkanen eroaa SM-liigan urheilujohtajan tehtävästään – Mikko Pulkkinen hoitaa tehtävää väliaikaisesti",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-07T10:03:22Z",
@@ -5597,21 +5582,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-08T12:10:30Z",
-      "urls": [
-        {
-          "sign": "ac9c37e54e363bb1052fe2b54e478a5c8d6fb125e826864cb4a39f2261122a06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NBC kehittää Yhdysvaltain version suomalaisesta rikosdraamasarjasta Pohjoisen tähti – sarja sijoittuu Coloradon eteläosiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-08T12:09:45Z",
       "urls": [
         {
@@ -5702,21 +5672,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-08T12:16:12Z",
-      "urls": [
-        {
-          "sign": "35d44d4a829d67cb60ce7f9cc31e2c14928d08be29b4983da0c51a240dc40557",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi varoittaa Matkuksen läheisyydessä liikkuneesta miehestä, joka on ahdistellut naisia Kuopiossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-08T12:18:03Z",
@@ -13579,6 +13534,56 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T17:34:45Z",
+      "urls": [
+        {
+          "sign": "0048a3edafa1de31dbc9922d784c7d883ded0ba42431b345e9b2973ef63f09c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Graffititaiteilija Daniel Denicolai maalaa UPM:n metsähakkuja kritisoivan teoksen Helsingin Suvilahden graffitiaidalle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T17:50:38Z",
+      "urls": [
+        {
+          "sign": "1571e3036a6407397e0d0a278a6e3214f5b74e9949c83f025e25c0d4c3e487c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi kertoo, että yksi kuoli ja kolme loukkaantui Ysitiellä tapahtuneessa liikenneonnettomuudessa perjantaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T17:45:45Z",
+      "urls": [
+        {
+          "sign": "33e176e96008a393b5268801c6f76764d4af9a5c40be4aed73fdb8d22741715c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
