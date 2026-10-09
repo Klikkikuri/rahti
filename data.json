@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T02:15:00Z",
+  "updated": "2026-10-09T02:19:39Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1117,21 +1117,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T12:27:59Z",
-      "urls": [
-        {
-          "sign": "d53bbef418470ce8764f3a8ad4a50a07499475a65865cac196b917cf68eda270",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Francis Halzen voitti fysiikan Nobel-palkinnon neutriinotutkimuksestaan IceCube-observatoriossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T17:50:00+03:00",
@@ -13641,6 +13626,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T02:19:39Z",
+      "urls": [
+        {
+          "sign": "dc61c05bfaae7fb62738c6aeb83e24d1dad98ee17449dd3ad1919bdc327eeaab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ympäristöministeri Multala: Googlelle ei rangaistusta datakeskus hakkuista Muhoksessa ja Kajaanissa, laki ei mahdollista sanktioita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
