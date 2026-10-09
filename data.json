@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T05:13:00Z",
+  "updated": "2026-10-09T05:23:39Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1054,23 +1054,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T16:00:00+03:00",
-      "urls": [
-        {
-          "sign": "de21e98dd42acd687a78edc273fbeede7c004718a35c738a2a5e48c2691d3823",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-06T16:02:00+03:00",
       "urls": [
         {
@@ -1474,23 +1457,6 @@
       "title": "SM‑liiga kirjaa parhaan keskiyleisön sitten kauden 2013‑14, Jokerit vetää eniten katsojia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-06T16:03:00Z",
-      "urls": [
-        {
-          "sign": "517e5962d0243764a8eba1ad5bb0ecf411f4253478afcf1f5b82a056dd0e67ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Janne Saarinen ja Katri Riihimäki esittivät nykytanssin vivahteita sisältävän rumban TTK:n viidennessä suorassa – tuomaristo antoi 23 pistettä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5634,21 +5600,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T17:43:17Z",
-      "urls": [
-        {
-          "sign": "5582e55ada23ac2444caa3bf10448a86f4b8b3075ad6a76bf73b1a6646fa3d0c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump väitti Baltimoressa, että Suomi valmistaa vain jäänmurtajia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T19:59:00+03:00",
       "urls": [
         {
@@ -5850,23 +5801,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T17:28:15Z",
-      "urls": [
-        {
-          "sign": "26a677336f80c21638ff4e2a87e4797ffda0d10165071db065cdc2008c153830",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusvoimat järjesti Tampereen Kalkun sotilasjäämien huutokaupan, jossa myytiin 312 esinettä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T20:13:00+03:00",
@@ -13639,6 +13573,70 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T08:20:00+03:00",
+      "urls": [
+        {
+          "sign": "73a7b31a86b1b5e6d4312a7cf75f80f70b29fcac671d7d128566894b88b3b9ba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Geeniterapia paransi näköä kuudella kymmenestä sokeasta koehenkilöstä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T05:17:49Z",
+      "urls": [
+        {
+          "sign": "f618e0cb5d4c817916ea841f94f8670e87a27256e0a57ccd707719d0275dd18d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump vaatii tekoälyn nimeämistä \"superälyksi\" ja luokittelee kriitikot vihollisiksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T05:17:42Z",
+      "urls": [
+        {
+          "sign": "ab2c2d650fb03e2598daef45ca510e10857233d8437c7e0b208440233b0e59ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eduskunta hylkäsi eläkeiän nostamisen 70 vuoteen – terveys ja muistisairaudet keskeisinä huolina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T05:23:39Z",
+      "urls": [
+        {
+          "sign": "0dbef8e4e34ed8606e46cc495ad642eca898abb5091670ff05f048cbbc848d9e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ympäristöministeri Sari Multala: Google teki selkeän virheen Muhoksen datakeskushankkeessa, mutta sanktioita ei voida antaa nykyisellä lainsäädännöllä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
