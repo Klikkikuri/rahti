@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T03:43:36Z",
+  "updated": "2026-10-09T03:57:15Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1277,21 +1277,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-06T14:02:00Z",
-      "urls": [
-        {
-          "sign": "8c39f5f0ec95b1205a0cc775baa14e58c5fef67783bfe6631d67ec18fdb20b49",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ex‑prinssi Andrew Mountbatten‑Windsor nostaa oikeusjutun helmikuun pidätykseen liittyvistä etsintäluvista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-06T14:21:26Z",
       "urls": [
         {
@@ -1471,21 +1456,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T14:24:04Z",
-      "urls": [
-        {
-          "sign": "7c48dbc6dd73861a23d243afa121b997b2a2d65f9c63ba5f22d4cd2c63dd5b20",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Intia ja Qatar kilpailevat vuoden 2036 kesäolympialaisten isäntäkaupungista; seitsemän maata on hakenut",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T15:33:11Z",
@@ -13463,7 +13433,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-09T03:00:07Z",
+      "updated": "2026-10-09T03:54:21Z",
       "urls": [
         {
           "sign": "3cddb6a4c812a2fcf40a0c2b684afc962a3543f5377d0cb0e4d093cde357ee62",
@@ -13472,7 +13442,7 @@
           ]
         }
       ],
-      "title": "Karalahti ja Ben-Amor ottavat tammikuussa nyrkkeilyottelun vakavista terveysongelmista huolimatta",
+      "title": "Jere Karalahti ja Semir Ben-Amor ottavat tammikuussa toisistaan mittaa nyrkkeilykehässä vakavista terveysongelmista huolimatta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13617,7 +13587,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-09T03:36:45Z",
+      "updated": "2026-10-09T03:57:15Z",
       "urls": [
         {
           "sign": "b7fe41d2501bc0a95faddd7a438dc20363dc56b49448057b809fff7c3b6c698e",
@@ -13632,6 +13602,40 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T03:54:00Z",
+      "urls": [
+        {
+          "sign": "409c793dfff1d8903d01613973638dd3b71817351adeae9c3aa2f04fedaa0b7e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puuttuva hammas lisää muiden hampaiden kuormitusta ja voi aiheuttaa kallisia hoitoja myöhemmin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T03:52:54Z",
+      "urls": [
+        {
+          "sign": "a4d154246e06793ecf1719152008b430b09a78dbde0ed0d024a6656a54130125",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat suunnittelee muutaman päivän iskusarjaa Iraniin – kolme lentotukialusta Lähi-idässä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
