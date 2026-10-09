@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T05:23:39Z",
+  "updated": "2026-10-09T05:42:13Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1069,21 +1069,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T13:26:17Z",
-      "urls": [
-        {
-          "sign": "3e9890a8acfc514911900c7c1a7463ca852a09e68aee88e5d16e5bca82639ff6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kanta-Hämeen käräjäoikeus tuomitsi Petri Antero Mutkan törkeästä kuolemantuottamuksesta ja 13 muusta rikoksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-06T16:45:00+03:00",
       "urls": [
         {
@@ -1445,21 +1430,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T16:03:16Z",
-      "urls": [
-        {
-          "sign": "7949e56472f7d684002178900f4e5b04aad1571df20402d90811cc55adf34963",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SM‑liiga kirjaa parhaan keskiyleisön sitten kauden 2013‑14, Jokerit vetää eniten katsojia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-06T16:12:56Z",
       "urls": [
         {
@@ -1506,23 +1476,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T16:41:13Z",
-      "urls": [
-        {
-          "sign": "ec9db7bfd384aa131c5d677a7c5f1fd3696d4970d62801e0f51a3cd4dc798b41",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turvallisuusjohtaja Aaro Toivonen vastaa kansanedustajien turvallisuusjärjestelyjen ja tiedonkulun kritiikkiin ennen huomenna pidettävää kokousta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T16:31:06Z",
@@ -1589,21 +1542,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T17:07:28Z",
-      "urls": [
-        {
-          "sign": "35f83e760f1a17fc1765ce17248a35bae1f3bb18a8767b2c79826aa1c1c2bba8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ympäristöministeri Sari Multala kritisoi Googlen tytäryhtiön laittomia hakkuuta Kajaanin ja Muhoksen datakeskusalueilla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T17:15:30Z",
@@ -13637,6 +13575,68 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T05:30:35Z",
+      "urls": [
+        {
+          "sign": "031856988658ebb17fcf820f5981ede171097ec4e611fc86d796cf43c8242d8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kelan pääjohtaja Lasse Lehtonen toipui vakavasta sairaudesta ja arvioi sosiaaliturvan uudistustarpeita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T05:39:44Z",
+      "urls": [
+        {
+          "sign": "1a9d290176f2d0d8653b3b65757437437b5bdc837f4fa46533bb498519533f4f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksander Barkov odottaa toipuvansa 6–8 viikossa ja pysyy positiivisena loukkaantumisestaan huolimatta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-08T14:12:30Z",
+      "urls": [
+        {
+          "sign": "e9d83ab201888ee0b9eb0d2393d47d38c395ae3f04156cdf512bacfee996ffc1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuhkarokkoepidemia Ruotsissa, Länsi-Niilin virus ja dengue leviävät Euroopassa – matkailijoiden tulee tarkistaa rokotussuojansa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T05:42:13Z",
+      "urls": [
+        {
+          "sign": "a2b0bf1b19560dafccc3ae444674aca3d9ec831dcd5c3975c40c969863fc6ecf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi: Ydinpeloteharjoitus",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
