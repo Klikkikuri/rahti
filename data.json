@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T08:13:38Z",
+  "updated": "2026-10-09T08:26:19Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1041,24 +1041,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T16:12:56Z",
-      "urls": [
-        {
-          "sign": "57ea21d50c7f9e8851084e04cb7e9d029966a897037e18fbfc720dc6541d78e7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Francis Halzen palkittiin fysiikan Nobel-palkinnolla IceCube‑neutriiniosservatorion takia",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T19:30:00+03:00",
@@ -5772,23 +5754,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-08T02:35:37Z",
-      "urls": [
-        {
-          "sign": "cbd59c1ed1c664dccc376f350cf475b823ed06dba06fd36ef3e72376a89de2ce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mobilepayn nimissä liikkuvat huijausviestejä varoittavat käyttäjiä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-08T02:59:58Z",
       "urls": [
         {
@@ -7381,7 +7346,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-08T08:21:58Z",
+      "updated": "2026-10-09T08:18:07Z",
       "urls": [
         {
           "sign": "94742f3430efd67785fc3e2732bf61b9fffeafae01246cea23b226bc2f3bed51",
@@ -7390,8 +7355,8 @@
           ]
         }
       ],
-      "title": "Volkswagen kutsuu yli neljä miljoonaa autoa korjaamaan ruostuvaa ohjausvaihteen pulttia – halvalla saatavilla myös Motonetissa",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Volkswagen kutsuu yli neljä miljoonaa autoa korjaamaan ruostuvaa ohjausvaihteen pulttia",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13577,6 +13542,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T08:26:19Z",
+      "urls": [
+        {
+          "sign": "0c433070419522060fa2e4eeb552dbbd27e870d755c79b9f80c69edcb02507b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "30 km/h -nopeusrajoitukset puolittavat vakavat onnettomuudet vaikka keskinopeus laski vain 2,5 km/h",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T08:22:30Z",
+      "urls": [
+        {
+          "sign": "3b42dde2a5ed13059cc6b16b9b39f8b1cfd7aa99f8096476ec0e17b8f70076f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU lisäsi viisi suomalaista kaivoshanketta strategisten raaka-aineiden listalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
