@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T04:27:32Z",
+  "updated": "2026-10-09T04:44:49Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1114,23 +1114,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T13:26:10Z",
-      "urls": [
-        {
-          "sign": "0d98d78522fa86ef067b2e9a79391562c5b1cdf10871b02f06b93081ca29c1cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Uudenmaan sote-auto tarjoaa rajoitettuja terveyspalveluja Pukkilassa, Myrskylässä ja Lapinjärvellä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T13:26:17Z",
@@ -5728,21 +5711,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T17:11:20Z",
-      "urls": [
-        {
-          "sign": "e24f8cc621f82e9f31afc74b4d436df770763946449a814534e003a668c16f3f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kolme nuorta kaatui mönkijällä Euran Karimaantiellä – kaikki tajuissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T17:43:17Z",
       "urls": [
         {
@@ -5788,21 +5756,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T17:11:50Z",
-      "urls": [
-        {
-          "sign": "32454657af5ae163249749e06534173e604d4fea4f2965697ec262caa8d5f280",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti kutsuu lukijoita esittelemään joulukotinsa ja lähettämään kuvia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T19:05:58Z",
@@ -13630,6 +13583,51 @@
         }
       ],
       "title": "Venäjä-trollit käyvät informaatiotaistelua estääkseen Suomen David's Sling -ohjusjärjestelmän hankinnan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T04:44:45Z",
+      "urls": [
+        {
+          "sign": "28bea3ab47316196cf7e5aa9608c045ee277a5349dc6b22ba0a09082d0e42892",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksander Barkov kommentoi polvivammaansa – odotettu poissaolo 6–8 viikkoa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T04:44:49Z",
+      "urls": [
+        {
+          "sign": "205210c6e1e8bc961fa68782a3899b06f78dbfa5d3c34f7b43c4383094b0f45b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sää kylmenee Kainuussa – illalla odotetaan räntää ja lunta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T04:34:50Z",
+      "urls": [
+        {
+          "sign": "2be4fb672796f39f1b5e6ed5a3fe282b2ff03c85de5f1ad744df8a0d4eae2b58",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jari Sarasvuo vastustaa eläkeiän nostamista 70 vuoteen ja varoittaa turvallisuusriskeistä ammattiautoilijoille ja hoitajille",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
