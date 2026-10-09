@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T00:30:33Z",
+  "updated": "2026-10-09T01:07:28Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -5792,21 +5792,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T15:34:15Z",
-      "urls": [
-        {
-          "sign": "2210f578aa424bd02383b07fefa9533ec17046877128ada6f663beb699576d87",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asuntojen hinnat laskussa – yhä useampi myyjä myy asuntoaan tappiolla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T15:50:15Z",
@@ -13637,6 +13622,21 @@
       ],
       "title": "Horoskooppi | Iltalehti – myös muita uutisia",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T01:07:28Z",
+      "urls": [
+        {
+          "sign": "47e038b3bb7ef1c2ccf95f791fd0de0d1b532a1b5879a1bae40e922365c823e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi varoittaa: Syysmyräkkä tuo runsaita sateita ja mahdollista lunta Kainuussa ja Koillismaalla perjantai-illalla",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
