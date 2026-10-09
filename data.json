@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T02:23:00+03:00",
+  "updated": "2026-10-08T23:59:53Z",
   "entries": [
     {
-      "updated": "2026-10-08T18:20:42Z",
+      "updated": "2026-10-08T23:59:53Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti: Venäjän hallinto lisää propagandaa Suomeen Naton jäsenyyden jälkeen",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Kiovan pormestari kehottaa asukkaita lähtemään: \"Kyse on selviytymisestä\"",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1102,23 +1102,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T12:05:04Z",
-      "urls": [
-        {
-          "sign": "29eb03522a5f3723f28b09388c744d042b67bfcb010f9f6856fc8ffdbe352ea3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mustasaaren Pilotti-koulun sisäilmaoireet aiheuttavat oppilaiden terveysongelmia ja poissaoloja – perheet vaativat ratkaisua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T12:19:44Z",
@@ -5480,23 +5463,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-07T15:33:41Z",
-      "urls": [
-        {
-          "sign": "d86ffb56aaeb9b7e9c93e5c678dd7b21e9c3331e3d0375c094d9c7547b3bb0d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aku Louhimies otti toimittajan mikrofonin Lapin sota -ensi-illan suorassa lähetyksessä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T14:14:14Z",
       "urls": [
         {
@@ -5730,21 +5696,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T15:27:11Z",
-      "urls": [
-        {
-          "sign": "310f4320d614b26c6811fd9d20e0960a7d7a606111033882beb5f943bc88d167",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "RKP:n puheenjohtaja Anders Adlercreutz kritisoi kokoomuksen kahden miljardin eläkesäästötavoitetta epämääräiseksi ja vaatii rehellistä keskustelua ikääntymisestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T15:20:00Z",
@@ -13641,6 +13592,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-08T23:32:03Z",
+      "urls": [
+        {
+          "sign": "c805b771382a91332ba2adf6935936fe5e108f28c8d2ccf50e63147e38f0e383",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Christa Pike kävelee ja syö avustuksen kanssa viikko epäonnistuneen teloituksen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-08T22:58:26Z",
+      "urls": [
+        {
+          "sign": "dfee2ce12b1cc8a9d8b7e221e1cea62b00c8b7347a105c8524259c68c3744732",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat teloittaa Nidal Hasanin ampumalla 3. joulukuuta – yleisö voi seurata suorana lähetyksenä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-08T23:23:36Z",
+      "urls": [
+        {
+          "sign": "c4a7988651fe57b422ed2b2189cd870062a77c78e3df47539d38d7e60338acab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Horoskooppi | Iltalehti – myös muita uutisia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
