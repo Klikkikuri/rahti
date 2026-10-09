@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T07:14:19Z",
+  "updated": "2026-10-09T07:30:07Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -972,23 +972,6 @@
       "title": "Ruotsi lähettää Patriot-järjestelmän Puolan itärajalle suojamaan Naton logistiikkakeskusta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T17:04:00+03:00",
-      "urls": [
-        {
-          "sign": "17c73c97fec5ffc9fff3454053209ff2ebf8de0a33984cc48827431919c92e06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5644,36 +5627,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T19:31:51Z",
-      "urls": [
-        {
-          "sign": "95117962c9a2f809fa0c4ab42e738498a1d94cbd5a0de379941f0f72beea7515",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Inka Henelius huomautti, että Urheiluruudun lähetyksessä näytettiin sulkapallovideo jalkapallo-ottelun sijaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-07T19:30:52Z",
-      "urls": [
-        {
-          "sign": "cf489766babaa9818d4da20d60911a4e6e729bc759900c259781f77b03b9dedb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aarosen ja Pihlin teos suosittelee tunnettua sävelmää unettomuuden lievittämiseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T22:50:00+03:00",
       "urls": [
         {
@@ -5687,21 +5640,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T20:03:29Z",
-      "urls": [
-        {
-          "sign": "eb86098bc05d3442d982899b953f758af75a310293dda818b7caa9331a73c0e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Muumioitunut ruumis löydettiin Teneriffan Los Cristianosin läheltä TF‑1‑moottoritien liittymältä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T20:14:12Z",
@@ -13589,6 +13527,70 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T07:21:07Z",
+      "urls": [
+        {
+          "sign": "984729101946c572a089bfcd3834d76fb0ff67426c84442d1c5287c225863920",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Seinäjoella 35-vuotias mies syytetään toisesta murhasta ja tapon yrityksestä – vaarallisuusarvio erittäin korkea",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T07:20:04Z",
+      "urls": [
+        {
+          "sign": "62867651eb20dba6bbc428c9e13d26ffdef80c272ab29a39491f3579bffe5989",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti järjestää äänestyksen suomalaisten suosikki-irtokarkista 16 vaihtoehdon joukossa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T10:15:00+03:00",
+      "urls": [
+        {
+          "sign": "d8f64d682c754c1273ebd29664cb170ed2cff1e1241fa4466f5f846bf2d1d1c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Erityislasten perheet toivovat koululta joustoa ja keskustelua, eivät moitteita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T07:30:07Z",
+      "urls": [
+        {
+          "sign": "25fb8333fa962b715ea31db8b5bea9bcd36cefd317b6a08deac9a05906714904",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maria ja Reino Nordinin viides lapsi syntyi kotisynnytyksessä olohuoneessa – istukka pidettiin kiinni vauvassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
