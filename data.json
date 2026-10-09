@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T04:44:49Z",
+  "updated": "2026-10-09T04:59:47Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1037,21 +1037,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T15:29:00+03:00",
-      "urls": [
-        {
-          "sign": "2553ae7f7bf4098a60d4f8f51a78391c005816658f0b92667802af04b0186d79",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Uudenmaan käräjäoikeus tuomitsi poliisin kenttäjohtajan virkavelvollisuuden rikkomisesta ja hylkäsi kuolemantuottamussytteen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-06T17:50:00+03:00",
       "urls": [
         {
@@ -1424,23 +1409,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T15:16:00Z",
-      "urls": [
-        {
-          "sign": "958874861c89f41b7aa2c4d82ebdc65124eb2910a9b960665439848a3dca8be3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Proviisori Jenni Sainio: Apteekissa puhutaan arkisista vaivoista, kuten ripulista, ilman häpeää",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T15:16:32Z",
@@ -5880,36 +5848,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-07T17:20:34Z",
-      "urls": [
-        {
-          "sign": "f85eb03069b06a2c6137bedc96cd43a8b6b4a0252770bb333e3a7aba9932acce",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SM‑liiga ilmoitti Jussi Markkasen eroavan urheilujohtajan tehtävästä ja käynnistävänsä hakuprosessin heti",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-07T17:25:55Z",
-      "urls": [
-        {
-          "sign": "e42a3b5da48efc79e9c3195a7c4c4bcf8f0d7a95556e92f565175f1534615d60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Monacon ruhtinas Albert majoittui Rovaniemellä Octola Lodgessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T19:54:00+03:00",
@@ -13588,7 +13526,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-09T04:44:45Z",
+      "updated": "2026-10-09T04:47:00Z",
       "urls": [
         {
           "sign": "28bea3ab47316196cf7e5aa9608c045ee277a5349dc6b22ba0a09082d0e42892",
@@ -13628,6 +13566,70 @@
         }
       ],
       "title": "Jari Sarasvuo vastustaa eläkeiän nostamista 70 vuoteen ja varoittaa turvallisuusriskeistä ammattiautoilijoille ja hoitajille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T04:59:25Z",
+      "urls": [
+        {
+          "sign": "e4b7ffe64936ed366540958c98b003325744db35c2b0cf02afa1b6934d2760f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: Tampereen Messujen pysäköintisakot mitätöitiin tilapäisen järjestelyn vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T07:50:00+03:00",
+      "urls": [
+        {
+          "sign": "eda89153795dd316b3af6dea3d46f2d1bd0eb9dc7286947b793264232860b7f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat syyttää Venezuelan ex-diktaattori Nicolás Maduroa ja hänen vaimoaan Cilia Floresia kidutussalaliitosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T04:45:00Z",
+      "urls": [
+        {
+          "sign": "204293eb4803345c3083f4d0978a9072918a5c8404c372daef860cb98b974da8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "USA ei laske teräs- ja alumiinitullejaan – EU varoittaa vastatoimista välivaalien jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T04:59:47Z",
+      "urls": [
+        {
+          "sign": "68781b460ba134619dee0bc3870ba69b5c8526c9811ba9f91ee6f5e6920284ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Johannes Kuorikoski kertoo, että Tapani Kansan uurna laskettiin vain lähiomaisille – muut voivat käydä haudalla myöhemmin",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
