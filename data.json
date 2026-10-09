@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T06:42:19Z",
+  "updated": "2026-10-09T10:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1005,38 +1005,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T16:45:00+03:00",
-      "urls": [
-        {
-          "sign": "a4adacb1aedb67471d900ed66cb0f60c4fb4a98b207929d021a70e01bbc1953c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lääkärien mielipide: Pieni päiväkoti vähentää lapsen kuormitusta ja tukee kehitystä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T16:52:00+03:00",
-      "urls": [
-        {
-          "sign": "c880aa7820c3b2b8e5cca079f1701f905fba3bb9fa7d4b3537acac3018d6c748",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tšekki vetäytyy Euroviisuista 2027 budjettileikkausten takia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-06T17:04:00+03:00",
       "urls": [
         {
@@ -1550,21 +1518,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T17:45:00Z",
-      "urls": [
-        {
-          "sign": "3b7a35c299a5e0fa51aad4265718d7a96f3a87069f8f8ecd267ca40f8df642ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nikki valmistaa friteeratun Paris Brestin – täytetyn French Crullerin Koko Suomi leipoo -sarjassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T17:47:58Z",
@@ -5800,23 +5753,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-07T19:00:38Z",
-      "urls": [
-        {
-          "sign": "b644713b1bf4de6bd2b4eff905263fdba910d214a7a68446416562eaf48239fc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Julkisuuden henkilöt saapuivat Lapin sota -elokuvan kutsuvierasensi‑iltapäivään punaiselle matolle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T19:31:51Z",
       "urls": [
         {
@@ -5827,21 +5763,6 @@
         }
       ],
       "title": "Inka Henelius huomautti, että Urheiluruudun lähetyksessä näytettiin sulkapallovideo jalkapallo-ottelun sijaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-07T19:00:52Z",
-      "urls": [
-        {
-          "sign": "349e518e0664b248913d11e144c3235b74bf6657a512eb2e404ee245c5d2d0d4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nuorten välienselvittely eskaloitui bussissa Itä‑Helsingissä, poliisi eristi tilanteen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13620,6 +13541,83 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T06:59:47Z",
+      "urls": [
+        {
+          "sign": "7fb64681014b59886418c163ebb666d8bcd5e8624e2193b996d71705f762755a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin hallinto neuvottelee Nord Stream -putkien avaamisesta ja Lukoilin myynnistä, mikä herättää huolta Euroopassa kustannuksista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "cccbc172a5f826e96194e6fb18486994887e19581acf6b9f38189eccf64fe2d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T06:58:47Z",
+      "urls": [
+        {
+          "sign": "0146ab80f2ef7a1cd5ec2a507a6b48ee3aa0db3f3cc9f6c07978fd202c5c4045",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Analyysi: Hallitus harkitsee jakeluvelvoitteen laskemista polttoaineiden hintojen laskemiseksi – voi johtaa suuren korotuksen myöhemmin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T06:48:42Z",
+      "urls": [
+        {
+          "sign": "75794aa2c96cbb77b5f421999702748ce140e73fcdcacb26375907f5e931f1ae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin kutsui entisen Saksan liittokansleri Gerhard Schröderin syntymäpäivilleen – harvinainen kuva presidentin kodista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e0db5cbf2004275931398fdbb3d371401b670b6104d3b929b70164fd88082966",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elokuvaohjaaja Raili Rusto-Tiihonen kuoli 97-vuotiaana Helsingissä – ohjasi sielukkaita lastenohjelmia Yleisradiolle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
