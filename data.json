@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T05:37:00+03:00",
+  "updated": "2026-10-09T03:00:07Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1329,23 +1329,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T13:47:00Z",
-      "urls": [
-        {
-          "sign": "6a429d4c1fb87724b3c10e0bbb1c945c1c98be8e47d745ccf3265aca076cad30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satu Koivisto vinkkaa helpon tavan säilöä omenat omenasoseeksi pakastamalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T17:04:00+03:00",
@@ -5366,21 +5349,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-07T15:56:27Z",
-      "urls": [
-        {
-          "sign": "1ea5ff72779015bf59da12b1ab258736104fa088df3dade8c7e0a43d299ec173",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fennia aloittaa muutosneuvottelut – 250 työntekijää mukana, jopa 100 tehtävää voi muuttua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T17:36:00+03:00",
       "urls": [
         {
@@ -5599,21 +5567,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T15:50:15Z",
-      "urls": [
-        {
-          "sign": "6d6c5eebe38d571313ff5f1a35a81981d79091726db34360bb6b073ce78e9f2c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pohjois-Korean jalkapalloilijat löivät japanilaisten käsiä nyrkeillä Aasian kisojen ottelun kättelyssä – video leviää sosiaalisessa mediassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T15:52:14Z",
@@ -13495,7 +13448,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-09T02:15:00Z",
+      "updated": "2026-10-09T02:46:04Z",
       "urls": [
         {
           "sign": "463f1c94b62f662cd0fbf936c2abee76f4682f519517cd558967944ca4126509",
@@ -13504,9 +13457,11 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain armeija aikoo teloittaa Nidal Malik Hasanin ampumalla Fort Hoodissa 3. joulukuuta",
+      "title": "Yhdysvaltain armeija teloittaa Nidal Malik Hasanin ampumalla Fort Hoodissa 3. joulukuuta – tapahtuma näytetään suorana lähetyksenä verkossa",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13637,6 +13592,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T02:52:07Z",
+      "urls": [
+        {
+          "sign": "72cdc49d4b951739e96e2e1ece2068d962eba3dbcaf06c27546463fa97aa736c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aamukahvi voi heikentää seuraavan yön unen laatua, tutkimus osoittaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T03:00:00Z",
+      "urls": [
+        {
+          "sign": "690e5785af8bfb21f483d73568d339be5ed019aa4a98cbbd952a380f19771ad2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin poliisi: alaikäisten rikokset lisääntyvät, pahoinpitelyjä kuvataan ja nöyryytetään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T03:00:07Z",
+      "urls": [
+        {
+          "sign": "3cddb6a4c812a2fcf40a0c2b684afc962a3543f5377d0cb0e4d093cde357ee62",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karalahti ja Ben-Amor ottavat tammikuussa nyrkkeilyottelun vakavista terveysongelmista huolimatta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
