@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T18:12:13Z",
+  "updated": "2026-10-09T18:35:59Z",
   "entries": [
     {
       "updated": "2026-10-09T17:24:50Z",
@@ -2043,21 +2043,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-08T12:16:16Z",
-      "urls": [
-        {
-          "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti tarjoaa iltapäivisin päivitettävän sähkön hinnan seuranta‑grafiikan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-08T14:27:00+03:00",
@@ -12300,7 +12285,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-09T18:12:13Z",
+      "updated": "2026-10-09T18:35:59Z",
       "urls": [
         {
           "sign": "c8550eafb0b01dcf9a056c8687d9b60a6d2ef9560324294c6dd665e1fa8bcb87",
@@ -13588,6 +13573,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T18:25:09Z",
+      "urls": [
+        {
+          "sign": "2ffdaf18dfa338e6bff5ab7c94a8c11e1f7b57734f5ae20e88ae0eeb688a80e8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan parlamentti hyväksyi islamistista soluttautumista tuomivan päätöslauselman – Suomalaiset mepit äänestivät 381‑167",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
