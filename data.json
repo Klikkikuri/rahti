@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T04:12:48Z",
+  "updated": "2026-10-09T04:27:32Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1390,23 +1390,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T15:01:08Z",
-      "urls": [
-        {
-          "sign": "fbcebe799c0209a33846e75da4e7944e50c37c405b9fd7892d5edff148dde9dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Česká televize vetäytyy vuoden 2027 Euroviisuista budjettisyistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-07T11:23:00+03:00",
@@ -5697,23 +5680,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-07T17:10:40Z",
-      "urls": [
-        {
-          "sign": "da378cb2a4f99190bcb9c885f899e8d6083246dbc399c1936b765553224adc2e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jukurit järjesti Mikkelin Let’s Go‑areenalla keskiviikkona 12.00 koululaisottelun Ässiä vastaan, jossa oli 4 200 katsojaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-08T08:17:00+03:00",
       "urls": [
         {
@@ -6006,23 +5972,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T17:04:44Z",
-      "urls": [
-        {
-          "sign": "ee76bd5a56e0b736dd3e5f2a7a72ab2487e0e133f85e90636f41d7c4b610ec11",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjä‑tutkija Arto Luukkanen: Venäjän GRU:n strategiaan voi sisältyä salamurhia suomalaisiin päättäjiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T18:17:18Z",
@@ -13631,6 +13580,56 @@
         }
       ],
       "title": "Rikosseuraamuslaitoksen pääjohtaja Anna Arola-Järvi: Vankiloiden yliasutus vaatii lisäresursseja tai vankilukun vähentämistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T04:27:32Z",
+      "urls": [
+        {
+          "sign": "6976215c975dd2799384ba3b355cea2479e8ddcae14c2c2ca3110b81f8a888f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Lepistö kertoi KHL-lentokoneiden turvallisuuden huolestuttaneen häntä Lokomotivin tragedian jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T03:28:23Z",
+      "urls": [
+        {
+          "sign": "bbf273ee65d9cfc3d1a3229023534cb28064b72c439744ad8be92b5a9015dc05",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T04:23:44Z",
+      "urls": [
+        {
+          "sign": "181638b930ba7e91a33777ee3eb598becb4d61c4c23a62e6a2eaa21d93656931",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä-trollit käyvät informaatiotaistelua estääkseen Suomen David's Sling -ohjusjärjestelmän hankinnan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
