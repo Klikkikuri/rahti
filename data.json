@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T04:53:00+03:00",
+  "updated": "2026-10-09T02:15:00Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1104,21 +1104,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T12:19:44Z",
-      "urls": [
-        {
-          "sign": "a238d387d8501033d6695f9874d52541df4f82a72907991dc31ea1f5ecba2a32",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisimies sai 50 päiväsakon tehtävän laiminlyönnistä – käräjäoikeus hylkäsi kuolemantuottamussyyte",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-06T15:29:00+03:00",
       "urls": [
         {
@@ -1134,21 +1119,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T12:22:25Z",
-      "urls": [
-        {
-          "sign": "253110767a1afe432a70fb7109cf426b90556ca627929bab4d25944e61a3899a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lunden Food vetää takaisin Chef Lundénin kana-caesar-patonkeja – pakkausmerkintä virheellinen, kala-allergikoille allergiariski",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-06T12:27:59Z",
       "urls": [
         {
@@ -1162,21 +1132,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-06T12:33:41Z",
-      "urls": [
-        {
-          "sign": "2fdd96ef30d28047f9a8f90f9224bd7b322ae22393120bd08022505ba4890507",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finns Party members stay on bus during East Helsinki visit, locals call it 'populist theatre'",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-06T17:50:00+03:00",
@@ -5726,23 +5681,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-07T15:39:50Z",
-      "urls": [
-        {
-          "sign": "27aa001cd15a9911b0338d332001436e7e309c0481e0b7158452628903c5b5ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T15:37:21Z",
@@ -13636,6 +13574,72 @@
       "title": "Oikeus katsoi entisen prinssi Andrew'n asuntojen kotietsinnöissä käytetyt etsintäluvat lainvastaisiksi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T02:12:15Z",
+      "urls": [
+        {
+          "sign": "256a428087973e0b5f60e05763bc7369c7aa5518f8fc64d8e5f7f961e62f2cd5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WhatsApp estää kirjautumisen laitteilla, joiden käyttöjärjestelmä on vanha – päivitys vaaditaan sovelluksen käyttöön",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T02:15:00Z",
+      "urls": [
+        {
+          "sign": "463f1c94b62f662cd0fbf936c2abee76f4682f519517cd558967944ca4126509",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain armeija aikoo teloittaa Nidal Malik Hasanin ampumalla Fort Hoodissa 3. joulukuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T02:01:00Z",
+      "urls": [
+        {
+          "sign": "f48a13b01d01e9ef959bb32bd441c0e2ca5920965dce050d49258de1c6603037",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "El Niño ennustaa lauhaa alkutalvea Suomessa – valkoinen joulu epävarma",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T02:00:35Z",
+      "urls": [
+        {
+          "sign": "9486bb2b95844dd31a08942bd6aef64af27b366f154821c7d173a9fff78b3c96",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ympäristöministeri Sari Multala kertoo, että Googlelle ei tule sanktiota laittomista hakkuista Muhoksen ja Kajaanin datakeskustyömailla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
