@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T03:00:07Z",
+  "updated": "2026-10-09T03:08:39Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1101,40 +1101,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T12:44:17Z",
-      "urls": [
-        {
-          "sign": "a100e23b4668d7874baad41ce13174c8df8f0bf23d0dd806e5e4f420cace385e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnish education minister urges more powers to suspend homeschooling as numbers rise",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T13:51:15Z",
-      "urls": [
-        {
-          "sign": "87d691f2004a9d3968d8e226f35c722555e90b7adc4c911b4db1f8b66f65038a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin valvontatehtävä Virolahdella jatkuu illalla – Puolustusvoimat avustaa materiaalin tunnistamisessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-06T16:00:00+03:00",
       "urls": [
         {
@@ -1181,23 +1147,6 @@
       "title": "Haiti lykkää vaaleja toistaiseksi – äänestäjien rekisteröinti jatkuu",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T13:02:40Z",
-      "urls": [
-        {
-          "sign": "6b49754bc75d8dd1754c1fbd6237ddae49dd83f983c33a6d3b780632a3c09089",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanja kumosi Carles Puigdemontin kansallisen pidätysmääräyksen – hän voi palata Kataloniaan ilman pidätysuhkaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -5716,21 +5665,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-07T16:00:59Z",
-      "urls": [
-        {
-          "sign": "07fff5108bfc43a2dd7f37c3b9c562e0c4e35543d4d96182350b99bb952767bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orpo korostaa kansanedustajien kotiturvakysymyksen vakavuutta ja vaatii viranomaisia tutkimaan epäiltyjä tunkeutumisia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-07T16:14:07Z",
       "urls": [
         {
@@ -5762,21 +5696,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T16:04:25Z",
-      "urls": [
-        {
-          "sign": "1ec2d1d5ad2322c3ae6bcd0453a513c85733895b9872a665ec0387d5261beb23",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Peltipoliisit antoivat syyskuussa 15 591 sakkoa – määrä laski vuodentakaisesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-07T16:06:00Z",
@@ -13636,6 +13555,85 @@
         }
       ],
       "title": "Karalahti ja Ben-Amor ottavat tammikuussa nyrkkeilyottelun vakavista terveysongelmista huolimatta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T03:08:04Z",
+      "urls": [
+        {
+          "sign": "8f2b4b30c9bde20eff5b09986f6db238e20e8640ea13d491b0c7ea341362e9db",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T03:00:39Z",
+      "urls": [
+        {
+          "sign": "8631aeaeb435f8bfbd00d2682f945e71cc9a8a46e3cf28f849fef15f952c4d8d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Koodari Aava Riuttamäki irtisanoutui, koska työnantaja vaati enemmän lähityötä – hän toivoo julkista keskustelua etätyöstä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T03:00:43Z",
+      "urls": [
+        {
+          "sign": "52d807dded07621d8d0a7c5346b0d50701fc5f9c38a7ae6eabcba67b2b22249a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjan Nobel-komitea julkistaa rauhanpalkinnon saajan Oslossa tänään – Trumpin mahdollinen painostus voi vaikuttaa valintaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T03:08:39Z",
+      "urls": [
+        {
+          "sign": "fec661964c8494731850884b0e0161dbfa70929826cf56dd456db5750cd2f71b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump julistaa kaikki 'AI'-sanan käyttäjät vihollisiksi ja ehdottaa termiä 'superälykkyys'",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T03:02:11Z",
+      "urls": [
+        {
+          "sign": "40349d5c9940e299bc64a69bbc20b997e12e1c4a399bcdcd6c7474892aedb5e4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump tavoittelee Nobelin rauhanpalkintoa, mutta asiantuntijat epäilevät hänen saavan sen tänä vuonna",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
