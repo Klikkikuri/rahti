@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T04:59:47Z",
+  "updated": "2026-10-09T05:13:00Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -1005,21 +1005,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-06T15:35:00+03:00",
-      "urls": [
-        {
-          "sign": "02c99bd096c7de78c36cefaeb87a46ae193a0d9f6ff21e3881638a1374c041ea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus tuomitsi alaikäisiä poikia pahoinpitelyistä ja ryöstön yrityksestä pedofiilien metsästykseen liittyen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-06T16:08:00+03:00",
       "urls": [
         {
@@ -1411,21 +1396,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-06T15:16:32Z",
-      "urls": [
-        {
-          "sign": "14132c226133857e463178359948a18301833e4493ed5a8dace4b2489f5709a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan velkaantuminen ja poliittinen riitaisuus voivat hidastaa Suomen talouskasvua, varoittaa ministeri Purra",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-07T09:35:00+03:00",
       "urls": [
         {
@@ -1441,21 +1411,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T15:50:37Z",
-      "urls": [
-        {
-          "sign": "b56ac28ce8e93b451ca6d09cdb313cc977d8e14d1b4d79893c81e4ee2cd6e58d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saksan entinen BND‑johtaja August Hanning pidätetty vakoilusta ja maanpetoksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-06T18:58:00+03:00",
@@ -13633,6 +13588,57 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T08:00:00+03:00",
+      "urls": [
+        {
+          "sign": "1488e79aefd0bd7a40c6169369ad307c6ad2391eb372b1b61f7328391f58b448",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T04:58:31Z",
+      "urls": [
+        {
+          "sign": "8096f6cb7ca57188eeec564f81308387b51aaf70077c197a2e990f91bdf19ba0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HIFK:n urheilujohtaja Janne Laukkanen kertoo jatkavansa keskushyökkääjän etsintää joukkueen alkukauden vaikeuksien keskellä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T05:13:00Z",
+      "urls": [
+        {
+          "sign": "8f4b051a6e6cf766c5b6a6b12bcb139627ff53d6beb6a0da287021ee744ace90",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ravitsemusterapeutti Hanna Partanen: proteiinivanukas on suklaapatukkaa parempi välipala, mutta ei terveellisin vaihtoehto",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
