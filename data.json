@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T13:00:00Z",
+  "updated": "2026-10-09T16:06:00+03:00",
   "entries": [
     {
       "updated": "2026-10-09T09:00:40Z",
@@ -1026,55 +1026,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-07T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "7b6c8d26d9768a6b390cc9ddfc52153929fabbd85910163ef55388cbaec62c20",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "c3579c59410f9cb92fd22fa96bfeedd08808cce53243dc4606738d9475defee4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lasten liikennekaupungin ohjaajat jatkavat liikennekasvatusta helsinkiläiskouluissa ja esiopetuksessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T03:28:00Z",
-      "urls": [
-        {
-          "sign": "235f22d9e710d187bef47faa2d420ce7c81b6a7fa72167751d71f497a9ecf05b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perheenäiti Hanneleen ostama Kamux-auto ei läpäissyt katsastusta ruostevaurioiden vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-07T06:30:00+03:00",
       "urls": [
         {
@@ -1090,38 +1041,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-07T03:45:37Z",
-      "urls": [
-        {
-          "sign": "b17a21f4383967e456bf1b792ebfe9f0c6bd4234e8a5cbd010234cfd2f3d8834",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sebastian Aho kolmella tehopisteellä johdatti Hurricanesin 6–4-voittoon Montreal Canadiensiä vastaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T03:54:00Z",
-      "urls": [
-        {
-          "sign": "e7f4f61fd8f2c8e62f5b9a36d7152e4347d0b9f04077b9a10144a50093d7389c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammattilaiset lievittävät lasten lääkäripelkoa leikin, puudutusvoiteen ja mielikuvaharjoitusten avulla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-07T03:54:16Z",
@@ -1365,21 +1284,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-07T05:53:25Z",
-      "urls": [
-        {
-          "sign": "22935b8a1275c976381f3baeee84ea4af090fc37c17d1801d7e4922303b56372",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seitsemän ihmistä hukkui syyskuussa, kertoo SUH:n ennakkotieto",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-07T06:14:36Z",
@@ -5671,23 +5575,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-08T08:01:14Z",
-      "urls": [
-        {
-          "sign": "db721dfbeb9151e1ae63623bf75611b3f9d7f029c4f97943365caba5cc21f44b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen UFC-tähti Abdul Hussein kohtaa Hecher Sosan 28. marraskuuta Saudi-Arabiassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-08T12:30:00+03:00",
@@ -13587,6 +13474,119 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T12:58:45Z",
+      "urls": [
+        {
+          "sign": "85e887e0863bc16d9aa5e9ddf50d8373dab1454723c794d72fe84a9d8cf4b1a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat löysivät Jonathanin geenistöstä ikääntymiseen liittyviä poikkeuksellisia mekanismeja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T12:59:45Z",
+      "urls": [
+        {
+          "sign": "befb9b1fb5a35826f7a38913cdf3a468a292e85090de0ee127708271b53c0a0b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lasten ja nuorten kohdistama väkivalta luonnoneläimiin lisääntyy – viranomaiset valmistavat eläinten hyvinvointiohjelmaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T16:01:00+03:00",
+      "urls": [
+        {
+          "sign": "991510d77e6b2cecaf708f94fdd20d80746a1bc02ec53cf65b4718122d3e03de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T12:58:56Z",
+      "urls": [
+        {
+          "sign": "cba1fa74670a6382c80d693288e3c2d4241a7d859a58141f5a436ff409b06e51",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi löysi sotilasräjähteitä ja luvattomia aseita Virolahdella – esitutkinta aloitettu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T13:00:00Z",
+      "urls": [
+        {
+          "sign": "cf3190e6231e938c19718f0badf9a70ebaef509a3ecfd5c87b4cdc3e47103b74",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nickelback konsertoi Helsingissä 7. heinäkuuta 2027 – ensimmäinen Suomen-keikka kymmeneen vuoteen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T16:06:00+03:00",
+      "urls": [
+        {
+          "sign": "4ccc46ea1ca49c30c6102cadedeeaa09ac1b7f19d6345df37117aba5c6683cb6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T13:04:45Z",
+      "urls": [
+        {
+          "sign": "385e9c3930a1c789d5bb41fc50f98c35af4e758069642b8c8e04a0eefc850833",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
