@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T09:42:20Z",
+  "updated": "2026-10-09T09:59:15Z",
   "entries": [
     {
       "updated": "2026-10-09T09:00:40Z",
@@ -1103,36 +1103,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-06T18:32:10Z",
-      "urls": [
-        {
-          "sign": "f2d266b73e7fd9c36fa8f4ba9fc9f86c436db98ed3fed61a32d942b56c933fe4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Paramount Skydance ostaa Warner Bros Discoveryn 110 miljardin dollarin kaupalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-06T18:09:42Z",
-      "urls": [
-        {
-          "sign": "aeae84b0b79eba2be3d038f5429de34699c162d3dfc6dc6ebd7409173a09f095",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Figure AI:n humanoidirobotit sulatettiin Imatran Ovakon tehtaassa – idea peräisin Arnold Schwarzeneggerin sosiaalisen median viestistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-06T21:00:00+03:00",
       "urls": [
         {
@@ -1473,21 +1443,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-07T02:35:01Z",
-      "urls": [
-        {
-          "sign": "a5f5403ff9e7a58d426407865a6a77e9f484fa8f64fba5a03641d76cae48c02f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Orpo kiistää FT:n väitteen maatalousleikkauksista EU:ssa ja antaa pääministerin ilmoituksen budjettineuvotteluista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-07T02:43:59Z",
@@ -5727,21 +5682,6 @@
       ],
       "title": "Halpa roiskeläppä torjuisi kalliit kiveniskemät – katosi autoista vuonna 1995",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-08T04:30:22Z",
-      "urls": [
-        {
-          "sign": "a2b5ab68d321dfb72a09a3bc89a518e0f81f5143cdec1432a4e47f8358ee4753",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain alppihiihdon joukkue valitsi Lindsey Vonnin kaudelle 2026–2027",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13564,6 +13504,72 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T09:49:32Z",
+      "urls": [
+        {
+          "sign": "f06500ce0787cfa4f7575084dc4011c7f8b22fdb860e062701aee831de8857ae",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain armeija aikoo teloittaa Nidal Malik Hasania ampumalla suorassa lähetyksessä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-09T09:48:06Z",
+      "urls": [
+        {
+          "sign": "a9d6c326a9fba1e4f9d6dab8699c59f945f454ec3c52cf560ae99c4856b97197",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tampereen sähköautopalo oli vakuutusyhtiön mukaan yksi maailman suurimmista – palopäällikkö vaatii lainsäädännön päivittämistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T09:59:15Z",
+      "urls": [
+        {
+          "sign": "addb3f5a7706c7a70178a86c41423daf92fba5a5ee9a9fc40793b80327e16649",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjoismaiset yleisradioyhtiöt vahvistavat yhteistyötään kyberuhkien ja disinformaation varalta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T09:48:18Z",
+      "urls": [
+        {
+          "sign": "48af59fdab4c6e9b71f99603647959f973f83a2a9450a10661200b066476cbb3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jokerien HIFK-ottelu Veikkaus-areenassa veti 10 724 katsojaa, yli 2 500 paikkaa jäi tyhjäksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
