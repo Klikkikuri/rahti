@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-09T07:57:19Z",
+  "updated": "2026-10-09T08:13:38Z",
   "entries": [
     {
       "updated": "2026-10-08T23:59:53Z",
@@ -941,36 +941,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-06T17:50:00+03:00",
-      "urls": [
-        {
-          "sign": "07867af34894294bf1d6836b14dd4e5c27c0d366c6442b05013061d4b1adf973",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsi lähettää Patriot-järjestelmän Puolan itärajalle suojamaan Naton logistiikkakeskusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-06T18:00:00+03:00",
-      "urls": [
-        {
-          "sign": "0bfecbf39de11a503edf116704cde32ea1be6700078bcf726e5c10fed199b945",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina valmistautuu talveen Venäjän energia‑infrastruktuuriin kohdistuvien iskujen myötä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-07T11:23:00+03:00",
@@ -5687,21 +5657,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-07T23:12:01Z",
-      "urls": [
-        {
-          "sign": "68707bd0bbf50950d4ca32b7a4cbdb222480caf07cfb8ee39122d427176cabda",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppisivulla monipuolinen uutiskatsaus",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-08T02:00:00+03:00",
       "urls": [
         {
@@ -5768,21 +5723,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-08T02:08:18Z",
-      "urls": [
-        {
-          "sign": "0aeccdf5e2ec358ed360f7b3b8d8759ef0e6046f1f8f990c1081ce73796da58e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tilintarkastaja Sarvamaa varoittaa: EU:n velka voi ylittää 1 000 miljardia euroa vuoteen 2027 mennessä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-08T02:00:00Z",
       "urls": [
         {
@@ -5798,21 +5738,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-08T02:10:04Z",
-      "urls": [
-        {
-          "sign": "a75cce035cd2c502e0699c8237dd5cca6c5cce115fbabe92a906598bc4eec5ea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ihmisen toiminta on vähentänyt selkärankaisten villieläinten populaatioita 73 prosenttia vuodesta 1970 – WWF",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-08T02:15:00Z",
@@ -13571,6 +13496,87 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-09T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e8992a7a62c019b385964855881ae819ee4ea3986796e84fc0ec42f272c22fe8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T08:02:24Z",
+      "urls": [
+        {
+          "sign": "32df4bcff419e69ac4e64a4e235bf23389c01230ee225216881d1034d77dede4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Parkkipaten työntekijät luovuttivat työehtosopimusvetoomuksen toimitusjohtajalle – 99 % kannattaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T08:13:38Z",
+      "urls": [
+        {
+          "sign": "c47248d76d9c55fdd21a07d1b32fc9acae40154c8aea32300e1838c938195c9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kyberturvallisuuskeskus varoittaa: Tahalliset kirjoitusvirheet huijausviesteissä voivat ohjata roskapostisuodattimen ohi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-09T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "7b6411946fb481dd9547c61e129ba132bdbdf76f997a22b116761fbfec7cdf25",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-09T08:02:00Z",
+      "urls": [
+        {
+          "sign": "4c2c79b076e846152b99e8bf1d059c095a3ac1fe748f7f6da47499f7ea8163ba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi otti viisi henkilöä kiinni Helsingin derbyjen jälkeisessä nujakassa Sallinkadulla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
