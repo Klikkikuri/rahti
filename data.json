@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-13T18:11:54Z",
+  "updated": "2026-10-13T21:28:00+03:00",
   "entries": [
     {
       "updated": "2026-10-13T18:11:54Z",
@@ -1607,23 +1607,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-09T10:00:00+03:00",
-      "urls": [
-        {
-          "sign": "cccbc172a5f826e96194e6fb18486994887e19581acf6b9f38189eccf64fe2d4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-09T07:00:27Z",
@@ -13361,6 +13344,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-13T21:28:00+03:00",
+      "urls": [
+        {
+          "sign": "90d9e7355b6c8d4aafc7c843b6bf933acaf1da8d5ecceb241a6ddeb44c63daba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääkärit leikkasivat paavi Leo XIV:ää onnistuneesti keuhkolöydöksen vuoksi Roomassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
