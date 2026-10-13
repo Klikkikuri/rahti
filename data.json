@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-13T14:40:56Z",
+  "updated": "2026-10-13T18:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-13T13:32:15Z",
@@ -1560,55 +1560,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-09T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "96c853ec7da8ef6beeca1d5c8e6a0be4cf226a6de5876ed1a5baa5ee9a01d25d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS 50 vuotta sitten 9.10.1976 – Lapuan onnettomuusperheiden taloudellinen tuki, SAK:n palkkavaatimus ja Ruotsin uusi hallitus",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "10517dec0c5ff64c45fe177e04ba0f369817b1b1903b95f6ca6386b542c11a19",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "cea45701f215889a007242f7def4527376d13d2a531fed6cd3e0d59ca3f656e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Olli Alanen: Nuorten tulevaisuususko heikentää oppimismotivaatiota ja PISA‑tuloksia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-09T04:53:00+03:00",
       "urls": [
         {
@@ -2276,21 +2227,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T08:34:17Z",
-      "urls": [
-        {
-          "sign": "4c2c79b076e846152b99e8bf1d059c095a3ac1fe748f7f6da47499f7ea8163ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi otti viisi henkilöä kiinni Sallinkadun nujakassa Helsingin derbyn jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T08:22:30Z",
@@ -13457,6 +13393,68 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-13T17:59:00+03:00",
+      "urls": [
+        {
+          "sign": "5fdb929684d988228b291738f194aace069c2141fa0e99c03953fa9f9cb8df8e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Purra sanoo bensapaketissa ei olevan hintaan vaikuttavia toimenpiteitä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-13T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "af23ba4c5b853207be4e58744119f154bae7dbee4d5572ac5ebbbd4f3d87eda7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjien määrä vähenee noin 70:llä – oikeusvaltio uhkaa heikentyä leikkauksien vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-13T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "5b764155cb4216b8743db33b5dca49a39d220a19e3245478bf324738bcfa7299",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-13T14:54:11Z",
+      "urls": [
+        {
+          "sign": "3f299f999915a823a3e2ccf460a7d6336f63816f6b09295d769fe5f6b46a9a01",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ellinoora sairastui ja jätti väliin TTK-lähetyksen, mutta aikoo tanssia tulevana sunnuntaina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
