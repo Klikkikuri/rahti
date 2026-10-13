@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-13T21:30:31Z",
+  "updated": "2026-10-14T00:50:00+03:00",
   "entries": [
     {
       "updated": "2026-10-13T18:11:54Z",
@@ -1579,23 +1579,6 @@
       "urls": [
         {
           "sign": "e8992a7a62c019b385964855881ae819ee4ea3986796e84fc0ec42f272c22fe8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "7b6411946fb481dd9547c61e129ba132bdbdf76f997a22b116761fbfec7cdf25",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -13347,6 +13330,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T00:50:00+03:00",
+      "urls": [
+        {
+          "sign": "1d8591460184c05d6c3194a578ca59e960b5478cb43b440faa194925679efddf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brittisotilaat harjoittelevat Falklandinsaarten takaisinvaltausta mahdollisen Argentiinan hyökkäyksen varalta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
