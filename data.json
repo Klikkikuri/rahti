@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-13T20:44:37Z",
+  "updated": "2026-10-13T20:58:01Z",
   "entries": [
     {
       "updated": "2026-10-13T18:11:54Z",
@@ -2417,21 +2417,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T13:00:00Z",
-      "urls": [
-        {
-          "sign": "81ad54ecaff2d8e454745ad879a138cbc552580c96cf8d64049b0444015da5d2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nickelback konsertoi Helsingin Veikkaus-areenalla 7. heinäkuuta 2027",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T12:59:45Z",
@@ -8916,23 +8901,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-11T14:15:00Z",
-      "urls": [
-        {
-          "sign": "a0c3f2b50a50f6c4bee3b425992d1d18ba9f382c4c913012ae8239f5525ab6e1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkomainen anchovy tarkoittaa sardellia, kun taas Suomessa anjovis on marinoitua kilohailia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-12T18:30:00+03:00",
       "urls": [
         {
@@ -13321,7 +13289,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-13T20:44:37Z",
+      "updated": "2026-10-13T20:57:06Z",
       "urls": [
         {
           "sign": "f135a409f6a3bc4d321248da9ed28d037b5a2d278127edbedacb20f743a16182",
@@ -13330,8 +13298,8 @@
           ]
         }
       ],
-      "title": "Vatikaani: paavi Leo XIV:n keuhkosyöpäleikkauksessa poistettiin osa keuhkosta",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Vatikaani: paavi Leo XIV:n keuhkosyöpäleikkaus onnistui, osa keuhkosta poistettu",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13348,6 +13316,38 @@
       "title": "Saudi-johtoinen koalitio torjui kolme risteilyohjusta ja kaksi droonia Riadissa ja maan eteläosassa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-13T20:56:09Z",
+      "urls": [
+        {
+          "sign": "1190499db813078ccf2aaf85272884ae2308110fe8970bdf651de6d9d737afe5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viking pelasi 3–3-tasapelin Bayern Müncheniä vastaan Mestarien liigassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-13T20:58:01Z",
+      "urls": [
+        {
+          "sign": "b07c965b96a1136c8c6ae5b1d604d6cf47f179930f966b091a0ca05e819010cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bayern München johti Vikingiä 3–2 Stavangerissa, mutta Michael Olisen punainen kortti johti Vikingin 3–3 tasoitukseen lisäajalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
