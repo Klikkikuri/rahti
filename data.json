@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-13T19:28:39Z",
+  "updated": "2026-10-13T19:40:15Z",
   "entries": [
     {
       "updated": "2026-10-13T18:11:54Z",
@@ -2417,21 +2417,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-09T12:26:34Z",
-      "urls": [
-        {
-          "sign": "43e35e2f8a3b82dc1a84ee79bafe84fb8569259a689659dc8d2d497935eedb5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kai Suikkanen debytoi KooKoon päävalmentajana ja antaa vedonlyöntivihjeet perjantain peleihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T17:03:00+03:00",
@@ -4882,23 +4867,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-11T12:35:00Z",
-      "urls": [
-        {
-          "sign": "be1aedd5c6690d897aaba1dcdc67f1ad2155b4ee0e26a88cd0f081b733b110db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jaakko \"Lieminen\" Luomanen johtaa pizzerioita Italiassa – hittikappale helpotti pääsyä ravintola-alan harjoittelupaikkoihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T04:11:42Z",
@@ -13278,7 +13246,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-13T22:07:00+03:00",
+      "updated": "2026-10-13T22:30:00+03:00",
       "urls": [
         {
           "sign": "0367578d904e477747befd46a72c70ae32fc5cd74b024d4182764fe05c493bf9",
@@ -13287,7 +13255,7 @@
           ]
         }
       ],
-      "title": "Oikeus tuomitsi entisen jengijohtajan Duane \"Keffe D\" Davisin ainakin 40 vuoden vankeuteen Tupac Shakurin murhasta",
+      "title": "Duane “Keffe D” Davis sai ainakin 40 vuoden vankeustuomion Tupac Shakurin murhasta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13350,6 +13318,38 @@
       "title": "Ruotsin naisten jalkapallomaajoukkue voitti Liettuan MM-jatkokarsinnoissa 15–0",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-13T19:39:03Z",
+      "urls": [
+        {
+          "sign": "ed4b674c6f2a190feb35a8f76003cc47bf0d60fe2a1217b466f13082662ba370",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valtimon S-marketissa pelattu Eurojackpot-rivi voitti lähes kolme miljoonaa euroa tiistaina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-13T19:40:15Z",
+      "urls": [
+        {
+          "sign": "10c043d325c82cd0282685cdb8a7295e312bc021a1792f686a941f0c9a330970",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin NMKY:n velholeiri täyttyy minuuteissa – osallistujat harjoittelevat loitsuja ja pelaavat huispausta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
