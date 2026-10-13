@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T02:00:00+03:00",
+  "updated": "2026-10-13T23:00:31Z",
   "entries": [
     {
       "updated": "2026-10-13T18:11:54Z",
@@ -2366,23 +2366,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-09T13:16:57Z",
-      "urls": [
-        {
-          "sign": "280a64f377228fe050b82471cc06736befb678ebff05813cfa8a967b44cb462b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jokerit voitti HIFK:n jatkoajalla 3–2 paikallisderbyssä – HIFK:n esitys herättää keskustelua valmentajan jatkosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T13:19:49Z",
@@ -13343,6 +13326,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-13T23:00:31Z",
+      "urls": [
+        {
+          "sign": "0c06c365311fc1d3f30e1fe07865d0b232f51ea6b01c915edb8557a9d8247922",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehti julkaisee horoskoopin ja kokoaa päivän uutisia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
