@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-13T23:09:00+03:00",
+  "updated": "2026-10-13T20:26:24Z",
   "entries": [
     {
       "updated": "2026-10-13T18:11:54Z",
@@ -1164,21 +1164,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-08T12:21:03Z",
-      "urls": [
-        {
-          "sign": "b8ec4519d9cfe7ed0a7bbad745721b8dd6a1002a85aa5895414026827ed170c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turun aluerakennuttamispäällikkö pohtii Hirvensalon liikenneympyrän poistamista ruuhkien lieventämiseksi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-08T19:05:31Z",
       "urls": [
         {
@@ -1408,21 +1393,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T12:57:13Z",
-      "urls": [
-        {
-          "sign": "1a970d0ddcd813dbc0a8894cf13eea2ff1fc9e11b19497347d978a552b9a70bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rikosseuraamuslaitoksen pääjohtaja Anna Arola-Järvi vaatii lisäresursseja tai vankilukun vähentämistä vankiloiden yliasutuksen ratkaisemiseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T04:44:49Z",
@@ -12936,7 +12906,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-13T23:09:00+03:00",
+      "updated": "2026-10-13T23:21:00+03:00",
       "urls": [
         {
           "sign": "90d9e7355b6c8d4aafc7c843b6bf933acaf1da8d5ecceb241a6ddeb44c63daba",
@@ -12945,7 +12915,7 @@
           ]
         }
       ],
-      "title": "Lääkärit löysivät paavi Leo XIV:n keuhkoista syövän – leikkaus onnistui Roomassa",
+      "title": "Paavi Leo XIV:n keuhkosyöpäleikkaus onnistui Roomassa Gemellin sairaalassa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13349,6 +13319,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-13T20:26:14Z",
+      "urls": [
+        {
+          "sign": "e2717467c1cb683ca90e9ed8ed5cba74a053be41664240b008570573c91dac6d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Johannes Klæbo ja Pernille Døsvik poseeraavat Vogue Scandinavianin kannessa näyttävissä valkoisissa asuissa – Klæbolla läpinäkyvä paita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-13T20:26:24Z",
+      "urls": [
+        {
+          "sign": "4b240973e3e7d552aaf7018b78842b5a2b3e362cdec34e3790a4bf64731042c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vatikaani: Paavin keuhkosyöpäleikkaus onnistui, osa oikeasta keuhkosta poistettu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
