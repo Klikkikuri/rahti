@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T08:43:00Z",
+  "updated": "2026-10-14T08:57:56Z",
   "entries": [
     {
       "updated": "2026-10-14T04:56:44Z",
@@ -738,21 +738,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-09T02:30:35Z",
-      "urls": [
-        {
-          "sign": "3609ab812a0995b955226fb7243ca06706eb233069d11f0c69cb8d7d40c6e1d6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Business Finlandin pääjohtaja Lassi Noponen vaatii datakeskuksilta tutkimusta ja tuotekehitystä, ei vain valoja pururadalle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-09T03:00:39Z",
@@ -1675,21 +1660,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-09T17:22:00+03:00",
-      "urls": [
-        {
-          "sign": "72690fd657b4a4f737e87bf414a40d71e560e30907d3a1f38fb1d03590309bca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Montenegron viranomaiset pidättivät Mihail Vintšukin, suositun venäläisen sotabloggaajan, EU-pakotteista huolimatta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-09T14:16:22Z",
       "urls": [
         {
@@ -1750,21 +1720,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-09T17:22:00+03:00",
-      "urls": [
-        {
-          "sign": "24741d749b61a45757ba2a3c6395614bb95ccc3582c2013f7e1fad96bddbab98",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turun kaupunki ohjeistaa päiväkotien henkilökuntaa syömään omat eväät vain tauolla ja kieltää energiajuomat lasten tiloissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-09T14:27:10Z",
@@ -6341,24 +6296,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-12T03:31:22Z",
-      "urls": [
-        {
-          "sign": "258908d987702ebdaa77b345792468b4dfdcad43c53aaf1015e8a6e1980d4cb7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-12T09:28:00+03:00",
       "urls": [
         {
@@ -6880,21 +6817,6 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-13T00:36:39Z",
-      "urls": [
-        {
-          "sign": "5fbd9fa76866c3253fffe6778750d6ad62b622dea029e3eb56d28a746eaa907d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kyberhyökkäys häiritsi kylmälaitteita sadoissa ranskalaisissa supermarketeissa aiheuttaen ruokahävikkiä ja tulipaloja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-12T18:53:00+03:00",
@@ -12970,7 +12892,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-14T07:48:03Z",
+      "updated": "2026-10-14T08:55:23Z",
       "urls": [
         {
           "sign": "c038d7b806b1e131900309433f7a7e7fe2a74a3ec65f028ec0bd6e6660e7253a",
@@ -12979,9 +12901,11 @@
           ]
         }
       ],
-      "title": "Kansanedustaja kertoo kotiinsa tunkeutumisesta – suora lähetys Ukkola-ohjelmassa kello 11.45",
+      "title": "Kansanedustaja Jarno Limnell kertoi kotiinsa tunkeutumisesta suorassa Ukkola-ohjelmassa kello 11.45",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13169,7 +13093,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T08:40:02Z",
+      "updated": "2026-10-14T08:57:56Z",
       "urls": [
         {
           "sign": "9dd3b81c4e2bc29e78c5ca4f42136cab6be26db7f012395107532d08afe72bb2",
@@ -13178,8 +13102,8 @@
           ]
         }
       ],
-      "title": "Viron presidentti Ülle Madise tapasi Alexander Stubbin Presidentinlinnassa – suora lähetys alkaa klo 11.45",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Viron presidentti Ülle Madise tapaa Suomen presidentti Alexander Stubbin Presidentinlinnassa – suora lähetys alkaa klo 11.45",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13319,6 +13243,81 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T08:51:16Z",
+      "urls": [
+        {
+          "sign": "586914426322fecdd6856739346e66637f7dd6de1c8799c79ff70ca11baf23b3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "VR aloittaa muutosneuvottelut Logistiikka-yksikössään – enintään yhdeksän työsuhteen päättyminen mahdollista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T08:56:51Z",
+      "urls": [
+        {
+          "sign": "9207782928a92336c527d03630ecf1fad7794aa917d55782bac5e326e4f19940",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pyytää edelleen vihjeitä Lapin tuntureilla kadonneista retkeilijöistä – aktiiviset etsinnät lopetettu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-14T08:48:20Z",
+      "urls": [
+        {
+          "sign": "7fb9f470680338a950eff93395977d687ac16f615098456855443ee9f30f98cf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "UK:n sulhanen Mark Kiley moittii suomalaista lohta haisevaksi Rovaniemellä Ensitreffit alttarilla UK -ohjelmassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T11:20:00+03:00",
+      "urls": [
+        {
+          "sign": "e75308cb5055bb67b3915df6cc0713b962dc8a865c59a55b0842bc482f5ffd45",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "13-vuotias poika puukotettiin Vesalassa – epäilty mies otettu kiinni, tapausta tutkitaan tapon yrityksenä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-14T11:45:00+03:00",
+      "urls": [
+        {
+          "sign": "b600c360b30721ffaa74a0cfa4dcf2c625c0ce8191e09467e2b70047ff581c05",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lukijan mielipide: Lapsen näkökulma pitäisi olla kotihoidon tuen keskustelun lähtökohta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
