@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T01:05:27Z",
+  "updated": "2026-10-14T01:43:43Z",
   "entries": [
     {
       "updated": "2026-10-13T23:50:47Z",
@@ -2400,21 +2400,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T13:40:57Z",
-      "urls": [
-        {
-          "sign": "d2640bbf12bc31023a7ea05ce5ec26fa42ab0aa2de74e712454dd97666889894",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Politiikan puskaradio paljastaa: kansanedustajien eläkekertymä on neljä prosenttia vuodessa, tavallisilla 1,5 prosenttia – täysi eläke kertyy noin 15 vuodessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T13:50:55Z",
@@ -13339,6 +13324,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-14T01:43:43Z",
+      "urls": [
+        {
+          "sign": "b54e9fe51376843fb26504429bc4b280fefa913254c8976f184d79a90bf9007c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rakennus palaa rajusti Tuusulan Lahelassa – pelastuslaitos ja poliisi paikalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
