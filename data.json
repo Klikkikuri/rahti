@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T20:27:16Z",
+  "updated": "2026-10-14T20:30:13Z",
   "entries": [
     {
       "updated": "2026-10-14T20:11:53Z",
@@ -5024,21 +5024,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T13:09:30Z",
-      "urls": [
-        {
-          "sign": "902a50dc611cd50db860a8be63ca7dd2c1085a17d7f165316a26899274ed5f48",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuningatar Sonja ei enää kuulu Norjan viralliseen kuningashuoneeseen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T13:24:53Z",
@@ -13296,6 +13281,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T20:30:13Z",
+      "urls": [
+        {
+          "sign": "025b602ee793817ddebf19116d03c1e6be5c9813065d8608e32e92e41c4f025d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkomaiset uutiset: FBI-johtajan olinpaikka herättää epäselvyyttä, Viro pyrkii sulkemaan kaasuputken Kaliningradiin ja Ukraina teki drooni-iskun Sberbankin datakeskukseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
