@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T19:43:33Z",
+  "updated": "2026-10-14T19:56:45Z",
   "entries": [
     {
-      "updated": "2026-10-14T16:20:21Z",
+      "updated": "2026-10-14T19:53:06Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda lisääntyy Suomen Nato‑jäsenyyden jälkeen – Iltalehti seuraa",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Venäjän propaganda on lisääntynyt Suomen Nato‑jäsenyyden jälkeen – Iltalehti seuraa",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1247,21 +1247,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-12T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "8952a1b8c8b5d454c6919c91432d9c1d7b5a242a07d47f95eb03fc824ce4a04e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Purduen yliopiston meriarkeologit etsivät Amelia Earhartin konetta Nikumarorolla uuden satelliittikuvan perusteella",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-12T18:02:13Z",
@@ -4930,36 +4915,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T12:38:07Z",
-      "urls": [
-        {
-          "sign": "b5e3d263622418cac0cea52c709e11441ab4a52c4dd912f090e01b4987f80151",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Infektiot aiheuttivat yli 2,3 miljoonaa syöpää vuonna 2024 Lancet Oncologian mukaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-13T12:42:35Z",
-      "urls": [
-        {
-          "sign": "df7e7d607bedbce60bc45891a485236c582ae81a247eb2d2f8cb44d86e93849e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto laajentaa afrikkalaisen sikaruton ydinaluetta Lappeenrannan, Pyhtään ja Virolahden löydösten jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T15:36:00+03:00",
@@ -10333,7 +10288,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-14T22:17:00+03:00",
+      "updated": "2026-10-14T22:49:00+03:00",
       "urls": [
         {
           "sign": "ff9d285e606a6baea88a3fbd246b466ad80f67e68931b703b67685d2b9485bb4",
@@ -13253,7 +13208,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-14T19:23:29Z",
+      "updated": "2026-10-14T19:56:45Z",
       "urls": [
         {
           "sign": "39b369e3cd27457226354771d6bea0f1052326d723218cd81c3e212c563fcd90",
@@ -13262,7 +13217,7 @@
           ]
         }
       ],
-      "title": "Musk syyttää Trumpia Starlink-rajoituksesta Ukrainassa",
+      "title": "Elon Musk väittää Trumpin päätöksen rajoittaneen Starlinkia Ukrainassa – yhteys osittain toimii",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13299,6 +13254,51 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T22:47:00+03:00",
+      "urls": [
+        {
+          "sign": "201a50583505ea41bbd04cd7cd9fbb61ddedc5c83f5da4dd1d994a23630c544e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ubisoft sulkee suomalaisen Redlynx-pelistudion – enintään 52 työpaikkaa vaarassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-14T19:50:52Z",
+      "urls": [
+        {
+          "sign": "97c1e319961ee00b6401766b9b9dcdc8c8464957239febaad75748d0b08f12a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Christina Aguilera kertoi harrastaneensa seksiä lentokoneessa ja studiossa sekä kehuneensa suuseksinsä vahvuudeksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T19:45:36Z",
+      "urls": [
+        {
+          "sign": "27ce0553492d620bfd172f0df28570caab4a4c88155d047dd896892b3fb54222",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sampo Ranta debytoi HIFK:ssä TPS:ää vastaan ja syötti tasoitusmaalin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
