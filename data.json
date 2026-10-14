@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T20:30:13Z",
+  "updated": "2026-10-14T20:59:44Z",
   "entries": [
     {
-      "updated": "2026-10-14T20:11:53Z",
+      "updated": "2026-10-14T20:56:47Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda Suomea kohtaan on lisääntynyt Nato‑jäsenyyden jälkeen – Iltalehti seuraa",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Musk vetäytyy Ukrainan Starlink‑kohusta ja osoittaa Trumpia",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -3069,23 +3069,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-12T17:25:00Z",
-      "urls": [
-        {
-          "sign": "2c11d4448ac2cb18c23a09056f07ee7b62180ad912ce92b3db0139fd38b7206b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin energiatulitauko, dieselsopimus hyödyttävät Venäjää, Kiinaa, voivat syventää USA:n, Euroopan välistä kuilua",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-12T19:32:00+03:00",
       "urls": [
         {
@@ -3381,23 +3364,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-12T16:57:05Z",
-      "urls": [
-        {
-          "sign": "29890678a46505d9a8cace7ad8d3c33c1bd5b11b7525787fe6fba1f29ffcf325",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Oliver Kollberg osallistui Googlen Suomen-toimiston ympäristömielenosoituksessa ja kritisoi metsien hakkuita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-12T17:54:59Z",
@@ -12274,7 +12240,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T18:36:24Z",
+      "updated": "2026-10-14T20:58:29Z",
       "urls": [
         {
           "sign": "98972eea02eee93c5362a2d64fdc20b1a390cd77fd5c85fcf39b489e532c5083",
@@ -12283,8 +12249,8 @@
           ]
         }
       ],
-      "title": "IL seuraa Mestarien liigan ottelukierrosta – live‑seuranta",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "IL seurasi: Manchester City kärsi ruman kotitappion Mestarien liigassa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13298,6 +13264,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T20:59:44Z",
+      "urls": [
+        {
+          "sign": "8692d038298d8e40b529e7f6940140f12579375e9d631403c23cca47255b6df1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paris Saint-Germain voitti Manchester Cityn 4–2 Mestarien liigassa Real Madrid nousi 4–3-voittoon AS Romaa vastaan Roomassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T20:48:22Z",
+      "urls": [
+        {
+          "sign": "a2013cb6e6175765f22e504393f8088acc4046125cee5a76361c429a78bfcc89",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee kahta nuorta seksuaalisesta ahdistelusta robotin avulla Kölnissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
