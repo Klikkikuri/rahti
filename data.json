@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T18:45:09Z",
+  "updated": "2026-10-14T19:00:03Z",
   "entries": [
     {
       "updated": "2026-10-14T16:20:21Z",
@@ -2272,23 +2272,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-12T16:30:00Z",
-      "urls": [
-        {
-          "sign": "87dfb8a23d1f0c22e40371b5a4fa209b4996e366423457fdec8e7ed1e58b1f08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rentokil kehottaa matkailijoita tarkistamaan vuoteen ja pitämään matkalaukun suljettuna lutikoiden leviämisen estämiseksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-12T17:12:55Z",
       "urls": [
         {
@@ -2511,21 +2494,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-12T16:28:51Z",
-      "urls": [
-        {
-          "sign": "c8598f90f063d5cb7c0d927fdddf7bf0c0b2792de7d2462428cdbf00d3ec6e46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heikki Autto ei pidä venäläiskoneiden alasampumista realistisena – toppuuttelee Sanna Marinin ehdotusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-12T09:44:21Z",
@@ -4876,21 +4844,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-13T12:13:10Z",
-      "urls": [
-        {
-          "sign": "3de96bd039e77b582f6b37c9d7b4d803f24d1a37d26a79c5f8a32a9fb6087785",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elton John kritisoi Watfordin heikkoa kuntoa Burnleyn 0–4-tappion jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T12:04:43Z",
@@ -10819,7 +10772,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T15:38:00+03:00",
+      "updated": "2026-10-14T21:49:00+03:00",
       "urls": [
         {
           "sign": "c2d82b9d1d1f0dc7aeee130da8b53e43be1b6c2e8cd47419df04eae97b642427",
@@ -10828,8 +10781,8 @@
           ]
         }
       ],
-      "title": "Muhoksen johtava rakennustarkastaja Jultuz Änwär jäi virkavapaalle peläten potkuja Googlen datakeskushaastattelun jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Muhoksen johtava rakennustarkastaja Jultuz Änwär jäi virkavapaalle – kunta ei vahvista syytä, kiistää yhteyden Googlen datakeskukseen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13298,6 +13251,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-14T18:58:22Z",
+      "urls": [
+        {
+          "sign": "2250dd6c56d7bf14bfa6f36547c80292c80525645dc293c1037c3972ab639816",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Foreca ennustaa aurinkoista ja poutaa viikonloppua suuressa osassa Suomea",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T19:00:03Z",
+      "urls": [
+        {
+          "sign": "3c9940b2cf48b275cf881bf3ef25e2dd10de15c28e3052e1263827d9aa7c9c00",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Älä purskuttele suuta voimakkaasti vedellä hammaspesun jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T18:53:26Z",
+      "urls": [
+        {
+          "sign": "0ddef2d41bf51437d0327284fec7ee2cdeb68c482c9cdcc6a665674b84bafad5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vancouver Canucks siirsi Leijonien maailmanmestarin Aatu Rädyn NHL:n siirtolistalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
