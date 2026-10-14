@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T19:12:00Z",
+  "updated": "2026-10-14T19:23:29Z",
   "entries": [
     {
       "updated": "2026-10-14T16:20:21Z",
@@ -2144,21 +2144,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-12T16:40:14Z",
-      "urls": [
-        {
-          "sign": "89191857577367308b8e19c08e2f202416f280bbaed5eef6aebd1340dae19490",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ison-Britannian pääministeri Andy Burnham syyttää Iranin vallankumouskaartia Fairfordin lentotukikohdan epäillystä salaliitosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-12T17:00:00+03:00",
@@ -4536,21 +4521,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T12:20:58Z",
-      "urls": [
-        {
-          "sign": "e75c4e8d9b8032b190a321ae389de2856b1d4a0297a23e5231d45db1c68a3042",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nürnbergin lentokenttä suljettiin hätätilanteen vuoksi – lennot ohjattu Frankfurtiin, Memmingeniin ja Müncheniin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-13T10:46:41Z",
       "urls": [
         {
@@ -4887,21 +4857,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T12:29:07Z",
-      "urls": [
-        {
-          "sign": "84f002983739772e2ed3feba9465b89c57f3dc5096d5709ef4f35cecfef6ea9a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Niko Ranta-aho ja Mel Hidalgo saivat lapsen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T12:20:05Z",
@@ -10395,7 +10350,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-14T21:12:00+03:00",
+      "updated": "2026-10-14T22:17:00+03:00",
       "urls": [
         {
           "sign": "ff9d285e606a6baea88a3fbd246b466ad80f67e68931b703b67685d2b9485bb4",
@@ -13298,6 +13253,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T19:15:22Z",
+      "urls": [
+        {
+          "sign": "f9c0d436ac2b1e4fc5651ece57ea0c8b86b96dbaccdebd9f512af1c8148a2e6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "TPS:n maalivahti Markus Ruusu debytoi hätätilassa ja antoi haastattelun MTV:lle – joukkue voitti HIFK:n 4–3",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T19:23:29Z",
+      "urls": [
+        {
+          "sign": "39b369e3cd27457226354771d6bea0f1052326d723218cd81c3e212c563fcd90",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Musk syyttää Trumpia Starlink-rajoituksesta Ukrainassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T19:19:26Z",
+      "urls": [
+        {
+          "sign": "57a6748e03d14e6342c3bb2384fc436825e883dc0439ca5578a897e5a5f7a40c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viisi nuorta ajoi 120 km/h Kolmostiellä, kun kivi osui tuulilasiin – kukaan ei loukkaantunut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
