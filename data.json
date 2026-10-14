@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T05:44:47Z",
+  "updated": "2026-10-14T08:59:00+03:00",
   "entries": [
     {
       "updated": "2026-10-14T04:56:44Z",
@@ -725,21 +725,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-08T16:31:05Z",
-      "urls": [
-        {
-          "sign": "90ce2b8ad4383f0e1fab9b44014725bae86800edb4202fab2bd41b31af312532",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Analyysi: Israelin-Hamasin sota jakoi Britannian – kolme tekijää selittävät jakautumista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-08T17:05:58Z",
       "urls": [
         {
@@ -997,23 +982,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-09T14:55:00+03:00",
-      "urls": [
-        {
-          "sign": "81b8687e605b3fc1ca5a8e979e83e95d903266b89a8c4418b6f457f8b12843ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-09T04:44:49Z",
@@ -6855,23 +6823,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-11T18:21:24Z",
-      "urls": [
-        {
-          "sign": "024bbf0568f08013789661eee9c23f5e866a2b74cd57fe751fdfe6e1e5885ab0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Matti Leino ja Kastanja Rauhala saivat kympin vierailtuomari Robin Packalenilta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-12T19:00:00+03:00",
       "urls": [
         {
@@ -12648,7 +12599,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T07:55:00+03:00",
+      "updated": "2026-10-14T08:59:00+03:00",
       "urls": [
         {
           "sign": "a2ac9bdf1da9d515f81cef304d87f997b327388cf7f7bc3c6e1dc1e2bb24a3ef",
@@ -12657,8 +12608,8 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos sammutti Tuusulan Lahelassa olevan suuren hallirakennuksen tulipalon – vaaratilanne ohi, mutta sammutus- ja raivaustyöt jatkuvat",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Tulipalo tuhosi Tuusulan Lahelassa varastohallin – useat yritykset kärsivät vahinkoja",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13326,6 +13277,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-13T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "2c3809837f663b25adacb2ad244e7ec1fc91696272a7c0c16def4a1e6ed3f02a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-14T05:50:46Z",
+      "urls": [
+        {
+          "sign": "c69ee3b6c2c74a683a035f25f910df373d59176c9da0e8a300ff0858900619a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liittovaltion tuomari Timothy Kelly jatkoi toimittajien pääsyä Valkoiseen taloon koskevaa väliaikaista määräystä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-14T05:45:40Z",
+      "urls": [
+        {
+          "sign": "77285fb53205fc48a78ad2edfee928eddf5481243d698a0f92197ab50814095c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Huijarit lähettävät suomalaisille kiristysviestejä, joissa uhataan intiimivideolla ja vaaditaan bitcoin-maksua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
