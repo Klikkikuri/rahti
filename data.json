@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T03:42:46Z",
+  "updated": "2026-10-14T03:55:09Z",
   "entries": [
     {
       "updated": "2026-10-13T23:50:47Z",
@@ -3863,23 +3863,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-11T15:55:00Z",
-      "urls": [
-        {
-          "sign": "10525a7687c736e55e46044f2cb6086f7e593f6f24eaea91bd600f9590a7eb4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hammaslääkäri suosittelee kasviksia, hedelmiä ja säännöllistä ateriarytmiä hampaiden terveyden tueksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-12T08:13:22Z",
@@ -8115,23 +8098,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-11T16:05:25Z",
-      "urls": [
-        {
-          "sign": "11a6ea45386a70e1bf7dd4b802d7f2d0c186af461a0da4e4b9a0207219b23f09",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marko \"Mörkö\" Anttila kertoo loukkaantumisestaan TTK-kaudella ja pitkästä toipumisestaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T06:00:00Z",
@@ -12860,7 +12826,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T03:37:35Z",
+      "updated": "2026-10-14T03:51:40Z",
       "urls": [
         {
           "sign": "b54e9fe51376843fb26504429bc4b280fefa913254c8976f184d79a90bf9007c",
@@ -12869,7 +12835,7 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos antaa vaaratiedotteen teollisuushallin palosta Tuusulan Lahelassa – ei henkilövahinkoja",
+      "title": "Keski-Uudenmaan pelastuslaitos antaa vaaratiedotteen teollisuushallin palosta Tuusulan Lahelassa – mittavat vahingot, ei henkilövahinkoja",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13311,6 +13277,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T03:45:00Z",
+      "urls": [
+        {
+          "sign": "8a5a68679c8a7ca43e3c2ea8b078de76d3c85951dd5fa73db78526155d650043",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksassa alkaa tänään oikeudenkäynti Nord Stream -putkien räjähdyksistä – syytettynä ukrainalainen ex-upseeri Serhii K",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T03:55:09Z",
+      "urls": [
+        {
+          "sign": "ac5116622aa4535eff08db7678d0dc6c3617dc6e95a6e8cda0701f9516f0d018",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat käyttää dieselsopimusta Venäjän kanssa houkutellakseen Moskova Ukraina-neuvotteluihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
