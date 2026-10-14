@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T19:56:45Z",
+  "updated": "2026-10-14T20:11:53Z",
   "entries": [
     {
-      "updated": "2026-10-14T19:53:06Z",
+      "updated": "2026-10-14T20:11:53Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda on lisääntynyt Suomen Nato‑jäsenyyden jälkeen – Iltalehti seuraa",
+      "title": "Venäjän propaganda Suomea kohtaan on lisääntynyt Nato‑jäsenyyden jälkeen – Iltalehti seuraa",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -4977,24 +4977,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T12:50:07Z",
-      "urls": [
-        {
-          "sign": "5674dba2324aed66ffdcdc1fbbc599ac2d6f8034d660e90bd4bd8444c281064a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T13:01:12Z",
@@ -13297,6 +13279,21 @@
       ],
       "title": "Sampo Ranta debytoi HIFK:ssä TPS:ää vastaan ja syötti tasoitusmaalin",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T20:06:04Z",
+      "urls": [
+        {
+          "sign": "01cf1eb15c1490abceb8e78c28decac4665cae01cb7eda1a67a12cb475c19b83",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump kehui senaattori Jon Hustedin kehoa ja Sophie Cunninghamin ulkonäköä Ohion kampanjatilaisuudessa tiistaina",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
