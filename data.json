@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T13:13:00+03:00",
+  "updated": "2026-10-14T10:21:33Z",
   "entries": [
     {
       "updated": "2026-10-14T04:56:44Z",
@@ -740,21 +740,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-09T05:48:12Z",
-      "urls": [
-        {
-          "sign": "bb8536ee6ff323cc39711834dd937f826c34819c8b7777e3b692657ab47fc683",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kampin metroaseman länsisisäänkäynti avataan maanantaina kello 5.10 – helpottaa bussien 20 ja 30 vaihtoa metroon",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-09T05:58:15Z",
       "urls": [
         {
@@ -1367,21 +1352,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-09T18:03:00+03:00",
-      "urls": [
-        {
-          "sign": "0260a6e2cf41dbc323b501392cdedf8a26e97b9ffea75cafec64226236eac30b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjien määrä vähenee ensi vuonna noin 70:llä – valtakunnansyyttäjä kutsuu tilannetta katastrofaaliseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-09T12:55:26Z",
@@ -2817,23 +2787,6 @@
       "title": "Vivian Nick-Salminen kertoo kirjassa Woltin potkuistaan ja konfliktistaan Patrick Studenerin kanssa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-13T04:11:42Z",
-      "urls": [
-        {
-          "sign": "5e05ec23a51f1deeadc0f2328d88fe6ba7e796ac36d4b3651c0f9170d216c9dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -4661,21 +4614,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-13T04:05:20Z",
-      "urls": [
-        {
-          "sign": "1ee0e7a1ae9f75a3f553540b7a52ab7ff2261ca6159c5d8f82fab3d6d588aff3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinkiläisnainen sai yli 100 000 euroa perintöoikeusjutussa tätiään, serkkuaan vastaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-12T17:00:00+03:00",
@@ -13317,6 +13255,68 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T10:18:50Z",
+      "urls": [
+        {
+          "sign": "b314e2d5cd341eea7daf47e76e86ad048cd7ef14c49fc58c58eb72cc2e78c553",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HIFK:n uudet pelaajat Sampo Ranta ja Olof Glifford debytoivat keskiviikon TPS-ottelussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T10:17:49Z",
+      "urls": [
+        {
+          "sign": "4e00a6b46688f2f1f5832a85afb7ce75c8eda6d4927f18e9410c0aa53df9dbb6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auto törmäsi suojatietä ylittäneeseen mieheen Savonlinnassa tiistaina iltapäivällä – poliisi tutkii auringonvalon häikäisyn roolia onnettomuudessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "884e5c4a9726e0df52c691c0d6c317579f747e0748871a76738fd27341ab2e7a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sosiaalihuollon Apottiin lisätty Kanta-arkistointi lisää työmäärää ja heikentää tehokkuustavoitteita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-14T10:21:33Z",
+      "urls": [
+        {
+          "sign": "c122e8f3fa440729395985f274d6010d8698accf410c5883559c734093125d2e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Satakunnan kansanedustajat varoittavat venäläisen nikkelin tuonnin työpaikkavaikutuksista Harjavaltaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
