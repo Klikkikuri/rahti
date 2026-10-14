@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T01:55:34Z",
+  "updated": "2026-10-14T02:01:09Z",
   "entries": [
     {
       "updated": "2026-10-13T23:50:47Z",
@@ -753,21 +753,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-08T13:50:11Z",
-      "urls": [
-        {
-          "sign": "0bc4ea5e78d0f02d6e90cb1f8dcd159c935f25d90f9e03617115406cac99b572",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sikaruttoa löytynyt 52 villisiasta – Ruokavirasto: maastoetsinnät jatkuvat epäselvyyksistä huolimatta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-08T14:13:53Z",
@@ -1701,23 +1686,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-09T13:00:00+03:00",
-      "urls": [
-        {
-          "sign": "7ba905f52736da8eaab97c5eb4ccca530cb2f106910b2775a1fa5c7e8b71c1eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-09T10:11:07Z",
       "urls": [
         {
@@ -2261,21 +2229,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-09T13:42:28Z",
-      "urls": [
-        {
-          "sign": "ed5e6c18c7cf268edef7b1050b5e5db5f039a1525dc6d76db862aade01a3008f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee syyskuussa 65‑vuotiasta pedofiilirinkin pääpomoa lapsipornon hallussapidosta ja levittämisestä Etelä-Pohjanmaalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-09T13:23:01Z",
       "urls": [
         {
@@ -2400,21 +2353,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-09T13:50:55Z",
-      "urls": [
-        {
-          "sign": "e1084983ea5811b926b08b3d8188a907108c89d0abc383437b7273268382c416",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtteri Bottas putosi Singaporen sprintin aika-ajon ensimmäiseen osioon pyöräiltyään 420 kilometriä Malesiasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T13:44:49Z",
@@ -13341,6 +13279,66 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T02:01:09Z",
+      "urls": [
+        {
+          "sign": "97aeb84d3b4dd54279631002173977ad62bca7ff7a19e36f6f827181dff703d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brady Tkachuk teki hattutempun Floridalle – veli Matthew syötti kaikki kolme maalia, NHL-historiaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T02:00:34Z",
+      "urls": [
+        {
+          "sign": "33749a05bd3ced67e9b58409560a12e696c57c38b33a3807a22f7265d8c64be5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finanssiala: Onnistuneet turvatilihuijaukset vähenivät Suomessa ensimmäisellä vuosipuoliskolla 2026",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T05:00:00+03:00",
+      "urls": [
+        {
+          "sign": "cd2f113862f54679fa5f1c6626e44ee0d2d049b67176d6b769d6dd254ffe3a97",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Amerikkapodin kolmas kausi alkaa – avausjaksossa käsitellään republikaanipuolueen paniikkaa ja Trumpin lähtölaskentaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-14T02:00:35Z",
+      "urls": [
+        {
+          "sign": "83dffb7e93d664ce03ba7bf2e3f1538d3611e014ba022f66fc42105695cd3002",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saksassa alkaa Nord Stream -putkien räjäytystä koskeva oikeudenkäynti ukrainalaista ex-upseeria vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
