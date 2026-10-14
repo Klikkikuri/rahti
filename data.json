@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T03:55:09Z",
+  "updated": "2026-10-14T04:01:00Z",
   "entries": [
     {
       "updated": "2026-10-13T23:50:47Z",
@@ -2405,21 +2405,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-09T14:54:43Z",
-      "urls": [
-        {
-          "sign": "fa4818c97b76b0018bbaad8326b06deaa8a16a845df1ebc0b814529ec0317fd3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "VR:n konduktööri tönäistiin raiteille Keravan asemalla perjantaina iltapäivällä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-09T14:58:17Z",
       "urls": [
         {
@@ -2463,23 +2448,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-09T15:04:59Z",
-      "urls": [
-        {
-          "sign": "530cabaf3ef4e50afd8764e0ee9e503e10b8e7dcdb657a4f1196cad449929d1d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden testissä selviää, mikä Sohvaperunat-kaksikko muistuttaa sinua ja ystävääsi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T15:12:38Z",
@@ -2527,21 +2495,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-09T15:11:18Z",
-      "urls": [
-        {
-          "sign": "330c66f0bf3771c6055dc9794cb14f4f533831541f107c42ce5ef0b43985c68a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MM-mitalisti Shelby Houlihan sijoittui toiseksi Beer Mile World Classic -kilpailussa Kölnissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-09T18:11:00+03:00",
@@ -4650,21 +4603,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-11T16:15:00Z",
-      "urls": [
-        {
-          "sign": "51a066118bc56928a24a635bde9bcb5332a9a273f4664e70bf3c0c16cda2dac8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britit pohtivat, miten osoittaa kohteliaisuutta suomeksi ilman please-sanaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-12T13:03:37Z",
@@ -13305,6 +13243,70 @@
       ],
       "title": "Yhdysvallat käyttää dieselsopimusta Venäjän kanssa houkutellakseen Moskova Ukraina-neuvotteluihin",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-14T04:00:17Z",
+      "urls": [
+        {
+          "sign": "3c2b010204cebddea2472cf19c0d8a14028084d694a600ba3d353ed0b12d1a34",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuljetusyritykset varoittavat dieselpolttoaineen korkeasta hinnasta uhkaavan kannattavuutta – hallituksen ammattidiesel-palautus nähdään riittämättömänä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T04:00:05Z",
+      "urls": [
+        {
+          "sign": "8a15dffc8a7cbb70f8d237207d6a915d5be90b41d230e4fd774a0f2fa66fef9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T04:00:13Z",
+      "urls": [
+        {
+          "sign": "1e4de4c5cf36ee65bdce0673b5a88c90a17286413344e56400357c4e3350e06b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Onni Hautamäki debytoi NHL:n linjatuomarina – ensimmäinen suomalainen tuomari pääsi jatkoajalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-14T04:01:00Z",
+      "urls": [
+        {
+          "sign": "30a147753cd11edc52c763ccb2babdde40708e1afd039a8968598453d02a1f9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Veronica Verho paljastaa syyn Possen juontopestin alun kieltäytymiseen",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
