@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T20:30:22Z",
+  "updated": "2026-10-15T20:59:17Z",
   "entries": [
     {
       "updated": "2026-10-15T17:32:27Z",
@@ -5244,21 +5244,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T12:16:56Z",
-      "urls": [
-        {
-          "sign": "e0fe77e2f195e7bbf4ca19b1d2c9d1d33154718d06b3530b0ec90815f734070e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maantiepyöräilijä Valentina Cavallar joutui antamaan dopingnäytteen kotona äitinsä kuoleman jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T12:09:32Z",
@@ -13306,7 +13291,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T20:09:58Z",
+      "updated": "2026-10-15T20:59:17Z",
       "urls": [
         {
           "sign": "2b1f3bbc1396b40223fdf2818b7fbed4ac9f35493d3c9bee25c40a7041e0913d",
@@ -13315,7 +13300,7 @@
           ]
         }
       ],
-      "title": "Minibussi törmäsi junaan Eurotunnelin lastausalueella Ranskassa – useita loukkaantui, vakavia vammoja ei",
+      "title": "Minibussi törmäsi tavarajunaan Eurotunnelin lastausalueella Ranskassa torstai-iltana – useita loukkaantunut, vakavia vammoja ei",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13364,6 +13349,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T20:55:49Z",
+      "urls": [
+        {
+          "sign": "8d7bb38c25f001d5ae543d3b06c33e9ec1972c8cb3600262e5e57f15ed6b076f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Petteri Orpo moittii Trumpin Venäjä-myötäilyä Ukrainan sodassa: \"Ei mitään logiikkaa\"",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     }
