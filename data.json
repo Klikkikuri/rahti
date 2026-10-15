@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T12:45:11Z",
+  "updated": "2026-10-15T12:56:32Z",
   "entries": [
     {
       "updated": "2026-10-15T09:33:56Z",
@@ -864,21 +864,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T08:49:18Z",
-      "urls": [
-        {
-          "sign": "4aafddb60403e0a47d2832ed78ba1e4b9fa66380a54e4fa0755448f5c1763172",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Jarno Limnell kertoo saaneensa uhkaavan sähköpostin, jossa väitettiin hänen tulleen murhatuksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-13T10:30:00+03:00",
       "urls": [
         {
@@ -960,21 +945,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T02:30:35Z",
-      "urls": [
-        {
-          "sign": "7e9b3a7db378e9c9df497813b3dba8fef51f4c55e03dca369af5615298f3784a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Huijari käytti Valtavaaran Airbnb-asunnon kuvia vuokrailmoituksissa ja järjesti asuntonäyttöjä – poliisi epäilee petosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-13T10:15:00+03:00",
@@ -12780,7 +12750,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-15T10:58:27Z",
+      "updated": "2026-10-15T12:55:51Z",
       "urls": [
         {
           "sign": "d88b348943dd9745d44cd78d37c1abf06487de089a3795ef8e5eda9a932bd382",
@@ -12790,7 +12760,7 @@
         }
       ],
       "title": "Ruokavirasto laajensi afrikkalaisen sikaruton ydinaluetta Lappeenrannassa yhdeksän kilometriä koilliseen – uutena rajana Rummuntie ja Tervajoki",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13060,7 +13030,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-15T12:43:13Z",
+      "updated": "2026-10-15T12:48:38Z",
       "urls": [
         {
           "sign": "b70bbb894af087bcade7e596bd972ec9b2d81257a0c3efb6aaf13c0417b7830c",
@@ -13069,7 +13039,7 @@
           ]
         }
       ],
-      "title": "Hallitus sopi 60 miljoonan euron toimenpidepaketista polttoaineiden hinnannousun hillitsemiseksi",
+      "title": "Hallitus päätti 60 miljoonan euron polttoaintuesta ja verokevennyksistä korkeiden polttoaineiden hintojen lieventämiseksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13124,7 +13094,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T15:44:00+03:00",
+      "updated": "2026-10-15T15:54:00+03:00",
       "urls": [
         {
           "sign": "f87a278d45446f00788491611c0b4a61f381689d3b2856ecd31a972fda3466a3",
@@ -13133,9 +13103,11 @@
           ]
         }
       ],
-      "title": "Hallitus pääsi sopuun 60 miljoonan euron polttoaintukipaketista: polttoainetukea, ajoneuvoveron alennusta ja työmatkakuluvähennyksen korotusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": "Hallitus sopi 60 miljoonan euron polttoaintukipaketista – tukea kuljetus- ja maa- ja metsätalousalalle, ajoneuvoveron alennusta ja työmatkakuluvähennyksen korotusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13344,6 +13316,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T12:56:32Z",
+      "urls": [
+        {
+          "sign": "fe52ecfca810bceb680a1c52bd384dfbd4d49622b5ffcb7916909faac52d0458",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Päästrategi Valtteri Ahti: Korkojen nousu pelottaa Helsingin pörssin kurssien laskua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T12:55:55Z",
+      "urls": [
+        {
+          "sign": "9ca498ef1cbb97d1b8bea848b8ea99c621cb63861308f372d32519fdd2ae146d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entinen nyrkkeilyn maailmanmestari Jorge Castro, 59, kuoli bingohallissa Argentiinassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
