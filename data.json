@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T04:40:04Z",
+  "updated": "2026-10-15T04:56:03Z",
   "entries": [
     {
       "updated": "2026-10-14T20:56:47Z",
@@ -612,7 +612,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-14T22:51:30Z",
+      "updated": "2026-10-15T04:47:54Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -621,8 +621,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Lähi-idän tilannetta – USA ja Israel hyökkäsivät Iraniin, Israel iski Libanoniin keskiviikkona",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Yhdysvallat harkitsee MOAB-pomminsa käyttöä Iranin sodan yhteydessä – Iltalehti seuraa tilannetta",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -755,21 +755,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-09T13:44:49Z",
-      "urls": [
-        {
-          "sign": "c5caf6489e43565c1ef85c1af8421454a0acf084a26bd12974e8b285f891b9c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pirkanmaan työttömyys kasvaa Suomessa nopeimmin – lähes kolmasosa kansallisesta kasvusta tulee Tampereen seudulta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-09T14:01:04Z",
@@ -3166,23 +3151,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-12T19:46:23Z",
-      "urls": [
-        {
-          "sign": "d33d1cfe3b3cd1bf83bf36da7fc1f2897422102a1e4f3e069b4299509cc8d514",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anton Lundell teki NHL-kauden ensimmäisen maalinsa Buffalo Sabresia vastaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-12T13:03:00+03:00",
       "urls": [
         {
@@ -5115,23 +5083,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T16:00:08Z",
-      "urls": [
-        {
-          "sign": "83c5d02d1b7659ec3a1b60bd533cddc78e1d25c6249f30df3044b5a093bf45d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lahden golfin toimitusjohtaja Juha Ruponen paljasti harjoituskentän tuhonneen auton kuljettajan ja omistajan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T15:51:59Z",
@@ -13266,6 +13217,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T04:43:38Z",
+      "urls": [
+        {
+          "sign": "ec3b72f1d639e5b6980e4c7d786d520464af0c2d961dde4c23e70b3dbe937a37",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat harkitsee ensimmäistä kertaa MOAB-pommin käyttöä Iranin energiaydinlaitoksia vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T04:56:03Z",
+      "urls": [
+        {
+          "sign": "040b2447b0532bb9f8e7d8fb4f581c9e9912882be8d5729f72dff901911a94f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nordean vertailukelpoinen liikevoitto laski noin neljä prosenttia, korkokate nousi prosentin kolmannella neljänneksellä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T04:53:57Z",
+      "urls": [
+        {
+          "sign": "d03af6eca2501360f0a52e105489cf8e3739d2ff8ebf5a90987130b4ff11f413",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pyhimys Suomen Kuvalehden haastattelussa kertoo viestittelystä alaikäisen fanin kanssa ja myöntää virheensä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
