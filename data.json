@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T10:43:00+03:00",
+  "updated": "2026-10-15T07:53:11Z",
   "entries": [
     {
       "updated": "2026-10-15T07:37:11Z",
@@ -954,21 +954,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-12T13:15:00+03:00",
-      "urls": [
-        {
-          "sign": "286bcb91104a3b5f74fb41a0911b68ef9916de4ec4b9451cdfe7362d11628816",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satelliittikuvat voivat paljastaa laajat hakkuut ajoissa – asiantuntija ehdottaa yhteistä valvontajärjestelmää",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-13T07:41:46Z",
@@ -5365,36 +5350,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-13T19:47:37Z",
-      "urls": [
-        {
-          "sign": "3910573c28524a692039769d80dc43c3faa5c63c749095875227485047ae51bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus tuomitsi Duane 'Keffe D' Davisin 40 vuoden vankeuteen Tupac Shakurin murhan järjestämisestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-13T19:56:06Z",
-      "urls": [
-        {
-          "sign": "9f313fc7b21f4f492ec8c86ea0d88863ddec8bd976be81017e74dfa2b46f3823",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vinicius Júniorin kasvoleikkauksen jälkeen leviää huhu hänen korvaamisestaan kaksoisolennolla sosiaalisessa mediassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T22:58:00+03:00",
@@ -12985,7 +12940,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T10:40:00+03:00",
+      "updated": "2026-10-15T10:46:00+03:00",
       "urls": [
         {
           "sign": "148eba8f1c7891f514941e27922eb767d11bc5981f1e7c7363da8228c2609c5e",
@@ -12994,8 +12949,8 @@
           ]
         }
       ],
-      "title": "Peshawarin koulurakennuksen katto romahti – yli kaksikymmentä lasta ja opettaja kuoli, kymmeniä loukkaantui",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Peshawarin koulurakennuksen katto romahti Pakistanissa – yli kaksikymmentä oppilasta ja opettaja kuoli, kymmeniä loukkaantui",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13284,6 +13239,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T10:51:00+03:00",
+      "urls": [
+        {
+          "sign": "224c6400a4b87301e07434623c727f95c4b8b840ccde4e7eaa939535397d3143",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T07:51:11Z",
+      "urls": [
+        {
+          "sign": "c917d17f5632b4806dbb157d178525326f3aa795d77996a27855c38f0be0286b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jyväskylän AaltoAlvari-uimahallissa tapahtui tapaturma, loukkaantunut asiakas toimitettiin jatkohoitoon",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T07:53:11Z",
+      "urls": [
+        {
+          "sign": "0b230b09ec775982198bc1dcf447cf0d67746fef711c8b6149825430d25980fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Radiojuontaja Aleksi Korpijaakko myöntää pettäneensä vaimoaan ja selittää teon neljänkympin kriisillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
