@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-14T23:56:23Z",
+  "updated": "2026-10-15T00:40:56Z",
   "entries": [
     {
       "updated": "2026-10-14T20:56:47Z",
@@ -4186,23 +4186,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T13:33:04Z",
-      "urls": [
-        {
-          "sign": "6fa9ab919e8fa2293770693efdbe70f12a375aa6860db31ec241683f7d0abe2a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yksi kuoli ja kaksi loukkaantui ulosajoissa Sastamalassa tiistaina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T10:15:09Z",
@@ -13299,6 +13282,23 @@
       "title": "Viime viikolla Yhdysvallat ehdotti Venäjän jäädytettyjen varojen vapauttamista Washingtonin hallinnoimaan rahastoon – eurooppalaiset torjuivat ehdotuksen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T00:40:56Z",
+      "urls": [
+        {
+          "sign": "3549b3d487d219f493edafd6372510c8b4ced1360819f8ad11520149b843f9e2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lancetin asiantuntijat varoittavat: ydinsota tai tekoälyn väärinkäyttö uhkaa ihmiskuntaa sukupuutolla vuoteen 2100 mennessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
