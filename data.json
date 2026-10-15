@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T03:20:00Z",
+  "updated": "2026-10-15T03:43:46Z",
   "entries": [
     {
       "updated": "2026-10-14T20:56:47Z",
@@ -2715,21 +2715,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-12T11:34:00+03:00",
-      "urls": [
-        {
-          "sign": "f5a40680cec4b2d154e6ef2f9ba0d2eff35620a2e7e65524ea0482927fe16834",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Howard G. Buffettin säätiö on lahjoittanut Ukrainaan yli 1,2 miljardia euroa – enemmän kuin moni Euroopan maa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-13T06:36:46Z",
       "urls": [
         {
@@ -3044,21 +3029,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-12T18:31:05Z",
-      "urls": [
-        {
-          "sign": "433acefce1ce728e537f6728822891b8caacf6f24db30222bc4f94f5718a2d84",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Riadissa kuultiin räjähdyksiä – väestöä kehotettiin pysymään rauhallisena sisätiloissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-13T11:45:00+03:00",
       "urls": [
         {
@@ -3104,21 +3074,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-12T19:06:28Z",
-      "urls": [
-        {
-          "sign": "ada759572c560d02d6b97d8988b3aa838941ae54aa6e08866115ad1f81a2b467",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lahden Pelicans kertoi 761 341 euron tappiosta ja kuuden työntekijän työsuhteen päättymisestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T02:27:00Z",
@@ -4882,21 +4837,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-13T14:23:55Z",
-      "urls": [
-        {
-          "sign": "7f38cf626992a35c7144d959587560b1fd35acdc7cd20dd55b865158782cb1b9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Historioitsija Anne Applebaum: Trumpin Venäjä‑suhde on outo ja selittää hänen epätoivoisia päätöksiään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T14:19:49Z",
@@ -12715,7 +12655,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T03:18:38Z",
+      "updated": "2026-10-15T03:41:43Z",
       "urls": [
         {
           "sign": "f888fee15c671db32d7d2c037577017ad07555b1b253c07499a4b93dfeba3872",
@@ -12724,9 +12664,11 @@
           ]
         }
       ],
-      "title": "Hätäkeskuspäivystäjä Pekka Heikkinen auttoi väkivallan uhan alla ollutta soittajaa pizzatilauksen salakoodilla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "title": "Hätäkeskuspäivystäjä Pekka Heikkinen tulkitsi pizzatilauksen väkivallan uhan alla olevan soittajan avunpyynnöksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13254,6 +13196,73 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T03:43:46Z",
+      "urls": [
+        {
+          "sign": "7a4a846aeb8562e8c75f154ab7de4ad2e81b0c02d14f95c7ce5dfe9f92537c83",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuningatar Camilla kertoo lukeneensa Lady Chatterleyn rakastajaa salaa nuoruudessaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "6f044126940e78c4df90a8da057589b6e94cff52a278328f92383b7febc63f39",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T03:40:00Z",
+      "urls": [
+        {
+          "sign": "bb757f824edcf45bcb1ec16dd98d31c0244e075b429d6e7dc83246eabc81ec51",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii kansanedustajien kotien epäiltyjä tunkeutumisia mikroskoopilla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T03:32:27Z",
+      "urls": [
+        {
+          "sign": "86b0688756ed6d9c49f5e72de4389c92a95e459ecd56648c089023620beb3884",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jesse Puljujärvi teki hattutempun ja johdatti Geneve-Servetten jatkoaikavoittoon Kölnistä CHL:ssä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
