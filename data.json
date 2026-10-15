@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T03:54:57Z",
+  "updated": "2026-10-15T04:05:38Z",
   "entries": [
     {
       "updated": "2026-10-14T20:56:47Z",
@@ -3215,21 +3215,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-12T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "f1a6363b062eefa2721b2377e4e18d4c63a612554bd3f0a3bb05bd8175f59d6a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miro Smolander pitää eläkeiän nostamista 70 vuoteen väistämättömänä tosiasiana.",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-13T09:30:00Z",
       "urls": [
         {
@@ -4963,21 +4948,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-13T15:06:07Z",
-      "urls": [
-        {
-          "sign": "b653c7798d450f6a752f5082abcf7b6669bb204326833c538d5daf10c501f419",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hirmumyrskyn jäänteet lämmittävät Suomea tilapäisesti – pakkasennätys rikottu kuluvana syksynä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-13T15:06:03Z",
       "urls": [
         {
@@ -5021,21 +4991,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-13T15:16:32Z",
-      "urls": [
-        {
-          "sign": "fd2e20ef1e32f8756a2eabacc96dd282c9087128b5c83f40c923893f1c38c4c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Professori Pentti Huovinen varoittaa: sokeriherkut antibioottikuurin aikana voivat pahentaa suoliston haittoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T18:47:02Z",
@@ -13263,6 +13218,57 @@
       "title": "Vadelma‑lakritsipääkallo valittiin Iltalehden irtokarkkiäänestyksen parhaaksi karkiksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "d9e0c647fac3f3f586e5919229014a6050c073801b50746b687abc9d773bb6d3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T04:05:38Z",
+      "urls": [
+        {
+          "sign": "14881c8396bc22673f7a8ade4782ff8f7de93ffc6e6ca13cc4ad8edff29c2639",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T04:03:40Z",
+      "urls": [
+        {
+          "sign": "66497fba1056c5c0a2dc41dfc2f28cc52f45916266f034feff2d3d29bd7da14f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Google saattaa joutua rikosvastuuseen laittomista hakkuista Muhoksella ja Kajaanissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
