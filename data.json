@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T04:29:08Z",
+  "updated": "2026-10-15T04:40:04Z",
   "entries": [
     {
       "updated": "2026-10-14T20:56:47Z",
@@ -755,21 +755,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-09T13:42:39Z",
-      "urls": [
-        {
-          "sign": "9c9711b79cfb59678818051cbe11679c357764cce891c57fb363daa551987ca6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finns Party rises to second in polls as Finland prepares citizenship test, pushes data‑centre demands, and sees Karelian pie surge",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-09T13:44:49Z",
@@ -3310,23 +3295,6 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-12T12:00:00+03:00",
-      "urls": [
-        {
-          "sign": "f8471fae65099e20d8e19df5919c3300e6628fc9e93ba75698a41f4a5f7f321f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-10T16:57:23Z",
@@ -13268,6 +13236,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T07:35:00+03:00",
+      "urls": [
+        {
+          "sign": "3cd8bbb8cfbf8cbc0addab6eee644c30e427a4d423dc6584af45f9e95d0c5f73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vantaa myy Björsin tilan historialliset rakennukset noin 50 000 eurolla puolen miljoonan euron remontin jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T04:40:04Z",
+      "urls": [
+        {
+          "sign": "48d3bd82630815b2dd032cab5b224d6c94a276dff55c0d81407f4dd99cb5c3bb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat istuttivat bataattia Helsingin Viikin pellolle – kokeilu osoitti viljelyn onnistuvan Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
