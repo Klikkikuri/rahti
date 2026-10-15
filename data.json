@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T07:12:24Z",
+  "updated": "2026-10-15T07:26:18Z",
   "entries": [
     {
       "updated": "2026-10-15T05:56:16Z",
@@ -2882,23 +2882,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-12T13:03:00+03:00",
-      "urls": [
-        {
-          "sign": "c6fb386b21420db627a2fd12fc439372c977dad569e28050a3c5625d106ee78f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-13T09:30:00Z",
       "urls": [
         {
@@ -3240,21 +3223,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T03:20:54Z",
-      "urls": [
-        {
-          "sign": "4013b12d0a48a4ec0ef6c3fbfcb93f3e5510ab42abe625b5c4046b41e658d3eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liittovaltion agentit tekivät kotietsinnän Ilhan Omarin kotiin Yhdysvalloissa osana rikostutkintaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T05:14:00Z",
@@ -5390,21 +5358,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-13T19:16:26Z",
-      "urls": [
-        {
-          "sign": "85f2fe846a4b62bd4aaec877adb75c058124523276fc69c869264187a34e44cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kasperi Kapanen johtaa NHL:n huippunopeustilastoa 38,7 km/h nopeudella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-13T22:25:00+03:00",
       "urls": [
         {
@@ -5463,21 +5416,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T19:26:59Z",
-      "urls": [
-        {
-          "sign": "a93d6681e924da8326ffbcbed2a970405cbfc30718e364f5051cf525ae420dca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi vapautti Naantalin kylpylähotellin ampumavälikohtauksesta epäillyn 37‑vuotiaan miehen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T19:19:52Z",
@@ -12569,7 +12507,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T08:19:00+03:00",
+      "updated": "2026-10-15T10:18:00+03:00",
       "urls": [
         {
           "sign": "3cd8bbb8cfbf8cbc0addab6eee644c30e427a4d423dc6584af45f9e95d0c5f73",
@@ -12578,7 +12516,7 @@
           ]
         }
       ],
-      "title": "Vantaa myy Björsin tilan historialliset rakennukset noin 50 000 eurolla puolen miljoonan euron remontin jälkeen",
+      "title": "Vantaa myy Inkoon Björsin tilan historialliset rakennukset noin 50 000 eurolla puolen miljoonan euron remontin jälkeen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13282,6 +13220,66 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T10:15:00+03:00",
+      "urls": [
+        {
+          "sign": "ca52b06904a65184b60292b7de61046cf3a16ac3cfa7a36555564ca4d332991c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomi on hyvä datakeskuspaikka, kunhan lupaehtojen sitovat hukkalämmön hyödyntämiseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T07:19:45Z",
+      "urls": [
+        {
+          "sign": "5d1fcbe81c4e2405daadeccdaf0e28f139d7eb814a671f0cb818dc0fb9db4948",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Prinsessa Anne esiteltiin vahingossa prinssi Charlesinä – hän katsoi puhujaa ja pyöräytti silmiään",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T07:26:18Z",
+      "urls": [
+        {
+          "sign": "f0b54a1344b347fb92d81304b852511458f4c85e071d1d66efc335878b584329",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolme miestä sai sakot 3‑vuotiaan tytön likakaivoon putoamisesta Jyväskylässä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T07:25:25Z",
+      "urls": [
+        {
+          "sign": "5614a6e5aac172c7835bf77dfff6fa942a51c28e1aa9b51bbdd98753aec4cb61",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valmet Automotive sai 410 000 euroa EU-tukea irtisanotuille – Mercedes-Benzin tuotanto loppui ja henkilöstö väheni Uudenkaupungin tehtaalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
