@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T02:37:00+03:00",
+  "updated": "2026-10-14T23:56:23Z",
   "entries": [
     {
       "updated": "2026-10-14T20:56:47Z",
@@ -4832,21 +4832,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T13:27:44Z",
-      "urls": [
-        {
-          "sign": "7a5296fc86da38c9dd9c4b667df1e5e088af713734c07f619dd49078bc2395da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eläinlääkärilehti: Koirien muistisairauden oireet ja hoitokeinot selitetty",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T13:23:31Z",
@@ -13300,6 +13285,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-14T23:56:23Z",
+      "urls": [
+        {
+          "sign": "3172c9392b99f7ea941aa8da0f0869c76d88a348809c9dfa6204b445174764c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viime viikolla Yhdysvallat ehdotti Venäjän jäädytettyjen varojen vapauttamista Washingtonin hallinnoimaan rahastoon – eurooppalaiset torjuivat ehdotuksen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
