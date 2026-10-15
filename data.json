@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T08:22:00+03:00",
+  "updated": "2026-10-15T05:37:38Z",
   "entries": [
     {
       "updated": "2026-10-14T20:56:47Z",
@@ -5117,23 +5117,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-13T16:30:00Z",
-      "urls": [
-        {
-          "sign": "305ac4abac46b512751c6ee17a12e18116a82674ae1e4ff66d857a0b942d6d4f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-13T19:15:00+03:00",
       "urls": [
         {
@@ -5195,21 +5178,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-13T16:32:59Z",
-      "urls": [
-        {
-          "sign": "c70660a9bcbfbdc1e38e2f3df5cab5ccd910fde2e998087e7a7282540d82385f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Solovjovin mukaan Trumpin dieselsopimus Putinin kanssa auttaa Venäjää voittamaan sodan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T16:45:00Z",
@@ -13267,6 +13235,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T05:37:38Z",
+      "urls": [
+        {
+          "sign": "f2a67984cfe51610022afb9aa8b13f882769b3d2e158e0dbd60fc7f582da682e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Chileläinen kehonrakentaja Marianne von Gierke kuoli 39-vuotiaana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T05:36:42Z",
+      "urls": [
+        {
+          "sign": "d872bb9659737f3bd8900805d615dd54794fc94499499ba16999678ce9e14cb0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tiukka elämäntaparemontti pysäytti varhain alkaneen tyypin 2 diabeteksen tutkimuksessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
