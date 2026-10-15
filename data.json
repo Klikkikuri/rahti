@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T20:17:30Z",
+  "updated": "2026-10-15T20:30:22Z",
   "entries": [
     {
       "updated": "2026-10-15T17:32:27Z",
@@ -5338,21 +5338,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T12:11:13Z",
-      "urls": [
-        {
-          "sign": "02ed4204fc06a475ee0a488a8894ec1716227d4aee9e4936a8b32e3344426eab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korkojen nousu ajaa Pirkanmaan Avo-asunnotin kolme taustayhtiötä konkurssin partalle Nokia:ssa ja Tampereella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T12:00:13Z",
@@ -13363,6 +13348,23 @@
       "title": "KuPS hävisi 4–2 Trabzonsporille Tammelan stadionilla – Niilo Kujasalo kohtasi idolinsa Mo Salahin ja huomasi tämän puolustuspuutteen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T20:30:22Z",
+      "urls": [
+        {
+          "sign": "7f4f924258ad96eb896b19f5a71379293517d0b475f362a3e1150fb4c542ae31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi: Ukrainan iskut Venäjän öljyjalostamoihin jatkuvat – tauko päättyi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
