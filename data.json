@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T13:29:44Z",
+  "updated": "2026-10-15T13:43:59Z",
   "entries": [
     {
       "updated": "2026-10-15T09:33:56Z",
@@ -1259,23 +1259,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-12T19:40:00+03:00",
-      "urls": [
-        {
-          "sign": "2a5f261e7529b0017b9b2b0dc40bedff1fcabf691c9c59d30cc27c46b7d8e43f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-13T12:09:00+03:00",
       "urls": [
         {
@@ -1732,23 +1715,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T09:30:00Z",
-      "urls": [
-        {
-          "sign": "d3b2f00ca452e0cc91811a10e10af6f730e6519c5298ad7b41724045f43a0df1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Niina Lahtinen kertoo entisen Miss Suomen kehuneen hänen rintojaan ja hänen poistuneen juhlista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-13T06:49:58Z",
       "urls": [
         {
@@ -1852,21 +1818,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-13T05:00:51Z",
-      "urls": [
-        {
-          "sign": "c8f387a178d6ae4f119f6b623a46e99d7d9e022e66b7f4c4a4e443a77321b58d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asukkaat kuvailevat Johannesburgin kaapatuissa taloissa vallitsevia karkeita olosuhteita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-13T02:00:00+03:00",
@@ -5312,21 +5263,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T07:05:49Z",
-      "urls": [
-        {
-          "sign": "8486a9acb7a7a29a57f9bec90d8a96c1612e52b8c87775525896e1a1578e76f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Polisi pyytää havaintoja Oulun Kaarlenväylällä tapahtuneesta pyöräilijän ja jalankulkijan törmäyksestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T07:00:00Z",
@@ -12466,7 +12402,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T12:00:29Z",
+      "updated": "2026-10-15T13:38:09Z",
       "urls": [
         {
           "sign": "71d8b97322fc2709d5ceb8bbe4b79d1557392e17f0a6626174260d1f5c58ef80",
@@ -12475,7 +12411,7 @@
           ]
         }
       ],
-      "title": "Valtatie 9 on poikki Urjalassa vakavan onnettomuuden vuoksi, yksi kaista on avattu liikenteelle",
+      "title": "Vakava onnettomuus Valtatiellä 9 Urjalassa – neljä henkilöä jatkotarkastuksiin, tie avattu liikenteelle",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13342,6 +13278,68 @@
         }
       ],
       "title": "Vantaa confirms 122 layoffs while Espoo awaits final redundancy count",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T13:34:19Z",
+      "urls": [
+        {
+          "sign": "fc51963eb5bfb0b295507faa86a0d77ca71176400af071c384890191303d8ad3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle maksaa 200 000 euroa lobbareille, jotta menonsa pysyisivät salassa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T16:33:00+03:00",
+      "urls": [
+        {
+          "sign": "d966d44a4ea2782c6dd22abf43a2849694762e4a1b00779ede63c13cc5bf27d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Istanbulin tulvat ovat vaatineet ainakin kaksi uhria – ennätykselliset sateet jatkuvat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T13:38:00Z",
+      "urls": [
+        {
+          "sign": "02be2e06962412a23cf257d3339c9e819f819c3f5b5c293ff8c0000d6d64b115",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viivi Selin menetti pitkään odotetun lapsensa – neuvolan tuki jäi vähäiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T13:43:59Z",
+      "urls": [
+        {
+          "sign": "cb49dc8c865bf9ef18e82afbea7dcb2d0f12369e521f10cac9ea9d6edf27dd8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jyväskylän yöpäivystyksessä odotusajat lyhyimmät, Turussa pisimmät – sairaalat selittävät Ylen vertailun alueellisia eroja",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
