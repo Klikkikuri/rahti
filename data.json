@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T08:29:40Z",
+  "updated": "2026-10-15T08:43:32Z",
   "entries": [
     {
       "updated": "2026-10-15T07:37:11Z",
@@ -755,36 +755,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-09T16:33:17Z",
-      "urls": [
-        {
-          "sign": "849330c0b6555938ca794567f257e1d345c222576f3c071131b1204891517ce5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Enontekiön kuntastrategia tähtää Suomen Monacoksi brändäämiseen – asukkaat kyseenalaistavat slogania",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-09T16:40:12Z",
-      "urls": [
-        {
-          "sign": "0a83d47ec29d09a6c301587452b205c7cd5a190cca2575de568674b2c6cb1963",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian poliisi vapautti RAF Molesworthin tukikohdan läheltä pidätetyt kaksi latvialaista miestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-09T17:01:52Z",
@@ -2568,21 +2538,6 @@
       ],
       "title": "HS:n tilaajat voivat lahjoittaa maksumuurin takana olevia artikkeleita ystäville ilmaiseksi",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-12T15:00:00+03:00",
-      "urls": [
-        {
-          "sign": "e06d15812d84a89458aaba9c28500d63e0acbebcee2e1caa98a6f59ded6bc899",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pasi Sorjonen korostaa, että sinnikkyyttä ei voida opettaa kaikille samalla tavalla",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13157,7 +13112,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T08:21:56Z",
+      "updated": "2026-10-15T08:36:33Z",
       "urls": [
         {
           "sign": "8657906a2fbd01ccb0a5dc4421f38f99575c207219a7ca9680003b9b7f84bd04",
@@ -13221,7 +13176,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T11:29:00+03:00",
+      "updated": "2026-10-15T11:30:00+03:00",
       "urls": [
         {
           "sign": "a33c3fd503a14897b9a9389dc4f66b4c5b34ee35c291a971f2a72860e9f7fa72",
@@ -13230,7 +13185,7 @@
           ]
         }
       ],
-      "title": "Nightwishin solisti Floor Jansen jättää yhtyeen",
+      "title": "Nightwishin solisti Floor Jansen jättää yhtyeen – uusi albumi suunnitteilla vuodelle 2027",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13298,6 +13253,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T08:43:32Z",
+      "urls": [
+        {
+          "sign": "2f9bbcbbd1c119c6a596853f1be74d25611a4972ed0c1fe8e728e779c6154fb3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Patients report five-to-six-hour night-time waits in Finland's A&E wards",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T08:33:47Z",
+      "urls": [
+        {
+          "sign": "33e4879dc16015d8f5b6185ce3103068a001291730fbb7be9bdf1cc9fa521096",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ei epäile rikosta Tuusulan suurtulipalossa – palon syy mahdollisesti ajoneuvosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T11:34:00+03:00",
+      "urls": [
+        {
+          "sign": "88447dab3f41d96d142590a8b63dc23d66a46d9bde48e0110ed96c377b493b9b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
