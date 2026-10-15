@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T18:44:33Z",
+  "updated": "2026-10-15T18:57:26Z",
   "entries": [
     {
       "updated": "2026-10-15T17:32:27Z",
@@ -4592,23 +4592,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T10:46:59Z",
-      "urls": [
-        {
-          "sign": "9dd3b81c4e2bc29e78c5ca4f42136cab6be26db7f012395107532d08afe72bb2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Stubb soitti Washingtoniin kolmesti viikonloppuna ja kertoi olevansa eri mieltä Yhdysvaltojen kanssa Ukrainan tilanteesta ja dieselostoista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T08:19:57Z",
@@ -12683,7 +12666,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T18:41:06Z",
+      "updated": "2026-10-15T18:50:55Z",
       "urls": [
         {
           "sign": "b91edaf095ce81123cf91d0b4bd1d2fe28d8362f9d2c028a9c0ad50cbcf4a745",
@@ -13366,6 +13349,23 @@
       "title": "Guatemalalainen 15‑vuotias Yuleidy heräsi hautajaisissa – vastaavia tapauksia Nebraskassa, New Yorkissa, Bangkokissa ja Intiassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T18:57:26Z",
+      "urls": [
+        {
+          "sign": "f83eb62d57736e3440c38cf1914f2a85d338f04db2091d0046670d1d575359e6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Muhoksen kunnanhallituksen puheenjohtaja Tapani Ervasti sanoo median liioittelevan Google-kohua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
