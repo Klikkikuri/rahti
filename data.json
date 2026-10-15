@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T10:15:14Z",
+  "updated": "2026-10-15T13:24:00+03:00",
   "entries": [
     {
       "updated": "2026-10-15T09:33:56Z",
@@ -1082,36 +1082,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-12T17:28:00+03:00",
-      "urls": [
-        {
-          "sign": "5c2d7dcd8f5efc34a43bd63cd9de901cbc87ccf9439c132199fdf2a219446e77",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viking Line kieltää omien eväiden tuomisen laivalle turvallisuus- ja hygieniasyistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T06:29:36Z",
-      "urls": [
-        {
-          "sign": "d75018c6b1a2fcd7712359c4ce1e4f61d9ea1b9ef2d7b452f6eb1c593d3996d2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnair nostaa liikevaihto- ja tulostennustettaan vahvemman matkustajakysynnän vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-12T13:33:38Z",
       "urls": [
         {
@@ -1202,21 +1172,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-12T09:54:00Z",
-      "urls": [
-        {
-          "sign": "a8e841a1b0e3626751c98dea9e525d03ffefe394895edef29bc9883eab91314e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "ASH suosittelee ferritiinin raja-arvon nostamista 30 µg/l:ään raudanpuutteen aikaisempaa tunnistamiseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-13T09:44:00+03:00",
       "urls": [
         {
@@ -1300,23 +1255,6 @@
       "urls": [
         {
           "sign": "d1bc6b2c4773226e56448731f478a0dbd8ff84f7f98af4ee357c8ad3d2bc3b7e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-12T17:00:00+03:00",
-      "urls": [
-        {
-          "sign": "0b9570ca2d7723a10745b418da6ca144a1af995f7e5137acfc405c2b77c542b8",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -13306,6 +13244,72 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T10:20:20Z",
+      "urls": [
+        {
+          "sign": "abf25310cde5b10b4fa9daccb184266be167ebeb000cc2f2338361c475226249",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kapellimestari John Storgårds kehui Turun uutta musiikkitaloa Fuugaa – hiljaiset sävyt ja isot efektit soivat helposti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T13:24:00+03:00",
+      "urls": [
+        {
+          "sign": "9e2ad89fb635570b684e0d2901636496d48bedbda579d23ee80c91c24328e791",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Payward ostaa suomalaisen Saldo Bankin – tavoitteena EU-alueen pankkitoimilupa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T10:12:25Z",
+      "urls": [
+        {
+          "sign": "c4b6dddd558c0c992110b979e490d19095780bea2d15389f9baf2996dbd1f1ab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Floor Jansen jättää Nightwishin – Holopainen puhui yhtyeen tulevaisuudesta vielä pari viikkoa sitten",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T13:15:00+03:00",
+      "urls": [
+        {
+          "sign": "e19726a86675158a4cd3c5d8a0256cb9145ab82db7b5a265bb8dd2b3b783d770",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Entiset Ylen hallintoneuvoston ja hallituksen jäsenet: Ylen budjetin leikkaaminen ei tuo valtiolle säästöjä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
