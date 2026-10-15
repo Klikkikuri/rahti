@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T19:15:11Z",
+  "updated": "2026-10-15T19:22:02Z",
   "entries": [
     {
       "updated": "2026-10-15T17:32:27Z",
@@ -3381,23 +3381,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T10:54:38Z",
-      "urls": [
-        {
-          "sign": "b54e9fe51376843fb26504429bc4b280fefa913254c8976f184d79a90bf9007c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suuri liikekiinteistö Tuusulan Lahelassa tuhoutui tulipalossa varhain keskiviikkona – ei henkilövahinkoja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T05:00:00+03:00",
@@ -13369,6 +13352,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T19:22:02Z",
+      "urls": [
+        {
+          "sign": "781a02cc8db86d06e722350e9758538863723d91d891900406c5bdaf123f67da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaleva: Pelottava huhu Katti Hatusta rantautui Oulun seudulle – poliisi vertaa ilmiötä pelleihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
