@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T08:43:32Z",
+  "updated": "2026-10-15T08:53:31Z",
   "entries": [
     {
       "updated": "2026-10-15T07:37:11Z",
@@ -1800,21 +1800,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-12T15:44:00+03:00",
-      "urls": [
-        {
-          "sign": "c33de03c8ea64cdb4857c6fef985a2d7b1cd34cdde445eee0bbe349282034ef4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Varsinais-Suomen käräjäoikeus tuomitsi Top Financen pikavippiyhtiön johtoa ehdottomaan vankeuteen sijoituspetoksesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-12T21:52:00+03:00",
       "urls": [
         {
@@ -1887,21 +1872,6 @@
         }
       ],
       "title": "Poliisi ampui veitsellä uhannutta miestä Kalliossa – syyttäjän mukaan ei rikosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-12T16:11:00+03:00",
-      "urls": [
-        {
-          "sign": "b722a0393ea0c055f2e6ab4da2bc626378288ed4bc630aa9b585a5e6b7fd667c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Naton komentaja Alexus Grynkewich esitteli voiton teorian Venäjän hyökkäyksen varalta – ensin pysäytetään, sitten tuhotaan",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -2926,23 +2896,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T05:14:00Z",
-      "urls": [
-        {
-          "sign": "2c119037027ee4357c97473e93283723570dfa4773c0776293f333e8df6a24c3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaisten kuidunsaanti jää suositusten alapuolelle – lisääminen onnistuu yksinkertaisilla ruokavalinnoilla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T08:48:00+03:00",
@@ -5179,21 +5132,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T20:57:06Z",
-      "urls": [
-        {
-          "sign": "f135a409f6a3bc4d321248da9ed28d037b5a2d278127edbedacb20f743a16182",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vatikaani: paavi Leo XIV:n keuhkosyöpäleikkaus onnistui, osa keuhkosta poistettu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-13T20:40:14Z",
@@ -13302,6 +13240,68 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T11:45:00+03:00",
+      "urls": [
+        {
+          "sign": "3469216ea67c61cd631d57c5f98aca2b06cd98c4800a17bbad3494d5765d0e76",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lukijan mielipide: Aikuiden ei pidä käyttää lasta vallankäytön välineenä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T08:46:27Z",
+      "urls": [
+        {
+          "sign": "ba68aa01df24000a4243564ab4ff5a8bb905db79937c2cc39be1ab320e0d4bf7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itä-Suomen hovioikeus alensi Simon Ekpan terrorismituomion kuudesta vuodesta neljään vuoteen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T11:46:00+03:00",
+      "urls": [
+        {
+          "sign": "d2d32604a944800eb00ba6d58b477be463114f914dba7ed1ecd03ae182c32383",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pyhimys kertoo HS:lle päihdehoidosta ja Kuukausiliitteen jutun jälkeisistä tapahtumista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-15T08:53:31Z",
+      "urls": [
+        {
+          "sign": "e5de3a773f2ffc9cda28adb3c3e1cab199861740bb3415c8cab7d7c3f3ba1949",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pyhimys perusteli Suomen Kuvalehdessä viestittelyään alaikäisen fanin kanssa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
