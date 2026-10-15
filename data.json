@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T17:44:55Z",
+  "updated": "2026-10-15T17:59:19Z",
   "entries": [
     {
       "updated": "2026-10-15T17:32:27Z",
@@ -2080,21 +2080,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T14:07:18Z",
-      "urls": [
-        {
-          "sign": "064fcd64c162adeac8248b3c433f0ecc9e1874ae7428f0fd0a02d8a9803eb940",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Axel Åhman esittää Staffania mustan huumorin komediasarjassa Body in the Closet",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T14:19:49Z",
@@ -4575,23 +4560,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T09:56:50Z",
-      "urls": [
-        {
-          "sign": "c038d7b806b1e131900309433f7a7e7fe2a74a3ec65f028ec0bd6e6660e7253a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Jarno Limnell kertoi epäillystä kotiin tunkeutumisesta Espoon-kodissaan keskiviikkona Ukkola-ohjelmassa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T07:55:07Z",
@@ -12888,7 +12856,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T17:33:38Z",
+      "updated": "2026-10-15T17:59:19Z",
       "urls": [
         {
           "sign": "b91edaf095ce81123cf91d0b4bd1d2fe28d8362f9d2c028a9c0ad50cbcf4a745",
@@ -13354,7 +13322,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-15T17:43:17Z",
+      "updated": "2026-10-15T17:53:31Z",
       "urls": [
         {
           "sign": "c808ae10880f6209acb3c937dbb64f0cf4d8d0eab8c4b1709d24e57c4be6a618",
@@ -13364,6 +13332,38 @@
         }
       ],
       "title": "SaiPan päävalmentaja Raimo Helminen suuttui videotarkistuksen jälkeisestä tasajäähystä Lappeenrannassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-15T17:48:01Z",
+      "urls": [
+        {
+          "sign": "887a232130ed5ebf6c5161e5d0514d0f2641e0d27d547866e9b601322408c698",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lasten Panadolin mittaruisku on muuttunut – apteekkari kehottaa tarkistamaan annostuksen pakkausselosteesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T17:48:27Z",
+      "urls": [
+        {
+          "sign": "a193a5016c67383775a405d3233abf23737dc1c8c4c4c38461af13beaf2158d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valkoinen talo puolustaa lehdistösihteeri Zachariaa, joka ei ole läpäissyt asianajajatutkintoa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
