@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T22:38:27Z",
+  "updated": "2026-10-15T23:01:05Z",
   "entries": [
     {
       "updated": "2026-10-15T17:32:27Z",
@@ -5291,21 +5291,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T12:29:12Z",
-      "urls": [
-        {
-          "sign": "cbdd7bd0c53291134322ee081138f96c1e9179c2cb0ad58d1572088a01db108c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Washington Postin kolumnisti David Ignatius mainitsee Suomen presidentti Alexander Stubbin ensimmäisenä toivoa antavana johtajana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T12:30:00Z",
@@ -13369,6 +13354,21 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-15T23:01:05Z",
+      "urls": [
+        {
+          "sign": "f5003d22d6f2554ce209a6050f5c88b313f25fa8839975387ee640f470374f01",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa jokaiselle eläinradan merkille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
