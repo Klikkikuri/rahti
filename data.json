@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T11:13:52Z",
+  "updated": "2026-10-16T11:26:33Z",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -5879,21 +5879,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-15T06:33:50Z",
-      "urls": [
-        {
-          "sign": "500c4357551a52f9588a4b852844381dc5e92a18bc82bbe192fd44e17cf8b50d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Porilaismiehen robotti-imuri karkasi oven jäädessä auki – mies epäilee lähteneensä S-kaupan ruokarobotin matkaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-15T06:42:48Z",
       "urls": [
         {
@@ -5926,21 +5911,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T06:42:49Z",
-      "urls": [
-        {
-          "sign": "25779ba1615c24f09c0f1ed6f016395486890effaae045f61326cc7ffb3e473a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreiden varapuheenjohtaja Saara Hyrkkö vaatii ilmastonmuutoksen talousvaikutusten laskemista ja varoittaa miljardien eurojen kustannuksista velkajarruun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T06:40:10Z",
@@ -12277,7 +12247,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T08:17:55Z",
+      "updated": "2026-10-16T11:22:52Z",
       "urls": [
         {
           "sign": "3583aa4395e44bba4f6f1d1c853c84d07a03d587a032a5b1a8eb4628c99762f3",
@@ -12286,9 +12256,11 @@
           ]
         }
       ],
-      "title": "Poliisi vaatii kahta miestä vangittavaksi epäiltynä taposta Pirkanmaalla",
+      "title": "Poliisi vaatii kahta miestä vangittavaksi epäiltynä taposta Pirkanmaalla – vanhempi peitti kasvonsa oikeudessa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13323,7 +13295,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T14:06:00+03:00",
+      "updated": "2026-10-16T14:24:00+03:00",
       "urls": [
         {
           "sign": "c8b5a44b5d78934eb519776082a553f282b65b82aa7abffa33b892e4c819d809",
@@ -13332,7 +13304,7 @@
           ]
         }
       ],
-      "title": "MTV:n toimittaja saa syytteen avunannosta salassapitorikokseen poliisitietojen vuodosta rikollisjohtajalle",
+      "title": "MTV:n toimittaja Rebakka Härkönen saa syytteen avunannosta salassapitorikokseen poliisitietojen vuodosta rikollisjohtajalle",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13415,6 +13387,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T11:26:33Z",
+      "urls": [
+        {
+          "sign": "845ab658c15e6b22d8914d69fcf709fa693ba5e732aea8c1de4544ce4d244592",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntija Virta kehottaa Tervosta ottamaan vastuuta ja käyttämään kokeneita pelaajia KalPan tappioputkessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T11:24:09Z",
+      "urls": [
+        {
+          "sign": "3724765997e9eb87aa71fff4cabf3416f169e83f1a8999f02951fe8054f2de5e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilves saa etua HPK:n maalivahtivalinnasta ja keskeisten pelaajien poissaoloista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
