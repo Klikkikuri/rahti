@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-15T23:38:35Z",
+  "updated": "2026-10-16T00:33:53Z",
   "entries": [
     {
       "updated": "2026-10-15T23:38:35Z",
@@ -5073,21 +5073,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T12:37:51Z",
-      "urls": [
-        {
-          "sign": "d2ddeac1e02d107cfa8ae98934143cc740ab1cf89e396cd416c64c916c8ff355",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jethro Rostedt väittää kirjassa joutuneensa Sedu Koskisen huijaamaksi yökerhobisneksessä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T12:35:17Z",
@@ -13364,6 +13349,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T00:33:53Z",
+      "urls": [
+        {
+          "sign": "05009634a31e42397cd7d27be0341789dae6dd6243b0dc695d57e6e6503fe567",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mont Blanc kutistui yli metrin vuodessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
