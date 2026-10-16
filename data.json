@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T04:10:37Z",
+  "updated": "2026-10-16T04:21:50Z",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -920,21 +920,6 @@
       ],
       "title": "Finnairin positiivinen tulosvaroitus nosti osaketta yli viisi prosenttia Helsingin pörssissä",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T11:45:00+03:00",
-      "urls": [
-        {
-          "sign": "4e64f5cd9b3326eb3adf90a41d6f23ffc062c5802f2ab440a80052c8d1831ef9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heli Laaksonen: Murteella kirjoittaminen ei ole läpänheittoa",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -1941,21 +1926,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-13T17:10:00Z",
-      "urls": [
-        {
-          "sign": "94fb4bead1ee110708102d2c9ee04023ff7f8fbc8c75bf1fdc13f039620d6dee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Koko Suomi leipoo -sarja näyttää juurespiiraiden leivontaohjeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T17:09:55Z",
@@ -5235,23 +5205,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T14:28:32Z",
-      "urls": [
-        {
-          "sign": "7a715e701a28d8daddc2d00dbdcd881fae75dd27540ec29f0a0084df196a43b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viestintäasiantuntija Anna Rantasila moittii Googlen kriisiviestintää Muhoksen ja Kajaanin metsähakkuukohussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T14:16:34Z",
@@ -13348,6 +13301,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T04:21:50Z",
+      "urls": [
+        {
+          "sign": "c1f269f1c11305db1e185a2502bf20694ff56124f8dffbc58ca3eca38c1262bf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brady Tkachukin kaksi peräkkäistä hattutemppua toi Florida Panthersille voiton, Leevi Meriläinen torjui 36 laukausta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "4c94387c49fc53eb32b09516d315229761e78e488e112765af8987671834aa95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T04:20:00Z",
+      "urls": [
+        {
+          "sign": "62df5e7231f07aca75b9e5c5eb80e84075e72b194452b62be412b34399a34351",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Selkäliitto: monipuolinen liikkuminen ja jalkalihasten vahvistus helpottavat selkäkipuja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
