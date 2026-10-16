@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T00:49:31Z",
+  "updated": "2026-10-16T01:39:41Z",
   "entries": [
     {
       "updated": "2026-10-15T23:38:35Z",
@@ -787,21 +787,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T10:00:10Z",
-      "urls": [
-        {
-          "sign": "c02076809ed6783f685d226749954cd3f79511c62c04fc3b7aea294d8b457bcf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset mieluummin kotisohvalla kuin ravintolassa – alan yrittäjät valittavat arvostuksen puutteesta ja tiukasta sääntelystä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-13T12:10:00+03:00",
@@ -4413,23 +4398,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T12:49:09Z",
-      "urls": [
-        {
-          "sign": "4357cf23f984194983fd1a1a86ade504a381c101eb6f85f2d2910c93c96ec2cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Grönlanti torjuu Trumpin väitteet laajamittaisesta öljyn, kaasun ja mineraalien etsinnästä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T13:00:00+03:00",
@@ -13362,6 +13330,36 @@
       ],
       "title": "Mont Blanc kutistui yli metrin vuodessa",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T01:30:20Z",
+      "urls": [
+        {
+          "sign": "357eaadcae4b4aaef0b21f3e1021321da7758b3839d8a7166b1940bbb95de91e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump moittii Ukrainan iskuja Venäjän öljyjalostamoihin häpeällisinä – Zelensky vaatii Patriot-ohjuksia iskujen jatkamiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T01:39:41Z",
+      "urls": [
+        {
+          "sign": "177ac7cc2dfa4aa0b7eed0ba6f18744ed301f0c85354c839c2fa2b2be736d0af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tom Wellingin Instagram-kuvassa paljastui vahingossa alaston heijastus – kuva poistettiin kymmenen tunnin jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
