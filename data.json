@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T16:13:05Z",
+  "updated": "2026-10-16T19:29:00+03:00",
   "entries": [
     {
-      "updated": "2026-10-16T13:37:26Z",
+      "updated": "2026-10-16T16:16:02Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda Suomea kohtaan on lisääntynyt Nato‑jäsenyyden jälkeen – Iltalehti seuraa",
+      "title": "Iltalehti seuraa Ukrainan sotaa ja Venäjän propagandaa",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -826,23 +826,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T21:00:00+03:00",
-      "urls": [
-        {
-          "sign": "35b5666ac9616c7ddab4a0a0e53de949c4ea632f6d7c77d71a48476b79936080",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-13T23:21:00+03:00",
       "urls": [
         {
@@ -854,21 +837,6 @@
       ],
       "title": "Paavi Leo XIV:n keuhkosyöpäleikkaus onnistui Roomassa Gemellin sairaalassa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T22:25:00+03:00",
-      "urls": [
-        {
-          "sign": "f37f80ffb887ca368ef5396fc1975f8edfc6591925f4e5f08dc4b88e43b697b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump erotti Kimberly Guilfoylen Yhdysvaltain Kreikan-suurlähettilään virasta hänen pyydettyään lahjoittajaa maksamaan luottokorttilaskunsa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -12881,7 +12849,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T16:08:36Z",
+      "updated": "2026-10-16T16:23:37Z",
       "urls": [
         {
           "sign": "82d4d525491e94ff5ac064f4604a3d06042b30bd98aa1c7d017d73d70b2f2a81",
@@ -13398,6 +13366,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T19:29:00+03:00",
+      "urls": [
+        {
+          "sign": "bdaa82b5dbad4a7d55e53262c9a878aaae795af0922489daddf0b353a0b6d3a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paavi Leo vaati Putinin kanssa puhelussa tulitaukoa Oleshkyyn humanitaarisen avun saamiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T19:23:00+03:00",
+      "urls": [
+        {
+          "sign": "6421220088f51421d649b9d8bc569d41b8c0b64dbd28fff74a6ce2b553f75fac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntija: Venäjän epäillään iskeneen drooneilla kauppa-aluksiin Mustallamerellä – tavoitteena heikentää EU:n tukea Ukrainalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
