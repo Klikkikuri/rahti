@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T03:58:53Z",
+  "updated": "2026-10-16T04:10:37Z",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -1076,21 +1076,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T11:08:52Z",
-      "urls": [
-        {
-          "sign": "38186ea015ab928951d59d33cbe30a4f7caf43a5a90a6f945f40e71b37fd4409",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "P2X Solutions aloitti e-metaanin toimitukset Suomesta Saksaan tänään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-13T14:14:00+03:00",
       "urls": [
         {
@@ -1894,23 +1879,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T16:45:00Z",
-      "urls": [
-        {
-          "sign": "4908b829ec1a47d3271563075cac3b67e0cc5c6581669e4b80d1b609bf69be8b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Katolinen sota-arkkipiispa Timothy Broglio vastustaa Trumpin hallinnon suunnitelmaa teloittaa Nidal Malik Hasan suorassa lähetyksessä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T16:59:54Z",
@@ -5254,21 +5222,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-14T14:03:42Z",
-      "urls": [
-        {
-          "sign": "ef237ed879f7028544fe48cc29812f9423b36c09e44c2b34734753d007b2255e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kimmo Kapanen: Petri Karjalaisen jatko Kärpissä päätetään maajoukkuetauon jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-14T14:24:52Z",
       "urls": [
         {
@@ -5282,21 +5235,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-14T14:26:54Z",
-      "urls": [
-        {
-          "sign": "526adcd2012146235ac393470bf39aea8380be8ea4a8cbe1f40d5cd5145c9bf4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen Moskovan-suurlähettiläs Antti Helanterä kertoo podcastissa venäläisen miljardöörin suuttumisesta Navalnyi-maininnan jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T14:28:32Z",
@@ -13348,6 +13286,68 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T04:09:35Z",
+      "urls": [
+        {
+          "sign": "e6774e069eb69e6e09561ebc0a217c2d667cf6480221f74625b8fd122b7022d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perjantai-dokkari Isäksi 16-vuotiaana esitetään tänään TV1:llä kello 22.11 – 16-vuotias Antti Viitaluoma kertoo isyydestään",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T04:06:22Z",
+      "urls": [
+        {
+          "sign": "6bea8b6bd9b55028c1c0c3865225a38b68172c1bd01c53dde35c0809575530a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turkulainen Janne sinnittelee kovissa kivuissa päivästä toiseen ja odottaa polven tekonivelleikkausta helmikuussa 2027 – terveydenhuollon maksut huolestuttavat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T03:57:35Z",
+      "urls": [
+        {
+          "sign": "e3e27ef418d3b28cf9da1bf364668715d871e706725f11985b5a095a13b0974d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat asetti tilapäiset ilma- ja merialuerajoitukset itäisellä Suomenlahdella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T04:10:37Z",
+      "urls": [
+        {
+          "sign": "fa6fe619699989d75091ab9d20b176a80fa4ee89efcb9464240945368a3c1ef1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Korjaustyöntekijät löysivät reiän Suomen Joutsenen pohjasta Naantalissa – alus palaa Turun Aurajokeen perjantaina iltapäivällä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
