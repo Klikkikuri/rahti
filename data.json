@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T02:55:43Z",
+  "updated": "2026-10-16T03:08:48Z",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -1881,21 +1881,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T15:51:59Z",
-      "urls": [
-        {
-          "sign": "3ec9229053e13080c7b94d93437926a277adcfc34d63a07657beb3c632a6fbdf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suojelupoliisi kertoo puolustusalan sabotaasikohteiden kartoittamisesta Suomessakin – uhkatilanne elää päivittäin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-13T15:55:45Z",
@@ -5135,38 +5120,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T13:02:09Z",
-      "urls": [
-        {
-          "sign": "56e3e840b42ac9a4e29df2e99754c83f10d5aec37778ffdc71d0c603fb7b5bc9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mikko Rantanen maksoi illallisen Colorado Avalanche -joukkueen entisille pelaajille ja kertoi tappelukiinnostuksestaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-14T13:14:24Z",
-      "urls": [
-        {
-          "sign": "34a2329411beefa94fa818918a41c4b57a348f1f4b18db441363caea3c74e4ea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Comanches MC aloittaa toimintansa Suomessa marraskuussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-14T13:30:03Z",
       "urls": [
         {
@@ -5225,21 +5178,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T13:27:08Z",
-      "urls": [
-        {
-          "sign": "a2d0563f45d81a323e70a1ace11cc31ae75c648da4b4cd2a9dd6b5d7995df9ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi: Asiakkaiden unohtamiset itsepalvelukassoilla kuormittavat turhaan – Kesko ei ole huomannut lisääntymistä, SOK:n mukaan varkausyritykset lisääntyneet mutta turvaportti estää vahingot",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T13:18:17Z",
@@ -13347,6 +13285,70 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T03:03:00Z",
+      "urls": [
+        {
+          "sign": "9c0daf66f9dcef46a7b2d57bfa0098fc964a0af470f03b9cb5ad5988e50724a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rauman Lukon pistevire hyvä, mutta asiantuntija Karri Kivi varoittaa heikosta kevätpelistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T03:08:48Z",
+      "urls": [
+        {
+          "sign": "f6a1312d46f17fe703de75eb87ff10f26a05ff4c59c998f9a727c08d43c30a24",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aino-Kaisa Saarinen jatkaa Ylen hiihtoasiantuntijana – nimeä ei mainittu tiedotteessa erityisroolin vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T03:00:20Z",
+      "urls": [
+        {
+          "sign": "2c137559cc558f3736d4fe54afe85e006f9310cfeb5c39ddb3859888e3c97dc7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T03:00:10Z",
+      "urls": [
+        {
+          "sign": "aadfc03644e743f6e6cba24f436df66fb90d9ba7022529155b52182ba85d37de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pertti ”Nipa” Neumann kertoo kirjassa sydänkohtauksestaan grilliruoan jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
