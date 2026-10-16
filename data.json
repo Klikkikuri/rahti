@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T14:28:54Z",
+  "updated": "2026-10-16T14:39:07Z",
   "entries": [
     {
       "updated": "2026-10-16T13:37:26Z",
@@ -1183,21 +1183,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T02:30:35Z",
-      "urls": [
-        {
-          "sign": "021b53f0a8e9e9164388d80d5e4026b3ade9a8f5c18348746f75233afb78f938",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rami Almi: Häätö on lohduton tilanne – häätöjen määrä nousi lähes seitsemän prosenttia tammi–kesäkuussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T03:00:35Z",
       "urls": [
         {
@@ -1560,23 +1545,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T06:42:22Z",
-      "urls": [
-        {
-          "sign": "56c8a14a12e045b7323493391d3110e412cd0240044421fe6804b7db3acdeae1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Polttoaineiden hinnat nostivat Suomen inflaation 2,5 prosenttiin syyskuussa, hallitus harkitsee työmatkavähennystä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T08:22:00+03:00",
@@ -13394,6 +13362,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T14:32:00Z",
+      "urls": [
+        {
+          "sign": "3a7f993ece27d44a04ae121a174a382470ca1b280b7d393cbc04e369231038bb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kia Lehmuskoski kertoo keskenmenokokemuksestaan ja uskomuksestaan tulevaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T14:39:07Z",
+      "urls": [
+        {
+          "sign": "c27be157229b86c185571ec24151e20667b2b4b4d1d81059d6e4aceb8fe0f011",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nightwish ja Floor Jansen eroavat – Plamen Dimov uskoo seuraavan laulajan olevan naisen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
