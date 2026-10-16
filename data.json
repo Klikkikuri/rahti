@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T08:43:36Z",
+  "updated": "2026-10-16T11:56:00+03:00",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -830,21 +830,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T14:43:00+03:00",
-      "urls": [
-        {
-          "sign": "208953641d51b07c68decb7253cc735e13e588bec7458aec95e420bbffb670b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkoministeriö ottaa käyttöön UMAI-tekoälyavustajan turvaluokitellun tiedon käsittelyyn",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-10T16:57:23Z",
       "urls": [
         {
@@ -949,23 +934,6 @@
       "title": "Viranomaiset avasivat Nürnbergin lentoaseman kaappaushälytyksen jälkeen – Corendonin kone laskeutui turvallisesti",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-13T14:55:00+03:00",
-      "urls": [
-        {
-          "sign": "752f821050ce902a6a78768b46be31557912e5be125e7d91d338f10da4348c57",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5982,23 +5950,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T01:25:35Z",
-      "urls": [
-        {
-          "sign": "157aefacfc2c8719447e93cd30e0b3935b48625cf58a786e89e09a973f209754",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sean 'Diddy' Combs tappeli vankilassa huumeparonin kanssa ja sai sairaalahoitoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T02:00:06Z",
@@ -13403,6 +13354,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T08:53:35Z",
+      "urls": [
+        {
+          "sign": "9ea2fa9ca0b029746ed152b5870dcade85c23a85f4720725acdac0bc0a0155a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pekka Tapani Luukkonen vapautuu ehdonalaiseen kesäkuussa 2027",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T11:56:00+03:00",
+      "urls": [
+        {
+          "sign": "05e836c409317b8937f2b1a32883ef8a0404312456d62174473a1cec4643d182",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T11:45:00+03:00",
+      "urls": [
+        {
+          "sign": "f888db795e93c4a191c45174d0d178c0fa5f7204eda1c4b6b94da2cedbd18d23",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Apteekkariliiton toimitusjohtaja vaatii apteekkien osaamisen laajempaa hyödyntämistä terveydenhuollossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
