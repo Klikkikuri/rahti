@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T08:27:38Z",
+  "updated": "2026-10-16T08:43:36Z",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -5869,21 +5869,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T23:00:14Z",
-      "urls": [
-        {
-          "sign": "90df04baeecda98993056af8d8e29ed324020c1ffff2f8f2e45d4e676ed6d6b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti julkaisee päivän horoskoopin ja uutisnostoja kaikille eläinradan merkeille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-15T02:00:00+03:00",
       "urls": [
         {
@@ -5997,38 +5982,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T23:56:23Z",
-      "urls": [
-        {
-          "sign": "3172c9392b99f7ea941aa8da0f0869c76d88a348809c9dfa6204b445174764c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viime viikolla Yhdysvallat ehdotti Venäjän jäädytettyjen varojen vapauttamista Washingtonin hallinnoimaan rahastoon – eurooppalaiset torjuivat ehdotuksen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-15T00:40:56Z",
-      "urls": [
-        {
-          "sign": "3549b3d487d219f493edafd6372510c8b4ced1360819f8ad11520149b843f9e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lancetin asiantuntijat varoittavat: ydinsota tai tekoälyn väärinkäyttö uhkaa ihmiskuntaa sukupuutolla vuoteen 2100 mennessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T01:25:35Z",
@@ -12312,7 +12265,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T04:47:33Z",
+      "updated": "2026-10-16T08:43:36Z",
       "urls": [
         {
           "sign": "7b22d91da30db89473fee5491b99b4771d46794bf8e27a48ef9832c54fa3f523",
@@ -12321,8 +12274,8 @@
           ]
         }
       ],
-      "title": "Poliisi epäilee nuorten maajoukkuepelaajan raiskanneen toisen pelaajan ruotsinlaivalla marraskuussa 2024",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Poliisi epäilee nuorten maajoukkuepelaajan raiskanneen toisen pelaajan Ruotsin-laivalla marraskuussa 2024",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13399,6 +13352,57 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T08:30:57Z",
+      "urls": [
+        {
+          "sign": "d8f810af17e2bd613099074c89a34e3934ef5742cc5c9a55718afc8d5f857961",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Scharliina Eräpuro vaatii lapsiin kohdistuvien seksuaalirikosten rangaistusten tiukentamista ja vanhentumisaikojen poistamista Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T08:33:52Z",
+      "urls": [
+        {
+          "sign": "42e40f78c5142bca2f68664a485ae583ca2199deab85b4ba7bc37e1b7540f46e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Silja Kosonen kertoo pelästyneensä Kenian tiukasta sateenkaarilainsäädännöstä ennen Nairobissa 2029 järjestettäviä yleisurheilun MM-kisoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T08:39:03Z",
+      "urls": [
+        {
+          "sign": "e10d3167a38746e8d0447224e24521fb67ebcedac7113140a23b74543adb2a79",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain välivaalit alkavat – osavaltioiden kisat ja äänestyslait voivat vaikuttaa vuoden 2028 presidentinvaaleihin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
