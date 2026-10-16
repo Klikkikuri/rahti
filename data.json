@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T05:38:14Z",
+  "updated": "2026-10-16T05:55:24Z",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -5427,23 +5427,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T16:06:19Z",
-      "urls": [
-        {
-          "sign": "51d3aa69816595ae803bc4588f2a9620774ae230d7da898140711b5bed723062",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mohamed Salah saapui Tampereelle – fanit jäivät ilman nimikirjoitusta tai yhteiskuvaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T16:13:18Z",
@@ -13391,6 +13374,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T05:55:24Z",
+      "urls": [
+        {
+          "sign": "cd474e66d55ace69ce4a3700aab84bf299e13a86c354882ba4ee8d67ff2d34a5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "23-vuotias kuljettaja vastaa taposta 15-vuotiaan kuolemaan Vantaan Tikkurilassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
