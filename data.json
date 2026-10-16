@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T17:59:21Z",
+  "updated": "2026-10-16T18:15:13Z",
   "entries": [
     {
       "updated": "2026-10-16T16:16:02Z",
@@ -5973,21 +5973,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T12:22:46Z",
-      "urls": [
-        {
-          "sign": "468758895afb29b83fc7f796f7f67eb7ebd983c2aa65fcdf9490cc204a8520c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaasalainen Kuisma Karjala löysi kuolleen hyönteisen Viking Glory -aluksen hytin lattialta tiistai-iltana ja sai uuden hytin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T12:26:10Z",
@@ -12445,7 +12430,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T17:59:21Z",
+      "updated": "2026-10-16T18:15:13Z",
       "urls": [
         {
           "sign": "82d4d525491e94ff5ac064f4604a3d06042b30bd98aa1c7d017d73d70b2f2a81",
@@ -12848,7 +12833,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T16:13:05Z",
+      "updated": "2026-10-16T18:05:02Z",
       "urls": [
         {
           "sign": "d40d3b0674f53c2ad3d7ecf4034e69b2a6bcbabd83c011b38c4c78dbdde768f0",
@@ -12857,11 +12842,10 @@
           ]
         }
       ],
-      "title": null,
-      "clickbaitiness": null,
+      "title": "Pleksi hajosi Mestiksessä – erätauko aloitettiin kuuden minuutin pelin jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13214,7 +13198,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T17:54:21Z",
+      "updated": "2026-10-16T18:12:07Z",
       "urls": [
         {
           "sign": "ce41733926eda6842b53a0b58b76bba5aaf89d51d3aea4cf4259f2392819eb11",
@@ -13223,8 +13207,8 @@
           ]
         }
       ],
-      "title": "Trump kehotti Katie Zachariaa harkitsemaan lehdistösihteerin tehtävänsä jatkoa perjantaina Valkoisessa talossa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Trump erotti Valkoisen talon lehdistösihteeri Katie Zacharian",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13398,6 +13382,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T18:07:59Z",
+      "urls": [
+        {
+          "sign": "57a8368b4ba5adb95c259c37254afad9fe13300bf0149020846b96cb8d4199c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Katie Zacharian sai potkut Valkoisesta talosta viiden päivän lehdistösihteerinä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
