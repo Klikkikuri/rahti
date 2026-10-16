@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T19:58:41Z",
+  "updated": "2026-10-16T23:14:00+03:00",
   "entries": [
     {
       "updated": "2026-10-16T16:16:02Z",
@@ -875,21 +875,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "e60933f50fc224b05123373147a5fe0b51732d8b15701ad28373c5dccad3f06b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Markku Mertanen, 72, kuoli Lesassa Italiassa – edisti suomalaista vientiä Italiaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-14T05:00:00+03:00",
       "urls": [
         {
@@ -1012,36 +997,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-14T06:14:21Z",
-      "urls": [
-        {
-          "sign": "0544639e67b05784b148270318787949640e01fa7e64e3ff4bb2d01ef65fc2a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Verohallinto hakee Kiteen Tekstiilitehdasta konkurssiin yli 31 000 euron verovelkojen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T06:03:12Z",
-      "urls": [
-        {
-          "sign": "5adb717f30cd6b2e867256827813feac7255baf63c3dc85fd918b19c156d9d54",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiinalaisen kotimaisen luksuksen suosio vähentää länsimaisten luksusbrändien myymälöitä Kiinassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T15:23:00+03:00",
@@ -13400,6 +13355,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T23:14:00+03:00",
+      "urls": [
+        {
+          "sign": "54bad18cf72151de5e7faa9cbe273a64b177478bf1f55bd38e87cf6f66301f63",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "The Telegraphin lähteiden mukaan Musk ehdotti Trumpille Starlink-yhteyksien hidastamista Ukrainassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T20:10:10Z",
+      "urls": [
+        {
+          "sign": "84a22d69211db55d0811c618c58d732a087897dd9ca3e89e441c334c642e869c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina hakee EU:lta 70 miljardia euroa ensi vuoden tukivuodeksi, Suomi ajaa jäädytettyjen venäläisvarojen käyttöä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-15T11:35:48Z",
+      "urls": [
+        {
+          "sign": "2cfe9bfd63d9adc5bc5e6850597875adb3254aef7c040f7780035259724786ab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Työikäisten Alzheimerin tautiin liittyvät terveysongelmat lisääntyvät jo vuosia ennen diagnoosia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
