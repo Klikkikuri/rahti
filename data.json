@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T15:09:10Z",
+  "updated": "2026-10-16T18:28:00+03:00",
   "entries": [
     {
       "updated": "2026-10-16T13:37:26Z",
@@ -841,21 +841,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T19:38:00+03:00",
-      "urls": [
-        {
-          "sign": "385cca1ec52dc3b99aba1e1a98621b20deda39d894a91b0bfe4de809078cd5b1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirjailija Thélyson Orélien kiistää tekoälyn kirjoittaneen yhtään lausetta kirjassaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-13T20:00:00+03:00",
       "urls": [
         {
@@ -1517,21 +1502,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T07:01:50Z",
-      "urls": [
-        {
-          "sign": "2becdb611dea532b18b29f61750048956c058adf76f37b5985a18a3e46ae51ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen SaiPa-pelaaja ja valmentaja Heikki Mälkiä on kuollut 68-vuotiaana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T07:04:00Z",
@@ -5733,36 +5703,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T09:46:09Z",
-      "urls": [
-        {
-          "sign": "41a508d254d6a8b688ccc86c5d676c404444c0f78021cfde06a55af060dc9d41",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi kemikaalisäiliöalusta tulessa Romanian edustalla Mustallamerellä torstaina – seitsemän miehistön jäsentä kateissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-15T09:46:39Z",
-      "urls": [
-        {
-          "sign": "9790ad07d1edd4d7a8f7dde6997c16cb6db6e94b57aadc1dabbbcb6811ff218c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Uudenmaan poliisi etsii Prismassa tapahtuneen seksuaalirikoksen uhreja – 38‑vuotias mies vangittu",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T09:49:33Z",
@@ -13398,6 +13338,68 @@
       "title": "Norjalaisteini sai 20 vuoden vankeusrangaistuksen Britanniassa suunnitellusta palkkamurhasta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T18:28:00+03:00",
+      "urls": [
+        {
+          "sign": "62268b628ddbff9f3aa9008e8d286ed1489b1a31e7ee26b75856dd8640fe58dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaisnuoret sijoittuivat toiseksi Euroopan kyberturvallisuuden EM-kilpailussa Saksassa – Suomen kaikkien aikojen paras tulos",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T15:23:55Z",
+      "urls": [
+        {
+          "sign": "27ce555ce297dfd4aba0eb23dd7c15e710005f19b26036b4945aee6da789a588",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Frederik, 81, ja 43 vuotta nuorempi kumppani viettävät arkea yhdessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T15:12:17Z",
+      "urls": [
+        {
+          "sign": "f29e537a56b669cd9bf148d3317f2860d0b326dd42d4d338916a3225b2ad709e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Norjalainen terrorituomittu Arfan Bhatti saa poikkeusluvan pelata vankiloiden shakin MM-kisoissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T15:27:00Z",
+      "urls": [
+        {
+          "sign": "c9cfca8432e7d38412a00873c47f17f3dcace37edc2642be885a3bbb5628dc2f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Leo Jaakkonen ja Mikko Suursalmi maistelivat karkkeja silmät sidottuina ja olivat eri mieltä banaanikarkin mausta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
