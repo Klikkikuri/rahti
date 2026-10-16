@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T02:29:36Z",
+  "updated": "2026-10-16T02:45:12Z",
   "entries": [
     {
       "updated": "2026-10-16T01:49:12Z",
@@ -851,21 +851,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T10:06:26Z",
-      "urls": [
-        {
-          "sign": "2d920d6e0d93c3b283455ad08181c2f99d0d67117da6e8801f95207a21214ffa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Andersson kertoo, että hallituksen muodostamiselle puuttuvat edellytykset",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-12T10:56:18Z",
       "urls": [
         {
@@ -1123,21 +1108,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-13T10:17:05Z",
-      "urls": [
-        {
-          "sign": "f43d6dd6ec791d47ac0412fb1eb9ebd554a028edea9fe83f339a6d1a213c34b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Securitasin vartija sumutti kaasua maassa makaavan miehen kasvoihin – poliisi aloittaa esitutkinnan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-13T14:00:00+03:00",
@@ -5056,21 +5026,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T12:55:55Z",
-      "urls": [
-        {
-          "sign": "0824f487f03bbf1ac0b33ad0339b86492ee8a5491292585cbf2f7a1f9b4e07fd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Zeekr 9X -lataushybridi maksaa Suomessa 134 592 euroa ja tarjoaa lähes 900 hevosvoimaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-14T12:48:27Z",
@@ -13362,6 +13317,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T02:30:16Z",
+      "urls": [
+        {
+          "sign": "c81899632f9545c393bc9ad0317987b9d64e446b953afc442fd7e189ea3725dd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Volkswagen kehottaa rajoittamaan sähköautojen latausta 80 prosenttiin tulipalon välttämiseksi – koskee noin 900 suomalaista ajoneuvoa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T02:45:12Z",
+      "urls": [
+        {
+          "sign": "5037488bae56cf72dfd51f43100e58a5dc2691849cc0210f7760cdc434890f9c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perjantaina pohjoisessa selkenee, muualla hajanaisia tihkusateita – lauantaina sadealue liikkuu etelään ja keskiosaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T02:30:35Z",
+      "urls": [
+        {
+          "sign": "96b3b648456cc0f7c64517e20097d325dacc08b0a0d43508ba9e471892287888",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kittilän kuntayhtiö myy alkoholia ja 2000 euron talvitakkeja – paikalliset yrittäjät pelkäävät epäreilua kilpailua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
