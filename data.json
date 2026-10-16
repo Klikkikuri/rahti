@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T17:11:32Z",
+  "updated": "2026-10-16T17:27:19Z",
   "entries": [
     {
       "updated": "2026-10-16T16:16:02Z",
@@ -841,21 +841,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T22:58:00+03:00",
-      "urls": [
-        {
-          "sign": "f351c32475cec9ac1b08cfbbed89c5c5812004fc47e23ca8707b17d27c51b301",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Girls-sarja palaa viiden jakson voimin – tuotanto käynnistyy ensi vuonna",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-14T00:50:00+03:00",
       "urls": [
         {
@@ -1474,21 +1459,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T08:32:00Z",
-      "urls": [
-        {
-          "sign": "a8a09fd91d0437036534a11bbf893bf03712d2db1a25168ed4ca432deb123e39",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sami Saikkonen kertoo kirjassa, miten hänen ja Karita Tykän suhde alkoi Facebook-viestillä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T08:51:16Z",
@@ -5862,23 +5832,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T11:27:18Z",
-      "urls": [
-        {
-          "sign": "50ee3647a6a622f6e35c798c5d04ccb89439735b527fa04f3212c85c215fd641",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alkon hyllyille ilmestyi uusi Gambina-glögi – Anoran tuote yhdistää klassikon ja jouluiset mausteet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T11:39:13Z",
@@ -12383,7 +12336,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T17:02:00Z",
+      "updated": "2026-10-16T17:26:15Z",
       "urls": [
         {
           "sign": "e46ca7f72efa27a6c51b2533c9c29929aa198a5e589f06ba8858a30c484f0405",
@@ -12392,11 +12345,9 @@
           ]
         }
       ],
-      "title": "Pääministeri Orpo kritisoi Trumpin Ukraina-politiikkaa ja vaatii Euroopan lisäävän tukensa Ukrainalle Brysselin kokouksessa",
+      "title": "Pääministeri Orpo arvostelee Trumpin Ukraina-toimia ja vaatii Euroopan vahvistamaan tukensa Ukrainalle Brysselissä",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13321,7 +13272,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T16:54:19Z",
+      "updated": "2026-10-16T17:18:33Z",
       "urls": [
         {
           "sign": "651064926c9f230c483c5ad293794f64f46c18ff289dc116ea7b37ffe004d069",
@@ -13330,7 +13281,7 @@
           ]
         }
       ],
-      "title": "Jokerien haasto Ässien 2–0-maalia vastaan epäonnistui – maali jäi voimaan",
+      "title": "Jokerien videohaasto Ässien 2–0-maalia vastaan epäonnistui – maali säilyi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13399,6 +13350,55 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T17:27:19Z",
+      "urls": [
+        {
+          "sign": "da884b1d5d174dfa9649a05aa6724d4e70dc67924226151c8d09d3647f024c77",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Media julkaisi hätäkeskuspuhelun Hayden Panettiereen elvytyksestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T17:26:21Z",
+      "urls": [
+        {
+          "sign": "ce41733926eda6842b53a0b58b76bba5aaf89d51d3aea4cf4259f2392819eb11",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump neuvoi perjantaina Katie Zachariaa harkitsemaan lehdistösihteerin tehtävänsä jatkoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T20:16:00+03:00",
+      "urls": [
+        {
+          "sign": "705a401144dce7b7f71ae0e5b9fabdba12150ce8e450154399c6f982694343d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jaakko Hyvätti kommentoi Teslan lentävää Roadster-prototyyppiä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
