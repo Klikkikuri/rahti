@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T19:29:00+03:00",
+  "updated": "2026-10-16T16:44:50Z",
   "entries": [
     {
       "updated": "2026-10-16T16:16:02Z",
@@ -1104,66 +1104,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T05:10:02Z",
-      "urls": [
-        {
-          "sign": "da69adeb4ba2e94756f948777a285b8eb6f2129d289b326c285026f7afbe7dfa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Google Finland manager apologises for forest clearances at Muhos and Kajaani data centres",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T05:00:42Z",
-      "urls": [
-        {
-          "sign": "a5124db86504f87c22c7a8dee679da0c40b3f40471f5c889d39e82c52b52e979",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liikenne- ja viestintäministeriö ehdottaa valtion tuen lopettamista maakuntalennoille vuoden 2028 jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T05:13:28Z",
-      "urls": [
-        {
-          "sign": "befb713b3417308ab717aba44e7c2cb17953c9737f41660bb881bf1dc0d5caa2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lupa- ja valvontavirasto selvittää, miten 3-vuotias lapsi katosi ja löytyi päiväkodin retkellä Helsingissä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T07:56:01Z",
-      "urls": [
-        {
-          "sign": "ee1639503930952e8a7cdffa1e45825159ff8109d95dad426e841f656d41d9c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liikenne- ja viestintäministeriön virkakunta esittää ruuhkamaksuja ja ajoneuvoveron painoperusteista muutosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T05:32:38Z",
@@ -5630,55 +5570,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T10:40:08Z",
-      "urls": [
-        {
-          "sign": "82b11c7b231d8a230583e87724ce2db071abce5e1d7370b8bda24f1ac0350dfc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SaiPan kokoonpanoon palaavat Siikanen, Perttu ja Palmu",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-15T10:41:43Z",
-      "urls": [
-        {
-          "sign": "6a36cbc30dc42dbdb80bf9c1b10c2f7482565b376c8c39d929caf7603797ca88",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-15T10:44:31Z",
-      "urls": [
-        {
-          "sign": "dc01e825528ec37882b3a48ef0a332e5f7697760ba626d72928a8a35045c4da0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Renault esitteli E-Space-konseptiauton Pariisin autonäyttelyssä – muotoilu muistuttaa 80-luvun TGV-junaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T13:32:00+03:00",
@@ -12584,7 +12475,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T14:12:12Z",
+      "updated": "2026-10-16T16:44:04Z",
       "urls": [
         {
           "sign": "e46ca7f72efa27a6c51b2533c9c29929aa198a5e589f06ba8858a30c484f0405",
@@ -12593,9 +12484,11 @@
           ]
         }
       ],
-      "title": "EU-huippukokouksen Ukraina-keskustelut venyttivät Orpon tiedotustilaisuutta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "title": "Pääministeri Orpo kritisoi Trumpin Ukraina-toimintaa Brysselin huippukokouksessa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13396,6 +13289,113 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T16:44:00Z",
+      "urls": [
+        {
+          "sign": "38a60caa5d28b3ac8f1717cba4d0f569168d6d8b9a5a2273a6b0028723f7969d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Seinäjoen jalkapallokerho suunnittelee omistuksensa siirtämistä perustettavalle säätiölle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T16:32:13Z",
+      "urls": [
+        {
+          "sign": "f8dcd40ed7ac2894dd8b7ec449ac0df0613543120f71b3e22f2894b2df82c40c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijan mukaan Kaakkois-Suomen susikanta on liian pieni pysäyttääkseen sikaruttoa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T16:43:59Z",
+      "urls": [
+        {
+          "sign": "2d02f9502369a1fbdcdd94fddf205f4a90697fff912ac0ab2f857cee73257de6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Porsche Center Helsinki muuttaa Herttoniemeen, laajentaa tiloja ja palkkaa lisää väkeä vaikeasta autokaupasta huolimatta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T16:31:39Z",
+      "urls": [
+        {
+          "sign": "3a4cfec76c5f6688c5c5c59ce99d7ecd69c2bf137f65f76cf505416a75ee40b9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Monika Lindemanin poika sai nyrkillä silmään uimahallissa torstai-iltapäivänä – tekijä pakeni paikalta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T16:44:50Z",
+      "urls": [
+        {
+          "sign": "717ff5e97aef43b6417e0450e9df1e04e2e2c4996a230eb1d65d384fd257c310",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Petteri Orpo: EU voi tehdä enemmän Ukrainan tukemiseksi – rahoitus ja jäädytetyt varat esillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T16:39:55Z",
+      "urls": [
+        {
+          "sign": "0692ccf50f7a1fe576bb0550290be4a8356232b238930849ce33f677a794daaf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mediateko Oy heijasti luvattomia mainoskuvia Mannerheimin patsaaseen Helsingissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T16:37:13Z",
+      "urls": [
+        {
+          "sign": "ff393049de0a56d758b38a5861f0209cefa51800fbd90eaee7e7c8b68cca725e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viranomaiset siirsivät Sean 'Diddy' Combsin uuteen vankilaan Pennsylvaniassa, median mukaan hän käyttää tuhansia dollareita kuukaudessa ylelliseen elämään vankilassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
