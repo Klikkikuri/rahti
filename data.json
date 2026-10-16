@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T18:28:00+03:00",
+  "updated": "2026-10-16T15:42:00Z",
   "entries": [
     {
       "updated": "2026-10-16T13:37:26Z",
@@ -841,23 +841,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-13T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "0ac19496464d0c1a041b476cb50ff94ff6ec002d7c9ed56b89df6cb4c40349f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-13T20:14:00+03:00",
       "urls": [
         {
@@ -1106,21 +1089,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T03:37:10Z",
-      "urls": [
-        {
-          "sign": "bb1fc103e792458e7eb76ffc1c17493978a301d917a455c38e5b82bb9579a63a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "VR korvaa junat busseilla Hämeenlinnan ja Riihimäen välillä tänään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T08:59:00+03:00",
       "urls": [
         {
@@ -1151,21 +1119,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T03:42:46Z",
-      "urls": [
-        {
-          "sign": "34aea537a63480ea1c5fbfc1f9bb709a9a6ef0a69cbc292b48a6d8926b675ce6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Comanches MC aloittaa toimintansa Suomessa marraskuussa – KRP varoittaa mahdollisista konflikteista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T12:49:59Z",
@@ -1502,23 +1455,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T07:04:00Z",
-      "urls": [
-        {
-          "sign": "4c81712d877254988be4f866ba88dbd95efac29f7b73a05b8c6490fab4d5767a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alkon myyntitiedot paljastavat: sunnuntaisin ostetaan vähemmän mutta arvokkaampia juomia, viini suosituin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T07:10:42Z",
@@ -5739,23 +5675,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-15T10:01:24Z",
-      "urls": [
-        {
-          "sign": "c21363a34a8521b095767275ca9d5f7150e407cb7c0597c9bb2d8dbafed30542",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-15T10:14:34Z",
       "urls": [
         {
@@ -5801,21 +5720,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T10:08:02Z",
-      "urls": [
-        {
-          "sign": "cd65a2a5f2bd6276b6f8bc2e99c12aa66ca6675be3f5714779cb76883b71fcb3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "S-pankki varoittaa huijausviesteistä, jotka kalastavat pankkitunnuksia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T10:09:09Z",
@@ -13195,7 +13099,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T15:08:11Z",
+      "updated": "2026-10-16T15:42:00Z",
       "urls": [
         {
           "sign": "82d4d525491e94ff5ac064f4604a3d06042b30bd98aa1c7d017d73d70b2f2a81",
@@ -13401,6 +13305,96 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T15:32:25Z",
+      "urls": [
+        {
+          "sign": "c71c330dbc00b05bfe755057c7c35497c3fee68504fccc56e5782b5861381462",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turkulainen yritys etsii naista maksuttomalle kolmiviikkoiselle Japanin‑matkalle – vaatimuksena koulutus, kunto ja rajoitukset ulkonäössä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-16T15:34:16Z",
+      "urls": [
+        {
+          "sign": "5a48880e1d34ec50c8c91e626afa64cf1e2dba2958642fc3a5c5dfc9278ec37d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lappeenrannan kaupunginjohtaja Tuomo Sallinen: Itä-Suomen tukia ohjataan väärille alueille, Pohjois-Savo hyötyy",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T15:33:49Z",
+      "urls": [
+        {
+          "sign": "9a9adbb0c5052da8610ce0147f8798fad16d0e07aa55b104f042f00ed3a285ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä ja Yhdysvallat neuvottelevat yhteisistä datakeskusprojekteista, jotka käyttäisivät venäläistä ydinvoimaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-16T18:39:00+03:00",
+      "urls": [
+        {
+          "sign": "536777299fb8e75259d51cd2f20e06cf0a14f726bdeb721088eac9c82fa6e0a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yli 1 700 haki Lapland Safariksen tonttutehtäviin ja hakemusten määrä kasvaa jyrkästi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-16T15:34:10Z",
+      "urls": [
+        {
+          "sign": "2c0def48836583728040bc6cf17bf6b7eead36bc97d7e4905c4e418ee1c37b88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Joutsen telakalta Aurajokeen – pohjasta löytynyt reikä korjattiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-16T15:31:18Z",
+      "urls": [
+        {
+          "sign": "9193b9cb480c15b981056e789b342fe88383808e365b1b83fb281c98f6d3e0a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lidl käyttää etanolia Tastino-paahtoleivän säilöntäaineena – suurin osa haihtuu paahtamalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
