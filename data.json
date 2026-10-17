@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T18:36:10Z",
+  "updated": "2026-10-17T18:55:16Z",
   "entries": [
     {
       "updated": "2026-10-17T16:29:58Z",
@@ -5863,23 +5863,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T08:33:52Z",
-      "urls": [
-        {
-          "sign": "42e40f78c5142bca2f68664a485ae583ca2199deab85b4ba7bc37e1b7540f46e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Silja Kosonen kertoo pelästyneensä Kenian tiukasta sateenkaarilainsäädännöstä ennen Nairobissa 2029 järjestettäviä yleisurheilun MM-kisoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T08:39:03Z",
@@ -13372,7 +13355,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T18:32:14Z",
+      "updated": "2026-10-17T18:46:43Z",
       "urls": [
         {
           "sign": "e50af74dad81062ab57206e758a87df0ef68d4a858dc548c27f457c48069fef6",
@@ -13381,8 +13364,8 @@
           ]
         }
       ],
-      "title": "Karjalainen kritisoi SM-liigan otteluohjelmaa: kutsuu sitä sulaaksi idiotismiksi",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Kärppien päävalmentaja Petri Karjalainen moittii SM-liigan otteluohjelmaa sulaaksi idiotismiksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13399,6 +13382,23 @@
       "title": "Katja Ståhl kommentoi Nightwish-laulajaspekulaatioita: siirtosumma ei olisi pieni",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T18:55:16Z",
+      "urls": [
+        {
+          "sign": "baad5ca4dc7b0aedd251e96a6e6dda9dcae2e62d242289046a638c0f542f3865",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Porsche julkisti Mission S -konseptiauton – sijoittuu 911:n yläpuolelle mallistossa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
