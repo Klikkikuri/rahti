@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T06:06:00+03:00",
+  "updated": "2026-10-17T03:27:37Z",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -871,36 +871,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T07:34:48Z",
-      "urls": [
-        {
-          "sign": "a6126d7c09fc8a5f263260dfe38d408bc4ceb6f386158efdeb11596346b785ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aalto-yliopiston professori Iiro Jääskeläinen ehdottaa opioidantagonistia 'katumuspillerinä' vähentämään alkoholinkäytön mielihyvää",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T07:30:20Z",
-      "urls": [
-        {
-          "sign": "8b7f83fbdfd03f1b9552df508c5d9f0410b221fddc052f10ed5ec04ea69ccb4f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "DVV kehottaa ulkomailla asuvia yli 100‑vuotiaita suomalaisia ilmoittautumaan 22. tammikuuta 2027 mennessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T11:01:00+03:00",
@@ -5770,21 +5740,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T14:10:26Z",
-      "urls": [
-        {
-          "sign": "7b24f56dd2e82e850c1739601fe43996626767febb17998b0e6b6f1b264c3054",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SJK harkitsee Jarkko Wissin korvaamista Gonçalo Pereiralla ensi kaudeksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T14:28:47Z",
@@ -13384,6 +13339,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T03:27:37Z",
+      "urls": [
+        {
+          "sign": "22a6604ddb0c95c49f2be1a5565ca97c9a9c0e10f8fe2053bdc2297f5f73a323",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Australia vahvisti ensimmäisen H5N1-lintuinfluenssatapauksen etelänmerinorsuissa Macquariensaarella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T03:18:20Z",
+      "urls": [
+        {
+          "sign": "8eb5c7bd1eaf395253f394d6dd0ab0c8451254e89073f1591b135f663865c222",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viikonlopun kylmä sää vaihtuu lämpenemiseen, kun korkeapaine tuo aurinkoista säätä.",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T03:25:19Z",
+      "urls": [
+        {
+          "sign": "70f0742f1e01b8e5547ad3b5e40368a1c6b9c6ee7e6f4d9b10463c364e7f9833",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat asetti tilapäisen ilmailun ja merialueen rajoitusalueen itäisellä Suomenlahdella lauantaiaamuna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
