@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T05:45:00+03:00",
+  "updated": "2026-10-17T06:06:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -1378,23 +1378,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T11:44:03Z",
-      "urls": [
-        {
-          "sign": "86d8bebc2b0416cd8551174507c5ade99ef311fd2aafbabbcf59455e7fbae5aa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee yli 20‑vuotiaan miehen murhanneen ikätoverinsa Vantaalla elokuussa – epäilty poistunut Suomesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T14:38:00+03:00",
@@ -5710,21 +5693,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-15T13:58:37Z",
-      "urls": [
-        {
-          "sign": "42846362118ff789b6558759a7aa3e0f8afae5fd887b326aaa0930e65eb7c4a5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lidl käytti Einstein-aiheista mainosta viitaten S-ryhmän kampanjaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-15T13:54:31Z",
       "urls": [
         {
@@ -5772,21 +5740,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T14:08:17Z",
-      "urls": [
-        {
-          "sign": "bb5abdcc8e92de4e64f5d778df35c2afcfa5dc070b9bdff0f15842b9fe8ec932",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden sanahoksaustesti haastaa arvaamaan sanoja – autoilun tietämys lisää pisteitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T17:01:00+03:00",
@@ -13289,7 +13242,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T05:45:00+03:00",
+      "updated": "2026-10-17T06:06:00+03:00",
       "urls": [
         {
           "sign": "aa8b410cc3c0612cdf6081d4b393e111136e780a4b6d80190275b0b840e0afe7",
@@ -13298,7 +13251,7 @@
           ]
         }
       ],
-      "title": "Trump jäädytti Lindsey Graham -paketin soveltamisen presidentillisellä asetuksella",
+      "title": "Yhdysvallat: Trump jäädytti Lindsey Graham -nimisen Venäjä-pakotteiden soveltamisen presidentillisellä asetuksella",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13384,6 +13337,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T03:00:49Z",
+      "urls": [
+        {
+          "sign": "89ca111cf76e4077d656097ad2087e140e76918a4fc1574bb9f5114ad857970c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T03:00:41Z",
+      "urls": [
+        {
+          "sign": "7cb68f9f1350aaa0896ca84afdcead86f2df4e52c1b887df8a6f3105100ee711",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Google korjasi Chrome‑selaimessa 37 haavoittuvuutta – seitsemän luokiteltu kriittisiksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T03:02:00Z",
+      "urls": [
+        {
+          "sign": "f3d075daf9bdb63e80122576802f78b507d1c7d71127253b4feda7f2341ac249",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies lainasi asuntonsa häädön saaneelle ystäväparille, valehteli omasta häädöstään ja joutui väkivallan kohteeksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
