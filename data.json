@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T13:29:09Z",
+  "updated": "2026-10-17T13:43:24Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -856,21 +856,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T12:48:27Z",
-      "urls": [
-        {
-          "sign": "a60ff2adec60fbffd4bd6579e8574eded1452b3a223c566b0c23ea661984b447",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU myönsi 30 miljoonaa euroa Porin TNT-tehtaan perustamiseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T12:59:16Z",
       "urls": [
         {
@@ -1530,23 +1515,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T17:29:50Z",
-      "urls": [
-        {
-          "sign": "fcf5d15b9dfcc38bccbb87c2ed87b3bc5b7b021d92666769bf33a11488748e3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Zelenskyi kertoi Trumpin asettumisen Ukrainaa vastaan olevan tuskallista Piers Morganin haastattelussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T17:27:50Z",
@@ -5969,21 +5937,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T04:54:53Z",
-      "urls": [
-        {
-          "sign": "4fdbde5bd0e374dcfade04e0d0acc8a849b6137302bfac3bfecc009274f7eafa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Linda Lampenius leikkaukseen selkähermojen vuoksi – peruuttaa marraskuun esiintymiset",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T08:43:36Z",
@@ -13398,6 +13351,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T13:32:00Z",
+      "urls": [
+        {
+          "sign": "6bf7030fb9f71d2ca150a5604186bfbf36d2089b4039d4f7695d8add9d46fee9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jaakko Parkkali, Katri Riihimäki tanssivat foxtrotin, saivat 22 pistettä – studioyleisö buuasi matalista tuomaripisteistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T13:33:23Z",
+      "urls": [
+        {
+          "sign": "6195f6388990fe70decf0346c030bad5374f9c94eefeab465c99720d6548a3b1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump on erottanut neljä naispuolista kabinetin jäsentään ja korvannut heidät miehillä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T13:43:24Z",
+      "urls": [
+        {
+          "sign": "91beecec811e283303c7d206d35579fbc5bd5acd6be016b775b162b7a874f99e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kalle Palander: Sopimusta Mentula-otteluun ei vielä ole, palkkiosta ei kerrota",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
