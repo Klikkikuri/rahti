@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-16T23:24:55Z",
+  "updated": "2026-10-17T00:13:09Z",
   "entries": [
     {
-      "updated": "2026-10-16T23:24:55Z",
+      "updated": "2026-10-17T00:08:14Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -14,7 +14,7 @@
         }
       ],
       "title": "Iltalehti seuraa Ukrainan sotaa ja Venäjän propagandan vaikutuksia",
-      "clickbaitiness": "Extremely Clickbaity",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -931,21 +931,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T10:42:00+03:00",
-      "urls": [
-        {
-          "sign": "4e45bfdabca2ff1e86d63a773c717540e067c0032f1fd818c21b0600d87bb138",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viking Line takavarikoi Annan Halmeen salaatit mutta salli pizzan – matkustaja ihmettelee eväs säännön logiikkaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-14T07:34:48Z",
@@ -10892,7 +10877,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-16T11:48:44Z",
+      "updated": "2026-10-17T00:13:09Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -10901,7 +10886,7 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin helmikuun 28. päivänä, tappoivat Ali Khamenein – Iltalehti seuraa Lähi-idän tilannetta",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin 28. helmikuuta, tappoivat Ali Khamenein – Iltalehti seuraa Lähi-idän tilannetta",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13396,6 +13381,23 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T03:10:00+03:00",
+      "urls": [
+        {
+          "sign": "c0e0c44ec2ef0d769a47c8888be4c449e52a24b4ec73718d18355c6e245d87ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois-Korea | Pohjois-Korea testasi tekoälyohjattua vedenalaista torpedoa – KCNA",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     }
