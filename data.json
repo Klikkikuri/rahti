@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T23:56:00+03:00",
+  "updated": "2026-10-17T21:10:12Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -854,21 +854,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T15:04:26Z",
-      "urls": [
-        {
-          "sign": "e045b620b9bf28dbf47776a595a043776eae17dc6551b66a5b58b092c4d73b46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lääkärit löysivät paavi Leo XIV:n keuhkosyövän leikkauksessa – tauti havaittu varhain",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T12:17:00+03:00",
@@ -5864,25 +5849,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T09:24:24Z",
-      "urls": [
-        {
-          "sign": "f986b2210f24880c5c9cdee271b092be402d4ea662f21e9f77d0028a0b1314e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "b8c20f514a25a6c22bf42ba3cd2f094ac3f8d60f1b07b0ce98e3d904bb0153d4",
-          "labels": []
-        }
-      ],
-      "title": "Jukurit neuvottelee Jonne Virtasen kanssa päävalmentajasopimuksesta ensi kaudelle – päätöstä odotetaan lähiaikoina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T09:16:46Z",
@@ -13404,6 +13370,36 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T21:08:13Z",
+      "urls": [
+        {
+          "sign": "2bf727e015bcb743134b8cdc0dd4f686df6e60079b7a0cfa95fd076fe8a9817d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putinin luottomies kiittää Trumpin pakotepäätöstä – Ukraina varoittaa Patriot-ohjusten loppumisesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T21:10:12Z",
+      "urls": [
+        {
+          "sign": "30eacbd0839bd04a5b4acf25c97cf7f76c7d430f91970447467399964928db52",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lissabonissa kymmenettuhannet osoittivat mieltään asuinkustannusten nousua vastaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
