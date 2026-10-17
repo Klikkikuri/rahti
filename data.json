@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T04:30:02Z",
+  "updated": "2026-10-17T04:41:09Z",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -901,21 +901,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T08:35:57Z",
-      "urls": [
-        {
-          "sign": "e0c9506f3e939b4d98771101df3ee465129fbdb7388b6f1852e40b48115c6f2f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuuro Minna Saari ei saanut viittomakielen tulkkia Helsingin Meilahden sairaalassa elokuun lopulla – joutui kommunikoimaan hoitajien kanssa kirjoittamalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T08:56:51Z",
@@ -3755,23 +3740,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T15:16:08Z",
-      "urls": [
-        {
-          "sign": "135623f8b94dc1ffb97b38b81b0e9c25690231c0eca090b9799fc7c61d8e1f99",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä syyttää 66‑vuotiasta miestä avovaimonsa taposta Espoon Matinkylässä – nainen saattoi olla elossa useita tunteja ennen kuolemaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T06:14:57Z",
@@ -13388,6 +13356,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T04:31:23Z",
+      "urls": [
+        {
+          "sign": "48122324d8ffbe5033b858057f45d0d5ecdfdb5f79ae2a44ac8bfcd073437fd1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat rajoitti ilmailua ja merenkulkua itäisellä Suomenlahdella lauantaiaamuna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T04:41:09Z",
+      "urls": [
+        {
+          "sign": "7840d2c88f84943627327d3692594a284821e942718ed88cfc060a36a40eb9de",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aseanin eteläisellä alueelle otettiin käyttöön kolmostason hälytys Indonesian savusumun vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
