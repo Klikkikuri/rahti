@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T05:45:05Z",
+  "updated": "2026-10-17T09:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T05:14:54Z",
@@ -870,21 +870,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T11:01:00+03:00",
-      "urls": [
-        {
-          "sign": "2c124928ea7585886e35d7275587d6bc261d3239e06f77e9816a2d280c8d76f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain oikeusministeriö epäilee saudiarabialaista insinööriä salakuuntelulaitteen asentamisesta OpenAI:n johdon kokoushuoneeseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5848,23 +5833,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T16:22:10Z",
-      "urls": [
-        {
-          "sign": "2347ac58fd6b58f731e96d2559938d318012c71bbaa0086daa3384fd710f03bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "IMF varoittaa maailmantalouden häiriönsietokyvyn rajojen lähestyvän",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T16:13:59Z",
@@ -13384,6 +13352,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "cafa7845efba90bbf76d160cd8883801471ddfd034e5fcbad08b374b8c7e7b2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T05:59:22Z",
+      "urls": [
+        {
+          "sign": "a20f547bc97b467e4e5ca05e0a316d5b71e642759270a796c2c742bbe117335e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keväällä useat naiset ovat eronneet tai saaneet potkut Trumpin hallinnosta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
