@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T18:00:06Z",
+  "updated": "2026-10-17T18:03:09Z",
   "entries": [
     {
       "updated": "2026-10-17T16:29:58Z",
@@ -1066,21 +1066,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T19:46:00+03:00",
-      "urls": [
-        {
-          "sign": "d35fbe1331e1258b5e8b7db0e1b83151932b53c7e57f6b756dedb3394aea7b5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Paavi Leo XIV:n keuhkosyöpä havaittiin rutiinitarkastuksessa ja osa keuhkosta poistettiin leikkauksessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-14T17:08:06Z",
       "urls": [
         {
@@ -1517,23 +1502,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T02:45:00Z",
-      "urls": [
-        {
-          "sign": "77acaeb6eccf189f93cb6bb505e651481c876298d54fa7d11cb71339b9986e39",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Romanialainen murtokopla varasti koruja noin 600 000 euron arvosta Helsingin keskustassa – ensimmäinen tekijä sai neljän vuoden vankeustuomion",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T14:08:00+03:00",
@@ -5835,21 +5803,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T08:00:09Z",
-      "urls": [
-        {
-          "sign": "09dae53e008e7a8ba2f3c40a559ffbf722b59bc7ac31414ea19c756703cf8863",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreät esittävät 14 keinoa tekoälyn riskien hallintaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T11:00:00+03:00",
       "urls": [
         {
@@ -5880,23 +5833,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T08:12:50Z",
-      "urls": [
-        {
-          "sign": "cdfd85d284ebc2658878f16d38d6f928834fa6c77a95406e3bd61dc7bc9c9e4e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liikenne- ja viestintäministeri Lulu Ranne kertoo Itämeren tilanteen muutoksen johtavan jäänmurtajien kotisatamien siirron Helsinkiin, Poriin ja Kemiin",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T08:13:30Z",
@@ -12382,7 +12318,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-17T17:02:06Z",
+      "updated": "2026-10-17T18:03:09Z",
       "urls": [
         {
           "sign": "eee65e4f92b6282caa7cab466ed4ecf51e351820c0d8c91ed2645dc08f8183f0",
@@ -13399,6 +13335,70 @@
         }
       ],
       "title": "SaiPa murskasi HIFK:n 7-1 Lappeenrannassa – Jokinen myönsi puolustusvirheet",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T18:00:35Z",
+      "urls": [
+        {
+          "sign": "abdd75c7dbe1e5761ce71fef11550830c17539fbc6f1681fe4000111ca67a8f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keiju eli Eevi Teittinen putosi Masked Singer Suomesta – kieltäytyi kommentoimasta mustaa lammas -vihjettään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T18:00:00Z",
+      "urls": [
+        {
+          "sign": "dc46199223c1d538635ab6b66b9af7e997a27984127e617044c6b4eac4fd8cfc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keiju paljastui Masked Singer Suomi -ohjelmassa hyvinvointivalmentaja Eevi Teittiseksi – Jokikunnas kehui: 'Olet tosi hyvä'",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T21:00:00+03:00",
+      "urls": [
+        {
+          "sign": "d2f7ce01c6c7157d1ab114bda4e93e1e66f9fd88b387dcb3b515e350292d67c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T18:01:34Z",
+      "urls": [
+        {
+          "sign": "9816f2d6f7a6d43d7099c6e2c035d9eaf694c91c87d052760101cda48e2324a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Janette Ylisoini voitti kolme alle 20-vuotiaiden EM-kultaa painonnostossa Durrësissä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
