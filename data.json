@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T05:26:00+03:00",
+  "updated": "2026-10-17T02:30:35Z",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -886,21 +886,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T06:56:59Z",
-      "urls": [
-        {
-          "sign": "fd89f966ef7a4766c140a8f74984829a27caee023d37155df292ca015228b851",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SpaceX rajoitti Starlinkin sotilaskäyttöä Ukrainassa yli 160 km/h nopeudessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T07:21:23Z",
@@ -13334,7 +13319,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T05:26:00+03:00",
+      "updated": "2026-10-17T05:30:00+03:00",
       "urls": [
         {
           "sign": "aa8b410cc3c0612cdf6081d4b393e111136e780a4b6d80190275b0b840e0afe7",
@@ -13343,7 +13328,7 @@
           ]
         }
       ],
-      "title": "Trump kumosi Lindsey Graham -paketin soveltamisen presidentillisellä asetuksella",
+      "title": "Trump jäädytti Lindsey Graham -paketin soveltamisen presidentillisellä asetuksella",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13397,6 +13382,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T02:30:35Z",
+      "urls": [
+        {
+          "sign": "c5ce1aeb832179c9ac417fc4b453d5155a425c59f6b0fa576102e112782f4628",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "“Onko päättäjillä lapsenlapsia ollenkaan?” – huolestunut isoisä Kainuusta korostaa vastuun tarvetta datakeskukselle ja tuulivoimalle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
