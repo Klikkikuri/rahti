@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T14:00:00+03:00",
+  "updated": "2026-10-17T11:09:52Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -764,7 +764,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-16T12:03:38Z",
+      "updated": "2026-10-17T11:08:36Z",
       "urls": [
         {
           "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
@@ -773,7 +773,7 @@
           ]
         }
       ],
-      "title": "Iltalehden palvelu tarjoaa pörssisähkön hintatiedot 48 tunnin ajalta",
+      "title": "Iltalehden palvelu näyttää pörssisähkön hinnat 48 tunnin ajalta ja päivittyy iltapäivisin",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -1511,21 +1511,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T16:04:00Z",
-      "urls": [
-        {
-          "sign": "8fe59220d2b0f48c5e55fdfe2276f55638748abecd42e5b6deffb8ceeeb7d40f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus käsittelee Russell Brandia vastaan nostettuja seksuaalirikossyytteitä Lontoossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-14T19:00:00+03:00",
       "urls": [
         {
@@ -1558,23 +1543,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T16:01:57Z",
-      "urls": [
-        {
-          "sign": "8922d430abc24043640695e1eb06a68d675bc8768ec9c8cc1a4a52ae7abe61e6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaisnainen Rodoksella kertoo voimakkaasta ukkosesta ja tulvista – paikalliset hämillään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T19:31:09Z",
@@ -5692,21 +5660,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T00:49:31Z",
-      "urls": [
-        {
-          "sign": "2e7e382c09adeebe538d685452258f543022dd43b5c6d00a8a48130cb9b56387",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapsia ja aikuinen kuoli alakoulun ammuskelussa Bendissä torstaina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T02:00:00+03:00",
       "urls": [
         {
@@ -5953,21 +5906,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T00:33:53Z",
-      "urls": [
-        {
-          "sign": "05009634a31e42397cd7d27be0341789dae6dd6243b0dc695d57e6e6503fe567",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mont Blanc kutistui yli metrin vuodessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T01:30:20Z",
@@ -13387,6 +13325,71 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T11:03:10Z",
+      "urls": [
+        {
+          "sign": "5b345350a8e67119e9e53d0c02f8c6425d5b015681dd36342fee35e9605beecc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Karri Kivi kiistää huhut valmennusuransa päättymisestä ja jatkaa MTV:n kommentaattorina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T11:02:11Z",
+      "urls": [
+        {
+          "sign": "d69e91ec9122f53c6c52c7b292b1de558fbd9d5ee46cb30ba36811d8033e4e12",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskassa mielenosoitukset laajenevat koskemaan myös elinkustannuksia ja polttoaineen hintaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T11:02:29Z",
+      "urls": [
+        {
+          "sign": "49987f32573a1933e99adf55d36c425dc5aa42a3b5bb13d9c565aabe1ae84f70",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen suurlähetystö kehottaa välttämään suuria väkijoukkoja Ranskan mielenosoitusten vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T11:09:52Z",
+      "urls": [
+        {
+          "sign": "73756f1a53cccd113aae1e9ae54bb7c2b84ea191a49b1b530fe8ef10f51ee70f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lentokone laskeutui Helsinki-Vantaalle Pietarin lentokentän sulkeuduttua lennokkiuhan vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
