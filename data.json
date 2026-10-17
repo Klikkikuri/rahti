@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T19:41:40Z",
+  "updated": "2026-10-17T19:53:51Z",
   "entries": [
     {
-      "updated": "2026-10-17T16:29:58Z",
+      "updated": "2026-10-17T19:50:18Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa ja Venäjän propagandan vaikutuksia reaaliajassa",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehti seuraa Venäjän propagandan muutoksia ja sen vaikutuksia Suomeen",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -854,21 +854,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T14:59:14Z",
-      "urls": [
-        {
-          "sign": "206348fc0ef76ba50e5d74e7a656398180d87d94b037a66fb16b78cc36631199",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Wildlife Photographer of the Year -kilpailun voittajakuvat esittelevät norsun surun, lantakuoriaisen ja hohtavat sienet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T15:04:26Z",
@@ -5802,23 +5787,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T09:08:15Z",
-      "urls": [
-        {
-          "sign": "cd2a09fe0007fb7ade9e9fd3395bd5bdaf2dfc4b04def9732d7d272eff49b059",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taksiliitto vaatii polttoainetukea myös taksiliikenteelle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T08:59:47Z",
@@ -11407,7 +11375,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T18:26:07Z",
+      "updated": "2026-10-17T19:29:57Z",
       "urls": [
         {
           "sign": "d69e91ec9122f53c6c52c7b292b1de558fbd9d5ee46cb30ba36811d8033e4e12",
@@ -11416,8 +11384,8 @@
           ]
         }
       ],
-      "title": "Ranskassa yli 550 000 ihmistä mielenosoitti elinkustannusten ja koulujen huonojen olosuhteiden vuoksi – yksi menetti kätensä, poliisi pidätti noin 400",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Ranskassa yli 550 000 mielenosoittajaa protestoi elinkustannusten ja koulujen olosuhteita vastaan – yksi menetti kätensä, poliisi pidätti noin 400",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -12906,7 +12874,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T17:10:33Z",
+      "updated": "2026-10-17T19:32:46Z",
       "urls": [
         {
           "sign": "c62be066e5e43712e75f441246110715266e9bd4e7db4a8c5dee07e6168d4829",
@@ -12915,7 +12883,7 @@
           ]
         }
       ],
-      "title": "Meteorologi Markus Mäntykannas varoittaa yöpakkasta ja liukkaista teistä – ensi viikolla luvassa aurinkoista säätä",
+      "title": "Meteorologi Markus Mäntykannas varoittaa yöpakkasta ja liukkaista teistä viikonlopun yli – ensi viikolla luvassa aurinkoista säätä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13180,7 +13148,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-17T18:29:55Z",
+      "updated": "2026-10-17T19:33:37Z",
       "urls": [
         {
           "sign": "18fac7c4631e6924ef4c3e78bc51faabdd6d72fb96ea5ae9f9ad322122a8edcd",
@@ -13189,9 +13157,11 @@
           ]
         }
       ],
-      "title": "Espanjan Itärannikolle annettu punainen säävaroitus: Alicantessa, Valencian ja Barcelonassa odotettavissa jopa 300 mm sadetta",
+      "title": "Viranomaiset antavat Espanjan Itärannikolle punaisen säävaroituksen: jopa 300 mm sadetta odotettavissa huomenna ja maanantaina",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13392,6 +13362,36 @@
       ],
       "title": "Pippa Laukka kertoi anoreksiastaan ja itsensä kadottamisesta suorassa Elämäni biisi -lähetyksessä",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T19:53:51Z",
+      "urls": [
+        {
+          "sign": "172244129cdff29c6e643e700d219c647c026cc972f9f943944e235a1d4ad9cb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranska vaatii Israelilta toimia ranskalaisen pormestarin pahoinpitelyn jälkeen Länsirannalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T19:48:19Z",
+      "urls": [
+        {
+          "sign": "3fcafc299340c8db4e4c58ff0fdb2b044ea552af40266a1618955f941b9612c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "F1-tähti Lando Norrisin väitetty bilevideo, jossa hän vaikuttaa pilkkaavan Lance Strollia, leviää sosiaalisessa mediassa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
