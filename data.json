@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T11:29:00+03:00",
+  "updated": "2026-10-17T08:38:18Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -1372,21 +1372,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T14:06:17Z",
-      "urls": [
-        {
-          "sign": "1f961406b986dd92ad86788cc8b6a77bc440352c0dfd5b9a2c2c9a479c68509e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Paavi Leon syö normaalisti ja kävelee sairaalahuoneessa keuhkoleikkauksen jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T14:24:52Z",
@@ -5847,21 +5832,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T18:44:33Z",
-      "urls": [
-        {
-          "sign": "a2f0f534abdaa59f4d41ea7273bb20b339a6fe6cee878adbf06ff34424a9c59e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Guatemalalainen 15‑vuotias Yuleidy heräsi hautajaisissa – vastaavia tapauksia Nebraskassa, New Yorkissa, Bangkokissa ja Intiassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T18:57:26Z",
@@ -13032,7 +13002,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T11:29:00+03:00",
+      "updated": "2026-10-17T11:32:00+03:00",
       "urls": [
         {
           "sign": "20f63b107ca064f00ea82f2b45e251e23d8cf2aa7894ace20d31b3bf4c18c314",
@@ -13041,7 +13011,7 @@
           ]
         }
       ],
-      "title": "Vasemmistoliiton puheenjohtaja Minja Koskela vaatii ay-jäsenmaksujen verovähennysoikeuden palauttamista kaksinkertaisena",
+      "title": "Vasemmistoliiton Minja Koskela vaatii ay‑jäsenten maksujen verovähennysoikeuden kaksinkertaistamista",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13366,6 +13336,40 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T08:37:50Z",
+      "urls": [
+        {
+          "sign": "b798a40330f6b616ef76175816d9f56cf12e9fe70af8e347dcc832baab4fb9ed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntija vaatii Viroon ydinvoimaa Googlen Suomen investoinnin jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T08:38:18Z",
+      "urls": [
+        {
+          "sign": "efa7b721b9143c731d0c2c7d89e0ce1aadf3c2c29d0a2291050f94de9521a116",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Saikkonen kertoi eturauhassyövästään ensimmäisillä treffeillä Karita Tykän kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
