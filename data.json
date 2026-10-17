@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T09:27:49Z",
+  "updated": "2026-10-17T09:39:59Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -873,21 +873,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T11:14:06Z",
-      "urls": [
-        {
-          "sign": "3b9c61c5c57a581f4977e635081a35386cd7c7a6db1e982caa2b1bfd465fa4c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomuksen kansanedustajat antavat nootin Jarno Limnellille kotitunkeutumisesta kertomisesta – Päivärinta: julkinen repostelu typerää",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T11:35:30Z",
       "urls": [
         {
@@ -1342,23 +1327,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T14:31:23Z",
-      "urls": [
-        {
-          "sign": "9a2dc1802505af4f137c5640667f0be3a1d03a74bfccfcffdd251225e0c0927b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tanskalainen moottoripyöräjengi Comanches MC suunnittelee toiminnan aloittamista Suomessa – KRP seuraa tilannetta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T14:40:07Z",
@@ -13375,6 +13343,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T09:39:59Z",
+      "urls": [
+        {
+          "sign": "5a4e197538156a5880ab8a165d9ab0c34639b6c4ee4f3ef9feff166fd6d97a43",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paavi Leo XIV kotiutuu sairaalasta lauantaina ja esiintyy sunnuntaina ensimmäisen kerran keuhkosyöpäleikkauksen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T09:39:23Z",
+      "urls": [
+        {
+          "sign": "0c58eba2127d6c3f4602f2b4960e3b90cdcb7734d3f2a54ca30731f405ac2a2b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ennuste: Marras-, joulu- ja tammikuu keskimääräistä lämpimämpiä Suomessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
