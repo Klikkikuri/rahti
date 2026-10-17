@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T03:27:37Z",
+  "updated": "2026-10-17T03:43:38Z",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -918,21 +918,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T08:19:57Z",
-      "urls": [
-        {
-          "sign": "3fdd40c0c7f23bed17e78b16187ffc3a56a2a35b0c0053de4dd43540026d4faa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viron presidentti Ülle Madise tapaa Suomen presidentti Alexander Stubbin keskustellakseen Euroopan puolustuksesta ja Ukrainan tilanteesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T08:21:23Z",
@@ -5845,21 +5830,6 @@
       ],
       "title": "Haas-talli kiinnitti Rafael Câmaran – brasilialainen F2-johtaja korvaa Esteban Oconin ensi kaudella",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-15T14:32:16Z",
-      "urls": [
-        {
-          "sign": "ecbcfccdd61bceac8243d499844fc119af939b194faf4c90c3b56cc857ad4403",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Karim Rapatti sai aivotärähdysoireita jatkettuaan Erikoisjoukot-tehtävää sekavassa tilassa",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13383,6 +13353,36 @@
         }
       ],
       "title": "Puolustusvoimat asetti tilapäisen ilmailun ja merialueen rajoitusalueen itäisellä Suomenlahdella lauantaiaamuna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T03:32:37Z",
+      "urls": [
+        {
+          "sign": "0ca0af41711054016cd2ebefc83669dac7f4a2ef9f2a51b2618c064542cfbc54",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hiljainen mielenilmaisu ihmiskauppaa vastaan kerää tummiin pukeutuneita Helsingin keskustaan lauantaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T03:43:38Z",
+      "urls": [
+        {
+          "sign": "192aa0a0962f836a9b460c898199b86dfbe1f333c3b5a5288077c31a06a1d2c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brasilian Amazonin metsäkato väheni 3 300 neliökilometriin – pienin määrä sitten 1988",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
