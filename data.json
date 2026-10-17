@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T11:43:23Z",
+  "updated": "2026-10-17T11:53:33Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -856,21 +856,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T12:28:42Z",
-      "urls": [
-        {
-          "sign": "bdb054d90d21844e35bef5fa7edf9905757400320d12e8627c8f53122da877f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espoon yt-neuvottelut päättyivät erimielisinä – tavoitteena noin 10 miljoonan euron säästöt henkilöstövähennyksillä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T12:35:17Z",
       "urls": [
         {
@@ -916,21 +901,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T15:45:00+03:00",
-      "urls": [
-        {
-          "sign": "f993cb3d23273ec7afbd9df4b2f1c94830d8fbbf8f1a0b64776d581376f92fa0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentit Stubb ja Madise varoittavat Yhdysvaltojen käännöksen Venäjän tukemiseksi kasvattavan Euroopan turvallisuushuolta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-14T12:51:18Z",
       "urls": [
         {
@@ -973,23 +943,6 @@
       "title": "LVV keskeytti Googlen hakkuut Muhoksella, Kajaanissa – yva puuttuu, Google väittää yhteisymmärrystä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T16:00:00+03:00",
-      "urls": [
-        {
-          "sign": "090c8d60b9729a15ccd2eeb2623f1be3181a2ae7f2a34064b4ff5eeb80e42a66",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13392,6 +13345,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T14:50:00+03:00",
+      "urls": [
+        {
+          "sign": "1f9bcb2cba28c518b03a90b7f0f81fa7f0e6308e0f18df1c9022c5f44c3df5c9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T11:53:33Z",
+      "urls": [
+        {
+          "sign": "22fea4a8b64e34351f39d3ea421783db95fe0a0c111d9b85dc1585019b4778d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hyvinkään mehuyrittäjä Salla Tikkanen kokee poikkeuksellisen omenavuoden ja tekee satojen tuntien työviikkoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T14:50:00+03:00",
+      "urls": [
+        {
+          "sign": "2b11aad0e88fd0f363622abd1e70e45eb93c6be00df1e8cc4f029235fb0f3564",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kymmeniä tilhiä kuoli lasipintoihin törmättyään Espoon Tapiolassa, vapaaehtoiset pelastivat loukkaantuneita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
