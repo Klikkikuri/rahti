@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T04:08:11Z",
+  "updated": "2026-10-17T04:30:02Z",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -5858,23 +5858,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T15:05:29Z",
-      "urls": [
-        {
-          "sign": "e7cbcf7e1791e4ac77f1eb28de6dd874312672ea6ea01da76a57680fe5fbdafc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sara Salonen: Lokakuun sääennuste vaikeaa korkeapaineen sijainnin epävarmuuden vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T18:00:00+03:00",
@@ -13389,6 +13372,21 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T04:30:02Z",
+      "urls": [
+        {
+          "sign": "88236d1b29f8d13c5aa8b5bd61e91298949cc2483469a7cf83b2e73f40c95500",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tomi Kakko sai vakaan kodin Asunto ensin -mallin kautta metsäasunnottomuuden jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
