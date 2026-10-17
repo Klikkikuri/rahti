@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T14:15:17Z",
+  "updated": "2026-10-17T14:29:23Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -1361,21 +1361,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T17:46:53Z",
-      "urls": [
-        {
-          "sign": "36747fb63a1b5184f816a356893866bc398676a16957903b2246ba5d984024aa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FBI kiistää väitteet Kash Patelin Venäjän matkasta – Patel nähtiin Virginiassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-14T19:46:00+03:00",
       "urls": [
         {
@@ -1513,23 +1498,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T17:45:00Z",
-      "urls": [
-        {
-          "sign": "a39e18102c09100c85c668f081d93da8cde4db1be9369be5955317f80e472dea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump horjuu Fort Hoodin ampumisen tekijän julkisen teloituksen suhteen – lähetystä ei välttämättä näytetä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T20:49:00+03:00",
@@ -12498,7 +12466,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T11:18:33Z",
+      "updated": "2026-10-17T14:29:06Z",
       "urls": [
         {
           "sign": "0ed34b86f7aaa417415f31222079ee37708a805eb78977a8e1ebe28da6f6c4a3",
@@ -12507,7 +12475,7 @@
           ]
         }
       ],
-      "title": "Suvi Minkkinen sijoittui 20:nneksi Münchenin rulla-ampumahiihdon supersprintin karsinnassa",
+      "title": "Venla Lehtonen sijoittui kymmenenneksi Münchenin rulla-ampumahiihdon supersprintin finaalissa, Suvi Minkkinen jäi karsintaan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13263,7 +13231,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-17T14:15:17Z",
+      "updated": "2026-10-17T14:19:11Z",
       "urls": [
         {
           "sign": "eee65e4f92b6282caa7cab466ed4ecf51e351820c0d8c91ed2645dc08f8183f0",
@@ -13401,6 +13369,41 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T14:29:23Z",
+      "urls": [
+        {
+          "sign": "192e81af3d69f0007a03439abe8c30c665f49a23b85288a8043a29f8892db40b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T14:16:00Z",
+      "urls": [
+        {
+          "sign": "02db6f8e45bdd9d673607c84eaac09ab6fef6f17a5f55e40e781b96a8252839f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liisa Westerbergin mokkapalamutakakku nousi sosiaalisen median viraalihitiksi vuonna 2024",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
