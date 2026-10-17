@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T04:41:09Z",
+  "updated": "2026-10-17T04:50:38Z",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -5895,23 +5895,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T15:21:45Z",
-      "urls": [
-        {
-          "sign": "4da6e9797c28708f7942af2fad00e1343a54a21c1ae5c1582539b626e0267f4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump perui Nidal Hasanin teloituksen suoran lähetyksen näyttämisen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T15:29:26Z",
@@ -13386,6 +13369,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T04:50:38Z",
+      "urls": [
+        {
+          "sign": "2b5cfe26d91bf7391f40a7a1ce5229abd81caa3c65c11502d0344e54cd9ad094",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksandr Bolšunov erosi Venäjän armeijasta tavoitellakseen neutraalia statusta ja FIS-kilpailuoikeutta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
