@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T20:04:30Z",
+  "updated": "2026-10-17T23:25:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -10504,7 +10504,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-17T10:35:00+03:00",
+      "updated": "2026-10-17T23:25:00+03:00",
       "urls": [
         {
           "sign": "82db5e25c3fb60c95902a315cbc40bd646407ed7b0ec000bb79cc791a5cfe0a9",
@@ -10513,7 +10513,7 @@
           ]
         }
       ],
-      "title": "Siirtokuntalaiset pahoinpitelivät Washington Postin kuvaajan Heidi Levinin Länsirannalla – hyökkäys tallentui videolle",
+      "title": "Siirtokuntalaiset pahoinpitelivät ranskalaisen pormestarin ja yhdysvaltalaisen valokuvaajan Länsirannalla",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13199,17 +13199,21 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T19:05:44Z",
+      "updated": "2026-10-17T20:15:16Z",
       "urls": [
         {
-          "sign": "ced2c41ceab89c55e0a0e7c7d18a1ded732ee70fba21295dc38fa2a5c826fdb1",
+          "sign": "facb3424d8d463ee1fb83af40918840df962755af00f8bc4697e3fdf78903bb8",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
+        },
+        {
+          "sign": "ced2c41ceab89c55e0a0e7c7d18a1ded732ee70fba21295dc38fa2a5c826fdb1",
+          "labels": []
         }
       ],
-      "title": "Syyttäjä vaatii Aleksib Virolaiselle ehdollista vankeutta yli 53 000 euron veropetoksesta",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Suomalainen CS:GO-pelaaja Aleksib Virolainen saa syytteen veropetoksesta yli 53 000 euron tulojen piilottamisesta",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
