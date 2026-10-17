@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T14:29:23Z",
+  "updated": "2026-10-17T14:45:51Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -854,21 +854,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T12:59:16Z",
-      "urls": [
-        {
-          "sign": "b9e8bfbce654e95a88cb84d0763553a88ad355e444b373ce4bcb08d1cd9166b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi pidätti 11 ulkomaalaista epäiltyä Ilomantsin varkaussarjasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T13:00:20Z",
@@ -6051,40 +6036,6 @@
       "title": "Uutuuskirja kertoo Kaj Chydeniuksen muistisairauden aiheuttamat vaaratilanteet",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-16T06:05:12Z",
-      "urls": [
-        {
-          "sign": "6d92d973ced8cba0c99a7e193158bdef9c71f4c5ce7907b9105b3044410fea65",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kimi Antonelli johtaa F1:n 2026 MM-sarjaa – nuorin mahdollinen maailmanmestari",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-16T06:07:15Z",
-      "urls": [
-        {
-          "sign": "9fcf5283fd957caa9959ae32f96fb2b9a453a62b0d895e4ead970e997c357fed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS: UPM ja Metsä Group ostivat mahdollisesti laittomasti hakattua puuta Googlen datakeskustyömailta Muhoksella ja Kajaanissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13231,7 +13182,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-17T14:19:11Z",
+      "updated": "2026-10-17T14:40:38Z",
       "urls": [
         {
           "sign": "eee65e4f92b6282caa7cab466ed4ecf51e351820c0d8c91ed2645dc08f8183f0",
@@ -13404,6 +13355,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T14:45:51Z",
+      "urls": [
+        {
+          "sign": "d44d4ce370249cbc7741f78b3736152fd1f7a3a2c8fab6320138f9dcc1c5f75a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vantaan Tikkurilassa 15‑vuotias poika kuoli auton törmäyksessä – ystävät saivat tiedon uutisista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T14:33:43Z",
+      "urls": [
+        {
+          "sign": "72848d8ba387096e6c3b7aa91ffa0d152c42890b29f04bc8ab93aaf0249e0647",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Aunesluoma: Trumpin pakotteiden keventäminen pyrkii lähentämään Yhdysvaltojen ja Venäjän suhteita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T14:38:49Z",
+      "urls": [
+        {
+          "sign": "33fc357edf62bf75cd8c99f602a76eb122e2909e6d49263444ab424b996edbbd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sami Saikkonen kertoo kirjassa neljän päivän lääkekoomasta ja kasvojen rekonstruktiosta lento-onnettomuuden jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
