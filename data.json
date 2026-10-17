@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T18:55:16Z",
+  "updated": "2026-10-17T19:08:20Z",
   "entries": [
     {
       "updated": "2026-10-17T16:29:58Z",
@@ -871,21 +871,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T14:38:15Z",
-      "urls": [
-        {
-          "sign": "c8898b055b30fe8f678ac20fcd0aaa9079a885092988e61c85378332af72dffa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Muhoksella ei tällä hetkellä työskentele yhtään rakennustarkastajaa – johtava virkavapaalla, toinen sairauslomalla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T14:59:14Z",
       "urls": [
         {
@@ -1566,21 +1551,6 @@
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T03:32:27Z",
-      "urls": [
-        {
-          "sign": "86b0688756ed6d9c49f5e72de4389c92a95e459ecd56648c089023620beb3884",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jesse Puljujärvi teki hattutempun ja johdatti Geneve-Servetten jatkoaikavoittoon Kölnistä CHL:ssä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5865,23 +5835,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T08:39:03Z",
-      "urls": [
-        {
-          "sign": "e10d3167a38746e8d0447224e24521fb67ebcedac7113140a23b74543adb2a79",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain välivaalit alkavat – osavaltioiden kisat ja äänestyslait voivat vaikuttaa vuoden 2028 presidentinvaaleihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T08:53:35Z",
       "urls": [
         {
@@ -7052,7 +7005,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-17T00:13:09Z",
+      "updated": "2026-10-17T19:08:20Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -13400,6 +13353,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T19:05:44Z",
+      "urls": [
+        {
+          "sign": "ced2c41ceab89c55e0a0e7c7d18a1ded732ee70fba21295dc38fa2a5c826fdb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syyttäjä vaatii Aleksib Virolaiselle ehdollista vankeutta yli 53 000 euron veropetoksesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T19:05:35Z",
+      "urls": [
+        {
+          "sign": "5b1561e01a2924d3a80f3cde6fcbcfbb191d55d1cf292573fbc70d56f792de8f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rovaniemeläinen yrittäjäpari Katja Ikäheimo-Länkinen ja Ilkka Länkinen palkittiin valtakunnallisella yrittäjäpalkinnolla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T19:07:28Z",
+      "urls": [
+        {
+          "sign": "8664255028c7dd056328f0dc21696615aa313716d2a0a75f42089e7921e3f7d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Durga Puja -juhlassa Kolkatassa väkijoukon paniikki tallasi yli 15 ihmistä kuoliaaksi ja loukkasi yli 20",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
