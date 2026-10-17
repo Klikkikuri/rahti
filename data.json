@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T12:14:22Z",
+  "updated": "2026-10-17T12:15:59Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -5840,21 +5840,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T03:37:13Z",
-      "urls": [
-        {
-          "sign": "2d0ccad665ebf469c089d787eab33a8336e9fd2d797fabfcc6a51adddad77fb2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirja: Pepe Laaksosen kuolinsyy oli nopeasti levinneeseen syöpään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T03:58:53Z",
@@ -13398,6 +13383,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T12:15:59Z",
+      "urls": [
+        {
+          "sign": "e8e7c7eea8c30a85f548ec631163de385ef81c9f9463643359d79038c285a83a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "25‑vuotias korealainen juoksuvaikuttaja Yoo Ji‑won kuoli Soulissa puolimaratonin jälkeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
