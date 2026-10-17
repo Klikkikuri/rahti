@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T01:03:36Z",
+  "updated": "2026-10-17T04:29:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -982,23 +982,6 @@
       "urls": [
         {
           "sign": "471eb68124b51c2e838ffa702ca7d01505668215348a04b2fdea0854bf2f5945",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "e7558bf3674ba6323cb827e56500378b352fc2feabc58d82e704354d39f6b6cd",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -13398,6 +13381,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T04:29:00+03:00",
+      "urls": [
+        {
+          "sign": "aa8b410cc3c0612cdf6081d4b393e111136e780a4b6d80190275b0b840e0afe7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump kumosi osan Venäjä-pakotteista presidentillisellä asetuksella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
