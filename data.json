@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T22:06:40Z",
+  "updated": "2026-10-17T22:29:34Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -884,21 +884,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T15:45:23Z",
-      "urls": [
-        {
-          "sign": "5a40d1331ebaec3994141a5cddc56006f67955abb94dfacce08ac35c85f94d39",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Faber-kustantamon mukaan Sally Rooneyn kirjoja ei voi myydä Britanniassa Palestine Action -tuen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T08:08:00+03:00",
@@ -11283,7 +11268,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-17T21:47:45Z",
+      "updated": "2026-10-17T22:22:33Z",
       "urls": [
         {
           "sign": "49987f32573a1933e99adf55d36c425dc5aa42a3b5bb13d9c565aabe1ae84f70",
@@ -11292,7 +11277,7 @@
           ]
         }
       ],
-      "title": "Poliisi pidätti yli 270 ihmistä Ranskan väkivaltaisissa mielenosoituksissa, liikkeitä ryöstettiin, rakennuksia vahingoitettiin",
+      "title": "Poliisi pidätti yli 1200 ihmistä Ranskan väkivaltaisissa mielenosoituksissa – liikkeitä ryöstettiin ja rakennuksia vahingoitettiin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13400,6 +13385,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T22:29:34Z",
+      "urls": [
+        {
+          "sign": "0e4fcfa15a86614834c662ed1c9c05bcc89ee7259123ec9b47a2b55765df9d47",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan viranomaiset pidättivät yli 1 200 ihmistä lauantain levottomuuksissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
