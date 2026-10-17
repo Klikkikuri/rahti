@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T22:29:34Z",
+  "updated": "2026-10-17T22:58:59Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -1010,23 +1010,6 @@
       "urls": [
         {
           "sign": "26eafed3f6656bceeb3cb12c85c8680c00464f0813aaa06b104c13d58c2ffcfd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T20:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1ba48b327201ac35517e85d2deb8f75a68bac94614c3817454d6d5928ad4b9d3",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -5930,23 +5913,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T09:31:40Z",
-      "urls": [
-        {
-          "sign": "551a9c127fb7d0b50114b6f35c85dd65b81b1349166d6f633270c405845730c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T09:38:40Z",
@@ -13400,6 +13366,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T01:55:00+03:00",
+      "urls": [
+        {
+          "sign": "15f3b93948b7079d3bfc996f4490ae242a78e842755d8f837112eb103cd27b4a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi kuollut ja useita loukkaantunut auton ajettua jalkapallo-ottelun keskelle Wichitassa Kansasissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T22:58:59Z",
+      "urls": [
+        {
+          "sign": "dd4e37256b1a493dbac74eafccbb0bc2b91867c0672c463f395e70a53c680a02",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miley Cyrus kunnioitti Dolly Partonia kyynelissä lavalla Hollywood Bowlissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
