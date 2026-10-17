@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T02:30:35Z",
+  "updated": "2026-10-17T05:45:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -19,21 +19,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-09-26T03:00:18Z",
-      "urls": [
-        {
-          "sign": "ac4abe1561ba2078da6dbf5c91497b9940cc7e5bc521f0131f7d8b257cac328d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkolan kyläteatterin teatteriharrastus tuo iloa ja uusia taitoja osallistujille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Äks"
     },
     {
       "updated": "2026-09-26T07:22:03Z",
@@ -886,21 +871,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T07:21:23Z",
-      "urls": [
-        {
-          "sign": "41602dc89d47e2806f77086a700a7d8f56cdf7095e2d68bdf33df074209689c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela launches Finland's updated baby box with 52 items, including a ball and intimate care products",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T07:34:48Z",
@@ -13319,7 +13289,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T05:30:00+03:00",
+      "updated": "2026-10-17T05:45:00+03:00",
       "urls": [
         {
           "sign": "aa8b410cc3c0612cdf6081d4b393e111136e780a4b6d80190275b0b840e0afe7",
@@ -13396,6 +13366,23 @@
       "title": "“Onko päättäjillä lapsenlapsia ollenkaan?” – huolestunut isoisä Kainuusta korostaa vastuun tarvetta datakeskukselle ja tuulivoimalle",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T01:54:04Z",
+      "urls": [
+        {
+          "sign": "18277f8c18020ad22233ee80b82c66ae8e9e39482a0edaffd47624bdf46b52d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump lykkää aiemmin säädettyjä Venäjä-pakotteja ja tulleja kansalliseen etuun vedoten",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
