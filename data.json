@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T06:10:17Z",
+  "updated": "2026-10-17T09:30:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T05:14:54Z",
@@ -873,21 +873,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T11:20:00+03:00",
-      "urls": [
-        {
-          "sign": "e75308cb5055bb67b3915df6cc0713b962dc8a865c59a55b0842bc482f5ffd45",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "13-vuotias poika puukotettiin Vesalassa – epäilty mies otettu kiinni, tapausta tutkitaan tapon yrityksenä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-14T11:45:00+03:00",
       "urls": [
         {
@@ -948,36 +933,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T09:44:06Z",
-      "urls": [
-        {
-          "sign": "9e9dd24024d66b1fd604b39b26b2ad0e053278e24799fae56920a41338118096",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Suomen hovioikeus tuomitsi Jukka Matti Vainion kolmen vuoden vankeuteen törkeästä huumausainerikoksesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T09:34:00Z",
-      "urls": [
-        {
-          "sign": "3ccb7475aab8eaea82146884964ea31edbf050d14ade5cac673050a3ff11e706",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kelan pääkonttori Helsingissä tarvitsee 130 miljoonan euron peruskorjauksen rapautuvan kallion vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T16:35:36Z",
@@ -5926,21 +5881,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T16:49:23Z",
-      "urls": [
-        {
-          "sign": "90d126f1d95a78e23d5daf40bef61409db0ae34640961accf74f1e028e05d8bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "70-vuotias mies kuoli jäätyään jumiin uppoavaan autoon Punkaharjulla – apu ei ehtinyt paikalle",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T17:00:07Z",
@@ -13387,6 +13327,70 @@
       "title": "JYP tiedotti Heikki Parkkisen ja Heikki Kekäläisen kuolemasta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T06:23:45Z",
+      "urls": [
+        {
+          "sign": "105c0224d93b70d0ec3beb5595cc048b5a8716906e00f08cf3f704f82b05526b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Välke-valotapahtuma valaisee Kuopion Snellmanin puiston viikonloppuna, katujuna kierrättää yleisöä teosten luo",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T06:29:39Z",
+      "urls": [
+        {
+          "sign": "f967e50ba1c076fb9e6938fcca29fa69c7e7f4b2f8647f0808c618649e4d8743",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "IMF:n jäsenmaat vaativat lisätukea sodan ja korkeiden energiahintojen aiheuttamiin rahoitusvaikeuksiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T09:30:00+03:00",
+      "urls": [
+        {
+          "sign": "a27bc39fb992e46c555ccf27aa4e5563f77b5fe1548738ce03b8ba23ea2bf01f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T06:15:28Z",
+      "urls": [
+        {
+          "sign": "a45b79b92a9893082fbc9d70feafbc3c2223a6fa77f4d5e1c6af62439e8d5e8c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
