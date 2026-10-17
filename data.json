@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T20:27:00+03:00",
+  "updated": "2026-10-17T17:41:42Z",
   "entries": [
     {
       "updated": "2026-10-17T16:29:58Z",
@@ -991,21 +991,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T19:28:00+03:00",
-      "urls": [
-        {
-          "sign": "ac8942c36258b635b1d77ae66f57e21ee81a05aba653fe0d8c0850943d9f4411",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Shane Gillisin seksistinen vitsi naisten shortseista aiheutti kohun SNL:ssä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-15T08:08:00+03:00",
       "urls": [
         {
@@ -1532,21 +1517,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T02:17:05Z",
-      "urls": [
-        {
-          "sign": "edbfc3fc4edf17b46e80f1185d0dd358ec7a67b646b881a40027c6edc67e0317",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Grönlanti kiistää Trumpin väitteet massiivisista luonnonvaraetsinnöistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T02:30:35Z",
@@ -5863,23 +5833,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T07:33:01Z",
-      "urls": [
-        {
-          "sign": "82fe7d330edf2c89b5ee964f6651ee5e6399f968bbfbd8d923710607e9bfdeed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi arvioi Israelin Venäjä-kytkösten riskiä Daavidin linko -hankinnassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T07:37:46Z",
@@ -11818,7 +11771,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T16:43:45Z",
+      "updated": "2026-10-17T17:36:48Z",
       "urls": [
         {
           "sign": "d69e91ec9122f53c6c52c7b292b1de558fbd9d5ee46cb30ba36811d8033e4e12",
@@ -11827,8 +11780,8 @@
           ]
         }
       ],
-      "title": "Puoli miljoonaa mielenosoittajaa protestoi Ranskan elinkustannusten nousua, yksi menetti kätensä räjähteestä",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Ranskassa noin 800 000 ihmistä osallistui mielenosoituksiin, joissa yksi protestoija menetti kätensä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13168,7 +13121,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T16:01:27Z",
+      "updated": "2026-10-17T17:28:48Z",
       "urls": [
         {
           "sign": "4e6153b295680b029530ed9e9f5b87663273ef0cfff0a55e8312612ce6b99ed2",
@@ -13178,7 +13131,7 @@
         }
       ],
       "title": "Israelilaiset siirtokuntalaiset hyökkäsivät diplomaattisaattueen ja pahoinpitelivät ranskalaisen pormestarin Länsirannalla",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13398,6 +13351,55 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T20:31:00+03:00",
+      "urls": [
+        {
+          "sign": "20980bb9108222ca7cc0a6cad07646ebd20305613c9530f8324fd66b12478db4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elon Musk lahjoitti noin 366 miljoonaa dollaria republikaanien tueksi marraskuun 2026 välivaaleihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T17:41:42Z",
+      "urls": [
+        {
+          "sign": "3322f6c63c18daf1a1900c69ebf4dd805e9dfab0da282cae140e871ec71b0540",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jokereiden kapteeni Markus Hännikäinen vaatii puolustuspelinsä parantamista yksilövirheitä vähentämällä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T17:33:49Z",
+      "urls": [
+        {
+          "sign": "96c46d2146fd38a63bb105132b0ee848f06bf8125cb720bab2db29e7d0a9d05d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommentti: Asunnottomuus Suomessa kasvoi 20 prosenttia – hyvinvointivaltion turvaverkot eivät riitä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
