@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T00:18:50Z",
+  "updated": "2026-10-17T01:03:36Z",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -886,21 +886,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T06:45:47Z",
-      "urls": [
-        {
-          "sign": "0c280020f946e64304146d29293d7265151db7273221daa6c48ad86c39d3d3e7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinki avaa Kampiin uuden terveys- ja hyvinvointikeskuksen alkuvuonna 2027",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T06:56:59Z",
@@ -13398,6 +13383,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T01:03:36Z",
+      "urls": [
+        {
+          "sign": "2cfbef07595214733f3a1aeff2416da91b704fa56b421a067f24053c14d887df",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Siirtokuntalaiset hyökkäsivät Washington Postin toimittajaa ja palestiinalaisia vastaan Länsirannalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
