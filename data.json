@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T16:29:58Z",
+  "updated": "2026-10-17T16:44:13Z",
   "entries": [
     {
       "updated": "2026-10-17T16:29:58Z",
@@ -886,21 +886,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T13:55:17Z",
-      "urls": [
-        {
-          "sign": "dc3813ffa8d3b7a8e05dd8c2e8444936a60a65df5b5b50060ca616d4080288fc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liikenne- ja viestintäministeriö ehdottaa valtion lentotukien lopettamista 2028 jälkeen – maakunnat ja kunnat vastustavat",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T14:03:54Z",
       "urls": [
         {
@@ -1389,21 +1374,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T19:56:45Z",
-      "urls": [
-        {
-          "sign": "39b369e3cd27457226354771d6bea0f1052326d723218cd81c3e212c563fcd90",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elon Musk väittää Trumpin päätöksen rajoittaneen Starlinkia Ukrainassa – yhteys osittain toimii",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-14T22:47:00+03:00",
       "urls": [
         {
@@ -1417,23 +1387,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T20:14:54Z",
-      "urls": [
-        {
-          "sign": "1c32da0d0524dd26011b0112c744bb5161b27bd1b486b36ba7e1de2ee700c8ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Chileläinen kehonrakentaja Marianne von Gierke, 40, kuoli – kilpaili syyskuussa Olympia-lavalla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T21:10:18Z",
@@ -5974,23 +5927,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T07:19:18Z",
-      "urls": [
-        {
-          "sign": "f18588391b7f18caf8036ab44820d6dfbe64be3a2b81572d5dc16941aa79a073",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ultraprosessoidut lihatuotteet lisäävät suolistosyöpäriskiä, täysjyvätuotteet ja maitotuotteet vähentävät sitä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T07:25:43Z",
@@ -12008,7 +11944,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T13:10:20Z",
+      "updated": "2026-10-17T16:43:45Z",
       "urls": [
         {
           "sign": "d69e91ec9122f53c6c52c7b292b1de558fbd9d5ee46cb30ba36811d8033e4e12",
@@ -12017,9 +11953,11 @@
           ]
         }
       ],
-      "title": "Ranskassa mielenosoittajat sytyttivät Lyonin matkailutoimiston tuleen ja tunkeutuivat Marseillen kaupungintaloon",
+      "title": "Puoli miljoonaa mielenosoittajaa protestoi Ranskan elinkustannusten nousua, yksi menetti kätensä räjähteestä",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -12677,7 +12615,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-17T16:25:47Z",
+      "updated": "2026-10-17T16:41:54Z",
       "urls": [
         {
           "sign": "eee65e4f92b6282caa7cab466ed4ecf51e351820c0d8c91ed2645dc08f8183f0",
@@ -13399,6 +13337,66 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T16:44:13Z",
+      "urls": [
+        {
+          "sign": "38890a5bee8da9ddc434f95af9ad64f9b196cebc3bc2f2138cc4ab6d0abad438",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lauantaina Jokerien kannattajat pilkkasivat Ilvestä lakana-viestillä, jossa ACAB-viittaus herätti huomiota",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T16:42:28Z",
+      "urls": [
+        {
+          "sign": "76fd29f345f7f3b25015786d24cb684cd48a2a78527ce424fde1628673b702fe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SaiPa voitti HIFK:n 7-1, Ilves voitti Jokerit voittomaalikisassa ja KalPa katkaisi neljän ottelun tappioputkensa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T16:42:00Z",
+      "urls": [
+        {
+          "sign": "d260a0c71a3a10cc868426eb87edcd15694fad2c0cb66c796a8a51f1e8328ddf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolme miestä tuomittiin ehdottomaan vankeuteen naisen kiduttamisesta asunnossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T16:38:30Z",
+      "urls": [
+        {
+          "sign": "217819b420262e8f5cf7a8ec0976663a02bc797655508a386b4c12e611137bee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Romanian F-16-hävittäjät ampuivat alas kaksi droonia Mustanmeren yllä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
