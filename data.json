@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T21:10:12Z",
+  "updated": "2026-10-17T21:59:26Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -869,21 +869,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T15:26:12Z",
-      "urls": [
-        {
-          "sign": "d57b7d387b48ba105576ae758e17db87718f7011388d42a06204ce7fb98d4476",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syyttäjä syyttää Bowecon ja sen toimitusjohtajaa yrityssalaisuuksien rikkomisestä Saarijärvellä – korvausvaade lähes 690 000 euroa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T04:12:00+03:00",
@@ -11313,7 +11298,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-17T19:40:10Z",
+      "updated": "2026-10-17T21:47:45Z",
       "urls": [
         {
           "sign": "49987f32573a1933e99adf55d36c425dc5aa42a3b5bb13d9c565aabe1ae84f70",
@@ -11322,8 +11307,8 @@
           ]
         }
       ],
-      "title": "Ranskan mielenosoitukset yltyivät väkivaltaisiksi – yli 270 pidätystä ja liikkeitä ryöstetty",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Poliisi pidätti yli 270 ihmistä Ranskan väkivaltaisissa mielenosoituksissa, liikkeitä ryöstettiin, rakennuksia vahingoitettiin",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13398,6 +13383,21 @@
       ],
       "title": "Lissabonissa kymmenettuhannet osoittivat mieltään asuinkustannusten nousua vastaan",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T21:59:26Z",
+      "urls": [
+        {
+          "sign": "c1503f1db55cf0fd804be7c753a7fe84284b91fea17ebb6cdff8bce78278d631",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi 16-vuotiasta pakeni poliisia traktorimönkijällä Mynämäellä – poliisi osui tarkoituksella mönkijään hiekkakuopalla",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
