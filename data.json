@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T09:58:40Z",
+  "updated": "2026-10-17T13:13:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -888,21 +888,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T14:54:00+03:00",
-      "urls": [
-        {
-          "sign": "7beb6f90b93815c34bc3e0d500d5a614939f4e58ee20d56c0e7bce8d6cacbeaa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaa | Poliisi epäilee Martinlaakson murhasta epäillyn poistuneen Suomesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-14T21:49:00+03:00",
       "urls": [
         {
@@ -1327,21 +1312,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T14:40:07Z",
-      "urls": [
-        {
-          "sign": "6991ed06e5a00160488774c5aee2b120d50b26e2e1848d878e1a349ce6d2b362",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjän hiihtoliitto kiistää väitteen Aleksandr Bolshunovin hakemuksen hylkäämisestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T17:47:00+03:00",
@@ -5737,21 +5707,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T19:59:18Z",
-      "urls": [
-        {
-          "sign": "7bb774de9a473c3d1af83599b40857a10505bc648b7f3baf38476e4abb607759",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valmentaja David Olehla välttää katsetta toimittaja Sabina Jaskovaan vaimonsa kiellon vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T20:00:26Z",
@@ -13373,6 +13328,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T10:11:52Z",
+      "urls": [
+        {
+          "sign": "4e8705f55e1171387b8989e5371415c66f8a52041eb7a0d094ec39d30bc769f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Edustaja kertoo Selma Blairin lentoemäntää purkanneen välikohtauksen johtuneen lääketieteellisestä hätätilanteesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T10:03:36Z",
+      "urls": [
+        {
+          "sign": "2c0b3a993bd2de7cd33fd3ef834c3680c4aaea72539e3c5736eb42527887bedb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Robert Ivanov haluaa palata Huuhkajiin ja sanoo seurannan tuntuvan pahalta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T13:13:00+03:00",
+      "urls": [
+        {
+          "sign": "9bbe3b7f66d5a9d7144bb311b51a35b6aa8c99cf8f5f4e8ae04a1444359e0283",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinki tiukentaa datakeskuslinjaustaan poliitikkojen vaatimuksesta – luontoalueet säästetään ja hukkalämpöä kerätään",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
