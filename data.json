@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T19:08:20Z",
+  "updated": "2026-10-17T19:25:33Z",
   "entries": [
     {
       "updated": "2026-10-17T16:29:58Z",
@@ -1536,24 +1536,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T03:40:00Z",
-      "urls": [
-        {
-          "sign": "bb757f824edcf45bcb1ec16dd98d31c0244e075b429d6e7dc83246eabc81ec51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii kansanedustajien kotien epäiltyjä tunkeutumisia mikroskoopilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-15T03:47:45Z",
       "urls": [
         {
@@ -1567,21 +1549,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T03:54:57Z",
-      "urls": [
-        {
-          "sign": "8155daae043e42a49d805a325a3641945f69e62d9249ecb41b0d888ec6567a16",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dallasin suomalaiset voittivat Coloradon 3–2 – Arttu Hyry alivoimamaali, Roope Hintz ratkaisi voittolaukauksissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T14:56:22Z",
@@ -5229,23 +5196,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T08:43:36Z",
-      "urls": [
-        {
-          "sign": "7b22d91da30db89473fee5491b99b4771d46794bf8e27a48ef9832c54fa3f523",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee nuorten maajoukkuepelaajan raiskanneen toisen pelaajan Ruotsin-laivalla marraskuussa 2024",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T05:10:27Z",
@@ -13400,6 +13350,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T19:19:34Z",
+      "urls": [
+        {
+          "sign": "6becf766760eaf114e3470412f650e36a093504fc88ed3ae567728657503f788",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "FC Inter hävisi AC Oululle 1–2, mestaruustaistelu tiivistyi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T19:25:33Z",
+      "urls": [
+        {
+          "sign": "50035b28a0b2735eddffdf790fb85cf4eff1e8a813b714f001ada1d32223a5bd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Loton jättipotti jäi jakamatta – ensi viikolla jaossa 9 miljoonaa euroa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T19:25:16Z",
+      "urls": [
+        {
+          "sign": "4d97987717cb88488f25ee37e871414d22617795c79cb79c86f2913ad4072181",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nuorten maailmanmestari Maria Mellingin maastohiihtoura päättyy sydämen rytmihäiriön vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
