@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T11:00:00+03:00",
+  "updated": "2026-10-17T08:14:30Z",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -1374,23 +1374,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T13:50:00Z",
-      "urls": [
-        {
-          "sign": "a1fa27564ee134c3870412bb3602c994fe9bdc7dbc2562c36a86000745598606",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hätäkeskuspäivystäjä Pekka Heikkinen tunnisti soittajan pizzatilauksen väkivallan uhan peitoksi ja käytti täytteitä salakielenä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T18:11:00+03:00",
@@ -5883,23 +5866,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-15T18:14:37Z",
-      "urls": [
-        {
-          "sign": "ce022976baa6f9623c7f2542d7f8c6bb90a4a96e57f498f065a77c7050fd9379",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Johan Haapalahti tallensi videolle kuorma-auton kyljellään pyörätiellä Iissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-15T18:14:25Z",
       "urls": [
         {
@@ -5930,21 +5896,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T18:22:15Z",
-      "urls": [
-        {
-          "sign": "fb29ec21e967b69f7b06222b9f66a9b6409d55dacc95db131de216fe3cb2cd24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jani Mäkelä: Polttoainepaketti puuttuu nolla – kokoomus estää hinnan laskun",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-15T18:40:15Z",
@@ -13372,6 +13323,51 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T08:03:07Z",
+      "urls": [
+        {
+          "sign": "dfc17a7b2ee64787910aa2bbdef9b6ab3c45bce4a12a8188d611a8139b082e0f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pysäytti Frida Karlssonin rullahiihtoa Teneriffalla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T08:14:30Z",
+      "urls": [
+        {
+          "sign": "1c20dcf6285c34856249b81efd3bd7d55c325842d20b00c7f90412bc174693f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Samuli Samuelsson lopettaa yleisurheilu-uransa terveys- ja rahoitusongelmien vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T08:08:08Z",
+      "urls": [
+        {
+          "sign": "80d7ba1c75a9e6cf69b2e326ed5bf997049be6e5588e0d83af0c83e75008c4c3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vasemmistoliiton puheenjohtaja Minja Koskela vaatii valtiontalouden kehyksen uudistamista ja sopeutuksen maltillistamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
