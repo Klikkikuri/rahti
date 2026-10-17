@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T02:12:02Z",
+  "updated": "2026-10-17T05:26:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T00:08:14Z",
@@ -1423,23 +1423,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T11:38:25Z",
-      "urls": [
-        {
-          "sign": "41757575c4dd3fca55af44595bb01881354d02590354cce37225fef07eaf926f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sosiaali- ja terveysministeriö myönsi 250 000 euroa korkeakouluopiskelijoiden hedelmällisyystiedon lisäämiseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T11:44:03Z",
@@ -13351,7 +13334,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T05:11:00+03:00",
+      "updated": "2026-10-17T05:26:00+03:00",
       "urls": [
         {
           "sign": "aa8b410cc3c0612cdf6081d4b393e111136e780a4b6d80190275b0b840e0afe7",
@@ -13360,7 +13343,7 @@
           ]
         }
       ],
-      "title": "Trump kumosi useiden Venäjä-pakotteiden soveltamisen presidentillisellä asetuksella",
+      "title": "Trump kumosi Lindsey Graham -paketin soveltamisen presidentillisellä asetuksella",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13396,6 +13379,24 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T02:22:00Z",
+      "urls": [
+        {
+          "sign": "1ee6640caca8156e724072c056e3111d6e2659818a303d5353ed3ad4e06bd462",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Thwaitesin jäätikkö sulaa aiempaa arvioitua nopeammin – merenpinnan nousu voi olla jopa kolme senttiä vuoteen 2100 mennessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
