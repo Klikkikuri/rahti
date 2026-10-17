@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T05:29:57Z",
+  "updated": "2026-10-17T05:45:05Z",
   "entries": [
     {
       "updated": "2026-10-17T05:14:54Z",
@@ -933,36 +933,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T09:00:23Z",
-      "urls": [
-        {
-          "sign": "54143163f4570a273f0e17814a1fc5cb8fdc2c2abdefa15ff013adff54b3e80f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies merkittiin virheellisesti kuolleeksi selkäkipukäynnin jälkeen – virhe korjattiin kahdessa viikossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T09:02:58Z",
-      "urls": [
-        {
-          "sign": "6bd259c8786a2dc7625cc13dc625d3bdd7c1cf412dd66316062bc7cd7e691a6a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin poliisi tutkii kansanedustajien asuntoihin kohdistuneita epäiltyjä tunkeutumisia törkeinä varkauden yrityksinä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T09:46:30Z",
       "urls": [
         {
@@ -1408,23 +1378,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T12:40:15Z",
-      "urls": [
-        {
-          "sign": "4fe291e36aa3f855f82de2ce000e5b6494e3c964e9647b02e48285bc79261582",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turvallisuusasiantuntija Antti Vanhatalo: Kansanedustajien kotiin tunkeutuminen edellyttäisi laajaa valmistelua ja resursseja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T12:35:17Z",
@@ -13074,7 +13027,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T03:57:53Z",
+      "updated": "2026-10-17T05:29:17Z",
       "urls": [
         {
           "sign": "5c3c54ebbcf2fe36e9a1623fb0524f0e760cca64321b014a67f6b448b77b2c31",
@@ -13083,9 +13036,11 @@
           ]
         }
       ],
-      "title": "Trump jäädytti Yhdysvaltain uudet ja kongressin hyväksymät Venäjä-pakotteet",
+      "title": "Trump jäädytti kongressin hyväksymät uudet Venäjä-pakotteet",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13382,6 +13337,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T05:45:05Z",
+      "urls": [
+        {
+          "sign": "1fc37114b8f5a49c3ad82e0f2f02dd3da85b2e418750a88aa1348b811c93e6e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti torakkapuolueen perustajan Abhijeet Dipken jälleen Delhissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T05:33:00Z",
+      "urls": [
+        {
+          "sign": "2e9a14158c9f7dfd783aaaceede7079752ed004e81cf20af5c6c56c1329811c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jaakko Luomanen neuvoo: hyvä pizzataikinan sitko syntyy vähällä vaivalla ja levolla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T05:38:55Z",
+      "urls": [
+        {
+          "sign": "030bce904c5d2c7d6b2808c748b9978e93551f36b1a0f0ec93de956bd8f3769d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Didier Eribonin kirja Paluu Reimsiin käsittelee luokkahäpeän yhteiskunnallisia juuria",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
