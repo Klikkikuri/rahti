@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T16:44:13Z",
+  "updated": "2026-10-17T16:55:01Z",
   "entries": [
     {
       "updated": "2026-10-17T16:29:58Z",
@@ -1064,23 +1064,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T19:03:00+03:00",
-      "urls": [
-        {
-          "sign": "dcc495d2e8bc2fcd71685d51b9919f168ebb1b3c21bfbc606d8b2385ad1905ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-14T19:15:00+03:00",
@@ -5831,23 +5814,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T07:20:33Z",
-      "urls": [
-        {
-          "sign": "fae888e12c8ccd43e822a190a54941cfef9845e567393530e0520431940f51ee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos vapautti lapsen Postin pakettiautomaatista Helsingin Maunulassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T10:15:00+03:00",
@@ -12615,7 +12581,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-17T16:41:54Z",
+      "updated": "2026-10-17T16:54:35Z",
       "urls": [
         {
           "sign": "eee65e4f92b6282caa7cab466ed4ecf51e351820c0d8c91ed2645dc08f8183f0",
@@ -13397,6 +13363,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T16:55:01Z",
+      "urls": [
+        {
+          "sign": "30a328d6d869ddc88eb5f196aeff5d07310dc7d3f330d834200f905ddf783a10",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tarja Omenainen lopetti näyttelemisen julkisuuden rasittavuuden vuoksi ja palaa näyttämölle joulukuussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T19:48:00+03:00",
+      "urls": [
+        {
+          "sign": "d46d70386c053722a70960fdc0fa1ffc2deb34256531a29ac05d3fb5d725c5e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen miljardööri Vitali Orlov haastoi norjalaisen The Barents Observerin oikeuteen pakotteista uutisointin vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
