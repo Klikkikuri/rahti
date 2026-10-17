@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T10:43:24Z",
+  "updated": "2026-10-17T14:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T06:35:36Z",
@@ -870,23 +870,6 @@
       "title": "Muhoksen johtava rakennustarkastaja Jultuz Änwär jäi virkavapaalle – kunta ei vahvista syytä, kiistää yhteyden Googlen datakeskukseen",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T15:15:00+03:00",
-      "urls": [
-        {
-          "sign": "019eac73adab2ade9ecf59401b5f0b02fccad875706b001a6d39a145674e346d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5720,21 +5703,6 @@
       ],
       "title": "Lapsia ja aikuinen kuoli alakoulun ammuskelussa Bendissä torstaina",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-15T23:01:05Z",
-      "urls": [
-        {
-          "sign": "f5003d22d6f2554ce209a6050f5c88b313f25fa8839975387ee640f470374f01",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa jokaiselle eläinradan merkille",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13381,6 +13349,40 @@
       ],
       "title": "Naapurit kuulivat yöllistä huutoa epäillyllä surma-asunnolla Tampereella – poliisi epäilee henkirikosta",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T14:00:00+03:00",
+      "urls": [
+        {
+          "sign": "efca98cc03f0dd91f0a4b194a52e0023bbffaca5a2c6e007e6a68e30010e4446",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T10:45:56Z",
+      "urls": [
+        {
+          "sign": "845a5ab071ea84bf7597ee7b2af2a3651a7d5fd95387ecf87e3123e84c079495",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi ja mielenosoittajat ottivat yhteen Ranskan laajoissa mielenosoituksissa lauantaina",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
