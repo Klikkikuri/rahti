@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T15:58:46Z",
+  "updated": "2026-10-17T16:15:06Z",
   "entries": [
     {
       "updated": "2026-10-17T15:41:59Z",
@@ -1081,23 +1081,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-14T19:00:00+03:00",
-      "urls": [
-        {
-          "sign": "1268cec7de0755d8644d57b5f2b35e8297e1cbcedcb17edd1e369ee0bbeb48cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-14T19:03:00+03:00",
       "urls": [
         {
@@ -1421,23 +1404,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T19:12:00Z",
-      "urls": [
-        {
-          "sign": "c0ed853798f777f2873adbda6fa8ba75c366df768afc4d65dda31e4d2f9ff453",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liverpool voitti LASKin 6–3 – Bradley Barcola teki hattutempun Mestarien liigassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-14T19:56:45Z",
@@ -5870,36 +5836,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-16T06:54:49Z",
-      "urls": [
-        {
-          "sign": "dfe4d8b8374a44ceb0f4db99727edc650ff5d5f7683c9b9b12e3fe95ba1da2f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "DNA aloittaa kahden euron maksun sähköpostilaskuista yritysasiakkaille 1.11.2026",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-16T06:48:39Z",
-      "urls": [
-        {
-          "sign": "26cfdf5a9eb2ab32e6b32a0063043d5684fcfd1ed44c3970e0da3ee1fa1900de",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SJK siirtää osakekannansa ja tytäryhtiönsä uudelle säätiölle – Raimo Sarajärvi: järjestely velaton ja yleishyödyllinen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T07:08:08Z",
       "urls": [
         {
@@ -5977,27 +5913,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T07:01:23Z",
-      "urls": [
-        {
-          "sign": "78112eea65a995e5eb082ff8ab995ff47a7d01ec1d6c56dc9465ec5102b11b30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "eeb8d5f49f2440b650d9d2f58be59563d38435277bb24decec127802926c7932",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T11:14:00+03:00",
@@ -12812,7 +12727,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-17T15:38:28Z",
+      "updated": "2026-10-17T16:15:06Z",
       "urls": [
         {
           "sign": "eee65e4f92b6282caa7cab466ed4ecf51e351820c0d8c91ed2645dc08f8183f0",
@@ -13224,7 +13139,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-17T15:58:46Z",
+      "updated": "2026-10-17T16:03:12Z",
       "urls": [
         {
           "sign": "25ade444857d72c6123e33059e87cac539e39d0d9e62c55bb69269f79833908d",
@@ -13233,7 +13148,7 @@
           ]
         }
       ],
-      "title": "Yle: Stora Enso myöntää saaneensa puuta Googlen Muhoksen datakeskustyömaalta",
+      "title": "Stora Enso myöntää saaneensa puuta Googlen Muhoksen hakkuualueilta",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13406,6 +13321,89 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-17T16:06:57Z",
+      "urls": [
+        {
+          "sign": "77b0b9d7e89ca42d0244575c97d77f0c29befe3c5f472027b2235f209d87f70b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T19:01:00+03:00",
+      "urls": [
+        {
+          "sign": "82981aaa06490de23b0297a5691c1a866a0a46ce6d808946bab147e3c9a5af75",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-17T16:07:22Z",
+      "urls": [
+        {
+          "sign": "ee5ea95f5492062875d493f42c1801f9d82689043a2208baa1d47b4a05ac3c42",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Stora Enso myöntää saaneensa puuta Googlen Muhoksen hakkuilta – aiemmin kiisti hankinnan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-17T16:14:19Z",
+      "urls": [
+        {
+          "sign": "82b6aff9c9d2fff11aeead731fc660c2e9f97d5c3b40d532f4bae3f0aa4f3c5c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cityllä paras startti 129 vuoteen – voittoputki uhkaa päättyä taloudellisen rangaistuksen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T16:04:59Z",
+      "urls": [
+        {
+          "sign": "2a612cb55ce9f615942563ed659f13b592261a760518d15931ee1ab0e890d0f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Wille Rydman kritisoi äitiyspakkausta – MLL:n mukaan tarkastelu ei sisältänyt lapsen oikeuksien näkökulmaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
