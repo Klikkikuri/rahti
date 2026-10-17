@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T23:25:00+03:00",
+  "updated": "2026-10-17T20:44:27Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -5885,21 +5885,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T09:22:30Z",
-      "urls": [
-        {
-          "sign": "643474c4fab09ae5f1c62b79045e1df5fe7682bb27280f106c51dcb30aba4dfc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP ja keskusta saavat myönteisimmät arviot Verianin puoluebarometrissa, kokoomuksen suosio laskee",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T09:16:46Z",
       "urls": [
         {
@@ -9215,7 +9200,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-17T02:01:00+03:00",
+      "updated": "2026-10-17T23:31:00+03:00",
       "urls": [
         {
           "sign": "6d9a43c818a05698f328888e80b75b3d9f3856da1dbaefab4bf450f3482aa940",
@@ -9224,7 +9209,7 @@
           ]
         }
       ],
-      "title": "Oregonin kouluammuskelussa opettaja taklasi ampujan ja vanhempi ampui hänet – useita ihmisiä kuoli",
+      "title": "Oregonin Bendin alakoulun ammuskelussa opettaja taklasi ampujan ja paikalle saapunut vanhempi ampui hänet – useita ihmisiä kuoli",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13400,6 +13385,24 @@
       "title": "ISW:n mukaan Putin paisutteli Venäjän rintamamenestystä yli 60‑kertaisesti",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-17T20:44:27Z",
+      "urls": [
+        {
+          "sign": "29622c5997a50d43df614deec73251501727b0eaa3df8f6a174880c190a1d7ec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
       "outlet": "Iltalehti"
     }
   ]
