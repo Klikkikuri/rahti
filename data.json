@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T03:38:39Z",
+  "updated": "2026-10-18T03:58:35Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -856,36 +856,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T16:43:42Z",
-      "urls": [
-        {
-          "sign": "4dd53f54060c95b718fefc0466a888a041a30553a4c63d7daa4a11837a717f0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uudistettu näyttely Tampereen pelimuseossa esittelee nostalgisia matopeliä ja muita klassikkopelejä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-14T17:08:06Z",
-      "urls": [
-        {
-          "sign": "5bf7c77afa44d2826a51cb2b8ccbd7b0f4d2289d3ab714cdabab9758ef8203c7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaasan hallinto-oikeus katsoi hyvinvointialueen hoivan kustannustiedot julkisiksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T17:14:20Z",
       "urls": [
         {
@@ -1489,38 +1459,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T07:08:39Z",
-      "urls": [
-        {
-          "sign": "9a93d13ad81d35ab5fc63fa975018c3bac4362853f1c60bc85ea3da4cfca4520",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Länsi-Australian nainen syytetty työtoverinsa curryn myrkyttämisestä etanamyrkyllä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T06:56:49Z",
-      "urls": [
-        {
-          "sign": "2bc0c2f68ede6b694a7f20370ce8cc14d734867793bb3c5937bb93345efd00f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi esittää 60-vuotiasta miestä vangittavaksi Pomarkussa lapsiin kohdistuneista seksuaalirikoksista epäiltynä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-15T19:11:00+03:00",
       "urls": [
         {
@@ -1549,21 +1487,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T07:19:45Z",
-      "urls": [
-        {
-          "sign": "5d1fcbe81c4e2405daadeccdaf0e28f139d7eb814a671f0cb818dc0fb9db4948",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prinsessa Anne esiteltiin vahingossa prinssi Charlesinä – hän katsoi puhujaa ja pyöräytti silmiään",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T10:39:00+03:00",
@@ -5632,21 +5555,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T10:00:08Z",
-      "urls": [
-        {
-          "sign": "3d6e911082efc5def943b4407a0f5844e430abe34762d8c03f07a0e8ff3ac0cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Trump perääntyi Nidal Hasnin teloituksen livestream-suunnitelmasta Christa Piken tapauksen jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T12:49:00+03:00",
@@ -13317,7 +13225,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T06:33:00+03:00",
+      "updated": "2026-10-18T06:56:00+03:00",
       "urls": [
         {
           "sign": "3491b8add63c6dae30160d377b9ca9232c71fcc7308ddff9057114f22e550669",
@@ -13326,7 +13234,7 @@
           ]
         }
       ],
-      "title": "Kanada: Wainwrightin sotilastukikohdan tulipalo aiheutti vakavan välikohtauksen, sammutustyöt jatkuvat",
+      "title": "Räjähdys ja tulipalo Wainwrightin sotilastukikohdassa Kanadassa – kuolonuhreja ja loukkaantumisia, sammutustyöt jatkuvat",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13398,6 +13306,102 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T03:50:51Z",
+      "urls": [
+        {
+          "sign": "12000982bfa1ad3d1b2e1c8fc60edb08794c217a0558178aec5a3fd9c4840581",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina hyökkäsi lennokein Pietarin satamaan, öljytankkereihin ja datakeskukseen sunnuntaiaamuna – Venäjä ampui alas 95 lennokkia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T03:50:21Z",
+      "urls": [
+        {
+          "sign": "dcf545e73fef0daebf6eb4acfaf3e90e613c940421eac78c53696bc69f0724c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan droonihyökkäys aiheutti räjähdyksiä ja tulipaloja Pietarissa sunnuntain vastaisena yönä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T03:58:35Z",
+      "urls": [
+        {
+          "sign": "7e943b9824e7f8d6406ded75f15c82148bc4bb88bf129a0b63bb7c1728c02d73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vakava ulosajo Nelostiellä Orimattilassa – neljä henkilöä autossa, tie Helsingin suuntaan suljettu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T03:45:35Z",
+      "urls": [
+        {
+          "sign": "52afe7cebed85a51276cb72c4431a5735db8ff984b2709b73a3550ee005668fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kari Enqvist: Ilman virherajoja talousluvut ja kannatusmittaukset ovat pelkkää tarinointia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T03:48:00Z",
+      "urls": [
+        {
+          "sign": "b36409d772b768a4633c9bf60bbde2caacb875f6f876a70a073ec5ef39d35923",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liiga-seurat Jokerit, IFK, JYP, KalPa ja KooKoo etsivät vahvistuksia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T03:53:00Z",
+      "urls": [
+        {
+          "sign": "5d17c48ad25f104b060ed0863a534346d2beef883e3570c7017f4e7fad6ba9f1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lääkäri Hannu Vierola vaatii D-vitamiinisuosituksen nostamista Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
