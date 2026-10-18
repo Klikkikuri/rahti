@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T12:58:23Z",
+  "updated": "2026-10-18T16:09:00+03:00",
   "entries": [
     {
       "updated": "2026-10-18T12:58:23Z",
@@ -919,23 +919,6 @@
       "title": "HS:n tiedot: Vantaa irtisanoo 122 työntekijää ja suunnittelee opettajien sekä perhepäivähoidon vähentämistä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T10:51:00+03:00",
-      "urls": [
-        {
-          "sign": "224c6400a4b87301e07434623c727f95c4b8b840ccde4e7eaa939535397d3143",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5819,21 +5802,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T15:52:40Z",
-      "urls": [
-        {
-          "sign": "9f6bd74e408c6d23424649925d988df76adfb705747243c485b5e56f7921f157",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Republikaanit luopuvat toivosta edustajainhuoneen voitosta – tilanne hiuskarvan varassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T15:55:45Z",
@@ -13423,6 +13391,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T16:09:00+03:00",
+      "urls": [
+        {
+          "sign": "d8d4421fa0c3240d397c44823a44df890eb02e0115e710f8e1ec9aa5b82b1d35",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pidätti yli 1 800 ihmistä Ranskan lauantaisissa mielenosoituksissa, Pariisissa yli 800 ja yksi mielenosoittaja kuoli",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T13:05:03Z",
+      "urls": [
+        {
+          "sign": "74ba5db6d40c67b27cca454e9be39931692036dd8616b804fbb294e2047f9364",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Käärijän ja Erika Vikmanin yhteiskuva palavasta autosta herätti somessa paheksuntaa Ranskan mielenosoitusten vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
