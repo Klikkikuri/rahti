@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T13:27:52Z",
+  "updated": "2026-10-18T13:39:15Z",
   "entries": [
     {
       "updated": "2026-10-18T12:58:23Z",
@@ -1902,21 +1902,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T13:48:33Z",
-      "urls": [
-        {
-          "sign": "ec753eaf438818dd40a08b2118860dcaddd9fd6cd5f9af4eff205896d1825cc2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaiset antavat hallituksen polttoaineratkaisulle arvosanan 5 – Jani Mäkelä kritisoi ratkaisujen uskottavuutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T13:57:08Z",
@@ -5941,21 +5926,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T16:39:55Z",
-      "urls": [
-        {
-          "sign": "0692ccf50f7a1fe576bb0550290be4a8356232b238930849ce33f677a794daaf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mediateko Oy heijasti luvattomia mainoskuvia Mannerheimin patsaaseen Helsingissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T16:37:13Z",
@@ -13422,6 +13392,38 @@
       ],
       "title": "Max Verstappen nousi sijalta 24:nneksi yhdeksänneksi GT World Challenge -kilpailussa Portimaossa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T13:30:57Z",
+      "urls": [
+        {
+          "sign": "c713f5fc17eb73d93515f699132f625a1dfedfb891d35b686e9430f4105edc32",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Oonamilla Itämäsä ei tajunnut 13-vuotiaana seksuaaliväkivallan olevan raiskaus – vaatii lakimuutosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T13:39:15Z",
+      "urls": [
+        {
+          "sign": "1ada0783f59e8fd2a0218dac21c23009f53f47f413f9e0d44dfca10332e09e7f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan ulkoministeriön tiedottaja pahoittelee Liettuaan pudonnutta droonia",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
