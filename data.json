@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T02:37:42Z",
+  "updated": "2026-10-18T06:10:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -1149,23 +1149,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "acd084b02ce19bba80c303b0f78194177fe9b354ab7151ce42c0be4091bf320c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Professori Jukka Konttinen: Vetytalouden haaste on kannattavuus, ei teknologia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-15T02:37:00+03:00",
       "urls": [
         {
@@ -1457,21 +1440,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T06:14:57Z",
-      "urls": [
-        {
-          "sign": "d83dd7588536a096f27b09fe040c2cce2f009691ce97dbe2e4c180e83e838938",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pyhimys myöntää viestitelleensä 12‑vuotiaan faninsa kanssa yli kymmenen vuotta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T06:34:27Z",
@@ -5587,21 +5555,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T09:53:14Z",
-      "urls": [
-        {
-          "sign": "6d6fb21f7b24daf9f5e6592a27be52fd9165d71f04db152526817b23f0964333",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kryptomiljonääri Richard James Schueler otettiin kiinni Istanbulissa – epäillään satojen miljoonien eurojen veropetoksesta ja pahoinpitelystä Suomessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T12:17:00+03:00",
       "urls": [
         {
@@ -5694,21 +5647,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T09:49:46Z",
-      "urls": [
-        {
-          "sign": "e4fb51a399f5639a340394cac7d91a04e820129ed8111319f4eff6baecccbb82",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "FIFAn puheenjohtaja Gianni Infantino saa vaatimuksen luopua Trumpille myönnetystä rauhanpalkinnosta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T09:59:26Z",
@@ -13388,6 +13326,74 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T03:02:20Z",
+      "urls": [
+        {
+          "sign": "6480237a5fb16c635e8b8f7d89721f93f3edfba5c022652b309addd7cfee46e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Traficom varoittaa verottajan nimissä leviävästä huijausviestistä ja haitallisesta liitteestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T03:04:20Z",
+      "urls": [
+        {
+          "sign": "42ca450a315a434c3fc767b196de53d9385951c0e14f63ab6d3625eda8167bc8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T03:05:00Z",
+      "urls": [
+        {
+          "sign": "8194dd82a7c51eb6492c2f55bbf7b1aa4db681bbd58569034641aac545c3a987",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos punnitsee sadeveden ja mittaa pilvet laserilla Kumpulan havaintoasemalla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T06:10:00+03:00",
+      "urls": [
+        {
+          "sign": "3491b8add63c6dae30160d377b9ca9232c71fcc7308ddff9057114f22e550669",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanada: Wainwrightin sotilastukikohdan tulipalo levisi alueen ulkopuolelle, sammutustyöt jatkuvat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
