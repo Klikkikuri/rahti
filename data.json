@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T09:14:22Z",
+  "updated": "2026-10-18T09:28:42Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -869,23 +869,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-15T07:00:00+03:00",
-      "urls": [
-        {
-          "sign": "d9e0c647fac3f3f586e5919229014a6050c073801b50746b687abc9d773bb6d3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-15T10:18:00+03:00",
@@ -1863,23 +1846,6 @@
       "title": "Ruokavirasto laajensi afrikkalaisen sikaruton ydinaluetta Lappeenrannassa yhdeksän kilometriä koilliseen – uutena rajana Rummuntie ja Tervajoki",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T11:20:00Z",
-      "urls": [
-        {
-          "sign": "3dd7d8e48ad56b077c27b4034cd730f42a048dc38b633750dd4468d41bdf8d24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nightwishin vokalisti Floor Jansen jättää yhtyeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -4808,21 +4774,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T13:32:51Z",
-      "urls": [
-        {
-          "sign": "12cfe0d76d19be526b4c81c0369c9575132121838255d54c51878b184abe3511",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuukka Taponen jatkaa Ferrarin junioriakatemiassa ja ajaa F2-sarjassa ART-tallissa ensi kaudella",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T16:33:00+03:00",
@@ -12262,7 +12213,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-18T04:39:44Z",
+      "updated": "2026-10-18T09:26:45Z",
       "urls": [
         {
           "sign": "7e943b9824e7f8d6406ded75f15c82148bc4bb88bf129a0b63bb7c1728c02d73",
@@ -12271,9 +12222,10 @@
           ]
         }
       ],
-      "title": "Nelostiellä Orimattilassa varhain sunnuntaina tapahtunut ulosajo johti yhteen kuolemaan, kolmeen vakavaan loukkaantumiseen",
+      "title": "Henkilö kuoli ja useita loukkaantui vakavasti ulosajossa Nelostiellä Orimattilassa klo 4.39 sunnuntaina",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
+        "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
@@ -12662,7 +12614,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T09:08:25Z",
+      "updated": "2026-10-18T09:28:42Z",
       "urls": [
         {
           "sign": "96373155e44f41072f92d27c8e3b24d0ffe4e400e073fe3f96c5a936887f632d",
@@ -12671,7 +12623,7 @@
           ]
         }
       ],
-      "title": "Puola vahvistaa sotilasilmailua ilmatilassaan Venäjän Länsi-Ukrainaan kohdistamien lennokki-iskujen vuoksi",
+      "title": "Puola selvittää mahdollista ilmatilan loukkausta Venäjän Länsi-Ukrainaan kohdistamien iskujen jälkeen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13395,6 +13347,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T09:15:00Z",
+      "urls": [
+        {
+          "sign": "018b4b9b1acae7bf6c68d3f01f4dacc338ac162673a143fd196af0cc31389027",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hammaslääkäri varoittaa hampaiden valkaisun mahdollisista haitoista ja haastaa Hollywood-hymyn",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T09:24:11Z",
+      "urls": [
+        {
+          "sign": "a7aefe0643e1fd9141c83f156306f779460f063351ae7efd0024ce426829c8d4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ABC-aseman tolpassa näkyi väärä polttoaineen hinta keskiviikkona – Marko valitti, SOK korvaa virheen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T12:22:00+03:00",
+      "urls": [
+        {
+          "sign": "f9a8f372072e775a9b0e85bd0834af282aafe55865ce2e4ae03bcf2ec64d5873",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Emilia Takanen lahjoitti vasemmistoliitolle 360 000 euroa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
