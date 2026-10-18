@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T03:12:55Z",
+  "updated": "2026-10-18T03:38:39Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -856,21 +856,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T16:38:56Z",
-      "urls": [
-        {
-          "sign": "54982590d3336b2825ff7d4f819518c022308e96a6477ffa7fe57271887703a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat heikentää Venäjän pakotteita ja uhkaa lopettaa aseavun Ukrainalle ennen välivaaleja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T16:43:42Z",
       "urls": [
         {
@@ -1130,21 +1115,6 @@
       ],
       "title": "Heikki Karjalainen, 90‑vuotias rovasti ja sielunhoitaja, kuoli Orimattilassa 26. elokuuta 2026",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "71b3f1ea74e609a712b14372c9e2d720279ca7c95e7ad6d20aad95f5582f9b9d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Herttoniemen ruokaosuuskunta osoittaa kumppanuusmaatalouden vähentävän ruokahävikkiä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -5647,21 +5617,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T09:54:09Z",
-      "urls": [
-        {
-          "sign": "40c6746b84c23bbcaa53f4465d373682056d689ef44b626dd7e1e372620e7bb6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Harry ja Meghanin hyväntekeväisyysvierailu Nottinghamissa ärsytti kuninkaallista hovin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T09:50:24Z",
@@ -13362,7 +13317,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T06:10:00+03:00",
+      "updated": "2026-10-18T06:33:00+03:00",
       "urls": [
         {
           "sign": "3491b8add63c6dae30160d377b9ca9232c71fcc7308ddff9057114f22e550669",
@@ -13371,7 +13326,7 @@
           ]
         }
       ],
-      "title": "Kanada: Wainwrightin sotilastukikohdan tulipalo levisi alueen ulkopuolelle, sammutustyöt jatkuvat",
+      "title": "Kanada: Wainwrightin sotilastukikohdan tulipalo aiheutti vakavan välikohtauksen, sammutustyöt jatkuvat",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13394,6 +13349,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T03:38:39Z",
+      "urls": [
+        {
+          "sign": "a865503a0e8cf6b4df467f7aafb28edfc7bc58a9d371b09fcb856099c0a702e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat rajoitti ilmatilaa ja merialuetta itäisellä Suomenlahdella sunnuntaina ennen aamukolmea lennokkien torjunnan varotoimenpiteenä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T06:36:00+03:00",
+      "urls": [
+        {
+          "sign": "be7905e5ab155ab0616f25a2098479da3dd695ea67dc186c9747478ecf4c5412",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Orimattilassa vakava ulosajo moottoritiellä – auto törmäsi alikulkuun, kyydissä neljä ihmistä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T03:36:03Z",
+      "urls": [
+        {
+          "sign": "6121e1477391e1b15caecdbf4fa447100cde76dc549f7ee1982a8a04c013dc6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ahdistuksesta kärsivä Sofia joutui ottamaan velkaa lääkkeisiinsä terveydenhuoltomaksujen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
