@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T18:12:45Z",
+  "updated": "2026-10-18T18:19:41Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -1984,23 +1984,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T19:01:52Z",
-      "urls": [
-        {
-          "sign": "719bcba262fce2eea4e662cfbe270342b52896d68832699827b12413127bba1c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helminen myönsi virheensä HPK-ottelussa, Manner menetti äänensä ja kiitti Helmiestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T19:33:51Z",
@@ -13401,6 +13384,23 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T18:19:41Z",
+      "urls": [
+        {
+          "sign": "e815f522208e27acb2c473f49b46c3f1359401c2c88a4614d40e8069d91ba652",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ellinoora ja Marko Keränen putosivat Tanssii Tähtien Kanssa -kilpailusta sunnuntaina 18. lokakuuta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
