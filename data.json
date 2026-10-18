@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T18:45:29Z",
+  "updated": "2026-10-18T18:52:42Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -1985,21 +1985,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T19:29:42Z",
-      "urls": [
-        {
-          "sign": "6e95c19bc11fd407864119a74dc73be34d51d43527080941237b0e0abba9e2d4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vasemmistoliiton puheenjohtaja Minja Koskela kertoi keskenmenostaan ja siitä, ettei saanut toivomaansa keskusteluapua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13416,6 +13401,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T18:52:42Z",
+      "urls": [
+        {
+          "sign": "070c7548c08124be8243f922d15d59d70752c2df47f417fc9b316ab64ce78356",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ellinoora sairastui kriittiseen aikaan Tanssii Tähtien Kanssa -ohjelman pudottua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
