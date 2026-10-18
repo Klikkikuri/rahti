@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T04:12:02Z",
+  "updated": "2026-10-18T07:27:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -5591,23 +5591,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T10:06:42Z",
-      "urls": [
-        {
-          "sign": "c0bb6fe5d02d3623811d0b8f7c225fba8e9bac30fc6e01e921d23e9bf8ca0ec9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin poliisi epäilee poliisimiestä raiskauksesta ja ihmiskaupasta poliisivankilassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T13:00:00+03:00",
       "urls": [
         {
@@ -5655,23 +5638,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T10:03:40Z",
-      "urls": [
-        {
-          "sign": "e9d3ee5f6dcf8282f8f98a570bfae4baac1624c0882284a00ca7f21e873606d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Traficomin Kyberturvallisuuskeskus varoittaa majoituspalveluiden nimissä liikkuvista huijausviesteistä, joissa käytetään oikeita varaus tietoja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T10:23:25Z",
@@ -13180,7 +13146,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T07:07:00+03:00",
+      "updated": "2026-10-18T07:27:00+03:00",
       "urls": [
         {
           "sign": "3491b8add63c6dae30160d377b9ca9232c71fcc7308ddff9057114f22e550669",
@@ -13189,8 +13155,8 @@
           ]
         }
       ],
-      "title": "Räjähdys ja tulipalo Wainwrightin sotilastukikohdassa Albertassa aiheuttivat kuolonuhreja ja loukkaantumisia – lääkäri kutsuu tapahtumaa katastrofiksi",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Wainwrightin sotilastukikohdassa Albertassa lauantaiaamuna tapahtunut räjähdys ja tulipalo aiheuttivat kuolonuhreja ja loukkaantumisia – lääkäri kutsuu tapahtumaa katastrofiksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13399,6 +13365,41 @@
       "title": "Britannian olympiapikajuoksija Beth Dobbin sairastui krooniseen väsymysoireyhtymään – elämä rajoittuu lähes täysin sänkyyn",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T04:18:58Z",
+      "urls": [
+        {
+          "sign": "b7c34aaf4b1b6c9663ee1f26f0786cd72eda58e05b46079be392b82cdf387407",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T04:16:33Z",
+      "urls": [
+        {
+          "sign": "8bbdff81bb9db3058bb4e6e59ff9dee893a78219481ea34138d85eb2f3f82a46",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
