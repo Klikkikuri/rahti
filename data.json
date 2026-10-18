@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T15:29:00Z",
+  "updated": "2026-10-18T15:38:28Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -888,23 +888,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T08:14:45Z",
-      "urls": [
-        {
-          "sign": "ee39270ea2c888f2d2cf49327f5d9430bf4a617c82b59f5fe30fd816c959603a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Marine Alutech toimittaa 15 Watercat M18 AMC -taisteluvenettä Saksan merivoimille – sopimuksen arvo 175 miljoonaa euroa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T08:16:50Z",
@@ -1954,23 +1937,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T15:11:00Z",
-      "urls": [
-        {
-          "sign": "41743ba488cc4b96e0d53698e66af64f090bd4950824ea342cda33a3aeebf877",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija kehottaa tarkistamaan ulko-oven takalukituksen kodin turvallisuuden vuoksi ennen kotoa lähtöä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T15:29:26Z",
@@ -5813,21 +5779,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T19:01:54Z",
-      "urls": [
-        {
-          "sign": "2fd80b735cd11b53b9bafb799817dc02cd2ee65307fdcae679a3a903d39865c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jesse Puljujärvi jatkaa HC Geneve-Servettessä kevääseen 2030 asti",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T19:18:59Z",
@@ -13418,6 +13369,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T15:38:28Z",
+      "urls": [
+        {
+          "sign": "5678b524f90790d4b14f7324bc5b1b53a2b3e936c594953b284553c6998fb34f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Pekka Isotalus sanoo vaalikirjojen olevan poliitikoille laajennettuja somepostauksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T15:32:15Z",
+      "urls": [
+        {
+          "sign": "31c9ce696f2b9756235d6e825868140928f9fce5f0f58040cabc278ea1fa93e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Scandic Eden Nokian kylpylähotelli evakuoitiin sunnuntaina keittiösavun aiheuttaman palohälytyksen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T15:29:20Z",
+      "urls": [
+        {
+          "sign": "4821a30cbeac847dbf2c93d07724ee3f2c2b94b3c802c88a93ff2062b58b4eb5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pekka Haavisto ja Antonio Flores vierailivat TTK-studiolla – Haavisto vitsaili ettei uskaltaisi tanssia parketilla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
