@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T10:42:49Z",
+  "updated": "2026-10-18T10:53:11Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -1834,21 +1834,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T11:39:13Z",
-      "urls": [
-        {
-          "sign": "b64202a1271b13c15a99173dd66fbfb364bef779aadbd929c39846e8a3264edd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sexpo irtisanoo koko henkilöstönsä STEA-tukien leikkausten vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-15T14:39:00+03:00",
       "urls": [
         {
@@ -1896,21 +1881,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T11:49:31Z",
-      "urls": [
-        {
-          "sign": "ef1e61e2af4a07cd65bf956482719fe8ef398acf72f06be78d8ebbb65dbf4d6b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yango-kuski yritti törkeästi raiskata 16-vuotiaan asiakkaan Helsingissä ja kyseli tytön neitsyydestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T15:00:00+03:00",
@@ -5829,21 +5799,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T14:18:07Z",
-      "urls": [
-        {
-          "sign": "7c9eb9d5c99c3fc3aa0f7e163e5b4ad6ca3ac2430fcf477e6996cbf1edba855f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirja paljastaa Dingon jäähallikiertueen katastrofin 1985: vain muutama sata lippuja Kuopiossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T14:26:50Z",
@@ -11995,7 +11950,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T06:51:41Z",
+      "updated": "2026-10-18T10:30:07Z",
       "urls": [
         {
           "sign": "12000982bfa1ad3d1b2e1c8fc60edb08794c217a0558178aec5a3fd9c4840581",
@@ -12004,8 +11959,8 @@
           ]
         }
       ],
-      "title": "Ukraina iski lennokein Pietarin öljyterminaaliin ja datakeskukseen – räjähdyksiä ja tulipaloja varhain sunnuntaiaamuna",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Ukrainan lennokki-isku sytytti tulipaloja Pietarin öljyterminaalissa ja datakeskuksessa – yksi kuoli, viisi loukkaantunut",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13396,6 +13351,60 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T10:45:27Z",
+      "urls": [
+        {
+          "sign": "338e1b041b908a96d602f3bed16222376f8d8fd70e48bbdb6ef46c9cf5e1711c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "9aae588d4fd360c2d34dba8ab614b2f7aa8c11d71d3f5fae130818d7ef0bd40c",
+          "labels": []
+        }
+      ],
+      "title": "Datakeskusalan työpaikkailmoitukset lisääntyivät 277 prosenttia Suomessa – palkat jopa 11000 euroa kuukaudessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T10:49:23Z",
+      "urls": [
+        {
+          "sign": "d0766f5d9283d71b1ae03454cbc8f2c0878bedb8700f0d6b57dafa54be15fdd7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Onni Hautamäki debytoi NHL:n erotuomarina ja sai ylistystä Stephen Walkomilta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T10:53:11Z",
+      "urls": [
+        {
+          "sign": "0885c4d6d43e973ec8f943441e2526f82e54c52cd6c3863c08cbaa473d60e3c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Jenna Salminen varoittaa liukkaista ja jäisistä teistä maanantaiaamuna töihin palaaville",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
