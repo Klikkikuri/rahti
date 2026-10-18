@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T19:30:08Z",
+  "updated": "2026-10-18T19:59:34Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -2031,21 +2031,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T21:01:00Z",
-      "urls": [
-        {
-          "sign": "0d5a9f096afbc8df7e596a324dc170ccbe921f66f36b22dcb3d0167e2672688f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antti Lindtman itki ja kiroili hävittyään Sanna Marinille SDP:n puheenjohtajakisassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T21:22:15Z",
@@ -6021,21 +6006,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-17T05:59:22Z",
-      "urls": [
-        {
-          "sign": "a20f547bc97b467e4e5ca05e0a316d5b71e642759270a796c2c742bbe117335e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keväällä useat naiset ovat eronneet tai saaneet potkut Trumpin hallinnosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T06:00:00Z",
@@ -13420,6 +13390,41 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T19:59:34Z",
+      "urls": [
+        {
+          "sign": "e5d2b8cf0fc72280b6c696e546bf6b9f052ee547a675842845851373127e0a49",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkija Timo Miettinen: Ranskan mielenosoitusten taustalla taloudellinen paine – väkivaltaisuudet saattavat laantua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T19:54:08Z",
+      "urls": [
+        {
+          "sign": "1f624317b2e04a1ba071a831520554d3b523d3b72ecf4ea79509ca7b68104b9d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tšekkiläinen jalkapallovalmentaja David Oulehla vältti katsekontaktia toimittajan kanssa haastattelussa – video keräsi 2,5 miljoonaa katselua TikTokissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
