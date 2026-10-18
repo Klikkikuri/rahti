@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T19:59:34Z",
+  "updated": "2026-10-18T23:23:00+03:00",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -870,21 +870,6 @@
         }
       ],
       "title": "Tuomas Holopainen: Jos Nightwish lopettaa, viimeinen keikka soitetaan Kiteen Huvikeskuksessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T09:31:46Z",
-      "urls": [
-        {
-          "sign": "7029756e65785f844d3188d74ac500de6df0bdfb909f961bd132658f4c35508d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "'Floor Jansen leaves Nightwish'",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -1971,21 +1956,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T02:29:36Z",
-      "urls": [
-        {
-          "sign": "2b1f3bbc1396b40223fdf2818b7fbed4ac9f35493d3c9bee25c40a7041e0913d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Minibussi törmäsi junaan Kanaalitunnelin suulla Ranskassa torstai-iltana",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-15T20:06:26Z",
       "urls": [
         {
@@ -2354,21 +2324,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T02:50:00Z",
-      "urls": [
-        {
-          "sign": "57dd9b1c5525ed91fc05b0f0bf3d4f54db5e545ecafdcb2df4532ab0f5f1c4a6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uutuusdokumentti näyttää, miten poliisi tutki 15‑vuotiaan Vendin murhan ja raiskauksen Valkeakoskella 2024",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T02:55:43Z",
@@ -11731,7 +11686,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T22:22:00+03:00",
+      "updated": "2026-10-18T23:23:00+03:00",
       "urls": [
         {
           "sign": "d8d4421fa0c3240d397c44823a44df890eb02e0115e710f8e1ec9aa5b82b1d35",
@@ -11740,8 +11695,8 @@
           ]
         }
       ],
-      "title": "Macron tuomitsee mellakoiden väkivallan ja vaatii vastuuta – yli 2400 pidätetty, lähes 1000 poliisia loukkaantunut, yksi mielenosoittaja kuoli",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Macron tuomitsee mellakoiden väkivallan – yli 2400 pidätetty, lähes 1000 poliisia loukkaantunut, mielenosoittaja kuoli",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13425,6 +13380,51 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T20:11:20Z",
+      "urls": [
+        {
+          "sign": "9b082501c1be0fc5f784837fc1d70ae790357b4bcb40f4498dd0c76becb4ab2a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi sanoo Trumpin painostavan Ukrainaa antautumaan Venäjälle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T19:59:18Z",
+      "urls": [
+        {
+          "sign": "8b54d4446526cdf039bace49c07c2071225b541ca837a943ef0eee16c0f3941e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Manchester United pelasi 1–1-tasapelin Leeds Unitedin vieraana ja jatkaa voitotonta putkeaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T20:00:48Z",
+      "urls": [
+        {
+          "sign": "66b6196ae1b4c6bc6b00f89c9f7fe8f50c35366d4c39c23105adf84708a0a136",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi Bloombergille: Trumpin toimet näyttävät painostavan Ukrainaa antautumaan Venäjälle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
