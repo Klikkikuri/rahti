@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T11:12:41Z",
+  "updated": "2026-10-18T11:26:59Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -719,7 +719,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-17T11:08:36Z",
+      "updated": "2026-10-18T11:17:24Z",
       "urls": [
         {
           "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
@@ -5677,23 +5677,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T14:28:54Z",
-      "urls": [
-        {
-          "sign": "3939b00e9e9ae19894205cbf527a2fa5f535a7f0e788ce57a4f3800227831c28",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antero-minisika löysi tyttöystävän Maikin viikon kuluttua deitti-ilmoituksestaan, sosiaalinen media innostui",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T17:24:00+03:00",
       "urls": [
         {
@@ -5769,21 +5752,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T14:45:47Z",
-      "urls": [
-        {
-          "sign": "843ce33ee6536f51fdb22f6a7c467558eaec2074c4cf31e8b3121a74ca61f885",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti julkaisee kymmenen syksyn yo-kokeiden kysymystä tietovisana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T19:21:44Z",
@@ -11873,7 +11841,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T10:30:07Z",
+      "updated": "2026-10-18T11:13:45Z",
       "urls": [
         {
           "sign": "12000982bfa1ad3d1b2e1c8fc60edb08794c217a0558178aec5a3fd9c4840581",
@@ -11882,8 +11850,8 @@
           ]
         }
       ],
-      "title": "Ukrainan lennokki-isku sytytti tulipaloja Pietarin öljyterminaalissa ja datakeskuksessa – yksi kuoli, viisi loukkaantunut",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Ukrainan lennokki-isku Pietarissa sytytti tulipaloja öljyterminaalissa ja datakeskuksessa – vähintään 20 000 ilman sähköä",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13411,6 +13379,38 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T11:26:59Z",
+      "urls": [
+        {
+          "sign": "b8caddccd1e621f03508267a430e9bb6412be5d95cf3126a5a8c31b7d478074f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Johanna Puhakka ja Samuel Glassar vahvistavat kihlautumisensa Instagramissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T11:15:14Z",
+      "urls": [
+        {
+          "sign": "c1f9b8f578d72f15275da03716aba1c330a834e778ef0a801ad8913c009e5ae0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain armeijan upseeri loukkaantunut köysilaskussa Alamodome-stadionissa ennen UTSA–Navy-ottelua lauantai-iltana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
