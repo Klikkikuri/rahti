@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T17:37:09Z",
+  "updated": "2026-10-18T17:55:18Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -1841,23 +1841,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-15T17:58:50Z",
-      "urls": [
-        {
-          "sign": "4ea30fba6f5bd28bc6c9d7a293af4fe374b5045fe9ba9aa5328c4fcec6e9f144",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oula Palve avasi pistetilinsä Sportissa kahdella syötöllä KooKoota vastaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-15T19:00:00+03:00",
       "urls": [
         {
@@ -2017,23 +2000,6 @@
       "title": "Trabzonspor voitti KuPSin 4–2 Konferenssiliigan ottelussa Tampereella – Salah syötti ja maalasi, Pennanen teki maalin kulmapotkusta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T17:53:31Z",
-      "urls": [
-        {
-          "sign": "c808ae10880f6209acb3c937dbb64f0cf4d8d0eab8c4b1709d24e57c4be6a618",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SaiPan päävalmentaja Raimo Helminen suuttui videotarkistuksen jälkeisestä tasajäähystä Lappeenrannassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5929,21 +5895,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-17T03:32:37Z",
-      "urls": [
-        {
-          "sign": "0ca0af41711054016cd2ebefc83669dac7f4a2ef9f2a51b2618c064542cfbc54",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hiljainen mielenilmaisu ihmiskauppaa vastaan kerää tummiin pukeutuneita Helsingin keskustaan lauantaina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T03:43:38Z",
@@ -13399,6 +13350,57 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T17:52:07Z",
+      "urls": [
+        {
+          "sign": "8985308957ac331cb56ca11e43775546d5bc0a905f3c819edd75a1c9aa96ee3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi suomalaista myi elektroniikkaa venäläisille asevalmistajille kymmenien miljoonien edestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T17:53:59Z",
+      "urls": [
+        {
+          "sign": "12fdcd0e6aaa1ed04f3d6928212e8c45c1f08af8ce0ea25970d619058bcbfc3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T17:55:18Z",
+      "urls": [
+        {
+          "sign": "abb6a3d44db0742b3fa21db36e143a4179e544318622bcc78c0dc37d39850038",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SM-liigan kurinpitodelegaatio ei antanut pelikieltoa Jokereiden Patrik Virralle Ilves-ottelun tilanteesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
