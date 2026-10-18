@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T10:15:00+03:00",
+  "updated": "2026-10-18T07:26:25Z",
   "entries": [
     {
-      "updated": "2026-10-18T05:08:44Z",
+      "updated": "2026-10-18T07:19:07Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -4891,23 +4891,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T12:25:42Z",
-      "urls": [
-        {
-          "sign": "3583aa4395e44bba4f6f1d1c853c84d07a03d587a032a5b1a8eb4628c99762f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus vangitsi kaksi miestä taposta epäiltynä Tampereella – kasvonsa peittäneet istunnon alussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T11:14:00+03:00",
       "urls": [
         {
@@ -5653,38 +5636,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T12:12:29Z",
-      "urls": [
-        {
-          "sign": "4ab8c5527c6b4eb581ead3ea056df9b8daff073ec15dc67db6254cd35ba82cf9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "UFC-ottelija Abdul Husseinin ottelu siirtyi joulukuuhun ohjusiskun jälkeen – 12 kuoli Riadin lentokentällä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-16T12:14:09Z",
-      "urls": [
-        {
-          "sign": "8712c1e0f29fbc1f9a08a37bd246445cd9a206473074673d05cd418c5d86299f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsalainen Expressen uutisoi Suomen makeishysterian ruotsalaisista irtokarkkeista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T12:06:21Z",
@@ -13403,6 +13354,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T07:26:25Z",
+      "urls": [
+        {
+          "sign": "a4aa87a457bfa657d2865084ffe5fe1f529342169fa249571cd3bad7b199395c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin Sanomien ostama sijaintidata paljasti suomalaismajurin kodin, mökin ja työmatkat",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T07:23:12Z",
+      "urls": [
+        {
+          "sign": "d058be4f36e1b8fdf72501157c82cac393633e7d9054003ed8f9b2c57c39ea42",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hammaslääkäri Anni Mäkinen: säilytä hammasharja kuivana pystyasennossa ja kaukana vessasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T07:24:38Z",
+      "urls": [
+        {
+          "sign": "39cb7c5cea9fd794ce36c8951a72076f6a3e47ec511b025cc6804e1d0ad5d5c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Diandra tulkitsi Lea Lavenin On päivä tai yö -kappaleen Elämäni biisi -ohjelmassa ja sai ylistystä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
