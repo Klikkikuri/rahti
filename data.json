@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T06:10:00+03:00",
+  "updated": "2026-10-18T03:12:55Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -1455,23 +1455,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T06:42:48Z",
-      "urls": [
-        {
-          "sign": "1c2f983e0b69a858f7a936a8552822464461812bcba61937861578821f8d9efc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prisman verkkokauppa lisäsi levynkantoliivit valikoimaan – lähes kaikki myyty",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T17:06:00+03:00",
@@ -13394,6 +13377,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T03:12:55Z",
+      "urls": [
+        {
+          "sign": "0084c7be7a1a1c5af396664ebef8b343d76e9f9e6e2eb981aaf4d3e5dfdf77ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat asetti ilmatilan ja merialueen rajoitukset itäisellä Suomenlahdella aamuyöllä lennokkien torjunnan varalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
