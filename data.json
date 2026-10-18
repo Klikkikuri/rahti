@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T09:53:28Z",
+  "updated": "2026-10-18T10:12:23Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -869,21 +869,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T04:56:03Z",
-      "urls": [
-        {
-          "sign": "040b2447b0532bb9f8e7d8fb4f581c9e9912882be8d5729f72dff901911a94f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nordean vertailukelpoinen liikevoitto laski noin neljä prosenttia, korkokate nousi prosentin kolmannella neljänneksellä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T05:06:36Z",
@@ -12038,7 +12023,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T12:51:00+03:00",
+      "updated": "2026-10-18T13:12:00+03:00",
       "urls": [
         {
           "sign": "3491b8add63c6dae30160d377b9ca9232c71fcc7308ddff9057114f22e550669",
@@ -12047,7 +12032,7 @@
           ]
         }
       ],
-      "title": "Räjähdys ja tulipalo Wainwrightin sotilastukikohdassa Albertassa lauantaina aiheuttivat useita kuolonuhreja ja loukkaantumisia – lääkäri kutsuu tapahtumaa katastrofiksi",
+      "title": "Räjähdys ja tulipalo Wainwrightin sotilastukikohdassa Albertassa lauantaina aiheuttivat kuolonuhreja ja loukkaantumisia – lääkäri kutsuu tapahtumaa katastrofiksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13391,6 +13376,23 @@
       "title": "Luonnonsuojelijat pelastivat yli viisikymmentä uhanalaista borneonorangia Indonesiassa metsäpaloista elokuusta alkaen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T10:12:23Z",
+      "urls": [
+        {
+          "sign": "8bfb6c465bce9933267da7c81119bad7933a7222fb2ac8d644c20a911ead16c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paavi Leo XIV piti sunnuntaina viikoittaisen puheensa Pietarinaukiolla keuhkosyöpäleikkauksen jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
