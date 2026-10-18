@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T02:22:00Z",
+  "updated": "2026-10-18T02:37:42Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -856,21 +856,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-14T16:13:18Z",
-      "urls": [
-        {
-          "sign": "6adfa613c1e8b52d282ec2a6ec0e9c7400e095a09f4a71943eb7a1e06a337d35",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itärajan esteaita hämmentää villisikoja – asiantuntijat: lyhyt rajoituskausi ei vahingoita muita eläimiä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-14T16:38:56Z",
       "urls": [
         {
@@ -1472,24 +1457,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T06:06:34Z",
-      "urls": [
-        {
-          "sign": "c604ec67e787417f0475bc9327f56d684669fcfee96f70c29728d99fb118ea3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU-maiden johtajat kokoontuvat Brysseliin kaksipäiväiseen huippukokoukseen käsittelemään Ukrainaa, kilpailukykyä ja energian hintaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T06:14:57Z",
@@ -5712,21 +5679,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T09:38:40Z",
-      "urls": [
-        {
-          "sign": "09b8d88bba571043abc848d4807a01f20f6b1e26b30386953ca7cc2c47e8fcf2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Jokerien päävalmentaja Juuso Hahl siirsi Patrick Curryn kolmosketjuun keskushyökkääjäksi ja Eetu Tuulolan nelosketjuun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T09:32:02Z",
@@ -13386,6 +13338,55 @@
       "title": "Pietarsaaren käräjäoikeus tuomitsi 49‑vuotiaan miehen vuoden ehdottomaan vankeuteen kaveriinsa kohdistuneesta törkeästä pahoinpitelystä Tiktok‑lähetyksessä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T02:30:35Z",
+      "urls": [
+        {
+          "sign": "cee3d2eeb0697afe33c4eafbe4b754f5ae3406c112a925195c1c7f1cd51256e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sukupuoli vaikuttaa yhä perhevapaan palkallisuuteen – aloittain suuria eroja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T02:37:42Z",
+      "urls": [
+        {
+          "sign": "17eff302085f873ab2178b52a21dd54c98c2e1b195ea8d995215443c623456c6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tulipalo Kanadan Albertassa sijaitsevassa sotilastukikohdassa aiheutti kuolleita ja loukkaantuneita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T02:33:00Z",
+      "urls": [
+        {
+          "sign": "b02efa5edbc086d1e0f878127a8fe9d41d3d3c9791a9e588bbf2017bb13a2e08",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pekka Heikkinen korostaa kuuntelemisen merkitystä hätäkeskustyössä 38 vuoden kokemuksella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
