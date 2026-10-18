@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T17:29:21Z",
+  "updated": "2026-10-18T17:37:09Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -858,21 +858,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T09:25:13Z",
-      "urls": [
-        {
-          "sign": "f65b363a6690fa1bd46f0d064562c7e37f5b35b35bb0c715b50e9222a56adba1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnish appeal court reduces Simon Ekpa's terrorism sentence from six to four years",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T09:27:53Z",
@@ -2045,23 +2030,6 @@
         }
       ],
       "title": "SaiPan päävalmentaja Raimo Helminen suuttui videotarkistuksen jälkeisestä tasajäähystä Lappeenrannassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-15T17:48:27Z",
-      "urls": [
-        {
-          "sign": "a193a5016c67383775a405d3233abf23737dc1c8c4c4c38461af13beaf2158d4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkoinen talo puolustaa lehdistösihteeri Zachariaa, joka ei ole läpäissyt asianajajatutkintoa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -5946,21 +5914,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-17T03:18:20Z",
-      "urls": [
-        {
-          "sign": "8eb5c7bd1eaf395253f394d6dd0ab0c8451254e89073f1591b135f663865c222",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viikonlopun kylmä sää vaihtuu lämpenemiseen, kun korkeapaine tuo aurinkoista säätä.",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T03:25:19Z",
@@ -13399,6 +13352,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T17:31:18Z",
+      "urls": [
+        {
+          "sign": "b04228d69d97b87604b7cb83d5e642c566f84f4fc937c2b8f6cc1d6e38167fa9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Atte Kilpinen kehui Nico Lingmanin tanssia TTK:n seitsemännessä suorassa lähetyksessä – 'Kyllä sinulla aika turvalliset kädet on'",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T17:30:53Z",
+      "urls": [
+        {
+          "sign": "47e2c3ffe09b50ec23cdd4393616022fcb6bf9734628e4c21af277738f1176b3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tomi Kotilainen joi puoli litraa Jaffaa 3,16 sekunnissa – uusi maailmanennätys",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T17:37:09Z",
+      "urls": [
+        {
+          "sign": "a688b1246678f24c9f0624931fc81bc5171081585ded201956a22afe0cf72a8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Satelliittikuvat osoittavat Kim Jong-unin luksusalukset Wonsanin rannikolla samalla kun pohjoiskorealaiset elävät köyhyydessä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
