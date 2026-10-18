@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T10:43:00+03:00",
+  "updated": "2026-10-18T08:00:17Z",
   "entries": [
     {
-      "updated": "2026-10-18T07:42:28Z",
+      "updated": "2026-10-18T07:55:00Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -858,36 +858,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "30041a01f54e45bfe65d4c290d20788a97e3b4d900103b84b097e13f519a670b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS raportoi 15.10.1976:n uutisista: vireily-liikunta, Englanti–Suomi jalkapallo, muovikassinäyttely ja Neuvostoliiton avaruuslento",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "c67221a4f69837c19d23bbbdb9196496e5b34ba7566280c28e5a0de61a28cbfc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide | Datakeskusbuumi johtaa metsän hakkuuseen ja veronmaksajien kustannuksiin Suomessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-15T02:37:00+03:00",
       "urls": [
         {
@@ -903,21 +873,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T02:30:35Z",
-      "urls": [
-        {
-          "sign": "0b33c2f3d28e5e61f29c65357b390e52508cd1948cf4e378791960145c555d58",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuulivoiman rakentaminen on pysähtynyt halvan sähkön vuoksi – datakeskusten kasvava kysyntä voi käynnistää tuotannon",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T14:08:00+03:00",
@@ -13386,6 +13341,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T08:00:17Z",
+      "urls": [
+        {
+          "sign": "9650f3df9980adeb679491c0601d5a1f7fcbe120e8eb42b52e88d51a511a7845",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Räjähdys ja tulipalo Kanadan asevoimien Wainwrightin tukikohdassa aiheuttivat ainakin seitsemän kuolemaa ja kymmeniä loukkaantumisia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e9e1543c3cba8820525e987185e60e571bf2da0cbd0e975c35ce4f8c8f57f576",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T11:00:00+03:00",
+      "urls": [
+        {
+          "sign": "e09d7e95b1a8f1df3c4389079bbf1ba9426deb63d85ad22267576530fffe8820",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelänseppäkotinga on maailman äänekkäin lintu – ääni yltää 131 desibeliin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
