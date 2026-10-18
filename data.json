@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T00:58:20Z",
+  "updated": "2026-10-18T04:30:00+03:00",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -823,21 +823,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T22:49:00+03:00",
-      "urls": [
-        {
-          "sign": "ff9d285e606a6baea88a3fbd246b466ad80f67e68931b703b67685d2b9485bb4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjän ohjusiskut tappivat kuusi ja aiheuttivat laajoja sähkökatkoja Ukrainassa – Yhdysvaltain tiedustelutietojen jakaminen keskeytyi kahdeksi yöksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13402,6 +13387,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-18T04:30:00+03:00",
+      "urls": [
+        {
+          "sign": "37f38226453d7c89d70f844f8c6646621069ea740c07cae6d3ee128dd4a56692",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi otti kiinni yli 1 200 mielenosoittajaa ja yli 150 poliisia loukkaantui Ranskan elinkustannusten nousua vastaan järjestetyissä protesteissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
