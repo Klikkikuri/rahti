@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T04:30:00+03:00",
+  "updated": "2026-10-18T02:15:00Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -1395,23 +1395,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T05:13:00Z",
-      "urls": [
-        {
-          "sign": "3669157811014c63c2e9466ae961353279830485b6290944232ebd070c2e7f5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kyssäkaali sopii sekä raakana että kypsennettynä moniin ruokalajeihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T09:32:52Z",
@@ -5756,21 +5739,6 @@
         }
       ],
       "title": "Helsingin Jokerien päävalmentaja Juuso Hahl siirsi Patrick Curryn kolmosketjuun keskushyökkääjäksi ja Eetu Tuulolan nelosketjuun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-16T09:36:58Z",
-      "urls": [
-        {
-          "sign": "1060025f5a31241a35061fe5f0c0369f31ee644c75054546ca53f418ecda3df9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maria perui leikkauksensa rahatilanteen vuoksi – häpeä esti kertomasta syytä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13387,6 +13355,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T02:15:00Z",
+      "urls": [
+        {
+          "sign": "0063bddfaa19d82b9a4cfbb688d8114213be692a058cd9b3e2cd645258ce037c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harvardin yliopiston ukrainalainen historioitsija Serhii Plokhy kehottaa Suomea harkitsemaan ydinaseiden hankkimista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T02:00:51Z",
+      "urls": [
+        {
+          "sign": "1a0da69992d633d73916b1452eca5440770c065074e26cfba17ca18f249075d5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "34-vuotias nainen ajoi autolla väkijoukkoon nuorten jalkapallo-ottelussa Wichitassa – uhria on useita, joukossa kuolleita",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
