@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-17T23:07:21Z",
+  "updated": "2026-10-18T00:58:20Z",
   "entries": [
     {
       "updated": "2026-10-17T19:50:18Z",
@@ -884,21 +884,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-14T15:59:28Z",
-      "urls": [
-        {
-          "sign": "b46ab235f0ac899697ff3d907a8c7ed328702aa328234166f7f364f03be4ebff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alaikäisten rikosten määrä on kaksinkertaistunut kymmenessä vuodessa – oikeusministeriö selvittää vastuun ikärajan laskemista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-14T16:13:18Z",
@@ -13402,6 +13387,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T00:58:20Z",
+      "urls": [
+        {
+          "sign": "2eb16c10d0994d8de7f0dd16a944e5c52ce83029c3f5f522c5cb34c5d1d40723",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marco Rubio: Venäjä-pakotteiden 60 päivän lykkäys mahdollistaa vaikutusten tarkastelun maailmantalouteen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
