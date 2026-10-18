@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T11:26:59Z",
+  "updated": "2026-10-18T11:52:07Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -794,21 +794,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T14:56:22Z",
-      "urls": [
-        {
-          "sign": "a470847ee94955ed587a6277121df58cf7e55e5e161365f171ff651fe58d9ba3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vadelma‑lakritsipääkallo voitti Iltalehden irtokarkkiäänestyksen 28 prosentin kannatuksella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-15T10:18:00+03:00",
       "urls": [
         {
@@ -973,21 +958,6 @@
         }
       ],
       "title": "Poliisi pidätti kuusikymppisen miehen epäiltynä lapsiin kohdistuneista seksuaalirikoksista Pomarkussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T10:15:00+03:00",
-      "urls": [
-        {
-          "sign": "ca52b06904a65184b60292b7de61046cf3a16ac3cfa7a36555564ca4d332991c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi on hyvä datakeskuspaikka, kunhan lupaehtojen sitovat hukkalämmön hyödyntämiseen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -5804,23 +5774,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T14:59:59Z",
-      "urls": [
-        {
-          "sign": "278adce1741a1b08ea8e41eb6bad614a90b5abaeb943aedd1fe7c25edb5cf199",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Googlen datakeskustyömaa Muhoksella on muuttunut viikossa – vedet kirkastuneet ja liikenne hiljentynyt",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T17:49:00+03:00",
@@ -11871,7 +11824,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-18T10:42:49Z",
+      "updated": "2026-10-18T11:35:21Z",
       "urls": [
         {
           "sign": "7e943b9824e7f8d6406ded75f15c82148bc4bb88bf129a0b63bb7c1728c02d73",
@@ -11880,8 +11833,8 @@
           ]
         }
       ],
-      "title": "Henkilö kuoli ja useita loukkaantui vakavasti ulosajossa Lahden moottoritie Orimattilassa sunnuntaina kello 4.39",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Auto suistui tieltä Lahden moottoritie Orimattilassa varhain sunnuntaina – yksi kuoli, kolme loukkaantui vakavasti",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
@@ -13411,6 +13364,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T11:52:07Z",
+      "urls": [
+        {
+          "sign": "fc3d7d3b13142da487ed340ae760dbb899df0eda962e59b4c42a6e5df9f32161",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T11:45:30Z",
+      "urls": [
+        {
+          "sign": "4a27c41d252472a4075c6c959b4f4eb5a02530c6fbf151c1183dfee9a4f2b62f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Matias Maccelli loukkaantui Islandersin ottelussa Torontota vastaan – jalka vääntyi luonnottomaan asentoon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T14:31:00+03:00",
+      "urls": [
+        {
+          "sign": "b09b122ebde48d71afc363226298523e3d4027d63107bf41d82a1483549b9192",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
