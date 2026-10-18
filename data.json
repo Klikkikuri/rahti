@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T11:52:07Z",
+  "updated": "2026-10-18T12:02:26Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -807,21 +807,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T05:16:35Z",
-      "urls": [
-        {
-          "sign": "f3f6f6a01af891704b9caa0d89d264204b98da74664f397a9d1a2a700d726505",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnish Interior Ministry distributes 3.5 million paper emergency guides to households in January",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T05:53:07Z",
@@ -13413,6 +13398,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T12:02:26Z",
+      "urls": [
+        {
+          "sign": "315fbd2f70b89392eef0f7776aadcde1cf49f1257e72d22cbde05581c4a79b7c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin hallinto ehdotti Euroopalle venäläisen kaasun lisäostoja osana Ukrainan rauhansuunnitelmaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
