@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T09:28:42Z",
+  "updated": "2026-10-18T09:42:58Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -839,21 +839,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T03:47:45Z",
-      "urls": [
-        {
-          "sign": "188e3a9fe7e441274298a61846507ce7258f523a11ec8a5b338f6ae5c3d21feb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä-Korean ja Japanin pörssit laskivat jyrkästi torstaina teknologiaosakkeiden laskun vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T14:56:22Z",
@@ -5720,23 +5705,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T13:39:49Z",
-      "urls": [
-        {
-          "sign": "e471d4da9914571569a5a387b70a1ca580efa557e425a62cd46b88a13d8bd27b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Järjestyksenvalvojat puuttuivat messukävijöiden juoksuun Helsingin I love me -messuilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T13:32:13Z",
       "urls": [
         {
@@ -5780,21 +5748,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T13:52:08Z",
-      "urls": [
-        {
-          "sign": "0bb7e651253da8c2c1a3ca2dbc206219fbdfe509bf8219ae4abfdd48e0b670d3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liittovaltion tuomari Ana C. Reyes keskeytti puiden kaadon East Potomacin golfkentällä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T13:52:46Z",
@@ -13396,6 +13349,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T09:35:55Z",
+      "urls": [
+        {
+          "sign": "69024770f66d062c84c69a5e01f3411aa5ce6e5d3b0fcb5058615080b5ec77d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uusi elämäkerta paljastaa Kaj Chydeniuksen vihanneen lempinimeä Kaitsua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T09:40:39Z",
+      "urls": [
+        {
+          "sign": "5eebb72b907b542788a539bc9ff28f30261d2ac89bbd5a8babfabde4127d0ece",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Heikon pihlajasadon vuoksi kymmeniä tilhia kuoli lasiin törmäten Tapiolassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T09:42:58Z",
+      "urls": [
+        {
+          "sign": "6d34d49ee1f08932ee529387f3665523408cecda434c6e2e88d6053c10d35782",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Halikon kurpitsapuisto laajeni uudelle alueelle – yli 200 000 kävijää ja lähes 10 000 kurpitsaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
