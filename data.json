@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T14:27:33Z",
+  "updated": "2026-10-18T14:57:07Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -935,23 +935,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T11:01:00+03:00",
-      "urls": [
-        {
-          "sign": "eb3fbf09223adf59bcd6e1c052e93ee62142e8142ad490c687d266f1696f654f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-15T11:30:00+03:00",
@@ -1960,21 +1943,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T14:32:40Z",
-      "urls": [
-        {
-          "sign": "c65349e901c268dbe2a0019663544a03b2a74585785df85b8ab38824803af982",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump kieltää Fort Hoodin ampujan teloituksen suoran lähetyksen – omaiset voivat seurata paikan päällä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T14:27:58Z",
@@ -6003,21 +5971,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T18:07:59Z",
-      "urls": [
-        {
-          "sign": "57a8368b4ba5adb95c259c37254afad9fe13300bf0149020846b96cb8d4199c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Katie Zacharian sai potkut Valkoisesta talosta viiden päivän lehdistösihteerinä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T18:23:35Z",
@@ -13238,7 +13191,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T13:54:51Z",
+      "updated": "2026-10-18T14:57:07Z",
       "urls": [
         {
           "sign": "478d47f966dbcbae92f9e008de55c90e29e5eda0e12bf0ee98ce093137ed3e45",
@@ -13247,7 +13200,7 @@
           ]
         }
       ],
-      "title": "Diego Gómezin noin 45 metrin kaukolaukaus keskiviivalta toi Brightonille 3–0-johtomaalin Crystal Palacea vastaan",
+      "title": "Brighton voitti Crystal Palacea 5–0, Manchester United jäi tasapeliin Leedsiä vastaan",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13379,7 +13332,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T14:21:28Z",
+      "updated": "2026-10-18T14:55:39Z",
       "urls": [
         {
           "sign": "b35789cbd6984edc812bc13dc4b2ec29ab86fcdc27ba18c3ebce301082aeeef7",
@@ -13388,7 +13341,7 @@
           ]
         }
       ],
-      "title": "Suvi Minkkinen sijoittui viidenneksi Münchenin naisten rulla-ampumahiihdon supersprintissä",
+      "title": "Martin Ponsiluoma voitti Münchenin miesten supersprintin ja ansaitsi 20 000 euroa viikonlopun urakoinnista",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13409,7 +13362,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T14:23:17Z",
+      "updated": "2026-10-18T14:50:00Z",
       "urls": [
         {
           "sign": "e60f0cba652787e317de0a14c496dd45435e33fb2f0e39eca76dcd14ea367f15",
@@ -13418,12 +13371,59 @@
           ]
         }
       ],
-      "title": "MTV Uutiset seuraa TTK:n punaisen maton haastatteluja suorana kello 17.50",
+      "title": "MTV Uutiset haastattelee kutsuvieraita Tanssii Tähtien Kanssa -ohjelman punaisella matolla suorana kello 17.50",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T14:33:00Z",
+      "urls": [
+        {
+          "sign": "46d9376d9be2b8b41cd907d73bff790916c3040ca4330c5ddb9bf18349ef7ee7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Autoliiton Teppo Vesalainen pitää Teslan lentävää Roadsteria järjettömänä ja epäilee sen yleistymistä Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T17:49:00+03:00",
+      "urls": [
+        {
+          "sign": "ae60d9f415e70d2d8d7bc8cb3d628f99b551e652bc319661693f5fe9217473c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "K-Supermarket Lippulaivassa hyvittää asiakkaiden toisen pysäköintitunnin hinnan ostosten ylittäessä 50 euroa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T14:56:26Z",
+      "urls": [
+        {
+          "sign": "b1cfbdef61320567fad37f9c9e2b89e48944abb9eed2dbb780f05381c4ecc04c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS:n analyysi osoitti upseerin henkilötiedot sijaintidatasta – asiantuntija neuvoo rajoittamaan sijainnin jakamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
