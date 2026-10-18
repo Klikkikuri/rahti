@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T15:38:28Z",
+  "updated": "2026-10-18T18:51:00+03:00",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -950,21 +950,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T12:15:00+03:00",
-      "urls": [
-        {
-          "sign": "f07b4c05757031df1350da636d16b7c93ce998cae01edff3ea199e030768b0a8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kokoomusedustaja Vestman esittää lakialoitetta metsän hakkuiden ympäristövaikutusten arvioinnin vaatimiseksi Muhoksella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-15T09:25:13Z",
@@ -1937,21 +1922,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T15:29:26Z",
-      "urls": [
-        {
-          "sign": "34f0a6fd43e70dd332365f02ea287f71da33250802d226b119573c6137ecd9ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sean Durrie on kerännyt miljoonan yleisön Remedyn Control Resonant -pelissä, kun taas hänen elokuvansa ovat jääneet vähäisiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-15T15:35:36Z",
@@ -10709,7 +10679,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T13:53:00+03:00",
+      "updated": "2026-10-18T18:51:00+03:00",
       "urls": [
         {
           "sign": "3491b8add63c6dae30160d377b9ca9232c71fcc7308ddff9057114f22e550669",
@@ -10718,8 +10688,8 @@
           ]
         }
       ],
-      "title": "Puolustusministeri David McGuinty: Räjähdys ja tulipalo Wainwrightin sotilastukikohdassa Albertassa aiheuttivat useisiin kuolonuhriin ja loukkaantumisiin lauantaina",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Ainakin seitsemän ihmistä kuoli tulipalossa Wainwrightin sotilastukikohdassa Albertassa lauantaina",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13412,6 +13382,38 @@
       ],
       "title": "Pekka Haavisto ja Antonio Flores vierailivat TTK-studiolla – Haavisto vitsaili ettei uskaltaisi tanssia parketilla",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T18:45:00+03:00",
+      "urls": [
+        {
+          "sign": "5e7916a5bb6df5c1a3940e0275df33533dc2fde0ea94d91e1a45537f6801823f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uskolliset asiakkaat maksavat sähkö- ja puhelinpalveluista korkeampia hintoja – yritysten tulisi palkita pitkäaikaisia suhteita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T15:46:36Z",
+      "urls": [
+        {
+          "sign": "b819e8cc90d916b3f065dfa5e6512c463e6da4751d7c12779e78a24d18b0c92a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Limoges’n kaupungintalo paloi levottomuuksissa – asukkaat surevat historiallista menetystä",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
