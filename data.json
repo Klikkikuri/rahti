@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T08:27:51Z",
+  "updated": "2026-10-18T08:42:06Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -838,23 +838,6 @@
       "title": "Vantaan uusi kirjasto avautuu Jumbossa entisessä Onnelan yökerhossa – painotus lapsiperheille ja monikieliselle kokoelmalle",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "487b8df8046e293a1bb4da3ef811c93f68fb8fb7ff9d9d2cfe8af9efe1c5ca06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5743,23 +5726,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T13:08:52Z",
-      "urls": [
-        {
-          "sign": "8c71271ebd966ffe9eab49bfeafd003c34b715993995f2a02b54fb45e26098e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Alexander Ståhlberg asui viisi vuotta saunassa ja pääsi hiihtomaajoukkueeseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-16T13:00:51Z",
       "urls": [
         {
@@ -5910,21 +5876,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T13:24:04Z",
-      "urls": [
-        {
-          "sign": "4d786ffb1df76dc7f232bf8a6f6c37aaef9fd967408e4c9f519b0bed7d710555",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lopetusvaarassa olevalta Seatilta lupaus: huollot jatkuvat 15 vuotta, vaikka merkki lakkautettaisiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T16:39:00+03:00",
@@ -12613,7 +12564,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T10:08:00+03:00",
+      "updated": "2026-10-18T11:31:00+03:00",
       "urls": [
         {
           "sign": "5e57c2ad4eb49db685a2df483f05786dba336114d8ef7240198c4bb0f62fa62d",
@@ -12622,7 +12573,7 @@
           ]
         }
       ],
-      "title": "Ukrainan laaja drooni-isku Pietariin ja Leningradin alueelle aiheutti tulipaloja, sähkökatkoja, lentoliikenteen rajoituksia sekä loukkantuneita",
+      "title": "Ukrainan drooni-isku Pietariin ja Leningradin alueelle aiheutti tulipaloja, sähkökatkoja, yhden kuoleman ja useita loukkaantumisia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13394,6 +13345,54 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T08:30:54Z",
+      "urls": [
+        {
+          "sign": "2a17b07d836dbc9eb3258b227f91c2dba4a475702aec2dfb044d8b6a6d727e87",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen Erikoisryhmä Kitzbühel -sarjan 19. kausi alkaa tänään – katsojat pitävät sarjaa lapsellisena ja typeränä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T08:42:06Z",
+      "urls": [
+        {
+          "sign": "d4420e2fc26854b3aa6db96bad1f16c3832c80b645ff873054c64f8065093bba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T11:41:00+03:00",
+      "urls": [
+        {
+          "sign": "84a1a451275969815c5183f3c442cd7a043549cc403c6e6ed8756d889509df60",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen tv-ohjelma mainitsi keskiviikkona Poriin tulevan räjähdetehtaan ja uhkaili Eurooppaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
