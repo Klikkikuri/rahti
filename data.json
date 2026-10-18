@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T20:00:00+03:00",
+  "updated": "2026-10-18T17:13:13Z",
   "entries": [
     {
       "updated": "2026-10-18T14:06:35Z",
@@ -1023,23 +1023,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T13:24:00+03:00",
-      "urls": [
-        {
-          "sign": "9e2ad89fb635570b684e0d2901636496d48bedbda579d23ee80c91c24328e791",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Payward ostaa suomalaisen Saldo Bankin – tavoitteena EU-alueen pankkitoimilupa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-15T13:32:00+03:00",
@@ -5644,21 +5627,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T20:36:50Z",
-      "urls": [
-        {
-          "sign": "55990d5fd9788dc1eee404074ce86668b8b56a356fd25713e5164b7dcc1a8353",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi epäilee robottiin liittyvää ahdistelua 16-vuotiaan tytön kohdalla pikaruokalan edessä Kölnissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-17T02:00:00+03:00",
       "urls": [
         {
@@ -5879,21 +5847,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-17T00:18:50Z",
-      "urls": [
-        {
-          "sign": "8d7c2ff4376401672f5cd9e4422ebf32a8c81ee9c2896ef7794863ef1076be50",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppisivu sisältää monenlaisia uutisaiheita",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T01:03:36Z",
@@ -10983,7 +10936,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T06:30:12Z",
+      "updated": "2026-10-18T17:04:00Z",
       "urls": [
         {
           "sign": "1eff1458c17b9727178f4d7dfed3af029248882ca36ade6abed203b31ebe889a",
@@ -10992,10 +10945,10 @@
           ]
         }
       ],
-      "title": "Räjähdys ja tulipalo Kanadan Wainwrightin sotilastukikohdassa Albertassa aiheuttivat useita kuolleita ja loukkaantuneita",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Neljä sotilasta kuoli ja kymmeniä loukkaantui tulipalossa Kanadan Wainwrightin tukikohdassa Albertassa",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -12329,7 +12282,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T13:46:36Z",
+      "updated": "2026-10-18T17:01:42Z",
       "urls": [
         {
           "sign": "0b1f08e18a5bf63bf1368522e611597a49cc7c9451ec635f13abe59967a78daa",
@@ -12338,11 +12291,10 @@
           ]
         }
       ],
-      "title": "Kanadan asevoimien liveammuksilla tehty harjoitus aiheutti räjähdyksen ja tulipalon Wainwrightin tukikohdassa Albertassa – useita kuollut ja kymmeniä loukkaantunut",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Liveammuksilla tehty harjoitus aiheutti räjähdyksen ja tulipalon Wainwrightin tukikohdassa Albertassa – useita kuollut ja kymmeniä loukkaantunut",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
+        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -13417,6 +13369,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-18T17:03:25Z",
+      "urls": [
+        {
+          "sign": "0b2c335fe74fc424f59e0f0b37481f9bf6dd99fb41a22a17eff630c2bc65b932",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ellinoora palasi Tanssii tähtien kanssa -ohjelmaan sairastelun jälkeen – Jorma Uotinen antoi kritiikkaa esityksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T20:12:00+03:00",
+      "urls": [
+        {
+          "sign": "70452e1504cdb75ad7947f07ed8832a49729e29a22296702c91f6bbabe6825fa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa aamun liukkaista teistä pakkasen vuoksi Helsingissä ja muualla Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-18T17:13:13Z",
+      "urls": [
+        {
+          "sign": "c7b9d7cdc8716c6dad4f43306b2064b74648b39ab053582706158bc9ae66bdb8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Forecan meteorologi Joonas Koskela varoittaa aamuliukkaudesta Keski- ja Etelä-Suomen teillä maanantaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
