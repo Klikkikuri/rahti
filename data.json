@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T08:13:15Z",
+  "updated": "2026-10-18T08:27:51Z",
   "entries": [
     {
       "updated": "2026-10-18T07:55:00Z",
@@ -5741,21 +5741,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T13:01:10Z",
-      "urls": [
-        {
-          "sign": "f7dd0bfacfebde809d472f1bc261fb741a1807ab645c6051e7a0f40c02b4a7b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Amin Asikainen korostaa, että Erikoisjoukot-ohjelmassa ei saa lyödä niskaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-16T13:08:52Z",
@@ -12771,7 +12756,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-18T06:20:05Z",
+      "updated": "2026-10-18T08:27:51Z",
       "urls": [
         {
           "sign": "fb0b654773dabf6703bc38dd9dadbdb4eda72bc6108b6c688001100049362acc",
@@ -12780,9 +12765,11 @@
           ]
         }
       ],
-      "title": "Liettuassa ja Latviassa annettu ilmahälytys on päättynyt – Kaunasin lentoasema suljettu ja Puola selvittää mahdollista ilmatilaloukkausta",
+      "title": "Liettuan pääministeri Mindaugas Sinkevičius epäilee droonin pudotusta Liettuassa mahdolliseksi sabotaasiksi",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13386,6 +13373,25 @@
       ],
       "title": "Kaksi vesivuotoa Silja Symphony -laivassa kastivat Kasperin hyttiä ja pimensivät valot",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-18T08:17:38Z",
+      "urls": [
+        {
+          "sign": "0d5ea51bfef7dc8deee31e7eb0f4dad6dbf50db309aa24b3e30cc6c7748d1201",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "9f1616a67aa8144855fbf23f8846bd9927879da6b464279f0a6a278bce575542",
+          "labels": []
+        }
+      ],
+      "title": "Cupan Raval -sähköauto keräsi 51 000 tilausta – kysyntä kaksinkertaisti tehtaan odotukset",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
