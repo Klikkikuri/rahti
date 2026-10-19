@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T10:57:52Z",
+  "updated": "2026-10-19T11:14:34Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -689,7 +689,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-18T11:17:24Z",
+      "updated": "2026-10-19T11:06:17Z",
       "urls": [
         {
           "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
@@ -698,7 +698,7 @@
           ]
         }
       ],
-      "title": "Iltalehden palvelu näyttää pörssisähkön hinnat 48 tunnin ajalta ja päivittyy iltapäivisin",
+      "title": "Iltalehden palvelu näyttää pörssisähkön 48 tunnin hintatiedot ja päivittyy iltapäivisin",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -766,36 +766,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-15T15:49:25Z",
-      "urls": [
-        {
-          "sign": "07f364febd530f732fba6e22386456e613853ad64b16196a51a84a6fab3bb5fd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valkoisen talon lehdistösihteeri Katie Zachariaa epäillään laittomasta lakitoiminnasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T16:14:04Z",
-      "urls": [
-        {
-          "sign": "b463e8b44e8406bd846ee291120848d3bfd4a946f7c822225914a5a4a91a9f9b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Remedyn Control Resonant myi yli miljoona kappaletta – nopeiten myyty peli yhtiön historiassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T16:25:00Z",
@@ -1010,21 +980,6 @@
       ],
       "title": "Kolme lasta ja yksi aikuinen kuoli Oregonin alakoulun ammuskelussa – ampuja myös kuollut",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T21:45:00+03:00",
-      "urls": [
-        {
-          "sign": "13b4f14033968a5946c1e842096d34fe1701e90550dc4178219516244f98ee83",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Euroopan lukiolaisprotestit leviävät, suomalaiset opiskelijat eivät suunnittele omia mielenosoituksia",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -2119,23 +2074,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-16T11:30:00Z",
-      "urls": [
-        {
-          "sign": "d0073d11ac617c733381da53ffda08f0dfadca3af97f641a50d618d7d3172628",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jenni Poikelus valittiin uudeksi Big Brother Suomi -juontajaksi – sosiaalisessa mediassa reaktio pääosin positiivinen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-16T11:34:50Z",
       "urls": [
         {
@@ -2149,23 +2087,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T11:47:56Z",
-      "urls": [
-        {
-          "sign": "ad3e0f2e99cc6d37f78c27232a3139dd91f0e03767040b694b408a5bd0eac83b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallituksen polttoaineratkaisut keventävät ajoneuvoveroa 18 eurolla vuodessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-19T08:20:05Z",
@@ -2230,23 +2151,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T12:15:49Z",
-      "urls": [
-        {
-          "sign": "996ba2a379cdf0985e60b13931ca8c2f5f3076bbe4ecf05cc21d12e78d691ff9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV:n Pöllöraati antoi hallituksen polttoainepaketille arvosanan viisi – perussuomalaiset saivat neljä ja puoli",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T12:28:13Z",
@@ -6043,23 +5947,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-17T17:33:49Z",
-      "urls": [
-        {
-          "sign": "96c46d2146fd38a63bb105132b0ee848f06bf8125cb720bab2db29e7d0a9d05d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kommentti: Asunnottomuus Suomessa kasvoi 20 prosenttia – hyvinvointivaltion turvaverkot eivät riitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T17:53:38Z",
@@ -13407,6 +13294,117 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T11:08:05Z",
+      "urls": [
+        {
+          "sign": "cecc72df62b16b132d5086fac75129b2ddf2ceeae6417a72bca2a1161201df8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henrik Landerholm sai hovioikeudessa 80 päiväsakkoa salaisista asiakirjoista lukitsemattomassa kaapissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T11:01:00Z",
+      "urls": [
+        {
+          "sign": "cd945e8545f4cb32810805d24b3144bfd2fb440609bac162d736dc9cb7f653c3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Joni \"Stagala\" Takala käytti OnlyFansia rahoittaakseen kohujulkisuuttaan ja tienasi kotivideolla",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T11:14:34Z",
+      "urls": [
+        {
+          "sign": "5c2804b9ba64f0fc72728986e14458d0aea1021b5b08b0b435337d215415be3b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kymmeniä yhteydenottoja haisevista squishy-leluista – Tukes neuvoo tuulettamaan lelun ennen käyttöä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T11:02:32Z",
+      "urls": [
+        {
+          "sign": "99e33b3aef2fa4b67b7774a0b14c24d8621808dfaa706ad7bddaed43d7a6521a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan pääministeri Sébastien Lecornu aikoo määrätä osittaisia ulkonaliikkumiskieltoja mellakoiden hillitsemiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T14:09:00+03:00",
+      "urls": [
+        {
+          "sign": "e86afa5f75a7ad95b800c79aa9692c331579736d534df730ecebfb8cf7611924",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T11:04:41Z",
+      "urls": [
+        {
+          "sign": "e25a7401e850237bb1122b4155ece7634959933a1f759626602b0e40a2f92bcf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Saltvikin kirjasto sai takaisin 92 vuotta myöhässä palautetun kirjan – sukulaiset välttivät 6 757 euron myöhästymismaksun",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T11:04:16Z",
+      "urls": [
+        {
+          "sign": "2a5d9d01945077fafa84e372120bccc489de6f76664f429391aa8369910570e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finland to buy one million anti‑personnel mines from domestic makers by 2028",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
