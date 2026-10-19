@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T13:29:42Z",
+  "updated": "2026-10-19T13:42:53Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -802,21 +802,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "60f1a08850aa5d4868992dc64b24ef19b90b6e4f88fde765bc98c89f55601b0e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pankkiryöstö Alppilassa ja Nobelin rauhanpalkinnon jääminen jakamatta leimasivat 16.10.1976",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-16T13:00:00+03:00",
       "urls": [
         {
@@ -862,21 +847,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T04:10:37Z",
-      "urls": [
-        {
-          "sign": "fa6fe619699989d75091ab9d20b176a80fa4ee89efcb9464240945368a3c1ef1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korjaustyöntekijät löysivät reiän Suomen Joutsenen pohjasta Naantalissa – alus palaa Turun Aurajokeen perjantaina iltapäivällä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T07:00:00+03:00",
@@ -2149,21 +2119,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T14:25:12Z",
-      "urls": [
-        {
-          "sign": "afdbfe52f5d043ac8e9056cd98074448b9f9ebc85f01b5ea2d35b89637863780",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen pikajuoksija Beth Dobbin viettää yli 22 tuntia päivässä vuoteessa ME‑sairauden vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T14:26:50Z",
@@ -13403,6 +13358,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T16:33:00+03:00",
+      "urls": [
+        {
+          "sign": "b5f2284f18996d98705cc369690581196508213254996bf72fafee30cece44a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pentti Mutikainen, suomalaisen iskelmän ja jazzin luottobasisti, kuoli 88‑vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T13:42:53Z",
+      "urls": [
+        {
+          "sign": "e99447090387b5fbfa05760d3a2328c91b12d2811cc432ab7314a668df29a68d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mainonnan eettinen neuvosto antoi Kouvolan Lakrisille huomautuksen terveysriskejä vähättelevästä mainoksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T13:37:00Z",
+      "urls": [
+        {
+          "sign": "07433c3bf28a356d21fd3434e64fce53c90021ebb8d6488f4c51d6a990713699",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Makeanhimo iltapäivisin voi johtua tavasta, stressistä, univajeesta tai pitkistä ateriaväleistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
