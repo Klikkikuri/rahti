@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T13:42:53Z",
+  "updated": "2026-10-19T17:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -785,23 +785,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "06ac34888097e8ced3e39015fb9b91e9f9903256b9f8e285a9ffb2861c622e6e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-16T13:00:00+03:00",
       "urls": [
         {
@@ -864,36 +847,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T04:34:39Z",
-      "urls": [
-        {
-          "sign": "44b8bbad44f639edcad83bca1e1929caa285b04634380f27b8e8283961088b67",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sevettijärven koululaiset ja kyläläiset harjoittelevat perinteistä nuottausta yhdessä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T04:38:35Z",
-      "urls": [
-        {
-          "sign": "ffb1410ee841107f428bea5f310e1e5d72c1d1fed8c927c451407f28379b2179",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat rajoitti Ukrainan Starshield-satelliittijärjestelmän käyttöä, lähteiden mukaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T07:46:00+03:00",
@@ -2134,23 +2087,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T14:32:00Z",
-      "urls": [
-        {
-          "sign": "3a7f993ece27d44a04ae121a174a382470ca1b280b7d393cbc04e369231038bb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kia Lehmuskoski kertoo keskenmenokokemuksestaan ja uskomuksestaan tulevaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T14:39:07Z",
@@ -5502,24 +5438,6 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-17T20:44:27Z",
-      "urls": [
-        {
-          "sign": "29622c5997a50d43df614deec73251501727b0eaa3df8f6a174880c190a1d7ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T21:08:13Z",
@@ -12038,7 +11956,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-19T15:56:00+03:00",
+      "updated": "2026-10-19T16:47:00+03:00",
       "urls": [
         {
           "sign": "46cd7042e49f1b934b5d9f3df5ccfc4e028cea1577b1fe9e07104feebe3daefe",
@@ -12047,7 +11965,7 @@
           ]
         }
       ],
-      "title": "Viikonlopun tulvat Itä-Espanjassa vaatineet ainakin kolme kuolonuhria",
+      "title": "Itä-Espanjan tulvat ovat vaatineet ainakin neljä kuolonuhria",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13405,6 +13323,87 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T17:00:00+03:00",
+      "urls": [
+        {
+          "sign": "3e79572f93b43bdb96df4fc991b560b6db369e663a233eb74fbe885a5bf776a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T13:46:29Z",
+      "urls": [
+        {
+          "sign": "7d9a8c66832d108fbfc792ce92b2b0dcb68e1006e1ddf7332f9324b7f9cb4884",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jokerien kannattajat toivat salaa Z-symbolit Nokia-areenan lauantaiotteluun – Ilves pyysi luopumaan, kannattajat kieltäytyivät",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T13:51:28Z",
+      "urls": [
+        {
+          "sign": "96f0dc6bf7a86e9411936af7632cf17bcaa40d49c0668c25a145a6ad44d612f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin apulaispormestarit haluavat neuvotella työllisyydestä, kouluruokailusta ja kirjastojen sunnuntaiaukioloista Sazonovin budjettiesityksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T13:51:35Z",
+      "urls": [
+        {
+          "sign": "57e2fbd2917b9ca9ab361cc22d167f16e8ec23e78de08e5a0af0482ae3598adf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkija Timo Miettinen arvioi, että Ranskan laajat mielenosoitukset eivät todennäköisesti leviä Suomeen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T13:58:02Z",
+      "urls": [
+        {
+          "sign": "0cb4973435cb8a57d7702c17a4e4b1954cec4e2ed134af59e450f817cd155418",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän Ahvenanmaan-konsuli Aleksandr Rogov vahvisti vaihtuvansa – uusi konsuli odotetaan ennen joulua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
