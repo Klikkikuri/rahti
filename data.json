@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T14:48:18Z",
+  "updated": "2026-10-19T19:02:00+03:00",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -802,21 +802,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T09:00:00+03:00",
-      "urls": [
-        {
-          "sign": "452f085940a5b39061665508e5cdeddb0bc79dd62e3303af6db4f6b24a92a910",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvallat käski rajoittaa Ukrainan Starshield‑satelliittijärjestelmän käyttöä droonisodassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-16T09:10:00+03:00",
       "urls": [
         {
@@ -862,23 +847,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-16T08:00:00+03:00",
-      "urls": [
-        {
-          "sign": "fbf714a764692be816864601bb1e2795e3e57698cec8beb040ecd464f6563b5c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-16T06:01:28Z",
       "urls": [
         {
@@ -892,21 +860,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T09:06:00+03:00",
-      "urls": [
-        {
-          "sign": "0791b5d882ab3fbbbb58b3eb07a975ad5edb53308c25f0aee341142530c62708",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Brysselin oikeuspalatsin rakennustelineet purettiin – julkisivu näkyi ensi kertaa yli 40 vuoteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-16T10:00:00+03:00",
@@ -13396,6 +13349,57 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T19:02:00+03:00",
+      "urls": [
+        {
+          "sign": "48016465dd9f7a68a1d2196ae2fa5d550480dc9036c6f2f80dafee3b903a8dc4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T18:00:00+03:00",
+      "urls": [
+        {
+          "sign": "84b347abb988cbb33e57361739645df26db301caa750ce7e3832e82c40fdc7f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T19:00:00+03:00",
+      "urls": [
+        {
+          "sign": "8a2e9fbdc0829ab3ec0f56517f9ed8da9536162ea70378ed737c80ed8b097bbf",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
