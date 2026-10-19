@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T04:30:03Z",
+  "updated": "2026-10-19T04:45:00Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -2027,23 +2027,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-16T05:31:38Z",
-      "urls": [
-        {
-          "sign": "e3e27ef418d3b28cf9da1bf364668715d871e706725f11985b5a095a13b0974d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusvoimat asetti tilapäiset ilma- ja merialuerajoitukset itäisellä Suomenlahdella perjantaiaamuna varotoimenpiteenä mahdollisten lennokkien torjuntaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-16T04:10:37Z",
       "urls": [
         {
@@ -2228,23 +2211,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T06:00:16Z",
-      "urls": [
-        {
-          "sign": "02458179918c5b4216f649a8059a02a348762e19ac9bd34154c472a51db60438",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Gianni Infantino pyysi anteeksi mutta väisti kysymykset – Fifa vaatii myyntisuunnitelman julkistamista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T06:01:28Z",
@@ -5828,23 +5794,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-17T08:37:50Z",
-      "urls": [
-        {
-          "sign": "b798a40330f6b616ef76175816d9f56cf12e9fe70af8e347dcc832baab4fb9ed",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija vaatii Viroon ydinvoimaa Googlen Suomen investoinnin jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T08:38:18Z",
@@ -13407,6 +13356,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T04:45:00Z",
+      "urls": [
+        {
+          "sign": "ed25d4b8e826e7657cad13aa0073e857d48b5d157a4f2299c834d35e64544846",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Abdul El-Sayed kilpailee Michiganin senaattipaikasta – Trumpin 90 dollarin shekit ja Obaman tuki taustalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T04:30:21Z",
+      "urls": [
+        {
+          "sign": "5db4d55aee87d9aa7a99fe20552bf306a41fb49ad50dd2c13b854bd0864cf0f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viivi Karjalainen, 21, julkaisi Tiktokissa videon kolmituntisesta aamurutiinistään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T04:31:00Z",
+      "urls": [
+        {
+          "sign": "94b82d361549056fa9533c47d3d25e45bf4b0d6d9af7b1b92135e387ee512fde",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Isometrinen harjoittelu kerran viikossa voi ylläpitää verenpaineen laskua, tutkimus osoittaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
