@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T09:14:00+03:00",
+  "updated": "2026-10-19T06:28:57Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -5870,23 +5870,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T10:32:17Z",
-      "urls": [
-        {
-          "sign": "dbc599b0c16bce2fb6e298f59b30edbbf69519700baf57523cd36a730f3c24c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-17T10:40:18Z",
       "urls": [
         {
@@ -5948,38 +5931,6 @@
       "title": "Venla Lehtonen sijoittui kymmenenneksi Münchenin rulla-ampumahiihdon supersprintin finaalissa, Suvi Minkkinen jäi karsintaan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-17T10:43:24Z",
-      "urls": [
-        {
-          "sign": "81867356f5394a4b8e6605777daab862e5868388ef92a16a81016c4374cb66b7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iskelmätähti Jarmo Tuominen yritti auttaa lasta Espanjassa, sai syytteen raiskausyrityksestä, vapautettiin myöhemmin ja kuoli sairauskohtaukseen 1998",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-17T10:41:07Z",
-      "urls": [
-        {
-          "sign": "aa1891739679e9e8973e0c30f4f9928184c29e61b65b5df857354967b504b0fe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Naapurit kuulivat yöllistä huutoa epäillyllä surma-asunnolla Tampereella – poliisi epäilee henkirikosta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13404,6 +13355,51 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T06:19:32Z",
+      "urls": [
+        {
+          "sign": "612e14311f78995e29dfba3f235486309034d0acd84d070049188272262e7897",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mia \"Millu\" Haataja siirtyy Radio Suomipopille juontamaan iltapäivälähetystä Joonas Vuorelan kanssa, lähetykset alkavat marraskuussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T06:22:20Z",
+      "urls": [
+        {
+          "sign": "612e8ba1f268267514808db55b6c803f10a9cc4df80183a6c31a5c9fe75e92e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskusta vaatii datakeskuksia tuomaan omaa sähköä – laskua ei jätetä suomalaisille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T06:28:57Z",
+      "urls": [
+        {
+          "sign": "9d6e4d9ef5aa86c666b2a100644503be8a4679b62f6479330d4e6de90a55d4f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syysväsymyksen oireet alkavat lokakuussa – jopa 90 prosenttia suomalaisista kokee väsymystä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
