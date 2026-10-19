@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T05:42:33Z",
+  "updated": "2026-10-19T06:00:20Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -813,38 +813,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T11:06:10Z",
-      "urls": [
-        {
-          "sign": "7b6158726adca04ab842c80890dc02022c3c3a3d0b909a667f50f2fb564d5274",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vantaa irtisanoo 122 työntekijää ja tarjoaa 81:lle uutta tehtävää",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T11:13:05Z",
-      "urls": [
-        {
-          "sign": "47399acd2293ea8445b0158488537ee9ae3b8846ed349c1be20f7f19431151c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tarkastusvaliokunta ehdottaa opettajarekisteriä ja kansallisten kokeiden pilotointia oppimistulosten parantamiseksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T11:25:59Z",
@@ -5849,36 +5817,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-17T09:58:40Z",
-      "urls": [
-        {
-          "sign": "8db708624ace94944866a568032f16263178d7ce035d6bba817e4c51609f653f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tapparan vaisu kauden aloitus herättää kritiikkiä Kari Jalosta kohtaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-17T10:11:52Z",
-      "urls": [
-        {
-          "sign": "4e8705f55e1171387b8989e5371415c66f8a52041eb7a0d094ec39d30bc769f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Edustaja kertoo Selma Blairin lentoemäntää purkanneen välikohtauksen johtuneen lääketieteellisestä hätätilanteesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T10:03:36Z",
@@ -13400,6 +13338,68 @@
       "title": "Kirja: Jasmine Harkimo kertoo Hjallis Harkimon valehdelleen ikänsä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T06:00:20Z",
+      "urls": [
+        {
+          "sign": "69d86162d5038ac1cc5bfcac86fa9700e2cf2ffd18ef42215128e6401e93b9a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Macron hylkäsi sisäministeri Laurent Nuñezin eropyynnön lauantain väkivaltaisten mielenosoitusten jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T05:49:14Z",
+      "urls": [
+        {
+          "sign": "c2556d304abd7d60972c7e424db857e878e40531dda5805600f05c102a5edae8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Obama kutsuu Ilhan Omarin tutkintaa järkyttäväksi ja poliittiseksi pelotteluksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T05:59:10Z",
+      "urls": [
+        {
+          "sign": "643ada84b932f1927e543240c93e1b2b8d396d729fa1381999d04581ebdfe57e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimien entinen komentaja Timo Kivinen sai ovelleen tuntemattoman paketin joulukuussa 2021",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T05:57:28Z",
+      "urls": [
+        {
+          "sign": "57a8368b4ba5adb95c259c37254afad9fe13300bf0149020846b96cb8d4199c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valkoisen talon lehdistösihteeri Katie Zacharia sai potkut viiden päivän jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
