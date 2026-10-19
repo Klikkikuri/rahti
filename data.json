@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T03:45:46Z",
+  "updated": "2026-10-19T04:10:44Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -877,23 +877,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-15T10:49:21Z",
-      "urls": [
-        {
-          "sign": "32852a7ea7e7026d1a23592da5ea52b401a598fa007e4cc2fa54be3f94309304",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeriö vahvistaa FI-Alert-järjestelmän: vaaratiedotteet lähetetään suoraan matkapuhelimiin marraskuusta alkaen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-15T11:25:59Z",
       "urls": [
         {
@@ -1142,23 +1125,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T16:45:00+03:00",
-      "urls": [
-        {
-          "sign": "07e5a2f1977aa3b0cc292498384abe7df550fa54f3a8ffc178356e733189b7d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide: Oikeusturva naisvihan uhreille edellyttää viranomaisten luottamusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-15T17:00:00+03:00",
@@ -13409,6 +13375,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T07:00:00+03:00",
+      "urls": [
+        {
+          "sign": "31d476f8bec37eb242d7e8d19595721e760ac7d0c7da205d7d99953da85a37d7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin pörssiin listautui tänä vuonna seitsemän uutta yhtiötä – määrä lähestyy normaalia 10–15 vuodessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T04:10:44Z",
+      "urls": [
+        {
+          "sign": "f01b2089f89599f9755d5209cc5920f1bc7590f731fe92cfe1c5a48da7c3a01b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainalainen komediasarja ATP Carriers seuraa rekka-autonkuljettajien työtä ilmaiskujen keskellä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
