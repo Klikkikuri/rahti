@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T14:42:47Z",
+  "updated": "2026-10-19T14:48:18Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -860,21 +860,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-16T05:38:14Z",
-      "urls": [
-        {
-          "sign": "3b3a05f7ae272880b27d8b8acf532cdd442f44c5edc6d6b393bd027cdf6dfe06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Googleen liittyvät hakkuut Muhoksella voivat johtaa puun käyttökieltoon",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T08:00:00+03:00",
@@ -2194,21 +2179,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T15:48:25Z",
-      "urls": [
-        {
-          "sign": "55ea9040400d1d7b83d1e17f5651063c30d67a61dd9970b8621d9b2803819157",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dale Murphy ja poika Taylor vaativat MLB:n poistamaan seksuaalisia mainoksia pudotuspeleistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T12:14:31Z",
@@ -5854,23 +5824,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-18T04:16:33Z",
-      "urls": [
-        {
-          "sign": "8bbdff81bb9db3058bb4e6e59ff9dee893a78219481ea34138d85eb2f3f82a46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13398,6 +13351,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T14:48:18Z",
+      "urls": [
+        {
+          "sign": "7dfbd80c91cc486ca91846f38b97a449425738b57790e3c7bbc8cb55caaeacca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liam Smithiä syytetään törkeästä pahoinpitelystä – valvontakamerat tallensivät hänen lyövän maassa makaavaa miestä päähän",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T14:35:02Z",
+      "urls": [
+        {
+          "sign": "f52347e5f2f0284451ae851ae61f1b6f03bdcfaeb3719c7bee4cdaf0d63c69a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ulkomaiset mediat kiinnostuivat Ylen Pentulivestä ja kutsuvat sitä 'Koirien Big Brotheriksi'",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T14:46:46Z",
+      "urls": [
+        {
+          "sign": "b797b10f352ff70c133cb02287831a12cda01848c06073792e605a7f07a5d56c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kajaanin Kauhaveden vesiliukumäen LED-valot rikkoutuivat heti avauksen jälkeen – liukumäki kuitenkin edelleen käytössä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
