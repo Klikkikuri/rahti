@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T05:15:12Z",
+  "updated": "2026-10-19T05:30:04Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -813,36 +813,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T10:49:33Z",
-      "urls": [
-        {
-          "sign": "f630de3fc3fe1a0dc55fd9878e15c5647475298b9931409b12969876866be970",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus tuomitsi kontiolahdella poliisimoottoripyörään törmänneen miehen yli 9 kuukauden ehdolliseen vankeuteen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T10:57:15Z",
-      "urls": [
-        {
-          "sign": "21a2abaeea7cc057719f098f54b910092f15b8bda5b57f522f2a24298d66f0f4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi etsii Sellon leluosastolla olleita lapsia miehen sukuelinten paljastelutapauksessa Espoossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T11:06:10Z",
@@ -5896,21 +5866,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-17T09:52:06Z",
-      "urls": [
-        {
-          "sign": "e513a8378a3de4733186b95ab82d44cba289933afecf9e56c58a88bf10b9ee27",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lapland Staff sai yli 9200 talvityöhakemusta, tontturooleihin yli 1700 hakemusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T09:58:40Z",
@@ -13401,6 +13356,51 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T05:21:03Z",
+      "urls": [
+        {
+          "sign": "ac30a431854aa32b7734c12e2f302154f16e2c67e06ecc6e1312dc411f3a22c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liikenteen sähköistyminen hidastuu raskaan liikenteen latausverkon puutteen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T05:30:04Z",
+      "urls": [
+        {
+          "sign": "3f88e2cff12309b1e1c0ce0f0e62b2752b9bb91d4b8340b329e696958446bb56",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin hovioikeus määräsi 40 000 euron hinnanalennuksen kauniaislaiselle perheelle talon viemäriongelmien ja piilokaatopaikan vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T05:26:14Z",
+      "urls": [
+        {
+          "sign": "64f7b06588cb6cb3a4afd6367c37f34f5f41cc2968c306c878e88ff1b0544474",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Investigation finds two Finns supply Russia with €30 million of missile components",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
