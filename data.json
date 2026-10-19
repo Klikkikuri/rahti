@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T09:11:27Z",
+  "updated": "2026-10-19T09:22:12Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -796,36 +796,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-15T13:24:01Z",
-      "urls": [
-        {
-          "sign": "d91326dbd4874652cd3581e85069767a0a511e18c5c9a934b24b099216df1ae8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kotimaisen kysynnän heikentyminen ajoi Besignin ja Kiteen tekstiilitehtaan konkurssiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T13:43:59Z",
-      "urls": [
-        {
-          "sign": "cb49dc8c865bf9ef18e82afbea7dcb2d0f12369e521f10cac9ea9d6edf27dd8b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyväskylän yöpäivystyksessä odotusajat lyhyimmät, Turussa pisimmät – sairaalat selittävät Ylen vertailun alueellisia eroja",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T13:57:08Z",
@@ -2141,23 +2111,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T09:43:32Z",
-      "urls": [
-        {
-          "sign": "219ef9f05bd49a0b54e8fef60ee4fa0fb9d8de11827ab8c8c62f47210473e034",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Floor Jansen jättää Nightwishin – yhtye ilmoitti päätöksestä torstaina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T10:14:00Z",
@@ -13405,6 +13358,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T09:09:37Z",
+      "urls": [
+        {
+          "sign": "00c7d74d359091a87cbb25573d84277766302e00753db30f2d78aa274766e193",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin pormestari Daniel Sazonov esittää lisärahoitusta kouluille ja terveydenhuoltoon sekä pitää HSL‑lippujen hinnat ennallaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T09:15:13Z",
+      "urls": [
+        {
+          "sign": "69b7dc0307bc6266ed8725523342a6ac8b76b8b004fe5530df5f84cf312a3f51",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi sai valmiiksi esitutkinnan Tampereen sarjavalittajasta – miestä epäillään kiristyksen yrityksestä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T09:22:12Z",
+      "urls": [
+        {
+          "sign": "1c6185f3276fa05fb5f218a9ea508ba0450c87a48c85cb506ba9112581de1c7c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liigaviikko vaatii SM-liigaa puuttumaan Venäjä-symboliikkaan katsomoissa järeämmillä toimilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
