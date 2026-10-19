@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-18T23:59:50Z",
+  "updated": "2026-10-19T00:07:33Z",
   "entries": [
     {
       "updated": "2026-10-18T21:50:57Z",
@@ -5779,21 +5779,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-17T06:09:29Z",
-      "urls": [
-        {
-          "sign": "8682bb6f8f9246b518fa9f34c2712b45a75cebef110e9d3734ded86078788fba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "JYP tiedotti Heikki Parkkisen ja Heikki Kekäläisen kuolemasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-17T06:23:45Z",
       "urls": [
         {
@@ -9412,7 +9397,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-18T23:59:50Z",
+      "updated": "2026-10-19T00:06:11Z",
       "urls": [
         {
           "sign": "17eff302085f873ab2178b52a21dd54c98c2e1b195ea8d995215443c623456c6",
@@ -9421,8 +9406,8 @@
           ]
         }
       ],
-      "title": "Neljä kuollut, lähes 40 loukkaantunut CFB Wainwrightin tulipalossa Albertassa – pääministeri Carney kutsuu tragediaa yhdeksi pahimmista rauhanajan onnettomuuksista",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Tulipalo vaati useita kuolonuhreja ja loukkaasi lähes 40 ihmistä Kanadan CFB Wainwrightin tukikohdassa Albertassa – syy vielä epäselvä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13427,6 +13412,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T00:07:33Z",
+      "urls": [
+        {
+          "sign": "20ad9258db5f0b80742a620ab7b7f98c475d45f3b3005acdf36fca6998658fd8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi antaa ohjeita jokaiselle merkille ja poimii päivän kiinnostavimmat uutiset",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
