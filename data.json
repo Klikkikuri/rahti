@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T03:28:23Z",
+  "updated": "2026-10-19T03:45:46Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -988,21 +988,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T16:28:00+03:00",
-      "urls": [
-        {
-          "sign": "f87a278d45446f00788491611c0b4a61f381689d3b2856ecd31a972fda3466a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus sopi 60 miljoonan euron polttoaintukipaketista – tukea kuljetus- ja maa- ja metsätalousalalle, ajoneuvoveron alennusta ja työmatkakuluvähennyksen korotusta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-15T12:24:05Z",
       "urls": [
         {
@@ -1127,21 +1112,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-15T16:33:00+03:00",
-      "urls": [
-        {
-          "sign": "d966d44a4ea2782c6dd22abf43a2849694762e4a1b00779ede63c13cc5bf27d9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Istanbulin tulvat ovat vaatineet ainakin kaksi uhria – ennätykselliset sateet jatkuvat",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-15T13:43:59Z",
@@ -5708,51 +5678,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-17T07:26:47Z",
-      "urls": [
-        {
-          "sign": "db11fddeb2b45e6fd036b081a0163b80a075794fecda5f1843fdd11b18236657",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NHL-linjatuhomari Ryan Daisy loukkaantui, kun Buffalo Sabresin hyökkääjä Jiri Kulich kaatui hänen jalalleen tiistain ottelussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-17T07:27:46Z",
-      "urls": [
-        {
-          "sign": "709b561aa46978e4d7594a85f2f48976ee774d1ccd3926be34d8fe76f665fd1a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lauri Salovaara sai melanoomadiagnoosin – useita leikkauksia tehty ja uusia odotetaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-17T07:29:33Z",
-      "urls": [
-        {
-          "sign": "866aff5e13d4269cf35a155a6988ee8ac3c731e3f6b6bbab4d126d828e8e1c75",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Artikkeli listaa närästystä aiheuttavia arkisia ruokia ja juomia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T07:45:01Z",
@@ -13405,6 +13330,85 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "4b7ff001ec274be6776ba9adf0595085373df364534d003996cc28d49841f39c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T03:32:28Z",
+      "urls": [
+        {
+          "sign": "d9e58c78a077ea339480015716a0f4dbbca7eb85a048c079a50bea23bfa7ea10",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Calgary Flames kukisti Carolina Hurricanesin 3–2 ja katkaisi seitsemän ottelun voittoputken",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T03:45:46Z",
+      "urls": [
+        {
+          "sign": "c544cf27e42b34c98cbc3d5e115d29095b51f70d8f11c17659f5744eb53ff2bb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: noin 20 hautaa vahingoittui ilkivallassa Pattijoen vanhalla hautausmaalla sunnuntaina",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T06:01:00+03:00",
+      "urls": [
+        {
+          "sign": "f69c94b89a80bbdfa94e83af234361039a1df3df1e7b5a8202689b7af7c26a92",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa liukkaista teistä lähes koko Suomessa maanantaiaamuna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T03:42:35Z",
+      "urls": [
+        {
+          "sign": "2254ca4bbb9c15e7299be3b39d3b49f949272669c29ab29106418f4a8ed0d484",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arno kertoo Maajussille morsian -ohjelmassa, ettei ole puhunut lapsilleen yli kahdeksaan vuoteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
