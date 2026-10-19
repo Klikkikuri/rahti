@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T08:41:51Z",
+  "updated": "2026-10-19T08:56:35Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -781,23 +781,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-15T18:53:00+03:00",
-      "urls": [
-        {
-          "sign": "75fdb46ab3607015ee83f07a32939fcabd6b42bac38e94efc3d3b8aea5361e9d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-15T12:34:57Z",
       "urls": [
         {
@@ -1132,23 +1115,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T18:45:00+03:00",
-      "urls": [
-        {
-          "sign": "f0b971965dfb0a7b94f5757afa18d6737b2f4fb546ddae01b948741dc404a8c7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lasten osaaminen ja hyvinvointi avain Suomen tulevaisuuteen – siirrytään huolipuheesta toivon johtamiseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -2096,38 +2062,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T09:10:15Z",
-      "urls": [
-        {
-          "sign": "ea7ccd8a6020e058603f0b00bfbcc1987816fb0a1ec45d0f2a1d6669975fc1d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Orpo arvostelee Trumpin Venäjä-myötäistä toimintaa: \"Ei mitään logiikkaa\"",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T09:13:31Z",
-      "urls": [
-        {
-          "sign": "f63b1234d6ecf7c032bc6df0a2ce109f82b23ac176f372ff2f3c8e5e01dbbe72",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aatu Räty kaupattiin Vancouverista Torontoon – asiantuntija pitää häntä sopivana pudotuspeleihin tähtäävään joukkueeseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-16T09:16:46Z",
@@ -5988,38 +5922,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-17T14:06:21Z",
-      "urls": [
-        {
-          "sign": "1ca99345003623f93e320531e5db5ff0b68e190587f6e81b0c85ebafaad76d00",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Volkswagen tuo markkinoille ID. Tiguan -sähkökatumaasturin – saatavilla Suomessa alkuvuodesta 2027",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-17T14:14:06Z",
-      "urls": [
-        {
-          "sign": "e0502a5a652fdc2e39875669950347e595c0f50f6fbd2e167531af7a7b94fd99",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vesi vuoti matkustajan hytissä Tallink Silja Symphony -laivalla lauantaiaamuna",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T14:08:34Z",
@@ -13400,6 +13302,107 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T08:55:25Z",
+      "urls": [
+        {
+          "sign": "04c2b13e0d9dad4d760b3b817805f521b75979d92fbe4a9074a33e4ae2f97a2f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisihallitus asetti Magicporolle markkinointikiellon ja 1,2 miljoonan euron uhkasakon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T08:51:23Z",
+      "urls": [
+        {
+          "sign": "88517863a3521a2b21e51ea0ec5b8d44aa468d9ad161baa2046ff874049b2209",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yksi kuoli ja kolme loukkaantui vakavasti Orimattilan Niemenkylän liikenneonnettomuudessa – poliisi tutkii törkeitä rikoksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T08:43:36Z",
+      "urls": [
+        {
+          "sign": "ba99f57877774240a72bdc3a38200da028c69dd991f7ca3b34c8ff53197acdac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilöauto suistui tieltä Orimattilan Nelostiellä sunnuntaiaamuna – yksi kuoli ja kolme loukkaantui vakavasti",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T11:45:00+03:00",
+      "urls": [
+        {
+          "sign": "d3cd16c1b5c825537b43647d4cbc070c49d4fbd75af0afabf9d056e0ae3314c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WWF:n mukaan valtion luontoa ja ilmastoa vahingoittavat tukiaiset ylittävät luonnonsuojelumenot moninkertaisesti",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-19T08:56:35Z",
+      "urls": [
+        {
+          "sign": "6fbb9ef2bed61013ef0abd12e10bb959a73062ead5fc0d5ef29bb9de23f73180",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Juhamatti Aaltonen tavoittelee valmentajan uraa ja haaveilee päävalmentajan pestistä SM-liigassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T11:53:00+03:00",
+      "urls": [
+        {
+          "sign": "39157b41f8faae73dbe5969fcad5f6f573f24a0be70840391f588b2dcc515017",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi pyytää vihjeitä Orimattilan ulosajosta, jossa yksi kuoli, kolme loukkaantui vakavasti",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
