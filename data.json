@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-19T02:25:32Z",
+  "updated": "2026-10-19T02:34:22Z",
   "entries": [
     {
       "updated": "2026-10-19T02:16:03Z",
@@ -828,23 +828,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-15T10:44:29Z",
-      "urls": [
-        {
-          "sign": "1d0045d9bfb950cb4244a3c275c5be5451d7eed9cfdd2fb9983fae11f5a61fcc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi: Vakava kolmen ajoneuvon onnettomuus sulki Ysitien Urjalassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-15T10:49:33Z",
@@ -2089,36 +2072,6 @@
       ],
       "title": "Ulkoministeriö peri takaisin 1,29 miljoonaa euroa kehitysyhteistyörahoja 2020–2025 – 97 prosenttia varoista saatu takaisin",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T03:26:38Z",
-      "urls": [
-        {
-          "sign": "0c85c6bfda7c4ab1e933379846b4ab623cc99bbfc91a6d6638a873e388aa565b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vancouver Canucks kauppasi suomalaishyökkääjä Aatu Rädyn Toronto Maple Leafsiin, sai Brandon Buhrin ja Jacob Quillanin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-16T03:40:00Z",
-      "urls": [
-        {
-          "sign": "c1df7769e3f56e2d77edd926b5b9080240ad9764ea0d2b9e93ca94a265232b8b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antti Lindtman kertoo kirjassaan vierailleesta miehestä, joka nukkui hänen sohvallaan kolme tuntia",
-      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -5775,21 +5728,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-17T06:33:52Z",
-      "urls": [
-        {
-          "sign": "7f0187457bff2768f4da5bee01db7dcf3d222442c2ac5b8c6ad855216f56af38",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HBO Max lisäsi norjalaisen aikuisanimaation Spermageddon – aiheutti kohua eksplisiittisyydellään",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-17T09:49:00+03:00",
@@ -13422,6 +13360,68 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T02:34:22Z",
+      "urls": [
+        {
+          "sign": "2a339734790acd0ce2da541763f3426fc535636ad866f815e03d2605503cc18a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aurinkoinen alkuviikko vaihtuu sateiseen loppuviikkoon – lämpötila kohoaa etelässä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-19T02:33:00Z",
+      "urls": [
+        {
+          "sign": "381461af57cd0003c8bff35c4c19b0a05ffb2827e14d992eee7bd9e93f71c821",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teemu Aaltonen epäilee isänsä Pattayalla 2008 tapahtuneen murhan poliisin versiota",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-19T02:30:35Z",
+      "urls": [
+        {
+          "sign": "b4d4f9dda02b361768eed49833995d539af7ddc50750cf5176cb425d7db05625",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asiantuntijat varoittavat: Sähkönsiirtohinnat voivat nousta jopa 80 prosenttia ilman joustoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-19T02:29:47Z",
+      "urls": [
+        {
+          "sign": "438c1b2a8b52925934b04871e9f1d7321f19cd3b8017523f12303a63678ee3c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WSJ: Putin ehdottaa Trumpille ja Xi Jinpingille tapaamista Ukrainan rauhan käsittelemiseksi APEC-huippukokouksessa Shenzhenissä 18.–19. marraskuuta 2026",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
