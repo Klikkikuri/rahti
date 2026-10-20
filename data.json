@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T05:15:04Z",
+  "updated": "2026-10-20T05:18:33Z",
   "entries": [
     {
       "updated": "2026-10-20T05:11:35Z",
@@ -764,21 +764,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-16T13:10:40Z",
-      "urls": [
-        {
-          "sign": "426156f5c23b7cfb26eb7951b73be4a876f8855df536152d15b421e205540ff8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finland announces fuel‑cost package, expands baby box, proposes stricter homeschooling laws, and streams puppy live",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T13:12:09Z",
@@ -2009,21 +1994,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-17T08:25:05Z",
-      "urls": [
-        {
-          "sign": "cac43f84aa93073c0c5c304b97d39c7b2a4d59f1c76b0db0b5ea05d046eb6ba5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Samuli Samuelsson lopettaa urheilu-uransa – Suomen 100 metrin ennätysmies siirtyy työelämään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-17T07:58:46Z",
@@ -13329,6 +13299,38 @@
       "title": "Finns rank Kone as most reputable, Temu and Shein least in reputation survey",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T05:18:33Z",
+      "urls": [
+        {
+          "sign": "c44094eaa8e4ebd7a2f3fd49ba262634b7624e6af737d5563112be44a113db96",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Presidentti Stubb tapaa Zelenskyin Oslossa tänään tiistaina, keskustellen Ukrainan sodasta ja Euroopan turvallisuudesta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-20T04:34:29Z",
+      "urls": [
+        {
+          "sign": "887a0a62cfc27bf29ea79dd075d156e9447978d862f80dadf1e57948238bdf0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fresh Servant Group aloittaa muutosneuvottelut Pedersöressä – jopa 50 työntekijää voi joutua irtisanomisen tai työehtojen muutoksen kohteeksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
