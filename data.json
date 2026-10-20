@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T02:30:09Z",
+  "updated": "2026-10-20T02:32:49Z",
   "entries": [
     {
       "updated": "2026-10-20T00:35:34Z",
@@ -796,21 +796,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-16T11:34:50Z",
-      "urls": [
-        {
-          "sign": "0cfc884b20f435e3120bce020d3a71afe54cfc63471d0d1745b5afcbde836257",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtio ohjaa kiintiöpakolaiset ruotsinkielisiin kuntiin – Raaseporin perheet kuitenkin valitsivat suomenkielisen koulun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-19T08:20:05Z",
@@ -2105,21 +2090,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-17T04:51:07Z",
-      "urls": [
-        {
-          "sign": "8c708289a090ece48a2dd668b92c94a9ee56e504462311c811c146f2b7c90e57",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lehkonen teki kaksi maalia ja johdatti Coloradon 5–2-voittoon Pittsburghia vastaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-17T05:14:42Z",
@@ -13241,21 +13211,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-16T11:12:51Z",
-      "urls": [
-        {
-          "sign": "033eb2a4dfb44377d1cb6f79b3e60861427d8754a1fd145d35150f4c95fb39fa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle Drama producer Pietari Vappula recommends Finnish‑Somali documentary Keinaan, mee takas Somaliaan and other shows for autumn on Yle Areena",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-20T00:18:28Z",
       "urls": [
         {
@@ -13363,6 +13318,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-20T02:32:49Z",
+      "urls": [
+        {
+          "sign": "974961031e925b240e37c06e492400557ee4131aae8327c76c1172dcda79626c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Elli Lyytinen ennustaa aurinkoista säätä ja 5–10 °C lämpötiloja tiistaina – etelässä mahdollinen yöpakkanen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T02:30:35Z",
+      "urls": [
+        {
+          "sign": "f6cf6efdd9389e3c9df59264d6f3d2f8672ca4e54b5cdb3cb801c291ab37e56b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: Opettajat viihtyvät ja hakeutuvat huono-osaisten alueiden kouluihin merkityksellisen työn ja lisärahoituksen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T02:32:00Z",
+      "urls": [
+        {
+          "sign": "737867a9118950c83622dacfa5c7c69c72a9522462993f1408f635c2d0b972e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies ja nainen istuvat rauhallisesti terassilla Pariisin Riemukaaren lähellä mellakoiden aikana",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
