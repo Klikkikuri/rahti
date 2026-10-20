@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T04:12:35Z",
+  "updated": "2026-10-20T04:29:40Z",
   "entries": [
     {
       "updated": "2026-10-20T02:47:16Z",
@@ -2135,23 +2135,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-17T07:31:40Z",
-      "urls": [
-        {
-          "sign": "08cbc5ed62250200cb25e8456dd86ecffcd790e49b36f2a094635376deae3154",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Annina Holmbergin kirjoittama elämäkerta Kaj Chydeniuksesta julkaistu – valottaa säveltäjän yksityiselämää",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-17T23:25:00+03:00",
@@ -5575,21 +5558,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-18T14:56:26Z",
-      "urls": [
-        {
-          "sign": "b1cfbdef61320567fad37f9c9e2b89e48944abb9eed2dbb780f05381c4ecc04c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS:n analyysi osoitti upseerin henkilötiedot sijaintidatasta – asiantuntija neuvoo rajoittamaan sijainnin jakamista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-18T18:03:00+03:00",
       "urls": [
         {
@@ -5680,21 +5648,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-18T15:02:02Z",
-      "urls": [
-        {
-          "sign": "847889d9104d8fcf11fa569f80ac78b500ed2df2037d9c20484ebb09557efcc0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Romeo Beckham tähdittää ranskalaista homoromanttista elokuvaa Forty Love – mielipiteet jakautuneet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-18T15:05:18Z",
@@ -13357,6 +13310,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T04:21:11Z",
+      "urls": [
+        {
+          "sign": "586434b7be62f5de525c240439bf68e62de72bac3842ccb190a9d53a16a00ef0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolme NHL-seuraa neuvottelee Connor Hellebuyckin mahdollisesta siirrosta Winnipeg Jetsistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-20T04:18:05Z",
+      "urls": [
+        {
+          "sign": "ebcff96dfa908b1c25c4feb4471e5d53f3c6eb1a1aa1c33207706f1da5e6bdc3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Purra kritisoi Ylen Ranskan mellakoiden uutisointia ja kutsuu sitä parodiaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-20T04:29:40Z",
+      "urls": [
+        {
+          "sign": "9221d1018f12000dd60d586bf640ee0f49ab8e2a81037379b2da295889068c05",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Läheisten ystävien puute lisää kuolleisuusriskiä enemmän kuin alkoholi tai lihavuus, tutkimus osoittaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
