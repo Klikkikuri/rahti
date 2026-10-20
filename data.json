@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T03:56:00+03:00",
+  "updated": "2026-10-20T01:11:29Z",
   "entries": [
     {
       "updated": "2026-10-20T00:35:34Z",
@@ -781,21 +781,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-16T11:04:48Z",
-      "urls": [
-        {
-          "sign": "886bce053f7799979ab034cd384d7e4b46d41430bd61cc0e983ae917e739741a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arctial ostaa hiilianodit ulkomailta – Pohjanmaan alumiinitehtaan paikalliset päästöt vähenevät",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T11:07:52Z",
@@ -13362,6 +13347,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-20T01:11:29Z",
+      "urls": [
+        {
+          "sign": "313c4aaa67c27564c63edd0f5031c6ce7af7d7e7811ca9ef929c29c9bcdf54b7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Australialainen kansanedustaja Helen Haines menetti jalkansa auton törmäyksessä Wangarattassa – pääministeri Albanese pitää tekoa tahallisena",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
