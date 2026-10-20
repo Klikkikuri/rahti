@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T03:00:07Z",
+  "updated": "2026-10-20T03:03:00Z",
   "entries": [
     {
       "updated": "2026-10-20T02:47:16Z",
@@ -813,21 +813,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-16T11:59:13Z",
-      "urls": [
-        {
-          "sign": "e187d2cd2fdf667d83cf46319c46ffbe955cca2021bffb5017f9174a347d7edc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Istanbulin rankkasateet, voimakkaimmat 84 vuoteen, tappoivat kaksi ihmistä ja aiheuttivat laajoja tulvia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T12:06:21Z",
@@ -2152,21 +2137,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-17T06:00:00Z",
-      "urls": [
-        {
-          "sign": "82e7e3fa44609df45c13268030e8e9397fafb8fe74015eefc282fd56a8c33f97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lindtman katsoo, että kansanedustajien turvallisuuteen ei tarvita erityistoimia tällä hetkellä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-17T06:23:45Z",
@@ -13359,6 +13329,38 @@
       ],
       "title": "Putin ehdottaa tapaamista Trumpin ja Xin kanssa Ukrainan sodan päättämiseksi",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-20T03:00:35Z",
+      "urls": [
+        {
+          "sign": "c5e3c255f71ba67dcfe5fed5d0f156fa2b457db7c01469839f5040618b02f24e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yritysten säästöpaineet vähensivät työterveyshuollon käyntejä noin 10 % vuonna 2026",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T03:03:00Z",
+      "urls": [
+        {
+          "sign": "efd8706a0b8f09f5b84987ab2c1dce4cfd8f85ca90d4363ddb907cdd8600b333",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SM-liigan syyskaudella Jokerit jää maaliodottamista jälkeen, Jukurit ja SaiPa ylittävät odotukset",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
