@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T02:32:49Z",
+  "updated": "2026-10-20T03:00:07Z",
   "entries": [
     {
-      "updated": "2026-10-20T00:35:34Z",
+      "updated": "2026-10-20T02:47:16Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Venäjän propaganda lisääntynyt Suomen Nato‑jäsenyyden jälkeen – Iltalehti analysoi keinoja ja vaikutuksia",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehti analysoi Venäjän propagandaa Suomen Nato‑jäsenyyden jälkeen",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -2013,23 +2013,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-17T05:29:17Z",
-      "urls": [
-        {
-          "sign": "5c3c54ebbcf2fe36e9a1623fb0524f0e760cca64321b014a67f6b448b77b2c31",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump jäädytti kongressin hyväksymät uudet Venäjä-pakotteet",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-17T07:00:00+03:00",
       "urls": [
         {
@@ -2137,23 +2120,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-17T05:33:00Z",
-      "urls": [
-        {
-          "sign": "2e9a14158c9f7dfd783aaaceede7079752ed004e81cf20af5c6c56c1329811c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jaakko Luomanen neuvoo: hyvä pizzataikinan sitko syntyy vähällä vaivalla ja levolla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-17T05:38:55Z",
@@ -5369,23 +5335,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-18T12:47:42Z",
-      "urls": [
-        {
-          "sign": "c1f9b8f578d72f15275da03716aba1c330a834e778ef0a801ad8913c009e5ae0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain armeijan upseeri kuoli köysilaskussa Alamodome-stadionissa San Antoniossa ennen UTSA–Navy-ottelua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-18T14:31:00+03:00",
@@ -13361,6 +13310,55 @@
       ],
       "title": "Mies ja nainen istuvat rauhallisesti terassilla Pariisin Riemukaaren lähellä mellakoiden aikana",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-20T03:00:07Z",
+      "urls": [
+        {
+          "sign": "4696545e30a5035b05a53281172565f339d1653cffd09686222f6a4a1fba3a56",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-20T02:43:25Z",
+      "urls": [
+        {
+          "sign": "d2ab1bc6c4b4c60d7c8d85b71c11692548b6865062cc7df5240afad5d2b4665d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi syyttää USA:ta tahallisesta ohjustoimitusten viivästyksestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-20T02:59:00Z",
+      "urls": [
+        {
+          "sign": "edfee88b5e95510a8923a75904c4806b53239f693079192b399062c46878d1c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin ehdottaa tapaamista Trumpin ja Xin kanssa Ukrainan sodan päättämiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
