@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T03:28:35Z",
+  "updated": "2026-10-20T03:43:41Z",
   "entries": [
     {
       "updated": "2026-10-20T02:47:16Z",
@@ -1100,23 +1100,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T17:46:00+03:00",
-      "urls": [
-        {
-          "sign": "64a2f534f2425ce05b1c13155029f347ec176a31760c5030c85acbd53aa2bed1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-16T14:46:28Z",
@@ -5530,21 +5513,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-18T13:39:15Z",
-      "urls": [
-        {
-          "sign": "1ada0783f59e8fd2a0218dac21c23009f53f47f413f9e0d44dfca10332e09e7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukrainan ulkoministeriön tiedottaja pahoittelee Liettuaan pudonnutta droonia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-18T17:00:00+03:00",
       "urls": [
         {
@@ -5577,21 +5545,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-18T13:57:40Z",
-      "urls": [
-        {
-          "sign": "34f4957c11f97946c77247db2153708f27b7e4d59f556a80f37115d653c82497",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "KuPS voitti VPS:n, kärkikolmikko nyt yhden pisteen sisällä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-18T17:26:47Z",
       "urls": [
         {
@@ -5604,23 +5557,6 @@
       "title": "Arsenal sai ensimmäisen laukauksensa 80. minuutilla ja voitti Nottingham Forestin 1–0",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-18T13:48:58Z",
-      "urls": [
-        {
-          "sign": "7b5a73060c2ea68ac462746ff06a5f24d2d32e1082e9417c07d25715c99a388a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "BYD:n Denza Z9 GT:n Jumalan silmä -ajonavustusjärjestelmä testattiin Pariisin Riemukaaren liikenneympyrässä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13265,7 +13201,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-20T06:18:00+03:00",
+      "updated": "2026-10-20T06:39:00+03:00",
       "urls": [
         {
           "sign": "58226d882acc58809aec8174b928295d55062ac53b913f4a3e3144cf9fac46d6",
@@ -13274,7 +13210,7 @@
           ]
         }
       ],
-      "title": "Kansanedustaja Helen Haines menetti jalkansa auton päälle ajon jälkeen Wangarattassa",
+      "title": "Kansanedustaja Helen Haines menetti jalkansa, kun epäilty ajoi hänet päälle autolla Wangarattassa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13355,6 +13291,68 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-20T03:43:41Z",
+      "urls": [
+        {
+          "sign": "1dcbd8113f1e0d6fc909763e1c7ca64a2274fc7563eabf9d4a3c194610e0c201",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Gavin McKenna ratkaisi Toronto Maple Leafsin 3–1-voiton San Jose Sharksia vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-20T03:30:49Z",
+      "urls": [
+        {
+          "sign": "e4b00492e0ab4161773ac53a04d648ad02dc8e03016ee8a2ae179b8f6834b956",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaisten ajonopeudet laskivat hieman bensan hinnan noustua yli 2,5 euron vuonna 2022",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-20T06:30:00+03:00",
+      "urls": [
+        {
+          "sign": "84bfe9a699111d122b119ebdfbb69c0753c85eeda88dc6f20f624ff829d10fab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-20T03:35:31Z",
+      "urls": [
+        {
+          "sign": "87a12913d084853282ccb01f020e4f5b40e104b3ff1bd33eda1a54fba812ed0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiti Kokkonen kertoo Valo Pimiässä -podcastissa lapsettomuudestaan ja siitä, että itki päivän siitä, ettei voi saada omannäköisiä lapsia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
