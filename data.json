@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T02:00:06Z",
+  "updated": "2026-10-20T02:30:09Z",
   "entries": [
     {
       "updated": "2026-10-20T00:35:34Z",
@@ -781,21 +781,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-16T11:07:52Z",
-      "urls": [
-        {
-          "sign": "b456bba738acdc8c1e1543d0b4e4f028f925f7b9cd514f37fc281c24b3e1d4f9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus tuomitsi norjalaisen 19‑vuotiaan miehen 20 vuoden vankeuteen Britanniassa murhan suunnittelusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-16T16:53:00+03:00",
@@ -5527,24 +5512,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-18T12:42:43Z",
-      "urls": [
-        {
-          "sign": "1731e3dbd8d1ef30531b0af1301957b6dbcbbefcda82761fb15944760dcc8722",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-18T12:41:17Z",
@@ -13365,6 +13332,36 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-20T02:28:36Z",
+      "urls": [
+        {
+          "sign": "9e0430ebe6a8a0c71059297fe190a837f74cffb7a0bf32a26fe216d14ffa46e1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Italian hallitus lähettää 500 sotilasta Milanoon levottomuuksien hillitsemiseksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T02:30:09Z",
+      "urls": [
+        {
+          "sign": "1f5faa4e4d0b576165a7b3c66d5674b8d8d89cae84080a119acc3e1cdcbf4fbc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turun hovioikeus velvoitti Air Balticin maksamaan korvauksia matkustajille lennon peruuntumisen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
