@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T01:11:29Z",
+  "updated": "2026-10-20T01:31:00Z",
   "entries": [
     {
       "updated": "2026-10-20T00:35:34Z",
@@ -5493,21 +5493,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-18T12:19:53Z",
-      "urls": [
-        {
-          "sign": "a7c5e0063e768665db8506268938f68e727413a29972c603e575d59327b10973",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taksiyrittäjät boikotoivat Veikkaus-areenaa korkeiden pysäköintimaksujen vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-18T12:28:53Z",
@@ -13364,6 +13349,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T01:31:00Z",
+      "urls": [
+        {
+          "sign": "45b6f12620afb049623de171c2eb3a34f154e1926e975202d64c14fb7c0d8f91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen Pentulive kiinnostaa maailmalla – CNN ja The Times vertaavat sitä koirien Big Brotheriin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
