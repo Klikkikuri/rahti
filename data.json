@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-20T00:35:34Z",
+  "updated": "2026-10-20T03:56:00+03:00",
   "entries": [
     {
       "updated": "2026-10-20T00:35:34Z",
@@ -1053,23 +1053,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-16T16:39:00+03:00",
-      "urls": [
-        {
-          "sign": "3192d7067159be6ebf850390d3fbb14b73d8adbda0bf1dc73fd384fc59aff2c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-16T13:32:13Z",
@@ -13364,6 +13347,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-20T03:56:00+03:00",
+      "urls": [
+        {
+          "sign": "a1ee97f7a14528aedac11f6ab088158a4fc8d6540a72686d037cb821a37f68f5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Japani laukaisi MMX-luotaimen kohti Phobosta, tavoitteena Marsin kuun näytteiden palautus Maahan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
