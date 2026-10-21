@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-21T23:00:10Z",
+  "updated": "2026-10-22T02:30:00+03:00",
   "entries": [
     {
       "updated": "2026-10-21T20:14:22Z",
@@ -683,21 +683,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-18T12:41:17Z",
-      "urls": [
-        {
-          "sign": "f1bfa96fc826327475e321d24bcb84036cfab8532da5381155b89ca928100af6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Liettuasta löytyi todennäköisesti droonin osia – presidentti Nausėda varoittaa konfliktin leviämisestä Itä-Eurooppaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-18T12:52:38Z",
       "urls": [
         {
@@ -1349,21 +1334,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-19T11:53:00+03:00",
-      "urls": [
-        {
-          "sign": "39157b41f8faae73dbe5969fcad5f6f573f24a0be70840391f588b2dcc515017",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi pyytää vihjeitä Orimattilan ulosajosta, jossa yksi kuoli, kolme loukkaantui vakavasti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-19T09:07:10Z",
@@ -4267,21 +4237,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T06:05:07Z",
-      "urls": [
-        {
-          "sign": "017eac3205ab90b5e6cafa366b9bfa0d3505f8ed567ff0041c671c3249880d20",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ikean Cavelli-nojatuoli myytiin noin 16 000 eurolla Bukowskisin huutokaupassa 2022",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-20T07:16:54Z",
@@ -13279,6 +13234,51 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-21T23:28:09Z",
+      "urls": [
+        {
+          "sign": "be649c07a0e31d9767bcab536c8c8179fe7ee3f8dcedaaa45fd48f047f91061d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metan liikevaihto ylitti odotukset, mutta oikeuskiistojen korvaukset painoivat tulosta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-22T02:30:00+03:00",
+      "urls": [
+        {
+          "sign": "e8c86924a58a680b407ce170566636ff6c0cb433c853f6ad3ca7d98ed33f913f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranska | Poliisi otti kiinni 34-vuotiaan miehen epäiltynä Limogesin kaupungintalon sytyttämisestä – epäillyllä on yhteyksiä radikaaliin ympäristöliikkeeseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-21T23:22:08Z",
+      "urls": [
+        {
+          "sign": "a8db4e81f09b05d804e9db6233682688f3096af66c1d7f0e7e2e224b4b0083ba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Macron syyttää Trumpia ja muita ulkomaanjohtajia Ranskan levottomuuksien hyväksikäytöstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
