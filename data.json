@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T23:46:00+03:00",
+  "updated": "2026-10-23T00:06:00+03:00",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -653,23 +653,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-20T09:21:00+03:00",
-      "urls": [
-        {
-          "sign": "b45e7d8dfce43029e4c8c886cdc49d7d9aa21c6cbfb7dbc8166ce37fd4ebf023",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-20T09:27:00+03:00",
       "urls": [
         {
@@ -758,21 +741,6 @@
       ],
       "title": "Viranomaiset asettivat yöllisiä ulkonaliikkumiskieltoja useisiin Ranskan kaupunkeihin levottomuuksien jälkeen",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-19T16:18:34Z",
-      "urls": [
-        {
-          "sign": "f509fa34193219f1aa04745775ce3003084ef67b050bbb6ba95369f299db92da",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiinalaisten työntekijöiden ateria- ja majoituskustannukset laskivat Kotkassa – lounas muuttui työsuhde-eduksi",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -13367,6 +13335,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T21:01:35Z",
+      "urls": [
+        {
+          "sign": "47f260940d194c995d66f99a647f28b4ed92d568e920c7a7e38fa0d870f94444",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hypo luokitteli kymmenen kuntaa A-luokkaan asuntomarkkinoilla – Pirkkala sai ainoana A+",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T00:06:00+03:00",
+      "urls": [
+        {
+          "sign": "e0beaa2e7a985b0214cf03074f221f564dd11fbda4df7e994e7c329253fa0cbe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Deadline ja Variety: Uuden James Bondin valinta on loppusuoralla – roolia tavoittelevat muun muassa Jack Lowden ja Callum Turner",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
