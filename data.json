@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T23:00:17Z",
+  "updated": "2026-10-22T23:29:36Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -4689,21 +4689,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T15:36:49Z",
-      "urls": [
-        {
-          "sign": "f9f42a08b46421418ad7bc937739f62d9761919dca18695f3761c28b05da6d30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP:n Tuppurainen varoittaa: Venäjän voitto Ukrainassa uhkaisi Suomea ja Baltiaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T13:15:00+03:00",
@@ -13367,6 +13352,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-22T23:29:36Z",
+      "urls": [
+        {
+          "sign": "8dfda0b908f02a79f5f63881ec9aa5edc368a7272de45ce5227d1de33613d8f4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi CNN:lle: Välit Trumpiin eivät ole henkilökohtaisia – pakotteiden purku vahvistaisi Putinia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
