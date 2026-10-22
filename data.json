@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T15:30:00+03:00",
+  "updated": "2026-10-22T12:42:07Z",
   "entries": [
     {
       "updated": "2026-10-22T10:36:36Z",
@@ -666,21 +666,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-19T10:51:45Z",
-      "urls": [
-        {
-          "sign": "861b5aa3756fa708df2b3c3af96fd633a08177bba0c8295554f44097d72a66ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan pääministeri Sébastien Lecornu kehottaa alueita ottamaan käyttöön paikallisia ulkonaliikkumiskieltoja tänä iltana väkivaltaisten mielenosoitusten vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-19T11:04:41Z",
@@ -2060,23 +2045,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-20T05:38:39Z",
-      "urls": [
-        {
-          "sign": "980c2e0694ce445ed727705ce2361c03a3d891f7f8f4261defe50f186f9770d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tilastokeskus kertoo työttömyyden kasvaneen syyskuussa 39 000:lla vuodentakaisesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-20T05:40:10Z",
@@ -5101,23 +5069,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T07:03:34Z",
-      "urls": [
-        {
-          "sign": "ac88dcff07226c616d377501f22c29129c973d7dd6db3ff8a59aa51ef45a8aeb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T09:59:53Z",
@@ -8942,7 +8893,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-21T17:06:57Z",
+      "updated": "2026-10-22T12:38:27Z",
       "urls": [
         {
           "sign": "9c7794e7276d5de107f435ec4801e927783abf45744b47dd53f25ef527b4cb7c",
@@ -9280,7 +9231,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-21T19:38:56Z",
+      "updated": "2026-10-22T12:34:54Z",
       "urls": [
         {
           "sign": "de346a3f9bc1a0764bbb83f64a6aa9d229c473eb27c8d3d6eda85361626aea9a",
@@ -9289,7 +9240,7 @@
           ]
         }
       ],
-      "title": "Poliisi ampui miestä jalkaan Kontiolahdella – mies osoitti ampuma-asetta poliisia kohti",
+      "title": "Poliisi ampui miestä jalkaan Kontiolahdella – mies osoitti poliisia ampuma-aseella",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -10815,7 +10766,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-22T11:58:40Z",
+      "updated": "2026-10-22T12:35:26Z",
       "urls": [
         {
           "sign": "7faee65336520902c8a3613cdf6da73f503bf9a3135abf8ea9528951e70b8f59",
@@ -10824,7 +10775,7 @@
           ]
         }
       ],
-      "title": "Pääministeri Petteri Orpo vierailee torstaina Ukrainassa osoittaakseen Suomen tukea – joutui ilmahälytyksen vuoksi väestönsuojaan Kiovassa",
+      "title": "Pääministeri Petteri Orpo joutui torstaina Kiovassa väestönsuojaan ilmahälytyksen vuoksi – vierailun tarkoitus on osoittaa Suomen tukea Ukrainalle",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -11161,7 +11112,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-22T15:30:00+03:00",
+      "updated": "2026-10-22T15:32:00+03:00",
       "urls": [
         {
           "sign": "f6ddbbcd86b8cab93b8c4d97af3ce254c4d4a9bbbc4f57deb40338ca73aebb9b",
@@ -13355,6 +13306,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T12:33:58Z",
+      "urls": [
+        {
+          "sign": "eb69f4458be720bb6f9e9effe16c5bede35924415655ea440df90307c8e6fa4b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin käräjäoikeus siirsi Suvi Pitkäsen ex-avopuolison pahoinpitelyoikeudenkäyntiä vuodella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T12:29:59Z",
+      "urls": [
+        {
+          "sign": "ea6e5eacf80d8e7bb5132d398801fd3277c428e5641b1b7c15162f7492c0723b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Antti Lindtman: SDP ei leikkaisi maksussa olevia eläkkeitä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-22T12:42:07Z",
+      "urls": [
+        {
+          "sign": "8cf9bc721d0234ba7027397bbdf41d8816545f66be13d96ad4da091fac9a067d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskusrikospoliisi tutkii Kontiolahdella epäiltyä virkamiehen väkivaltaista vastustamista – poliisi ampui miestä reiteen, kun tämä osoitti poliisia aseella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
