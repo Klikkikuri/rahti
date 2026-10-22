@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T06:11:55Z",
+  "updated": "2026-10-22T06:27:45Z",
   "entries": [
     {
       "updated": "2026-10-21T20:14:22Z",
@@ -983,23 +983,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-19T15:52:00+03:00",
-      "urls": [
-        {
-          "sign": "7dc2aa638b7178b84757ddf894d5ea4be619866d7351011d630ef2370d60e8e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-19T07:30:35Z",
@@ -2415,23 +2398,6 @@
         }
       ],
       "title": "Juhamatti Aaltonen uskoo Tapparan etsivän uuden päävalmentajan Kari Jalosen jälkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-19T18:08:31Z",
-      "urls": [
-        {
-          "sign": "671ceecd66132bec2b9cee0c45bc22351edd9e9bde17dd76e367f08d2ba2a90b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin yliopiston kasvihotelli säilytti Vuosaaren kasvillisuuden kahden vuoden ajan rakennustyön tieltä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -5395,21 +5361,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-20T13:05:44Z",
-      "urls": [
-        {
-          "sign": "173b973628d7911e8b612065a69fd0406ce6a99f1a945a924675d03adb6850eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Orpo kutsuu Ricardo Cavadas Kaipaisen erityisavustajakseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-20T16:10:00Z",
       "urls": [
         {
@@ -7063,7 +7014,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-21T19:00:00+03:00",
+      "updated": "2026-10-22T09:15:00+03:00",
       "urls": [
         {
           "sign": "be23f932eae6920c7fe8c42547cfc1c33dcf17b0b8f199410f7fcaa562a3c010",
@@ -13290,6 +13241,53 @@
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/type=video"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-22T06:27:45Z",
+      "urls": [
+        {
+          "sign": "84e614a59cac6a9ecf1a7fc42f05e8cd261bac4815138382c41d2659a561b3c6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Verohallinto lisää valvontaa alkutuotannossa ja työvoimavaltaisilla aloilla vuodesta 2027",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T09:25:00+03:00",
+      "urls": [
+        {
+          "sign": "9be3100058d74c6dfd8ce8260f8b8cda6c27703b75564a4545c15d592d230dc0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perussuomalaiset julkaisee säästölistansa suorassa lähetyksessä torstaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-22T06:17:36Z",
+      "urls": [
+        {
+          "sign": "6087e882dcbe2a675b1ca1cd5524bc252b3417f782d0b83dc0e2687239563428",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä John Goodman kertoo The New Yorker -lehdelle lopettaneensa alkoholin ja laihduttaneensa yli 90 kiloa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
