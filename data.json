@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T18:55:37Z",
+  "updated": "2026-10-22T19:06:56Z",
   "entries": [
     {
       "updated": "2026-10-22T18:15:35Z",
@@ -4242,23 +4242,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-21T14:04:06Z",
-      "urls": [
-        {
-          "sign": "c3e76b7bc1e6a089aa5a754fb7cacc3a6aa2392c1c22fec71efbb7069ab4a8f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T09:03:01Z",
       "urls": [
         {
@@ -4381,21 +4364,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-21T14:10:53Z",
-      "urls": [
-        {
-          "sign": "9e9407ebdb269f82fceea44d9d570e3a86ccdb33392c53198e36269b150d8ee5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeus- ja sisäministerit kommentoivat nuoren striimaajan kuolemaa – Rantanen kutsuu ilmiötä yhteiskunnalliseksi ongelmaksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T11:30:00Z",
       "urls": [
         {
@@ -4409,21 +4377,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-21T14:04:41Z",
-      "urls": [
-        {
-          "sign": "3cb0647773b93d326e52f8626c05e73dde029669c506cb6426bc04024b4cc39a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtiovarainministeri Purra: Matkailijavero ei etene eduskuntaan hallituskaudella",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T14:34:02Z",
@@ -5396,21 +5349,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T14:00:19Z",
-      "urls": [
-        {
-          "sign": "710824a9c62a40db423afa038b33c7bddfee3ae05f2e26a80a9f3c1316715ffa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Veronica Verho ihmettelee vessapaperirullan hylsyn huuhtomiskieltoa – Essity luopui huuhtohylsyistä saatavuuden vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T06:19:38Z",
@@ -13356,6 +13294,74 @@
       "title": "Hovioikeus tuomitsi espoolaisen miehen vankeuteen 14-vuotiaan pojan törkeästä raiskauksesta ja hyväksikäytöstä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T19:06:56Z",
+      "urls": [
+        {
+          "sign": "813a9c964ee55c07b680baba77277c43fa5e3a91152c350b92a32b82edf98dce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Euroopan yleisurheiluliitto valitsi Helsingin vuoden 2030 yleisurheilun EM-kisojen järjestäjäksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T19:06:49Z",
+      "urls": [
+        {
+          "sign": "a7ebc7dfeb579859b56fd750304542788121ee649913ade9285a01d68615da79",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän duuman kommunistisen puolueen edustaja ehdottaa Leningradin ja Stalingradin nimien palauttamista Pietarille ja Volgogradille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T18:45:37Z",
+      "urls": [
+        {
+          "sign": "2b1cb271abf9b52b21be4e24b1ed0d59f77411cf4bb766d2a291c846fa2425f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T19:05:29Z",
+      "urls": [
+        {
+          "sign": "1ed4415e255b2fedae4ba338a1f47c2c2b5477327ef33b0f4ecfceceed0a0b13",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiina kaavailee rajoituksia autojen suurille näytöille ja vaatii fyysisiä kytkimiä kriittisiin toimintoihin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
