@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T03:34:23Z",
+  "updated": "2026-10-22T04:00:03Z",
   "entries": [
     {
       "updated": "2026-10-21T20:14:22Z",
@@ -2309,21 +2309,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-19T16:06:51Z",
-      "urls": [
-        {
-          "sign": "e759213e3555dd11f17b1666a6b0f8b05d22daee9adaf1e611076803e98e8149",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kari Jalonen lopettaa valmentajauransa – Fredrik Norrena ottaa Tapparan päävalmentajan tehtävän",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-19T19:15:00+03:00",
       "urls": [
         {
@@ -4198,21 +4183,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T07:16:11Z",
-      "urls": [
-        {
-          "sign": "9463acc6797aa7a025e3ea04b1706ecf09720b55a6347eed73f13f64594792ef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle: Poliisikoulun hakijoiden kirjoitustaidon puute aiheuttaa yhä useampia hylkäyksiä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-20T07:38:45Z",
@@ -13282,6 +13252,36 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-22T03:45:43Z",
+      "urls": [
+        {
+          "sign": "8d79b915a2bb4a7cc13d2cd759d5e1ed71006b07f0b92e89df9f7dc378a9900e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kirja: Susanna Penttilän vaateyritys Férrer kärsii tappioita, yrittäjä rahoittaa liiketoimintaa OnlyFans-tuloillaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T04:00:03Z",
+      "urls": [
+        {
+          "sign": "d77b6175dfe035b4d615435587954879577511aad5406dbb233329f754c98873",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä iski Kiovaan yöllä, Ukraina laukaisi satoja drooneja Moskovaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     }
   ]
