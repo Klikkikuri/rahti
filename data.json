@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T01:20:55Z",
+  "updated": "2026-10-22T02:00:42Z",
   "entries": [
     {
       "updated": "2026-10-21T20:14:22Z",
@@ -2159,21 +2159,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-19T14:01:00Z",
-      "urls": [
-        {
-          "sign": "9240a477c44229e904d6c85c5b480cc8409f9522fc07e8618ab9934f68195549",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tanssii Tähtien Kanssa -lähetyksessä tanssitaan syöpätutkimuksen hyväksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-19T14:17:07Z",
       "urls": [
         {
@@ -4239,21 +4224,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T06:29:49Z",
-      "urls": [
-        {
-          "sign": "8f3c988b7ac54f37aa047bc7dd515382b7dd02125adde8e9566c3efecfaf97c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Italia lähettää 500 sotilasta Milanoon osana turvatoimia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-20T06:14:21Z",
@@ -13277,6 +13247,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-22T02:00:42Z",
+      "urls": [
+        {
+          "sign": "94003a319ea6293349d76fb04607829a6b4a3f8a8ba3d4c9a5ffc36ed080b95f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perussuomalaiset esittää hyvinvointialueiden rahoituksen indeksikorotusten leikkaamista – Rydman: säästö noin miljardi euroa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T02:00:00Z",
+      "urls": [
+        {
+          "sign": "2af391ee7ba012f3dd7da28997a2ebd6889ae215f2a6d62ccbf086c0216516ed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommentti: Euroopan on otettava aloite Ukrainan rauhanneuvotteluissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
