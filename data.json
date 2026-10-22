@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T20:28:11Z",
+  "updated": "2026-10-22T20:39:01Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -3973,21 +3973,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-21T15:17:18Z",
-      "urls": [
-        {
-          "sign": "753acdf30bcfa9189c609249c3459a232949b44e9025f093edc34af8b8e3b345",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus hylkäsi tapossyytteen Kontulassa kuolleena löydetyn miehen tapauksessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T06:30:24Z",
       "urls": [
         {
@@ -4860,21 +4845,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T15:18:34Z",
-      "urls": [
-        {
-          "sign": "d7dd2ef92cd0fa676a93a915c0195b3fcbfb36f2ca645b8b441bd4cac0cf0cf2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Äiti sai tietää tyttärensä kiusaajien Whatsapp-ryhmistä ja vaihtoi koulua",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T07:22:54Z",
@@ -12924,7 +12894,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-22T21:55:00+03:00",
+      "updated": "2026-10-22T23:32:00+03:00",
       "urls": [
         {
           "sign": "717ecd78d46fbec2c459498c6918a54b20d3a7e4d4c0cc7f5c43498bb74fbf21",
@@ -12933,7 +12903,7 @@
           ]
         }
       ],
-      "title": "Suomalaiset Iceye ja Nokia allekirjoittivat avaruusalan aiesopimuksen Ukrainan puolustusministeriön kanssa",
+      "title": "Suomalaisyhtiöt Iceye ja Nokia allekirjoittivat torstaina avaruusalan aiesopimuksen Ukrainan puolustusministeriön kanssa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13046,7 +13016,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-22T18:48:34Z",
+      "updated": "2026-10-22T20:30:11Z",
       "urls": [
         {
           "sign": "ff1f982b80046b38a4972829d3fcce77da60434d7e453d9d5868c6b4d2152a80",
@@ -13055,9 +13025,11 @@
           ]
         }
       ],
-      "title": "Zelenskyi: Starlink-yhteyden nopeutta ei ole palautettu – WSJ:n mukaan Trump pyysi Muskia poistamaan rajoitukset",
+      "title": "Ukrainan presidentti Zelenskyi: Starlink-yhteyden nopeutta ei ole palautettu – Wall Street Journalin mukaan Trump pyysi Muskia poistamaan rajoitukset",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13363,6 +13335,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-22T20:31:16Z",
+      "urls": [
+        {
+          "sign": "bc470ef00e5f948c68ab002b38ea053dc5c5ed459cdd27ff29f74195c68ba79a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos: Sää muuttuu viikonloppuna epävakaiseksi – puuskat voivat aiheuttaa lyhyitä sähkökatkoja Etelä- ja Länsi-Suomessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T20:39:01Z",
+      "urls": [
+        {
+          "sign": "e53fa382de63bd6460c2f80817d1cc0acb0a608b9ad3775da69900c6827e7833",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan presidentti Zelenskyi: Ukraina allekirjoitti 300 miljoonan euron edestä sopimuksia suomalaisyritysten kanssa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
