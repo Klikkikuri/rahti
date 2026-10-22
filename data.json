@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-22T02:26:59Z",
+  "updated": "2026-10-22T03:00:17Z",
   "entries": [
     {
       "updated": "2026-10-21T20:14:22Z",
@@ -681,51 +681,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-18T13:16:02Z",
-      "urls": [
-        {
-          "sign": "41e1219f94482d9311d58b6d3956bc850d70c13cf694c3ffc9a2e53d2aa20e0e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tiranaassa mielenosoittajat vaativat pääministeri Edi Raman eroa – poliisi hajotti joukon vesitykeillä ja kumiluodeilla, lähes 300 loukkaantunut",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-18T14:08:32Z",
-      "urls": [
-        {
-          "sign": "e4848c3364b7d7d08c213d089c76c0cfadf87c2febfda3972560fd1663e99de3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Terrafamen putkirikko Sotkamossa aiheutti metallipitoisen liuoksen valumisen ojaan – tilanne hallinnassa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-18T15:00:35Z",
-      "urls": [
-        {
-          "sign": "426a691c7500857d7c751de6ec429919b1ac7d7222d1cc69117ee45c1ad117e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaksi suomalaista toimitti Venäjälle kymmenien miljoonien elektroniikkaa, jota käytetään siviilejä tappavissa ohjuksiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-18T15:16:00Z",
@@ -4256,36 +4211,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T06:43:22Z",
-      "urls": [
-        {
-          "sign": "79affc0c2623a4b5c24788b2912b6ebfcce35502312a1047abf5647bed575c62",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian prinssi Edward ja herttuatar Sophie saapuvat Suomeen 26. lokakuuta – vierailu pääkaupunkiseudulla ja Oulussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-20T06:47:32Z",
-      "urls": [
-        {
-          "sign": "fe0103d97c981fe3ae87e805df9f6e3e9e267b49f449cbfdf94487503897a540",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nuorten kuljettajien uusi varoitustarra johtaa vaarallisiin ohituksiin ja häpeän tunteeseen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-20T07:00:05Z",
@@ -13278,6 +13203,83 @@
         }
       ],
       "title": "Venäjä ja Kiina pitävät yhteislausunnossaan ulkopuolista puuttumista Euraasian epävakauden syynä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-22T02:30:47Z",
+      "urls": [
+        {
+          "sign": "8ff75bc35db654b9cba75ada65c7882d7331dd44f9841c7dbf850bcca26c05c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen meteorologi Laura Tuomola: Torstaina idässä aurinkoa, lännessä pilvistä ja Lapissa tihkusadetta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-22T02:30:52Z",
+      "urls": [
+        {
+          "sign": "dc454dbe9d9497982c02ae8cf2d8ade4587702192aaf94d09c247feac4c9ca7d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perussuomalaiset julkaisee torstaina sopeutuslistansa, muut puolueet jakautuvat menoleikkauksiin ja veronkorotuksiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-22T03:00:17Z",
+      "urls": [
+        {
+          "sign": "f0ba505ac2318ef066afb7f30677c6bae1e34f079bacf986ada28b390c532c89",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T02:37:46Z",
+      "urls": [
+        {
+          "sign": "3238e183be4ad722b7fcfda58d929c61a3a3c25281741c27a80fb044876e910a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuomas Iisalon Memphis voitti Lauri Markkasen Utahin 123–103 – Markkanen osui vain yhdestä seitsemästä kolmosestaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-22T02:30:35Z",
+      "urls": [
+        {
+          "sign": "8d93506db0aafd16ba396aa2f9acca8b8c4c8f308ef6ae00bbdfceaf9345c66f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle kysyi rengasliikkeiltä: kitkarenkaat painottuvat Etelä- ja Länsi-Suomen kaupunkeihin, nastarenkaat ovat yhä selvä enemmistö – raja kulkee karkeasti Oulun korkeudella",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
