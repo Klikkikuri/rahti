@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T12:15:01Z",
+  "updated": "2026-10-23T12:29:24Z",
   "entries": [
     {
       "updated": "2026-10-23T07:42:43Z",
@@ -1103,21 +1103,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T15:25:29Z",
-      "urls": [
-        {
-          "sign": "e49a863c616b8994ab6ba82b2ceee4fcded758f3edda3701200faaa81bedaaa1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan mielenosoitukset johtavat ulkonaliikkumiskieltoihin ja nähtävyyksien sulkemisiin Pariisissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-20T20:14:30Z",
@@ -5620,21 +5605,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-22T07:33:22Z",
-      "urls": [
-        {
-          "sign": "d51ee88737d5b8b708f8527b2374c3a14b216925661c27559e2d0ac82ba074ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti selvittää lukijaäänestyksellä, mikä lonkero on suomalaisten mielestä paras",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-22T07:36:40Z",
       "urls": [
         {
@@ -5712,23 +5682,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T07:37:01Z",
-      "urls": [
-        {
-          "sign": "32fac4924e36df0105d3728e536cc16cdea61afb94251210089b47c07ab38b81",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden lukijät valitsivat Elämäni biisin parhaaksi tv-ohjelmaksi – katsojalukujen kuningas Tanssii tähtien kanssa kolmanneksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T11:51:47Z",
@@ -13284,7 +13237,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-23T12:10:41Z",
+      "updated": "2026-10-23T12:29:03Z",
       "urls": [
         {
           "sign": "0c5bb4936ac30e0f8c47d2accde6f5a620028e13f038a7bfda5da7d6a7fea0e9",
@@ -13295,7 +13248,9 @@
       ],
       "title": "Etelä-Pohjanmaan käräjäoikeus tuomitsi kaksi miestä Kai-Pekka Savolaisen taposta 8 ja 10 vuoden vankeuteen",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13314,7 +13269,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-23T14:54:00+03:00",
+      "updated": "2026-10-23T15:20:00+03:00",
       "urls": [
         {
           "sign": "2b53bc216f85008f690f496cb8dedce4848e483f3d7689075051943884516ff3",
@@ -13323,13 +13278,13 @@
           ]
         }
       ],
-      "title": "Netanjahu määräsi armeijan valmistautumaan Länsirannan sulkemiseen Hebronin hyökkäyksen jälkeen",
+      "title": "Netanjahu määräsi armeijan valmistautumaan Länsirannan sulkemiseen ja väläyttää laajaa sotilasoperaatiota Hebronin hyökkäyksen jälkeen",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-23T11:55:54Z",
+      "updated": "2026-10-23T12:20:53Z",
       "urls": [
         {
           "sign": "c97b524284ba59ed1c9973b2ae46558a67014097193d2f4e9074fa40425682f7",
@@ -13423,6 +13378,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T11:40:51Z",
+      "urls": [
+        {
+          "sign": "307bebd2f976b2ccc38dc5ad33b542af1c2f6ee60c2ef827993df11894ba4d3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tampereen Työväen Teatterin Wickedissä Elphaba vaihtuu loppuvuodeksi – Sanni Lehto korvaa Yasmine Yamajakon",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T12:29:24Z",
+      "urls": [
+        {
+          "sign": "207b968867b09def4235476eadc34787273b2eb076eb7bbd4a0a75a4910719b4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sosiaali- ja terveysministeriö: Työeläkkeet nousevat ensi vuonna 2,58 prosenttia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T12:26:18Z",
+      "urls": [
+        {
+          "sign": "93edee9a565135e60491176639542e8b727a5105787b95f427bfeae25af0a094",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sacha Baron Cohenin Ali G -elokuva vedettiin pois teattereista Suomessa ja muissa Pohjoismaissa – syytä ei kerrota",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
