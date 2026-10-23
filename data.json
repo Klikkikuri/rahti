@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T06:28:07Z",
+  "updated": "2026-10-23T06:43:57Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -619,36 +619,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-20T04:01:36Z",
-      "urls": [
-        {
-          "sign": "a8c1bdfbe4e8d2a8384f4ae99b62fbc3496934abf2efe330f74eafcf848f4968",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Demokraatit pyrkivät kongressienemmistöön Yhdysvaltain välivaaleissa – Trumpin politiikka voi vaikeutua",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-20T04:00:35Z",
-      "urls": [
-        {
-          "sign": "38affd2acabaf23ed956710260e5271cc61afd4b526829dbcfe1ca0f92f5f911",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalifornian välivaaleissa äänestetään miljardööriverosta – tarkoituksena rahoittaa terveydenhuoltoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-20T04:33:21Z",
@@ -5585,23 +5555,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-21T20:35:22Z",
-      "urls": [
-        {
-          "sign": "8466c76a6baa2d562bf18f80c18e5d9bd6e7d2dd736e4be11badcc8a6aacaa0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin lähettiläs Witkoff neuvotteli Putinin kanssa Pietarissa – Putin vapautti yhdysvaltalaisvangin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T23:36:00+03:00",
       "urls": [
         {
@@ -5694,23 +5647,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-21T21:24:40Z",
-      "urls": [
-        {
-          "sign": "62b149523d91be61f9d43b159927dad19f31b234908692682e5eb43eb74faab9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain tiedustelu: Putin määräsi tehostamaan sabotaasia Nato-maissa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T21:05:00Z",
       "urls": [
         {
@@ -5769,21 +5705,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T21:55:47Z",
-      "urls": [
-        {
-          "sign": "57a34dcfedee6f15f971dbc080b7bb074db9ef8c378be3803ae6bf588ee58253",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "New Mexicon tuomari määrää Metalle 25 miljardin dollarin sakot käyttäjätietojen käsittelystä valehtelusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T23:00:10Z",
@@ -13000,7 +12921,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-23T08:00:00+03:00",
+      "updated": "2026-10-23T09:33:00+03:00",
       "urls": [
         {
           "sign": "82d71104b74a8c4912f4959ba0305af119cb38ad0a2f4604fbc5bf336aa0323d",
@@ -13374,6 +13295,84 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T06:31:58Z",
+      "urls": [
+        {
+          "sign": "cec5ae6674161883ec6a0ca4d91507de2f06d68d1cf6e608b466f4a58b4ecd52",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T06:32:45Z",
+      "urls": [
+        {
+          "sign": "61b2db3054192f4ec9b7efd01aa76419a1711fc97db85735c49c3efb7bc8d36b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Datakeskusyhdistyksen johtaja puolustaa datakeskusten rakentamista Suomeen, myöntää osan kritiikistä aiheelliseksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T06:43:57Z",
+      "urls": [
+        {
+          "sign": "9a1d5440a9a736e8e25d80478e9d33f48af51a2fbb7849bf7c4c02b468342118",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finland moves clocks back one hour on Sunday despite backing an end to seasonal time changes",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T06:30:45Z",
+      "urls": [
+        {
+          "sign": "7dbcbdb49a637a9979252ca9955a1117fb00090be1845ceda1b1e02d60c3e059",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin pormestari Daniel Sazonov: Kaupunki ei kasvata henkilöstöään, koska tekoäly hoitaa osan töistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T06:43:07Z",
+      "urls": [
+        {
+          "sign": "ad5b1488a1412068b44ba34eccf30eb7606d2e4e03e2efb381521d94b1731a5d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisin mukaan raaseporilainen mies ampui vaimonsa ja itsensä vuonna 2023 – murhatutkinta päätettiin, koska epäilty kuoli",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
