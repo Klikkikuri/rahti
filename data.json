@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T04:14:10Z",
+  "updated": "2026-10-23T07:30:00+03:00",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -711,21 +711,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-20T12:53:00+03:00",
-      "urls": [
-        {
-          "sign": "58226d882acc58809aec8174b928295d55062ac53b913f4a3e3144cf9fac46d6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansanedustaja Helen Haines menetti jalkansa, kun epäilty ajoi hänet päälle autolla Australiassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-20T03:28:35Z",
@@ -3718,23 +3703,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-21T18:49:48Z",
-      "urls": [
-        {
-          "sign": "149d2d5cfde4412c5f2af8ecad8ec8a35b706d935fc34c478d02e5bc61cd115f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtori sulki valtionhallinnon verkkopalveluja varotoimena PHP-ohjelmiston kriittisten haavoittuvuuksien vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T13:23:33Z",
       "urls": [
         {
@@ -5513,21 +5481,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-21T18:46:00Z",
-      "urls": [
-        {
-          "sign": "26fa08d80182e599289acc7f7fba7325a401f1da94bfe38c6da1467b8031dac3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisin mukaan useita lapsia joutui Ruotsissa sairaalaan syötyään metsästä löytämiään huumausainepitoisiksi epäiltyjä makeisia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T19:15:00+03:00",
       "urls": [
         {
@@ -5732,21 +5685,6 @@
         }
       ],
       "title": "Näyttelijä Matthew McConaughey kehotti huomioimaan sitoutumattomat ehdokkaat – spekulaatiot presidenttiehdokkuudesta Yhdysvalloissa kiihtyivät",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-21T18:35:20Z",
-      "urls": [
-        {
-          "sign": "64360581ec64c88417aec0f02daa5efc385b8c6743eec3897d70a8f2dbff0417",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset käyttävät Euroopan maista eniten Onlyfansia asukaslukuun suhteutettuna vuonna 2026",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13366,6 +13304,72 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T07:30:00+03:00",
+      "urls": [
+        {
+          "sign": "d8da5df2bb1649ac808467a91bc56adbfccded3810dfc1c8637d492bad402d0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T04:19:18Z",
+      "urls": [
+        {
+          "sign": "b8743a97f310a2ba0ef5741dc7a3fd176806b70e547238d839133591a4f5b709",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miska Haakana paloi loppuun Youtuben mainosmuutoksen takia – valvoi kolme vuorokautta ja päätyi päivystykseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T04:25:50Z",
+      "urls": [
+        {
+          "sign": "f1b05134bf24be0b3ac63354a937fb4902fb45869d58c5b1ea8bb5271d89d476",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Connor McDavid ohitti Jari Kurrin NHL:n vähintään viiden tehopisteen otteluiden määrässä – Oilers voitti Hurricanesin voittolaukauksilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T04:27:48Z",
+      "urls": [
+        {
+          "sign": "ed57181e20e822c62ceff14e1902b0a945082ce55db63c30a70e7ef7570d3c56",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukko.fi:n kysely: Yli puolet alle 30-vuotiaista yrittäjistä ei ole kuullut YEL-uudistuksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
