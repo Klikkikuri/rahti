@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T19:29:23Z",
+  "updated": "2026-10-23T19:38:10Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -768,21 +768,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T05:39:14Z",
-      "urls": [
-        {
-          "sign": "8997126d2257140cedd974215b49775f580301ef91ac5e97830859ca0fefbd7f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "LeBron James vastasi fanin huuteluun kirosanoilla – Philadelphia 76ers voitti New York Knicksin NBA-avauksessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-21T07:32:32Z",
@@ -13403,6 +13388,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T19:38:10Z",
+      "urls": [
+        {
+          "sign": "eb2fe20e375881c97faea2262ebd9724c78bd4910ce8669bfd0cf8b12f56f0ab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tommi Miettinen aloitti HIFK:n päävalmentajana 3–0-voitolla – asiantuntijat kehuivat avauspelaamista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
