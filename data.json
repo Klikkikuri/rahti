@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T16:41:30Z",
+  "updated": "2026-10-23T16:57:23Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1001,24 +1001,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T03:55:00Z",
-      "urls": [
-        {
-          "sign": "d47d22422582eca8e951aae6d858b30819cd2891c3a5a8ccd8960dfd794b2ed8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Israelin parlamenttivaalit ensi viikolla: Netanjahu jää jälkeen haastajansa mielipidemittauksissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-21T14:00:00+03:00",
@@ -4354,23 +4336,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-22T10:57:57Z",
-      "urls": [
-        {
-          "sign": "2543ecc54e403e535c49f94b78bdd6b1b5b6654ca4fea6aa6e6a809fa4cf0cae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaiset esittää 10 miljardin euron sopeutusta vuosille 2028–2031 – miljardin veropaketti toisi uuden pankkiveron, datakeskusten sähköveroluokan, säätiöiden verotuksen ja sokeriveron",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-22T05:45:49Z",
       "urls": [
         {
@@ -5366,23 +5331,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-22T10:58:01Z",
-      "urls": [
-        {
-          "sign": "4eb39faf720a0604aaa541119d27613dac015d1b1af34cce0b5ec6c0eade2e08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T10:32:29Z",
@@ -11719,7 +11667,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-23T11:43:35Z",
+      "updated": "2026-10-23T16:54:03Z",
       "urls": [
         {
           "sign": "d54c0bb5e6200c12800ff557a3c2355d80425ca416cbf2309ca65d1ed1b95238",
@@ -11728,9 +11676,11 @@
           ]
         }
       ],
-      "title": "Ranska lähettää 70 000 poliisia ja santarmia kaduille hillitsemään mielenosoituksia",
+      "title": "Ranska lähettää 70 000 poliisia ja santarmia kaduille hillitsemään mielenosoituksia ensi viikonloppuna",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13413,6 +13363,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T16:45:25Z",
+      "urls": [
+        {
+          "sign": "80789be23915256358c59c9199a2a1c1868b9f575570a2002061be9d527fc797",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kirja: Venäjän sotilastiedusteluun kytkeytynyt hakkeri pääsi väitetysti Trumpin vävyn puhelimeen – Kushner kiistää miljardiluokan tilit",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T16:57:23Z",
+      "urls": [
+        {
+          "sign": "e7fadac82e09fbdc3ff017c992a084c84661ed47a47bd61e26c51091ad85e488",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jussi69 sairasti virusperäisestä aivokalvotulehdukseen – niskan jäykkyys tärkeä hälytysmerkki",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T16:54:40Z",
+      "urls": [
+        {
+          "sign": "b9d5869364d66ab5d28139aa76f76d64f68a67774d261f2f5005192aadf64eef",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SaiPa iski neljä maalia 25 minuutissa ja pakotti Sportin Joni Ortion vaihtoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
