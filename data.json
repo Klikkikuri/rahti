@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T18:00:00+03:00",
+  "updated": "2026-10-23T15:15:07Z",
   "entries": [
     {
       "updated": "2026-10-23T14:40:44Z",
@@ -1162,23 +1162,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-21T03:22:00Z",
-      "urls": [
-        {
-          "sign": "009d297adc254296fcc2526aeef1021fa0ae768b4f0ffbc580262aaee574ecb0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Libanonissa lääkärit löysivät leikkauksessa 57-vuotiaan naisen keuhkosta puisen hammastikun, joka oli aiheuttanut kasvainta muistuttavan tulehduksen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-21T16:05:15Z",
       "urls": [
         {
@@ -1824,21 +1807,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T06:32:44Z",
-      "urls": [
-        {
-          "sign": "7b71e5c60c068742b562098ef0f6d778fcb453d09626cc3ae71610b3941f2712",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mynämäkeläinen viljelijä Aki Laaksonen korvasi väkilannoitteet koepellollaan lannalla ja ravinneliuoksella – sato pysyi ennallaan, säästöä satoja euroja hehtaarilta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-21T10:53:35Z",
@@ -5556,23 +5524,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-22T09:47:51Z",
-      "urls": [
-        {
-          "sign": "4eedf87201d03a896c701aa03cd62b72b7cf5c8046f3dd7bb7cf7432e1ae2368",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela: Kotihoidon tukeen tulee 1.1.2027 alkaen kolmen vuoden asumisvaatimus myös Suomen kansalaisille",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T06:11:09Z",
@@ -13274,7 +13225,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-23T14:41:17Z",
+      "updated": "2026-10-23T15:00:30Z",
       "urls": [
         {
           "sign": "e527093b75a72650bc7f732d88b8e32ba840135fd078d756c450864888790d4d",
@@ -13283,7 +13234,7 @@
           ]
         }
       ],
-      "title": "Valkoinen talo: Melania Trump sai aikaan paikallisen tulitauon Oleskyyn Ukrainassa",
+      "title": "Valkoinen talo: Melania Trumpin välittämä paikallinen tulitauko Oleshkyyn alkaa 29. lokakuuta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13409,6 +13360,56 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T15:15:07Z",
+      "urls": [
+        {
+          "sign": "ac8bec404debf84987de099c7fb6e968402f42617f0607daddd26dd165a6d010",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T15:05:59Z",
+      "urls": [
+        {
+          "sign": "0f2657fb80ecfa2cffabd904e43cc8d7c405adb1c1b1ce25ac134f8f28a409f6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kirjailija Satu Rämö esiintyi Chilessä espanjaksi, jota ei ollut puhunut 20 vuoteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T15:02:00Z",
+      "urls": [
+        {
+          "sign": "5c812b7d026557eebded838fdcb1e4e927d1357e64d73922dfd358886b9a728a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "TTK-tuomaristo kehui Anni Ihamäen esityksen tunnetta – pari sai 32 pistettä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
