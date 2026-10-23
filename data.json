@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T21:05:43Z",
+  "updated": "2026-10-24T01:02:00+03:00",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1678,23 +1678,6 @@
       "urls": [
         {
           "sign": "e11213cafc26a205be1804c153be2653c08d139538894c7b27ca1032f9cc9182",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T11:00:00+03:00",
-      "urls": [
-        {
-          "sign": "8fab408a36be1f4b423240586202081e3f256f7163b76ddb09727b2dc2aeeaa8",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -13397,6 +13380,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-24T01:02:00+03:00",
+      "urls": [
+        {
+          "sign": "11fb68eb97be57e6b2d5874ed41d40f3ffcfba024094e30dd4c6608fdf477f8a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bild: Hitlerin entinen teehuone Kotkanpesä palaa Baijerissa – poliisi epäilee tuhopolttoa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
