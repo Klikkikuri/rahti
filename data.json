@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T05:39:20Z",
+  "updated": "2026-10-23T09:00:00+03:00",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -1245,21 +1245,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-20T14:22:00Z",
-      "urls": [
-        {
-          "sign": "4604309394c04a2c237378fc3becb0e0ce01d1390b07f4843436cf2dde4b7e7c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Museovirasto tunnistaa Inkoon edustalta löydetyn hylyn 1800-luvun englantilaiseksi purjelaivaksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-20T10:31:24Z",
       "urls": [
         {
@@ -2177,21 +2162,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-20T14:11:40Z",
-      "urls": [
-        {
-          "sign": "97c0e11f416f29b3b1face6bd1660248e010a4acfc24389fdae63622c4e6d4e2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara nimesi Fredrik Norrenan päävalmentajakseen Kari Jalosen yllättäen lopetettua uransa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-20T17:45:00Z",
       "urls": [
         {
@@ -2366,21 +2336,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T13:24:00+03:00",
-      "urls": [
-        {
-          "sign": "007efc2d61851bea635457387f176125388f6710fc1a6ec4b2104d1a111fbe03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkimus: Opettajat eivät välttele huono-osaisten alueiden kouluja, pulaa on erityisesti hyvätuloisten alueiden päiväkodeissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13371,6 +13326,55 @@
       "title": "Volvo Cars aikoo vähentää 2 500 työpaikkaa, noin 2 000 Ruotsissa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T05:52:38Z",
+      "urls": [
+        {
+          "sign": "574a1ed95729197f39d5f0b9bd8e441f3675c23fb625813fe867dfd761f2dd8f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Christa Piken teloitus Tennesseessä epäonnistui – asianajajat: teloitusryhmä jatkoi revenneistä suonista huolimatta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T05:56:36Z",
+      "urls": [
+        {
+          "sign": "659ae4dd2429bcdd955467b27f3f80e6b76445acc11b9fce13a26701c024b6b5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tulli ottaa marraskuun alusta käyttöön kahden euron käsittelymaksun EU:n ulkopuolelta tuleville verkkokauppaostoksille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T09:00:00+03:00",
+      "urls": [
+        {
+          "sign": "9254ccf341c7cee75b31ad7ba1d1db912dd8131025b1f3bc85b89a04116df728",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
