@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T06:58:10Z",
+  "updated": "2026-10-23T07:13:27Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -1504,21 +1504,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T14:25:00+03:00",
-      "urls": [
-        {
-          "sign": "3c987a3ce63ebf1c805b377b05f2766dd13c193b71a9ab2933f5c9fe2c29c275",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskusta ehdottaa kotitalouksien sähköveron poistoa, datakeskukset maksaisivat ”premium-hintaa”",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5866,21 +5851,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-22T02:00:42Z",
-      "urls": [
-        {
-          "sign": "94003a319ea6293349d76fb04607829a6b4a3f8a8ba3d4c9a5ffc36ed080b95f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaiset esittää hyvinvointialueiden rahoituksen indeksikorotusten leikkaamista – Rydman: säästö noin miljardi euroa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-22T02:00:00Z",
       "urls": [
         {
@@ -5896,36 +5866,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-22T02:26:59Z",
-      "urls": [
-        {
-          "sign": "7a2b003c598c3b91e9c1a249f351e230d00dc39cc90cc5445fa8c6b1f4679639",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ottawa-fanit buuasivat entiselle kapteenilleen Brady Tkachukille paluuottelussa – Tkachuk teki maalin, mutta Florida hävisi 5–1",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-22T02:22:31Z",
-      "urls": [
-        {
-          "sign": "0ed325b1f60f75801967b0e06169d5ca24336cbb0383c433eabd82a20be8c886",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos: Kuuraa teillä erityisesti itä- ja keskisuomessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T02:15:00Z",
@@ -6004,21 +5944,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-22T02:37:46Z",
-      "urls": [
-        {
-          "sign": "3238e183be4ad722b7fcfda58d929c61a3a3c25281741c27a80fb044876e910a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuomas Iisalon Memphis voitti Lauri Markkasen Utahin 123–103 – Markkanen osui vain yhdestä seitsemästä kolmosestaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -12939,7 +12864,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-23T05:56:36Z",
+      "updated": "2026-10-23T07:00:27Z",
       "urls": [
         {
           "sign": "659ae4dd2429bcdd955467b27f3f80e6b76445acc11b9fce13a26701c024b6b5",
@@ -12949,8 +12874,10 @@
         }
       ],
       "title": "Tulli ottaa marraskuun alusta käyttöön kahden euron käsittelymaksun EU:n ulkopuolelta tuleville verkkokauppaostoksille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13374,6 +13301,89 @@
       "title": "The Telegraph: Eurooppa kartoittaa yhteistä neuvottelijaa Ukrainan rauhanneuvotteluihin – esillä muun muassa Stubb, Meloni ja Pavel",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T10:00:00+03:00",
+      "urls": [
+        {
+          "sign": "61653ad657cfc2572e79b8afabddbd948ad44c0845f7b64fd12d2c95cba015c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T07:06:44Z",
+      "urls": [
+        {
+          "sign": "4f9af0023eaf86a90e54c77d4ba025231d6c8983fa16c74e9e441b8433577b8b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T07:03:00Z",
+      "urls": [
+        {
+          "sign": "dfcfc3d8dfd69897196b0aa9e63e6f99b45886de9b09cb25fc8b0c8b27452d67",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi epäilee: Kuljettaja törmäsi betonitolppaan Espoossa – auto pyörähti katolleen, kuljettaja loukkaantui vakavasti ja matkustajat loukkaantuivat lievästi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T07:10:18Z",
+      "urls": [
+        {
+          "sign": "676fd11149e343af2c50d1281acb0d9dc87d9a6779ed3fb195c386d89e481080",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miesten yleisin virtsankarkailu alkaa äkillisestä pissahädästä – urologi kehottaa hakeutumaan hoitoon ajoissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T07:13:27Z",
+      "urls": [
+        {
+          "sign": "4d18ae49984a129feda42692e571e8455ec05edf317199663b3be29bd7cf0eca",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itävaltalaissentteri Lukas Haudum siirtyi TPS:ään kahdessa päivässä – on nyt Liigan pistepörssin viides",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
