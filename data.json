@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T05:44:00+03:00",
+  "updated": "2026-10-23T03:00:11Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -19,21 +19,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-02T03:02:33Z",
-      "urls": [
-        {
-          "sign": "e434f0541dbbb17129aac8d8a7a7b65cdf6d6b30de0d13244adebf2172a8465c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hannes Pöllä liittyy Kipinä Basketiin ja odottaa innolla Korisliiga-kautta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Äks"
     },
     {
       "updated": "2026-10-03T15:52:34Z",
@@ -5607,21 +5592,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-21T17:09:59Z",
-      "urls": [
-        {
-          "sign": "a4761646908cdc4b5ce957d7af1d1669f8a600fa74ab666a603e972e6ec6d6e5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kommentti: Markkasen Utah Jazzilla on uransa paras miehistö – suora pudotuspelipaikka on kovan työn takana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T17:35:32Z",
       "urls": [
         {
@@ -5730,23 +5700,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T17:15:56Z",
-      "urls": [
-        {
-          "sign": "06e467643a174b50633cbfcf879bc7ea8ae239a79fc16d2a471b872d95c54785",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T17:54:22Z",
@@ -6192,21 +6145,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-21T17:02:47Z",
-      "urls": [
-        {
-          "sign": "c08891388e791b6855e833f4d2a80f42e61c622e852119afa47114eaea88ac75",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mervi Tapolan omakotitalo Tampereen ja Ylöjärven rajalla poistui myynnistä – kiinteistönvälittäjä: massiivinen kylpyhuoneosasto rajaa ostajia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13376,6 +13314,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T03:00:02Z",
+      "urls": [
+        {
+          "sign": "f9a1976d6a36e8efe797b2794940f4141f4a0cedc73f6b037896a1bf7447c750",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nivalan Makkaratie voitti Suomen surkein kylätie -kuvakilpailun",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T03:00:11Z",
+      "urls": [
+        {
+          "sign": "ef416e39f64a70ab7454177800082bfedd688c026b11bf8c0ad042db97de8cc2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T03:00:11Z",
+      "urls": [
+        {
+          "sign": "13543682413ee94bd165e34c5ebe0465f9ef9092e8e6484b872b431dc52ff710",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsinki isännöi yleisurheilun EM-kisoja 2030 – Arto Bryggare varoittaa vuoden 2012 tappion toistumisesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
