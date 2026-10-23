@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T08:27:52Z",
+  "updated": "2026-10-23T11:45:00+03:00",
   "entries": [
     {
       "updated": "2026-10-23T07:42:43Z",
@@ -1829,21 +1829,6 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T16:13:00+03:00",
-      "urls": [
-        {
-          "sign": "13722c63f5fcf76a47a7967f35780f07dca28597b98897bb5014e8a698e015eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rasismikohun vuoksi poistunut Apu palasi Simpsoneihin – ääninäyttelijäksi intialaisamerikkalainen Sunil Malhotra",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5892,36 +5877,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T04:55:06Z",
-      "urls": [
-        {
-          "sign": "5acc8fad76a68ba3f96577b8cc778b7566e0fb101a95fed36f2bf7314515b778",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Minja Koskela sekoitti tulot ja varallisuuden miljonääriveroa perustellessaan – Professori pitää virhettä anteeksiantamattomana",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-22T04:42:59Z",
-      "urls": [
-        {
-          "sign": "25a8b84f13add446b4c4493d079c6930a141261f41da33acb45c2ea3dc1cb782",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "TPS:n hyökkääjä Kasper Pikkarainen sai yhden ottelun pelikiellon Ilves-pelissä päähän osuneesta poikittaisesta mailasta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T05:05:17Z",
@@ -12701,7 +12656,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-23T08:17:04Z",
+      "updated": "2026-10-23T08:39:00Z",
       "urls": [
         {
           "sign": "cfea552706f1133f343d08fa4d4e3fc6993b8354a3d26146572186d2fa04875c",
@@ -12710,7 +12665,7 @@
           ]
         }
       ],
-      "title": "Oppositiopuolueet jättävät välikysymyksen elinkustannusten noususta",
+      "title": "Oppositiopuolueet jättävät välikysymyksen arjen kustannusten noususta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13402,6 +13357,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T08:34:00Z",
+      "urls": [
+        {
+          "sign": "5f5b6094de4604bfe35a9c89d64d0c29895a96e3efde052f09c890d529d1dc75",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vakiovinkit: Everton voi yllättää Arsenalin vieraana, Chelsea vahva valinta Tottenhamia vastaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T11:45:00+03:00",
+      "urls": [
+        {
+          "sign": "9f8ba61d5fb9a0dc3e17f8a04559e2f680e141f4afb5e8f5d723c8773a9bcd2e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yleislääkäri: Terveydenhuollon priorisointi tapahtuu näkymättömästi jo ennen hoitoon pääsyä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T08:39:22Z",
+      "urls": [
+        {
+          "sign": "1fecc6fc4a55523f105bcf6db234d7c33a8b7c42b989261f73a3e961b399c40f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nuoret häiritsevät Kemin asukkaita öisin, poliisi varoittaa ajoneuvojen takavarikoinnista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
