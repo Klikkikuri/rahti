@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T12:29:24Z",
+  "updated": "2026-10-23T12:44:57Z",
   "entries": [
     {
       "updated": "2026-10-23T07:42:43Z",
@@ -655,21 +655,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-20T15:31:57Z",
-      "urls": [
-        {
-          "sign": "ad379b2c36919f8b3cf3a9fb8dcab540417151d94f776374a355325c5b182a2d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oikeuskansleri: Poliisi noudatti lakia jättäessään aloittamatta esitutkinnan Keskisarjan puheista",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-20T08:12:17Z",
       "urls": [
         {
@@ -847,21 +832,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-20T18:10:50Z",
-      "urls": [
-        {
-          "sign": "a1c0d6523b02489336d1be7c5b77263b15f4bfdafc9d75f94652e2819c33004e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara hävisi KooKoolle Norrenin ensimmäisessä ottelussa päävalmentajana, Jukurit nousi SM-liigan kärkeen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-20T16:04:02Z",
@@ -1067,23 +1037,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T23:23:00+03:00",
-      "urls": [
-        {
-          "sign": "b339b63c42a84ee6b3568bdc955fc4c243364a55a1ee65b740b03b38bfe2449c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolalaiset protestoivat 27 kaupungissa aborttilain muutosten vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -5588,21 +5541,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-22T07:39:12Z",
-      "urls": [
-        {
-          "sign": "8fcd1da996d8999d42a2b880860cec88711f38a36dda54aedca7541cf4b15e73",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK:n urheilujohtaja Janne Laukkanen ottaa vastuun Olli Jokisen potkuista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T07:36:40Z",
@@ -13237,7 +13175,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-23T12:29:03Z",
+      "updated": "2026-10-23T12:42:58Z",
       "urls": [
         {
           "sign": "0c5bb4936ac30e0f8c47d2accde6f5a620028e13f038a7bfda5da7d6a7fea0e9",
@@ -13246,7 +13184,7 @@
           ]
         }
       ],
-      "title": "Etelä-Pohjanmaan käräjäoikeus tuomitsi kaksi miestä Kai-Pekka Savolaisen taposta 8 ja 10 vuoden vankeuteen",
+      "title": "Etelä-Pohjanmaan käräjäoikeus tuomitsi kaksi miestä Kai-Pekka Savolaisen taposta 8 ja 10 vuoden vankeusrangaistuksiin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13423,6 +13361,70 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T12:39:01Z",
+      "urls": [
+        {
+          "sign": "351140ada84252a5a538800593cf6a2a61fd1208ef487f5fe5687c797df8d9a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uber and Bolt drivers in Helsinki protest low fares, rising costs",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T15:31:00+03:00",
+      "urls": [
+        {
+          "sign": "979ef15026b74dee22a1678ab1380f70a5c0e00ca1fb081d909bc290b80f4753",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kela vaatii toimeentulotukilain muuttamista, jotta opiskelijat voivat jatkaa opintojaan hakiessaan työttömyysturvaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T12:44:57Z",
+      "urls": [
+        {
+          "sign": "4b9912149fe4c55c656549ce709dbd8325dd23f0d15f89329210887370fb9fe1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelicans harkitsee Jarkko Oikarista uudeksi urheilujohtajakseen",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T12:30:18Z",
+      "urls": [
+        {
+          "sign": "1471315a91a4644c34f051f6f04528094ab1d89177391bae066652a009699284",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Laulaja Viivi siirtää keikkansa ja levyjulkkarinsa ensi kevääseen sairastumisen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
