@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T20:28:33Z",
+  "updated": "2026-10-23T20:50:24Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1977,23 +1977,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T06:14:48Z",
-      "urls": [
-        {
-          "sign": "8f31e0b0c62f61fe54da6c17b303046748ee916ebfcb0889d0a1fbb2d0970559",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rantanen teki hattutempun, Dallas Stars voitti Boston Bruinsin jatkoajalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-21T13:18:00+03:00",
@@ -5622,23 +5605,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-22T13:45:39Z",
-      "urls": [
-        {
-          "sign": "b5d4988252b3d2236d92c00836409e52cefa23e0852bfa57f593d2bfde6fa0b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Senaatti-kiinteistöt myi Oulun vanhan vankila-alueen – ostaja selvittää toimisto-, kulttuuri- ja majoituskäyttöä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T13:37:51Z",
@@ -13401,6 +13367,36 @@
       ],
       "title": "Veikkaus: Kemistä ostettu porukkapeli voitti Eurojackpotissa yli kolme miljoonaa euroa",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T20:50:24Z",
+      "urls": [
+        {
+          "sign": "a2c79cffde5488bb7f8b4b3dc21fcc125742fd667975ff061d02d1ccb785c74b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi: Ukrainan, Yhdysvaltojen ja Venäjän rauhanneuvottelijat tapaavat Abu Dhabissa marraskuun alkupuolella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T20:46:55Z",
+      "urls": [
+        {
+          "sign": "296302418422909d0b06304eec73627ac2abd719b3b45e0b6460417218b79f01",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maltaan rekisteröity tankkeri kuljettaa 40 000 tonnia venäläisdieseliä New Yorkiin Trumpin ja Putinin sopimuksen perusteella",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
     }
