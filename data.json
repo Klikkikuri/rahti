@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T03:00:11Z",
+  "updated": "2026-10-23T06:10:00+03:00",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -653,23 +653,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-19T20:15:39Z",
-      "urls": [
-        {
-          "sign": "deee1b6e2615196d29c08c2f6ca2e47c59f99ac98c0ca5e146aac8211f97b3e7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Japani laukaisi avaruusluottimen kohti Marsin kuuta Phobosta – näytteiden paluu Maahan vuonna 2031",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-20T00:18:28Z",
       "urls": [
         {
@@ -1162,21 +1145,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-20T11:58:29Z",
-      "urls": [
-        {
-          "sign": "c9c5189e6b9a8a46d097c578fae5ad46ab18aa0d05c2fc355c6b203afc22a4e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SM-liiga siirtää kymmenen ottelun pelipäivää",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-21T07:52:00+03:00",
@@ -12867,7 +12835,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-23T05:24:00+03:00",
+      "updated": "2026-10-23T06:10:00+03:00",
       "urls": [
         {
           "sign": "77724c43e89f0fbb7f0c3e24a6667dfe2ddf60223f46ab333280793fd547eb12",
@@ -12876,7 +12844,7 @@
           ]
         }
       ],
-      "title": "Putin: Venäjä on valmis jatkamaan Ukrainan rauhanneuvotteluja ensi kuussa – neuvotteluissa käsiteltävä myös Euroopan laajempaa turvallisuuskehystä",
+      "title": "Putin: Ukrainan rauhanneuvotteluissa käsiteltävä Euroopan laajempaa turvallisuuskehystä – Venäjä valmis jatkamaan neuvotteluja ensi kuussa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13363,6 +13331,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T03:00:35Z",
+      "urls": [
+        {
+          "sign": "a172db2c77cbb1da5f0e392d77bb3287bb724ec66b04609d598c25f2735f992f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nivalan Makkaratie voitti yleisöäänestyksen Suomen surkeimmasta kylätiestä – kunnostus on ollut korjauslistalla vuosia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T03:06:00Z",
+      "urls": [
+        {
+          "sign": "3153e23d5f016e749e3d9aed2e71e6f978c28cc7b11215478bb9752f071d3c14",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sodanvastaisen piirustuksen takia Venäjän viranomaisten vainoama Masha Moskaljova pakeni isänsä kanssa Venäjältä Ranskaan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
