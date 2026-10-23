@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T01:16:24Z",
+  "updated": "2026-10-23T01:44:53Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -3497,21 +3497,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T16:09:09Z",
-      "urls": [
-        {
-          "sign": "8c0e987a8bdfafbdf19649571f6551cd3b2ce87352650deaa4ab557b7fe18479",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK:n valmentajamuutos: Testaa, muistatko 11 viimeisintä päävalmentajaa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T03:22:00Z",
@@ -13366,6 +13351,23 @@
       "title": "Thomas Markle nuorempi syyttää isäänsä Thomas Marklea lasten seksuaalista hyväksikäyttöä esittävän materiaalin hallussapidosta – Samantha Markle pitää syytöstä kostona",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T01:44:53Z",
+      "urls": [
+        {
+          "sign": "46b1e5b65c906bb46047feff1d7466ad182d785fd67b982539f469ad397c841a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hegsethin avustajat vaurioittivat Pentagonissa Eisenhowerin historiallisen maapallon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
