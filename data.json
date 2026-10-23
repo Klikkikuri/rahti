@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T03:41:00+03:00",
+  "updated": "2026-10-23T00:55:48Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -3090,21 +3090,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T15:39:44Z",
-      "urls": [
-        {
-          "sign": "f6ba0b4a18b9c9fdd0c7b75224ae1f4ec7371b89e4665af6b38b7c0329346e17",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Patrik Laine ei aio tehdä sopimusta Eurooppaan, kertoo ESPN:n NHL-toimittaja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T08:56:04Z",
@@ -13367,6 +13352,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T00:55:48Z",
+      "urls": [
+        {
+          "sign": "5b251c3a71fafd801cf41c83d0f11260b1404e08535fa8878edb43f9439febde",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "St. Louis Bluesin Aleksanteri Kaskimäki sai NHL-uransa ensimmäisen tehopisteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
