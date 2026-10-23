@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T05:12:00Z",
+  "updated": "2026-10-23T05:28:37Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -5570,21 +5570,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T19:14:13Z",
-      "urls": [
-        {
-          "sign": "a4d47c9892917eae32e386ab778a91dd839a1c284ae6526d92a134b981eb1521",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valamiehistö totesi flamingon varastaneen kanadalaismiehen syylliseksi eläinrääkkäykseen Las Vegasissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T16:43:52Z",
@@ -13370,6 +13355,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T05:28:37Z",
+      "urls": [
+        {
+          "sign": "91124e93d37aff479200bdbb37d9516e01c2c8bb6024d4278b691074b702436a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä-tutkija Mark Galeotti: Putin halveksii Trumpia ja pitää tätä helposti manipuloitavana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
