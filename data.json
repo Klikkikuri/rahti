@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T06:30:00+03:00",
+  "updated": "2026-10-23T03:39:08Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -619,21 +619,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-19T22:02:20Z",
-      "urls": [
-        {
-          "sign": "20104ba6b21ab7d52f064b7273e88210b1948cdf1a2382cb3ec2a903ba0a7ef7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset raportoivat useita kuolleita Espanjan itäosan tulvissa Valencian ja Katalonian alueilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-19T23:45:28Z",
@@ -5623,23 +5608,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-21T17:54:22Z",
-      "urls": [
-        {
-          "sign": "f20c3873803a81a62869f99f53d78f3e7fb70addd0a0666477f493fc6a885e63",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viranomaiset testaavat torstaina Kanariansaarilla tulivuorenpurkauksen hätäviestejä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T19:11:51Z",
       "urls": [
         {
@@ -5956,21 +5924,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-21T18:00:30Z",
-      "urls": [
-        {
-          "sign": "2893216d5251eacb06b53378a575e8369724fb5d05a995bb2e74a02848f80a22",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sara Forsberg tulkitsi Nightwishin kappaletta Hitmix-radiossa - keskustelua yhtyeen uudesta solistista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T17:06:26Z",
@@ -13363,6 +13316,55 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T03:32:03Z",
+      "urls": [
+        {
+          "sign": "53defb08963e13b54fa07d30915c53276826118a8830126101052a4254eaa6e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putinin lähipiiriin kuuluva Vladimir Jakovlev omistaa kiinteistön Kotkan Mussalon sataman lähellä – puolustusministeriö esti kaupat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T03:39:08Z",
+      "urls": [
+        {
+          "sign": "360f90bc949b36ed005aff3a4644b3fae5a08939515a5201f586993ae520732b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jämsän työttömyysaste 15,6 prosenttia – työllisyysalueen johtaja uskoo datakeskusten tuovan uusia työpaikkoja",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T03:38:51Z",
+      "urls": [
+        {
+          "sign": "4b661b2823c88c8f9a77f285c517af4acff4fbfaa32ddecd912211c533870f4d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Roope Hintz iski kaksi maalia, Dallas Stars voitti Winnipeg Jetsin 3–2 jatkoajalla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
