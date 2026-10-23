@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T06:43:57Z",
+  "updated": "2026-10-23T06:58:10Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -619,21 +619,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-20T04:33:21Z",
-      "urls": [
-        {
-          "sign": "d6a852188df0ea2142dc102b3b9c9fda2a6e4fbcf7154f894ed10ee396f16565",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Huippututkija Alexander Diener toteaa, että rajojen linnoittaminen ei ole hyvä ratkaisu ja rajat tulisi nähdä suodattimina",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-20T04:38:50Z",
@@ -1300,23 +1285,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-20T13:43:00+03:00",
-      "urls": [
-        {
-          "sign": "7cca7b8c5ee20f65b9e82e2f1a30124b4d3f6a1e1de6c895919d2c475555e605",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-20T16:24:00+03:00",
       "urls": [
         {
@@ -1520,24 +1488,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T15:19:00Z",
-      "urls": [
-        {
-          "sign": "408447e1bee33642a1dba6435ca8b24f08aaf581f2af49cbfee2d67566591024",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnairin mukaan lentokoneiden häiriökäyttäytyminen on lisääntynyt alkoholin ja matkustajien stressin vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-20T20:13:00+03:00",
@@ -5707,21 +5657,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-21T23:00:10Z",
-      "urls": [
-        {
-          "sign": "b0c0ba2f0fabbcd00a6b38e3bebca0e1d488c2df784f895bd6a623afaf3175c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa jokaiselle eläinradan merkille",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-22T02:00:00+03:00",
       "urls": [
         {
@@ -5914,51 +5849,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T23:22:08Z",
-      "urls": [
-        {
-          "sign": "a8db4e81f09b05d804e9db6233682688f3096af66c1d7f0e7e2e224b4b0083ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Macron syyttää Trumpia ja muita ulkomaanjohtajia Ranskan levottomuuksien hyväksikäytöstä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-22T00:32:20Z",
-      "urls": [
-        {
-          "sign": "b8db9255e25ee86890b09cc468566c29ca8136289b4897f87dbb96427d3f5948",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Matthew Perryn sisar: Perhe tiesi riippuvuuden vakavuudesta jo Frendit-hääjakson aikaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-22T01:20:55Z",
-      "urls": [
-        {
-          "sign": "502e9e3d2de60f78c4efed75d87965e2238a9347dde3dc5e9d0ca8e92ca84a6e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kysely: Amerikkalaiset jakautuvat Christa Piken teloituksen uusimisesta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T01:18:37Z",
@@ -13370,6 +13260,118 @@
         }
       ],
       "title": "Poliisin mukaan raaseporilainen mies ampui vaimonsa ja itsensä vuonna 2023 – murhatutkinta päätettiin, koska epäilty kuoli",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T06:46:09Z",
+      "urls": [
+        {
+          "sign": "fd7c5ff8c8ada9e3c2b7af04d72e7f7e522e4460e8b4ef711c22bfbce87ee04f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Niko Saarinen juontaa Big Brother -videopodcastia, sarja palaa MTV3:lle joulukuussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T06:50:12Z",
+      "urls": [
+        {
+          "sign": "710e3b4a6395256fb57f49b7a72acdbddc0c79ba900ecc9b8095f265479edfab",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tulli perii marraskuusta alkaen kahden euron käsittelymaksun EU:n ulkopuolelta saapuvilta verkkokauppaostoksilta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T09:54:00+03:00",
+      "urls": [
+        {
+          "sign": "9508d59a33e8ad697269a3e8215f66cbbc3d18ec564ff8c5f8dbb370393d29c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auto pyörähti katolleen Espoon Suvelassa – kuljettaja loukkaantui vakavasti, poliisi epäilee rattijuopumusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T06:56:36Z",
+      "urls": [
+        {
+          "sign": "ac03f9dded79ff1d57f9cbaf6f25edee0a645b8aba679903fcc864f5e85ff728",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomenlahden merivartiosto palkitsi neljä kansalaista meripelastuksista – Ilmari Heikkinen pelasti perheen Helsingin Aurinkolahdessa, pieni tyttö oli melkein valahtanut pelastusliivien lävitse",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T06:45:57Z",
+      "urls": [
+        {
+          "sign": "cfea552706f1133f343d08fa4d4e3fc6993b8354a3d26146572186d2fa04875c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T06:58:10Z",
+      "urls": [
+        {
+          "sign": "b97f1f38edd878f97f542e18c8f4a477a9fa928970c0c7f0e647e7644e35c7a3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä-Korea ehdottaa sotilasneuvotteluja Pohjois-Korean kanssa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T06:53:02Z",
+      "urls": [
+        {
+          "sign": "aa557fc43946484e125bff4ee7afb738f0a18d78c5d2e624a90961e09afe70ba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "The Telegraph: Eurooppa kartoittaa yhteistä neuvottelijaa Ukrainan rauhanneuvotteluihin – esillä muun muassa Stubb, Meloni ja Pavel",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
