@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T11:00:00+03:00",
+  "updated": "2026-10-23T08:11:32Z",
   "entries": [
     {
       "updated": "2026-10-23T07:42:43Z",
@@ -621,21 +621,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-20T05:14:24Z",
-      "urls": [
-        {
-          "sign": "accf9fbf9f9cae02800391829be5da7ecbf1eb28b774a1fae35910d8e09c4181",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Stubb tapaa tiistaina Oslossa Zelenskyin ja Norjan pääministeri Jonas Gahr Støren",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-20T23:22:00+03:00",
       "urls": [
         {
@@ -993,21 +978,6 @@
       ],
       "title": "Koko Suomi leipoo -kilpailija Dzmitry jakaa ohjeensa lakritsi-unikonsiemenkakkuun tyrnihillolla ja marengilla",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-20T16:13:01Z",
-      "urls": [
-        {
-          "sign": "b4e295e1c17af3d6139b06ea96dd3325cc77e100f213d0af9d7ece5ea734ab68",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Dallasin suomalaispuolustaja Esa Lindell sivuissa viikon alavartalovamman vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -1593,21 +1563,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-20T15:57:00+03:00",
-      "urls": [
-        {
-          "sign": "34481c2dda9e47bdb4659fe0e0ec72273aefcb192f93a7a07ca2f173d60c92bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallinto-oikeus: Poliisihallitus hylkäsi ympäristöjärjestön rahankeräysluvan laittomalla perusteella",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-21T02:00:00+03:00",
@@ -5910,21 +5865,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T04:04:54Z",
-      "urls": [
-        {
-          "sign": "60cb4033345a89e92142da60abf5740f1ab9995aeb3e117beb8c4bdf62f66511",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lidl: 400 euron Monsieur Cuisinen myynti jää airfryerien myyntiä vähäisemmäksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T03:34:39Z",
@@ -13401,6 +13341,72 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T08:04:05Z",
+      "urls": [
+        {
+          "sign": "7905fc1089837c2f620187286e9bd61b7af5c508dd4f5e0bd86403a1d5e6f697",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hämeen poliisi päätti Asikkalan uraaniesineen tutkinnan epäillyn kuoltua – esine oli ydinvoimalan polttoainepelletti",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T08:11:32Z",
+      "urls": [
+        {
+          "sign": "378eb6b0a753c6a1cfcd1b41d964b779d560669e091eeb437f144a029fe76bcb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi: Asikkalasta löytynyt radioaktiivinen esine oli rikastettua uraania – välitöntä vaaraa ei ollut",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T11:08:00+03:00",
+      "urls": [
+        {
+          "sign": "789f469a5c66359b989cf56312ec5210df653fe79fd60c7f43beb8a3185eeea3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-23T08:03:19Z",
+      "urls": [
+        {
+          "sign": "8d4da07b29718f21e7c420a7316155243701f12dfe0316645455d88eeb618fe8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Finland's Iceye, Nokia sign letter of intent with Ukraine's defence ministry to develop satellite communications",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
