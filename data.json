@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T07:35:00+03:00",
+  "updated": "2026-10-23T05:00:25Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -2268,23 +2268,6 @@
       "title": "Koko Suomi leipoo -ohjelmassa Eveliina jakaa sitruuna-lakritsihalko-reseptinsä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-20T13:42:19Z",
-      "urls": [
-        {
-          "sign": "7365070a95d3b640118367ae47086ca4aeac49d5405d472071fdb639388a1450",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntijat varoittavat tekoälyn vakuuttavista virheistä, vastuu jää ihmiselle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5384,24 +5367,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-21T18:49:56Z",
-      "urls": [
-        {
-          "sign": "58cc81a9b8814aea17c9c8e4915e20e802e6c47efd0c4ba82013d51c21299df7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T17:41:14Z",
       "urls": [
         {
@@ -5641,21 +5606,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T18:58:40Z",
-      "urls": [
-        {
-          "sign": "3f8fb2c677911d732ea42de4d480a9eae0da27fc2c5c347983e26ce7da151bea",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Matthew McConaughey kehotti huomioimaan sitoutumattomat ehdokkaat – spekulaatiot presidenttiehdokkuudesta Yhdysvalloissa kiihtyivät",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-21T18:00:34Z",
@@ -11962,7 +11912,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-23T07:35:00+03:00",
+      "updated": "2026-10-23T07:47:00+03:00",
       "urls": [
         {
           "sign": "32ab9d8ff95f30ba4157643ed9035fc417ad6b126cdf8bf4256f121c517553cc",
@@ -11971,7 +11921,7 @@
           ]
         }
       ],
-      "title": "Kiinan Tiibetissä 7,0 magnitudin maanjäristys vaati kuolonuhreja ja sorti taloja",
+      "title": "Kiinan Tiibetissä torstai-iltana sattui 7,0 magnitudin maanjäristys, joka vaati kuolonuhreja ja sorti taloja",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13371,6 +13321,55 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T05:00:25Z",
+      "urls": [
+        {
+          "sign": "c21555f17751518ee5d0835858972767d1dc20d5be45066bec902048b1eaeece",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "9ee7588fc0858aabc424344c3e9abc0b6cb8823b0182394ed41f6316e4b75b7f",
+          "labels": []
+        }
+      ],
+      "title": "Nokian osake laski torstaina 14,8 % New Yorkin pörssissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T04:45:00Z",
+      "urls": [
+        {
+          "sign": "5693b644bae2dc60437f3e7980b2a22caaff29560b441359b19f2fb3e54cb6ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Autoalan keskusliitto esittää käytettyjen autojen virhevastuulle vuoden rajaa – kuluttaja-asiamies sanoo uudistuksen siirtävän korjauskuluja ostajalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T04:58:58Z",
+      "urls": [
+        {
+          "sign": "fb598effb5093264058aab6703cef320e0e362cdc3fe92bb51c8b26b5795c024",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "UFC jatkaa otteluiltoja Lähi-idän kriisialueella – asiantuntija: venäläisottelijoita lähetetään riskialueelle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
