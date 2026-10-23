@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T02:11:00Z",
+  "updated": "2026-10-23T02:30:21Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -5954,21 +5954,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-21T16:46:40Z",
-      "urls": [
-        {
-          "sign": "d5f93fe9846268e73153525432c9324db50df7c3937097cf8e6cbfc329132761",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Antti Pennanen jatkaa Leijonien päävalmentajana kevääseen 2030",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-21T20:11:00+03:00",
       "urls": [
         {
@@ -6401,23 +6386,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T16:30:56Z",
-      "urls": [
-        {
-          "sign": "131e78cabb92a000edfae084e344f2c639804e4e4a6ecb9d1c9d4d0bee491401",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putinin tytär Marija Vorontsova: Lääketiede voi hidastaa ikääntymistä – Venäjä panostaa pitkäikäisyystutkimukseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T12:34:54Z",
@@ -13023,7 +12991,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-23T03:10:00+03:00",
+      "updated": "2026-10-23T05:24:00+03:00",
       "urls": [
         {
           "sign": "77724c43e89f0fbb7f0c3e24a6667dfe2ddf60223f46ab333280793fd547eb12",
@@ -13371,6 +13339,39 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T02:30:21Z",
+      "urls": [
+        {
+          "sign": "13753243589c62212818d3b33c26e25c705993edfd69a24432e50495fc81fa50",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hypo huomioi datakeskushankkeiden työpaikkavaikutukset asuntoluottoluokituksessa – Tampereen seutu A-luokan kärjessä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T02:20:04Z",
+      "urls": [
+        {
+          "sign": "422b442961da5e03e2c5a873a4c20cc168b6930344dbb95320e4bfc3c98fce93",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cooper Blackistä tuli NHL-historian pisin maalivahti – Florida Panthers hävisi Pittsburgh Penguinsille 0–4",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
