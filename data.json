@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T07:30:00+03:00",
+  "updated": "2026-10-23T07:35:00+03:00",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -2131,21 +2131,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-20T13:33:11Z",
-      "urls": [
-        {
-          "sign": "950ccb4ed5056183948d5cabbc2a6fe3a99e61982cab90090cd4fc7d54d62f1b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "TuttoRally: Kalle Rovanperä palaa rallin MM-sarjaan Toyatan kuljettajaksi – Sebastien Ogier ajaa kolme MM-rallia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-20T15:53:47Z",
       "urls": [
         {
@@ -2331,23 +2316,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T12:48:34Z",
-      "urls": [
-        {
-          "sign": "d1661ad19c61a6baf44e06d024fd363c56f39efc2856bcd607bf739f4e47bc67",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi Pekka Pouta: Talvi viivästyy, leuto syksy jatkuu pitkälle marraskuuhun",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-21T20:47:16Z",
@@ -11994,7 +11962,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-23T03:41:00+03:00",
+      "updated": "2026-10-23T07:35:00+03:00",
       "urls": [
         {
           "sign": "32ab9d8ff95f30ba4157643ed9035fc417ad6b126cdf8bf4256f121c517553cc",
@@ -13370,6 +13338,39 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T04:32:04Z",
+      "urls": [
+        {
+          "sign": "955e2aa4741caa9ff77fe3d0d6c20c02a792b199bb1ec91db5076abc018e06a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "McDavid ja Draisaitl kirjasivat kumpikin tehot 2+3, Oilers voitti Hurricanesin 6–5 rangaistuslaukauskilpailun jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T02:19:36Z",
+      "urls": [
+        {
+          "sign": "4172ed5003605a27e117718c1ffc07702a1eeb2e571137e60698becb65dfd198",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
