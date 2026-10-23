@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T09:30:26Z",
+  "updated": "2026-10-23T09:44:40Z",
   "entries": [
     {
       "updated": "2026-10-23T07:42:43Z",
@@ -653,23 +653,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-10-20T06:44:49Z",
-      "urls": [
-        {
-          "sign": "1c02e48b8f51b8822fa3e90b2853bc5235e731c18821dbb36e5cfaa895db4e9f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ponsse aloittaa muutosneuvottelut koko Suomen henkilöstölle kannattavuuden heikkenemisen vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-20T07:06:36Z",
       "urls": [
         {
@@ -1016,23 +999,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-20T17:28:00+03:00",
-      "urls": [
-        {
-          "sign": "fc1bee2fe8a21b009491ea8417e2a161e0e0695bc731e09499c05b16cd55ae0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-20T20:56:39Z",
@@ -3390,21 +3356,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-20T17:45:00Z",
-      "urls": [
-        {
-          "sign": "875c4941adc1a55fb875315f1b1192b1025fae87185ad3ac01e96b56e4866430",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Koko Suomi leipoo -ohjelman Joonaksen lakritsi-mantelikakku valmistuu mantelipohjasta ja sitruuna-lakritsitäytteestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-21T07:50:36Z",
@@ -13273,7 +13224,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-23T09:27:01Z",
+      "updated": "2026-10-23T09:44:40Z",
       "urls": [
         {
           "sign": "b41860b25a9a721d1e780612eb426a8b4d862647adfecf32880b54d8d0fbd9bd",
@@ -13282,8 +13233,8 @@
           ]
         }
       ],
-      "title": "Miettinen debytoi perjantaina HIFK:n päävalmentajana – Huuhtanen palaa ykkösketjuun, Alnefelt maalille",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "HIFK:n päävalmentaja Tommi Miettinen debytoi perjantaina Kiekko-Espoota vastaan – Huuhtanen palaa ykkösketjuun, Alnefelt maalille",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13416,6 +13367,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T09:40:41Z",
+      "urls": [
+        {
+          "sign": "0fea8e7abf3e42ddd34d06f00875e15b652644401d81804f3c33b4cbe7c8f516",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miettinen aloittaa HIFK:n päävalmentajana Kiekko-Espoota vastaan – Huuhtanen ja Alnefelt palaavat kokoonpanoon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T09:32:47Z",
+      "urls": [
+        {
+          "sign": "09d3c1ca60f02185df7f230aec5f1c3a7f049618797f0695b8e5a18ef819752a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin yliopiston hanke kehittää merikonttiin mahtuvaa lääketehdasta lääkkeiden saatavuushäiriöiden varalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-23T12:30:00+03:00",
+      "urls": [
+        {
+          "sign": "7267c8b7393a33b11d832eb352a36a09fc60523353073b0fa995d821ebada287",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lehdet: Ukrainan sota voi lähestyä loppuaan, mutta Trumpin linja hyödyttää Putinia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
