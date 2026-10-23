@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T01:44:53Z",
+  "updated": "2026-10-23T02:00:00Z",
   "entries": [
     {
       "updated": "2026-10-22T20:28:11Z",
@@ -2546,21 +2546,6 @@
         }
       ],
       "title": "Koko Suomi leipoo -ohjelmassa Eveliina jakaa sitruuna-lakritsihalko-reseptinsä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-20T11:03:00Z",
-      "urls": [
-        {
-          "sign": "52bfefe4dd12f361ecd27925b2cd40be3685c6cee0819b27306adf931abe23f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Arttu Kilpeläinen etsii rakkautta – tässä ovat uuden Bachelor Suomi -kauden naiset",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13369,6 +13354,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T02:00:00Z",
+      "urls": [
+        {
+          "sign": "fb393d07181be7d3d639ed782f4b1b06a1dcb9adeb8c8d87557bf52a9cfe7cf2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin hallinto ei kutsunut ETYJin vaalitarkkailijoita Yhdysvaltain välivaaleihin – professorit varoittavat väkivallan riskistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
