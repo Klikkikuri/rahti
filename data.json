@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T17:45:12Z",
+  "updated": "2026-10-23T20:55:00+03:00",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1080,21 +1080,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T10:15:00+03:00",
-      "urls": [
-        {
-          "sign": "e33587ec38e3d95ed66dbfc5e1837d2240d2408a393f0eed6fd2680561ff8ded",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sosionomiopiskelijat: Perusteettomat lastensuojeluilmoitukset voivat satuttaa perhettä – ilmoituskynnystä ei silti pidä nostaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-21T18:45:00+03:00",
@@ -5497,24 +5482,6 @@
       "title": "NBA-selostaja Palotie: Muurisella on Markkasta korkeampi absoluuttinen potentiaali, mutta NBA-varausarvio on pudonnut noin 50:nneksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-22T12:03:45Z",
-      "urls": [
-        {
-          "sign": "343951d77e8652a6c5c8bc7335322866c5a2cea3a8a9b93f4a0ec4053e7cdcae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lupa- ja valvontavirasto teki poliisille tutkintapyynnön Googlen Muhoksen datakeskushankkeen vesienhallinnasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -12714,7 +12681,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-23T18:17:00+03:00",
+      "updated": "2026-10-23T20:50:00+03:00",
       "urls": [
         {
           "sign": "1c246596aa6ed9e420aeadaa6654a23673112057f8bf162468fc9a7d917c54bb",
@@ -12723,7 +12690,7 @@
           ]
         }
       ],
-      "title": "HSL esittää lippuhintoihin 1,4–3,1 prosentin korotuksia, keskimäärin 1,8 prosenttia",
+      "title": "HSL esittää lippuhintoihin keskimäärin 1,8 prosentin korotuksia, tarkastusmaksu pysyy 100 eurossa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13406,6 +13373,38 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-23T17:50:21Z",
+      "urls": [
+        {
+          "sign": "aa4c3e2a58ee8f16ea92fbf32702820686cfc73c8c3e4d05c915dad9e3e2fe6c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Teneriffalla vangittiin mies epäiltynä naisen seksuaalisesta hyväksikäytöstä ja murhasta – DNA ja sukututkimus johtivat jäljille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T20:55:00+03:00",
+      "urls": [
+        {
+          "sign": "a04b6bdd64d911e7cd7a455f9feb63ffe600802ee2fc370b5246e9268aded8d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vasemmistoliiton puheenjohtaja Minja Koskela puolustaa miljardöörivertaustaan – talousasiantuntijat erimielisiä sen mielekkyydestä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
