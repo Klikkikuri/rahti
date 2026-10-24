@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T02:24:21Z",
+  "updated": "2026-10-24T02:34:44Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1980,21 +1980,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T13:33:35Z",
-      "urls": [
-        {
-          "sign": "09f234e52cefe9ee3211939a580fc431901c9347c79536dc2cdc63d9f979f20d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lupa- ja valvontavirasto myönsi Fortumille väliaikaisen poikkeusluvan Oulujärven juoksutuksen kasvattamiseen poikkeuksellisten sateiden vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-21T13:00:00+03:00",
@@ -13134,7 +13119,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-23T22:17:59Z",
+      "updated": "2026-10-24T02:34:44Z",
       "urls": [
         {
           "sign": "c6a4804bab0fc63730cad35a4c947b4bd6ec564642fa7b7b218eb82781f6aa5a",
@@ -13143,11 +13128,9 @@
           ]
         }
       ],
-      "title": "Hitlerille rakennettu Kotkanpesä syttyi tuleen Baijerissa – poliisi epäilee tuhopolttoa",
+      "title": "Hitlerille rakennettu Kotkanpesä syttyi tuleen Baijerissa – poliisi epäilee tuhopolttoa ja otti kiinni yhden henkilön",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13399,6 +13382,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T02:30:35Z",
+      "urls": [
+        {
+          "sign": "05713ce6a92a0f36d7f886b45d36b9cda5c9f6f743fb5dd7e397f391677198ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiina johtaa valtaosaa kriittisistä teknologioista, Eurooppa on jäämässä jälkeen, sanoo tutkimusprofessori Mikael Mattlin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
