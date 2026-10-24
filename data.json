@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-23T23:13:12Z",
+  "updated": "2026-10-24T00:18:13Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1823,21 +1823,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-21T13:07:27Z",
-      "urls": [
-        {
-          "sign": "5f189c9ddf50caa088a993f83f4bda8e0eadd2055cbf3abaed359670901dde47",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU myöntää 1,1 miljoonaa euroa paperiteollisuudesta irtisanottujen työllistymisen tukemiseen Etelä-Karjalassa ja Lohjan seudulla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-21T13:50:39Z",
       "urls": [
         {
@@ -2897,21 +2882,6 @@
       ],
       "title": "Kysely: Lähes puolet 11–17-vuotiaista käyttää tekoälyä päivittäin",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-21T13:01:29Z",
-      "urls": [
-        {
-          "sign": "ff25018b3d7c2083803e95eca3a7920bf4eb1db1c35eaeba5364266ed4790f8c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi varoittaa: kaupan työntekijöiksi tekeytyvät anastavat pankkikortteja kotiovilla",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -5601,21 +5571,6 @@
       ],
       "title": "Oulun Kauppurienkadulla 16 vuotta toiminut hampurilaisravintola Kauppuri sulki ovensa – Verohallinto haki yrityksen konkurssiin",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-22T14:04:24Z",
-      "urls": [
-        {
-          "sign": "5f218b377342898cc03da6c51f1661786e1157ec3382cbea7e0d2a95de2072eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "The 69 Eyes -rumpali Jussi69 sairastui virusperäiseen aivokalvontulehdukseen – yhtye ei peru keikkojaan",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13399,6 +13354,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-24T00:18:13Z",
+      "urls": [
+        {
+          "sign": "1707addc93782177be4f9960d75a4e2e95f5e5887de496f1ef934eca9753a7e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin hallinto vaatii, ettei Alaskan senaattorivaalin tulosta vahvisteta, jos istuva senaattori Sullivan häviää",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-23T18:33:20Z",
+      "urls": [
+        {
+          "sign": "d8dc6fa836355985d898f7cd667acfb86ac0438477cda8442f7ddc4c11b79046",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Naakanpesä syttyi piipussa Sysmässä – pelastuslaitos esti palon leviämisen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-24T00:17:53Z",
+      "urls": [
+        {
+          "sign": "7e3af53184dfc8a7da8530f105a0ff4bbc0f328c53d61eefc137a4b900eb58bc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Adolf Hitlerin entisessä vuoristohuvilassa Baijerissa syttyi suuri tulipalo – tuhopolttoa epäillään",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
