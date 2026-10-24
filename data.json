@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T03:05:00Z",
+  "updated": "2026-10-24T03:22:42Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -958,21 +958,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T13:46:47Z",
-      "urls": [
-        {
-          "sign": "3524bcf25119c3687b6f33d9587c8655db06fd6b396fa1998e9515449ce9557f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnish President Alexander Stubb says Oslo summit marks progress toward peace in Ukraine",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-21T15:00:00+03:00",
@@ -13397,6 +13382,21 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-24T03:22:42Z",
+      "urls": [
+        {
+          "sign": "9e878ac00ca751ffeef8cfda1568eb3fdb803619b6d7bcc57147668e8700911e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Boleo-myrskyn voimakkaat tuulet yltävät sunnuntaina Suomeen, sateita saapuu maanantaiyönä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
