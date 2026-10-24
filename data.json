@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T07:13:34Z",
+  "updated": "2026-10-24T07:26:53Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1414,23 +1414,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T10:30:55Z",
-      "urls": [
-        {
-          "sign": "c092e50ba4d7317b83afa92b5be3c1f20ad6bc7e44c85926ce84c833f71f7e26",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "PSG:n Khvitša Kvaratskhelia joutuu polvileikkaukseen eturistisidevamman takia – Fabrizio Romanon mukaan kausi ohi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-21T11:11:23Z",
@@ -5351,21 +5334,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-22T17:29:12Z",
-      "urls": [
-        {
-          "sign": "0d52a6e8e6f720287d6af2ac4d95d9e4d73d30d0bfb483506b9311a032ae6b29",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nick Suzukin 546 peräkkäisen runkosarjaottelun putki katkesi – Montreal Canadiens -kapteeni sivussa 2–4 viikkoa ylävartalovamman vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-22T19:06:00+03:00",
       "urls": [
         {
@@ -5726,23 +5694,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-22T17:30:32Z",
-      "urls": [
-        {
-          "sign": "dee31a2c8f992780852bf37d5ac3e74405c0e4ad40a68a035c66b7c49b08579d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pyhimys kiistää hyväksikäytön Ukkola-ohjelmassa – väittää Saana Airtolan johdatelleen keskustelua",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T18:00:08Z",
@@ -13391,6 +13342,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-24T07:26:53Z",
+      "urls": [
+        {
+          "sign": "935fd1b4bd8efd6073e151896b2ed97334de6a7ed5a5ffc93a27896dda751160",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kokoomuksen poliisikansanedustaja Kilpi pitää rappiostriimaamista järkyttävänä ja tekee aloitteen sen kieltämisen selvittämisestä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T07:01:00Z",
+      "urls": [
+        {
+          "sign": "a32b2c8f1b9210dd136d008bbe4ecd53949f1913b0d4330dda7db427ee57e682",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Fysioterapeutti Ilkanheimo: Liikunta ja ravitsemus ehkäisevät luukatoa – osteoporoosiin voi sairastua missä ikässä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-24T07:23:21Z",
+      "urls": [
+        {
+          "sign": "4aad6843dbb8f3f3aa8ae643c7ecc37f3b8d6f9376e75081dfa51479afe764a0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Harkimo vaatii julkiselta puolelta määräaikaista palkkamalttaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
