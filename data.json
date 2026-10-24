@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T03:00:16Z",
+  "updated": "2026-10-24T03:05:00Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -755,21 +755,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-21T13:39:47Z",
-      "urls": [
-        {
-          "sign": "3a7a51c7f45e4d71f4a14865af829733e0d1deaee6db772666fb56fb063812fa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jyväskylän kerrostalopalossa kuoli rappukäytävään paennut mies – poliisi epäilee naisen sytyttäneen palon tahallaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-21T07:32:32Z",
       "urls": [
         {
@@ -941,23 +926,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-21T07:00:00Z",
-      "urls": [
-        {
-          "sign": "ebd1f57bdb35846a2cc6b01c686fddbd0881ca06bd377470d5c93db139c5b31c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Salatut elämät: Daniela vahvistaa poliisikuulustelussa Noelin valealibin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-22T13:22:00+03:00",
       "urls": [
         {
@@ -1098,23 +1066,6 @@
       "title": "Mausta kurpitsakeitto currylla ja kahvilla",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-21T06:30:24Z",
-      "urls": [
-        {
-          "sign": "90dc464e4d4187b6e896b2e0844a21bda032a3e2a2bf8ce96d55fb282f277a78",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi Markus Mäntykannas: Kaksi hirmumyrskyä lähestyy Eurooppaa – toinen tuo Suomeen sadetta ja voimakasta tuulta sunnuntaina",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13397,6 +13348,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T03:00:35Z",
+      "urls": [
+        {
+          "sign": "d8902ef4bdbecfe7f9b4d5741cb4c5903eb25bbfb4e19f88a5a74bc9a5d17ea6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pariisin viranomaiset sulkevat museoita ja metroasemia mielenosoitusten vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-24T03:01:00Z",
+      "urls": [
+        {
+          "sign": "0c4b8e0218ac00312b2dedda9612f9a7a887e484bfb36ab57996aa167f968fb4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen sotilassatelliitti seurasi suomalaisyhtiö Iceyen satelliittia – asiantuntijat epäilevät Venäjän selvittävän kuvantamisen estämistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-24T03:05:00Z",
+      "urls": [
+        {
+          "sign": "0fff0f484aae0817213c303ee3eb61745488b70201385bf7da80f709c56201d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "27-vuotias Paula Räsänen sai luuntiheyden heikkenemisen diagnoosin – lääkärin mukaan syynä on D-vitamiinin ja proteiinin puute",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
