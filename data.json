@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T02:34:44Z",
+  "updated": "2026-10-24T03:00:16Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -5498,21 +5498,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-22T14:18:31Z",
-      "urls": [
-        {
-          "sign": "41747f543046f6099ad6b48c783e4518979c7a4c2ae18c12651e0f2d4754a06e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun Kauppurienkadulla 16 vuotta toiminut hampurilaisravintola Kauppuri sulki ovensa – Verohallinto haki yrityksen konkurssiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-22T14:26:36Z",
       "urls": [
         {
@@ -5592,23 +5577,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-22T14:12:50Z",
-      "urls": [
-        {
-          "sign": "9a0b8735a3c18747264e27d0043142110ce08503977e535aa447035457e18d42",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lindtman vältteli suoraa vastausta Sanna Marinin vaatimukseen ampua alas ilmatilaa loukkaavat venäläishävittäjät",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T13:19:10Z",
@@ -13397,6 +13365,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-24T03:00:07Z",
+      "urls": [
+        {
+          "sign": "2b212854a840631295381d27f68f3fae218a1fb72771ac97255c7fefe33232a6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T03:00:16Z",
+      "urls": [
+        {
+          "sign": "8eaa33077163ea19c4bbc9e370b7844e64036e153d2e3d93296cc4689b0041ce",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Janne Kataja epäilee Masked Singer Suomen Faaraon olevan Alexander Stubb – perustelee poikkeuksellisilla turvajärjestelyillä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
