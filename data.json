@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T04:05:31Z",
+  "updated": "2026-10-24T04:30:00Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1435,21 +1435,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-21T07:22:54Z",
-      "urls": [
-        {
-          "sign": "1a1e09e8430b30dcc075846eff6c1e0e29f218a96e5978e6e845e0edf2c5948f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Suomen poliisi sai valmiiksi Joensuun Rantakylän ryöstöjen ja ryöstöyritysten esitutkinnan – kolmea nuorta epäillään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-21T17:45:00+03:00",
       "urls": [
         {
@@ -1497,23 +1482,6 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T13:15:00+03:00",
-      "urls": [
-        {
-          "sign": "efaa3f0c7fb40d8a59a8d0ebf3d8b33d41878d1019892c173362b05965161763",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide: Kervinen esittää jatkuvaa oppimisen seurantaa ja tarvittaessa luokalle jättämistä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     },
@@ -13254,7 +13222,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-24T06:43:00+03:00",
+      "updated": "2026-10-24T07:17:00+03:00",
       "urls": [
         {
           "sign": "f9bdcec2e6c8be250acf6250e7188ea01f57fb22897ba9a9e63bbb1085f0a7ab",
@@ -13263,8 +13231,8 @@
           ]
         }
       ],
-      "title": "Trump määräsi oikeusministeriön nostamaan kanteen Alaskan senaatinvaalien tuloksen vahvistamisen estämiseksi",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Trump käski oikeusministeriön nostaa kanteen Alaskan senaatinvaalien tuloksen vahvistamisen estämiseksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13397,6 +13365,38 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T04:30:00Z",
+      "urls": [
+        {
+          "sign": "96ba386fbba62d029cbe4e300bd8e33ce9a04d0226667168276cbfff7408beb4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jutta Urpilainen pohtii ehdokkuutta ensi kevään eduskuntavaaleissa – päätös kahden kuukauden sisällä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-24T07:29:00+03:00",
+      "urls": [
+        {
+          "sign": "ccabfbeb596d58367be9ba22ec95fae186c233356659a81992311e595c929c21",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kutosen raitiovaunu suistui kiskoilta Hämeentien ja Sturenkadun risteyksessä – HSL: kuljettaja yritti ottaa aikataulua kiinni",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
