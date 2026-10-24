@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T21:14:42Z",
+  "updated": "2026-10-24T22:25:19Z",
   "entries": [
     {
       "updated": "2026-10-24T20:32:00Z",
@@ -19,21 +19,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-03T22:59:20Z",
-      "urls": [
-        {
-          "sign": "4aabc9d138e8d2bb03ee9befb42c9017cfe72943ed1ee3a0760518e9e26e10f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Urho hävisi perjantaina Seinäjoelle mutta voitti sarjakärjen lauantaina – nousi viidenneksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Äks"
     },
     {
       "updated": "2026-10-04T10:43:26Z",
@@ -5842,21 +5827,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-23T09:44:40Z",
-      "urls": [
-        {
-          "sign": "b41860b25a9a721d1e780612eb426a8b4d862647adfecf32880b54d8d0fbd9bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK:n päävalmentaja Tommi Miettinen debytoi perjantaina Kiekko-Espoota vastaan – Huuhtanen palaa ykkösketjuun, Alnefelt maalille",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-23T12:13:00+03:00",
       "urls": [
         {
@@ -5904,23 +5874,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-23T09:30:26Z",
-      "urls": [
-        {
-          "sign": "f0ebbad265667cbdfade2a01222a78927a3fa6ee0027f51a6aa96ca36ce0950e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Volvo Cars suunnittelee 2 500 henkilöstövähennystä – Ruotsiin 2 000",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-23T09:16:44Z",
@@ -6064,23 +6017,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-23T09:47:01Z",
-      "urls": [
-        {
-          "sign": "79fbae24556ec9e30f4e4ad1f6ab971c935cfa7306e659e6a0637724f41fb228",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinki järjestää yleisurheilun EM-kisat 2030 – Belgian delegaatio pettyi valintaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-23T09:59:18Z",
@@ -13408,6 +13344,53 @@
       ],
       "title": "Latvia toimii venäläisen viljan tärkeänä kauttakulkuvaltiona",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T21:36:38Z",
+      "urls": [
+        {
+          "sign": "93547383bd137a45c50f9c47bff5b30b5db9599a7372dae2a9eca8d6d02dd8ba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsalaismedian mukaan 81-vuotias Arja Saijonmaa osallistuu Ruotsin euroviisukarsintaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T22:16:16Z",
+      "urls": [
+        {
+          "sign": "51ba78d57ff4dffaf9f54aad0f22942432d03e4c139e49a3a5009d4031ac5727",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kimi Antonelli ajoi paalulle Yhdysvaltojen GP:ssä – mestaruuden varmistaminen vaatii vielä lisäpisteitä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T22:25:19Z",
+      "urls": [
+        {
+          "sign": "f5673a0b345c0be5740336fdd2998e1c7d9ad43f0821479a31d2fcec2a3759f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Henkilöauto ajautui ulos tieltä ja syttyi tuleen Hämeenlinnassa",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
