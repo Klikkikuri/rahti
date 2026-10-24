@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T09:25:00+03:00",
+  "updated": "2026-10-24T09:43:00+03:00",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -930,21 +930,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-21T08:44:03Z",
-      "urls": [
-        {
-          "sign": "0f9e951eb34d28838c9704afbd8ab9ed86b4dfa6212054fce0f98e89876f1e60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin hiihtoliitto ja Ruotsin urheilun valtakunnanliitto haluavat hallituksen eväävän venäläisurheilijoilta viisumit ensi kevään MM-kisoihin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-21T15:59:00+03:00",
       "urls": [
         {
@@ -1004,23 +989,6 @@
       "title": "S&P Global: Epäluulo tekoälyä kohtaan voi kanavoitua datakeskusten vastustukseksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T14:59:00+03:00",
-      "urls": [
-        {
-          "sign": "fe2e35c921e272716429fac6a558bca9de14894fedf0bdb4c59e6163c08bb356",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elisa alkaa rakentaa Suomeen tekoälyverkkoa Nvidian ja Nokian kanssa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5659,23 +5627,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T16:47:23Z",
-      "urls": [
-        {
-          "sign": "3dcac2627f7eec00bb512c0527e1081426302510f0e622c3488362ece475a35b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T16:50:08Z",
@@ -12965,7 +12916,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-24T08:46:00+03:00",
+      "updated": "2026-10-24T09:43:00+03:00",
       "urls": [
         {
           "sign": "ccabfbeb596d58367be9ba22ec95fae186c233356659a81992311e595c929c21",
@@ -12974,7 +12925,7 @@
           ]
         }
       ],
-      "title": "HSL:n mukaan kuljettaja yritti kiireessä kuroa aikataulua kiinni – linjan 6 raitiovaunu suistui raiteilta Hämeentiellä",
+      "title": "Linjan 6 raitiovaunu ajautui kiskoilta Hämeentien risteyksessä – HSL:n mukaan kuljettaja yritti kuroa aikataulua myöhästymisen vuoksi",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13402,6 +13353,53 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T06:32:47Z",
+      "urls": [
+        {
+          "sign": "b8e0172d03b804977f518555b680a02f604499bdf85d965e91aa28b789b4d400",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Heineken varoittaa brittipubeja laihdutuslääkkeiden vaikutuksista juomamyyntiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-24T09:30:00+03:00",
+      "urls": [
+        {
+          "sign": "22391f5b1ffe79c2a0b1e9e93f80ef56354b81a1761e5f70437f0f8a3d0f1cc3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-24T06:31:48Z",
+      "urls": [
+        {
+          "sign": "1ec7f6e53c7081ebe3d8d0f1fba99f933f3f6161fe819e9bebc12e076ada4fec",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jethro Rostedt aloittaa yhdyskuntapalvelun 2. marraskuuta – kuvaaminen Operaatio Ruokakassissa ei ole sallittua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
