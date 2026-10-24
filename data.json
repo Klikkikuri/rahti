@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T07:45:00+03:00",
+  "updated": "2026-10-24T05:00:14Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -5678,23 +5678,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T15:54:18Z",
-      "urls": [
-        {
-          "sign": "caf64e52b96230a4e072c0ca7162e18f16efe30820e5720b5343a56ff1cb8bd9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jätteiden lajittelu on yhä puutteellista pääkaupunkiseudulla – HSY:n asiantuntija varoittaa vakavista seurauksista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T15:57:41Z",
@@ -13307,7 +13290,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-24T07:45:00+03:00",
+      "updated": "2026-10-24T07:48:00+03:00",
       "urls": [
         {
           "sign": "ccabfbeb596d58367be9ba22ec95fae186c233356659a81992311e595c929c21",
@@ -13316,7 +13299,7 @@
           ]
         }
       ],
-      "title": "Linjan 6 raitiovaunu suistui kiskoilta Hämeentien ja Sturenkadun risteyksessä Helsingissä – HSL: kuljettaja yritti kuroa aikataulua kiinni",
+      "title": "Linjan 6 raitiovaunu ajautui pois kiskoilta Hämeentien ja Sturenkadun risteyksessä Helsingissä – HSL:n mukaan kuljettaja yritti kiireessä kuroa aikataulua kiinni",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13399,6 +13382,23 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-24T05:00:14Z",
+      "urls": [
+        {
+          "sign": "cc13c88be4ac9779ce6ae27323d361a2022d60fc62951782c8aa3babae8493c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaismepit varoittavat: Ranskan velkakriisi ja presidentinvaalit voivat hyödyttää Venäjää",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
