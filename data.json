@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T02:11:48Z",
+  "updated": "2026-10-24T02:24:21Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -5511,23 +5511,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-22T14:08:47Z",
-      "urls": [
-        {
-          "sign": "1d3e1ed007624101c083b66f695d8277c27a965ea5d413b951b575e074ad36ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vieraskynä: Trumpin rauhanneuvottelutaktiikka voi vahvistaa Venäjän strategista asemaa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T14:18:31Z",
@@ -13401,6 +13384,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-24T02:24:21Z",
+      "urls": [
+        {
+          "sign": "da77b5e677da45f627a24b10a27d3527d960dacb27ce3d2c255cc2f83edfdb69",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mediat: Seuraavaa James Bondia koekuvataan Lontoossa tänä viikonloppuna",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
