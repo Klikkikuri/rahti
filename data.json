@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T04:00:20Z",
+  "updated": "2026-10-24T04:05:31Z",
   "entries": [
     {
       "updated": "2026-10-23T15:55:03Z",
@@ -1416,21 +1416,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-21T14:00:01Z",
-      "urls": [
-        {
-          "sign": "27dd9c3db564153612e664e25db99561e27269c1e3ac8478ada23e1db3876ca3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulun käräjäoikeus tuomitsi miehen yli kolmen vuoden vankeuteen ravintolatyöntekijän tapon yrityksestä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-21T14:26:44Z",
@@ -5618,21 +5603,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-22T15:13:43Z",
-      "urls": [
-        {
-          "sign": "e1714884fcfc14ec2d018adc2f631fb616be7c8ee13ea717d96054e6bb8a2d31",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansainvälinen luisteluliitto kutsui venäläisen taitoluistelijan Jevgeni Semenenkon marraskuun Finlandia Trophy -kilpailuun Helsinkiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-22T15:04:38Z",
       "urls": [
         {
@@ -5646,23 +5616,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T15:14:30Z",
-      "urls": [
-        {
-          "sign": "5c597da1e0879d3b11b017470a052d18c725972a5473dc31ce3a02e3bd679d68",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirjeenvaihtaja: Paniikki leviää republikaaneissa ennen USA:n välivaaleja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-22T18:35:00+03:00",
@@ -13331,7 +13284,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-24T03:59:53Z",
+      "updated": "2026-10-24T04:05:31Z",
       "urls": [
         {
           "sign": "655ca80e71fa4489d10b9a694ca95884f614bfab6f7421256f483d5dfec14c7b",
@@ -13340,7 +13293,7 @@
           ]
         }
       ],
-      "title": "Jonne Virtanen hakeutui katkaisuhoitoon ja käytti kaikki säästönsä valmennusuraan – valmentaa nyt Jukureita Mikkelissä",
+      "title": "Jonne Virtanen meni katkaisuhoitoon ja käytti kaikki säästönsä valmennusuraan – valmentaa nyt Mikkelin Jukureita",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13397,6 +13350,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-24T04:00:35Z",
+      "urls": [
+        {
+          "sign": "f5704d70efb0431c032c6481e470679db67b2946b9bbfc57b62262ea619d614c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lappeenranta ja oppilaitokset järjestivät pitkäaikaistyöttömille työtä koulutusten ohessa – Maarit Samateh sai työn ja itsevarmuutensa takaisin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-24T04:04:52Z",
+      "urls": [
+        {
+          "sign": "aa6ac4d16ea7960ff827f07db3c5f8af1e9e8f478034a09ad062f254da93e857",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Artturi Lehkonen iski voittomaalin NHL:ssä – pisteputki venyi kuuteen otteluun",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-24T04:00:41Z",
+      "urls": [
+        {
+          "sign": "004741b3d9293af7c1d3248f04e1c71d3bc30775944710914306c725afa26ea5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
