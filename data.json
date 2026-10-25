@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-25T04:14:05Z",
+  "updated": "2026-10-25T06:54:00+02:00",
   "entries": [
     {
-      "updated": "2026-10-24T20:32:00Z",
+      "updated": "2026-10-25T04:22:45Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -691,21 +691,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-22T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "bad37cdfc21256d5e6628b2a23d5c2093641ee4d0eb3a68f83b123f2fcf922c7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Muotiyrittäjä Margaretha Marina Aittokoski kuoli Helsingissä 92-vuotiaana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-22T02:30:00+03:00",
       "urls": [
         {
@@ -768,53 +753,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-22T03:30:35Z",
-      "urls": [
-        {
-          "sign": "e42c119ae80c9f1eb7e5989c89506e21c93da6d5a5e96aeb96e09dee764e37c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Michiganilainen demokraatti Abdul El-Sayed pyrkii Yhdysvaltain senaattiin – valinta tekisi hänestä ensimmäisen muslimisenaattorin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T03:27:42Z",
-      "urls": [
-        {
-          "sign": "6a8d7fae38397b40b6528a53a01eb2aebcda1e77352e485bbb9244d870ca7517",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Utah Jazz hävisi Memphis Grizzliesille NBA-kauden avausottelussa – Markkanen upotti yhden seitsemästä kolmosyrityksestään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-22T03:33:00Z",
-      "urls": [
-        {
-          "sign": "6fc5fc6190e6384c841d10d7362b99dea9026a27174ed8633114f6f246d64ee2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset asiantuntijat arvioivat Oslon neuvottelut tulottomiksi ja Trumpin motiivit liiketoiminnallisiksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-22T06:51:41Z",
@@ -907,23 +845,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-22T04:15:00Z",
-      "urls": [
-        {
-          "sign": "8d995c5543ae1359aa730fff5b8136f247521b52c082c39f9f12df83a9c4eebf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sankarikoiraksi palkittu Leo-koira pelasti Joensuussa nuoren miehen hengen pakkasyöllä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-22T04:32:48Z",
@@ -13264,7 +13185,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-25T02:15:55Z",
+      "updated": "2026-10-25T04:35:53Z",
       "urls": [
         {
           "sign": "a0410a0901035c2ffa9a92290fafdfc5017882f0c7bd336c5a93bacb27e36c6a",
@@ -13275,7 +13196,9 @@
       ],
       "title": "Barcelonaan puhkesi mellakoja: yli 30 paloa sytytettiin ja sata pidätetty",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13403,6 +13326,85 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-25T04:45:35Z",
+      "urls": [
+        {
+          "sign": "9f30be7a628556b2ccf71ab62bd8f8806947a3507d2675438c215252c0a62bc6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuomo Pirttimaan kolumni: Valtion tukipolitiikka ohjasi pientilan omistajaa raivaamaan suon peltoon, kokeilu epäonnistui",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-25T04:16:20Z",
+      "urls": [
+        {
+          "sign": "54e38c321801f20d23344ee3dfc98662c9a11bb6758e6677c2644e0b0a488465",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Elon Musk syyttää Ukrainaa Starlinkin väärinkäytöstä hyökkäysdroonien ohjaukseen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-25T04:52:00Z",
+      "urls": [
+        {
+          "sign": "fabbd06db456644b4b9f74455b9ca442c20ef2a60978fb4086822c748e57145a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tarkemmat magneettikuvaukset ja päivitetty kriteeristö ovat vähentäneet MS-virhediagnooseja Suomessa huomattavasti",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-25T06:54:00+02:00",
+      "urls": [
+        {
+          "sign": "679824dbb8dc68fe9d95f71f635c6392f749d012384d85ec53d2ff5a838e59b2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Barack Obama arvosteli Donald Trumpin hallintoa korruptoituneeksi, epäpäteväksi Yhdysvaltain välivaalien alla",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-25T04:45:00Z",
+      "urls": [
+        {
+          "sign": "3a39b28b586e0a5177cc062e1ac48efcc1d2787481c5f851fe016169578833e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Israelilaiset äänestävät ensi viikolla parlamenttivaaleissa, joissa turvallisuus ja pääministeri Benjamin Netanjahun jatko ratkaisevat",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
