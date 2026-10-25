@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-25T03:34:00+03:00",
+  "updated": "2026-10-25T02:39:09Z",
   "entries": [
     {
       "updated": "2026-10-24T20:32:00Z",
@@ -5917,36 +5917,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-23T10:01:13Z",
-      "urls": [
-        {
-          "sign": "88e1ea0b307d2c1de59f880c3637913021b2412d10f1637c85a2bf88d0470061",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HIFK:n ylivoimapeli on Liigan paras, eikä Tommi Miettisen tarvitse korjata sitä – Kiekko-Espoo–HIFK tänään",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-23T10:09:22Z",
-      "urls": [
-        {
-          "sign": "1aaee818222c4510fdf346d79118cbe4982feae54e58b49fa1a203b0768aef08",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Uudenmaan käräjäoikeus tuomitsi lapsenvahtina toimineen miehen raiskauksesta vankeuteen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-23T10:24:39Z",
@@ -12370,7 +12340,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-24T16:58:55Z",
+      "updated": "2026-10-25T02:39:09Z",
       "urls": [
         {
           "sign": "6870e365397aca9a407f74d0fb48de6bc732b254722e6d4dc1b3c7d4d98d8108",
@@ -12379,8 +12349,8 @@
           ]
         }
       ],
-      "title": "Ranskassa mielenosoitukset jatkuvat rajuina – poliisi käytti kyynelkaasua, yli 135 pidätettyä",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Poliisi otti kiinni noin tuhat Ranskan rajuissa mielenosoituksissa – kyynelkaasua useassa kaupungissa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13399,6 +13369,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-25T02:16:54Z",
+      "urls": [
+        {
+          "sign": "32abd58bd68936724d1ba9c191d0ccfb42e41b025ec708dfae402d514634482e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ville Koivunen ratkaisi Penguinsin voiton jatkoajalla Nashvilleä vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-25T02:15:55Z",
+      "urls": [
+        {
+          "sign": "a0410a0901035c2ffa9a92290fafdfc5017882f0c7bd336c5a93bacb27e36c6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Barcelonaan puhkesi mellakoja: yli 30 paloa sytytettiin ja sata pidätetty",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
