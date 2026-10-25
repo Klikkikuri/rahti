@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-24T23:06:57Z",
+  "updated": "2026-10-25T03:34:00+03:00",
   "entries": [
     {
       "updated": "2026-10-24T20:32:00Z",
@@ -706,21 +706,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-22T02:00:00+03:00",
-      "urls": [
-        {
-          "sign": "aba12b5f1753c930cf2ad14237737b403bff9d4b8841fea62d8057b66f6edeff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kyselytutkimus: 70–80 prosenttia lapsista ja nuorista käyttää tekoälyä – Itlan mukaan yhteiset pelisäännöt puuttuvat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-22T02:30:00+03:00",
       "urls": [
         {
@@ -734,21 +719,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-22T02:18:25Z",
-      "urls": [
-        {
-          "sign": "efab5821180619f9d814a3ff6e05233b9567ea18b81b9e7ef7deea1ff2d6bdc9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäjä ja Kiina pitävät yhteislausunnossaan ulkopuolista puuttumista Euraasian epävakauden syynä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-22T02:30:47Z",
@@ -13398,6 +13368,36 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-24T21:34:08Z",
+      "urls": [
+        {
+          "sign": "87097ec5d25c40f73cee48062afcb99739455b34e9d18eca66923181375eb600",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusministeri Katz: Israel on siirtänyt noin 2 000 palestiinalaista Hebronista anti-Hamas-operaation vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-25T03:34:00+03:00",
+      "urls": [
+        {
+          "sign": "63112f57397180920ad4ea4523a6d2dc7d2d7978a52004bc09a0b6ab25e638ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Syysmyrsky iskee Suomeen, Ilmatieteen laitos varoittaa yli viiden metrin aalloista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
