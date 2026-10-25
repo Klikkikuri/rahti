@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-25T06:54:00+02:00",
+  "updated": "2026-10-25T07:45:00+02:00",
   "entries": [
     {
       "updated": "2026-10-25T04:22:45Z",
@@ -832,21 +832,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-22T03:34:39Z",
-      "urls": [
-        {
-          "sign": "9b77ff6d579fd0f531484b9343ac95ffb323752d4d3afc626927fcb0c0572831",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turun tuomiokirkon yli 20-metrinen joulukuusi löytyi Aurasta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-22T04:32:48Z",
       "urls": [
         {
@@ -907,21 +892,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-22T05:01:00Z",
-      "urls": [
-        {
-          "sign": "93e8bd00ee6654cb025933e566948876a804cf6405765e2697a4aa19a233cd90",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Susanna Penttilä kertoo kirjassaan pitäneensä Onlyfans-työnsä salassa pojaltaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-22T05:11:00Z",
@@ -5823,23 +5793,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-23T11:00:51Z",
-      "urls": [
-        {
-          "sign": "f8795f11c95b66d7d66ff66b32246366728e92377212b66502ffe5faf34558f8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi otti perjantaina Vantaalla kiinni vuokrapakettiauton kuljettajan takaa-ajon jälkeen – kuljettajaa epäillään rattijuopumuksesta ja törkeästä liikenneturvallisuuden vaarantamisesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-23T10:34:52Z",
       "urls": [
         {
@@ -5900,23 +5853,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-23T11:05:09Z",
-      "urls": [
-        {
-          "sign": "a696cb9c4e47a00bc3cb98b53a5a30f68569b3819f6975dad7064443a248ae5b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-23T11:01:15Z",
@@ -5983,21 +5919,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-23T11:01:47Z",
-      "urls": [
-        {
-          "sign": "c3c0ff0e451769f5bd88215b795a6f041fbc924a5d909680ec3ab8b0b43f9456",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kesko toi Pirkka Menokkaat -sarjan toppasaapikkaat takaisin kauppoihin – kysyntä ylitti odotukset",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-23T14:06:00+03:00",
       "urls": [
         {
@@ -6013,36 +5934,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-23T11:24:29Z",
-      "urls": [
-        {
-          "sign": "418261603fa3261b828fc12759ecff24ef54b212d2927f27a0e27284608e81ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Laulaja Viivi peruu keikkansa sairastumisen vuoksi – levujulkkarit siirtyvät helmikuulle",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-23T11:29:19Z",
-      "urls": [
-        {
-          "sign": "ec65cec4066c93d385bc0af44bc910b4bc992df24b37445b668a1e2435b98007",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen pääministeri Sanna Marin puhuu kirjastaan Helsingin kirjamessuilla – paikalle saapui arviolta lähes tuhat kuulijaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-23T14:19:00+03:00",
@@ -10399,7 +10290,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-24T12:22:00+03:00",
+      "updated": "2026-10-25T07:45:00+02:00",
       "urls": [
         {
           "sign": "63bce1350a156d27abf78a71ee8bc070158fca5b137ea0baa92f16ada1ff5a14",
@@ -10408,7 +10299,7 @@
           ]
         }
       ],
-      "title": "SVT: Euroopassa yli 50 hybridi-iskua puolessa vuodessa, jäljet johtavat Venäjälle",
+      "title": "SVT:n selvitys: Euroopassa 54 hybridi-iskua puolessa vuodessa, jäljet johtavat Venäjälle",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13401,6 +13292,117 @@
       ],
       "title": "Israelilaiset äänestävät ensi viikolla parlamenttivaaleissa, joissa turvallisuus ja pääministeri Benjamin Netanjahun jatko ratkaisevat",
       "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-25T05:02:41Z",
+      "urls": [
+        {
+          "sign": "852fc65ff594b29c3c15a43c9271c20f8ce0820c6f6b09d92ea066f7c79338a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusministeriö esti venäläis-israelilaisen miehen hakemuksen ostaa Savanjärven entinen varuskunta-alue",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-25T04:36:08Z",
+      "urls": [
+        {
+          "sign": "e034c64a4c59f764bd027a2882bd64c49dad93d1f97a6dab9cffec655f480efc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eräopas Laura Suomalainen asuu 19 neliön mökissä Lapissa, askeettisuus on elämäntapa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-25T05:03:01Z",
+      "urls": [
+        {
+          "sign": "a48dc5d4a1abf2acb829ebb4bc5cd03bb1216bc23c5c0c1d19460edc91ae654c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-25T05:10:22Z",
+      "urls": [
+        {
+          "sign": "be3caacf31b1e562f8b9392189f7d6fb21590d8d0ebbc237adeaf4b6a844304b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keihäslegenda Tom Petranoff selviytyi hengenvaarallisesta verenmyrkytyksestä",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-25T05:38:29Z",
+      "urls": [
+        {
+          "sign": "66b24b72cc9189820f9d44abb934565a666e192bd83c04519735daa1a85156cc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle lopettaa Eränkävijät-sarjan – osa katsojista ei jää kaipaamaan ohjelmaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-25T05:00:42Z",
+      "urls": [
+        {
+          "sign": "32fb7d98ede9bf5a74c67c1bb63adb61c65973fd4f9d23ec40d5d5a11c107f19",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kansallisbaletin taiteelliset johtajat ovat kohdelleet tanssijoita epäasiallisesti – ex-tanssija kertoo rakenteellisista ongelmista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-25T05:30:00Z",
+      "urls": [
+        {
+          "sign": "41e89a146dfde90e8eb7721844f247a03fed6773817f8ea3c5bf743d56ac440e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Juulia Valikainen ja Chiara Eklund myöntävät striimaavansa alkoholin vaikutuksen alaisina ansaitakseen rahaa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
