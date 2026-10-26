@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-26T02:10:00Z",
+  "updated": "2026-10-26T03:00:02Z",
   "entries": [
     {
       "updated": "2026-10-25T18:16:08Z",
@@ -670,21 +670,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-22T10:29:57Z",
-      "urls": [
-        {
-          "sign": "8195280d3dc83e3230fb63ed23615d190d807ef95385f691f6df7b9b58a89c37",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kaakkois-Suomen elinvoimakeskus asensi hidasteet Kouvolan onnettomuusristeykseen – viereinen kallio aiotaan louhia pois",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-22T10:32:29Z",
@@ -6481,21 +6466,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-24T09:18:05Z",
-      "urls": [
-        {
-          "sign": "3aea617aee783934062ca1f42deca372318237428e02d5d50b7b8b9839cf14b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kehonrakentaja Mateusz Chmura kuoli 33-vuotiaana kilpailun jälkeen – Perhe varoittaa huijauskeräyksestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -12636,7 +12606,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-26T04:05:00+02:00",
+      "updated": "2026-10-26T04:24:00+02:00",
       "urls": [
         {
           "sign": "6260417915a3f303e03d3fa15ee88ed8597e9f6d759b6cdaeefec71d7a5abfd8",
@@ -12646,7 +12616,7 @@
         }
       ],
       "title": "Lula voitti Brasilian presidentinvaalit toisella kierroksella, Bolsonaro vaatii vaalien mitätöintiä",
-      "clickbaitiness": "Extremely Clickbaity",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -12918,7 +12888,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-25T23:14:53Z",
+      "updated": "2026-10-26T02:34:03Z",
       "urls": [
         {
           "sign": "a163554d780cac9bbace0343ed8b2eed6bd6bbf2cdba02f696cfc94facebab21",
@@ -12928,7 +12898,7 @@
         }
       ],
       "title": "Serbian entinen presidentti Vučić myöntää vaalitappion – tuhannet juhlistivat Belgradissa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13127,7 +13097,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-25T18:49:35Z",
+      "updated": "2026-10-26T02:45:05Z",
       "urls": [
         {
           "sign": "e96e8094a082eaba04ca3fe4029b1c6462c398c90a1de3f977c933afcf55b557",
@@ -13136,7 +13106,7 @@
           ]
         }
       ],
-      "title": "Pommisykloni Boeloo aiheuttaa myrskytuulta Suomessa — sää kääntyy viikonloppuna kylmäksi",
+      "title": "Pommisykloni Boeloo aiheuttaa myrskytuulta Suomessa – sää kirkastuu loppuviikosta, mutta lämpötila laskee viikonlopun alla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13441,6 +13411,38 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-26T03:00:02Z",
+      "urls": [
+        {
+          "sign": "bcef26138f4749a45072a3276108a0bb947642d4a3e7b340cfdd3fc6b7ce4742",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kape Aihinen hämmästelee Joutsan kellariravintolan sekavaa tilaustapaa Kuppilat kuntoon -ohjelmassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-26T02:56:34Z",
+      "urls": [
+        {
+          "sign": "65144543b0a233308977d3b337950e07678249536bfe4c989b9c178a0a68f319",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vučić tunnusti tappion Serbian vaaleissa, mutta opiskelijaliikkeen on vielä osoitettava kykynsä vallan rakenteiden muuttamisessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
