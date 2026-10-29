@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-29T03:30:49Z",
+  "updated": "2026-10-29T04:00:21Z",
   "entries": [
     {
       "updated": "2026-10-29T00:46:23Z",
@@ -764,21 +764,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-26T11:05:10Z",
-      "urls": [
-        {
-          "sign": "2ebb5e403f167631fad12d88561b1659efb6eeb44888fb7c162ca16ca45684ba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aku Louhimiehen ohjaama Lapin sota -elokuva keräsi ensi-iltaviikonloppuna 75 833 katsojaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-26T18:22:00+02:00",
       "urls": [
         {
@@ -856,21 +841,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-26T10:25:19Z",
-      "urls": [
-        {
-          "sign": "1df22a9d844183b66fdc1ac85683825188b42aeb26438a923369834b6efe341c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Wall Street Journal: Yhdysvallat kannustaa Unkarin pääministeriä Orbánia YK:n pääsihteeriksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-26T16:28:00+02:00",
@@ -4740,23 +4710,6 @@
       "title": "Carl Haglund jättää KH Groupin toimitusjohtajan tehtävän",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-27T14:15:31Z",
-      "urls": [
-        {
-          "sign": "e1d388475f432dc70ee26dd0aa4f233a9af5eb36c397d13aa70e043e7f4d7d73",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Makwan Amirkhanin oikeudenkäynti alkaa Länsi-Uudenmaan käräjäoikeudessa; esillä on 2017 haastattelu, jossa hän kuvaa Julkkisselviytyjien kuvauksia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13323,6 +13276,55 @@
       ],
       "title": "Nuorten tulevaisuusraportin kysely: Pojat omistavat sijoituksia tyttöjä useammin – vanhempien koulutus on yhteydessä nuorten sijoituksiin",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-29T03:45:00Z",
+      "urls": [
+        {
+          "sign": "785a7732bd8ddcabb8eb42b0114c0c75f6bf8c1ccbaa98cbe08ca96bfe97a93e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Käräjäoikeus tuomitsi Haminassa sähköskuutilla poliisia paenneen miehen 70 päiväksi vankeuteen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-29T04:00:21Z",
+      "urls": [
+        {
+          "sign": "b3223d58d4aaa6669739ce7d2cd86c2085516256b7d888b684d123e725da69d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsalaisprofessori arvostelee Stubbin Putin-puhelua: ”Täysin käsittämätön”",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T03:45:55Z",
+      "urls": [
+        {
+          "sign": "5a030895b2cac1de5a2f97bb1cea5e50948a591b9d366da22922668009300962",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ylen meteorologi Matti Huutonen: Lokakuun sää jatkuu poikkeuksellisen leutona – etelässä torstaina yli 10 astetta",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
