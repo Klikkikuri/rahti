@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-29T04:00:21Z",
+  "updated": "2026-10-29T04:10:00Z",
   "entries": [
     {
       "updated": "2026-10-29T00:46:23Z",
@@ -777,23 +777,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-26T10:54:36Z",
-      "urls": [
-        {
-          "sign": "371f53a44c3133a82b54bc93aac00c67a9ea7c07cb13d79143fac6446d25cece",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ravintolat menettävät keliaakikkoasiakkaita, jos gluteenittomuutta ei voida taata",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-26T15:55:00+02:00",
@@ -5200,23 +5183,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-27T14:28:38Z",
-      "urls": [
-        {
-          "sign": "4f5ffaf0029a227c06d979079a26ff0a5f9d9034c2150759bb5898d1df23c9eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Audi ilmoitti 4 miljardin dollarin tehtaan rakentamisesta Yhdysvaltoihin – esiintyminen Trumpin vaalitilaisuudessa herätti kritiikkiä Saksassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-27T14:37:09Z",
       "urls": [
         {
@@ -5247,21 +5213,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-27T14:30:26Z",
-      "urls": [
-        {
-          "sign": "648715fa6bdada2debb05a5e503550b55a8c3c902147a191f110d9821ec24d4c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii epäiltyä väkivaltarikosta Pihlajistossa – otti miehen kiinni, uhri sairaalaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-27T13:17:08Z",
@@ -5309,23 +5260,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-27T14:29:16Z",
-      "urls": [
-        {
-          "sign": "af8771a821c1b900f3bab495dc3ad94cc350bc20b9a0291099880569368a5931",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Stubbin ja Støren Putin-puhelu: Ukrainan toiveesta avattu keskusteluyhteys",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-27T12:32:57Z",
@@ -13327,6 +13261,72 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-29T04:09:16Z",
+      "urls": [
+        {
+          "sign": "9f18bc0ed1cd093e34b86caa2c3e5a4445c5512c7ead4ddebb52d87fb0bfc66d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Noora Louhimo aloittaa soolouran ja debytoi näyttelijänä Koskinen-sarjassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T04:05:38Z",
+      "urls": [
+        {
+          "sign": "8a63afcf4ec939bef5b3f86c378356201bd3565e47bf785d13d223541bb08285",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vapaaottelija Makwan Amirkhani kiistää oikeudessa pakottaneensa Mira Luodin seksuaaliseen tekoon – todistaja kertoo kirveen kanssa liikkumisesta Julkkisselviytyjien kuvauksissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T04:01:43Z",
+      "urls": [
+        {
+          "sign": "305b78d8b0d02885642598af09e079fa25f7c41dce3555bfc09f331de3184dcd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T04:10:00Z",
+      "urls": [
+        {
+          "sign": "9eba7fcb8534c839be017b5ed07d815283ae48222d00c8a37bdbf8aef40ee6bc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turisti kuvasi videolle Lapissa harvinaisen valkoisen urosporon – tutkija kertoo, ettei se ole albino",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
