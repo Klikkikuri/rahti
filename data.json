@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-30T00:59:00+02:00",
+  "updated": "2026-10-29T23:31:58Z",
   "entries": [
     {
       "updated": "2026-10-29T17:49:44Z",
@@ -1477,21 +1477,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-27T16:08:44Z",
-      "urls": [
-        {
-          "sign": "f16e91d8826ccf49493ead9d843754dd7f5fce0245208eb604ba3574d1001639",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS: Autoliike Wetterin omistajat syytetään törkeästä sisäpiiririkoksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-27T16:38:00+02:00",
@@ -13301,6 +13286,23 @@
       "title": "Oppositiojohtaja María Corina Machado: Yhdysvallat ehdotti vaaleja Venezuelaan ensi vuonna",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-29T23:31:58Z",
+      "urls": [
+        {
+          "sign": "ca3a8f7d4dffb42ba6b0b3b303bbdd8d1b504608576ac8c803bb3ee108521397",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Netanjahun oikeistoblokki sai 53 paikkaa Israelin vaaleissa – hallituksen muodostaminen haastavaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
