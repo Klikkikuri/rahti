@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-29T05:03:44Z",
+  "updated": "2026-10-29T07:28:00+02:00",
   "entries": [
     {
       "updated": "2026-10-29T00:46:23Z",
@@ -489,23 +489,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-26T13:11:00+02:00",
-      "urls": [
-        {
-          "sign": "a60d73ce53b6b7cf3af7a3dbe8ab540b7a20ae15443d495b88e7d4fbc492ff5d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-23T07:16:03Z",
@@ -1267,24 +1250,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-26T12:35:49Z",
-      "urls": [
-        {
-          "sign": "2866cb4bac9c200b8ef7a3d296ff2006f07a3dcb5a6bf1adbf2f167fb130471a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "YK:n riippumaton tutkintakomissio toteaa Israelin syyllistyneen Länsirannalla rikoksiin ihmisyyttä vastaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-10-26T17:10:00+02:00",
       "urls": [
         {
@@ -1593,21 +1558,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-26T12:21:58Z",
-      "urls": [
-        {
-          "sign": "53626ff30e4330e9978f0563dabf59431a0b2a839b871802e33fe3f7f1293db2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HPK-tähti Sami Päivärinta siirtyy Linköpingiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-26T19:55:00+02:00",
@@ -2355,21 +2305,6 @@
       ],
       "title": "Hesburger avasi ensimmäisen ravintolansa Italiassa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-26T11:26:20Z",
-      "urls": [
-        {
-          "sign": "e42cdd19215145c945d98a60639a0baca0e4d9ddc749f83d55bff2718dc87cf7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovioikeus pitää teoikaan 17-vuotiaan huumekaupan päävastaajan tuomion ennallaan – vanhemmat vapautuvat rahanpesusyytteistä",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -4564,21 +4499,6 @@
       ],
       "title": "Carl Haglund jättää KH Groupin toimitusjohtajan tehtävän",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-10-27T15:34:46Z",
-      "urls": [
-        {
-          "sign": "05fe856d44ed499ce30c6e855a5a6130be52aca5c2bfe37c035213d46d1149ec",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sähköalan asiantuntija varoittaa viallisten kausivalojen ja jatkojohtojen käytöstä",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -12749,7 +12669,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-29T02:30:29Z",
+      "updated": "2026-10-29T05:19:54Z",
       "urls": [
         {
           "sign": "061e6631ed847fb05303ffb0448b8d477edc0023ee81f9964269fe4eedf49297",
@@ -12758,7 +12678,7 @@
           ]
         }
       ],
-      "title": "THL ehdottaa hyvinvointialueiden rahoituksen vakauttamista vähentämällä sairastavuustietojen painoarvoa",
+      "title": "THL ehdottaa sairastavuustietojen painoarvon vähentämistä hyvinvointialueiden rahoituksessa",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13325,6 +13245,85 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T07:28:00+02:00",
+      "urls": [
+        {
+          "sign": "45e580fbc13f2773e1f247ca24d9e5d995f83a94e063922c9d7a714167a57727",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aalto-yliopiston aivotutkimus osoittaa narsistisia piirteitä omaavien kokevan empatian eri tavalla",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-29T05:25:29Z",
+      "urls": [
+        {
+          "sign": "6a8d0d3b8569a233fab101b6932f07d3476d1d0668586f1a78bed11e860cc3f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Etelä-Korean armeija: Pohjois-Korea laukaisi torstaina noin kymmenen ballistista ohjusta kohti Japaninmerta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-29T05:16:02Z",
+      "urls": [
+        {
+          "sign": "818b9a46f05677a527ea7bb7481557ae9978171ebc4df6dd3617e3ae2466c18c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Karim Rapatti kertoo Erikoisjoukot-ohjelmassa luulosairaudestaan – oireilu alkoi isän kuoltua 2015",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T05:26:09Z",
+      "urls": [
+        {
+          "sign": "7709cc2ba535e70336d8557b812fe957774357a19f2ad8be0b6429d23069881b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jukurien Sedoffin ja Lukon Harpurin tappelu on edennyt SM-liigan kurinpitokäsittelyyn",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-29T05:22:21Z",
+      "urls": [
+        {
+          "sign": "773b5221c01b6877b56c9ccc187e9d427e799c61c5cb9c92eeec12d906d292fa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan ex-pääministeri Jatsenjuk: Stubbin ja Støren puhelu Putinille on heikkouden merkki",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
