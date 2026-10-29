@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-29T05:45:01Z",
+  "updated": "2026-10-29T05:57:37Z",
   "entries": [
     {
       "updated": "2026-10-29T00:46:23Z",
@@ -2387,23 +2387,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-26T12:52:25Z",
-      "urls": [
-        {
-          "sign": "3db475ed7750dc594e8701687c0d12f92bc18651a940fc2c0f852199d95c24ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HSL ottaa lähimaksuun käyttöön hintakaton marraskuun alusta – vuorokausilipun hinnan täytyttyä uusista matkoista ei peritä maksua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-26T17:38:07Z",
@@ -4798,23 +4781,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-27T16:08:29Z",
-      "urls": [
-        {
-          "sign": "6cbf4e416558e9abf00e8931542028a8df95f52d7ded50dec17478ac007c6086",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rantasalmelle pystytettiin kylttejä, joissa väitetään Googlen tekevän malminetsintää – kunta kiistää väitteet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-27T14:22:44Z",
@@ -13320,6 +13286,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-29T05:56:46Z",
+      "urls": [
+        {
+          "sign": "f3f05951e27467cb7d69294f7abe6baa75a9c0e44e69e3a4205281dd1e7df656",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "McDavid rikkoi NHL:n syöttöpisteputken ennätyksen kauden alusta – Edmonton Oilers voitti Calgary Flamesin 4–0",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-29T05:57:37Z",
+      "urls": [
+        {
+          "sign": "8bbb8f3f6265d602b9ee3fec9dd4023496dc66b6b11242a647914a8835484cb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sohvaperunat-Riku Huttunen kertoo podcastissaan kaljuuntumislääkkeen aiheuttaneen rintojen kasvua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
