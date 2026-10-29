@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-29T03:00:33Z",
+  "updated": "2026-10-29T03:30:49Z",
   "entries": [
     {
       "updated": "2026-10-29T00:46:23Z",
@@ -918,21 +918,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-26T11:04:39Z",
-      "urls": [
-        {
-          "sign": "72733deed1a45d05b4fd36e71f1b39e27815cd2f0dfad95daf0ecb2e5e61de5a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin keskustapuolueen hallitusneuvottelut epäonnistuivat – maa on ollut yli 40 päivää ilman hallitusta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-26T12:57:33Z",
@@ -5551,21 +5536,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-27T14:15:26Z",
-      "urls": [
-        {
-          "sign": "3a0b1763a220f7a43aeb870a72cc657a099a0ff2003153ac05d2edb47b7fb6a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kalle Rovanperän manageri Timo Jouhki ei vahvista italialaisen rallilehden huhua puolikkaasta MM-rallikaudesta ensi vuonna – hänen mukaansa tietoa voi tulla ennen 15. marraskuuta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-27T15:32:48Z",
@@ -13325,6 +13295,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T03:30:49Z",
+      "urls": [
+        {
+          "sign": "59148dfea96eeb8f46e6071e00f0e12a44f8c893750e931b96d47ce89c0a84b8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kysely: Vanhempien koulutus jakaa nuorten sijoittamisen – yliopistokoulutettujen vanhempien lapsista 42 prosenttia omistaa sijoituksia, ammatillisesti koulutettujen 16 prosenttia",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-29T03:30:35Z",
+      "urls": [
+        {
+          "sign": "1babdcca35bd0e58a59ffbbaac5fd71d9c1e2f770a501770207fcd53546492a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nuorten tulevaisuusraportin kysely: Pojat omistavat sijoituksia tyttöjä useammin – vanhempien koulutus on yhteydessä nuorten sijoituksiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
