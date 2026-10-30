@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-30T02:27:36Z",
+  "updated": "2026-10-30T03:09:58Z",
   "entries": [
     {
       "updated": "2026-10-30T01:01:25Z",
@@ -1202,23 +1202,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-27T13:02:00Z",
-      "urls": [
-        {
-          "sign": "f1d4ea7a6a1b20ef2f2e0d42d3a1f4d68bf424c4ce6bc1a2fcf6ba1f51b2ec77",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Herttuatar Sophie ja Suzanne Innes-Stubb takoivat hopeasormukset Kalevala Korun tehtaalla Helsingin Konalassa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-27T13:28:00+02:00",
@@ -5453,21 +5436,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-28T15:55:51Z",
-      "urls": [
-        {
-          "sign": "807e6d4a10fda27ad9faebc2bd02a53d52612f40e2fa0688544df123cc9d2e0d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cadillac jatkoi Sergio Pérezin sopimusta 2029 loppuun – Valtteri Bottaksen jatkosta ei ilmoitusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-28T16:16:36Z",
       "urls": [
         {
@@ -6351,23 +6319,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-28T16:00:30Z",
-      "urls": [
-        {
-          "sign": "576bbccd038f5d6a452505fd01f9bcd87ddda132b1afcad7d4dac949c7749594",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tiedustelututkija: Stubbin ja Støren Putin-puhelu oli hätiköity – saattoi estää salaisen agentin lähettämisen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-28T20:11:25Z",
@@ -12624,7 +12575,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-10-29T21:53:00+02:00",
+      "updated": "2026-10-30T05:09:00+02:00",
       "urls": [
         {
           "sign": "fd087610781a6d5ad46d32012ab6a6cf0da7c9fc9042f5e917b3a8042280a7c1",
@@ -12634,7 +12585,7 @@
         }
       ],
       "title": "Italian armeijan helikopteri syöksyi maahan Bosnia-Hertsegovinassa – useita kuolleita ja loukkaantuneita",
-      "clickbaitiness": "Extremely Clickbaity",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13302,6 +13253,51 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-30T03:09:58Z",
+      "urls": [
+        {
+          "sign": "5496bb5a23949fb337f9215a1cf86836890449bf6201274a990a8da3d16173b9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WSJ: Trumpin painostus sai Ukrainan keskeyttämään iskut Venäjän öljynjalostamoihin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-30T02:30:25Z",
+      "urls": [
+        {
+          "sign": "f9f0ee7e025fc47e55556008888275eb684de991b56171f12d1f6976b9d5e35e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sääennuste: Talvisempia olosuhteita Suomeen marraskuun alussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-30T03:00:19Z",
+      "urls": [
+        {
+          "sign": "52e898c80ac60b06ecf509b8a3e3294a0fc1b7cfb2ad82fdbcba580faf59fe0d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vain elämää -jakso julkaistaan poikkeuksellisesti vasta tänään – Zen Cafén paluu huhuttu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
