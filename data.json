@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-31T04:51:00+02:00",
+  "updated": "2026-10-31T03:00:00Z",
   "entries": [
     {
       "updated": "2026-10-31T00:50:06Z",
@@ -833,23 +833,6 @@
       ],
       "title": "Sääntömuutos on lisännyt SM-liigan videotarkistuksia – asiantuntijat pitävät uudistusta surkeana",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-28T12:07:26Z",
-      "urls": [
-        {
-          "sign": "edb1ff49c75866cba9f5d4c4fe0c5c0a1a42dcb6635e16b9b674c088a059d326",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "VTT:n selvitys: Datakeskusten osuus Suomen sähkönkulutuksesta voi nousta 12–19 prosenttiin vuoteen 2030 mennessä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13354,6 +13337,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-31T03:00:00Z",
+      "urls": [
+        {
+          "sign": "b350aedda5c61f6224039749e9a13b48f5ea8a7b9e4df8cbda33dc81a123224c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoäly ja sosiaalinen media vääristävät kuvaa Ranskan mielenosoituksista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
