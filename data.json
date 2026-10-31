@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-31T04:00:41Z",
+  "updated": "2026-10-31T04:14:00Z",
   "entries": [
     {
       "updated": "2026-10-31T00:50:06Z",
@@ -707,23 +707,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-28T12:39:23Z",
-      "urls": [
-        {
-          "sign": "33116a537ce20363ecbd0e96cfb168d350d628c8c03d0f7658bb6fc8d2b32b5a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV:n tiedot: Orpo tiesi viikonloppuna Stubb-Støren puhelusuunnitelmasta Putinin kanssa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-28T15:28:18Z",
@@ -4990,27 +4973,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-29T16:11:42Z",
-      "urls": [
-        {
-          "sign": "4a758885d664322607662a4ef6225b32173eca1f1707ba1dc5c908710c893534",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "2aba1f71900ac186045ddb3ea5eacce8a7296573ba41f2ef24e5fca44b187d2d",
-          "labels": []
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-29T18:00:00+02:00",
@@ -13343,6 +13305,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-31T04:00:36Z",
+      "urls": [
+        {
+          "sign": "c7e89e58b45e7fa580ec8de04afafff21bb092ff84c23c05e7482cdf3f64a03d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pirkko Arstila, Eino Grön ja Danny keskittyvät elämään eivätkä odota kuolemaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-31T04:14:00Z",
+      "urls": [
+        {
+          "sign": "b59cac2db40d2cfef2f548f7b3fa51c170b1f2e8acc60e3eca3e179bbb8311d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hietaniemen hautausmaan vahtimestari Hannu Aho kertoo pyhäinpäiväperinteistä ja 1910-luvun luurankolöydöstä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
