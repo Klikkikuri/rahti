@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-30T22:44:55Z",
+  "updated": "2026-10-31T01:42:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T20:19:11Z",
@@ -719,23 +719,6 @@
       "title": "Adam Brody kutsui Israelin toimia Gazassa kansanmurhaksi, Netflix-sarjan vastanäyttelijä ja luoja eri mieltä",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-28T11:08:00+02:00",
-      "urls": [
-        {
-          "sign": "6f31f826df222d8891d2787e93c23dc12a2f63e16d6150e0525a6324efb0aca3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -4972,24 +4955,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-29T15:16:01Z",
-      "urls": [
-        {
-          "sign": "aa479b3024af4fb33e88cd3436d2a480e0f0460336503bd478b3e1ba36d148cc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen ulkoministeri Valtonen ja Yhdysvaltain ulkoministeri Rubio allekirjoittivat Washingtonissa sopimukset kriittisistä mineraaleista ja teknologiayhteistyöstä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-29T14:13:35Z",
@@ -13126,7 +13091,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-30T21:56:24Z",
+      "updated": "2026-10-30T23:10:20Z",
       "urls": [
         {
           "sign": "26940f83a50e321043e6feef0e1acfc33cbe0bcc72666257e7a0d109f06885e5",
@@ -13135,7 +13100,7 @@
           ]
         }
       ],
-      "title": "26-vuotias mies karannut Niuvanniemen sairaalasta Kuopiosta – Poliisi: Älä lähesty, henkilö voi olla vaarallinen",
+      "title": "Niuvanniemestä karannut 26-vuotias mies löytyi",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13361,6 +13326,36 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-30T23:04:41Z",
+      "urls": [
+        {
+          "sign": "93c473a76d7dba14251dca70e5192c9d957f06a66b3ffe4726f802f225d206ea",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Max Verstappen ja Liam Lawson kolaroivat Meksikon GP:n toisessa harjoituksessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-31T01:42:00+02:00",
+      "urls": [
+        {
+          "sign": "6fac30d99a23f91693f6a7d3ab6972c51d6d6314e0527a3a7db5373572333199",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lavrov G20-huippukokouksessa: Venäjän kanta Ukrainan konfliktiin ei ole muuttunut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
