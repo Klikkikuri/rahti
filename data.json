@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-31T03:34:00Z",
+  "updated": "2026-10-31T04:00:41Z",
   "entries": [
     {
       "updated": "2026-10-31T00:50:06Z",
@@ -1839,21 +1839,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-28T18:28:18Z",
-      "urls": [
-        {
-          "sign": "89d832d863432b8ceb2e154b4169d986921ca4fd4ccb3711eb23df0167a8c558",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iranin sodan nostamat polttoainehinnat pakottivat luksusristeilijän jäämään Kambodžaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-28T21:00:00+02:00",
@@ -5077,21 +5062,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-29T16:11:42Z",
-      "urls": [
-        {
-          "sign": "a4c70a9d8e34fc53da72fa49cc9578c68269836977b347132ddbd1aefb28761f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pekka Rinne liittyy Leijonien valmennustiimiin Sveitsin EHT-turnauksessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-29T18:58:45Z",
       "urls": [
         {
@@ -5167,21 +5137,6 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-29T15:53:02Z",
-      "urls": [
-        {
-          "sign": "9ee9073c29e48570ed580da623683b02ba80f10c34be4ab4a88af6dba1bcbb4d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Diana poistaa sika-nautajauhelihan ylimääräisen rasvan – keittiömestari suosittelee vähemmän lihaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-29T18:10:00+02:00",
@@ -13341,6 +13296,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-10-31T03:55:23Z",
+      "urls": [
+        {
+          "sign": "78d2282b2288e4873670d40d49187d93224b3877b8bde2d39db9dba1b045dcf1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pyhäinpäivän leuto ja kuiva sää helpottaa hautausmaakäyntejä, sade saapuu sunnuntai-illasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-31T04:00:41Z",
+      "urls": [
+        {
+          "sign": "2365e98b168a4c9e3a7c116c93267a4a505dcda90281dcae7a10d9c2f414c76d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-31T04:00:00Z",
+      "urls": [
+        {
+          "sign": "d54af14df093e534440ad235f2b95060959a89d4866f89067953d6fb150b29c0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jokerien omistaja Max Seeck podcastissa Jokerien omistajuudesta ja valmentajavaihdoksesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
