@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-31T02:05:14Z",
+  "updated": "2026-10-31T04:51:00+02:00",
   "entries": [
     {
       "updated": "2026-10-31T00:50:06Z",
@@ -438,23 +438,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-28T13:01:00+02:00",
-      "urls": [
-        {
-          "sign": "c47cd3ceeb5c16350cac16145d754def2e61c60da073a86515205cf8e2b4a797",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-25T19:18:55Z",
@@ -5154,21 +5137,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-29T15:40:48Z",
-      "urls": [
-        {
-          "sign": "9e5fbe0a19df02e3e1d5deb5950ccaa8491d3872aba1e2678c580cf8f224232f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaaleanpunainen pantteri -elokuvista tuttu näyttelijä Elke Sommer on kuollut 85-vuotiaana",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-29T16:11:42Z",
@@ -13356,6 +13324,36 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-10-31T04:51:00+02:00",
+      "urls": [
+        {
+          "sign": "e67568c28a5aa8bdf6a2be26283313c97d12e532537d19a7141c901113d0751d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tuskin hallitus erotti tuomioistuimen puheenjohtajan – Puolan perustuslakituomioistuin syyttää hallitusta vallankaappauksesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-31T02:38:46Z",
+      "urls": [
+        {
+          "sign": "366644f1a6aa74fc3dc1d15536f2407e5656ff7b4981e29ce32b82ae75d3d24d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Selma Blair pyysi Instagram-videolla anteeksi lentokonevälikohtaustaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
