@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-31T00:50:06Z",
+  "updated": "2026-10-31T03:46:00+02:00",
   "entries": [
     {
       "updated": "2026-10-31T00:50:06Z",
@@ -724,23 +724,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-28T13:00:00+02:00",
-      "urls": [
-        {
-          "sign": "b80dc7cb1258feaa0fd6e816403385d07efd8e06b35278f6ede69bfc02577a30",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-10-28T14:27:00+02:00",
@@ -5278,21 +5261,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-29T15:30:59Z",
-      "urls": [
-        {
-          "sign": "23cfb38c87067ef4471cfe3abe00c29f72ee59e5fc44706f324236ccfd416549",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaisten kansanedustaja Miko Bergbom arvostelee Yle Kioskin Bangbus-videota – pitää sitä Susanna Penttilän Onlyfans-toiminnan epäsuorana markkinointina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-29T15:57:37Z",
@@ -13355,6 +13323,38 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-31T01:37:27Z",
+      "urls": [
+        {
+          "sign": "73b65d20f44d93176e62db9e2ffb0e2610baca8ebef2ad44c7df68372979fffa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Villa Vie Residences keskeytti risteilynsä Kambodžaan polttoainekustannusten nousun vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-31T03:46:00+02:00",
+      "urls": [
+        {
+          "sign": "abef28cf26b8994f630de1ccebeab44709fce71e4a6f28d5c5f02c458371dabc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yli 160 000 osallistuu Saksan mielenosoituksiin – Z-sukupolvi vaatii koulutusrahoja ja vastustaa asepalvelusta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Helsingin Sanomat"
     }
   ]
