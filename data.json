@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-31T03:46:00+02:00",
+  "updated": "2026-10-31T02:05:14Z",
   "entries": [
     {
       "updated": "2026-10-31T00:50:06Z",
@@ -1856,21 +1856,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-28T18:05:05Z",
-      "urls": [
-        {
-          "sign": "da3d5a3240928a18cf882021428486e9af6a51b774c55ac53c500482a78cf062",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjan luotijunaturman jälkeen muut puolueet keskeyttivät vaalikampanjat – Vox jatkaa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-28T23:15:58Z",
@@ -13356,6 +13341,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-10-31T02:05:14Z",
+      "urls": [
+        {
+          "sign": "2c153b6915de63347e4110cc54cbde531ff08ccec2c57817ab3f9116d8e4e9d2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolan hallitus ja presidentti kiistelevät tuomioistuimen johdosta – mellakkapoliisi Varsovassa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
