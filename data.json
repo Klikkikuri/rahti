@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-01T03:12:00Z",
+  "updated": "2026-11-01T03:30:39Z",
   "entries": [
     {
       "updated": "2026-10-31T10:16:34Z",
@@ -572,23 +572,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-10-29T09:21:00+02:00",
-      "urls": [
-        {
-          "sign": "d08e9e2840ceebd1489ddf8585f4212b5e5a34a075b2f9a0e040dcdb3da5de97",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-10-29T11:37:00+02:00",
       "urls": [
         {
@@ -729,21 +712,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-29T07:45:52Z",
-      "urls": [
-        {
-          "sign": "09235bf89f21df068d9cdc3bd9e3daf2bedba952b19fb3cd431fd0936eb34ade",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nesteen vertailukelpoinen käyttökate lähes kolminkertaistui heinä–syyskuussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-29T07:47:35Z",
@@ -940,23 +908,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-29T09:39:43Z",
-      "urls": [
-        {
-          "sign": "cb1bbcd525a53589693e3ca54f9aea9dbdea303c84603a27c6cd3c1b7074ffc5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itä-Suomen hallinto-oikeus kumosi pääosin Kolin Rintasenvaaran ranta-asemakaavan – rakentamisen ohjaus ei riittänyt turvaamaan maisema-arvoja",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-10-29T11:45:00+02:00",
       "urls": [
         {
@@ -989,21 +940,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-29T09:44:49Z",
-      "urls": [
-        {
-          "sign": "c076dcd70807af61fd777e2567a99411a7929a2ce343bb4587494661f030339c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oulujoen vesistön syksy on sateisin 60 vuoteen – Fortum juoksuttaa vettä, Oulussa Merikosken voimalan tulvaluukut ovat käytössä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-29T11:55:00+02:00",
@@ -13316,6 +13252,68 @@
       ],
       "title": "Heidi Klum paljasti Halloween-asunsa: 53-vuotias huippumalli pukeutui valtavaan irtileikattuun käteen",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-01T03:30:39Z",
+      "urls": [
+        {
+          "sign": "1855b18648fd1cf562220cd1dd3b7e3cc2850cc2a397f55f585c39c65e211861",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle selvitti: Kaupat keräävät ostosdataa, luokittelevat asiakkaitaan ja kohdentavat mainontaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-01T03:15:35Z",
+      "urls": [
+        {
+          "sign": "6c5b853fdf83637331a16e9f628c1479a1a0fcf5125fbfc19efdafad62feb309",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bolivian presidentti julisti hätätilan El Niñon vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-01T03:23:00Z",
+      "urls": [
+        {
+          "sign": "f3fce64bc2439225b7019da2d36accf8e83ea8632ec5a48a4d70bc5f71d01dd7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen drooni osui Kiovan kouluun — opetus jatkuu kellareissa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-01T02:28:00+02:00",
+      "urls": [
+        {
+          "sign": "4ed680e3fb1797aded13ac07b92dec25671b426783721f28ec8f789ef83367a3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi keskeytti halloween-juhlan Kattilahallilla sadat nuoret houkutelleen järjestysongelmien vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     }
