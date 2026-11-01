@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-01T01:42:31Z",
+  "updated": "2026-11-01T02:15:58Z",
   "entries": [
     {
       "updated": "2026-10-31T10:16:34Z",
@@ -5818,21 +5818,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-10-30T13:01:59Z",
-      "urls": [
-        {
-          "sign": "c061ff27ccd54e74e44e8f98cdf99be7ef14f8eab8758afe3b7ea20eb28ca2cb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtiovarainministeri Riikka Purra nimitti entisen Savonlinnan kaupunginjohtajan Janne Laineen erityisavustajakseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-30T12:15:22Z",
@@ -12343,7 +12328,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-10-31T22:58:00+02:00",
+      "updated": "2026-11-01T04:15:00+02:00",
       "urls": [
         {
           "sign": "41180ad62286e00217036859c748731ffdc9ba8798a4eb440d284636a7d8a2a3",
@@ -12352,8 +12337,8 @@
           ]
         }
       ],
-      "title": "Poliisi otti Ranskan mielenosoituksissa yli 420 ihmistä kiinni – Pariisissa poliisi loukkaantui lievästi polttopullon heitosta",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Poliisi otti Ranskassa kiinni yli 560 mielenosoittajaa – Pariisissa poliisia haavoittui polttopullosta",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13318,6 +13303,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-01T02:15:58Z",
+      "urls": [
+        {
+          "sign": "ce67bdc77f75a103abe85998de1eb851f18fb0bf5f01ea3a1672148b38a19dc9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tietokonesimulaatio haastaa teorian komeettojen tuomasta elämästä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
