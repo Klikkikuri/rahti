@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-10-31T22:32:57Z",
+  "updated": "2026-10-31T23:45:03Z",
   "entries": [
     {
       "updated": "2026-10-31T10:16:34Z",
@@ -5843,21 +5843,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-30T12:55:04Z",
-      "urls": [
-        {
-          "sign": "995396f8e591d17ad1f52275f62bb9871a22f373a63393ab4b2996c8ec26954a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Skotlannin poliisi tutkii prinssi Andrew’n yhteyksiä Epsteinin ja Maxwellin Balmoral-vierailuihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-30T12:27:44Z",
@@ -13310,6 +13295,23 @@
       "title": "Lewis Hamilton ajoi paalupaikalle Meksikon GP:ssä – ensimmäinen paalu Ferrarilla",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-10-31T23:45:03Z",
+      "urls": [
+        {
+          "sign": "275e0159787359421b7893c50938cc14311d721d894867749ba0d969eea93b52",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Moskovan Venäjä–Afrikka-huippukokouksessa Putin pyrkii vahvistamaan vaikutusvaltaansa Afrikassa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
