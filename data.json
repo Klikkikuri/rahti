@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-01T03:30:39Z",
+  "updated": "2026-11-01T03:55:16Z",
   "entries": [
     {
       "updated": "2026-10-31T10:16:34Z",
@@ -1115,21 +1115,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-29T10:08:57Z",
-      "urls": [
-        {
-          "sign": "e6764cc0f711618e081ce89af89a5f17a4dcf86dae278d5ee96bed7884e48d3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itäisten pähkinänakkelien voimakas vaellus on saapunut Suomeen – ensimmäinen kerta yli 30 vuoteen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-29T10:14:55Z",
@@ -13316,6 +13301,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-01T03:55:16Z",
+      "urls": [
+        {
+          "sign": "e85abe9c5473b5a593b8d6d4ffe69047bdbea62957fbeb537c706140111f2296",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marraskuun alku tuo runsaita sateita keskisuomalaisille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
