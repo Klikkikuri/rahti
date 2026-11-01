@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-01T03:55:16Z",
+  "updated": "2026-11-01T04:03:00Z",
   "entries": [
     {
       "updated": "2026-10-31T10:16:34Z",
@@ -712,23 +712,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-29T07:47:35Z",
-      "urls": [
-        {
-          "sign": "5d5aaa204cf46fa8cf389c27572f63b15bfdd9df994ea2c9a164bb35ea6fd00e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Makwan Amirkhani ei saapunut oikeuteen seksuaalirikossyytteen käsittelyssä – Mira Luoti on ollut paikalla kaikkina kolmena päivänä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-10-29T11:00:00+02:00",
@@ -5479,23 +5462,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-30T13:20:20Z",
-      "urls": [
-        {
-          "sign": "e75aff3a69f675898f26c57aeceb22f9cfacc002a597fab6313d7e6f80624e41",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi ei löytänyt epäiltyä ampujaa Espoon Kurttilassa torstai-iltana – asukas: paukuttelu on jatkunut vuosia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-30T13:15:13Z",
       "urls": [
         {
@@ -5509,24 +5475,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-30T13:18:03Z",
-      "urls": [
-        {
-          "sign": "65dfd5599bdfbe7a5fa1d376b39bc524eee5fb0b6f0e6ecad4e7a41e21299f80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Forumin kauppakeskus evakuoitiin paloilmaisinjärjestelmän laukeamisen vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-30T13:43:57Z",
@@ -13316,6 +13264,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-01T04:01:01Z",
+      "urls": [
+        {
+          "sign": "d5813883b82fdfff29cd30f3642cd3a1a03776273aabee366a214864b2625513",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-01T04:00:57Z",
+      "urls": [
+        {
+          "sign": "f3770feef4b87be2c744f3dc20f4f458400af52be5264858e02d136a23294b07",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Väärä tyyny aiheuttaa niskakipuja ja puutumista – näin valitset oikean tyynyn",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-01T04:03:00Z",
+      "urls": [
+        {
+          "sign": "acb2e7a6336938716b2aefec7681ae334130c3277613d858847199cada729426",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jyrki Sukula: Kasvavien asiakasodotusten vuoksi ravintoloiden on panostettava palveluun ja kokemukseen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
