@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-01T00:09:50Z",
+  "updated": "2026-11-01T00:52:03Z",
   "entries": [
     {
       "updated": "2026-10-31T10:16:34Z",
@@ -601,21 +601,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-29T08:53:00+02:00",
-      "urls": [
-        {
-          "sign": "598384d303a926f16524de55782596b25e07b133276fd932e2ff93dbd9381b03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Putin ylisti Elon Muskia neroksi ja myönsi Venäjän Starlink-vastineen olevan vasta alussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5652,21 +5637,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-10-30T13:00:00Z",
-      "urls": [
-        {
-          "sign": "ec347d68d856f70e331a7f4a3fe99982be3b2d2d744563056340b211262aa573",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "33-vuotias vangittu Espoon henkirikos epäiltynä – käräjäoikeus vapautti kaksi muuta epäiltyä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-30T13:18:03Z",
@@ -13315,6 +13285,39 @@
       ],
       "title": "Lukija: Lapin sodan elokuva tuo unohdetun historian näkyväksi",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-01T00:52:03Z",
+      "urls": [
+        {
+          "sign": "c502f0303c48fac034e2cd55f727f37ddc8f587efcb768e879b72a3cac96383d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi keskeytti nuorten halloween-juhlan Helsingissä järjestyshäiriöiden vuoksi – häiriötehtäviä myös Lapissa ja Oulussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-01T02:28:00+02:00",
+      "urls": [
+        {
+          "sign": "d390b13c21d642f94caf760918fdd54b1f1b4959e21a3d993894ee1a9c2c5158",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi keskeytti halloween-juhlat Suvilahdessa häiriökäyttäytymisen vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     }
