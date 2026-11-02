@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-02T01:20:11Z",
+  "updated": "2026-11-02T02:36:04Z",
   "entries": [
     {
-      "updated": "2026-11-01T21:40:08Z",
+      "updated": "2026-11-02T02:36:04Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa: ilmahälytyssovellukseen murtauduttiin, Venäjä levittää aiempaa enemmän propagandaa Suomesta",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Wall Street Journalin mukaan Yhdysvallat pyrkii edistämään venäläisen kaasun paluuta Eurooppaan – IL seuraa",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -538,21 +538,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-10-29T15:20:35Z",
-      "urls": [
-        {
-          "sign": "93729f411f73ad6a82a816d64a0b40eaa13f4074f31b8b4d52cf6d4b446d7621",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "NYT: Peltolan kampanja värväsi Alaskassa kaiman viemään ääniä senaattori Sullivanilta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-10-29T16:02:53Z",
@@ -6232,21 +6217,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-10-31T12:07:19Z",
-      "urls": [
-        {
-          "sign": "3fac2bfe6888ab1cc0db0f1483ce2b0cbd8d0a36077a83a1c028b25a8bdd2363",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ernest Lawson jännittää imitaattorien esityksiä MTV3:n ohjelmassa \"Tämä on tämä\"",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-10-31T13:45:00+02:00",
       "urls": [
         {
@@ -6275,21 +6245,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-31T12:25:30Z",
-      "urls": [
-        {
-          "sign": "478fae8e8c6a2619003b141b8c69ae922cbf8f8412781bd5f2821a89ef9c40d2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eevi Seikkula voitti acrobatic fitnessin MM-kullan Espanjassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-10-31T11:54:57Z",
@@ -13308,6 +13263,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-02T01:40:36Z",
+      "urls": [
+        {
+          "sign": "f06c758ef9ac3203062a538b3147e09abfab84634b8a1b593576585b4d9b9615",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain salainen palvelu sijoitti ilmatorjuntajärjestelmiä Trumpin Mar-a-Lagon lähelle ennen välivaaleja",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-02T02:10:45Z",
+      "urls": [
+        {
+          "sign": "63ebdbd4b8e3d08d1a2d70f494f036ad245f22d0ecb74c005363df202953f0a6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OP Pohjolan kysely: Suuryritykset näkevät datakeskusten kiristävän kilpailua sähköstä ja vaativat tasavertaisuutta energiapolitiikassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-02T02:16:39Z",
+      "urls": [
+        {
+          "sign": "1cd49f19a6de7d2a392b2cda8f9663cd8dbc6636d4706aadcaeba67ac75fabed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Irlannin Euroviisuedustaja Eddie Friel kuoli 64-vuotiaana",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
