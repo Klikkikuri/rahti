@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-04T00:13:37Z",
+  "updated": "2026-11-04T03:41:00+02:00",
   "entries": [
     {
       "updated": "2026-11-03T19:16:41Z",
@@ -5629,21 +5629,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-02T16:29:13Z",
-      "urls": [
-        {
-          "sign": "1859662c4506ed6627fa708fe47e2d776c2facf3500068085893e57ff8102819",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heli Sievinen ja Iida Mustonen palaavat Salatut elämät -sarjaan marraskuun hääjaksoissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-02T20:32:36Z",
       "urls": [
         {
@@ -9483,7 +9468,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-04T00:13:37Z",
+      "updated": "2026-11-04T01:36:49Z",
       "urls": [
         {
           "sign": "613d370ae7119f2019a0d7b26c59066164be53f542e2445ec3b6a23fe8a3071c",
@@ -9492,8 +9477,8 @@
           ]
         }
       ],
-      "title": "Demokraatit voittivat Virginian vaalit – Iltalehti seuraa Yhdysvaltain välivaaleja",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Yhdysvaltain välivaalit alkavat – Iltalehti seuraa käänteitä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13074,7 +13059,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-04T01:58:00+02:00",
+      "updated": "2026-11-04T03:41:00+02:00",
       "urls": [
         {
           "sign": "76a60f1ddb77ed3ac32be23460dfff8a14b0f2009030665e00aae47dd9255a78",
@@ -13083,8 +13068,8 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain välivaaleissa äänestäjät keskittyvät Trumpin hallintoon ja elinkustannuksiin",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Yhdysvaltain välivaaleissa demokraatit vahvistavat asemaansa varhaisissa tuloksissa, äänestys jatkuu vaa’ankieliosavaltioissa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13310,6 +13295,21 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-04T00:17:21Z",
+      "urls": [
+        {
+          "sign": "010cfeb45b41bc77a8cb7c1611446518939612b147120e2a2627422c2da83432",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa neuvoja jokaiselle Eläinradan merkille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
