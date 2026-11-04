@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-04T03:41:00+02:00",
+  "updated": "2026-11-04T02:27:39Z",
   "entries": [
     {
       "updated": "2026-11-03T19:16:41Z",
@@ -648,21 +648,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-10-31T15:30:00+02:00",
-      "urls": [
-        {
-          "sign": "7b3d7630775f9b8b66904a4cbb2527efd8fea4e040679185c728c329d370c0cf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Der Spiegel julkaisi Berliinin vasemmistojohtajan Elif Eralpin sisäiset kommentit – hän kertoo pelkäävänsä aktivisti Ibrahim Ibrahimia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1912,21 +1897,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-01T12:49:24Z",
-      "urls": [
-        {
-          "sign": "5e21a1abe923a251afbc9bf7539b53aa7fec4ce6a6190f2dae85a1be13434444",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iivo Niskanen palasi kilpailuihin Suomen cupissa, hiihti Puijon Hiihtoseuran toisen osuuden Vuokatissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-01T13:24:01Z",
@@ -6905,23 +6875,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-02T16:38:32Z",
-      "urls": [
-        {
-          "sign": "7a49933e7001601f59fd2ee4cad45e6caf079c19924fc8b8f42cfb5b42b0eaab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "20-vuotias lentäjä ja kahdeksan muuta kuolivat Floridan Learjet-onnettomuudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-02T18:00:18Z",
       "urls": [
         {
@@ -9468,7 +9421,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-04T01:36:49Z",
+      "updated": "2026-11-04T02:21:24Z",
       "urls": [
         {
           "sign": "613d370ae7119f2019a0d7b26c59066164be53f542e2445ec3b6a23fe8a3071c",
@@ -9477,7 +9430,7 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain välivaalit alkavat – Iltalehti seuraa käänteitä",
+      "title": "Yhdysvaltain välivaalit: Demokraatit vahvassa asemassa senaattikisassa – Iltalehti seuraa käänteitä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13059,7 +13012,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-04T03:41:00+02:00",
+      "updated": "2026-11-04T04:25:00+02:00",
       "urls": [
         {
           "sign": "76a60f1ddb77ed3ac32be23460dfff8a14b0f2009030665e00aae47dd9255a78",
@@ -13068,8 +13021,8 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain välivaaleissa demokraatit vahvistavat asemaansa varhaisissa tuloksissa, äänestys jatkuu vaa’ankieliosavaltioissa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Demokraatit vahvistavat asemaansa Yhdysvaltain välivaaleissa, senaatin enemmistön tie avautuu",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13309,6 +13262,57 @@
       "title": "Iltalehden horoskooppi tarjoaa neuvoja jokaiselle Eläinradan merkille",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-04T03:58:00+02:00",
+      "urls": [
+        {
+          "sign": "9fea70ec073e562a73e58d4dd4de214c6c5c65931c67fbe9f18b7192e3d76a17",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanjan liikenneministeri erosi Toledon junaturman ja aiemman onnettomuuden vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-04T02:11:56Z",
+      "urls": [
+        {
+          "sign": "3ac64c87ccdb8cd2c1505c3aaa1be22a88cd5f509ffb59aade870ffa97db203f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain välivaalit: Uutiskanavien varhaisten ennusteiden mukaan demokraatit voittavat senaattipaikat Georgiassa ja Pohjois-Carolinassa – äänestyspaikkoja on sulkeutunut",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-04T02:27:39Z",
+      "urls": [
+        {
+          "sign": "ba2ae98481ec50fff2c7b99393fd66dcc49b2c3e7cc934ea605ac772b8af2d07",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Philadelphian viranomaiset pidättivät Suomen kansalaisen epäiltynä vaalivilpistä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
