@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-07T02:33:29Z",
+  "updated": "2026-11-07T03:44:43Z",
   "entries": [
     {
-      "updated": "2026-11-06T23:46:06Z",
+      "updated": "2026-11-07T03:44:43Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -271,7 +271,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-07T00:31:35Z",
+      "updated": "2026-11-07T03:38:08Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -280,8 +280,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin – Iranin johtaja Khamenein surmattiin – Iltalehti seuraa tilannetta",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Trumpin mukaan Yhdysvallat teki uusia ”vähäisiä” iskuja Iraniin – Iltalehti seuraa Lähi-idän sotaa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -954,21 +954,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-04T13:02:07Z",
-      "urls": [
-        {
-          "sign": "29b8fc488cc31669e738fa8b2a60d63b006c3f82a68b922079180bc3ad38a717",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tekoäly oppi tunnistamaan suomalaista jätettä, mutta ihmisen rooli lajittelussa säilyy",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-04T10:38:56Z",
@@ -6476,23 +6461,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-05T19:16:38Z",
-      "urls": [
-        {
-          "sign": "4178cc57619585ed8decef2a1ab1a5ace47bb7ad8b693e22a5c4798eff3f9edc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Karoliina Tuominen arvosteli Miiska van Renterghemin käytöstä Erikoisjoukoissa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-05T16:34:56Z",
       "urls": [
         {
@@ -6535,21 +6503,6 @@
         }
       ],
       "title": "Sähköinen Bentley Torcal on Suomen halvin uusi Bentley – hinta alkaen 227 000 eurosta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-05T19:17:58Z",
-      "urls": [
-        {
-          "sign": "495620c72552acbeea565a52e1d175331250fe6c1f14dc8c8212ad9db1a895e9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump puolustaa puolustusministeri Hegsethiä Iranin sodan kritiikistä huolimatta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13287,6 +13240,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-07T03:28:53Z",
+      "urls": [
+        {
+          "sign": "4602b3679f0f21097aae3d595bf13c5e579d5562965f021b1581126351427f94",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valkoisen talon lähellä pidätetty aseistautunut mies kertoi kuulleensa ääniä, jotka käskivät tappaa Trumpin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-07T03:30:35Z",
+      "urls": [
+        {
+          "sign": "182ac6b49d85c8455f2de4c49d324ff5d29d4027d782476edb164b7da3d653fe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Google keskusteli ympäristövaikutusten arvioinnista ministeriön kanssa, mutta hakkasi metsää ilman lupaa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-07T03:30:43Z",
+      "urls": [
+        {
+          "sign": "a7b78b102a8fe92811a53c4f42435108c10d39ecf942b4858012698d820b8660",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Masked Singer Suomi: Katsojat veikkaavat somessa Vapun, Opossumin, Popparin, Myrkyn ja Faaraon henkilöllisyyksiä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
