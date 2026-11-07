@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-07T03:44:43Z",
+  "updated": "2026-11-07T04:01:16Z",
   "entries": [
     {
       "updated": "2026-11-07T03:44:43Z",
@@ -5724,21 +5724,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-05T19:19:31Z",
-      "urls": [
-        {
-          "sign": "a3be7414f91203df9a4e4c97f718f9b10a7330c7017502ae04058351953f80f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asianajajien valvontalautakunta hylkäsi kaksi Otto Merestä tehtyä kantelua – kolme valvonta-asiaa yhä kesken",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-05T20:37:26Z",
       "urls": [
         {
@@ -6444,21 +6429,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-05T19:21:39Z",
-      "urls": [
-        {
-          "sign": "dc29387e5895f158deb8cbcc2f2c69f464c8fb595f29074480cd8349abc1ffbb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Touretten oireyhtymää sairastava Pekka Lehtonen kertoo kohtaavansa julkisilla paikoilla vihollisuutta ja väärinkäsityksiä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-05T16:34:56Z",
@@ -13148,7 +13118,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-07T01:57:20Z",
+      "updated": "2026-11-07T03:57:48Z",
       "urls": [
         {
           "sign": "61914f06ad68fd8aa0acb12dc15500c04d71fea8f18eff7a2c0b4662f592b20a",
@@ -13157,11 +13127,9 @@
           ]
         }
       ],
-      "title": "Mies putosi yli laidan risteilyalus Birka Gotlandilta Itämerellä – laaja etsintäoperaatio käynnissä",
+      "title": "Mies putosi yli laidan risteilyalukselta Birka Gotlandilta Itämerellä – etsintä päättyi, miehen tilasta ei tietoa",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13284,6 +13252,42 @@
         }
       ],
       "title": "Masked Singer Suomi: Katsojat veikkaavat somessa Vapun, Opossumin, Popparin, Myrkyn ja Faaraon henkilöllisyyksiä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-07T04:00:26Z",
+      "urls": [
+        {
+          "sign": "149611878050b7bdc37a7f096fc0ec364106d67e96275f19567d0da881395728",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "2aae2fd3994b92da866bd5165e524ddcca687560aa9ecdd64ea80965cfa7a08d",
+          "labels": []
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-07T04:01:16Z",
+      "urls": [
+        {
+          "sign": "e6e9640f26e7f6ef82e5250147325934e73c8778837047bfedab9bc5e56298c4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EVA:n tutkimus: SDP johtaa työllisyyden edistämisessä, Kokoomuksen talousasema kaventunut",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
