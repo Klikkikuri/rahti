@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-08T03:06:31Z",
+  "updated": "2026-11-08T06:00:00+02:00",
   "entries": [
     {
-      "updated": "2026-11-07T12:32:50Z",
+      "updated": "2026-11-08T03:52:34Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Ukrainan sotaa – Venäjän propaganda pyrkii murentamaan lännen tukea",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Iltalehden liveblogi: Ukrainan sota ja Venäjän propaganda",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1041,21 +1041,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-05T07:01:36Z",
-      "urls": [
-        {
-          "sign": "aa3e0062bc778268f745562c3166004a431201f09a2de249500c74edd926cace",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle poll: NCP hits historic low as Finns Party becomes most popular government party",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-05T08:25:50Z",
       "urls": [
         {
@@ -1360,21 +1345,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-05T11:15:00+02:00",
-      "urls": [
-        {
-          "sign": "9c261396d84f8b3af2e2eb75c541451893c4a1fdc4fbe1cda1381a8a8dc87eba",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuusi romaania tavoittelee kaunokirjallisuuden Finlandia-palkintoa – Rosa Liksom ja Heikki Kännö jälleen ehdolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-05T11:28:23Z",
@@ -13410,6 +13380,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-08T03:30:35Z",
+      "urls": [
+        {
+          "sign": "ec3c68387bbdd540f24a0a479cee985dc50fc89eedce67d1c2e506ca83aa3501",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Y-säätiö myi satoja valtion tukemia vuokra-asuntoja Sijoitusasunnot.comille, joka jälleenmyy ne yksityisille sijoittajille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-08T06:00:00+02:00",
+      "urls": [
+        {
+          "sign": "c05dc25cd6df00aafe357aa069d088631516b37a73d838eb90ccbf2aa924ad2c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
