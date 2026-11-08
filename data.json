@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-08T02:00:00+02:00",
+  "updated": "2026-11-08T02:58:00+02:00",
   "entries": [
     {
       "updated": "2026-11-07T12:32:50Z",
@@ -1390,21 +1390,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-05T11:00:00+02:00",
-      "urls": [
-        {
-          "sign": "abad96612e02dd2bfd2bdba75a4e9972443a904247beb01369438da30cb5ad57",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jamie Oliverin viiden aineksen resepti muuttaa ruisleivän nopeiksi suklaakekseiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-05T11:15:00+02:00",
@@ -11523,7 +11508,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-08T00:53:00+02:00",
+      "updated": "2026-11-08T02:58:00+02:00",
       "urls": [
         {
           "sign": "e286b91d832347b4e5a11f473806c3612009e0c68b55bee89d1509d825835ab1",
@@ -11532,7 +11517,7 @@
           ]
         }
       ],
-      "title": "Puolan viranomaiset tutkivat Krakovan ampumisen terroriteoksi – epäillyn kodista löytyi useita kuolleita",
+      "title": "Puolan viranomaiset löysivät kolme kuollutta Krakovan ampumisepäillyn kodista – tapahtumaa tutkitaan terroritekona",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13408,6 +13393,23 @@
       "clickbaitiness": null,
       "labels": [
         "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-08T02:44:00+02:00",
+      "urls": [
+        {
+          "sign": "bb674dc75dae8e4d43c8c454dfd7ce2dc5570d68fa56edd541f6626ca4e8edb3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Israelin presidentti Herzog nimittää opposition Gadi Eisenkotin hallitustunnustelijaksi vaalipatin jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
     }
