@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-09T00:43:00+02:00",
+  "updated": "2026-11-09T02:00:00+02:00",
   "entries": [
     {
       "updated": "2026-11-08T12:06:53Z",
@@ -946,23 +946,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-05T19:02:00+02:00",
-      "urls": [
-        {
-          "sign": "586bc61d746c9ea67a0f6f93fb559a6d7603157961b00f6fb91efc503ea1a067",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-05T15:50:47Z",
       "urls": [
         {
@@ -1085,40 +1068,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-05T20:15:00+02:00",
-      "urls": [
-        {
-          "sign": "eac060292d51bf7733ebcbccb8f5453b6cdd0ab384a330c6a8f57475d768023f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lukijan mielipide: Pitkät työurat edellyttävät työelämältä joustavuutta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-05T19:17:00+02:00",
-      "urls": [
-        {
-          "sign": "784c976454fd1be4beed59544e81616994aa36d9d446e6854acacefe9be0c74e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-05T17:09:08Z",
       "urls": [
         {
@@ -1211,21 +1160,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-05T20:29:00+02:00",
-      "urls": [
-        {
-          "sign": "11ab21e06d657ade8ec87c5fe8b9aa19a450f78b4edf811d615d08ba55c4787a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tarkastusvaliokunta ehdottaa peruskoulun tasokokeiden kokeilua, sivistysvaliokunta ja asiantuntijat vastustavat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-05T21:33:00+02:00",
@@ -1348,23 +1282,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-05T19:20:00+02:00",
-      "urls": [
-        {
-          "sign": "b1f27f6f9cd85ea529eb0c6396ebdb27327fbb0ba8b1f89d9f732421ee9f671a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-05T16:26:54Z",
@@ -13424,7 +13341,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-09T00:43:00+02:00",
+      "updated": "2026-11-09T01:51:00+02:00",
       "urls": [
         {
           "sign": "dff4859ff3a3d96f68b50aa97e42a4449bd93fff7ca384acc48c203995dd85b3",
@@ -13433,7 +13350,7 @@
           ]
         }
       ],
-      "title": "Nvidia tutkii toimitusjohtajaansa Jensen Huangia suhteen vuoksi Kiinan vakoojaksi epäiltyyn naiseen",
+      "title": "Nvidia aloittaa tutkinnan toimitusjohtajastaan – Jensen Huang myönsi suhteen Kiinan vakoojaksi epäiltyyn naiseen",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13454,6 +13371,87 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-09T02:00:00+02:00",
+      "urls": [
+        {
+          "sign": "a7282385a253edad2002308c1768783e8328948e62d4a2cdaa177cac67544cc6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-09T02:00:00+02:00",
+      "urls": [
+        {
+          "sign": "ea94ef9e70f091c4fc5c812f0c0a0c69fc510d54c8af6ea0e271002bfe0ac07a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat: Silakkasaaliita voi kasvaa vajaat 20 prosenttia ilman kalakannan vaarantumista",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-09T02:00:00+02:00",
+      "urls": [
+        {
+          "sign": "12f648b0b84a8cede6bc72b6ce9bb41673122cddb7b22bc988ed7da681daaf3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "VTT:n tietopalvelun pitkäaikainen johtaja Sauli Laitinen kuoli 87-vuotiaana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-09T02:00:00+02:00",
+      "urls": [
+        {
+          "sign": "e53c1e17a02e2602288da2be127b6375fbfc02fbc50e314726cab0b123f37d3b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-09T02:00:00+02:00",
+      "urls": [
+        {
+          "sign": "d86feb5521e96e0fe56545110e70fdf714e62dfda7f27612aa92ef7557a3b863",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mielipide: Suomen ilmastopaneelin puheenjohtaja ja jäsen: 1,5 asteen tavoitteesta ei pidä luopua, vaikka raja ylittyisi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
