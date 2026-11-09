@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-09T00:36:10Z",
+  "updated": "2026-11-09T03:56:00+02:00",
   "entries": [
     {
       "updated": "2026-11-09T00:36:10Z",
@@ -1357,21 +1357,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-05T20:51:00+02:00",
-      "urls": [
-        {
-          "sign": "8fec0ec16a78517f1460f316343eef08707019e61e073e9a23d1f6719f386954",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain välivaaleissa äänestäjät torjuivat datakeskusten rakentamisen lähes kaikissa paikallisäänestyksissä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-05T17:30:20Z",
@@ -5958,23 +5943,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-07T10:02:15Z",
-      "urls": [
-        {
-          "sign": "a3b12a9b1fe7dbf14c433ece207a9bd1a79529cae6958305a850e354a95d267c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kauppiaat: Energiajuomakalenterit ovat tämän vuoden joulun myydyin kalenterityyppi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-07T12:08:00+02:00",
@@ -13452,6 +13420,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-09T03:56:00+02:00",
+      "urls": [
+        {
+          "sign": "136ab6bc26fae558bda2a6093e0343bdd476abdb43bf05a09aca94555bc2dc3d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump selitti republikaanien välivaalitappiota heikolla äänestysinnolla CBS:n haastattelussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-09T01:31:14Z",
+      "urls": [
+        {
+          "sign": "90f48186c3e2474b89efe177a04426659bd0a77d6a02d08d945a4a5687fb8829",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa jokaiselle eläinradan merkille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
