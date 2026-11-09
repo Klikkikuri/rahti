@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-09T00:00:00+02:00",
+  "updated": "2026-11-09T00:43:00+02:00",
   "entries": [
     {
       "updated": "2026-11-08T12:06:53Z",
@@ -775,23 +775,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-05T12:23:27Z",
-      "urls": [
-        {
-          "sign": "4e4d8dd14eee9276368aeb4d3857750de65e7c7237f97ef4678ca4b80e577097",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus esittää uutta valmiuslakia poikkeusolojen hallintaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-05T15:01:31Z",
       "urls": [
         {
@@ -1290,23 +1273,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-05T19:00:00+02:00",
-      "urls": [
-        {
-          "sign": "e5be941f04b406eb610b30ff27b0e3cf1e4f51555ac28ff6ce591580b0f5506b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-05T23:25:00+02:00",
@@ -6167,21 +6133,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-11-07T09:40:32Z",
-      "urls": [
-        {
-          "sign": "0c2ccc0adf964c59cb0fd9a0f98db1cf0e03c2ab5b1b1cee1c98df63a3e31fcf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HPK purki Slovakian maajoukkuepelaaja Andrej Kukučan sopimuksen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-07T09:59:30Z",
@@ -13456,6 +13407,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-08T22:39:49Z",
+      "urls": [
+        {
+          "sign": "5c4fd8194fe1fe5964d8e56616b126895cdc319f74af7e1d808d40a843361702",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump myöntää karkotuspolitiikkansa olleen liian kova",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-09T00:43:00+02:00",
+      "urls": [
+        {
+          "sign": "dff4859ff3a3d96f68b50aa97e42a4449bd93fff7ca384acc48c203995dd85b3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidia tutkii toimitusjohtajaansa Jensen Huangia suhteen vuoksi Kiinan vakoojaksi epäiltyyn naiseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-08T22:10:06Z",
+      "urls": [
+        {
+          "sign": "f63e4323d3c04ce590e5134877bcbc889f47190fbd8c86d515ca8897b90aa393",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidia käynnistää riippumattoman tutkinnan toimitusjohtaja Jensen Huangin suhteesta naiseen, jonka epäillään välittäneen tietoja Kiinalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
