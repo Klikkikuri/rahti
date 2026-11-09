@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-09T02:00:00+02:00",
+  "updated": "2026-11-09T00:36:10Z",
   "entries": [
     {
-      "updated": "2026-11-08T12:06:53Z",
+      "updated": "2026-11-09T00:36:10Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Venäjän valtiopropaganda läpäisee koko venäläisen yhteiskunnan – Iltalehti seuraa Ukrainan sotaa",
+      "title": "Iltalehti seuraa Ukrainan sotaa: Venäjän propaganda läpäisee koko venäläisen yhteiskunnan",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -848,21 +848,6 @@
       ],
       "title": "Työllistämistukien muutos ja kustannusten nousu vaikuttavat kierrätystavaroiden hintoihin, järjestöt pitävät ostamisen edullisena",
       "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-05T12:31:10Z",
-      "urls": [
-        {
-          "sign": "7eea8df78775c0f6d5814d225866cc9105b0c058d88ee6c514a4a5dc370580e0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Somevaikuttaja Nicola Ussherin raejuustoresepti on kasvattanut myyntiä – kaupat raportoivat selvästä kysynnän noususta",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -13452,6 +13437,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-09T00:29:48Z",
+      "urls": [
+        {
+          "sign": "27b1e37209287411f0e42b71415143a04b92ab0dcafcb6de258c93ae316aa0f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump: Ehdotus UFC-johtaja Dana Whiten nimittämisestä Valkoisen talon lehdistösihteeriksi oli vitsi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
