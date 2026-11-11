@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-11T03:30:17Z",
+  "updated": "2026-11-11T03:56:21Z",
   "entries": [
     {
       "updated": "2026-11-10T22:52:10Z",
@@ -1069,21 +1069,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-08T02:00:35Z",
-      "urls": [
-        {
-          "sign": "030e3ebc19f0a9c4e6eb9b00d2a6ad00bce20f03573ee248cf6303ac58093c95",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Presidentti Stubb palkitsee 26 isää valtiollisilla kunniamerkeillä isänpäivänä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-08T03:30:35Z",
       "urls": [
         {
@@ -1770,23 +1755,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-08T14:14:00Z",
-      "urls": [
-        {
-          "sign": "4a2a227c96c155c0d8d0ad2d5a866a5b09a8515b02230b41a3c078a0b09cc98a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "OP-Henkivakuutus: Puolison kuolema voi aiheuttaa taloudellisia vaikeuksia, erityisesti alle 40-vuotiaille",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-08T15:24:18Z",
       "urls": [
         {
@@ -1847,23 +1815,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-08T13:49:42Z",
-      "urls": [
-        {
-          "sign": "c5168dbc5a2224ade540291ae414f465efb53401449a5901d8b44db7b2a4d189",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maajussille morsian -pari Kalle ja Niina Linkki ilmoittivat toisen lapsensa syntymästä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -1966,21 +1917,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-08T14:56:44Z",
-      "urls": [
-        {
-          "sign": "d9bee28b905e333689c12cb4cbcf0c09e95c813515221563e69a6de5a77e2917",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Inter voitti Suomen mestaruuden – HJK jäi Veikkausliigassa hopealle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-08T16:00:00Z",
@@ -13096,7 +13032,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-11T05:23:00+02:00",
+      "updated": "2026-11-11T05:32:00+02:00",
       "urls": [
         {
           "sign": "4b2b6fae89bd2f8e315fc8f71dfdcca8d5a500e3c3dfd4b141279015b1005912",
@@ -13106,7 +13042,7 @@
         }
       ],
       "title": "Ukraina iski Venäjän Laukaansuun satamaan, Puolustusvoimat rajoitti ilmailua Suomenlahdella",
-      "clickbaitiness": "Extremely Clickbaity",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13263,7 +13199,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-11T03:20:53Z",
+      "updated": "2026-11-11T03:56:21Z",
       "urls": [
         {
           "sign": "ff7979ebc285c9592307e4ed55986fc5c87a460aa21a03a6496377c11e5465be",
@@ -13272,8 +13208,8 @@
           ]
         }
       ],
-      "title": "Puolustusvoimat rajoittaa ilmailua ja merenkulkua itäisellä Suomenlahdella – Ukraina väitetysti iski Laukaansuun satamaan",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Puolustusvoimat rajoittaa ilmailua ja merenkulkua itäisellä Suomenlahdella",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13404,6 +13340,70 @@
       ],
       "title": "Pietarin lentokentän sulkeminen pakotti kaksi konetta laskeutumaan Helsinki-Vantaalle",
       "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-11T03:34:25Z",
+      "urls": [
+        {
+          "sign": "ea043221dee3ecc25a3e1d6296cc544602a45364e0e8077d8a8df46189afbf40",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Zelenskyi: Euroopan on valittava edustaja Ukrainan ja Venäjän rauhanneuvotteluihin",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-11T03:44:00Z",
+      "urls": [
+        {
+          "sign": "18a6a12ab16a9156e5713c768f3a583940ae7cfab08b47936ac26ab1d50f82b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuvataiteilija Harri Kivi tunnisteli Helsingissä häiriköineen poikaporukan, keskusteli heidän kanssaan ja sai lupauksen lopettaa vainon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-11T03:52:03Z",
+      "urls": [
+        {
+          "sign": "965655d0d1e819d7bd85d7aea0ea611d879a721be5fc5bdf8825131aa78b2c5b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat rajoittaa Itäistä Suomenlahtea Ukrainan drooni-iskun varalta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-11T03:43:35Z",
+      "urls": [
+        {
+          "sign": "1447f1e7aed2574b362e2370db17e1982338467c63b297a666afeacd5c53842c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskiviikkona sateita etelässä ja keskiosassa, pohjoisessa pakkasta ja liukasta",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
