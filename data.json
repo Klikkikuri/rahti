@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-11T05:00:08Z",
+  "updated": "2026-11-11T07:54:00+02:00",
   "entries": [
     {
-      "updated": "2026-11-10T22:52:10Z",
+      "updated": "2026-11-11T05:25:19Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,7 +13,7 @@
           ]
         }
       ],
-      "title": "Venäjä on lisännyt propagandaa Suomea kohtaan – IL seuraa Ukrainan sotaa",
+      "title": "Venäjä on lisännyt propagandaa Suomea kohtaan – Iltalehti seuraa Ukrainan sotaa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -788,38 +788,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-07T20:00:00+02:00",
-      "urls": [
-        {
-          "sign": "03656f7dfe033bc11609d755a2a29c10195551b169be31764bcd352ec14298ef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-07T19:38:00+02:00",
-      "urls": [
-        {
-          "sign": "50b1e06532197496edf8466e94211230e35282bb27b2b5fe2f3f1378a88860a2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hovioikeus tuomitsi miehen viiden vuoden vankeuteen törkeästä lapsenraiskauksesta",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-07T21:22:00+02:00",
       "urls": [
         {
@@ -1069,36 +1037,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-08T04:00:35Z",
-      "urls": [
-        {
-          "sign": "dab3ce07ce565b8bb5baa51b05e5a29116c3df3f9968685dcd58c038c55f06c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Janna Jalovaara, hänen ex-miehensä Petri Jalovaara ja uusi kumppani Veli-Pekka Timonen jakavat lastenhoitoa ja taloutta Joensuun Enossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-08T04:45:35Z",
-      "urls": [
-        {
-          "sign": "bb79864fb1db414f70d358dd3cdf698acf197cb9e99c2da4ec05887382d05d83",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kolumni: Roope Lipasti näkee eläkeiän nostamisen uhkana isovanhemmuudelle ja nuorten työllisyydelle",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-08T11:53:00+02:00",
       "urls": [
         {
@@ -1129,21 +1067,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-08T05:00:35Z",
-      "urls": [
-        {
-          "sign": "c32ad496cf71779b73bdc349bd4e0da9d6b1d75f54975890bf5dea0dc97261db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Miljoonasade-lauluntekijä Heikki Salo kehittää tekoälytyökalua sanoittajien avuksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-08T08:39:00+02:00",
       "urls": [
         {
@@ -1159,36 +1082,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-08T06:35:49Z",
-      "urls": [
-        {
-          "sign": "aaee9d1ca9f6ddf53ad16a1d0b3d346aa3abefb1b656d030cb78a2c6c392ec6f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi kehottaa uusimaan passin ajoissa, jos se vanhenee ensi vuonna",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-08T07:12:41Z",
-      "urls": [
-        {
-          "sign": "ff7edcabef27eb9b820acdf5a559fea18517a506d8cfc3cbbc79a3e1fb0b98bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lappeenrannan seurakuntayhtymä korottaa tonttivuokria jopa yli 500 prosentilla – talousjohtaja perustelee korotuksia tonttien nykyarvolla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-08T07:37:36Z",
@@ -1821,23 +1714,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-08T16:00:00Z",
-      "urls": [
-        {
-          "sign": "ef97658c6c1894c643b86b04c231091dce9b9dda5c869479290e277dfb6e6dd3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkijat määrittävät Thaimaasta löydetyn esihistoriallisen jyrsijän painoksi noin 30 kiloa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-08T21:36:00+02:00",
       "urls": [
         {
@@ -1885,23 +1761,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-08T16:14:57Z",
-      "urls": [
-        {
-          "sign": "5a0b532c2eea187b374f55a87056f2fdb7200c8fc676f16da10a96f109531800",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Benjamin Peltonen täyttää 30 vuotta, esiintyy Helsingissä – kaapista ulostulo vahvitti hänen luottamustaan omaan ääneen",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-08T16:53:49Z",
       "urls": [
         {
@@ -1915,23 +1774,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-08T16:14:00Z",
-      "urls": [
-        {
-          "sign": "df7e7a7d4682404280c80db04ee3d7188247700cb91eb43dd560e3e21cc18b03",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ravitsemusterapeutti: Liika proteiini ei kasvata lihaksia vaan voi johtaa rasvan kertymiseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-08T19:15:00+02:00",
@@ -2011,23 +1853,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-08T16:17:38Z",
-      "urls": [
-        {
-          "sign": "78a9ee64afd0d1a6c86339ffd8f9a3920fbd895dbc1a3fa987aef5271514d505",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Leevi Lehtonen vieraana Tanssii Tähtien Kanssa -studiossa: Petolliset-kokemus oli raskas ja Ina Mikkolan sanat satuttivat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-08T19:00:00+02:00",
@@ -5083,21 +4908,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-09T17:31:42Z",
-      "urls": [
-        {
-          "sign": "b7c0926080244232ec5e8039c4a7536f3d67b408ffadf867231c596d54a0b6ae",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Orpon esteellisyysselvitys pitkittyy, kun oikeuskansleri pyytää lisäselvitystä Garden Helsinki -hallin valtiontuesta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-09T18:19:00+02:00",
       "urls": [
         {
@@ -5284,21 +5094,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-09T17:03:55Z",
-      "urls": [
-        {
-          "sign": "92ba23077e3c1c4c6b5f212c7de54caf8b237709c599d5da50a51bed72afcb90",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Fazer pienentää pakkauskokoja ja muuttaa reseptejä – Iltalehden lukijat jakautuivat kahteen leiriin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-09T17:19:00Z",
       "urls": [
         {
@@ -5461,40 +5256,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-09T16:40:07Z",
-      "urls": [
-        {
-          "sign": "a3f3bba7efe854dc03726cbc072dcf4c246b611f03e6b2a5d4b52717f9ee769f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jukka Rintala ja Jorma Uotinen muistelevat Lenita Airistoa – yhteys katkesi, kun Airisto sairastui",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-09T17:49:27Z",
-      "urls": [
-        {
-          "sign": "611dbc27896a6eb11d2fe71b15d1b9d70d07ab313f287d241b26d033b65ca633",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ysitiellä kolme eläinkolaria kymmenessä minuutissa – palomestari kehottaa varovaisuuteen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-09T18:50:18Z",
       "urls": [
         {
@@ -5528,21 +5289,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-09T17:14:41Z",
-      "urls": [
-        {
-          "sign": "8687fbe4e4c578b0329d519f5244761a06622ca34d085be8ab6f3c9451d33df0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Merivoimien komentaja Tiilikainen: Venäjällä saattoi tulla raja vastaan Itämerellä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-09T18:50:06Z",
@@ -5588,23 +5334,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-09T16:40:02Z",
-      "urls": [
-        {
-          "sign": "09fa0ae33259691161f53d80a94e8b61a5e278698d9bd526677926cc2677be51",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Carolina Hurricanes ja Seattle Kraken pelaavat NHL-ottelut Helsingissä – Sebastian Aho toimii seremoniamestarina",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-09T16:45:28Z",
@@ -10842,7 +10571,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-11T06:50:00+02:00",
+      "updated": "2026-11-11T07:03:00+02:00",
       "urls": [
         {
           "sign": "e51c0261de8df7071b8b0df9a4b8e12576efb7d1f3af59536af129e6c1645efe",
@@ -13120,7 +12849,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-11T03:34:25Z",
+      "updated": "2026-11-11T05:51:40Z",
       "urls": [
         {
           "sign": "ea043221dee3ecc25a3e1d6296cc544602a45364e0e8077d8a8df46189afbf40",
@@ -13129,8 +12858,8 @@
           ]
         }
       ],
-      "title": "Zelenskyi: Euroopan on valittava edustaja Ukrainan ja Venäjän rauhanneuvotteluihin",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Yhdysvallat välittää Ukrainan ja Venäjän rauhanneuvotteluja Abu Dhabissa – Zelensky vaatii Euroopan edustajaa",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13406,6 +13135,269 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-11T07:54:00+02:00",
+      "urls": [
+        {
+          "sign": "835859b265b1e6293045ee3b0501586c48fca69ed284fbc6255ab3529c73a553",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lontoon poliisi pidätti yhdysvaltalaissotilaan Venäjän vakoilusta epäiltynä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-11T05:31:35Z",
+      "urls": [
+        {
+          "sign": "f99ce886207589df700e673c4bd4979cc12581c3c0c4b4539b4a1cd2a0cf16d3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Refurbedin selvitys: 560 000 tietokonetta Suomessa vaarassa jäädä ilman Windows 10 -tietoturvatukea",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-11T05:45:00Z",
+      "urls": [
+        {
+          "sign": "fa8a4f3216cf5b5ea7c94df7ed8e006c78f3254bfdf759b43679cd741e711874",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pohjois-Karjala pilotoi verikokeita työttömien terveystarkastuksissa: Elintapasairauksien riskejä arvioidaan ennen oireita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-11T05:07:17Z",
+      "urls": [
+        {
+          "sign": "5a574d1e5dc4718540b833c7913de6c42d90034179e590db66ac25fafc272a41",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aleksandr Ovetshkin kommentoi Kanadan mielenosoituksia ja Venäjän paluuta jääkiekon MM-kisoihin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-11T05:48:37Z",
+      "urls": [
+        {
+          "sign": "44fe116cb4934fc71df5e0fe48bac53b0fd6330edcbde29487b777f9777ea231",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NHL-taklaus jätti Cousinsin jään pintaan – valmentaja yllättynyt tuomarin päätöksestä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-11T05:28:24Z",
+      "urls": [
+        {
+          "sign": "d56e88c89d6b322ee207a718b3de969bd094197301fa59a8779afba45b159d7b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskinen: Maan halvin bensiini ei tuo voittoa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-11T05:02:19Z",
+      "urls": [
+        {
+          "sign": "9a64253fce0372ca9ff7f929bff99f26e1815d45ddb3af95ed38e11d4a018033",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rail Baltic -hanke viivästyy ja kustannukset ovat kasvaneet nelinkertaisiksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-11T05:28:54Z",
+      "urls": [
+        {
+          "sign": "a8730f7b4847edf6a65ce9334aaafe7c17d68a74a9637f9f3749391be26c36d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Danske Bank: Sijoittaminen yleistyy Suomessa – lähes puolet suomalaisista sijoittaa arvopapereihin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-11T05:02:03Z",
+      "urls": [
+        {
+          "sign": "9b8c0b92406448aa95cd3e7462441a42f518e211191501bb1ae0becfaaccb1e0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuluttajaviranomaisen yhteydenotot teleoperaattoreiden myyntitapoihin nousivat 50 % – Ylen selvityksessä kymmenet kuvaavat tarpeettomien palveluiden myyntiä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-11T05:10:35Z",
+      "urls": [
+        {
+          "sign": "0f76a26c3092ae2fe2adccd6b528d23067f13a6f7bb60319ac3591552540b0f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Verottaja julkaisi verotiedot vuodelta 2025: tuloveroja kertyi yli 47 miljardia euroa, pääomatuloverot nousivat 13 prosenttia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-11T05:01:23Z",
+      "urls": [
+        {
+          "sign": "38302534394c0e530b72ee30e7d86b6ba99992b10a7dc84382ec9dc897515d1c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yrittäjä ja tietokirjailija Lenita Airisto kuoli 89-vuotiaana – Ilta-Sanomien mukaan hän ehti suunnitella hautajaisensa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-11T05:40:38Z",
+      "urls": [
+        {
+          "sign": "f2ee65da8bc0d21c8b38006f86ad552ab0f86af24bace9a5e280ca7381b77eeb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Verohallinto: Vuoden 2025 tuloverokertymä nousi 4,9 prosenttia",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-11T05:48:15Z",
+      "urls": [
+        {
+          "sign": "7cd62f7669837dfd893d2c73c400c71fbeaffe0d2599199c0970eff7b1e9c120",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pyhimys myöntää MTV:n haastattelussa ylittäneensä aikuisen roolin 12-vuotiaan fanin kanssa viestitellessään",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-11T05:12:00Z",
+      "urls": [
+        {
+          "sign": "02bed4d336e8a643dce59439dc34c96da941756622c1fb91b4e08c28e32a3a46",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Influenssa lisää ikääntyneiden sydän- ja aivoinfarktiriskiä – rokote ehkäisee vakavia seurauksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-11T05:32:05Z",
+      "urls": [
+        {
+          "sign": "50f37bb179718ee324207d1f383f2107a810f0cc615ebc424d85e5a7c37432fa",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bull Mentulan yhtiön liikevaihto laski yli 200 000 euroa, yrittäjä kertoo avioeroneuvottelujen vaikuttaneen talouteen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-11T05:42:02Z",
+      "urls": [
+        {
+          "sign": "b80dc2d5191bfa720cbe1982ad39c08706c9db95add0105775502654c5d9019b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukraina iski drooneilla Laukaansuun öljysatamaan – tulipalot näkyvät Viron rajalle, lentoliikenne Pietarissa keskeytyi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-11T07:08:00+02:00",
+      "urls": [
+        {
+          "sign": "c94eea99f269ee4e1e0dc8e5d9eea8cab65d86933c6cd1631a0637f951710fb7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Australian-suurlähetystö sai Instagram-julkaisullaan miljoonia katselukertoja, kun suunnittelupäivä osui päällekkäin sinkkutapahtuman kanssa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
