@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-14T02:13:00+02:00",
+  "updated": "2026-11-14T02:14:07Z",
   "entries": [
     {
       "updated": "2026-11-13T20:02:57Z",
@@ -6229,21 +6229,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-12T19:31:45Z",
-      "urls": [
-        {
-          "sign": "ccd033a83c3881d902eab15dba9b1eb0fa79b394c269472b59e6c4ff689eb87b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkimus: Neljä tekniikkaa lisäävät yhdynnän nautintoa naisille",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-12T21:32:00+02:00",
       "urls": [
         {
@@ -6660,23 +6645,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-12T19:29:31Z",
-      "urls": [
-        {
-          "sign": "f9456da9bb0e7971801761702759a5f3fcda7a02bfdfd291ae19d4a334df7d3e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain erityislähettiläät laskeutuivat Helsinkiin matkalla Moskovasta Dubliniin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-12T21:19:30Z",
@@ -13065,7 +13033,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-13T22:21:51Z",
+      "updated": "2026-11-14T02:14:07Z",
       "urls": [
         {
           "sign": "a8f758573c17514733a7316e476d7ad1dab277cab1105fe3a0a70d61eed1b87b",
@@ -13074,10 +13042,11 @@
           ]
         }
       ],
-      "title": "FAA keskeytti kaikki lennot Yhdysvalloissa tietoliikennehäiriön vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Yhdysvaltain lentokielto purettu tietoliikennehäiriön jälkeen",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
-        "com.github.klikkikuri/has-video=true"
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -13258,7 +13227,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-14T02:13:00+02:00",
+      "updated": "2026-11-14T04:12:00+02:00",
       "urls": [
         {
           "sign": "6bf71d3dc024b274168aac2adb5049458caf7500d5c30df97355fecf53e2fc59",
@@ -13267,8 +13236,8 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain ilmailuviranomainen keskeytti lentoliikenteen koko maassa viestintäkatkoksen vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Yhdysvaltain ilmailuviranomainen keskeytti lentoliikenteen koko maassa lennonjohdon viestintäongelmien vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13465,6 +13434,36 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-14T00:28:01Z",
+      "urls": [
+        {
+          "sign": "3d39cc08b2c9b0027d7421c36dd3b719f250c791e31893987fbaa456632d3f1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa jokaiselle eläinradan merkille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-14T01:56:55Z",
+      "urls": [
+        {
+          "sign": "61cd0a6fbcb0f5af6b3c23212275eec9d0754a13fa8eecbba81ac7c8e8994661",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain lentohäiriöt: American Airlinesin viestit matkustajille hämmentivät lentoyhtiöalan ammattilaista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
