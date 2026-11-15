@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-15T01:58:00Z",
+  "updated": "2026-11-15T02:44:28Z",
   "entries": [
     {
       "updated": "2026-11-15T00:14:44Z",
@@ -993,21 +993,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-12T06:45:53Z",
-      "urls": [
-        {
-          "sign": "e003eab3fe6088341fc76a1b9b1d23d12edeeca492728c36d77fb3a514e9b8c5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusministeri Hegseth muistutettiin kunnioittamaan hautausmaan sääntöjä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-12T09:11:03Z",
@@ -13488,6 +13473,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T02:44:28Z",
+      "urls": [
+        {
+          "sign": "5b7e1fd5a55d76ee10f35c83b30bf7de73bda3df3a0df6b56702309215992a88",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS: Tarkastamo-klubin lattiavaurio vaaransi Björkin Oulun keikan",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
