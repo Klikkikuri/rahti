@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-15T22:24:58Z",
+  "updated": "2026-11-16T01:06:00+02:00",
   "entries": [
     {
       "updated": "2026-11-15T18:10:19Z",
@@ -675,21 +675,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-11-12T15:09:00+02:00",
-      "urls": [
-        {
-          "sign": "62df260179847ac3fa0d167f647ff5942b3468e6300d70dd123dfdcfb6e854d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläinen sota-alus sai osuman Suomenlahdella – puolustusministeriön kenraali arvioi iskun taidokkaaksi mutta riskialttiiksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-12T19:45:00+02:00",
@@ -13463,6 +13448,36 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-16T01:06:00+02:00",
+      "urls": [
+        {
+          "sign": "35ee251efaeee4835f2a71f5d13d2da4ab27988ff06c8f1926e9c3db344cba1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain lentokaaos jatkuu maanantaihin lennonjohdon viestintäkatkoksen vuoksi – Trump syyttää Bidenin hallintoa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-15T22:01:37Z",
+      "urls": [
+        {
+          "sign": "338250579535bb750b2a856df7d76a434221326404d1f3cf54ca9792ee7e2d37",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äänekosken seurakuntavaaleissa Seurakuntaväki sai 14 paikkaa, Nuoremman seurakunnan asialla kaksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Äks"
     }
   ]
 }
