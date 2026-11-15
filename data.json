@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-15T04:29:51Z",
+  "updated": "2026-11-15T04:55:00Z",
   "entries": [
     {
       "updated": "2026-11-15T00:14:44Z",
@@ -1277,21 +1277,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-12T07:11:38Z",
-      "urls": [
-        {
-          "sign": "41416ad351797f78e4528d3b7486f084fad25b8b219a6af8d3666b352878c698",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keski-Suomen käräjäoikeus aloitti oikeudenkäynnin 43-vuotiasta partio-ohjaajana toiminutta miestä vastaan – syytteet koskevat useita lasten seksuaalirikoksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-12T09:12:50Z",
       "urls": [
         {
@@ -1412,24 +1397,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-12T11:04:08Z",
-      "urls": [
-        {
-          "sign": "fed573f8a733303d4c579dd4cc552eacb1908e8db7d6d62321b556a71b85bf58",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto rakennuttaa sähköaidan afrikkalaisen sikaruton leviämisen rajoittamiseksi Kaakkois-Suomeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-12T11:19:41Z",
@@ -1935,21 +1902,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-12T10:23:06Z",
-      "urls": [
-        {
-          "sign": "01c7f42c32089682244b0e491d3fbd7874d164487639fe4a76955a8e3a23ab1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisijärjestöjen liitto varoittaa: Henkilöstön uupuminen, pitkät tutkintaajat rasittavat sisäistä turvallisuutta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-12T10:22:56Z",
       "urls": [
         {
@@ -2088,23 +2040,6 @@
       ],
       "title": "Tyrnävän perunavaraston tulipalosta 10 miljoonan euron vahingot – rakennushanke keskeytyi",
       "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-12T10:29:53Z",
-      "urls": [
-        {
-          "sign": "5d6081729bb73ee1fca1471a204400c319671ee54ea8f4e46700beb66057a0bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lumisade yleistyy Etelä-Suomessa viikonloppuna",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -6316,21 +6251,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-13T14:46:02Z",
-      "urls": [
-        {
-          "sign": "701833706a4cd3d12208e7503daa162cf399b414ff1a2b98c3b5e90fba55e6d0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Leveälahkeiset trikoet valloittavat kuntosalit – housut luovat optisen harhan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-13T18:41:00+02:00",
@@ -12377,7 +12297,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-14T23:01:44Z",
+      "updated": "2026-11-15T04:32:40Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -12386,8 +12306,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Lähi-idän tilannetta: Yhdysvallat ja Israel iskeivät Iraniin, Israel hyökkäsi Libanoniin",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehti seuraa: Yhdysvallat ja Israel hyökkäsivät Iraniin, Israel hyökkäsi Libanoniin – Iran iski vastaan eri puolilla Lähi-itää",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13490,6 +13410,88 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T04:45:35Z",
+      "urls": [
+        {
+          "sign": "6f71b5b5c9815f27ecac392302d7bddffde6aa41ebae9ec06872c84055b516d5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Taloustieteen väitöskirjatutkija Matias Mäkiranta kritisoi eläkekeskustelun harhakuvioita ja ehdottaa eläkekorotusten hidastamista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-15T04:52:00Z",
+      "urls": [
+        {
+          "sign": "6c2e978f95cfad57bd58d9b04579fd07f98aead0b02da1e48239634b44a5ff24",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuntosaliketjut vastaavat pukeutumissääntöihin: Paidaton treenaaminen ei ole sallittua kaikilla saleilla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T04:45:00Z",
+      "urls": [
+        {
+          "sign": "84ff228788ba218d59991bd21b1ebdf7eeb67700dd992d0edc149c66093b03bb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii somessa mainostettuja ja käteisellä maksettavia luvattomia botox-hoitoja Suomessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T04:55:00Z",
+      "urls": [
+        {
+          "sign": "c78d6d4bf94b7502d0c90392ebdddc2f827274b49e95696d21fa212f64d62b74",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ammattilaisottelijat kritisoivat julkisuuden henkilöiden show-otteluiden korkeita palkkioita",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T04:31:11Z",
+      "urls": [
+        {
+          "sign": "d48ffde0fe78ba03d711623c69ac1ab1acd504ba4ddb4ff86f46835b7ed8d40d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi uutta Alzheimerin lääkettä hidastaa taudin etenemistä, mutta vain pieni osa potilaista saa hoitoa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
