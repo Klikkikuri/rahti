@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-15T14:29:43Z",
+  "updated": "2026-11-15T17:45:00+02:00",
   "entries": [
     {
       "updated": "2026-11-15T12:53:12Z",
@@ -724,23 +724,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-12T12:00:00+02:00",
-      "urls": [
-        {
-          "sign": "74de55a81976c80b840940b06d6a9f147b6ccbc04ec1fb19779927e0ee8e8f93",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-12T15:09:00+02:00",
       "urls": [
         {
@@ -760,23 +743,6 @@
       "urls": [
         {
           "sign": "0c10b82d2f09c4f476271a252496044f0a4ed044a7429d32ebe374d3c628a719",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-12T12:33:00+02:00",
-      "urls": [
-        {
-          "sign": "b7d1d8ebaaae0fdf7cd5af86904f64d7803179a8b3bfd37ffa995c440d82911d",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -871,21 +837,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-12T12:52:00+02:00",
-      "urls": [
-        {
-          "sign": "ccbfbd43d0026a55531b316b85d0b2ac3e17787f3910b0f11f041d8b57dd12a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Sanomat etsii perheitä jakamaan kokemuksia lasten älykelloista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-12T13:09:10Z",
       "urls": [
         {
@@ -931,21 +882,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-12T11:27:04Z",
-      "urls": [
-        {
-          "sign": "58da38a8e7a8b8526bc7775c31e504c8c5230020c6fdb8eea2832609b7587954",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Supercellin perustajat ja Woltin perustaja Miki Kuusi ovat hallinneet verolistoja – Bluefors, Framery ja Hostaway nousevat rinnalle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-12T11:52:53Z",
@@ -1036,21 +972,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-12T12:47:00+02:00",
-      "urls": [
-        {
-          "sign": "66726f792550267980b8ecc19a6a669e983fafc6d98da8bd0142077c7853c329",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiinalaisomisteinen Suunto irtisanoo valtaosan suomalaisesta henkilöstöstään",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-12T13:15:00+02:00",
@@ -1174,38 +1095,6 @@
       "title": "Hämeenlinnalainen Pinja Valanta saavutti syksyn ylioppilaskirjoitusten maan parhaan tuloksen yhdeksällä laudatur-arvosanalla",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-12T11:38:56Z",
-      "urls": [
-        {
-          "sign": "7ca81f4b2653bd0da9a5a2c71a566adc69fd46b904dfc009a1752b37883cb60b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnish Meteorological Institute warns of poor driving conditions as first widespread snowfall hits Finland",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-12T11:15:54Z",
-      "urls": [
-        {
-          "sign": "e8fae7783b9488a978dafb562d814408f4b9d6aee642182fd25cd98b04fa8831",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto rakentaa 83 kilometriä pitkän sähköaidan afrikkalaisen sikaruton torjumiseksi Kaakkois-Suomeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -1726,21 +1615,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-12T17:27:32Z",
-      "urls": [
-        {
-          "sign": "658b2a5f6f87e82989892710b9a07cd030e796aa64e37adbb9b78ba848dc69b4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Carolina Hurricanesin Andrei Svetshnikov sai Helsingin yleisöltä lämpimän vastaanoton NHL-ottelussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-12T15:01:55Z",
       "urls": [
         {
@@ -1816,23 +1690,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-12T17:23:00Z",
-      "urls": [
-        {
-          "sign": "8495e50f46124447e2e3383c989fd3238606637cc95a2f12caefe2df48864075",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Riika Nykäsen kirja kartoittaa lasten henkirikoksia Suomessa – arvaamattomuus yhdistää 1980-luvulta nykypäivään",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-12T14:41:41Z",
@@ -2025,24 +1882,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-12T19:29:39Z",
-      "urls": [
-        {
-          "sign": "11d20e6b7bc43a6f39bbc02bbead13f93d6d3f1cd0c0217f7bd0ca7e04ff1d44",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SM-liigan kurinpito langetti Harpurille ja Jormakalle pelikiellot päähän osuneiden taklausten vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-13T00:45:00+02:00",
       "urls": [
         {
@@ -2103,24 +1942,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-12T18:38:00Z",
-      "urls": [
-        {
-          "sign": "e262600c08a141db89cea48c5d8c3a545cfedbdc761ceefb4b4494da6309110c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Demokraatti Scott Colom voitti Mississippin senaattivaalit niukasti",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-12T19:30:00+02:00",
@@ -2221,23 +2042,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-12T18:22:22Z",
-      "urls": [
-        {
-          "sign": "a9ff30d2d82cec86f429d2c4a4f6dcd8a9174e0edb09f1733b3b345acdd40bd6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusministeri Hegseth palkitsi mitalilla sotilaan, joka korjasi seurueensa käytöksen Arlingtonin hautausmaalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-13T21:19:00+02:00",
       "urls": [
         {
@@ -2268,23 +2072,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-12T19:46:16Z",
-      "urls": [
-        {
-          "sign": "5666fdfc52dd55846fd69c924cb7f7b93e0accd46718b961cd8fef3edde8fe21",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Carolina Hurricanes voitti Seattle Krakenin Helsingissä lukemin 4–1",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-12T19:37:50Z",
       "urls": [
         {
@@ -2298,21 +2085,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-12T19:08:01Z",
-      "urls": [
-        {
-          "sign": "8cfbec7f2bf05b54d1eef36e8fefe803ab8e2e2cf75778b3acbf1585a5e579b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "RoKi murskasi Ketterän 11–2 Mestiksessä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-12T20:14:00+02:00",
@@ -2345,23 +2117,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-12T18:04:15Z",
-      "urls": [
-        {
-          "sign": "314a43dd901e225bbe047c1d7f7e326b021f54a7217418458c139b84e644eb1b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kansainvälinen luisteluliitto kommentoi Suomen venäläisviisumikieltoa ja sen vaikutuksia Tampereen 2027 MM-kisoihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-12T18:27:15Z",
       "urls": [
         {
@@ -2375,23 +2130,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-12T18:00:00Z",
-      "urls": [
-        {
-          "sign": "949c9cba877f71939d7a9345360e3bfbd5ed6d97f53155922a6923c721bd9704",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Salatut elämät -viikkokurkistus julki: Heli ja Iida saapuvat Pihlajakadulle, Daniela varoittaa Kaspiania",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-12T23:47:00+02:00",
@@ -5834,23 +5572,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-14T02:42:32Z",
-      "urls": [
-        {
-          "sign": "d1eff41250d12bbf3398806cad3582a029b89ed20d8b583af42725f71c370310",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Säiliöalus törmäsi risteilyalukseen New Orleansissa – kukaan ei kuollut onnettomuudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-14T17:10:37Z",
       "urls": [
         {
@@ -6170,21 +5891,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-14T01:56:55Z",
-      "urls": [
-        {
-          "sign": "61cd0a6fbcb0f5af6b3c23212275eec9d0754a13fa8eecbba81ac7c8e8994661",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain lentohäiriöt: American Airlinesin viestit matkustajille hämmentivät lentoyhtiöalan ammattilaista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-14T02:30:31Z",
       "urls": [
         {
@@ -6200,36 +5906,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-14T02:29:15Z",
-      "urls": [
-        {
-          "sign": "472c3cc19090015f65b62336902f320f47ab3605fed38d16a24d71cbf960a239",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain ilmavoimat vastasi epäiltyyn luvattomaan droonitoimintaan RAF Lakenheathin tukikohdassa Britanniassa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-14T04:00:00Z",
-      "urls": [
-        {
-          "sign": "d55512fba5df2b1c69a2caa8c7187937381d5d8ea0cdeb229f0b648d546104f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen maailmanmestari Eva Wahlström, 46, palaa ammattinyrkkeilyyn helmikuussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-14T03:57:10Z",
       "urls": [
         {
@@ -6243,23 +5919,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-14T04:00:10Z",
-      "urls": [
-        {
-          "sign": "77a5cd6a3b1e3709c45199b3c1b85ac83d0c9f65bc0f31ab25d4ca0013b9be2e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-14T04:00:00Z",
@@ -6292,21 +5951,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-14T04:00:16Z",
-      "urls": [
-        {
-          "sign": "2b47a219860f4781ee6d7ae77a6735431d3925b847c70412228206901e612f2a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elämäni biisi poistuu lauantai-illoista – finaalijakso tänään, erikoisjaksot jatkossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-14T04:44:33Z",
@@ -6390,21 +6034,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-14T04:52:09Z",
-      "urls": [
-        {
-          "sign": "9d60921482082a3956df3c808f1215eb49d6c8231d0f3de0f2759a373f486854",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreiden kansanedustaja Bella Forsgrén: Terveydenhuollon rahoitusmalli luo vääriä kannusteita ja vaatii uudistusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-14T04:30:35Z",
       "urls": [
         {
@@ -6437,21 +6066,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-14T05:02:34Z",
-      "urls": [
-        {
-          "sign": "06a92efd177171cd0b0fcc37effb0ded5244c6eb3fc374893b74510cc2a8546c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lidlin myymät auton lumisukat herättivät vitsailua – yhtiö muistuttaa, etteivät ne korvaa talvirenkaita",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-14T04:45:35Z",
       "urls": [
         {
@@ -6482,40 +6096,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-14T05:02:18Z",
-      "urls": [
-        {
-          "sign": "49a84e22e5885da5d59e18bd85175ad9162dd76b30c8defce3c918ed0be35e6d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduard Hallberg saavutti ensimmäiset maailmancup-pisteet suurpujottelussa ja valmistautuu Levin pujotteluun",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-14T05:11:23Z",
-      "urls": [
-        {
-          "sign": "a1114e96e0eb58017d7392b9be3a7e617e9a85486f25bba08f30db8f6216be64",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-14T05:57:08Z",
@@ -6625,23 +6205,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-14T05:31:32Z",
-      "urls": [
-        {
-          "sign": "a3ebc60a6d8993f11c0dfea3791e5bccd98a1ea40b4ac3ef4d64903fc5d56e04",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aleksandr Nikishin nousee Hurricanesin kokoonpanoon – Juuso Välimäki putoaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-14T08:05:00+02:00",
@@ -9979,7 +9542,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-15T13:55:14Z",
+      "updated": "2026-11-15T14:31:43Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -9988,8 +9551,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin ja Israel Libanoniin – Iranin vastaiskut ja Hormuzin laivaliikenne päivittyvät",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehden liveseuranta: Yhdysvallat ja Israel hyökkäsivät Iraniin – Hormuzinsalmen laivaliikenne on edelleen niukkaa",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -12739,7 +12302,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-15T12:13:00Z",
+      "updated": "2026-11-15T14:44:19Z",
       "urls": [
         {
           "sign": "05b8501fd64228e1b704b3213072dd0c475356db32fcef0305dcbd785b617d6b",
@@ -12748,11 +12311,9 @@
           ]
         }
       ],
-      "title": "Yleisö solvas Pelicansin päävalmentajaa Sami Kapanesta – järjestyksenvalvojat poistivat miehen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
+      "title": "Mies solvas Pelicansin päävalmentajaa Sami Kapanesta jälkipeleissä – järjestyksenvalvojat poistivat hänet",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13073,7 +12634,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-15T16:06:00+02:00",
+      "updated": "2026-11-15T17:30:00+02:00",
       "urls": [
         {
           "sign": "ebede2834e730703d5726c33ebedfeaf93c5f914e97cef9d543bf13838d22c53",
@@ -13082,8 +12643,8 @@
           ]
         }
       ],
-      "title": "Venäjän sotilastiedustelun epäillään järjestäneen virolaisen puolustusteollisuusyrityksen tuhopolttoyritelmän – pääministeri harkitsee itärajansa sulkemista",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Viro sulkee rajan Venäjään puolustusteollisuusyrityksen iskun jälkeen",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13152,7 +12713,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-15T13:37:28Z",
+      "updated": "2026-11-15T15:29:10Z",
       "urls": [
         {
           "sign": "bdb3f2d94eeba547926271e0779db0e6607a7aec859967a74f68d3d48c84a262",
@@ -13199,7 +12760,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-15T14:15:41Z",
+      "updated": "2026-11-15T15:15:48Z",
       "urls": [
         {
           "sign": "9f6b1ff9b7988b2d8630ccbb57ca0c2c9b11b36d1a03e29bdd4fa043e0084193",
@@ -13208,7 +12769,7 @@
           ]
         }
       ],
-      "title": "Viro harkitsee Venäjän-rajansa sulkemista tuhopolttoyritelmän jälkeen",
+      "title": "Viro sulkee rajanylityspisteet Venäjään puolustusteollisuuden yrityksen tuhopolttoyritelmän jälkeen",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -13372,7 +12933,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-15T14:20:59Z",
+      "updated": "2026-11-15T15:08:40Z",
       "urls": [
         {
           "sign": "7b0beb4c9b0cf80476d91af5898e398964f48ac0ada88a71afdeaee9515ddad7",
@@ -13381,8 +12942,8 @@
           ]
         }
       ],
-      "title": "Viro valmistautuu sulkemaan itärajansa Venäjän hybridioperaatioiden vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Viro sulkee rajanylityspaikkansa Venäjälle 1. joulukuuta Venäjän sotilastiedustelun sabotaasiyrityksen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13479,6 +13040,435 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T14:42:46Z",
+      "urls": [
+        {
+          "sign": "8df9e44941ef9b5e2eea8fa56a7398b4eb8ea5a892d43f7b2f98e3421b24da31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain lentoliikenne alkaa palautua sunnuntaina liikenneministerin mukaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-15T14:38:41Z",
+      "urls": [
+        {
+          "sign": "3acc80524d80248188afe9972047a60d0875657992315c867feb85d700d7f64f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi varoittaa Taivassalossa liikkuvasta haavoittuneesta villisiasta ja kehottaa ilmoittamaan havainnoista",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T15:27:54Z",
+      "urls": [
+        {
+          "sign": "7c2604ae853dfabaebfa52f2f9e72c8737c9859576109b7e523c36a9dca32826",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilves voitti SaiPan 3–1 ja nousi SM-liigan kolmannelle sijalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T15:08:16Z",
+      "urls": [
+        {
+          "sign": "385249616742f3a964602a73ee154335f55b6bd6d5d0683658f7b004148bb01f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Singaporelainen Megaspeed-yhtiö kertoo katkaisseensa yhteydet Alice Huangiin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T14:58:40Z",
+      "urls": [
+        {
+          "sign": "34768972fff17c4bf99466888e8ca85957e773c57d3e2764f5b6f264422900a1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ivalon palvelukodin henkilökunta löysi kaksi iäkästä naista sängystä, toinen kuolleena – poliisi tutki kuolemantuottamusta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T15:15:00Z",
+      "urls": [
+        {
+          "sign": "5cb5552830a8b5e3b38ef4db089652139589d9764bad27c1900f913d627bb15f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MTV Uutiset haastattelee vieraita Tanssii Tähtien Kanssa -ohjelman semifinaalin punaiselta matolta klo 17.50",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T17:45:00+02:00",
+      "urls": [
+        {
+          "sign": "786c5c8cdc30e8742c4ef027280d64778c9a9e0ea57a6f4c8f05c5cac22ff1a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vuonna 2027 on kahdeksan arkivapaata, joulu on lyhyt",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-15T14:42:05Z",
+      "urls": [
+        {
+          "sign": "c7af183ca0ea09535ee9a0ab99a1a1b6eb394082e20a81c212659fdcd0bdb6c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanariansaarten ennätys siirtolaispäivä johti hätätilaan – viranomaiset vaativat Espanjalta lisäapua",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T14:52:36Z",
+      "urls": [
+        {
+          "sign": "9f64cd6db3ef7c45575c35b8f2049416d9fd7a964d9a668f4608c5f31e72b051",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Professori Kari Liuhto arvioi Viron tuhopolttoyrityksen osaksi Venäjän hybridisotaa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-15T15:01:37Z",
+      "urls": [
+        {
+          "sign": "843ce33ee6536f51fdb22f6a7c467558eaec2074c4cf31e8b3121a74ca61f885",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden kymmenen kysymyksen testi mittaa lukijan tietämystä syksyn ylioppilaskirjoituksista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T17:17:00+02:00",
+      "urls": [
+        {
+          "sign": "88aff4bfaccc91e0602b79ebbd822631c25b271e685943d2da1adacdee8bc794",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-15T15:28:59Z",
+      "urls": [
+        {
+          "sign": "c46014645e816e90cbf5c25dd47238a30cf48711e3f180f8f32dac8ac6b9156b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arman Alizad ja Pekka Lehtinen käsittelevät Rikospaikka-podcastissa nuorten huumekuolemien kasvua ja fentanyylivaaraa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T14:52:04Z",
+      "urls": [
+        {
+          "sign": "6a55b83cbd26382bcaaca829ddea22d74ac40fe571238ccb87530cabe5c9f7c6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sergey Hilman vastasi Ylen lukumaratonin lukusuoritukseensa kohdistuneeseen kritiikkiin",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T15:31:08Z",
+      "urls": [
+        {
+          "sign": "b2d4041df7e9efda83942e360aa2ba6dadd103f7b81896dd8dcb98d2d64e8d09",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rimakauhua ja rakkautta -sarjan suomalainen versio on alkanut MTV Katsomossa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T15:14:00Z",
+      "urls": [
+        {
+          "sign": "b0ef2badbb5c7bde753f208477f813b1cc4569f4662e4c89c02d4472978cf08c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Marttaliitto: Älä heitä pois kuivatuotteita pelkän parasta ennen -päiväyksen perusteella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T15:42:11Z",
+      "urls": [
+        {
+          "sign": "1b1725d3d1341596a6c6612e05083aef70af6b9159f096e0a48922547e5c4076",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auto syttyi palamaan Nelostiellä Mäntsälässä – kuljettaja ja matkustaja selvisivät vahingoittumattomina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T15:44:30Z",
+      "urls": [
+        {
+          "sign": "5120f3f6c15556e2ae8216f15af13eb49c5097fe8d220b41098022b60504bb9e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viro sulkee rajanylityspaikat Venäjän vastaisella rajalla joulukuun alussa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-15T14:50:09Z",
+      "urls": [
+        {
+          "sign": "6d42e81340f30917e2645f57957169d23220d2dad7808d893e06651970978ac9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainalainen Myrotvorets-sivusto listasi europarlamentaarikko Eero Heinäluoman väitettyjen Venäjän propagandistien joukkoon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T16:45:00+02:00",
+      "urls": [
+        {
+          "sign": "f9abb66913833207a4b0cf5382d64d3b595a415432c71883cf8057ba08dfda33",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastakaa Lasten kysely: Pienituloisuus kasvattaa lasten välistä eriarvoisuutta ja heikentää nuorten hyvinvointia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-15T15:34:49Z",
+      "urls": [
+        {
+          "sign": "d1614e20fb4c4d5a0813cb188f48671449452130035caaae76305e91a8c1c672",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii tapon yritystä Turun Varissuolla – teräasehyökkäyksessä loukkaantui vakavasti mies",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T14:47:10Z",
+      "urls": [
+        {
+          "sign": "eb7546fcad3502c676b19f6174a4ed1d502004d447a9c8d5e279d256a967fe49",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Heliövaara, Patten voittivat avausottelun ATP-finaaleissa Torinossa",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-15T17:00:00+02:00",
+      "urls": [
+        {
+          "sign": "56c8b6bbdfa07dde62f98a4753bb537cbe80cc4743b0da9c574fa3def527dc10",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-15T15:31:38Z",
+      "urls": [
+        {
+          "sign": "7a74ae4ffcc6d80e7b143d9e6fc81941788cc24e96a01c47980a3b93874a882f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkijat havaitsivat, että narsistisia piirteitä omaavien aivot käsittelevät empatiaa eri tavoin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T14:35:32Z",
+      "urls": [
+        {
+          "sign": "5c877deaeb211cef08e817b202aa7d0f076357a37ca15a4e494393adb93acd55",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "FIS eväsi neutraalin statuksen venäläishiihtäjä Stepanovalta – pääsy Rukan maailmancupiin estyi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T14:32:08Z",
+      "urls": [
+        {
+          "sign": "8d493792d9f5847b389757451a7f3db10133f0b177e9835ff5fdc5fa4dff46f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Auto törmäsi jalankulkijoihin Tampereella – kaksi loukkaantui",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T15:42:27Z",
+      "urls": [
+        {
+          "sign": "4b3401b587757125fbd40ab4bef53d9f12e8201a3b7d360923027e1a1c6e9438",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilves voitti SaiPan 3–1 ja nousi SM-liigan kolmanteen sijaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-15T15:14:41Z",
+      "urls": [
+        {
+          "sign": "bbd2cfd8e58f29b9d974f48fe321bc1c5495d52ab5ee69a331e5f04d9ef7c034",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "20-vuotias saksalainen Jakob Elias Moch voitti Oloksen tykkikisojen 10 kilometrin vapaan hiihdon",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
