@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-15T03:26:57Z",
+  "updated": "2026-11-15T03:55:36Z",
   "entries": [
     {
       "updated": "2026-11-15T00:14:44Z",
@@ -948,21 +948,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-12T07:01:05Z",
-      "urls": [
-        {
-          "sign": "875b660ff7f308dcab1a1ec676cac7df53694e72074876aea50aecbdf5fb0671",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraine strikes Russian warship in Gulf of Finland with drones",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-12T12:59:04Z",
       "urls": [
         {
@@ -1245,21 +1230,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-12T07:05:28Z",
-      "urls": [
-        {
-          "sign": "367521ecf636e079e918df166688fd8f89f90049c40b4386cb4bb6f9f2566833",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syksyn ylioppilastutkinnon tulokset julkaistu: noin 4 800 uutta ylioppilasta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-12T09:58:55Z",
@@ -10370,7 +10340,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-15T03:26:57Z",
+      "updated": "2026-11-15T03:51:32Z",
       "urls": [
         {
           "sign": "9901cb4c603896ccab44f6addcdc525add68ad62081ba7e5ed78f94ba5d54a4b",
@@ -10379,7 +10349,7 @@
           ]
         }
       ],
-      "title": "Lauha ilma saapuu Suomeen – sunnuntaina lämpötila nousee, idässä jatkuu lumisade",
+      "title": "Lauha ilma saapuu sunnuntaina – etelä- ja länsi-Suomen lumi sulaa, Lapissa jatkuu pakkas",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13488,6 +13458,36 @@
       ],
       "title": "Yhdysvaltain lentokielto viivästytti ja peruutti lauantaina noin 15 000 lentoa kaapelipäivityksen vuoksi",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-15T03:30:36Z",
+      "urls": [
+        {
+          "sign": "e15331148be4133059db480e4febc2de3ee771a707d7ae505439aecc30b8400d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusministeri Antti Häkkänen arvioi kokoomuksen oikealle siirtymistä ja kannatuksen laskua",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-15T03:55:36Z",
+      "urls": [
+        {
+          "sign": "cd5e2b62d183491f7939d266ebbe63879ba8c8d0105133dcdde08fe0a7ede0dc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sää vaihtelee tänään lumisateesta poutaiseen, Ylen meteorologi Aleksi Lohtander kertoo",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
