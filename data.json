@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-16T22:04:03Z",
+  "updated": "2026-11-16T22:52:45Z",
   "entries": [
     {
       "updated": "2026-11-16T22:02:18Z",
@@ -5986,23 +5986,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T15:31:38Z",
-      "urls": [
-        {
-          "sign": "7a74ae4ffcc6d80e7b143d9e6fc81941788cc24e96a01c47980a3b93874a882f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkijat havaitsivat, että narsistisia piirteitä omaavien aivot käsittelevät empatiaa eri tavoin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-15T15:42:27Z",
@@ -13440,6 +13423,23 @@
       "title": "Hovioikeus vahvisti 2,5 vuoden vankeustuomion raiskauksesta ja törkeästä lapsen seksuaalisesta hyväksikäytöstä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-16T22:52:45Z",
+      "urls": [
+        {
+          "sign": "5a7d6efae8dc98c86c3bcfc873e3db99e260eebe9bc3f373e8f04c7feb0a66ff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "United Airlinesin järjestelmäkatkos häiritsee lentoja Yhdysvalloissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
