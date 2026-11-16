@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-16T21:09:34Z",
+  "updated": "2026-11-16T22:04:03Z",
   "entries": [
     {
-      "updated": "2026-11-16T15:35:16Z",
+      "updated": "2026-11-16T22:02:18Z",
       "urls": [
         {
           "sign": "ff8a03d6527de27d9b67eb9cb4d9e8181533bbb5e2af3e623eab5d66286da416",
@@ -13,8 +13,8 @@
           ]
         }
       ],
-      "title": "Ukrainan sota: Iltalehden liveseuranta ja Venäjän propagandaa käsittelevä infopaketti",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehden liveseuranta Ukrainan sodasta: Komyšuvahan iskun uhriluku on noussut ja Venäjän propagandasta kerrotaan",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -752,38 +752,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-11-13T11:59:28Z",
-      "urls": [
-        {
-          "sign": "70d268366c47312a3e9451ba90dd9085d11bc22d85b8ffdd845686fe2a686752",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Turun käräjäoikeus vangitsi taposta epäillyn miehen Rauhankadun henkirikoksesta",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-13T12:00:15Z",
-      "urls": [
-        {
-          "sign": "f1a11466ece6f23b580d5259285cba443ee7b2f348cbf6fd727a5fac2a3fbae8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Muusikko Sani Aartela rikkoi jalkansa potkulaaturikkomuksessa – sähköpotkulaaturikkomukset ovat laskussa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-13T12:36:06Z",
@@ -5681,21 +5649,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-15T15:08:40Z",
-      "urls": [
-        {
-          "sign": "7b0beb4c9b0cf80476d91af5898e398964f48ac0ada88a71afdeaee9515ddad7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viro sulkee rajanylityspaikkansa Venäjälle 1. joulukuuta Venäjän sotilastiedustelun sabotaasiyrityksen vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-15T14:02:00Z",
       "urls": [
         {
@@ -6062,21 +6015,6 @@
         }
       ],
       "title": "Ilves voitti SaiPan 3–1 ja nousi SM-liigan kolmanteen sijaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-15T15:14:41Z",
-      "urls": [
-        {
-          "sign": "bbd2cfd8e58f29b9d974f48fe321bc1c5495d52ab5ee69a331e5f04d9ef7c034",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "20-vuotias saksalainen Jakob Elias Moch voitti Oloksen tykkikisojen 10 kilometrin vapaan hiihdon",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13437,6 +13375,70 @@
       ],
       "title": "Yhdysvaltain naisten jääkiekkomaajoukkue voitti maailmanmestaruuden kaatamalla Kanadan finaalissa 6–2",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-16T22:01:38Z",
+      "urls": [
+        {
+          "sign": "d3b77bb365b37a5fb76f5c16c7dc16ded80ca5b3ebea0eb98e8063f1b5f0d536",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Siilasmaan uusi kirja kehottaa yritysten johtajia havainnoimaan ja kuulemaan huonoja uutisia tekoälyn aikakaudella",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-16T22:04:03Z",
+      "urls": [
+        {
+          "sign": "cbf8d15d1a8c65d5cdbe29d593227937282452bd24c27dfa1bbf8b0c727fe75f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ranskan presidenttiehdokkaat haluavat vähentää Ukrainan tukea ja vetää maan pois Naton komentojärjestelmästä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-16T21:47:39Z",
+      "urls": [
+        {
+          "sign": "65563e62a7ec10429f14591236c537256f449704eda6949f45dc552947662e49",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Paavi Leon päätti Etelä-Amerikan kiertomatkan ja palaa Vatikaaniin",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-16T21:31:51Z",
+      "urls": [
+        {
+          "sign": "d5a4ed75f7fdc123aa8c724cc3440415a86e0d9c39c633f9d07b31e99f1ff039",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hovioikeus vahvisti 2,5 vuoden vankeustuomion raiskauksesta ja törkeästä lapsen seksuaalisesta hyväksikäytöstä",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
