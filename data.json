@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T19:45:47Z",
+  "updated": "2026-11-17T21:51:00+02:00",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -765,21 +765,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-11-14T16:05:00+02:00",
-      "urls": [
-        {
-          "sign": "5f08a31bcf3a6dd9dbb96f3527c94334e46dd12d27022dac68657b7805b13121",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain lennonjohtojärjestelmän tekninen häiriö keskeytti lähes 15 000 lentoa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-14T11:55:35Z",
@@ -13465,6 +13450,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T21:51:00+02:00",
+      "urls": [
+        {
+          "sign": "14ec0c538a2e4721e785e4df04b7bfcec7efbb7e4636d46a172eb60546612b95",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kanariansaarten El Hierrolle saapui 9 000 siirtolaista kahdessa viikossa – sairaala romahti, tulijoita siirretään muille saarille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
