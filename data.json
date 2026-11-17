@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T15:14:12Z",
+  "updated": "2026-11-17T15:22:48Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -5684,23 +5684,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-16T11:19:25Z",
-      "urls": [
-        {
-          "sign": "f0d267fcead5e6f70f99fdc66b92b1f5aa98de9b6f97a9e8a1ceeca72ca43527",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisiammattikorkeakoulun hakijamäärät nousseet ennätyslukemiin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-16T11:59:15Z",
       "urls": [
         {
@@ -11082,7 +11065,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-17T15:12:17Z",
+      "updated": "2026-11-17T15:15:40Z",
       "urls": [
         {
           "sign": "cf081cf9de0b6ff5637b4e17e91715250cb1ebc956ec823e75fbda968cf4ed37",
@@ -13480,6 +13463,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-17T15:22:48Z",
+      "urls": [
+        {
+          "sign": "db1a5e3e854db6c69ef066b50b435161f5a7ce860878db0c8d4bfe2e90ce9c1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Petri Karjalainen jatkaa Kärppien päävalmentajana kauden 2027–28 loppuun",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
