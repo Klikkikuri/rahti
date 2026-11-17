@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T21:14:00+02:00",
+  "updated": "2026-11-17T19:29:41Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -5556,21 +5556,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-16T15:42:57Z",
-      "urls": [
-        {
-          "sign": "833a78208ef1af931c916c248ab196bc337ce73fbd4eca7a5c4e2bdcd6a7ea4e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "IIHF:n puheenjohtaja Franz Reindl kommentoi Venäjän poissulkemista alle 20-vuotiaiden jääkiekon MM-kilpailuista",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-16T15:20:59Z",
       "urls": [
         {
@@ -5633,21 +5618,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T15:36:21Z",
-      "urls": [
-        {
-          "sign": "a5b8b71f978f8b11c68986dcd002f4b68aee18e556abeb370e0032e7add8fe58",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "The Guardianin muotitoimittaja Jess Cartner-Morley jakaa vinkit tyylikkääseen kerrospukeutumiseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-16T17:00:00+02:00",
@@ -8713,7 +8683,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-17T18:40:04Z",
+      "updated": "2026-11-17T19:29:40Z",
       "urls": [
         {
           "sign": "034d8d33d82947e7c6b593a0d6e3917e6e1cde5b80e245d342f929944403ac11",
@@ -13461,6 +13431,40 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-17T19:29:41Z",
+      "urls": [
+        {
+          "sign": "0eec9a49e87d32d26a3f20bf0fbdf1036faf5b51ba706e1e282c5844d7a369d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T19:22:30Z",
+      "urls": [
+        {
+          "sign": "f9e91d8bdbc4ad6fc7f49a74f7d4c1756e7f06d01ef2f1558ae59847f1b2e091",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaupunginjohtaja ja asukkaat kritisoivat Kurikkaan ehdotetut sote-leikkaukset",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
