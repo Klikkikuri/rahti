@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T13:28:56Z",
+  "updated": "2026-11-17T13:44:16Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -974,21 +974,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-14T09:52:26Z",
-      "urls": [
-        {
-          "sign": "503cb62943f50487dd6ac1c7776147e7e38638893b2018ceec53f1f2069fa15b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain lennonjohto keskeytti lentoliikenteen vanhentuneen teknologian vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-14T11:45:00+02:00",
@@ -2202,41 +2187,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-15T04:52:00Z",
-      "urls": [
-        {
-          "sign": "6c2e978f95cfad57bd58d9b04579fd07f98aead0b02da1e48239634b44a5ff24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kuntosaliketjut vastaavat pukeutumissääntöihin: Paidaton treenaaminen ei ole sallittua kaikilla saleilla",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-15T04:55:00Z",
-      "urls": [
-        {
-          "sign": "c78d6d4bf94b7502d0c90392ebdddc2f827274b49e95696d21fa212f64d62b74",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammattilaisottelijat kritisoivat julkisuuden henkilöiden show-otteluiden korkeita palkkioita",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-15T05:08:00Z",
@@ -5584,36 +5534,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-16T08:58:38Z",
-      "urls": [
-        {
-          "sign": "468dcfa9db6db838bf70366ba52c6c7fc619f29e9386bbf1be5f758ce2d634b9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ramona Nurminen on työskennellyt Vantaan kirjastossa palkatta lähes 1,5 vuotta – opetusministeriön mukaan koulutussopimus tulisi muuttaa palkalliseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-16T08:59:53Z",
-      "urls": [
-        {
-          "sign": "23a7c0e033073e9be0a54bf3981d598cafda591b7d4a1f1163454633d554fee0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käsityönopettaja: Lasten kädentaidot heikentyneet – osa alakoululaisista ei osaa käyttää saksia",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-16T08:47:26Z",
       "urls": [
         {
@@ -5689,21 +5609,6 @@
         }
       ],
       "title": "Susijengin päävalmentaja Lassi Tuovi kutsuu uusia pelaajia MM-karsintoihin valtavaa loukkaantumissumaa vasten",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-16T09:00:44Z",
-      "urls": [
-        {
-          "sign": "50f01958970187c2db3f53d3e6434de02bac4113c735359513e21854658d2617",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Foo Fighters konsertoi Helsingin Olympiastadionilla kesäkuussa 2027",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -10570,7 +10475,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-17T14:15:00+02:00",
+      "updated": "2026-11-17T15:25:00+02:00",
       "urls": [
         {
           "sign": "342e246ab5d3ac5b96760241a4b4680fc9cdf44fc0825270f6627b874ddca017",
@@ -10579,8 +10484,8 @@
           ]
         }
       ],
-      "title": "Zelenskyi vahvistaa: Ukraina iski Krimin siltaan ohjuksilla ja drooneilla",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Zelenskyi: Ukraina iski Kertšinsalmen siltaan useilla ohjuksilla ja drooneilla",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13479,6 +13384,104 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-17T13:44:16Z",
+      "urls": [
+        {
+          "sign": "0e8acc09804e27427186766dcde232a4a5025093d929172fc6e951549700a2c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Kuvalehden journalistipalkinto STT:n päätoimittaja Minna Holopaiselle, Kanava-tietokirjapalkinto Saara Salmiselle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-17T13:31:26Z",
+      "urls": [
+        {
+          "sign": "7b2abe899a59fd81cf5f7f2742bf292e2a1d6e1275485167d09c2fe790f495d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "FI-Alert-testi ei tavoittanut kaikkia puhelimia – Sisäministeriö: odotettavaa käyttöönottovaiheessa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-17T13:42:08Z",
+      "urls": [
+        {
+          "sign": "fba060135dae4926d3cb62a09c6caf003d6409ce6925c06aa2a6e23c54c63e70",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kertšinsalmen silta osittain romahti Ukrainan ohjusiskussa – Orpo: kriittinen isku Krimin huollolle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T13:36:05Z",
+      "urls": [
+        {
+          "sign": "c1aaf14421b05702c1ad9d4f9470eebc492faae638f3846636107ff86022a4bc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "STT:n vastaava päätoimittaja Minna Holopainen sai Suomen Kuvalehden journalistipalkinnon",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T13:42:26Z",
+      "urls": [
+        {
+          "sign": "710befaa499b1f524cd105ce6800cd29f757ffa9a602abe4da7b5d6a174510c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisia epäillään useista seksuaalirikoksista hierojana toimittaessa – kuusi aikuista uhrista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T13:36:40Z",
+      "urls": [
+        {
+          "sign": "52adef4adeeb1f6437fcbf9f01f883e235ec1b11251139e8908eef168394bf13",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuvernööri: Mius-joen silta vaurioitunut Rostovissa – ukrainalainen media: Ukrainan isku 15. marraskuuta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
