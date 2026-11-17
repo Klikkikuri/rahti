@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T20:27:17Z",
+  "updated": "2026-11-17T20:45:02Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -828,23 +828,6 @@
       "title": "Nuorten mielenosoitus Helsingissä: Z-sukupolvi vastustaa elinkustannusten nousua, Gazan tilannetta ja datakeskuksia",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-14T17:22:00+02:00",
-      "urls": [
-        {
-          "sign": "66925429e8db4ecd4c2d5c23a95931fc00dc3489c7c76c101a0f74b0fd4a7bdc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -6185,36 +6168,6 @@
         }
       ],
       "title": "Enzo Pulkkinen kertoo lääkäreiden antaman loppudiagnoosin: keuhkosyöpä on loppuvaiheessa, elinaikaa on muutamasta viikosta kuukauteen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-16T17:05:39Z",
-      "urls": [
-        {
-          "sign": "c293c694225e552b21332783867f6f0ee841fae640fc6afec80e29d9db361571",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vilma Ryytty voitti Oloksen tykkikisojen 10 kilometrin vapaan hiihdon",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-16T17:06:39Z",
-      "urls": [
-        {
-          "sign": "0ab20dad96a1e1bd6a2294d652465cc8fa7049a5e8a9fe3ece7e9cdc397e428e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomi ja Venäjä palauttivat Sallasta löydetyn koiran omistajalleen rajavartioston yhteistyöllä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13467,6 +13420,53 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-17T20:45:02Z",
+      "urls": [
+        {
+          "sign": "fbabaa8851f2dec212b60356213a3d2bc0bf4c01d604730d45a5a165eed28dd6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä vapautti Nemtsovin murhaajat hiljaisesti – he elävät Tšetšeniassa suojeluksessa, todennäköisesti Ukrainan sodan ehdolla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T22:44:00+02:00",
+      "urls": [
+        {
+          "sign": "6e864b6ab4970e3ee7e4795736566475ae27464c57296cf8237801779ef0c08c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vaaratiedotustesti aiheutti Doro-puhelimiin verkko-häiriöitä useilla operaattoreilla – Telia ja Elisa vahvistavat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-17T20:38:04Z",
+      "urls": [
+        {
+          "sign": "e5c1ded0d5091ec0ff5754709e8df8dc65f91213bb56dd120130bfa330b47f42",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pikkuhuuhkajat EM-kisoihin dramattisella ulkopuolismaali-voitolla Irlantin vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
