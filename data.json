@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T02:00:00+02:00",
+  "updated": "2026-11-17T02:12:00+02:00",
   "entries": [
     {
       "updated": "2026-11-16T22:02:18Z",
@@ -5796,23 +5796,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T15:34:49Z",
-      "urls": [
-        {
-          "sign": "d1614e20fb4c4d5a0813cb188f48671449452130035caaae76305e91a8c1c672",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi tutkii tapon yritystä Turun Varissuolla – teräasehyökkäyksessä loukkaantui vakavasti mies",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-15T14:47:10Z",
@@ -12932,7 +12915,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-16T21:27:00+02:00",
+      "updated": "2026-11-17T02:12:00+02:00",
       "urls": [
         {
           "sign": "348fbdbd9d855df6cd430b4c608e78c6dab00875ad272caad080357c9e899659",
@@ -12941,8 +12924,8 @@
           ]
         }
       ],
-      "title": "Useat suuret yhdysvaltalaispankit kärsivät laajasta verkkohäiriöstä",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "JP Morgan Chasen ohjelmistovirhe aiheutti häiriöitä useissa Yhdysvaltain pankeissa",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13449,6 +13432,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-17T00:01:46Z",
+      "urls": [
+        {
+          "sign": "72e9cc318f83afec88f6644aa990d5e7828b501a44287c25d874078aa98268c3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa ja elämäntilannevinkkejä jokaiselle eläinradan merkille",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
