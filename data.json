@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T13:44:16Z",
+  "updated": "2026-11-17T13:57:53Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -782,23 +782,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-14T08:05:00+02:00",
-      "urls": [
-        {
-          "sign": "6f4a178886f73fd60d5e20da58abf0b53620366ae5230cd89010363d4cbfc6c9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-14T09:00:00+02:00",
       "urls": [
         {
@@ -861,38 +844,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-14T09:00:00+02:00",
-      "urls": [
-        {
-          "sign": "962b41c4d34a31ff66d159ca55edd196da03099880eaafafe5d910517016974e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-14T10:04:54Z",
-      "urls": [
-        {
-          "sign": "aac776aad6cf6b15194b240970924c0b91bce35a478106b1ccd1bcea8d2c97ca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espanjan ja Ruotsin viranomaiset ovat asettaneet Ossi Ketolan kasinoille sakot ja toimintakieltoja",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-15T03:12:00+02:00",
@@ -1008,21 +959,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-14T10:30:14Z",
-      "urls": [
-        {
-          "sign": "3c7e5316b17c3aa45db5c0c4d8d6f6b89f3550113f3cc1e0682cd37b5b4c9839",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastuslaitos sammuttaa kellaripaloa Tampereen keskustassa – Otavalankatu suljettu liikenteeltä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-14T10:23:00+02:00",
@@ -5519,21 +5455,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-16T09:12:41Z",
-      "urls": [
-        {
-          "sign": "a7ea15641e0c1292594fc6a8502793f85f3fd014a7060c4357ded016574cc2b9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "18-vuotias mies puukotti toista miestä Lapualla, poliisi epäilee tapon yritystä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-16T08:47:26Z",
       "urls": [
         {
@@ -5597,21 +5518,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T09:13:04Z",
-      "urls": [
-        {
-          "sign": "383eb51bad34329243ff1899fff483105c9a55d3b44daebd5f138157c9e756ad",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Susijengin päävalmentaja Lassi Tuovi kutsuu uusia pelaajia MM-karsintoihin valtavaa loukkaantumissumaa vasten",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-16T08:56:32Z",
@@ -5784,21 +5690,6 @@
         }
       ],
       "title": "Kansanedustaja Rami Lehtinen teki kantelun oikeusasiamiehelle Tampereen kansainvälisyyssetelistä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-16T09:35:10Z",
-      "urls": [
-        {
-          "sign": "7fd4382ea552067cbcd761b5039b77d30ceae0b8605ba6a5433ddf2d21925350",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tutkimus: Valkotakkiverenpaine on yhteydessä suurempaan sydän- ja verisuonikuolleisuuteen",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13482,6 +13373,115 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-17T15:51:00+02:00",
+      "urls": [
+        {
+          "sign": "ddc7d8e4f6f9d32374a4d603c1ec7b52640d0f392b0d5f316f6b5afd444d5f84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-17T13:46:30Z",
+      "urls": [
+        {
+          "sign": "72620d78e8f346b9e048380e9378d737f0916cf232506f4c042ba8ecbf5caaf5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Alko julkaisi uuden sovelluksen – digitaalinen Oma Alko -kortti ja tuotehaku ilman alkoholipalkintoja",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T15:56:00+02:00",
+      "urls": [
+        {
+          "sign": "b7e62ce1839162365c47f5960d5479902b3efb4d4929b2fdda4437d9708a0e2b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-17T13:56:59Z",
+      "urls": [
+        {
+          "sign": "e0fa831171f6e3719a9124d68a895272dcbacb60876e707a62c114a2e9ce2227",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yrittäjä Leena Ståhlberg juhlistaa 50-vuotistaan Kuopiossa 21. marraskuuta: 50 vierasta, minuutin silmäys hiljaisuudessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T13:52:11Z",
+      "urls": [
+        {
+          "sign": "1bb5840da91b4ada0bc87240a3a8a68855a1fe54807d62e3b436a616a7072e72",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Virolaiset suksihuoltomiehet Välbe ja Lopuhhin epäillään auttaneen venäläishiihtäjiä Muoniossa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T13:57:53Z",
+      "urls": [
+        {
+          "sign": "480a8a23e1e58757e98f603b7367ff2a18250cf52383f170d3f8d78cd885b5a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "17-vuotias tuomittiin vuoden ja 11 kuukauden ehdolliseen vankeuteen Outokummun kuolonkolarista – ajoi 160 km/h rattijuopuna",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-17T13:46:15Z",
+      "urls": [
+        {
+          "sign": "ae26ab939d44cb44e583936d51d4fb32a04a2b276f157cf38bc8f0cd51c16d2f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eduskunnan valiokunta kuuli STT:n pelastusryhmän – Jouko Jokinen vaatii selvityshenkilön nimitön ja valtiontukea",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
