@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T03:11:00Z",
+  "updated": "2026-11-17T03:41:38Z",
   "entries": [
     {
       "updated": "2026-11-17T02:11:50Z",
@@ -2436,38 +2436,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-14T12:04:00Z",
-      "urls": [
-        {
-          "sign": "de36675e0223791909d978af0f6388d062340b27d588e51f82d5afea651037a1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maajussille morsian -pari Antti ja Jasmiina suunnittelevat yhteenmuuttoa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-14T11:52:35Z",
-      "urls": [
-        {
-          "sign": "5488aaa533c33d8377d1b68dde6e8df4a0b6f6fc1b0623f0133699f3c2c7833b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "IIHF valittaa CAS:n Venäjä-päätöksestä - perusteena tuomareiden liikesuhteet",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-14T13:40:00+02:00",
       "urls": [
         {
@@ -3496,7 +3464,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-16T20:13:04Z",
+      "updated": "2026-11-17T03:39:54Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -3505,8 +3473,8 @@
           ]
         }
       ],
-      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin helmikuussa – Iranin johtaja Khamenein kuoli ja Yhdysvallat lähetti kolmannen laivaston aluksen Lähi-itään",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Yhdysvallat ja Israel hyökkäsivät Iraniin helmikuussa – Iranin johtaja Khamenein kuoli, Iltalehti seuraa tilannetta päivittyvästi",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -5811,21 +5779,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T15:56:54Z",
-      "urls": [
-        {
-          "sign": "69c5bc0adbbd86abeb122fcda2ee99dd8f28e1074268b1c2345efb6afc166ead",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset julkkismiehet kokeilevat 2000-luvun trendiä: kehyksettömät silmälasit",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-15T16:27:35Z",
@@ -13447,6 +13400,54 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T03:41:38Z",
+      "urls": [
+        {
+          "sign": "a13b10795ee9f584f5c27f0dfbf936489697fe18cd46589bcce0157fe527403c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "United Airlinesin järjestelmähäiriö viivästytti Yhdysvaltain lentoja",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-17T03:31:02Z",
+      "urls": [
+        {
+          "sign": "08b93c3dc5beb54acfac2aeadc6f1d04f444d92b0fea956db4bbd10e329a962c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Digita keskeyttää antenni-TV-lähetykset Tampereella tiistaina huoltotöiden vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T03:34:09Z",
+      "urls": [
+        {
+          "sign": "abc1e8fbe741100587eff2636337943f31a85b8d7c7579f8bba52ed76029dd62",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tänään kello 12 puhelimiin saapuu testi-ilmoitus uudesta vaaratiedotejärjestelmästä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
