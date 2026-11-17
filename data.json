@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-17T21:30:02Z",
+  "updated": "2026-11-17T22:00:08Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -799,23 +799,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-14T18:00:00+02:00",
-      "urls": [
-        {
-          "sign": "8638986b920d920564d43f94f0682927b12ec3e538fe352fd1dba70ac78e8fbb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-14T18:04:00+02:00",
       "urls": [
         {
@@ -1181,21 +1164,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T03:30:36Z",
-      "urls": [
-        {
-          "sign": "e15331148be4133059db480e4febc2de3ee771a707d7ae505439aecc30b8400d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Puolustusministeri Antti Häkkänen arvioi kokoomuksen oikealle siirtymistä ja kannatuksen laskua",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-15T03:55:36Z",
@@ -6124,21 +6092,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T17:58:37Z",
-      "urls": [
-        {
-          "sign": "44551f2fbb64b640fef204ba81af97312aaa1aa68c63d1807bbb1753795f9a2f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Suomen tulee harkita sisärajatarkastuksia Venäjän sabotaasiuhkien vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-16T18:18:29Z",
@@ -13465,6 +13418,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T23:58:00+02:00",
+      "urls": [
+        {
+          "sign": "7e5f2b7ee92cbd0943b552bb084fa2afec18f474d4edc4c7f82701e900314236",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidian tulos ylitti odotukset, osake nousi – yhtiö etsii uutta toimitusjohtajaa skandaalin jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-17T22:00:08Z",
+      "urls": [
+        {
+          "sign": "90e8c2bc72b885ef1d6c539290cbdc437cac9e05d9f378ce3f9ca00d59d5fe07",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uutiskatsaus: Venäläiskone syöksyi Siperiassa – 19 kuoli, Ukraina iski Krimin siltaa ja Moskovaa, Venäjä iski Kiovan siltoja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-17T21:40:46Z",
+      "urls": [
+        {
+          "sign": "4ea63ae8c5e916f7c6027a789fa2f8465ea46501c0595c62d7f467acb2d15631",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidian liikevaihto yli kaksinkertaistui kolmannella vuosineljänneksellä – osake nousi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
