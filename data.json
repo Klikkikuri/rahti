@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T02:31:05Z",
+  "updated": "2026-11-18T03:00:07Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -6045,21 +6045,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T18:13:30Z",
-      "urls": [
-        {
-          "sign": "19c744aec3e11db63b7e732ece03b8a66e12564f62d6f2e07cbf27ae0a386325",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mercedes-Benz vahvistaa SL-mallin paluun perusmallistoon vuoden 2028 kasvojenkohotuksessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-16T20:15:00+02:00",
@@ -13471,6 +13456,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T03:00:07Z",
+      "urls": [
+        {
+          "sign": "da1ab5188cd224f72e56b756db45dded7669ac8174ae3289ac21c8a7d2905659",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ADAC: Matriisivalojen automaatti vaihtaa valot hitaammin kuin ihminen – yli 90 % saksalaisista autoilijoista häikäistyy",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
