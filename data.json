@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T09:00:00+02:00",
+  "updated": "2026-11-18T07:12:56Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -1465,21 +1465,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T17:22:05Z",
-      "urls": [
-        {
-          "sign": "24bc38be6225ea1c452dc40ae9f068d0cb18543ca3b05f3191c6ac95d7af23db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Skotlantilainen kehonrakentaja Alix Small, 26, kuoli anoreksian aiheuttamiin sydänongelmiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-15T19:13:00+02:00",
@@ -5870,38 +5855,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T00:01:46Z",
-      "urls": [
-        {
-          "sign": "72e9cc318f83afec88f6644aa990d5e7828b501a44287c25d874078aa98268c3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehden horoskooppi tarjoaa pohdittavaa ja elämäntilannevinkkejä jokaiselle eläinradan merkille",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-17T00:52:06Z",
-      "urls": [
-        {
-          "sign": "959787ded1543b903499298f2e8b995dc103a0499be472579997e3b07c156668",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maldonin merisuola käyttää saksalaista vuorisuolaa tuotannossaan – paljastus herättää kohua ruokaharrastajien keskuudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T01:49:47Z",
@@ -13174,7 +13127,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-18T06:01:51Z",
+      "updated": "2026-11-18T07:12:56Z",
       "urls": [
         {
           "sign": "4d1ea6f8f2a8823ed6f1493762fee3a97837e9ff2463cd805a14dbcc0c6754bf",
@@ -13183,13 +13136,15 @@
           ]
         }
       ],
-      "title": "Koomikko Iikka Kivi ja Aino Tuominen vastaavat käräjäoikeudessa kunnianloukkauksesta – he kutsuvat Halla-ahoa fasistiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": "Koomikko Iikka Kivi ja Aino Tuominen vastaavat käräjäoikeudessa kunnianloukkauksesta Halla-ahon fasistiksi kutsumisesta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-18T08:28:00+02:00",
+      "updated": "2026-11-18T09:07:00+02:00",
       "urls": [
         {
           "sign": "802b1e0612ba2604ca910a1f14bb74a13f1571b5c4e3f20c0f77f0a00196a7c4",
@@ -13198,8 +13153,8 @@
           ]
         }
       ],
-      "title": "Peräänajo Lahdenväylällä aiheutti kilometrien jonon Helsinkiin – ajokaista auki, ruuhka purkautuu",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Kahden auton kolarit kaistanvaihdossa Lahdenväylällä aiheutti kilometrien jonon Helsinkiin – ajokaista auki, ruuhka purkautuu",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
@@ -13477,6 +13432,55 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T07:05:15Z",
+      "urls": [
+        {
+          "sign": "c51821ce096802c925c3ffb5c73828d02b2f8ea3535a5a243e957160f666f142",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkimus: vihreä välimeriruokavalio vähensi haiman rasvaa 14 prosenttia – vesilinsi ja saksanpähkinät tehokkaimpia",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T07:10:37Z",
+      "urls": [
+        {
+          "sign": "4e68fc405eda980ac6ad3a4ab3e313e5dc9975d4c3fa2aa61af91a97b01ed433",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Meteorologi Anniina Valtonen juhlistaa 20-vuotista parisuhdetta – luokkakaveri ennusti sen kestävän vain kuukausi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T07:07:42Z",
+      "urls": [
+        {
+          "sign": "b35f1434b77d8e6d6adb70f0d3456e13aa01a360f7cce5eaf20f06c048b8f4c8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Cincinnatin eläintarhan virtahepo Fiona nielaisi vierailijan pipon, eläin valvotaan ympärivuorokautisesti",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
