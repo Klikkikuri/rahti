@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T02:08:00+02:00",
+  "updated": "2026-11-18T00:34:27Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -6107,23 +6107,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T18:01:08Z",
-      "urls": [
-        {
-          "sign": "c6d817ecd5eab0ca9411c105af368b5aca1e4d50fc247434e5b1ad903b6dbb43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-16T18:13:30Z",
@@ -13471,6 +13454,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T00:34:27Z",
+      "urls": [
+        {
+          "sign": "e39966b5b9d9d57ea4a0dd10679d13645a75acec5b86cce3e516f7c312a240a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS-gallup: Kokoomuksen kannatus 15,6 % – matalin vuodesta 1991, perussuomalaiset 15,4 %",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
