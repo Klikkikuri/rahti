@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T18:00:18Z",
+  "updated": "2026-11-18T20:13:00+02:00",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -1715,21 +1715,6 @@
         }
       ],
       "title": "Useat liikenneonnettomuudet Rajasalmen sillalla ja Pirkkalassa aiheuttavat ruuhkia valtatiellä 3",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-16T13:46:11Z",
-      "urls": [
-        {
-          "sign": "433ba8f50a1a5b763f57cc4b2a712d35d705a2f401ef5eab6e752f4ae3dcb155",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi etsii Taivassalossa haavoittunutta villisikaa – riistapäällikkö arvioi sivullisvaaran vähäiseksi",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -5806,21 +5791,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T15:31:16Z",
-      "urls": [
-        {
-          "sign": "ef87f89778c2d3f802321577313350d107a577e66103336a097cdc67a778f619",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iltalehti julkaisi Bond-elokuvavisan: Tunnista elokuvat kuvista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T15:42:38Z",
@@ -10137,7 +10107,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-18T11:40:00+02:00",
+      "updated": "2026-11-18T20:13:00+02:00",
       "urls": [
         {
           "sign": "48a30a2e85eeed2ccd69d58e95b76ad18ea16675abc108f5340c1b6fca4cdab0",
@@ -12815,7 +12785,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-18T16:40:15Z",
+      "updated": "2026-11-18T18:12:38Z",
       "urls": [
         {
           "sign": "3f94e85566f344a0da32554fa504872508cf849bf6d259d04ddc98dcb17ec2ba",
@@ -12824,8 +12794,8 @@
           ]
         }
       ],
-      "title": "Halla-ahon kunnianloukkausoikeudenkäynti peruutettu – käräjäoikeus: kutsu lähetetty elokuussa, puhemies: en saanut",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Halla-ahon kunnianloukkausoikeudenkäynti peruutettu – käräjäoikeus: kutsu lähetetty elokuussa, puhemies: ei saanut",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13427,6 +13397,38 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T18:08:05Z",
+      "urls": [
+        {
+          "sign": "840ed7f346d74617414abe0194f19edf9468a319bc8cb89d238c64d30d39d42e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jukurit jatkaa samalla valmennustiimillä kahta kautta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T18:03:37Z",
+      "urls": [
+        {
+          "sign": "d63483e593366702126bbd6682bf15dbe11a060ddc879ffb488d006b7f5542a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mehiläinen irtisanii 55 hoitajia Länsi-Pohjan sairaalassa – hyvinvointialueen säästöt supistavat palveluita",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
