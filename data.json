@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T11:54:45Z",
+  "updated": "2026-11-18T12:13:33Z",
   "entries": [
     {
       "updated": "2026-10-28T15:28:18Z",
@@ -598,7 +598,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-17T12:22:31Z",
+      "updated": "2026-11-18T12:05:18Z",
       "urls": [
         {
           "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
@@ -607,8 +607,8 @@
           ]
         }
       ],
-      "title": "Iltalehti julkaisee päivittäin graafin pörssisähkön varttihinnoista",
-      "clickbaitiness": "Very Clickbaity",
+      "title": "Iltalehti julkaisee pörssisähkön varttihinnat päivittäin – graafi näyttää seuraavan päivän hinnat",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -803,23 +803,6 @@
       "urls": [
         {
           "sign": "3e698a5352f4071cec84c49c78fc6786e46a49a5140e3462a7d3176f365d5bfc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T14:00:00+02:00",
-      "urls": [
-        {
-          "sign": "869662b1811bebd017781f10aef1adf88bd6ae294c5385a7fa5ec407b2d7b2e6",
           "labels": [
             "com.github.klikkikuri/link-rel=canonical"
           ]
@@ -1439,23 +1422,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-16T04:23:00Z",
-      "urls": [
-        {
-          "sign": "486bea64ddc7d85722001f6f5c97d34f833a6ff50853f41eeef062b5c224fc43",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "THL: Naisten kuukautiskivut ja vaihdevuosioireet jäävät hoitamatta vähättelyn vuoksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-16T06:00:00Z",
       "urls": [
         {
@@ -1570,36 +1536,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-16T06:30:03Z",
-      "urls": [
-        {
-          "sign": "ea52f6ea71eb5b18a9e19bfc41de72a242aec2c788d14657961f399e21c34d6e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus ehdottaa maksullisia avoimia korkeakoulututkintoja, jotka hyödyttävät alussa vain kymmeniä opiskelijoita",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-16T06:14:05Z",
-      "urls": [
-        {
-          "sign": "a9487ab62e2aafddff50c74e65e31c8e391dd53a80571695dfa0697ee04b48b0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rain and Snow Move Across Finland, Meteorologists Warn of Slippery Roads Tuesday",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-16T06:15:00Z",
       "urls": [
         {
@@ -1632,23 +1568,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T06:42:59Z",
-      "urls": [
-        {
-          "sign": "c4edd5351f2950f13b636cc5aeccf3fc96295234d54d3fe49b3e8fde0e66eb76",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "F-Secure lopettaa 108 tehtävää, säästötavoite 13 miljoonaa euroa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-16T08:25:00+02:00",
@@ -1826,21 +1745,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T07:00:47Z",
-      "urls": [
-        {
-          "sign": "3d3938251813940153d41d6c1b24e0a6c26cf4d681a62d7a26a749ffb58f3f1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lappeenrannan LOAS kokeilee 11 opiskelijan soluasuntoa – asukkaat kertovat yhteisöllisyyden parantaneen elämänlaatua",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-16T10:15:00+02:00",
@@ -4516,23 +4420,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-17T10:27:48Z",
-      "urls": [
-        {
-          "sign": "cbf8d15d1a8c65d5cdbe29d593227937282452bd24c27dfa1bbf8b0c727fe75f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump, Putin ja Xi tapaavat keskiviikkona – Ranskan presidenttiehdokkaat uhkaavat vetää maansa pois Naton komentojärjestelmästä ja vähentää Ukrainan tukea",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-16T21:47:39Z",
       "urls": [
         {
@@ -6055,23 +5942,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T10:11:35Z",
-      "urls": [
-        {
-          "sign": "273183bc17f37a898a674299af692e4f4f88950fe2341321501e83a025a1a1a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iceye esittää 2,05 miljardin euron ostotarjouksen italialaiselle Avio SpA:lle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T14:44:19Z",
@@ -11108,7 +10978,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T11:25:32Z",
+      "updated": "2026-11-18T12:13:33Z",
       "urls": [
         {
           "sign": "bc6db7ce848c5beed70c6cec098b5e35fb302a196e79b36ebd8a5d009254f0f2",
@@ -11117,7 +10987,7 @@
           ]
         }
       ],
-      "title": "Trump saapui APEC-kokoukseen Shenzheniin – Xi ja Putin aloittivat kahdenväliset neuvottelut",
+      "title": "Trump saapui APEC-kokoukseen Shenzheniin – Xi ja Putin neuvottelivat kahdenvälisesti, Venäjä pitää laajojen Trump-Putin-keskusteluiden epätodennäköisinä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13392,7 +13262,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-18T11:29:37Z",
+      "updated": "2026-11-18T12:09:24Z",
       "urls": [
         {
           "sign": "284fb84a11bc0ba7dca04dce4f120c163f71a6a7f1459f15148df51c31c5bc56",
@@ -13401,7 +13271,7 @@
           ]
         }
       ],
-      "title": "Doro-puhelimissa ongelmia vaaratiedotekokeilun jälkeen – sisäministeri Rantanen: asiaa selvitetään",
+      "title": "Doro-puhelimissa vakavia häiriöitä vaaratiedotekokeilun jälkeen – sisäministeri Rantanen: asiaa selvitetään",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
@@ -13497,6 +13367,132 @@
       ],
       "title": "SC Bernin kapteeni Waltteri Merelä leikkauksen vuoksi neljän kuukauden vammapoissa",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T07:04:41Z",
+      "urls": [
+        {
+          "sign": "7542f750cc418a3a551f14d67af7d9dbf53836a0ca2e73292340edf7bd21cf68",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turku, Kaarina ja Lieto hakevat yhdessä Järvelän kosteikon suojelun luonnonsuojelualueena",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T12:09:14Z",
+      "urls": [
+        {
+          "sign": "8160db886cbf471c8a0fdbc2a3ae12b2379fca7a932817de5c18e57db00c20a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vaaraviestitesti aiheutti häiriöt lasten kellopuhelimiin ja vanhusten Doro-puhelimiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-18T12:06:07Z",
+      "urls": [
+        {
+          "sign": "af58d3811988196045d778f8055e51fdc6a56d59b05cb656bcf7e5c99cfb96c6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nuorten valtuutettujen osuus kasvoi seurakuntavaaleissa – he vaativat avoimuutta ja selkeyttä päätöksenteossa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T12:12:53Z",
+      "urls": [
+        {
+          "sign": "de208bc601ce9ae5d14ce9315d1d20574b67bbae2122eb4e0d9ce834ea7b5aa8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eduskunta hyväksyi rajaturvallisuuslain jatkon vuoteen 2028 – äänet 170–19",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T14:04:00+02:00",
+      "urls": [
+        {
+          "sign": "46774b74f81b2a64899086febc12552c1aa4cc6de003ff4287ef4b1aed804944",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "GTA 6 julkaistiin Uudessa-Seelannissa – ensiarviot ylistävät peliä mestariteokseksi, Metacritic 99/100",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T12:10:26Z",
+      "urls": [
+        {
+          "sign": "3d6c451d52c81e6800c7f883d90683c4c9b70fdc6093201857e0209dc82d4ac8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lupa- ja valvontavirasto suojeli Pietilöiden suunnitteleman Himmelin Porissa – kaupunki vastaa kalliista peruskorjauksesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T12:03:44Z",
+      "urls": [
+        {
+          "sign": "0603a1c972c57c9ba7e19bc8b75c6ebe5391fdbab429c5b1c2e63797fe227ef8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin avustaja Natalie Harp istui neuvottelussa presidentin Marcosin kanssa Filippiineillä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T12:08:29Z",
+      "urls": [
+        {
+          "sign": "0d3931036b5a7fe3e26b5bb54af140671667578f8126d2d017335747f8254a9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Japanilainen supertähti Anne Watanabe asui Tampereella lastensa kanssa kolme kuukautta – koulupäivän lyhyys yllätti",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
