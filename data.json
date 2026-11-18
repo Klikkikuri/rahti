@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T16:14:05Z",
+  "updated": "2026-11-18T18:29:00+02:00",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -779,21 +779,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T21:07:00+02:00",
-      "urls": [
-        {
-          "sign": "31cd1080cd5d70f9e9068d658be70304f8ebc21690a021002f978bcf38bf5c7e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nato peruu Albanian huippukokouksen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -5850,36 +5835,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-17T13:56:59Z",
-      "urls": [
-        {
-          "sign": "e0fa831171f6e3719a9124d68a895272dcbacb60876e707a62c114a2e9ce2227",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yrittäjä Leena Ståhlberg juhlistaa 50-vuotistaan Kuopiossa 21. marraskuuta: 50 vierasta, minuutin silmäys hiljaisuudessa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-17T13:52:11Z",
-      "urls": [
-        {
-          "sign": "1bb5840da91b4ada0bc87240a3a8a68855a1fe54807d62e3b436a616a7072e72",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Virolaiset suksihuoltomiehet Välbe ja Lopuhhin epäillään auttaneen venäläishiihtäjiä Muoniossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-17T13:57:53Z",
       "urls": [
         {
@@ -9138,7 +9093,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-18T14:37:00+02:00",
+      "updated": "2026-11-18T18:29:00+02:00",
       "urls": [
         {
           "sign": "a12dc39f2fc6ebec50ff46e63ed0a608b0ca3adbef4967afce998c8630326e76",
@@ -9147,7 +9102,7 @@
           ]
         }
       ],
-      "title": "Helsingin käräjäoikeus keskeytti istunnon Iikka Kiven loukkausasiassa – puhemies Halla-ahoa ei kutsuttu käräjille",
+      "title": "Helsingin käräjäoikeus peruutti Iikka Kiven loukkausasian käsittelyn – puhemies Halla-aho ei saapunut käräjille",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13405,6 +13360,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T16:23:35Z",
+      "urls": [
+        {
+          "sign": "b1d7eccb18c1a75aa312403edf2041499262ddc3f2935bd23e2a94675d9a05c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Näyttelijä Jasper Pääkkönen: Suomalaisen saunakulttuurin vienti maailmalle tarvitsee valtion tuen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T16:19:59Z",
+      "urls": [
+        {
+          "sign": "5ca38c63b18ca95bfef1b8d448792258ecd649acf50e1f641cbf09a5a06aa5a9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "IL seuraa: Jokerit menetti Maxime Fortierin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T18:18:00+02:00",
+      "urls": [
+        {
+          "sign": "57d430d9d452442c222a840577d11f0602ac4493b70f2ceaf9739a6b121d05f2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lyko:n tietomurrossa vuotivat asiakkaiden nimet, osoitteet ja puhelinnumerot – murto koski myös Suomea",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
