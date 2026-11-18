@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T07:30:24Z",
+  "updated": "2026-11-18T09:43:00+02:00",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -1194,21 +1194,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T14:21:58Z",
-      "urls": [
-        {
-          "sign": "9a208486767b66fcecd00dea1e30c256aabe76f87f0fe7ceefb5e59e804f4898",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Filippiiniläinen Carmelle voitti Aasian ensimmäiset Euroviisut kappaleella Sobra-Sobra",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-15T14:42:46Z",
@@ -5917,23 +5902,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-17T03:00:12Z",
-      "urls": [
-        {
-          "sign": "8f576563121f50b67cde7d8e40a5f14418f01cbf84f594b531f3274cc15d572f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen Nokian johtaja Risto Siilasmaa: Operaattorien kontrolli esti Nokian avoimen älypuhelinalustan käyttöönoton",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T04:07:16Z",
@@ -12775,7 +12743,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-18T09:29:00+02:00",
+      "updated": "2026-11-18T09:43:00+02:00",
       "urls": [
         {
           "sign": "a12dc39f2fc6ebec50ff46e63ed0a608b0ca3adbef4967afce998c8630326e76",
@@ -12784,8 +12752,8 @@
           ]
         }
       ],
-      "title": "Helsingin käräjäoikeus alkaa käsitellä koomikko Iikka Kiven loukkaussyytteen – Kivi on kutsunut puhemies Halla-ahoa fasistiksi",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Helsingin käräjäoikeus aloitti koomikko Iikka Kiven loukkausasian – Kivi on kutsunut puhemies Halla-ahoa fasistiksi",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13097,7 +13065,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-18T07:30:24Z",
+      "updated": "2026-11-18T07:37:59Z",
       "urls": [
         {
           "sign": "4d1ea6f8f2a8823ed6f1493762fee3a97837e9ff2463cd805a14dbcc0c6754bf",
@@ -13106,8 +13074,8 @@
           ]
         }
       ],
-      "title": "Koomikko Iikka Kivi ja Aino Tuominen vastaavat käräjäoikeudessa Halla-ahon fasistiksi kutsumisesta",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Koomikko Iikka Kivi ja entinen vihreä varavaltuutettu Aino Tuominen syytetään kunnianloukkauksesta – he luonnehtivat Jussi Halla-ahon fasistiksi",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13496,6 +13464,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Äks"
+    },
+    {
+      "updated": "2026-11-18T07:31:34Z",
+      "urls": [
+        {
+          "sign": "0b601992cb790830340f8cd66f6cad9248f0537ebaf01e94d1f8fca79e560ec4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kolme kansanedustajaa paljastaa sähkölaskunsa – erot 8–674 euroa kuukaudessa asumismuodon mukaan",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T07:42:10Z",
+      "urls": [
+        {
+          "sign": "3b1a58cb5aa8181e95fffdfa58fcae09d6c6f13317252a79f60b3b109d3e8f70",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turku laajentaa maahanmuuttajavanhempien oppituntikokeilun Nummenpakan kouluun helmikuussa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
