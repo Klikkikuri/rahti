@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T05:05:16Z",
+  "updated": "2026-11-18T07:25:00+02:00",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -942,21 +942,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-15T02:00:00+02:00",
-      "urls": [
-        {
-          "sign": "a2db9abfa6389e9f2ca581872841762e19dcd2ddd4ae96cac04e9bc5f25e16b5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sydänasiantuntijat: Tehokas statiinihoito on jo laskenut LDL-kolesterolin matalalle, mikä rajoittaa uusien lääkkeiden lisähyötyä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-15T09:27:00+02:00",
       "urls": [
         {
@@ -1243,21 +1228,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T11:32:37Z",
-      "urls": [
-        {
-          "sign": "d57bd7384d08e13378abf817f95d453cbe6b8a79462bd5eed65845ab743c275d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ranskan mielenosoituksissa kyynelkaasualtistuneet raportoivat kuukautishäiriöitä, mutta asiantuntijat eivät löydä varmaa syy-yhteyttä",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-15T12:51:53Z",
@@ -5982,21 +5952,6 @@
       ],
       "title": "Sosiaalisen median vaikuttajat Celina Powell ja Brittany Renner aiheuttivat kohua Los Angelesin koripallo-ottelussa paljastavilla asuillaan",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-16T20:03:02Z",
-      "urls": [
-        {
-          "sign": "0e2ff798d09cb49bd834fe8c0a03349e5e104832d31e29727bbc5b4a558bfbbd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaisten kansanedustaja Jaana Strandman sai yöllä peniskuvan tekstiviestiltä",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13468,6 +13423,53 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T05:23:54Z",
+      "urls": [
+        {
+          "sign": "d14bc15f11d9719b499181f5e9e2330b99084098f9e6964425bda961d51755a4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Patrik Laine yhä sopimuksetta kauden neljänneksen jälkeen – NHL:n kiitospäivä saattaa liikehdittää markkinoita",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T05:15:51Z",
+      "urls": [
+        {
+          "sign": "e0fe417b09d713c9f05a1a67c97208935b9603ed603481d39f6aa90eea13acb9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Analyysi: Opetusministeri Adlercreutzin väite peruskoulun 'vahvasta plussasta' haastuu – valtionosuuksien leikkaukset syövät lähes koko lisärahasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T07:25:00+02:00",
+      "urls": [
+        {
+          "sign": "31fb059045b0e7bb4f3ced26eeedac918d5e03621056031a6b7018ac6cc6f947",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidia raportoi vahvasta tuloksesta, mutta hallitus hylkää Huangin paluun – vakoiluskandaali ja vientitutkinnat syventävät kriisiä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
