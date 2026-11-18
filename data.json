@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T01:54:39Z",
+  "updated": "2026-11-18T02:31:05Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -1023,21 +1023,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-15T03:55:36Z",
-      "urls": [
-        {
-          "sign": "cd5e2b62d183491f7939d266ebbe63879ba8c8d0105133dcdde08fe0a7ede0dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sää vaihtelee tänään lumisateesta poutaiseen, Ylen meteorologi Aleksi Lohtander kertoo",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-15T09:27:00+02:00",
       "urls": [
         {
@@ -1051,21 +1036,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T04:45:35Z",
-      "urls": [
-        {
-          "sign": "6f71b5b5c9815f27ecac392302d7bddffde6aa41ebae9ec06872c84055b516d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Taloustieteen väitöskirjatutkija Matias Mäkiranta kritisoi eläkekeskustelun harhakuvioita ja ehdottaa eläkekorotusten hidastamista",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-15T05:00:35Z",
@@ -13469,6 +13439,38 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T02:31:05Z",
+      "urls": [
+        {
+          "sign": "78da563016ccd7965b3db89820a6f120e96fe72e740fa8b27dad7b850229c5f6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eristyksissä eläneet awa-alkuperäiskansalaiset lähestyivät guajajara-yhteisöä Maranhãossa – viranomaiset käynnistivät hätätoimet tautiriskin vuoksi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T00:37:40Z",
+      "urls": [
+        {
+          "sign": "327ef27a7dd80e9170c78099a694ce8ab3832a19a3fa87fc51c1f87567a64ea4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HS-gallup: Kokoomuksen kannatus laski historialliseen alhaan – 15,6 prosenttia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
