@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T13:40:04Z",
+  "updated": "2026-11-18T13:59:20Z",
   "entries": [
     {
       "updated": "2026-10-28T15:28:18Z",
@@ -811,21 +811,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T18:36:00+02:00",
-      "urls": [
-        {
-          "sign": "f577aa8b8de29d8da93a32507fd96c66769c56fcbe2e5c7fb43c64330cfbb5d6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Björk esiintyi Oulussa DJ-setillään, vaikka keikka oli vaarassa peruuntua lattiavaurion vuoksi",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -1951,24 +1936,6 @@
       "title": "EU:n neuvosto lisää Venäjä-pakotelistalle 30 uutta kohdetta",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-16T11:29:35Z",
-      "urls": [
-        {
-          "sign": "62a363875cd3dcff998a909eaa60512598eec058acf84591d4c670478b598df7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
       "outlet": "Yle Uutiset"
     },
     {
@@ -6090,21 +6057,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-17T11:58:21Z",
-      "urls": [
-        {
-          "sign": "6a2e2b6be58bf88133abaa3f24fc8cabe9711d3b63ca381972a84c1b52a224f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nelonen lähettää Digihuijaukset-dokumentin: Rakkaushuijari peti naiselta 60 000 euroa ja uhkaili itsemurhalla",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-17T12:36:30Z",
       "urls": [
         {
@@ -6197,24 +6149,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-17T11:51:34Z",
-      "urls": [
-        {
-          "sign": "46094f9e486d8e361cdfa6a0bfde3e19ae6277e6f44c0ead7982af087a3029eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T12:51:18Z",
@@ -13049,7 +12983,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-18T15:27:00+02:00",
+      "updated": "2026-11-18T15:51:00+02:00",
       "urls": [
         {
           "sign": "b57d091e426290fd3ff027687ec7443b58ba1e44818b9ca5e3537ec1dc18186e",
@@ -13058,7 +12992,7 @@
           ]
         }
       ],
-      "title": "Eduskunta jatkoi käännytyslain (itärajan poikkeuslaki) voimassaoloa vuoteen 2028 – äänet 170–19",
+      "title": "Eduskunta jatkoi käännytyslain voimassaoloa vuoteen 2028 – Sdp:n edustajilla erimielisyyksiä äänestyksestä",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13451,6 +13385,68 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T13:53:41Z",
+      "urls": [
+        {
+          "sign": "6d15a677e0178453a24723236b03956b772a469da6074fe6fd7aa678c2717b73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "VTV: Ruokavirasto maksoi liikaa turkistarhaajille lintuinfluenssakorvauksia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T15:50:00+02:00",
+      "urls": [
+        {
+          "sign": "b5c7fbc20137198afdb40fefb358990808266a631c61a638f901fa8df256e91a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin hallinto-oikeus hylkäsi valituksen – Puhoksen B- ja C-osat voidaan purkaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T13:59:20Z",
+      "urls": [
+        {
+          "sign": "12809a1a20dd2e45892540f7db848d6b16514c46afbe915108cb85743bb0f8be",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Leipäpussien ohje kieltää pakastamisen: Fazer ja Vaasan selittävät, että leipä on jo kerran pakastettu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T13:50:49Z",
+      "urls": [
+        {
+          "sign": "1bb97dd20d0174291a5cba202c92598b3c8c811fc0aed2599aaaf7d9a7d34f15",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kurikan sote-keskus uhkaa alentua asemaksi – lääkäripalvelut keskittyisivät keskustaan, Mieto: \"Tuntuu hurjalta\"",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
