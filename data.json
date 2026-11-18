@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T03:00:07Z",
+  "updated": "2026-11-18T03:12:00Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -1662,23 +1662,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-15T14:38:41Z",
-      "urls": [
-        {
-          "sign": "3acc80524d80248188afe9972047a60d0875657992315c867feb85d700d7f64f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi varoittaa Taivassalossa liikkuvasta haavoittuneesta villisiasta ja kehottaa ilmoittamaan havainnoista",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-15T15:27:54Z",
       "urls": [
         {
@@ -1741,21 +1724,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T14:42:05Z",
-      "urls": [
-        {
-          "sign": "c7af183ca0ea09535ee9a0ab99a1a1b6eb394082e20a81c212659fdcd0bdb6c8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kanariansaarten ennätys siirtolaispäivä johti hätätilaan – viranomaiset vaativat Espanjalta lisäapua",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-15T14:52:36Z",
@@ -1871,21 +1839,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-15T14:47:10Z",
-      "urls": [
-        {
-          "sign": "eb7546fcad3502c676b19f6174a4ed1d502004d447a9c8d5e279d256a967fe49",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heliövaara, Patten voittivat avausottelun ATP-finaaleissa Torinossa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-15T17:00:00+02:00",
@@ -13473,6 +13426,55 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T03:12:00Z",
+      "urls": [
+        {
+          "sign": "a685788a68e259109eb3472bd975ba4c85f41fb2f2742533df0592d16eaf8ba0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Opettajat vaativat selkeämpiä arviointikriteerejä – Karvi julkaisee vertailutietoa keväänä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-18T03:00:00Z",
+      "urls": [
+        {
+          "sign": "ff664b77b22a0489a83b26d78c716228a1beec97846e6216237530e9c17cbec6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eduskunta hyväksyi investointivelvoitteen suoratoistopalveluille – 8–10 miljoonaa euroa vuodessa suomalaisiin tuotantoihin vuodesta 2027 alkaen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-18T03:00:00Z",
+      "urls": [
+        {
+          "sign": "9b3b5ff857f65ce9ad478ff9cb69bc2377e05059850cfa9e8f42d0de0ad2d060",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "5-vuotias Elvin Jumisko-Taavila alkaa Salatut elämät -sarjassa, Nella Tamminen palaa Suomeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
