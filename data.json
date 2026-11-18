@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T11:44:18Z",
+  "updated": "2026-11-18T11:54:45Z",
   "entries": [
     {
       "updated": "2026-10-28T15:28:18Z",
@@ -833,21 +833,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-15T14:00:00+02:00",
-      "urls": [
-        {
-          "sign": "cc55218024245af0314883bc5edf4721383c78ee7d4913c14c9fb0d5c7e60b1e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsinki peruutti Humallahden pyöräsillan turvallisuussyistä ja maksoi konsulteille yli 250 000 euroa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-15T15:00:00+02:00",
       "urls": [
         {
@@ -1518,21 +1503,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T05:33:34Z",
-      "urls": [
-        {
-          "sign": "2b6ea18a5b41fc548a2bdbdf7bfeb5ced018ade6a4bb363ddbb35c165dcc1816",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ylen testissä työnantajat tunnistivat tekoälyn tekemän hakemuksen, mutta molemmat työhakemukset olivat hyväksyttäviä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-16T05:21:00Z",
@@ -5819,21 +5789,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-17T09:52:02Z",
-      "urls": [
-        {
-          "sign": "901f9977d10ce3bc3e4ed3bba8134db3a84175b1e0830c28f2fff167c5d2bc80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meghan Markle tuomaroi MasterChef Australiassa tänään – Harry keskeyttää puhelulla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-17T09:14:19Z",
       "urls": [
         {
@@ -6055,21 +6010,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-17T09:54:20Z",
-      "urls": [
-        {
-          "sign": "e5e8f203cfcab6544a3cb29c31b2251c51599a655973e5793e8ed3101e09977d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bachelor Suomi -sarja alkaa MTV3:llä – Arttu Kilpeläinen tapaa 16 kilpailijaa, joista Emma tekee heti vaikutuksen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-17T09:28:03Z",
       "urls": [
         {
@@ -6099,21 +6039,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-17T10:04:27Z",
-      "urls": [
-        {
-          "sign": "c89582c268776bae88762e07a2e3296c2b308c4f596c3b619a4603249ad6d05e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Iivo Niskanen vetäytyi Oloksen ja Muonion kilpailuista – valmentaja toivoo palaavan Rukaan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
       "outlet": "Iltalehti"
     },
     {
@@ -13482,7 +13407,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-18T11:30:34Z",
+      "updated": "2026-11-18T11:49:22Z",
       "urls": [
         {
           "sign": "a47743bd9cfa20586bc6752208f6bb53790504f6becf8cd491756cf4f92a8603",
@@ -13491,10 +13416,89 @@
           ]
         }
       ],
-      "title": "Eduskunta äänestää käännytyslain jatkosta – suora lähetys kello 13.50",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
+      "title": "Eduskunta äänestää tänään käännytyslain jatkosta – hallitus ehdottaa lakkia vuoteen 2028, vaaditaan 5/6-enemmistö",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-18T11:50:19Z",
+      "urls": [
+        {
+          "sign": "299d5466586457f2eb2d9f1d09fadc341046ad5d19e9d3dd5ce2b4cf351e357b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Eduskunta äänestää rajaturvallisuuslain jatkamisesta – SDP:ssä kuusi kansanedustajaa pyysi poikkeuslupaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T13:45:00+02:00",
+      "urls": [
+        {
+          "sign": "ef906a955fd6a4181d18cc7df122f85eb125d081ca7d0da6c2974804108c8330",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OAJ:n hallitus hylkäsi erityisopettajien työehtosopun – neuvottelijat ja puheenjohtaja olivat kannattaneet ehdotusta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T11:48:08Z",
+      "urls": [
+        {
+          "sign": "fbdce363d6aaef517d4bfcfb20ebf206839a5293faf0ad1d936f92c545cda734",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vaaratiedotesti epäonnistui osittain – Keskisarja kritisoi FI-Alert-nimeä, Rantanen: nimi voi vaihtua",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T11:54:45Z",
+      "urls": [
+        {
+          "sign": "ab63cbef0a80d2ce1b01bd8eb12f0fbc71f0dd73a053f7605cbaf1cf70ed0848",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidia ylitti odotukset ja nosti ohjeistusta – sijoittajat saivat hetken helpotusta, epävarmuus jatkuu",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-18T11:50:19Z",
+      "urls": [
+        {
+          "sign": "362b1a6f1c2bb037b3677d1650f4f739c8488a3684399c13d7ca57ec0eaf7db3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SC Bernin kapteeni Waltteri Merelä leikkauksen vuoksi neljän kuukauden vammapoissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
