@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T00:34:27Z",
+  "updated": "2026-11-18T00:56:08Z",
   "entries": [
     {
       "updated": "2026-11-17T06:21:12Z",
@@ -813,23 +813,6 @@
       "title": "BepiColombo-luotain saapui Merkuriuksen kiertoradalle, suomalainen mittalaite mittasi auringonpurkauksen hiukkasia",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-14T21:00:00+02:00",
-      "urls": [
-        {
-          "sign": "e9b72f271a6e06880267cca41ddb5c35cf2a8b68bd80cca91b881cc7bc8cd135",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -6154,21 +6137,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T18:03:44Z",
-      "urls": [
-        {
-          "sign": "9b9a1d908ae69fc8e7cab2571d4928221122af8f6e291b9d5e844f5956a6269f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Naisleijonat hävisi jääkiekon naisten MM-kisojen pronssiottelun Ruotsille – Michelle Karvinen: \"Emme saa samoja asioita kuin miehet\"",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T09:03:45Z",
@@ -13466,6 +13434,38 @@
         }
       ],
       "title": "HS-gallup: Kokoomuksen kannatus 15,6 % – matalin vuodesta 1991, perussuomalaiset 15,4 %",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T02:53:00+02:00",
+      "urls": [
+        {
+          "sign": "6921d1d63b5d01515da0368ff6290fe341c69d1c88f340cd77bc493e7a8a7006",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tietoturvayhtiö Calif löysi vakavan haavoittuvuuden Javasta – Oracle julkaisi tiistaina korjauspäivityksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T00:56:08Z",
+      "urls": [
+        {
+          "sign": "dc2c372bff17425a3bc8b8655516516450b5bbd267dd44480edfb7c2c6215cf0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvalloissa laajat tekniset häiriöt vaikuttavat lentoliikenteeseen, pankkeihin ja tiedusteluvirastoon – Trump kieltäytyy vastuusta, kongressi vaatii selityksiä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
