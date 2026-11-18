@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-18T16:45:00+02:00",
+  "updated": "2026-11-18T17:00:00+02:00",
   "entries": [
     {
       "updated": "2026-10-28T15:28:18Z",
@@ -799,23 +799,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-15T19:13:00+02:00",
-      "urls": [
-        {
-          "sign": "5da8695e0c5f0efcf5efee225acfef6e388dc9b266cdb410fc46a460d06a90d5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-15T19:15:00+02:00",
       "urls": [
         {
@@ -1132,23 +1115,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-16T06:55:39Z",
-      "urls": [
-        {
-          "sign": "d3c9d6e3a5be209dece899c672e9e9b54c6f28c7a7b9b474f073bebdedad7d31",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Seurakuntavaalien äänestysprosentti nousi 14,1 prosenttiin – nuoret etsivät kirkosta merkitystä ja turvaa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-16T08:00:00+02:00",
       "urls": [
         {
@@ -1179,23 +1145,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T06:15:00Z",
-      "urls": [
-        {
-          "sign": "4c95a1f0f697760dc772023b3ad99aecfc4a4b34c4fb1835bf4efbf01839d0a8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nostalginen lämppäri – 80- ja 90-luvun klassikkoiltapala kotona",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-16T11:24:54Z",
@@ -5755,23 +5704,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-17T12:40:10Z",
-      "urls": [
-        {
-          "sign": "c78d5b0cd94a7cb581b6be1cfc91d251b5a5bd60c53705d2776bbbbbfcd30f89",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaaratiedotetesti tiistaina: sadat lukijat ilmoittivat Iltalehdelle viestin jääneen saamatta, asiaa tutkitaan sisäministeriössä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-17T11:33:58Z",
       "urls": [
         {
@@ -5946,23 +5878,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-17T12:38:17Z",
-      "urls": [
-        {
-          "sign": "95b291082d9c12e140bba9c1c44500029799fecd026a4eaa6c83e1639df75302",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Valtakunnallinen FI-Alert-testi epäonnistui osittain – pääministerin puhelimeen ei tullut viestiä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-17T11:42:52Z",
       "urls": [
         {
@@ -6054,21 +5969,6 @@
       ],
       "title": "Lääkäri: Kortisolinaama on harhaanjohtava someilmiö – kasvojen pöhöttyneisyys johtuu yleensä elintavoista",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-17T12:40:08Z",
-      "urls": [
-        {
-          "sign": "6301ab3a7c937c711b7b5fa10a284c85bcc98a0be123c902e70f6a1025716a7a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kremlinin Peskov: Stubb on oikeassa suorasta dialogista – Ušakov: Eurooppaa ei mukana rauhanneuvotteluissa",
-      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13447,6 +13347,100 @@
         }
       ],
       "title": "Verottaja nostaa ravintoedun verotusarvon 14,40 euroon 1.1.2027",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T14:45:51Z",
+      "urls": [
+        {
+          "sign": "4505a9f4220de9b2998ff28413a944847eb2e11bbbd5b50883a62e8304496270",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Netflixin Dept. Q -sarjan kuvausryhmän jäsen kuoli Edinburghissa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T14:47:00Z",
+      "urls": [
+        {
+          "sign": "d1a6fdd3034ea9ca7f7c6fa5bdb27e8c932be5a9696e378e4f3b245d0f23a5f3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsalaiskokki Roy Nader jakaa vinkit rapeaan leivitykseen – korppujauhoja ei kannata painele kiinni",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-18T14:50:47Z",
+      "urls": [
+        {
+          "sign": "131cc0bcaa4c7e0c515c556048e503c06d459f6dc8b5b574af30c1e317781e9e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tilastokeskus: Konkurssihakemukset 2000-luvun ennätyksessä – 4 092 yritystä 12 kuukaudessa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-18T14:50:03Z",
+      "urls": [
+        {
+          "sign": "142fefd293248c572bcebaef8984461ddba2594c39ac129e9e68f7c368c325a6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjän ulkoministeri Lavrov syyttää Ranskaa suorasta osallistumisesta Ukrainan sotaan",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-18T17:00:00+02:00",
+      "urls": [
+        {
+          "sign": "fae50c8f975f580b4b2865f228e544137c420c1ac1031235f728a4c437c1ee2b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T14:50:13Z",
+      "urls": [
+        {
+          "sign": "d5c3a583408dbba9ae031fce428986c4f3420dec8f30e0912969802b5d6554d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "ICE pidätti entisen maailmanmestarin Jorge Linaresin Texasin El Paso -lentokentällä – oleskelulupa kyseenalaistettu",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
