@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T03:25:00Z",
+  "updated": "2026-11-19T03:31:49Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -1603,21 +1603,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T15:45:50Z",
-      "urls": [
-        {
-          "sign": "be501d978df2603e8ee51212eed30b7092cde950fdf8c4f42c391d3d13040bc0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "'Ylen meteorologi: Sää kylmenee, lumisateet heikentävät ajokeliä – Etelä-Suomeen lunta saattaa tulla viikonloppuna'",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-16T16:17:25Z",
@@ -6005,21 +5990,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-17T18:52:59Z",
-      "urls": [
-        {
-          "sign": "8816e5e23ab9aef00b104671dcb6c5f62437899c0305651fba062e3a148f690f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara putosi CHL:stä – kotiottelu Mannheimia vastaan 2–2, ottelupari 6–4",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T18:45:00Z",
@@ -13442,6 +13412,38 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-19T03:31:49Z",
+      "urls": [
+        {
+          "sign": "5b36b8c9bf2e7df84aca3376efb88d2c208e89415d31e3bc1567b9d48e48728c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä-tutkija Giles: Suurvallat riskivät jakamaan vaikutusalueet – Euroopan on rakentava kyvykkäiden koalitio, Suomi malliesimerkki",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T03:30:35Z",
+      "urls": [
+        {
+          "sign": "6ab0c875f9b3d621cb57255316fba88ea243e590276ed9cac53076373ed762b9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Brittiläinen Venäjä-tutkija Giles: Yhdysvallat toteuttaa Kremlinin pitkäaikaiset tavoitteet, Euroopan vastarinta riittämätön",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
