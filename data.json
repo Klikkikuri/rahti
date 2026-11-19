@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T02:09:32Z",
+  "updated": "2026-11-19T02:40:27Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -3771,7 +3771,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-18T23:49:15Z",
+      "updated": "2026-11-19T02:40:27Z",
       "urls": [
         {
           "sign": "cf081cf9de0b6ff5637b4e17e91715250cb1ebc956ec823e75fbda968cf4ed37",
@@ -6018,21 +6018,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-17T18:37:51Z",
-      "urls": [
-        {
-          "sign": "2f46aedcea942592eb22f9ceafe6bb59f1655a62b607f58e8578a35d927fe217",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Poliisi lopetti ilveksenpennun Savonlinnassa – villieläinhoitaja Lautamäki kritisoi päätöstä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T18:38:06Z",
@@ -10195,7 +10180,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-18T22:11:00+02:00",
+      "updated": "2026-11-19T04:40:00+02:00",
       "urls": [
         {
           "sign": "46774b74f81b2a64899086febc12552c1aa4cc6de003ff4287ef4b1aed804944",
@@ -10204,8 +10189,8 @@
           ]
         }
       ],
-      "title": "GTA VI julkaistiin Uudessa-Seelannissa – ensiarviot ylistävät peliä, PSN-häiriöt korjattu ennen Suomen-julkaisua",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "GTA VI julkaistiin Suomessa keskiyöllä – ensiarviot ylistävät peliä historialliseksi, PSN-häiriöt korjattu",
+      "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13439,6 +13424,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-19T02:30:45Z",
+      "urls": [
+        {
+          "sign": "6e899ea64caea64db5af1837757bf7e800c8531086574020716cd62b0f9bdea1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiinan Xi, Yhdysvallat Trump ja Venäjä Putin tapaavat kolmenvälisesti Shenzhenissä – asiallista ajandaa puuttuu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
