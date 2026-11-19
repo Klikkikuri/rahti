@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T02:05:00+02:00",
+  "updated": "2026-11-19T00:40:50Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -1321,21 +1321,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-16T14:56:41Z",
-      "urls": [
-        {
-          "sign": "77b3b24535a1607a197bd0f114df1acca75e7217d9f69867fbd7dea825f7f23f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keski-Suomen käräjäoikeus tuomitsi Boweconin toimitusjohtajan ehdolliseen vankeuteen yrityssalaisuuksien vuoksi",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-16T15:40:37Z",
       "urls": [
         {
@@ -1361,21 +1346,6 @@
         }
       ],
       "title": "Kaksi turkulaista kirjailijaa ehdolla vuoden 2026 kaunokirjallisuuden Finlandiaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-16T15:14:10Z",
-      "urls": [
-        {
-          "sign": "93e1b8ec1e1af084bd1f90a1fcdb1869cee76b176186e2e8778422bbc146c0dc",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU-johtajat sopivat ryhmäedustuksesta Ukrainan rauhanneuvotteluihin – analyysi: yksi neuvottelija ei vastaisi Euroopan rakenteita",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
@@ -13435,6 +13405,40 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-18T23:33:59Z",
+      "urls": [
+        {
+          "sign": "21fed24fc925196f5d5efc9763facf3943e7cf4ea6deccaa2f7734d7a876f133",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Itä-Uudenmaan hyvinvointialue hyväksyi pelastuspalvelutason vuoteen 2030 – pelastusjohtaja varoittaa lisäsäästöjen vaarantavan ydinvoimalan ja öljysataman erityisvalmiuden",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-19T00:40:50Z",
+      "urls": [
+        {
+          "sign": "7bd0b4dca8fefecf017b001f3c778a494414c0082ed1928b4b81cbc881b59b6a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoälyyhtiö Anthropic keräsi 81,3 miljardia dollaria IPO:ssa – historian suurin pörssilistautuminen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
