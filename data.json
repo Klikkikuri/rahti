@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T09:28:49Z",
+  "updated": "2026-11-19T11:45:00+02:00",
   "entries": [
     {
       "updated": "2026-10-29T10:54:42Z",
@@ -733,23 +733,6 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-16T16:01:00+02:00",
-      "urls": [
-        {
-          "sign": "862887ada11b1b96de9deea51b17c7a2a9c3641c3f6704ef87a5f3bd3d496a80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-16T19:35:00+02:00",
       "urls": [
         {
@@ -761,21 +744,6 @@
       ],
       "title": "Ukraina iski maanantain vastaisena yönä Krimin siltaan osana laajaa droonihyökkäystä Venäjälle",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T16:15:00+02:00",
-      "urls": [
-        {
-          "sign": "16828eef777552f0f95fb5603b573641ece2c69a500a187595f50e982afb22ff",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ammattiliitto Pro vaatii työllisyystavoitteen rinnalle tavoitteen työssä pysymisestä",
-      "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -951,23 +919,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T17:26:31Z",
-      "urls": [
-        {
-          "sign": "f8d94d500240c8dc4d8058f21e9b466bca71475bb1546ba2b2bd7b4d6b2daadb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Timo Partonen: Kaamosmasennus ja kaamosväsymys eroavat oireiltaan ja hoidoiltaan",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-16T16:59:44Z",
@@ -1722,36 +1673,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-17T05:04:28Z",
-      "urls": [
-        {
-          "sign": "160e4a3765d39c1d34cc64cc7fbaaca8bd2d4319e1846020864c499c9541aaab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiinteistöliitto: vain puolet taloyhtiöistä on aloittanut riskiparvekkeiden tarkastukset",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-17T04:34:30Z",
-      "urls": [
-        {
-          "sign": "960e3e10050f79033f050a4c968e4765ca0b69537ee0ff62e80807093b7fd784",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sähkön pörssihinta nousee tiistaina aamupäivällä yli 34 senttiin kilowattitunnin hinnalla",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-17T06:30:00+02:00",
       "urls": [
         {
@@ -1767,21 +1688,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T05:00:35Z",
-      "urls": [
-        {
-          "sign": "e6fbc12e6c13a7fcdd2a74ae6839ac0ec5cfcd179c2ca282b91d4be4d4622ed6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Uudet lihavuuden hoitosuositukset rajoittavat chat-lääkäreiden määräämistä ja keventävät lihavuusleikkauksen kriteereitä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-17T16:26:00+02:00",
@@ -13437,6 +13343,102 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T09:34:33Z",
+      "urls": [
+        {
+          "sign": "b54b738e7b3c05aeb85ecac8a0595cd2cd116e4724d36ebcbaae05d729fcaaf7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoälyyhtiö Anthropic listautui Nasdaqiin – listautumishinta 83 dollari, historian suurin listautumisanti 81 miljardia dollaria",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-19T11:38:00+02:00",
+      "urls": [
+        {
+          "sign": "49208180fd321d1ad4ae98dd808dbb758fe2356505599170a7f1b4a75821be79",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Espanja myöntää sairausloman vakavista vaihdevuosioireista – ensimmäinen Euroopassa, laki voimaan joulukuussa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-19T09:36:33Z",
+      "urls": [
+        {
+          "sign": "574c68750bfba5b208797335e14b9503c997a89e9b4b8e53986f65e956fbfb66",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HJK hankki Gnistanin keskikenttäpelaajan Gabriel Europaeuksen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-19T09:34:37Z",
+      "urls": [
+        {
+          "sign": "2b575fde71a7721504e991fbdbb6c6718ed7b379c9d130cc5a3bf73f318d52b7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vocational student works 18 months without pay at Vantaa library; ministry calls duration 'a long time'",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-19T11:45:00+02:00",
+      "urls": [
+        {
+          "sign": "d25eb837849df86012f63539ef995a1019712136ee115f9d8fdbd372744f9238",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tutkija: Työpaikat mittavat yksilösuorituksia, vaikka tärkein työ on yhteisön kannattelu",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-19T09:34:10Z",
+      "urls": [
+        {
+          "sign": "2b43f3c42659d5895eb221d566241cb192393eedeabdbe36bd43da7018fc3c28",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Valterin ohjauskäynnit päiväkoteissa lisääntyneet – asiantuntijat: lasten käytöksellä reagoiminen vaatii aikuisten muutosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
