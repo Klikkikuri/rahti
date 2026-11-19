@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T05:15:03Z",
+  "updated": "2026-11-19T05:29:38Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -5889,21 +5889,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-17T19:44:10Z",
-      "urls": [
-        {
-          "sign": "0fad5aeee0386e7fadcbd6869e3f8593c8f9334beed32d053b3438c8f7c7e7f0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ursa: Leonidien meteoriparvi huipentuu keskiviikkona – parhaat havaintoaikat aamuyöllä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T21:51:00+02:00",
@@ -12878,7 +12863,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-19T05:13:09Z",
+      "updated": "2026-11-19T05:24:53Z",
       "urls": [
         {
           "sign": "6e899ea64caea64db5af1837757bf7e800c8531086574020716cd62b0f9bdea1",
@@ -12887,8 +12872,8 @@
           ]
         }
       ],
-      "title": "Trump, Putin ja Xi tapaavat ensimmäistä kertaa kolmenvälisesti APEC-huippukokouksessa Shenzhenissä",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Trump, Putin ja Xi tapaavat ensimmäisen kerran kolmenvälisesti APEC-huippukokouksessa Shenzhenissä",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13093,7 +13078,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-19T07:13:00+02:00",
+      "updated": "2026-11-19T07:28:00+02:00",
       "urls": [
         {
           "sign": "5ff76190fe53815d58f6cac577fca2391332d3ae6bec66e331342ed85e5e5556",
@@ -13102,8 +13087,8 @@
           ]
         }
       ],
-      "title": "Trump, Putin ja Xi tapaavat ensimmäistä kertaa kolmenvälisesti APEC-huippukokouksessa Shenzhenissä",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Trump, Xi ja Putin tapaavat ensimmäistä kertaa kolmenvälisesti APEC-huippukokouksessa Shenzhenissä",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13364,7 +13349,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-19T04:50:47Z",
+      "updated": "2026-11-19T05:25:53Z",
       "urls": [
         {
           "sign": "e0ffe00593a0bd39a584f926649da05f8719f03c19a015ae98ecb905375fe133",
@@ -13373,9 +13358,11 @@
           ]
         }
       ],
-      "title": "Yhdysvaltain presidentti Trump ja Venäjän presidentti Putin tapasivat lyhyesti Apec-kokouksessa Shenzhenissä",
+      "title": "Yhdysvaltain presidentti Trump ja Venäjän presidentti Putin tapasivat Apec-kokouksessa Shenzhenissä",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13455,6 +13442,21 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T05:29:38Z",
+      "urls": [
+        {
+          "sign": "68db1254d8f108f6db93b1cf26d67df9c84124f6cf56ad2c9927e0bf0f3e33f9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "29 kuntaa nostaa tuloveroa vuodelle 2027, 11 laskee – keskimääräinen kunnallisvero 7,59 %",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
