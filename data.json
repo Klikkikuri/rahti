@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T05:00:19Z",
+  "updated": "2026-11-19T05:15:03Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -969,21 +969,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T13:47:45Z",
-      "urls": [
-        {
-          "sign": "09b1f009515748b0a097b9317b93b172024d0f7900b4d3fc1dcca3f3e0d9432c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääministeri Orpo kieltää viralliset keskustelut Garden Helsinki -hankkeesta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5891,21 +5876,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-17T19:41:54Z",
-      "urls": [
-        {
-          "sign": "177437560deb9709d324c3908d11db44694527317783496de2900e5784a7af58",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pääkirjoitus: Stubb arvioi Yhdysvallat kallistuvan Yalta-suuntaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-17T19:45:47Z",
       "urls": [
         {
@@ -5919,38 +5889,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-17T19:32:30Z",
-      "urls": [
-        {
-          "sign": "2618764877e73898280aa293785429766eaec4bdfbf5128626dd84480335445a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Perussuomalaisten kansanedustajat vaativat Lahden homodiskon perumista – ikäraja 13–29 vuotta vastuuton, arvioi Antikainen ja Aittakumpu",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-17T19:34:32Z",
-      "urls": [
-        {
-          "sign": "c00ac62049b732aed919c50917ab1b20443e2b6a56f70cfaa6b4fbec80c602f5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trumpin avustaja Natalie Harp voi saada kieltopostata Truth Socialissa – tuomioistuin käsittelee kanteen torstaina",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T19:44:10Z",
@@ -12940,7 +12878,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-19T04:54:15Z",
+      "updated": "2026-11-19T05:13:09Z",
       "urls": [
         {
           "sign": "6e899ea64caea64db5af1837757bf7e800c8531086574020716cd62b0f9bdea1",
@@ -13155,7 +13093,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-19T06:45:00+02:00",
+      "updated": "2026-11-19T07:13:00+02:00",
       "urls": [
         {
           "sign": "5ff76190fe53815d58f6cac577fca2391332d3ae6bec66e331342ed85e5e5556",
@@ -13165,7 +13103,7 @@
         }
       ],
       "title": "Trump, Putin ja Xi tapaavat ensimmäistä kertaa kolmenvälisesti APEC-huippukokouksessa Shenzhenissä",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13453,6 +13391,70 @@
       "title": "Mies sairastui myyräkuumeeseen mökin peräkärryn tyhjennyksessä – munuaisvaurio vaati sairaalahoidon, toipuminen viikkoja",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T05:10:54Z",
+      "urls": [
+        {
+          "sign": "9e9f809a150dbf4f176cc7ed2107265dae0ac315a9a096323c57f948c5ac43cd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NHL: Canadiens voitti Devilsin 3–2 – Oliver Kapanen syötti voittomaalin",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-19T05:15:03Z",
+      "urls": [
+        {
+          "sign": "8877d00fd773abf5d14bd7c870c435772567bcabbbc3518c4ef3d2d335168db7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Thomas Marklea vastaan kolme syytettä Filippiineillä lasten seksuaalisesta hyväksikäyttömateriaalista",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T05:01:57Z",
+      "urls": [
+        {
+          "sign": "879cf445def551d5c442c8ac710a0d7fc5d86982d3e21cbdaf49f7062036536c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Top Games Oy asetettu selvitystilaan – Espoon tennistuen omistama yhtiö",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T05:03:34Z",
+      "urls": [
+        {
+          "sign": "6d878e349aac583a93f2aed770adcdbcc6ef45d9659ff61346153aa7421c7cb4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
