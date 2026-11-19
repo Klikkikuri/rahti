@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T12:14:49Z",
+  "updated": "2026-11-19T14:30:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -500,7 +500,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-18T12:05:18Z",
+      "updated": "2026-11-19T12:15:54Z",
       "urls": [
         {
           "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
@@ -509,7 +509,7 @@
           ]
         }
       ],
-      "title": "Iltalehti julkaisee pörssisähkön varttihinnat päivittäin – graafi näyttää seuraavan päivän hinnat",
+      "title": "Iltalehti julkaisee pörssisähkön varttihinnat päivittäin – graafi näyttää 48 tunnin hinnat",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -793,40 +793,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-11-16T19:00:00+02:00",
-      "urls": [
-        {
-          "sign": "513969353b53b263c41ddb34d19b0da0d148e3ab3632bcc40774ef280df1b34d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T19:15:00+02:00",
-      "urls": [
-        {
-          "sign": "f78b72386d70e59fb9c414c6eaf8d9d3c25eb28cd61351f5e5588257402003d4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Matti Hirvola: Hallitusohjelman tulee keskittyä tavoitteisiin, jotta Suomi pystyy reagoimaan nopeasti muuttuvaan toimintaympäristöön",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-16T17:55:46Z",
@@ -1160,21 +1126,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T04:07:16Z",
-      "urls": [
-        {
-          "sign": "a13b10795ee9f584f5c27f0dfbf936489697fe18cd46589bcce0157fe527403c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "United Airlinesin järjestelmähäiriö viivästytti lentoja Yhdysvalloissa",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-17T10:57:24Z",
@@ -1996,21 +1947,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T09:51:19Z",
-      "urls": [
-        {
-          "sign": "9270bf071221d1fcde4b151da55122e7f0fedea2336b9c18fd87fc25dacc92e3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies ajoi pakettiauton Lapin keskussairaalan pääovien läpi – sairaalaan rakennetaan turva-esteet",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-17T10:54:54Z",
@@ -5038,23 +4974,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-18T09:21:25Z",
-      "urls": [
-        {
-          "sign": "4d1ea6f8f2a8823ed6f1493762fee3a97837e9ff2463cd805a14dbcc0c6754bf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus keskeytti Halla-ahon kunnianloukkausasian – puhemies ei saanut kutsua virheestä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-18T09:07:00+02:00",
       "urls": [
         {
@@ -5715,21 +5634,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-18T09:28:00Z",
-      "urls": [
-        {
-          "sign": "b82fe80725f6b7b05b1849df1654445974436192ae7bfbeaca1d92cd15d74126",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kela muistuttaa: tarkista vuoden 2026 verokortin tuloraja – ylitys nostaa tuen veroprosentin",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-18T08:58:49Z",
       "urls": [
         {
@@ -5792,40 +5696,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-18T09:10:23Z",
-      "urls": [
-        {
-          "sign": "caa6022804c1f6760adeb5a7930ed614b0777c943f6e1d776066e37e5eb5ad06",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "DJ-duo Bratzin Länsivuori ja Tuomola: Naisten DJ:ina kohdimme syrjinnästä ja epäasiallisuutta miehistä vallitussa yöelämässä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-18T09:09:09Z",
-      "urls": [
-        {
-          "sign": "63cade8ba1e3a36a0fd4d8ebc7a1d5ace478db1bb380d16fc132273e70b20566",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeriö vahvistaa: vanhoissa Doro-puhelimissa vakavia häiriöitä FI-Alert-testissä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-18T09:28:59Z",
       "urls": [
         {
@@ -5856,23 +5726,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-18T09:15:12Z",
-      "urls": [
-        {
-          "sign": "994a7b0a5feb53e38616b21fe4d69f801417871129f31d56663c0a458efe24db",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Moukarinheittäjä Pinja Kärhä, 19, harjoittelee menestyksekäästi Texasin yliopistossa – valmentaa Saatara, kaverina olympiavoittaja Rogers, täysi urheilustipendi katkaa kulut",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T11:07:00+02:00",
@@ -13371,7 +13224,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-19T11:54:22Z",
+      "updated": "2026-11-19T12:16:07Z",
       "urls": [
         {
           "sign": "1ecc8d5da249655db7290942085d53ebbcd9102d430e5843905e1eadd110cdb6",
@@ -13380,7 +13233,7 @@
           ]
         }
       ],
-      "title": "Vihreiden vaihtoehtobudjetti nostaa veroja 2,9 miljardilla ja peruu hallituksen leikkaukset",
+      "title": "Vihreät ehdottaa 2,9 miljardin veronkorotuksia ja hallituksen leikkausten perumista vaihtoehtobudjetissa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13445,6 +13298,153 @@
         }
       ],
       "title": "Tekoälyyrittäjä Peter Sarlin ja puoliso hakivat avioeron lokakuussa – avioehto suojaa yhtiöomaisuuden",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T14:22:00+02:00",
+      "urls": [
+        {
+          "sign": "75a441b89d435443611114e463534da1a415a959e928e0d2dfdefe433f317212",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-19T12:28:39Z",
+      "urls": [
+        {
+          "sign": "21476be695ac5881d57abc5a3600246c08cf27b626a77c7d16bdc7a37d9e43d1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Martina Aitolehti ja Hajji Muhis julkistavat parisuhteensa ja yhteisen YouTube-sarjan Fight4Love",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T12:18:35Z",
+      "urls": [
+        {
+          "sign": "eb6e0bcd79d99899aea638fd086acd52574cd628b7d11d395cc0e0a47d7d30d9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putin, Xi ja Trump Shenzhenissä: yhteislausuma YK-uudistuksesta, öljytuotannosta, suvereniteetista ja ydinasioista",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-19T12:26:06Z",
+      "urls": [
+        {
+          "sign": "0013d43bbf029933a514f23d084ff02b55ebd99257fd62186a4b17fd41e2e4a3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Presidentti Stubb Berliinissä halukkaiden koalition kokouksessa – 35 maata suunnittelee Ukrainan tukea ja rauhan edistämistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T12:18:00Z",
+      "urls": [
+        {
+          "sign": "8e5c620f982a50a9c39d630c9bd0a382c4911aa4a3491a92036e4d6638ed465c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viking Linen risteilyvieraat valitsivat uutena valkoviinisuosikkinsa itävaltalaisen Grüner Veltlinerin",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T12:15:48Z",
+      "urls": [
+        {
+          "sign": "74b2f19ffc61ffbb6c5f770a9dc2bd9929145b0dbde88af25d3ddddebfca2776",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T14:30:00+02:00",
+      "urls": [
+        {
+          "sign": "b3481248e29817e32b445f182dc1ab77b0b3d24ab695fea083f371a18b7ef839",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomen Voimanostoliitto haki viestintävastaavaa 330 eurolla kuussa laajoihin tehtäviin – kritiikin jälkeen haun perumista harkitaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-19T12:16:50Z",
+      "urls": [
+        {
+          "sign": "1c31f825e9c32f20d00c09ea8d5f7e848358ff3d31d0394323f1f003a70c9e84",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "KKO korjasi hovioikeuden laskennallisen virheen – taposta tuomittu Kärkkäinen sai vuoden lyhyemmän vankeusrangaistuksen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-19T12:25:38Z",
+      "urls": [
+        {
+          "sign": "ff729b486354abe5cd6f2866be3c16c547f5205a3fbab785c24b7b8bc79c9d0a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääministeri Orpo tuomitsi Tynkkysen rasistiset kommentit Razmyaria kohtaan – oikeusministeri Meri jakoi niitä",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
