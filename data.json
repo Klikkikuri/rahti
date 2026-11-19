@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T02:50:15Z",
+  "updated": "2026-11-19T03:11:25Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -5988,21 +5988,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T18:43:11Z",
-      "urls": [
-        {
-          "sign": "327135384b6f6764c8a4b9474c6a13912c0cdc5be1c283590cb1fa0439068728",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "THL ja Syöpäjärjestöt luettelevat syövän yleiset oireet – selittämätön muutos kehossa vaatii lääkärintarkastuksen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T18:37:05Z",
@@ -13438,6 +13423,23 @@
       "title": "Espanjalainen tuomari käynnistää tutkinnan Julio Iglesiasia, 83, vastaan seksuaalisesta väkivallasta",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T03:11:25Z",
+      "urls": [
+        {
+          "sign": "e71ac1560d252be7cbf0605774616d076c429b7d64597fc20a0837d705cbf9fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Grand Theft Auto VI julkaistiin torstaina – ennätykselliset ennakkomyyntiluvut ja 99/100-arvosana Metacriticissa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
