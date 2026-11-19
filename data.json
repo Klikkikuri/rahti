@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T04:45:11Z",
+  "updated": "2026-11-19T05:00:19Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -984,40 +984,6 @@
       "title": "Pääministeri Orpo kieltää viralliset keskustelut Garden Helsinki -hankkeesta",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T13:46:26Z",
-      "urls": [
-        {
-          "sign": "b1ce0f8d36f4fb20559f55ae77701ca8aeefa37eb5151927665fffcd40b002dd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lounais-Suomen poliisi pidätti neljä miestä useista asuntomurroista",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T13:28:38Z",
-      "urls": [
-        {
-          "sign": "6f65d21c0d8bb7cdfc7376734db606e8a3bd66b21ec29069cde0baf641109e92",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruokavirasto epäilee reovirusta valkoposkihanhien kuolemien aiheuttajaksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5908,23 +5874,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T19:29:41Z",
-      "urls": [
-        {
-          "sign": "0eec9a49e87d32d26a3f20bf0fbdf1036faf5b51ba706e1e282c5844d7a369d1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-17T19:44:31Z",
@@ -12991,7 +12940,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-19T04:45:11Z",
+      "updated": "2026-11-19T04:54:15Z",
       "urls": [
         {
           "sign": "6e899ea64caea64db5af1837757bf7e800c8531086574020716cd62b0f9bdea1",
@@ -13000,9 +12949,11 @@
           ]
         }
       ],
-      "title": "Trump, Putin ja Xi tapaavat kolmenvälisesti APEC-huippukokouksessa Shenzhenissä – asiallinen ajanda puuttuu",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
+      "title": "Trump, Putin ja Xi tapaavat ensimmäistä kertaa kolmenvälisesti APEC-huippukokouksessa Shenzhenissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13453,6 +13404,53 @@
         }
       ],
       "title": "Oulun poliisi varoittaa vaarallisista ajokelistä Pohjois-Pohjanmaalla ja Kainuussa – useita onnettomuuksia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T04:50:00Z",
+      "urls": [
+        {
+          "sign": "c91ebb0c7594b8749c7768237ca7f17e4e69c77306253ee3902d6b14591f68d5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "GTA VI julkaistaan Suomessa – pelitutkijat: nuoret erottavat pelin ja todellisuuden, vaikeuksien taustalla muuta kuin peli",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-19T04:50:47Z",
+      "urls": [
+        {
+          "sign": "e0ffe00593a0bd39a584f926649da05f8719f03c19a015ae98ecb905375fe133",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain presidentti Trump ja Venäjän presidentti Putin tapasivat lyhyesti Apec-kokouksessa Shenzhenissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-19T05:00:19Z",
+      "urls": [
+        {
+          "sign": "e04daedb3f096fab6ce23feb5b528eae31ef6e1e4443c06a03fc3238c9f7f7f4",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mies sairastui myyräkuumeeseen mökin peräkärryn tyhjennyksessä – munuaisvaurio vaati sairaalahoidon, toipuminen viikkoja",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
