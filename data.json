@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T03:11:25Z",
+  "updated": "2026-11-19T03:25:00Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -1464,21 +1464,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-16T15:42:52Z",
-      "urls": [
-        {
-          "sign": "aca65762377f9811be8bda0d9c25103851b5cbcd5dcf1ad7f617290db3bda1a5",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Viron rajasulku vaikeuttaa suomenvenäläisten matkustamista Venäjälle",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-16T14:34:38Z",
@@ -13441,6 +13426,23 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T03:25:00Z",
+      "urls": [
+        {
+          "sign": "daab2a15fb14b9e12d4aeba7000448aee78a9c70ff3e3118184d2191b19d9e51",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uusi matalapaine tuo sade- ja lumisadeita torstaina – perjantaina sadealue etenee pohjoiseen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
