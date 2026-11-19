@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-19T01:26:11Z",
+  "updated": "2026-11-19T02:09:32Z",
   "entries": [
     {
       "updated": "2026-10-29T07:17:16Z",
@@ -1319,21 +1319,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-16T15:40:37Z",
-      "urls": [
-        {
-          "sign": "28d003516770e3ace826b3a579c54c19599e3a8344056c607385c50853ed4b80",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Robert Pattinsonista tulee uusi James Bond",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-16T16:40:00+02:00",
@@ -13439,6 +13424,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-19T02:09:32Z",
+      "urls": [
+        {
+          "sign": "b420153197e932a8650bd56dc45fb919967ac3ac87ca9d35776e7d2b20978e1a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump, Putin ja Xi neuvottelevat kolmenvälisesti APEC-kokouksessa Shenzhenissä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
