@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T04:33:06Z",
+  "updated": "2026-11-20T07:00:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -843,21 +843,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-17T14:10:00+02:00",
-      "urls": [
-        {
-          "sign": "4c7d90e5d8f0ef013d9b1df0a3b8b9d75d30cf75d5c22a372abf85e867fc0cc0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin Koskelan leikkipaikka on ilman valaistusta – kaupunki luvaa parannuksen 3–5 vuoden kuluttua",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-17T13:14:05Z",
       "urls": [
         {
@@ -924,23 +909,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T13:04:00Z",
-      "urls": [
-        {
-          "sign": "0988b45a72b4f82c6b45dee632df20e1b5489b885b9af8d4f119d2b8c5bdb10a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bachelor Suomi alkaa tiistaina – Arttu Kilpeläinen kohtaa naiset, Ella K. jättää vahvan vaikutelman",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-17T13:31:26Z",
@@ -5354,21 +5322,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T17:28:44Z",
-      "urls": [
-        {
-          "sign": "fa3dceb81da5af020317248c9fc68c5ba73bbab30c401e4ff51aafb4175d0d68",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sukeltajat löysivät harvinaisen BMW Alpina B6 2.8 E21:n louhosjärvestä Pfüllendorfin kadonneen etsinnässä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T17:22:22Z",
@@ -13452,6 +13405,55 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T04:48:33Z",
+      "urls": [
+        {
+          "sign": "53fbbc190e2725570c2ee48343986acc1b3219796061bad078e40e91381c66d0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sabres voitti Capitalsit 6–3, Maple Leafs hävitti kahdeksannen peräkkäisen – Haula ja Armia avainroolissa Kingsin voitossa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T04:50:00Z",
+      "urls": [
+        {
+          "sign": "6b6fdc269f8bdca7257e97470a93475dde2997f25048de31ae161329be2aa6e9",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Arvio: Nathan Fielderin ja Lance Oppenheimin You Can See Everything rikoo dokumentin konventioita Elizabeth Holmes -tarinassa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-20T07:00:00+02:00",
+      "urls": [
+        {
+          "sign": "b5c30e5b1d012ad94cc02ed5fb81adbea9c768f620b6765515907f2d82509a01",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
