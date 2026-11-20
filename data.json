@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T16:29:27Z",
+  "updated": "2026-11-20T16:45:00Z",
   "entries": [
     {
       "updated": "2026-10-30T17:54:51Z",
@@ -785,23 +785,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T02:00:00+02:00",
-      "urls": [
-        {
-          "sign": "ff2af653cca5a3d78a537432cd8639dcdb9b9c6921e15cd33be3af5dac907391",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-18T02:53:00+02:00",
       "urls": [
         {
@@ -896,21 +879,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T05:04:23Z",
-      "urls": [
-        {
-          "sign": "cb4337459a3c26ea1c1bc13b06691a3369cd93ccda7fa1572e9bb46bc96b01a3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anaheimin Gauthier ensimmäisenä NHL:ssä: neljä hattutemppua yhdessä kuukaudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-18T07:25:00+02:00",
       "urls": [
         {
@@ -924,24 +892,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T05:45:00Z",
-      "urls": [
-        {
-          "sign": "83c176ab226357a4fd6bcb89681433dde307a4216e8323209e10c35720d163fb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hallitus jättää esteettisten pistoshoitojen lainsäädännön selvittämättä tällä kaudella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-18T07:54:00+02:00",
@@ -989,23 +939,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T06:12:00Z",
-      "urls": [
-        {
-          "sign": "e56b5cab2770f730e83da98cf909a3ab80893083ad3f0b864c46a921be6c951b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Syksyn silakkasesonki: kolme perinnöllistä reseptiä – pihvit, laatikko, sinappisilakat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-18T08:30:00+02:00",
@@ -2241,36 +2174,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T15:50:06Z",
-      "urls": [
-        {
-          "sign": "91636f1d827eef8320ca2df071edde14062ce281ddabd4f17842f1e7669fae75",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eduskunta asetti rajat lyhytvuokraukselle: enintään 90 vuorokautta vuodessa, kunnat voivat pidentää 180:een",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-18T15:54:38Z",
-      "urls": [
-        {
-          "sign": "1d75f59df9f9b0fed734a010a9c7959f735de186cc773d0f6ccb88bfeadbf3b2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Satakuntalainen yritysvaikuttaja tuomittiin tuottamuksellisesta rahanpesusta – siirsi kryptohuijareiden rahaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-18T18:14:00+02:00",
@@ -4993,21 +4896,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T11:13:03Z",
-      "urls": [
-        {
-          "sign": "f2e6b0fd1dd2c0476651581d1793a4de533c62e17240775443ac3ecb916e1c0c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "S-ryhmä: Valmisruoan ja proteiinituotteiden myynti kasvaa vahvasti 2020-luvulla – ruisleipän, naudanlihan ja suklaan myynti laskee",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T11:15:08Z",
@@ -9027,7 +8915,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-20T12:59:13Z",
+      "updated": "2026-11-20T16:31:14Z",
       "urls": [
         {
           "sign": "cfb58083dfcbfec645a63035fa81b69c0b89390398c6184f353f86bbdfa6bcac",
@@ -9036,7 +8924,7 @@
           ]
         }
       ],
-      "title": "Venäjä iski massiivisesti yli 110 ohjusta ja 400 lennokkia Ukrainaan – vähintään 8 kuollutta Kiovassa ja muualla",
+      "title": "Venäjä iski massiivisesti yli 110 ohjusta ja 400 dronilla Ukrainaan – vähintään 8 kuollutta Kiovassa ja muualla",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -12541,7 +12429,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-20T16:39:00+02:00",
+      "updated": "2026-11-20T18:33:00+02:00",
       "urls": [
         {
           "sign": "76df90565bf07ccdd586ddc19a0aaf68f49cadee2a03d45ee02d22f1c775c752",
@@ -13325,7 +13213,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-20T16:03:36Z",
+      "updated": "2026-11-20T16:39:51Z",
       "urls": [
         {
           "sign": "841c0dc08078b753743c1035e17ec3dc1daa1478c0a84044b6e2f1ef3de9ae1c",
@@ -13334,11 +13222,9 @@
           ]
         }
       ],
-      "title": "Tanskan tiedustelupalvelu: Venäjän FSB suunnitteli räppäri Kyvystonerin salamurhan – viranomaiset estivät yrityksen",
+      "title": "Tanskan tiedustelupalvelu: Venäjän FSB suunnitteli räppäri Kyivstonerin salamurhan – viranomaiset estivät yrityksen",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
+      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13483,6 +13369,113 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T16:34:23Z",
+      "urls": [
+        {
+          "sign": "f39fe526e83b20e0155098301393cda8db7611026f9ae3cc97388ddc13ea0d45",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nathan Fielder ja Lance Oppenheim ohjaavat Elizabeth Holmes -dokumentin You Can See Everything – ensi-illassa 20.11.",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T16:35:00Z",
+      "urls": [
+        {
+          "sign": "711d2785a324e2fc65c031a7d1828dda116a4c9d44b5a1e7cb08bc4a350636cc",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin prinsessa Estelle harjoitteli TET-viikon presidentin kansliassa ja suurlähetystössä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-20T16:45:00Z",
+      "urls": [
+        {
+          "sign": "b2bbef070ad198ca713014f68a41a01ddcb8ec1d331de12d46fd434d7ae0ba93",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Keskustan Kaikkonen: Puolue sopeuttaisi eläkkeistä miljardin ensi vaalikaudella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-20T18:45:00+02:00",
+      "urls": [
+        {
+          "sign": "1bfdaa727981999fa7fbddcb04800fe3598659eb034c78f0afdd1b078ae324da",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mielipide: Carolina Backman – Euroopan vertailut osoittavat: Suomessa on tilaa susille",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-20T16:41:00Z",
+      "urls": [
+        {
+          "sign": "3f4825ce282d1cf7fef089962fcdbb8aee7e75aabb2a05e6e91a4360335223ee",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viki ja Köpi juhlivat 10-vuotista uraa loppuunmyydyllä areenakeikalla Helsingissä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T16:34:52Z",
+      "urls": [
+        {
+          "sign": "e860eeaf20d900fd49afb71c68430c73bccbf872f8c938bc187b1ff5edf69c96",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "TUI:n Phuket-lento myöhässä ja Pattayaan – torstain tekninen vika vaatii tiimin lepoajan",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T16:18:54Z",
+      "urls": [
+        {
+          "sign": "51ada2066f4c2fb3f616dd704808832a8712eade8d256d14690cfc3e38c85665",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "TTK-finalisti Janne Saarinen kertoo kelkkaonnettomuudesta kaksi vuotta sitten: tanssi toi uuden terapiamuodon",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
