@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T03:36:00+02:00",
+  "updated": "2026-11-20T03:52:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -826,23 +826,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-17T13:32:00+02:00",
-      "urls": [
-        {
-          "sign": "40a5a68e3c8737bfb39a9e5511a5cf0d4b9599eae8e0e03746a1aa40ae28d3a0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-17T12:30:53Z",
@@ -13460,6 +13443,23 @@
       "title": "Venäjä iski laajalla ohjushyökkäyksellä Ukrainan eri puolille perjantaiyönä",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-20T03:52:00+02:00",
+      "urls": [
+        {
+          "sign": "e101ba74ac9f2205de4766a14afd0ce79d8a696dfdbad586a5c792c35184276b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat: Trumpin hallinnon kyberturvallisuusjohtaja Sean Cairncross erotettu tehtävästään",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Helsingin Sanomat"
     }
   ]
