@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T03:07:35Z",
+  "updated": "2026-11-20T03:35:47Z",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -654,7 +654,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-19T01:11:07Z",
+      "updated": "2026-11-20T03:35:09Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -663,8 +663,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Iranin sotaa päivittyvästi: Yhdysvallat ja Israel tappoivat Khamenein helmikuussa, säiliöalukseen isku Hormuzinsalmella",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Yhdysvallat ja Israel tappoivat Iranin ylimmän johtajan Khamenein – Iran vastaa iskuilla Lähi-idässä",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -809,23 +809,6 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-17T12:21:08Z",
-      "urls": [
-        {
-          "sign": "094b8d1609bda9a1f491c06bf16ce39cdbe40e166c368919ff85f86749faf7a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina iski Kertshinsalmen siltaan, osa sillasta romahti",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-17T12:30:53Z",
@@ -1813,21 +1796,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T18:37:05Z",
-      "urls": [
-        {
-          "sign": "1a7387e9c1fc02cdac05b8f143b2824df044e454aadad15a00a983fff3b2233b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aaltola: Britannia ei palaa EU:hun – uusi räätälöity kumppanuusmalli hahmottuu Brysselin huippukokouksessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-17T18:42:03Z",
@@ -5225,21 +5193,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T16:33:18Z",
-      "urls": [
-        {
-          "sign": "4019d1d982b20f05af01cb1eb6fac1bf63d6910daa6ba1aee13c661c22093afb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kosmetiikkaketju Lyko:n tietomurto: asiakkaiden nimet ja puhelinnumerot vuotaneet, myös Suomi vaikuttuneina",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T16:30:33Z",
@@ -13461,6 +13414,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T03:30:35Z",
+      "urls": [
+        {
+          "sign": "b3bae8db23a80f17a8d106dae3367c98d69996f6dac30796dad704b0dce0534b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallitus ehdottaa asemakaavavalitusoikeuden rajoittamista asianosaisten piiriin – tavoitteena nopeampi rakentaminen",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T03:35:47Z",
+      "urls": [
+        {
+          "sign": "3bceda6f674b7883dc4bbf0fd613e525375507718241855af004b69532f87703",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vakuutusyhtiö Turva muistuttaa turvallisesta autoon esilämmittämisestä",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T03:35:35Z",
+      "urls": [
+        {
+          "sign": "cfb58083dfcbfec645a63035fa81b69c0b89390398c6184f353f86bbdfa6bcac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäjä iski massiivisella ohjushyökkäyksellä Kiovaan ja muihin ukrainalaisiin alueisiin 20. marraskuuta yöllä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
