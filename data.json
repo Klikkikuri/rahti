@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T04:58:00+02:00",
+  "updated": "2026-11-20T03:07:35Z",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -1753,21 +1753,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-17T18:25:24Z",
-      "urls": [
-        {
-          "sign": "034c5c129c853ac6e43071f69ed26ea7d2a35a8aee91225854710152a29efab0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espoon maksullinen pysäköinti epäonnistui – paikat tyhjiä, tulotavoitteet ei toteudu, poliitikot myöntävät virheen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-17T18:20:00Z",
@@ -5208,23 +5193,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T16:23:35Z",
-      "urls": [
-        {
-          "sign": "b1d7eccb18c1a75aa312403edf2041499262ddc3f2935bd23e2a94675d9a05c1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Näyttelijä Jasper Pääkkönen: Suomalaisen saunakulttuurin vienti maailmalle tarvitsee valtion tuen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T19:08:31Z",
@@ -13460,6 +13428,38 @@
       "title": "Britannian oikeus tuomitsi neljä miestä seksuaalirikoksista – aviomies huumasi vaimonsa ja kutsui verkon miehiä raiskaamaan häntä yli 10 vuoden ajan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T03:07:35Z",
+      "urls": [
+        {
+          "sign": "f61db2691d09f56f1df8e9f2d86c139545e9a3d6aa021e70c8c23604fe01bb34",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Luotonantajien on arvioitava asiakkaan maksuakyyttä osta-nyt-maksa-myöhemmin -luodoissa perjantaina alkaen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T03:01:31Z",
+      "urls": [
+        {
+          "sign": "39a44d7da573dd740c1c212fc174db756d2d0fa5d3399f70a099bbd80388a560",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kehonkieliasiantuntija analysoi Putinin, Trumpin ja Xin vallanasetelmia kolmenkeskisessä tapaamisessa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
