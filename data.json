@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T06:28:46Z",
+  "updated": "2026-11-20T08:34:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -2212,21 +2212,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T04:30:35Z",
-      "urls": [
-        {
-          "sign": "e5f4655a54e3a7056d06ba040b085ad5969d39e2a505ccb30741620348ebfa91",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskiviikkona alkaa kunnianloukkausoikeudenkäynti koomikko Iikka Kiviä ja varavaltuutettu Aino Tuomista vastaan – Halla-ahoa nimettiin fasistiksi X-palvelussa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-18T04:29:23Z",
@@ -5535,36 +5520,6 @@
         }
       ],
       "title": "Maahantulorajoitukset estävät venäläiset taitoluistelijat GP-kilpailusta Helsingissä – Rodnina: MM-kisat Tampereella uhkaantuneet",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-18T18:34:15Z",
-      "urls": [
-        {
-          "sign": "7e56f766508b93536623792e2de7abca48a28e286751b378333151e9ea7d2792",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Espoon asukas sai tuomion heitteillepanoksesta – tajuton nainen jätettiin pihalle kylmään mattoon käärittyynä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-18T18:35:27Z",
-      "urls": [
-        {
-          "sign": "a3b01889ae21f46fa63930248f28643bae1ace82c3927ac92b5a547b6d38031d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Epätyypillisesti-keskusteluohjelma käynnistyi Nelosella: Krista Kosonen haastateltavana neurokirjon piirteillä olevien toimittajien joukon toimesta – katsojat liikutuneet",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -10867,7 +10822,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-19T17:45:00+02:00",
+      "updated": "2026-11-20T08:34:00+02:00",
       "urls": [
         {
           "sign": "51bd009d66a3fac7afd5093af7f85b8097e16ad03062481c9e91ce08adfc22ee",
@@ -13451,6 +13406,53 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-20T06:33:57Z",
+      "urls": [
+        {
+          "sign": "d717c8151d0a4b518cbeb5ce3436e3c2b4df65a4cd23ae65876540409911c6ac",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "EU:n ja Britannian suhteet paranevat – huippukokouksessa neuvotellaan elintarvikekaupasta ja nuorisovaihdosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T06:32:38Z",
+      "urls": [
+        {
+          "sign": "5daf4ac0ee847a79661aab9792c6aac9163c8b8d9028b9edc799a6d4a25cb87b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nelonen uusii Epätyypillisesti-avausjakson tänään – neurokirjoiset haastattelevat kuuluisia vieraita",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T06:23:50Z",
+      "urls": [
+        {
+          "sign": "e2973b8fdf959b305c181e0d7d2807d23f105e1eeb9b907b7df270da29088bed",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hallitus ehdottaa turvallisuuslunastuksia ja elinkeinovalvontaa Ahvenanmaalle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
