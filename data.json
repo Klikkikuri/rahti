@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T07:40:46Z",
+  "updated": "2026-11-20T10:00:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -830,21 +830,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-17T17:02:00+02:00",
-      "urls": [
-        {
-          "sign": "48ae82df7101a4c7daa4bf2cce5d78fa7bd070c4e64d80345dca3cc8958b0c78",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kirja-arvio: Bidenin muistelmateoksessa Suomea mainitaan vain viisi kertaa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-17T14:25:55Z",
       "urls": [
         {
@@ -876,23 +861,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-17T16:45:00+02:00",
-      "urls": [
-        {
-          "sign": "b21a60971b6289b790cdddbc1b7e7bd2a0f729c235cd6fc1f3dec293a04376e4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen riistakeskus: susimetsästysesitys ei vaaranna kantaa, tavoitteena maltillinen pienentäminen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-17T14:30:00Z",
@@ -2239,21 +2207,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T06:10:56Z",
-      "urls": [
-        {
-          "sign": "95721b19edcc1c5683add737700bf31ba5efd4d11b25ba24de4d10196d83a03b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "17-vuotias 4H-yrittäjä Teemu Ahonen leipoo ruisleipää 120-vuotisella hapanjuurella – tuotto mopoiluun ja metallimusiikkiin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-18T09:07:00+02:00",
@@ -5213,21 +5166,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T20:11:06Z",
-      "urls": [
-        {
-          "sign": "2d37318d09cac53fb923809e65a279fa364cada35f2379f5db71e6e363a9ee3d",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen huippumalli Armalis torjui kuudennen nollapelin – Ilveksen maalivahti historiallisella vireellä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-18T18:18:59Z",
       "urls": [
         {
@@ -5506,21 +5444,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-11-18T20:17:28Z",
-      "urls": [
-        {
-          "sign": "70c8efdaec5b143986da30d2f4e6e466d9eaec868f3a5d1f5fde09b88f05c4b3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "James Blunt vaihtoi nimensä Ryan Bel Airiksi albumin Airplane Mode listaykkösen jälkeen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T20:20:40Z",
@@ -13466,6 +13389,85 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T07:47:55Z",
+      "urls": [
+        {
+          "sign": "9c483727869d82876f4240f127e534ecb7373deffa4441f6803074b88f2fe2c5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Asukas yritti lyödä hoitajaa saksilla palvelutalossa – poliisi epäilee tapon yritystä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T10:00:00+02:00",
+      "urls": [
+        {
+          "sign": "1c34265a236879b56311a83d94c0029c07ea4efec343bc5c0faf89d09d76e799",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-20T09:52:00+02:00",
+      "urls": [
+        {
+          "sign": "cab1713d40098bad843afda869e002d57e94439b70eb9c7076c826f7ec111296",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vantaalla ja Keravalla ambulanssit ehtivät kiireellisimmät häteiset 13 minuutissa – tavoite on 9 minuuttia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-20T07:58:17Z",
+      "urls": [
+        {
+          "sign": "5fa17d1962752ce92765bd434421da9f59d9151764f4de090a8b3d61855347ba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiina ja Myanmar kritisoivat ICJ:n historiallista rohingya-kansanmurhatuomiota",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T07:58:35Z",
+      "urls": [
+        {
+          "sign": "ddbd68e02eb551d3941285df028e5081fe94ab07e3f2b693770b681dd42df97b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pääkirjoitus: Sisäpuoleisesti asennettava älylukko säilyttää mekaanisen avaimen – riskillinen kokeilu helpottuu",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
