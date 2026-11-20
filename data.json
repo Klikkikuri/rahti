@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T19:11:10Z",
+  "updated": "2026-11-20T19:26:58Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -2351,21 +2351,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T18:03:37Z",
-      "urls": [
-        {
-          "sign": "d63483e593366702126bbd6682bf15dbe11a060ddc879ffb488d006b7f5542a9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mehiläinen irtisanii 55 hoitajia Länsi-Pohjan sairaalassa – hyvinvointialueen säästöt supistavat palveluita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T07:55:00+02:00",
@@ -12082,7 +12067,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-20T19:06:41Z",
+      "updated": "2026-11-20T19:26:58Z",
       "urls": [
         {
           "sign": "72c0be4ff2594297d465fbf58b1fcd0498f67bdc352ddb80b6b08a18cfbd445e",
@@ -12091,7 +12076,7 @@
           ]
         }
       ],
-      "title": "SM-liigakierros alkaa perjantaina kuudella ottelulla – Tappara viiden tappion putkessa, Ilves haastaa derbyssä",
+      "title": "SM-liigakierros alkaa perjantaina kuudella ottelulla – Tappara viiden tappion putkessa Ilveksen vieressä derbyssä",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13436,6 +13421,21 @@
       ],
       "title": "Vaihdevika pysäyttää junaliikenteen Seinäjoen ja Kokkolan välillä – Fintraffic: korjausaika tuntematon",
       "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T19:22:59Z",
+      "urls": [
+        {
+          "sign": "4ea1ad7a4f0ca4c36bfe2aa56501992463cfadd25de69ba0fd78eded2249f43e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Washington Post: Israelin oppositio epäilee Netanjahua ajavan uutta Iran-iskua vallanpitämiseksi",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     }
