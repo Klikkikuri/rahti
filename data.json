@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T06:00:03Z",
+  "updated": "2026-11-20T08:10:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -843,23 +843,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-17T15:00:00+02:00",
-      "urls": [
-        {
-          "sign": "6175cba25d100f488b2570f7571fcdd7096eb26d723bfe386785cae6ee21994f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mielipide: Eurooppa on suomalaisille monikielinen kotimies – kielitaidon laajentaminen vahvistaisi eurooppalaista yhteistyötä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-17T13:31:26Z",
@@ -5865,23 +5848,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-18T18:30:37Z",
-      "urls": [
-        {
-          "sign": "47c74717440debba61dcc86486c233db16d6b8cd8682ac10665bbe5fdf3a8f24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Joka kymmenes suomalainen tukkii korvausilmaventtiilit talvella – radon-riski kasvaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T14:43:00+02:00",
@@ -13453,6 +13419,36 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T06:05:43Z",
+      "urls": [
+        {
+          "sign": "be62b3ce63f5d4febb12d6a53c95cdb1bef8a54dbab68160a2de32bd5e2932af",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsalaiset hiihtäjät vaurioittavat hampaitaan runsaalla hiilihydraattitankkauksella",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T08:10:00+02:00",
+      "urls": [
+        {
+          "sign": "53cec2b443c6f39c713dab2caaa38377a1cb8f44d087e8a3747f48150752b332",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Britannian pääministeri Burnham Brysselissä: Tavoitteena lähempi EU-suhde, brexit ei ole toiminut",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
