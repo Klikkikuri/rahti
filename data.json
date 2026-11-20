@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T09:27:42Z",
+  "updated": "2026-11-20T11:45:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -781,23 +781,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Äks"
-    },
-    {
-      "updated": "2026-11-17T18:41:00+02:00",
-      "urls": [
-        {
-          "sign": "b7e62ce1839162365c47f5960d5479902b3efb4d4929b2fdda4437d9708a0e2b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-17T19:14:00+02:00",
@@ -2203,36 +2186,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-18T08:09:44Z",
-      "urls": [
-        {
-          "sign": "4a933e020157938fd4c8548937a954dbda761a2dd82c1e2223f1efa0e127a474",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finnish authorities call emergency alert test successful after some users miss warnings",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-18T08:23:19Z",
-      "urls": [
-        {
-          "sign": "ce1b26aa5e163ef6443b261a0f1977b15c8fe79fb366cf00b4b658f3c844aa4e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Demokraattien Mary Peltola voitti Alaskan senaatin vaalit – ensimmäinen demokraattivoitto vuodesta 2008",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-18T08:18:06Z",
       "urls": [
         {
@@ -2248,23 +2201,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T08:22:18Z",
-      "urls": [
-        {
-          "sign": "6e8dcbde326d30260f735d7a28b09d66a9c1e357f106803a546f7fa38471bfe3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "STM-virkamiehet ehdottavat ennaltaehkäisyn vahvistamista – kotihoidontuen lakkautus ja palveluiden keskittäminen mukana",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-18T08:16:35Z",
@@ -4911,23 +4847,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T21:31:03Z",
-      "urls": [
-        {
-          "sign": "1a3060860f800cdc7cd2b7ae88f34ef8e5ca8af245142327a06c1aa5c587901c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiinan huippukokous käynnistyi, Trump ja Putin tapaavat – Venäjä kysyy Alankomailta Krimin silta-iskusta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T18:42:11Z",
@@ -11728,7 +11647,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-20T11:22:00+02:00",
+      "updated": "2026-11-20T11:34:00+02:00",
       "urls": [
         {
           "sign": "d18812675f9d54310083c65ab878a3839a355471635c83b19a1477dab36db92f",
@@ -11737,7 +11656,7 @@
           ]
         }
       ],
-      "title": "Venäjä iski laajalla ohjushyökkäyksellä Ukrainaan – Kiovassa kolme siltaa vaurioitui, Puolassa tutkitaan ilmatilaloukkauksia",
+      "title": "Venäjän laaja ohjushyökkäys Ukrainaan: Kiovassa kolme siltaa vaurioitui, Puolassa tutkitaan ilmatilaloukkauksia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13482,6 +13401,87 @@
       "title": "Trump eurooppalaisjohtajille: Putin haluaa lopettaa sota – Venäjä kutsui neuvottelemaan",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T09:37:58Z",
+      "urls": [
+        {
+          "sign": "228e1c7cf18576ccfad35f70778c96aed2cd82ecccaa3f7ff39dd4d41689308c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Satakunnan hyvinvointialue asetti lasten oikeuksien kurssin pakolliseksi lastensuojelun työntekijöille – kehittivät nuoret kokemusasiantuntijat",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T09:33:41Z",
+      "urls": [
+        {
+          "sign": "6114a111c89a910d1185c882dd34ddf066feb3a99728fc817740e796c7116642",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lupa- ja valvontavirasto: Googlen laajennustyöt voivat jatkua Haminassa – liito-oravien kulkuyhteydet eivät ole katkennut",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T11:45:00+02:00",
+      "urls": [
+        {
+          "sign": "c8923aeffcf770b3b5d0137ab25bc406ab6b24c454a73080d286737360204092",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Maahanmuuttaja Antoni Wolski: Englanninkieliset peruskoulut ja markkinointi uhkaavat suomen kielen tulevaisuutta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-20T09:34:07Z",
+      "urls": [
+        {
+          "sign": "186b82852f396a7b585d54f8b043943974129cb5c8ad0108f4ea24b39ed13e49",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bank of America: Ukrainan drooni-iskut romahttivat Venäjän öljynjalostuksen – polttoainehinnat pysyvät korkeina vuoteen 2027",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T09:27:35Z",
+      "urls": [
+        {
+          "sign": "525cc49301f6c62e327cce716a5bf2aac7e7a9407f9bf806b25bee1243077a0c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "SDP lopetti exit-veron kannattamisen – Lindtman: prioriteetti kasvussa ja työllisyydessä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
