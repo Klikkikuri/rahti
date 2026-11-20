@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T15:08:30Z",
+  "updated": "2026-11-20T17:29:00+02:00",
   "entries": [
     {
       "updated": "2026-10-30T17:54:51Z",
@@ -1816,21 +1816,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T21:48:32Z",
-      "urls": [
-        {
-          "sign": "01fa7ded3dd571d07d42175e00e7c120fdec0bf989a4c2f7a259ef166bd3fbca",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Nvidian toimitusjohtaja Huang erosi vakoilu- ja suhdeskandaalin myötä, hallitus hylkäsi paluun – liikevaihto kaksinkertaistui 116 miljardiin dollaria",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-18T10:40:26Z",
@@ -5122,36 +5107,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-19T10:15:12Z",
-      "urls": [
-        {
-          "sign": "0b8b5eb30614d0e9936c800ce8f0bc1f78b3ca9ecd6cc00954fbcf6a3e5207eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara sekoitti kaikki hyökkäysketjut neljän peräkkäisen tappion jälkeen – 18-vuotias Suvanto ykköskeskukseksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-19T10:10:16Z",
-      "urls": [
-        {
-          "sign": "6e1c578da49242538a8a10d7ff09c43f7f90e2041884081700cfdc8a850e7b4b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bizerba SC500-vaakan fyysiset näppäimet selittävät hedelmävaakan erikoisen asettelun",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T10:18:25Z",
@@ -9375,7 +9330,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-20T17:06:00+02:00",
+      "updated": "2026-11-20T17:29:00+02:00",
       "urls": [
         {
           "sign": "d18812675f9d54310083c65ab878a3839a355471635c83b19a1477dab36db92f",
@@ -9384,8 +9339,8 @@
           ]
         }
       ],
-      "title": "Venäläinen risteilyohjus loukkasi Puolan ilmatilaan – puolustusministeri: Puola pyytää Natolta tukea itärajaan",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Venäläinen risteilyohjus loukkasi Puolan ilmatilaan – Puola pyytää Natolta lisätukea itärajaan",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13484,6 +13439,55 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T15:20:39Z",
+      "urls": [
+        {
+          "sign": "23843a6af28219d13b2efcd40662ccd95bbfa82b1626751e01877e8fa65f913f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen risteilyohjus putosi Puolaan perjantaina – Häkkänen: vaarallista ja holtittomaa toimintaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-20T15:19:02Z",
+      "urls": [
+        {
+          "sign": "093d9c9474788e11b32d4641bfce17e2710a8d39735ffa34d8cb718f38fafeb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trumpin lehdistötilaisuus alkaa kello 19 – Iltalehti lähettää suoraan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T15:17:18Z",
+      "urls": [
+        {
+          "sign": "b381930d5ca912a24c800297ee336a4a82ca741feb83d8418908e46a82da1185",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lotta Harala kritisoi Ylen leuanvetovideota: hyvä valmentaja huomioi yksilön, ei sukupuolta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
