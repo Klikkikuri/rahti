@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T05:15:19Z",
+  "updated": "2026-11-20T05:29:29Z",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -793,7 +793,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-20T00:35:32Z",
+      "updated": "2026-11-20T05:27:09Z",
       "urls": [
         {
           "sign": "cf081cf9de0b6ff5637b4e17e91715250cb1ebc956ec823e75fbda968cf4ed37",
@@ -841,23 +841,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T13:14:05Z",
-      "urls": [
-        {
-          "sign": "b3ee952d898050ac3489f7267737b88fe460c7e0b34377d68ed64d9e1917f692",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Heliövaara ja Patten menettivät 4–1-jonon ATP-finaalien superkatkaisupelissä Arevalo–Pavicille",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-17T13:15:44Z",
@@ -2139,23 +2122,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T02:31:05Z",
-      "urls": [
-        {
-          "sign": "78da563016ccd7965b3db89820a6f120e96fe72e740fa8b27dad7b850229c5f6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Eristyksissä eläneet awa-alkuperäiskansalaiset lähestyivät guajajara-yhteisöä Maranhãossa – viranomaiset käynnistivät hätätoimet tautiriskin vuoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-18T03:12:00Z",
       "urls": [
         {
@@ -2248,21 +2214,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T03:30:35Z",
-      "urls": [
-        {
-          "sign": "ca3ed540ea964945d8e230265ce32a6a12bffbe383a31ec3c031af4fcaed6075",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ulkomaiset yritykset lisäävät lahjoituksia suomalaisen luonnon suojeluun",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-18T03:47:16Z",
@@ -13379,7 +13330,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-20T05:03:01Z",
+      "updated": "2026-11-20T05:23:41Z",
       "urls": [
         {
           "sign": "e9fc469130a50d7b7ca3459195f137004239dd29d437f22e72503e87e934984a",
@@ -13388,9 +13339,11 @@
           ]
         }
       ],
-      "title": "Connor McDavidin 23 ottelun pisteputki loppui – Oilers hävisi Lightningille, Kings voitti Leafsin maalinteossa",
+      "title": "Connor McDavidin 23 ottelun pisteputki loppui – Oilers hävisi Lightningille 1–3, Kings voitti Leafsin maalinteossa",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13454,6 +13407,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T05:15:00Z",
+      "urls": [
+        {
+          "sign": "779e6fe737f461446725c561cc494141630a604bfef855a7ba7d8abaee835222",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "RKP:n Biaudet: Palautuskielto on ehdoton, turvapaikkaoikeus ei ole vastakkainen kansallisen turvallisuuden kanssa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-20T05:15:35Z",
+      "urls": [
+        {
+          "sign": "874b2b872496aa1da1a64ca1c7a8188f80f03513880ebddbb1d81ebac52c4909",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sensofusionin Airfence-järjestelmä toimii Ukrainan rintamalla, yhtiön arvo nousi yli miljardin – kehittää 600 km/h:n torjuntadroonia",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T05:29:29Z",
+      "urls": [
+        {
+          "sign": "52d5347d9980d51a408dbf852259c4e6245ce4e9cfc2a43e48118d0a9a17c0f8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Helsingin hallinto-oikeus kumosi Loviisan aurinkovoimalan osayleiskaavan – maakuntakaavan maisemamerkinnät ratkaisussa ratkaisevat",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
