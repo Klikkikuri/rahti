@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T05:29:29Z",
+  "updated": "2026-11-20T05:45:12Z",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -5337,23 +5337,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T18:00:02Z",
-      "urls": [
-        {
-          "sign": "1a3c35d0cfe83c3fb1cca427c4fd0fd08c0ccad12b0ed4ddff2ebd2573a27560",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-18T20:00:00+02:00",
       "urls": [
         {
@@ -5371,23 +5354,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T18:00:18Z",
-      "urls": [
-        {
-          "sign": "cdfb97a9c4ff091f324bf0166af3e35428438c920e48314ee6adc603231ff9e8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kastehelmi: Ukrainan etulinjan vierailu lisäsi huolta Suomen droonivalmiudesta – Puolustusvoimien on kehitettävä",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-18T19:50:00+02:00",
       "urls": [
         {
@@ -5403,23 +5369,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T18:08:05Z",
-      "urls": [
-        {
-          "sign": "840ed7f346d74617414abe0194f19edf9468a319bc8cb89d238c64d30d39d42e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jukurit jatkaa samalla valmennustiimillä kahta kautta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T18:03:37Z",
@@ -13454,6 +13403,57 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T05:31:17Z",
+      "urls": [
+        {
+          "sign": "785cdf147f692a6d37839adc4fd46b5f79ffed458fe165b124087de0896f797d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Uusi verikoe tunnistaa etenevän rasvamaksan riskin biopsiasta kustannustehokkaammin – tutkijat suosittelevat käyttöä perusterveydenhuollossa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T05:45:12Z",
+      "urls": [
+        {
+          "sign": "9a7881c8c220e53d9f0610e7849916657f03e69d6bf45b7fb472fa2bacfbe7a2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        },
+        {
+          "sign": "d0935fac17b8dafd2f0725814d0bbca9c74a0b389c594c63200702a8c0542399",
+          "labels": []
+        }
+      ],
+      "title": "Hannu-Pekka Björkman esittää vampyyri-joulupukkia kauhukomediassa Punaista lunta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T05:32:35Z",
+      "urls": [
+        {
+          "sign": "c3c006371d06a1b79caa85aebd4ae7db509e78e02543de974cca5ffb85a99d8d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sofia Jahnukainen teki uransa ensimmäisen Mestarien liigamaalin – Roma voitti Benfican lisäajalla 3–2",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
