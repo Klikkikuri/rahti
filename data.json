@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-20T04:13:53Z",
+  "updated": "2026-11-20T04:22:15Z",
   "entries": [
     {
       "updated": "2026-10-30T11:04:58Z",
@@ -841,21 +841,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-17T12:50:39Z",
-      "urls": [
-        {
-          "sign": "32fa2bb72b322672ad9c17f6ff8138292fe56b89fc4733e20b3ecd6940532886",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Golf-tähti Bryson DeChambeau siirtyy DP World Tourille LIV-kiertueen loppua",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-17T14:10:00+02:00",
@@ -5356,21 +5341,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T17:14:17Z",
-      "urls": [
-        {
-          "sign": "d0e8efbac1073d130d0a79450e628aabdbb5672ad1c45f2f736cb5a9bccde3e9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsin prinsessa Estelle harjoittelee Suomessa suurlähetystössä ja presidentinkansliassa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-18T17:30:37Z",
       "urls": [
         {
@@ -5416,27 +5386,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T17:06:16Z",
-      "urls": [
-        {
-          "sign": "61bf1ea70e01650c0a8c386242e2587f79888405408334757becfa2876351549",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        },
-        {
-          "sign": "ec22ec55f98ba58f0791dfebfdc6af0d4b6917e15ca05c94d6ee70ef31c45e99",
-          "labels": []
-        }
-      ],
-      "title": "Robert Pattinson on uusi James Bond – asiantuntija yllättyi Amazonin valinnasta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-18T17:28:44Z",
@@ -13456,6 +13405,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-20T04:22:15Z",
+      "urls": [
+        {
+          "sign": "046e3986ecd7cb5fec422e7829798a2ae3f5cf591a2ed748955f6c094f9a1d35",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Forecan ennuste: Sää muuttuu talviseksi viikonvaihteessa, marraskuun lopussa kylmempiä lämpötiloja",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-20T04:15:00Z",
+      "urls": [
+        {
+          "sign": "05852e1a354fede23e4904b093ee93278943558fe9fe31be8f3af348a0e20da1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "LähiTapiolan kysely: Joka kolmas suomalainen on havainnut lapsen harrastuksen lopettamisen rahansyyihin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-20T04:16:29Z",
+      "urls": [
+        {
+          "sign": "ed57b2a00318179740e79d141f5950b0c3d4816b88e306484394be852f26b6a6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Liput nousevat lapsen oikeuksien päiväksi 20. marraskuuta",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
