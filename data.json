@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T11:15:19Z",
+  "updated": "2026-11-21T11:26:23Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -898,21 +898,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T16:30:33Z",
-      "urls": [
-        {
-          "sign": "4d4f7d8325c37d70ce855bef1d373ef4f5488aeb666353d4a406bf9488cf1b24",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Demokraatit valitsivat Hakeem Jeffriesin puhemiesehdokkaaksi – voisi tulla Yhdysvaltojen ensimmäinen musta puhemies",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-18T18:12:38Z",
       "urls": [
         {
@@ -963,21 +948,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T16:50:00Z",
-      "urls": [
-        {
-          "sign": "9527da2a57f9071037b63fbf45930f019580a40793fce138993d55e855c49101",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sosiaali- ja terveysministeriö ehdottaa vaativien erikoishoitojen keskittämistä – synnytyssairaaloiden määrää tarkastellaan",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-18T16:55:59Z",
@@ -5595,21 +5565,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-20T02:48:00Z",
-      "urls": [
-        {
-          "sign": "261659240a8e4abdf65aa64b31ccc4215b45a553071aa6e28c411c473f5adaa2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Britannian oikeus tuomitsi neljä miestä seksuaalirikoksista – aviomies huumasi vaimonsa ja kutsui verkon miehiä raiskaamaan häntä yli 10 vuoden ajan",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-20T03:07:35Z",
@@ -13163,7 +13118,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T13:12:00+02:00",
+      "updated": "2026-11-21T13:26:00+02:00",
       "urls": [
         {
           "sign": "8fc0754a49186b10039b69e36bb27bc1fb8051ebf2150e8e21571854b5e41388",
@@ -13172,7 +13127,7 @@
           ]
         }
       ],
-      "title": "Venäläinen rahtialus drooni-iskun kohteeksi Suomenlahdella, alus ajelehtinut Suomen aluevesille",
+      "title": "Puolustusvoimat: Drooni iski venäläiseen rahtialukseen Suomenlahdella – alus ajelehtii Suomen aluevesille",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13336,7 +13291,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T11:15:19Z",
+      "updated": "2026-11-21T11:26:23Z",
       "urls": [
         {
           "sign": "fa01d0ddbbf79d9eefbc1498642a67fe880b663ba82c04590ee412d63197b823",
@@ -13445,6 +13400,54 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T11:12:48Z",
+      "urls": [
+        {
+          "sign": "92a33ad91f3ae043a711c1f4dec6c39cff924f28c73d3f04494efddab82f2851",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Supon päällikkö Martelius arvioi Pattinsonin Bond-valintaa: \"Muistuttaa Twilightista\"",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T11:17:49Z",
+      "urls": [
+        {
+          "sign": "9c659ca4adf0e135ceaee6e0d82008b4a5562dde2497e70ae84de9d51813fa13",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen rahtialus Sparta II tulessa Suomenlahdella – ajelehtinut Suomen aluevesille",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T11:14:57Z",
+      "urls": [
+        {
+          "sign": "6477c3abc5871cb805860a4fac1268ee2b502073b78cb1f0f871877b3ff4c908",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisi tutkii paidattoman miehen iskuja useaan ihmiseen Tampereella – rauhoittanut lenkkeilijä etsitään",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
