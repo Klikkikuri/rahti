@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T09:14:40Z",
+  "updated": "2026-11-21T11:24:00+02:00",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -960,36 +960,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T18:14:00+02:00",
-      "urls": [
-        {
-          "sign": "6fe45528cf10a3979fda58b82689579d8d2f7efb2e021d658e03b76afba2d8f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeriö: Saamen kielen erikoismerkit aiheuttivat Doro- ja kellopuhelimien verkkohäiriöt vaaratiedotekokeilussa",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T18:00:00+02:00",
-      "urls": [
-        {
-          "sign": "a77835881edfa16d546e3a33ee6c5dcc8eb022bf839fdf3daec70838bd9d9241",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "HS-gallup: Kokoomus historian matalimmallaan 15,6 prosentilla, Vasemmistoliitto vahvistui ennätykseen – hallitusmuodostus vaikeutuu",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
     },
     {
       "updated": "2026-11-19T13:03:00+02:00",
@@ -2160,21 +2130,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T06:57:14Z",
-      "urls": [
-        {
-          "sign": "abfd14f7a04dd7b9758a58b9f2cad46b3aa9f2f527eefb9c8f618900b14f4115",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Asiantuntija: Vaasan vaalipiiri maan porvarillisin ja konservatiivisin – RKP:n kaksi veteraania poistuu, entiset kansanedustajat pyrkivät takaisin",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T09:00:00+02:00",
@@ -13447,6 +13402,51 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T11:14:00+02:00",
+      "urls": [
+        {
+          "sign": "ce324b4c97c80e39117a6e02d6a5a1f26945d9dacbc610905664c7ed5d5a89c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Vihreiden puheenjohtaja Virta: puolue jättää välikysymyksen hallituksen luontopolitiikasta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-19T07:04:38Z",
+      "urls": [
+        {
+          "sign": "eb7d07205c704ed43aac9b11feac90580a682d3f9bf06f20ba6a563e77f70e3a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "HSL launches pay-per-kilometre fare trial in January",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-21T11:24:00+02:00",
+      "urls": [
+        {
+          "sign": "d1cfe644c605725a8635ac9aaee73523cfc47b75546c13725b7e2d6dc4687996",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Supon päällikkö Martelius: Tiitisen lista voidaan luovuttaa tutkijoille, mutta ei julkaista",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
