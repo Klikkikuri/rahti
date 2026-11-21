@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T01:37:24Z",
+  "updated": "2026-11-21T02:29:36Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -2208,21 +2208,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T19:20:38Z",
-      "urls": [
-        {
-          "sign": "986d7995d925e3929bc7429c045dde4da281dfbd14747cddfbe8bae366d47fbf",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suunnittelupäällikkö: Pispalan valtatie moniongelmainen väylä – isoa remonttia ei ole tulossa, kaupunki pohtii kevyempiä turvallisuustoimia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-18T19:50:09Z",
@@ -13447,6 +13432,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T02:29:36Z",
+      "urls": [
+        {
+          "sign": "0cbcc6d784e16199e716e1c2f942ed8b56696bcf4fbc7cee81a7445c134560c1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Rockstar Games arvioi: Grand Theft Auto VI:n ennakko- ja julkaisupäivämyynti 3,8 miljardin dollarin edestä – historian suurin viihdelanssi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
