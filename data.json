@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T20:38:34Z",
+  "updated": "2026-11-21T20:57:34Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -1045,38 +1045,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T07:08:59Z",
-      "urls": [
-        {
-          "sign": "084a6862b69243edb892d8561105c2fcc4c97d769e0b393ece8aee3cd266b39f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi Pekka Pouta: Korkeapaine tuo lunta ja pakkasta – talvi vahvistuu useaksi viikoksi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T07:09:00Z",
-      "urls": [
-        {
-          "sign": "8f94d65c7b9e364dc776139317cf2a32d9974b949f736a9810aa4cc3e576438c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Huberdeau debytoi AHL:ssä kolmen syöttöpisteen jälkeen yhdeksän kuukauden vammapauseesta",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-19T09:17:00+02:00",
@@ -5799,21 +5767,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-20T11:36:43Z",
-      "urls": [
-        {
-          "sign": "3113f81944185c652f2075b0487e7edf820a371ba9df1c695f0c4514e9c4d60c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yle: Suomi yrittää periä Venäjältä 25 miljardia euroa – perintä epärealistista",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-20T11:31:04Z",
       "urls": [
         {
@@ -5869,21 +5822,6 @@
         }
       ],
       "title": "S-ryhmä lähetti kiitospäivän reseptejä asiakasomistajille – tutkija: perinteen juurtuminen Suomeen epävarmaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-20T11:35:01Z",
-      "urls": [
-        {
-          "sign": "5f537a557ad7918ca6732e29f0c8e03965a194b7d1828e0ed89f892244bd7fa1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Palloliiton hallitus vapautti Jacob Friisin – Mika Lehkosuo uusi päävalmentaja viiden vuoden sopimuksella",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13434,6 +13372,68 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T20:57:34Z",
+      "urls": [
+        {
+          "sign": "e847189222e1c165455117010ebb79ab5af8f5eb2f9b30f359b00e525d058b0e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Australialaistoimittajan lihakset veivät katsojien huomion suorassa uutislähetyksessä – video keräsi yli 14 miljoonaa katselukertaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T20:56:34Z",
+      "urls": [
+        {
+          "sign": "010d3259b4aad91084924bf5bef85185b56e1f9270fa06508e9667582c1778e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Sebastian Aho teki tehot 1+2, Carolina voitti Edmontonin NHL-ottelussa 7–4 – Connor McDavid syötti kaksi maalia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T20:46:56Z",
+      "urls": [
+        {
+          "sign": "2780bf52ac4d64f1847278e55358991f6aee049938d971c589fe58499f6c6eb1",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Jukurit: Christoffer Sedoff siirtyy ulkomaille runsaan kuukauden jälkeen – Expressenin mukaan uusi seura on Linköping",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T20:43:27Z",
+      "urls": [
+        {
+          "sign": "60fd2fe2e04401ac6ff1068fed1def8d39e5bb17b6a4525f3cb5644cef9800d8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lauantain lottoarvonnassa ei löytynyt täysosumia – ensi viikon voittopotti kasvaa 14 miljoonaan euroon",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
