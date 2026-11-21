@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T07:10:56Z",
+  "updated": "2026-11-21T09:30:00+02:00",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -954,21 +954,6 @@
       ],
       "title": "Hongkongin syyttäjät luopuivat Balticconnector-putken rikkoneen kapteenin rikossyytteestä – avaintodistajia ei saatu kuulemaan",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T15:21:00+02:00",
-      "urls": [
-        {
-          "sign": "058386713c0800a1d7c2ce7e7c1b8123a49e8dc2df5f951c4434caf1627a4624",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump, Putin ja Xi tapaavat Shenzhenissä – analyysi: Putinin symbolinen voitto ja Kiinan varovainen isäntärooli",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -2232,21 +2217,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T04:35:40Z",
-      "urls": [
-        {
-          "sign": "daed450f148dc49913e037772c90ccbf9519de8235326d35289618b967d67634",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Etelä-Savon kotihoito toteutti suunnitellut tunnit 90 %:ssa yksiköistä – omalääkärimalli ja tekoäly paransivat ennakointia",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T06:45:00+02:00",
@@ -12946,7 +12916,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-21T08:58:00+02:00",
+      "updated": "2026-11-21T09:30:00+02:00",
       "urls": [
         {
           "sign": "00239c44d128547eed28a7bac318d983b46dc4e841f0cd717d19fa9158b2c16c",
@@ -12955,8 +12925,8 @@
           ]
         }
       ],
-      "title": "13 auton ketjukolari Turunväylällä Espoo–Kirkkonummi sulki tien yli tunnin – useita lievästi loukkaantunutta",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "13 auton ketjukolari Turunväylällä Espoo–Kirkkonummi-välillä – kolme lievästi loukkaantunutta, tie suljettu yli tunnin",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13011,7 +12981,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T06:27:57Z",
+      "updated": "2026-11-21T07:28:35Z",
       "urls": [
         {
           "sign": "7dc8ec8bd1f7332a117a79c135ea103bac57edbe60b401f97db8f6e8b5e486ba",
@@ -13020,7 +12990,7 @@
           ]
         }
       ],
-      "title": "13 autoa ketjutörmäsi Ykköstiellä Kirkkonummella – kolme loukkaantui lievästi, ajorata suljettu",
+      "title": "13 autoa törmäsi ketjuun Ykköstiellä Kirkkonummella lauantaiaamuna – tie suljettu, useita loukkaantui",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13448,6 +13418,38 @@
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T07:25:45Z",
+      "urls": [
+        {
+          "sign": "e2a96f887545459eac2b1fafe34d6350436d4acdc220ba3c8e81f8d52adb7f87",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Senegal järjesti Afrikka-historian ensimmäiset nuorten olympialaiset Dakarissa – tuhanset vapaaehtoiset, maa velkakriisissä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-21T09:30:00+02:00",
+      "urls": [
+        {
+          "sign": "f5d00389b4a3a546f02cf4f14d0a39871298a08f7318c989aa947f000164fe8a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
