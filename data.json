@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T04:00:18Z",
+  "updated": "2026-11-21T04:05:00Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -842,23 +842,6 @@
       "title": "Resepti: Gluteeniton ja maidoton laskiaispulla omenahillokkeella ja mantelivaahdolla",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T08:58:44Z",
-      "urls": [
-        {
-          "sign": "90fcf651dfff5215d55fe84e2ff625a7d6aed807ef661df5ca85daf38102d311",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset harrastavat liikuntaa, mutta arkiliikunta on vähentynyt – asiantuntija antaa vinkkejä arjen liikkumiseen",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5411,21 +5394,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-19T15:30:07Z",
-      "urls": [
-        {
-          "sign": "db80f6fb418b72e3a9584e5bd7af04885c161015fdedf606769d59dbb69c0dfe",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Anthony Joshua julkisti tytönsä syntymän – äiti on lapsuudenystävä Nicole Osbourne, toinen yhteinen lapsi",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T17:31:00+02:00",
@@ -13442,6 +13410,40 @@
       "title": "Iltalehden kysely: Rajaturvallisuuslaki on kynnyskysymys useille puolueille hallitukseen ryhtymisessä",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T04:05:00Z",
+      "urls": [
+        {
+          "sign": "d2e49970906cc4ce66163f4922bfc050678c7b68db37e3a2330cad51a31d3a55",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Metsävainion avaruuskuvat ja Porran sävellys yhdistyvät Oulussa – Beyond the Sky esitetään lauantai",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T04:03:17Z",
+      "urls": [
+        {
+          "sign": "09bfc1d5452ee15e320781cd300536a9d2c24ad78d962f691ed1594b09ad0ba8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/paywalled=true"
+      ],
       "outlet": "Iltalehti"
     }
   ]
