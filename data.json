@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T12:11:53Z",
+  "updated": "2026-11-21T12:29:40Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -701,7 +701,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-21T11:41:19Z",
+      "updated": "2026-11-21T12:19:07Z",
       "urls": [
         {
           "sign": "cf081cf9de0b6ff5637b4e17e91715250cb1ebc956ec823e75fbda968cf4ed37",
@@ -5527,21 +5527,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-20T04:13:53Z",
-      "urls": [
-        {
-          "sign": "24094fbaa8839ab2499705ce53cecfda41114d385a3f6ee56fa1116cd6fbb24e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Prinssi Georgen, 13, piirros kuningaskalastajasta julkaistiin Country Life -lehden erikoisnumerossa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-20T04:00:39Z",
@@ -13078,7 +13063,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T12:01:49Z",
+      "updated": "2026-11-21T12:20:44Z",
       "urls": [
         {
           "sign": "fa01d0ddbbf79d9eefbc1498642a67fe880b663ba82c04590ee412d63197b823",
@@ -13087,9 +13072,11 @@
           ]
         }
       ],
-      "title": "Venäjän mukaan droonit iskivät venäläiseen rahtialukseen Suomenlahdella – alus ajelehtinut Suomen aluevesille",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
+      "title": "Venäläinen rahtialus ajelehtinut Suomen aluevesille – Venäjä: droonit iskivät alukseen Suomenlahdella",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13159,7 +13146,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-21T12:11:53Z",
+      "updated": "2026-11-21T12:20:05Z",
       "urls": [
         {
           "sign": "6cd87be7dad1ebf70e162411b5c21878dc1615f4f81f0a7038c9596ea7b4a2dd",
@@ -13168,8 +13155,8 @@
           ]
         }
       ],
-      "title": "SDP:n puoluevaltuusto alkoi Kuopiossa – Lindtman puhuu ensi vaalikauden sopeutuksista ja sote-leikkauksista kello 14",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "SDP:n puoluevaltuusto alkaa Kuopiossa – Lindtman puhuu vaalikauden sopeutuksista ja sote-leikkauksista kello 14",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13393,7 +13380,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-21T12:03:23Z",
+      "updated": "2026-11-21T12:22:56Z",
       "urls": [
         {
           "sign": "a2f5a3fbae110b738fec7ed878bed5d7e3278cba83ec92bf98e1868c99f320ef",
@@ -13441,6 +13428,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T12:29:40Z",
+      "urls": [
+        {
+          "sign": "d50876dc10ec28e28cd4cfb586579470febbdfb7fc6e87a132832b91d3d70f6f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tiia Olkkonen voitti Rukan Suomen cupin sprintin – Jasmi Joensuu menetti piton viimeisessä nousussa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
