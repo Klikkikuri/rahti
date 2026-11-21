@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T03:44:47Z",
+  "updated": "2026-11-21T04:00:18Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -828,23 +828,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T08:51:47Z",
-      "urls": [
-        {
-          "sign": "f2bcc240faca7bb7b8689baff93adca1eff53766961d5bda117b4c871da98d3a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump, Xi ja Putin tapaavat Kiinassa – Eurooppa poissa, Penttilä: herätyksen paikka",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-18T08:58:49Z",
@@ -5383,21 +5366,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T15:29:41Z",
-      "urls": [
-        {
-          "sign": "c5f5d56df070c3ba3d327f635d343e2c227dce1c35e54faec0b90adc8e00dad7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Aviopari vangittiin murhan yrityksen epäiltyinä Lempäälässä – molemmilla aiempia väkivaltatuomioita",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T15:16:57Z",
@@ -13443,6 +13411,38 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-21T03:46:00Z",
+      "urls": [
+        {
+          "sign": "03b34102eba71fbe07121276090a4e023de4e871dc07a522d5270f14679d1041",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiina, Yhdysvallat ja Venäjä allekirjoittivat yhteisen rauhanjulistuksen ydinaseista, YK:sta ja energiahinnoista",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T04:00:18Z",
+      "urls": [
+        {
+          "sign": "2f9ef2ed1e2473d091ab50fb092719ff29e5d7b5f75e4dcea5fed8c4f06ca22b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Iltalehden kysely: Rajaturvallisuuslaki on kynnyskysymys useille puolueille hallitukseen ryhtymisessä",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
