@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T06:11:05Z",
+  "updated": "2026-11-21T06:27:57Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -768,21 +768,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-18T12:13:33Z",
-      "urls": [
-        {
-          "sign": "bc6db7ce848c5beed70c6cec098b5e35fb302a196e79b36ebd8a5d009254f0f2",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Trump saapui APEC-kokoukseen Shenzheniin – Xi ja Putin neuvottelivat kahdenvälisesti, Venäjä pitää laajojen Trump-Putin-keskusteluiden epätodennäköisinä",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-18T07:15:46Z",
       "urls": [
         {
@@ -878,21 +863,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T12:09:24Z",
-      "urls": [
-        {
-          "sign": "284fb84a11bc0ba7dca04dce4f120c163f71a6a7f1459f15148df51c31c5bc56",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Doro-puhelimissa vakavia häiriöitä vaaratiedotekokeilun jälkeen – sisäministeri Rantanen: asiaa selvitetään",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -5756,23 +5726,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-19T17:07:40Z",
-      "urls": [
-        {
-          "sign": "689ba1482880016a43e4c164fc84b5a2f9cdcbd990d56e254f24780128dcd018",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdeksän autoa törmäsi ketjukolarissa Länsiväylällä torstai-iltapäivällä – kukaan ei loukkaantunut vakavasti",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T20:49:00+02:00",
@@ -13233,7 +13186,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T06:04:41Z",
+      "updated": "2026-11-21T06:27:57Z",
       "urls": [
         {
           "sign": "7dc8ec8bd1f7332a117a79c135ea103bac57edbe60b401f97db8f6e8b5e486ba",
@@ -13242,7 +13195,7 @@
           ]
         }
       ],
-      "title": "13 auton ketjukolari Ykköstiellä Kirkkonummella – kolme lievästi loukkaantunutta, ajorata suljettu",
+      "title": "13 autoa ketjutörmäsi Ykköstiellä Kirkkonummella – kolme loukkaantui lievästi, ajorata suljettu",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13450,6 +13403,53 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T06:23:03Z",
+      "urls": [
+        {
+          "sign": "efd32f5821d00a56a976648519511baadab91ad4792e05e181c8dcd2d7d6f08c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tahto-urheilumuseo hankki ensimmäisen naisten maastohiihdon olympiakultan perikunnalta – huutokauppa epäonnistui",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T06:04:00Z",
+      "urls": [
+        {
+          "sign": "83932b2c307fa042f3eb8ea8387f73993135b49c252bbdd84878274d974b50ad",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tanssii Tähtien Kanssa -finaali sunnuntaina: kolme paria tanssii kolme tanssia, entiset tähdet Tuokko, Anttila ja Mavromichalis parketilla",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T06:23:25Z",
+      "urls": [
+        {
+          "sign": "aafa91f41737b0340fb7608b4400c43b2930a74e4a71d9b90641e14b7fce55bd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tapparan Michael Lindqvist törki John Nybergin haaroväliin – tuomarit eivät antaneet rangaistusta, asia kurinpitodelegaatiolle",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
