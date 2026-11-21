@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T03:02:50Z",
+  "updated": "2026-11-21T03:44:47Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -2208,21 +2208,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T19:50:09Z",
-      "urls": [
-        {
-          "sign": "d582673255dd5fb4f0fbd278a09218e0e75309a10f496c46de434911b594d7ee",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaaratiedotekokeilu sai kritiikkiä: asiantuntija Järvinen arvosteli betatestausmuotoa ja puuttuvaa englantia, pelastusylijohtaja Kohvakka viittasi lakisääteisiin kieliin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-18T23:06:18Z",
@@ -4752,21 +4737,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-19T15:19:22Z",
-      "urls": [
-        {
-          "sign": "203b4de4c2f5b9786ff0d18a5ebe4044d67a4056f5351a9b76de8ef2bd08098a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Mies ryösti K-kaupan Oulussa puukolla uhaten – epäilty kiinni",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-19T13:15:35Z",
       "urls": [
         {
@@ -5458,23 +5428,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-19T15:22:37Z",
-      "urls": [
-        {
-          "sign": "6abcfac54e6e1bf552b6a9295750d1a7ff3f180f4b222cb0421448de56b7532c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "SDP:n entinen puheenjohtaja Rinne kritisoi ryhmäjohdon rajalakiäänestyksessä – Lindtman: Rinteen lähestymistapa poikkeaa edeltäjistä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T15:21:05Z",
@@ -13445,6 +13398,51 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T03:44:47Z",
+      "urls": [
+        {
+          "sign": "686f83b7f917c7f906135ee31f11b4c07b63f827ee8d3431bb824a2a592e6754",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Poliisin etsimä Karfin perhe otti yhteyttä Pedersöreen kuntaan heinäkuussa – vaatii korvauksia vuokrasopimuksen irtisanomisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T03:26:57Z",
+      "urls": [
+        {
+          "sign": "50c46cd972d39ef13237635a9e0e9e1b9ff9544ef0383049e7ed75f79a84daf8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat rajoitti ilmailua ja merenkulkua itäisellä Suomenlahdella lauantaina – varotoimenpide lennokkien torjuntaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T03:30:35Z",
+      "urls": [
+        {
+          "sign": "ae20956d80fea718f8d8ae8f7b132b1d3200d028e0d4643abc585aeb27caf5a8",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Äärioikeistolainen Sotkanpesä ry ostaa entisen kyläkoulun Karviaan – tilat vuokrataan kansallismielisille ryhmille",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
