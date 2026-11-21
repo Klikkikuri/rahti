@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T12:43:00+02:00",
+  "updated": "2026-11-21T10:50:12Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -4847,23 +4847,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-19T20:58:40Z",
-      "urls": [
-        {
-          "sign": "9e2dcc72fddfac072c85e6a5ed6be889748e4b0ea0980aa4786d421ce285fa62",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Hanna Smith: Euroopan on alettava miettimään hybridivastaista Venäjälle, sopumuksesta epävarmuutta",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T19:30:00+02:00",
@@ -13417,7 +13400,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T10:38:03Z",
+      "updated": "2026-11-21T10:46:45Z",
       "urls": [
         {
           "sign": "fa01d0ddbbf79d9eefbc1498642a67fe880b663ba82c04590ee412d63197b823",
@@ -13426,8 +13409,8 @@
           ]
         }
       ],
-      "title": "Rahtialukseen isketty drooneilla Suomenlahdella, venäläisviranomaiset kertovat",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Venäläisviranomaiset: droonit iskivät rahtialukseen Suomenlahdella",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13445,6 +13428,23 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-21T10:50:12Z",
+      "urls": [
+        {
+          "sign": "a87875ac65735bb1d25608588349604927b815849a064a0198744a5475975952",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuluttajariitalautakunta laajensi myyjävastuu – autoliikkeet arvioivat 400–800 euron riskikustannuksen per auto",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
