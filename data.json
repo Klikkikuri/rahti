@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T04:05:00Z",
+  "updated": "2026-11-21T06:24:00+02:00",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -783,21 +783,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-18T14:47:00+02:00",
-      "urls": [
-        {
-          "sign": "3e0176102f15da9f22e2d9a576d4b1ffe66361aedda2bf3167c11f141ee28e60",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaaratiedotustesti aiheutti vakavia häiriöitä Doro- ja kellopuhelimissa – HUSin laitteet vaikuttuneina, ambulanssin soittaminen epäonnistui",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-18T07:15:46Z",
       "urls": [
         {
@@ -828,21 +813,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T08:58:49Z",
-      "urls": [
-        {
-          "sign": "21704acb28d0dd04cb8521aa9029288355ec1f166199303d8c27eda30331d2a4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Resepti: Gluteeniton ja maidoton laskiaispulla omenahillokkeella ja mantelivaahdolla",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-18T09:09:12Z",
@@ -13445,6 +13415,40 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T06:24:00+02:00",
+      "urls": [
+        {
+          "sign": "deb35f0cbd866dd4186167e6c4253a164d494c450f9ade2b5bcba7fa56eb6639",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Anthropicin tutkija väittää Riemannin hypoteesin ratkaiseneensa tekoälyn avulla – todistus on arvioimaton",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-21T04:09:23Z",
+      "urls": [
+        {
+          "sign": "5fef956c197c8ae9ac399d5c12ef11327449a3ac90e632e6e37bc7563d7fe287",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Puolustusvoimat asetti tilapäiset rajoitukset itäiseen Suomenlahtiin – valmistaa mahdollisten lennokkien torjuntaan",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
