@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T02:29:36Z",
+  "updated": "2026-11-21T02:49:23Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -5332,23 +5332,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T15:03:06Z",
-      "urls": [
-        {
-          "sign": "ee6e2d3208a861b9672625e689c921746116f806d355052b2286d5ba001b64f1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-19T14:43:03Z",
@@ -13447,6 +13430,21 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-21T02:49:23Z",
+      "urls": [
+        {
+          "sign": "e1a43cd4fac5a6c9b585459013183e5a62ec5cead4376b9062d94b8cd29d8952",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvalloissa teknologiaosakkeiden pudotus vei pörssit karuun viikkoon – Nasdaq laski 5,3 %, Nvidia 14 %",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
