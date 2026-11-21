@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T12:00:26Z",
+  "updated": "2026-11-21T12:11:53Z",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -453,7 +453,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-20T12:13:59Z",
+      "updated": "2026-11-21T12:05:06Z",
       "urls": [
         {
           "sign": "9a4ba9210ad1e54f1fa063f90f06d7eb82abcd2fa4c7e864d24c6bfc79836479",
@@ -462,7 +462,7 @@
           ]
         }
       ],
-      "title": "Iltalehti julkaisee päivittäin pörssisähkön varttihinnat – graafi näyttää 48 tunnin hinnat",
+      "title": "Iltalehti julkaisee päivittäin kello 14 päivittyvän graafin pörssisähkön varttihinnoista",
       "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -900,24 +900,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-18T17:08:21Z",
-      "urls": [
-        {
-          "sign": "b1f8bbe35d61e9fa1c6e51e262ae4087223d117ac170e8aa95b6f23bed88e266",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-18T19:15:00+02:00",
       "urls": [
         {
@@ -962,23 +944,6 @@
       "title": "Jukurit solmi assistenttivalmentajien Wellingin ja Ahvenjärven sekä maalivahtivalmentajan Järvisen jatkosopimukset kahdeksi kaudeksi",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T17:16:30Z",
-      "urls": [
-        {
-          "sign": "1edd3e0a3baffd4d77eeee545ca853e0c7201c18da2151d379f6c8a9c6516aef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "OAJ: Perheiden lomapyynnöt kouluaikana harvinaisia – lupa myönnetään yleensä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -13113,7 +13078,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T12:00:26Z",
+      "updated": "2026-11-21T12:01:49Z",
       "urls": [
         {
           "sign": "fa01d0ddbbf79d9eefbc1498642a67fe880b663ba82c04590ee412d63197b823",
@@ -13122,8 +13087,8 @@
           ]
         }
       ],
-      "title": "Venäläisviranomaisten mukaan droonit iskivät venäläiseen rahtialukseen Suomenlahdella – alus ajelehtinut Suomen aluevesille",
-      "clickbaitiness": "Moderately Clickbaity",
+      "title": "Venäjän mukaan droonit iskivät venäläiseen rahtialukseen Suomenlahdella – alus ajelehtinut Suomen aluevesille",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13194,7 +13159,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-21T11:58:36Z",
+      "updated": "2026-11-21T12:11:53Z",
       "urls": [
         {
           "sign": "6cd87be7dad1ebf70e162411b5c21878dc1615f4f81f0a7038c9596ea7b4a2dd",
@@ -13203,8 +13168,8 @@
           ]
         }
       ],
-      "title": "SDP:n puoluevaltuusto kokoontuu Kuopioon – Lindtman puhuu sopeutuksista kello 14",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "SDP:n puoluevaltuusto alkoi Kuopiossa – Lindtman puhuu ensi vaalikauden sopeutuksista ja sote-leikkauksista kello 14",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13428,7 +13393,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-21T11:56:52Z",
+      "updated": "2026-11-21T12:03:23Z",
       "urls": [
         {
           "sign": "a2f5a3fbae110b738fec7ed878bed5d7e3278cba83ec92bf98e1868c99f320ef",
@@ -13444,6 +13409,38 @@
         "com.github.klikkikuri/type=video"
       ],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-21T12:02:00Z",
+      "urls": [
+        {
+          "sign": "444fc665d82487100476eaae7fc6186464239e1750127b005645f1fc0d5729c2",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Perhejuristi Maiju Rihtniemi varoittaa: Avioehdossa yritysomaisuuden poissulkeminen voi jättää kodinhoitajan ilman osuutta erossa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T11:59:45Z",
+      "urls": [
+        {
+          "sign": "73cfd7fe9e00025f7e0a49f4729adc9835e7a5ef81f9dc96bc7aab9dc735a5c7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venäläinen rahtialus dronella iskeytynyt Suomenlahdella – alus ajelehtinut Suomen aluevesille, Rajavartiolaitos johtaa pelastustoimia",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
