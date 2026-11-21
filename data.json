@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-21T11:45:00+02:00",
+  "updated": "2026-11-21T11:58:00+02:00",
   "entries": [
     {
       "updated": "2026-10-31T13:18:33Z",
@@ -896,38 +896,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-18T14:47:00Z",
-      "urls": [
-        {
-          "sign": "d1a6fdd3034ea9ca7f7c6fa5bdb27e8c932be5a9696e378e4f3b245d0f23a5f3",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ruotsalaiskokki Roy Nader jakaa vinkit rapeaan leivitykseen – korppujauhoja ei kannata painele kiinni",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-18T14:50:47Z",
-      "urls": [
-        {
-          "sign": "131cc0bcaa4c7e0c515c556048e503c06d459f6dc8b5b574af30c1e317781e9e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tilastokeskus: Konkurssihakemukset 2000-luvun ennätyksessä – 4 092 yritystä 12 kuukaudessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-18T15:17:38Z",
@@ -12246,7 +12214,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-21T11:44:00+02:00",
+      "updated": "2026-11-21T11:58:00+02:00",
       "urls": [
         {
           "sign": "00239c44d128547eed28a7bac318d983b46dc4e841f0cd717d19fa9158b2c16c",
@@ -12863,7 +12831,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T08:59:01Z",
+      "updated": "2026-11-21T09:55:59Z",
       "urls": [
         {
           "sign": "b31053f17301997d161e481065227fd65352756e64f013b1458f59b8e9b291c6",
@@ -12873,7 +12841,7 @@
         }
       ],
       "title": "Keskustan puoluevaltuusto kokoontuu Hämeenlinnaan – Kaikkonen esittää poliittisen katsauksen",
-      "clickbaitiness": "Extremely Clickbaity",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -13000,7 +12968,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-21T08:54:23Z",
+      "updated": "2026-11-21T09:52:59Z",
       "urls": [
         {
           "sign": "920174972814cce56de9ccc3d3ebd0a68b66c2696e90195525b899bb921235ef",
@@ -13009,9 +12977,11 @@
           ]
         }
       ],
-      "title": "Vihreiden puheenjohtaja Sofia Virta puhui puoluevaltuustossa ensimmäisen kerran äänileikkauksen jälkeen",
+      "title": "Vihreiden puheenjohtaja Sofia Virta kritisoi hallitusta ja haastoi SDP:n Lindtmania ensimmäisessä puheessaan äänileikkauksen jälkeen",
       "clickbaitiness": "Very Clickbaity",
-      "labels": [],
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13445,6 +13415,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-21T09:52:46Z",
+      "urls": [
+        {
+          "sign": "4e63d08de8310824d3fb23a751eafa672701f0fe05a4aed6b8e6ac0827b0f819",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kaksi nuorta kertoo kasvusta köyhässä Suomessa – lapsiperheköyhyys kasvoi 137 000 lapseen",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-21T09:48:00Z",
+      "urls": [
+        {
+          "sign": "4c219c067f359dd05dd6633d3d1451345cb189c4c056fbfe54a5d753206a1dfe",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Autoliitto: Kytke varashälytin pois laivoilla, autojunassa ja kun matkustaja jää autoon",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
