@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T00:57:57Z",
+  "updated": "2026-11-22T01:42:02Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -5697,23 +5697,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-20T12:03:37Z",
-      "urls": [
-        {
-          "sign": "7730be5f32807e0b0971db6d169cb25e77da991e13d55b776fc0f58f22b177b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Venäläinen KH-101-risteilyohjus putosi Puolan maaperälle perjantaina – puolustusministeri vahvistaa, Puola pyytää Natolta tukea",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-20T12:11:25Z",
@@ -13432,6 +13415,21 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T01:42:02Z",
+      "urls": [
+        {
+          "sign": "d54fdefd473024d79a63fc6156212317e1a2e56021ed9adc6466fd8691b1486d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump vetoaa Nvidian hallitukseen Jensen Huangin paluun puolesta – perustelee tekoälykilvalla Kiinaa vastaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
