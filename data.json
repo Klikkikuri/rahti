@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T04:40:00+02:00",
+  "updated": "2026-11-22T03:07:59Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -1421,21 +1421,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T11:18:28Z",
-      "urls": [
-        {
-          "sign": "cac43577b6282f4ed35374f2fd946c0454205752fe0ace02bacd62bc1f9b687e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vene kaatui Senegalin rannikolla – kymmeniä siirtolaisia kateissa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T11:22:39Z",
@@ -13390,7 +13375,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-22T02:07:06Z",
+      "updated": "2026-11-22T03:07:59Z",
       "urls": [
         {
           "sign": "5bac5f95f697e9a7a7eab6534b4c30584c3a7b5ba6b4bc4e32269fb8ccafeb32",
@@ -13399,7 +13384,7 @@
           ]
         }
       ],
-      "title": "Pelastuslaitos sammutti Kotkassa sunnuntaiaamuna rivitaloasunnon tulipalon ja luovutti kaksi ihmistä ensihoitoon",
+      "title": "Pelastuslaitos evakuoi tajuttomia ihmisiä Kotkan rivitaloasunnon tulipalosta – päivystävä palomestari epäilee sähköpaloa",
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
@@ -13432,6 +13417,23 @@
       "title": "Kiista fossiilisista polttoaineista pitkittää YK:n ilmastokokousta Turkissa – neuvottelut jatkuvat sunnuntaiaamuun",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-22T03:05:55Z",
+      "urls": [
+        {
+          "sign": "21e2a477986019e3faf9d4d8a43cc9127e3236e427291cb384dd8d7ac1c0c4eb",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Pelastusviranomaiset etsivät Indonesiassa lähes 40:tä kateissa olevaa ihmistä lauantaina syttyneen makeistehtaan tulipalon jälkeen",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
       "outlet": "Yle Uutiset"
     }
   ]
