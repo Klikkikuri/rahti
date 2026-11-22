@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T06:09:00+02:00",
+  "updated": "2026-11-22T04:25:14Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -913,21 +913,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-19T07:54:12Z",
-      "urls": [
-        {
-          "sign": "e1c3826e0f2c9d172eda5c96ad1f8c68c6234efdda20d849a362166d12ec7efa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ensimmäinen m-rokkotartunta turkulaisessa päiväkodissa – kaupunki vahvistaa, toiminta jatkuu normaalisti",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-19T11:11:37Z",
       "urls": [
         {
@@ -975,23 +960,6 @@
       "labels": [
         "com.github.klikkikuri/has-video=true",
         "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T08:15:00Z",
-      "urls": [
-        {
-          "sign": "5afb81200dd15ee9ba77c6ad03c5c96d640ce407506fed7ff17e407c056a044f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pierce Brosnan tervehtii Robert Pattinsonia James Bond -rooliin: \"Tulet olemaan loistava\"",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
     },
@@ -1470,21 +1438,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T11:30:36Z",
-      "urls": [
-        {
-          "sign": "712fdc96c4b759efa9b53eac4ff0cdb05646a7b00b153a4bc095ed20dd6a87cd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreiden vaihtoehtobudjetti: hallituksen leikkaukset perutaan, koulutukseen 800 miljoonaa lisää, luonnonsuojeluun verouudistuksella",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T11:42:00Z",
@@ -10560,7 +10513,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T22:24:19Z",
+      "updated": "2026-11-22T04:25:14Z",
       "urls": [
         {
           "sign": "fa01d0ddbbf79d9eefbc1498642a67fe880b663ba82c04590ee412d63197b823",
@@ -13465,6 +13418,55 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-22T04:02:00Z",
+      "urls": [
+        {
+          "sign": "53478003c473d4a3236d5a75f950b69114bf2ecff991eaa35a230c8668e90e8d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Natalia kertoo ottaneensa Suomessa kiertäviltä tekijöiltä botox-pistoksia myyntiluvattomilla valmisteilla – tuhansien eurojen lasku ja epäily pistettyjen aineiden turvallisuudesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-22T04:24:11Z",
+      "urls": [
+        {
+          "sign": "e1fbffc565ae4b094f844ef6bb9448052f1b82fc132a94f8b9f9a5ca02ef783d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lumisade leviää ja heikkenee sunnuntaina – ajokeli on monin paikoin huono, laajat sähkökatkot jäivät toistaiseksi toteutumatta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-22T04:19:00Z",
+      "urls": [
+        {
+          "sign": "b8abc661abeb85bee06c127c23caff883d638b3a093225393396ad278e43891b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kommentti: Kiertävät ulkomaalaiset kosmetologit pyörittävät Suomessa luvatonta botox-kauppaa – valvonta on rajallista ja vastuu jää kuluttajalle",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
     }
   ]
 }
