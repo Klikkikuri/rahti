@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T21:38:26Z",
+  "updated": "2026-11-22T22:05:27Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -1009,21 +1009,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-19T15:54:46Z",
-      "urls": [
-        {
-          "sign": "9218f35fb42d938392bb8156de2fcf3115873ad3db451e90c950f5ee66c95ba9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ferrarin ensimmäinen täyssähköauto Luce myyty loppuun – toimitusjohtaja Vigna esitteli sen Slushissa",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-19T18:00:00+02:00",
       "urls": [
         {
@@ -1066,23 +1051,6 @@
         }
       ],
       "title": "Venäjä kutsui Suomen suurlähettilään puhutteluun urheilijarajoituksista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-19T15:45:36Z",
-      "urls": [
-        {
-          "sign": "63fa043acb25ac51aad0e81ea2d8a5d9890074240e246ad3a4d93aa1b83dc8a7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Korkein oikeus vahvisti entisen Jehovan todistajan tuomion yksityisyyden loukkaamisesta – vanhimpien kasvokuvat ja vakaumukset julkaistiin ilman lupaa",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
@@ -2154,23 +2122,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-20T06:47:05Z",
-      "urls": [
-        {
-          "sign": "8ebf02d294da28d6dcd66f82aa2dfeda19bf8db782882579273e065f19922218",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Cincinnatin eläintarhan virtahepo Fiona kuoli yhdeksänvuotiaana nieltyään vierailijan heittämän pipon",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-20T09:10:00+02:00",
@@ -13509,6 +13460,57 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T22:05:27Z",
+      "urls": [
+        {
+          "sign": "b082a5abae324ba4f2eca7d6ede53668f2082d3b94cac4b809158a910852c71d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL:n tilasto: 2–16-vuotiaiden ylipaino ja lihavuus pysyivät ennallaan – pojista noin joka neljännellä, tytöistä lähes joka viidennellä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-23T00:00:00+02:00",
+      "urls": [
+        {
+          "sign": "8ce4eb6d1040eaa2dfa6be4a71c5b689edc10870fb0b91abfad97b3cb6290c36",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tekoäly laati viikkohoroskoopin viikolle 47 kaikille merkeille: raha, rakkaus ja työ",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-22T22:01:06Z",
+      "urls": [
+        {
+          "sign": "088b61d67c95aa28c88d5cfab941b65da8348199ed6d1ea735bb489a0afb1f1e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Israelin oppositiojohtaja Eisenkot: siirtokuntalaisten väkivalta Länsirannalla on juutalaista terrorismia",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
