@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T20:55:07Z",
+  "updated": "2026-11-22T21:17:55Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -990,21 +990,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T15:32:49Z",
-      "urls": [
-        {
-          "sign": "b078fa948f531efc007fbfa9101747d9f5dc7631721422a0b8ea02ba38f0a560",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Metsähallitus neuvottelee Ikkarin maaalueen myynnistä kaivosyhtiölle – kaupan hinta yli 30 miljoonaa euroa, eduskunnan suostumus vaaditaan",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-20T08:34:00+02:00",
@@ -6454,21 +6439,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-21T10:05:42Z",
-      "urls": [
-        {
-          "sign": "919e4a4b0d46017e4277c536bc1f6729319a7f57b807fc1635865114449bc6ef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Bolt-kuski pyysi näyttelijä Elsa Lagerstedtia peruuttamaan kyydin väärennetyllä bonuksella – asiakaspalvelu kysyi, oliko hän kutsunut kuskin juhliin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-21T10:06:17Z",
       "urls": [
         {
@@ -6580,7 +6550,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-22T18:32:33Z",
+      "updated": "2026-11-22T21:10:08Z",
       "urls": [
         {
           "sign": "fa01d0ddbbf79d9eefbc1498642a67fe880b663ba82c04590ee412d63197b823",
@@ -6589,11 +6559,11 @@
           ]
         }
       ],
-      "title": null,
-      "clickbaitiness": null,
+      "title": "'Drooni-isku vaurioitti venäläistä Sparta II -rahtialusta Suomenlahdella – alus poistui Suomen aluevesiltä'",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
+        "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Iltalehti"
     },
@@ -10793,7 +10763,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-22T20:21:01Z",
+      "updated": "2026-11-22T21:10:52Z",
       "urls": [
         {
           "sign": "833c548497c0e6db6a21b6fe00b209b068ac20677e54e8ecd42e49cec0fcf30c",
@@ -13496,7 +13466,7 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-22T20:55:07Z",
+      "updated": "2026-11-22T21:17:55Z",
       "urls": [
         {
           "sign": "708efb6fc677ac24e8c8e9092624f54d42ffa64e27fb22898b705374138bb983",
@@ -13505,7 +13475,39 @@
           ]
         }
       ],
-      "title": "GTA VI:n Lucia-hahmon esittäjäksi paljastui painonnostaja ja kamppailija Manni Perez",
+      "title": "GTA VI julkaistiin – Lucían esittäjäksi paljastui painonnostaja ja kamppailija Manni Perez",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T21:12:55Z",
+      "urls": [
+        {
+          "sign": "1601955b960810869da2d99be229f1783a48dc76e6092369761d4403f092098c",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WHO vaatii taistelujen lopettamista Kongon demokraattisessa tasavallassa, koska järjestön mukaan taistelut vaikeuttavat ebolan torjuntaa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-22T21:15:25Z",
+      "urls": [
+        {
+          "sign": "d0ddede379b1f7c88942049d6356bf378ba18da7518cea9ecc23a97fdb43082f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain metsäpalvelu julkaisi Isojalka-asiakirjoja",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
