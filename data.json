@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T03:07:59Z",
+  "updated": "2026-11-22T03:30:35Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -1421,21 +1421,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T11:22:39Z",
-      "urls": [
-        {
-          "sign": "e824f36d0513deaefade35e522da08dd3a4457a9d5e79249d83e93283b89bb22",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ähtärin eläinpuiston jatko varmistettu ensi kesän loppuun – toinen silmälasikarhu saapuu joulukuussa, uusia eläimiä ja investointeja tulossa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T13:18:00+02:00",
@@ -13434,6 +13419,21 @@
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
       ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-22T03:30:35Z",
+      "urls": [
+        {
+          "sign": "f7e4ad04aaec4305ad2f29879741891273624b9c819a6ea3e67f8763f35b3c9a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yle testasi kahta Temusta ostettua sähkölaitetta ja niiden suomalaisvastineita – laboratorio ei löytänyt selvää turvallisuuseroa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [],
       "outlet": "Yle Uutiset"
     }
   ]
