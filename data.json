@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T01:42:02Z",
+  "updated": "2026-11-22T01:53:40Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -1385,21 +1385,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T10:49:49Z",
-      "urls": [
-        {
-          "sign": "afa9f04d124d31e61c05186a039c25ebc50adc4653e62b2bcdc769571d3b8c53",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vaaratiedotekokeilu paljasti ongelmia: viiveitä, puuttuvia ilmoituksia ja virheellistä saamenkielistä ääneenlukua",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T10:49:40Z",
@@ -13431,6 +13416,23 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T01:53:40Z",
+      "urls": [
+        {
+          "sign": "e777f9480d9b76cb27c90c2ddadf58feef6ed84c437c61b0e9838c8303a36c2d",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kalifornian pohjoisosassa viranomaiset varautuvat tulviin kiitospäivän lähestyessä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
