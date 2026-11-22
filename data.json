@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T20:27:32Z",
+  "updated": "2026-11-22T20:55:07Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -878,21 +878,6 @@
       "labels": [
         "com.github.klikkikuri/paywalled=true"
       ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T16:18:00+02:00",
-      "urls": [
-        {
-          "sign": "a1d154a7593101dddd109c2cc30a4617c2c14abdb8f8cbb606316145b3e8dd69",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos: Pääkaupunkiseudulle lumisade sunnuntaina, ajokelit saattavat huoneta",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -6123,23 +6108,6 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-21T09:52:59Z",
-      "urls": [
-        {
-          "sign": "920174972814cce56de9ccc3d3ebd0a68b66c2696e90195525b899bb921235ef",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Vihreiden puheenjohtaja Sofia Virta kritisoi hallitusta ja haastoi SDP:n Lindtmania ensimmäisessä puheessaan äänileikkauksen jälkeen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-21T10:15:00+02:00",
       "urls": [
         {
@@ -6281,21 +6249,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-21T09:08:03Z",
-      "urls": [
-        {
-          "sign": "a60759dfbad2e57dfb4bc77ff78f739fd1e013152d649f3b08c43a4c9b7d3881",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Muusikko Marko Hietala kertoo Aki Linnanahden podcastissa masennuksestaan ja itsemurha-ajatuksistaan",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-21T09:14:40Z",
       "urls": [
         {
@@ -6388,36 +6341,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-21T09:36:33Z",
-      "urls": [
-        {
-          "sign": "62467b1a8bf0e13c50a7d994536daa3c09459a4168e598a1fb56e12e40a23025",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tuntematon ilmoitti Niinan osoitteen omakseen – DVV: 800 virheellistä osoitetietoa kuukaudessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-21T09:42:54Z",
-      "urls": [
-        {
-          "sign": "18ec9a299be246465304a086e5942d59ba0ef449d8f11b4a9db7f6745de100ab",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Neljä ruokareseptiä: hasselback-perunat, juustopekoni-lihamureke, lohiperunat ja perunasosekeitto",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-21T11:45:00+02:00",
@@ -12442,7 +12365,7 @@
       "outlet": "Yle Uutiset"
     },
     {
-      "updated": "2026-11-22T22:25:00+02:00",
+      "updated": "2026-11-22T22:31:00+02:00",
       "urls": [
         {
           "sign": "6fc2404cbf5d56f5a49783aa30335608f65886ee23162591f6d446c9bc680773",
@@ -12451,8 +12374,8 @@
           ]
         }
       ],
-      "title": "Riippusilta petti Liedossa sunnuntaina – useita ihmisiä putosi Aurajokeen, kukaan ei tiettävästi loukkaantunut vakavasti",
-      "clickbaitiness": "Not Clickbait at all",
+      "title": "Liedon Kirkonkosken riippusilta petti sunnuntaina – useita ihmisiä putosi Aurajokeen, kukaan ei tiettävästi loukkaantunut vakavasti",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13505,6 +13428,85 @@
       ],
       "title": "Hallinto-oikeus hylkäsi liikenneyrittäjän valituksen 30 000 euron liikennevirhemaksusta – tietämättömyys päästömanipulaatiosta ei vapauta vastuusta",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T20:41:13Z",
+      "urls": [
+        {
+          "sign": "5a83ccb51a08dbe59ef765d8e03df343f0002ffbd2f33fe9aac4c0483cd40549",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hammaslääkäri: kieli kuuluu levätä kitalakea vasten – väärä asento voi altistaa kuorsaukselle ja uniapnealle",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T20:54:00Z",
+      "urls": [
+        {
+          "sign": "e7a54cec13e29a7a0c2a08737e82e4f6553697020f2b789db211ba2b4a0ec3d5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Turun hovioikeus tuomitsi 50-vuotiaan miehen neljäksi vuodeksi vankeuteen hätävarjelun liioitteluna tehdystä taposta Tampereella",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T20:53:57Z",
+      "urls": [
+        {
+          "sign": "d8c4f66580cebf8cbd06c71aab81628ce4a0ae5f802023304bdf941e60bd8c73",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Matti Leino ja Kia Lehmuskoski voittivat Tanssii tähtien kanssa -kilpailun – Lehmuskoski odottaa lasta",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-22T22:46:00+02:00",
+      "urls": [
+        {
+          "sign": "a31fb3b5d8c9237cd2e72c93cf3edfb4c75b4ce204fa2bd5b6216d8fd28b2828",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ilmatieteen laitos varoittaa huonosta ajokelistä etelän ja idän alueilla – lumisateet saapuvat maanantain vastaisena yönä",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-22T20:55:07Z",
+      "urls": [
+        {
+          "sign": "708efb6fc677ac24e8c8e9092624f54d42ffa64e27fb22898b705374138bb983",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "GTA VI:n Lucia-hahmon esittäjäksi paljastui painonnostaja ja kamppailija Manni Perez",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     }
