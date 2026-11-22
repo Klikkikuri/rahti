@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-22T04:16:00+02:00",
+  "updated": "2026-11-22T04:40:00+02:00",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -1421,21 +1421,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-19T11:15:31Z",
-      "urls": [
-        {
-          "sign": "8a9e08ac6f8f4103a42c99b8725c138e69a13a0c94eda76b058cf357634b4182",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomen Akatemia myöntää rahoitusta yhdeksälle sosiaalityön tutkimushankkeelle, joita ministeri Rydman hylkäsi kesäkuussa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T11:18:28Z",
@@ -13420,7 +13405,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-22T04:16:00+02:00",
+      "updated": "2026-11-22T04:40:00+02:00",
       "urls": [
         {
           "sign": "9b27bad5b35d79c75e2779259bfd701e18fc65b83566014fd89d0ddb86f070ed",
@@ -13429,10 +13414,25 @@
           ]
         }
       ],
-      "title": "XNUMX:n ilmastokokous Turkin Antalyassa venyy ainakin sunnuntaiaamuun – valtuuskunnat arvioivat uutta sopimustekstiä",
+      "title": "YK:n ilmastokokous Turkin Antalyassa venyy ainakin sunnuntaiaamuun – AFP:n mukaan uusi sopimusteksti ei mainitse fossiilisia polttoaineita",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-22T02:35:13Z",
+      "urls": [
+        {
+          "sign": "8e6a8f25fe1e61803e9e47a8fe5ca6227de9ac46f926aa02bc63c887a0c67217",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kiista fossiilisista polttoaineista pitkittää YK:n ilmastokokousta Turkissa – neuvottelut jatkuvat sunnuntaiaamuun",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
