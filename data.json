@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-23T01:30:10Z",
+  "updated": "2026-11-23T03:57:00+02:00",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -814,23 +814,6 @@
       "title": "Poliisi piiritti kerrostalon Lieksassa – uhkaileva mies otettiin kiinni, leluase varmistettiin",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T17:00:00+02:00",
-      "urls": [
-        {
-          "sign": "8745d8ffbb6bfd1888dea844a9a5e63750d9d3c40bc1d30021929d63c9e9ff16",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
       "outlet": "Helsingin Sanomat"
     },
     {
@@ -13499,6 +13482,21 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-23T03:57:00+02:00",
+      "urls": [
+        {
+          "sign": "e95cdb431f4128beab04e6d3ce1dc759e50abac52d9236aa3c6f55161fbb15e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ukrainan meridroonien epäillään upottaneen venäläisen sotalaivan Libyan Bengasissa",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
     }
   ]
 }
