@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-23T21:30:09Z",
+  "updated": "2026-11-24T00:08:00+02:00",
   "entries": [
     {
       "updated": "2026-11-03T09:44:08Z",
@@ -1026,23 +1026,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-20T12:57:00Z",
-      "urls": [
-        {
-          "sign": "5b414fc4cb66fc7d8d3b12f7a293d74815f66049b300a6bc91cfab0576a89f93",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin käräjäoikeus määräsi sarjanäpistelyyn epäillyn vangittavaksi poliisin esityksestä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-20T13:07:26Z",
       "urls": [
         {
@@ -1084,21 +1067,6 @@
       ],
       "title": "Pikku Kakkonen 50 vuotta: juhlavuosi alkaa Tampereella tammikuussa – ratikka, näyttely ja leikkipuisto",
       "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-20T13:00:23Z",
-      "urls": [
-        {
-          "sign": "3a938664f367dd2c46e208d89aa0274fe04a912f93dfbc08080f8282cb4eaf46",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saamelaiskäräjien hallitus kuulee syytetyt edustajat Aikion ja Feodoroffin 18 hengen porotalousrikosjutussa",
-      "clickbaitiness": "Very Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -6559,21 +6527,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-22T17:10:11Z",
-      "urls": [
-        {
-          "sign": "ea2f93a939b586c8ee9c28871d9efb57b4e4c3e905c64cdfc3f0da9b1d6433b8",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Elina Kanerva kertoo uudesta rakkaastaan TTK-finaalissa: ”Olen tosi onnellinen”",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-23T09:22:00+02:00",
       "urls": [
         {
@@ -6672,21 +6625,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-22T17:10:37Z",
-      "urls": [
-        {
-          "sign": "aedddf54b559d2bbc7646dcf65e39ed286582b85d4bd3ddadf3d92821acae4bd",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Itävallan mäkihypyn maailmancup-debytantti Raffael Zimmermann sijoittui toiseksi Lillehammerissa – Norjan Kristoffer Eriksen Sundal voitti",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-22T17:27:41Z",
@@ -11074,7 +11012,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-23T23:28:00+02:00",
+      "updated": "2026-11-24T00:08:00+02:00",
       "urls": [
         {
           "sign": "b89ddc2ccceb7c63575b19c9db75ddcc89b0f6fef015b3bebf98a29d458cc5f2",
@@ -11083,7 +11021,7 @@
           ]
         }
       ],
-      "title": "Nvidian hallitus palauttaa Jensen Huangin toimitusjohtajaksi, osakkeet nousivat Yhdysvalloissa",
+      "title": "Nvidian hallitus palauttaa Jensen Huangin toimitusjohtajaksi, osakkeet nousivat yli 30 prosenttia",
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
@@ -13447,6 +13385,68 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-23T22:00:53Z",
+      "urls": [
+        {
+          "sign": "2285a1b0fe79944433efbb43490507f459da4b38a44ae9fa979d55505578f5f0",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mobiili- ja verkkoyhteydet katkesivat Pietarissa ja Moskovassa maanantaina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-23T21:58:08Z",
+      "urls": [
+        {
+          "sign": "05a3f222eb4e5c2a804391fd46eda76ce2b242b050c8abce7dcbd581cd5180a7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Kuvernööri: Droonihyökkäyksessä vaurioitunut Sparta II -alus saapui Pietariin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-23T22:00:35Z",
+      "urls": [
+        {
+          "sign": "0ea30cf6534cdc9b84221c97f2b7e37bfb714d7c57619236d3fcbcc2259040f7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "THL ehdottaa terveellisyyteen perustuvaa elintarvikeverotusta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-23T22:06:49Z",
+      "urls": [
+        {
+          "sign": "7a3cf5b6eb79ca8915fd03fcb69f0765a4f5dc08d7e1abeaad844b34e14874d3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidian toimitusjohtajan paluu nosti Wall Streetin osakkeet voimakkaaseen nousuun",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
