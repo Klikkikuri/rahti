@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-23T00:39:58Z",
+  "updated": "2026-11-23T01:30:10Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -5788,23 +5788,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-21T11:01:19Z",
-      "urls": [
-        {
-          "sign": "b31053f17301997d161e481065227fd65352756e64f013b1458f59b8e9b291c6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Keskustan puheenjohtaja Kaikkonen ehdottaa 150 miljoonan euron lapsiperhepakettia ja verouudistuksia puoluevaltuustossa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-21T07:46:27Z",
@@ -13501,6 +13484,21 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-23T01:30:10Z",
+      "urls": [
+        {
+          "sign": "75ca1ac57d0c129b592fac46d493508664dd79d73d5aabc05696f9c3e5504d83",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miley Cyrus ja muusikko Maxx Morando menivät naimisiin Kaliforniassa",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
