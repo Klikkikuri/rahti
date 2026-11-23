@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-23T02:12:00+02:00",
+  "updated": "2026-11-23T00:39:58Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -1018,21 +1018,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T16:04:44Z",
-      "urls": [
-        {
-          "sign": "b6bbffc767a9a5021a7ef95801e08af1a9542b7af30ed7c2cf006ab10aa5a798",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Voyager 1 ohitti valopäivän etäisyyden – kauhin ihmisen tekemä esine avaruudessa",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T18:53:00+02:00",
@@ -6368,23 +6353,6 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-21T11:01:02Z",
-      "urls": [
-        {
-          "sign": "034d8d33d82947e7c6b593a0d6e3917e6e1cde5b80e245d342f929944403ac11",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-21T13:15:00+02:00",
@@ -13503,6 +13471,36 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-23T00:39:58Z",
+      "urls": [
+        {
+          "sign": "c369f0ff120fbee14057ceb19c314957edfeef20d4e07aeeec08cda718930b6e",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Medialähteet: Britannian pääministeri Andy Burnham haluaa viedä maan takaisin EU:hun",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-23T00:37:48Z",
+      "urls": [
+        {
+          "sign": "23871db0e565fb12b02ee9130dbe64f0809f293fc246c336bd4649ea98d052b6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "WWF:n kysely: Yli puolet suomalaisista kannattaa luontohaittojen hinnoittelua, vaikka arki kallistuisi",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
