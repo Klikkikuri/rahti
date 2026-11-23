@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-23T03:57:00+02:00",
+  "updated": "2026-11-23T03:21:03Z",
   "entries": [
     {
       "updated": "2026-11-02T07:02:47Z",
@@ -924,21 +924,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-19T16:04:44Z",
-      "urls": [
-        {
-          "sign": "09f393f7840d71abe710be8bf00610f7c7f4877d95b57f58d964c5005753448f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Meteorologi: Eniten lumia keski-Suomeen viikonloppuisella, Etelä-Suomeen mahdollista sunnuntaina – ensi viikko kylmempi",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-19T16:13:46Z",
@@ -6370,21 +6355,6 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-21T11:12:48Z",
-      "urls": [
-        {
-          "sign": "92a33ad91f3ae043a711c1f4dec6c39cff924f28c73d3f04494efddab82f2851",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Supon päällikkö Martelius arvioi Pattinsonin Bond-valintaa: \"Muistuttaa Twilightista\"",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-21T11:17:49Z",
       "urls": [
         {
@@ -10467,7 +10437,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-22T21:10:52Z",
+      "updated": "2026-11-23T03:13:29Z",
       "urls": [
         {
           "sign": "833c548497c0e6db6a21b6fe00b209b068ac20677e54e8ecd42e49cec0fcf30c",
@@ -10476,7 +10446,7 @@
           ]
         }
       ],
-      "title": "EU hylkäsi kompromissin, jossa fossiilisia polttoaineita ei mainittu – YK:n ilmastokokous päättyi tuloksettomana Antalyassa",
+      "title": "EU hylkäsi kompromissin ilman mainintaa fossiilisista polttoaineista – YK:n ilmastokokous päättyi tuloksettomana Antalyassa",
       "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
@@ -13497,6 +13467,38 @@
       "clickbaitiness": "Not Clickbait at all",
       "labels": [],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-23T03:02:46Z",
+      "urls": [
+        {
+          "sign": "feb0c8b84493b0b09f9c98181d52c55bf0e85537d72512fdf7726a73d9f49e75",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "TLC esittää tänään kello 21 uuden dokumentin Colorado Springsissä sarjakakkaajaksi kutsutusta naisesta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-23T03:21:03Z",
+      "urls": [
+        {
+          "sign": "319ac0ff4c5b2fb0e0600947eb32d3c659ea0aadb3b87b370552c356e9da1dff",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "NYT: Alice Huang piti yhteyttä Kiinan tiedustelupalveluun ollessaan suhteessa Nvidian toimitusjohtajaan Jensen Huangiin",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
