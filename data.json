@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-24T21:48:59Z",
+  "updated": "2026-11-24T22:19:54Z",
   "entries": [
     {
       "updated": "2026-11-04T07:36:44Z",
@@ -500,7 +500,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-24T01:20:57Z",
+      "updated": "2026-11-24T22:19:54Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -509,8 +509,8 @@
           ]
         }
       ],
-      "title": "WSJ: Yhdysvallat epäilee Iranin ja Venäjän tehneen kymmeniä kyberhyökkäyksiä – Iltalehti seuraa Iranin sotaa",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Liittouma kehottaa evakuoimaan Jemenin Hodeidan sataman – Iltalehti seuraa Lähi-idän tilannetta",
+      "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -2301,24 +2301,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-22T15:50:56Z",
-      "urls": [
-        {
-          "sign": "5db28ddb080ccaf0307cdb2d49161eca7731e9008ea2395280bbc185d3fc35f6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/type=video"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-22T15:07:35Z",
@@ -13423,6 +13405,23 @@
       ],
       "title": "Aseellinen ryhmä otti 25 ihmistä panttivangeiksi Exito-supermarketiin Kolumbian Cartagenassa ryöstöyrityksen jälkeen",
       "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-24T22:18:19Z",
+      "urls": [
+        {
+          "sign": "4198b53bec9562850f33a744a1310affb308157208b2013b91ef849ad0faf02b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Mestarien liigassa Manchester City pelasi 2–2-tasapelin Napolia vastaan, Real Madrid voitti PSV:n 5–1",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
