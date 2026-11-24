@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-24T00:01:00Z",
+  "updated": "2026-11-24T00:55:42Z",
   "entries": [
     {
       "updated": "2026-11-03T09:44:08Z",
@@ -832,21 +832,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-20T14:19:00+02:00",
-      "urls": [
-        {
-          "sign": "20092b8fa6cd30365b24e10bcde0e61a95fcbf6d1458c2f069e4ba961346fec0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Helsingin kirkkovaltuusto nostaa hautauspalvelumaksut helmikuussa – arkkuhautaus 900 euroon, tuhkaus 200 euroon",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-20T14:30:00+02:00",
       "urls": [
         {
@@ -905,21 +890,6 @@
       ],
       "title": "Rovaniemi arvioi uuden rakentamislain vaikutuksia lyhytvuokraukseen – päätökset odotetaan ensi vuoden puolella",
       "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-20T13:00:35Z",
-      "urls": [
-        {
-          "sign": "661a1cfb1c7362c7d6d1b6f27431f1abd29a6680e1a36341953be9b1d8d7bb16",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pikku Kakkonen 50 vuotta: juhlavuosi alkaa Tampereella tammikuussa – ratikka, näyttely ja leikkipuisto",
-      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
     },
@@ -6397,23 +6367,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-22T17:29:07Z",
-      "urls": [
-        {
-          "sign": "d4583034c932b18cc2902fe8bd873910d17a8e3993458fdddd2e612399f05f9e",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Jesse Puljujärvi päätti 14 ottelun maalittoman putkensa – Geneve-Servette menetti 3–0-johtonsa ja hävisi Lausannelle jatkoajalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-22T20:22:22Z",
@@ -13447,6 +13400,53 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-24T00:55:42Z",
+      "urls": [
+        {
+          "sign": "5afd8a521e10c74d5fc3aa61c6c78758af9b19b585c5a08be0b67633391ff3d6",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvallat asetti Megaspeedin vientirajoituslistalle epäillyn Kiinaan suuntautuvan tekoälysiruviennin vuoksi",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-24T02:52:00+02:00",
+      "urls": [
+        {
+          "sign": "85c510036b5259d5a03794ec2486e7b08c10bc2f1a9e7bfcf10edaaf0ad8be8a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Ruotsin keskustapuolue jatkaa hallitusneuvotteluja oikeiston kanssa sosiaalidemokraattien neuvottelujen jumittua",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-24T00:48:25Z",
+      "urls": [
+        {
+          "sign": "fd1d40f1d7b41af07ee59cd5f3217cf78912f3e26339a8a655c6052842f86e28",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Lähteet: FBI:n apulaisjohtaja Raia jää eläkkeelle joulukuussa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
