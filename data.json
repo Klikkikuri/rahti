@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-24T00:08:00+02:00",
+  "updated": "2026-11-23T23:24:32Z",
   "entries": [
     {
       "updated": "2026-11-03T09:44:08Z",
@@ -6476,21 +6476,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-22T17:25:11Z",
-      "urls": [
-        {
-          "sign": "b4564f92abe79a0d795d9da1a284e06561aa4bad7be0970b5c3f04eb64b38eaa",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Julkkisvieraat saapuivat TTK-finaaliin – kuvat illan asuista",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-22T19:40:00+02:00",
@@ -13447,6 +13432,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-23T23:24:32Z",
+      "urls": [
+        {
+          "sign": "d60d78244f61a1a953b66a49668d08ef600bb1bfeae4939314943388baedf012",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Nvidian toimitusjohtaja Jensen Huang palasi – työntekijät hurrasivat vastaanotolla",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
