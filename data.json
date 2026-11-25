@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-25T02:04:43Z",
+  "updated": "2026-11-25T03:00:07Z",
   "entries": [
     {
       "updated": "2026-11-04T07:36:44Z",
@@ -1391,23 +1391,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-22T03:05:55Z",
-      "urls": [
-        {
-          "sign": "21e2a477986019e3faf9d4d8a43cc9127e3236e427291cb384dd8d7ac1c0c4eb",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Pelastusviranomaiset etsivät Indonesiassa lähes 40:tä kateissa olevaa ihmistä lauantaina syttyneen makeistehtaan tulipalon jälkeen",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-22T03:30:35Z",
@@ -6045,21 +6028,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-23T18:54:30Z",
-      "urls": [
-        {
-          "sign": "bb9870acc4a515f6829902c5de9f7410b619d8b9b0ffb592eb7c3c5c7bd2a23b",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Suomalaiset hakevat yhä useammin apua panttilainaamoista arjen menoihin",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
       "updated": "2026-11-23T20:47:00+02:00",
       "urls": [
         {
@@ -6212,21 +6180,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-23T18:59:27Z",
-      "urls": [
-        {
-          "sign": "51b8b01415b8d8baa1ea69e5ce11d14f3c7c71b3f43c87c34fe1d638c9fe5dc0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Rallikartturi Janni Hussi julkaisi Instagramissa Twiggy-inspiroimat meikkikuvat",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-23T21:14:00+02:00",
@@ -13430,6 +13383,53 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-25T03:00:07Z",
+      "urls": [
+        {
+          "sign": "9bf518eec7a0c1a4a5af465654beab07eaefca38b6072843b8c02909c4f27327",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "MTV ei esitä brittien Ensitreffit alttarilla -ohjelman uusia kausia Channel 4:n lopetettua sarjan raiskausepäilyjen vuoksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-25T02:55:28Z",
+      "urls": [
+        {
+          "sign": "61d86b4d779b0b66fe7aab571f201b0a5bda6131bccf59ce125dfe55c2df1d31",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Miss Universum -kilpailu etenee Puerto Ricossa 30 kilpailijan vaiheeseen – Suomea edustanut Veera Grönlund ei ole enää mukana",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-25T02:34:39Z",
+      "urls": [
+        {
+          "sign": "a9cecd0e714b53e399e910fcd05b6d928e2d9c6a1ed3b07de8a6b0368bda3c12",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Aasian pörssit laskivat keskiviikkona tekoälyepäilyjen vuoksi",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
