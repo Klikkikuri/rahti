@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-25T01:41:13Z",
+  "updated": "2026-11-25T02:04:43Z",
   "entries": [
     {
       "updated": "2026-11-04T07:36:44Z",
@@ -6165,21 +6165,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-23T18:52:31Z",
-      "urls": [
-        {
-          "sign": "4fc227de5f1a04a1418a538b1d22e8924b0159f9b1905f024f09c5e7a662a60c",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Entinen NHL-vahti Jack Campbell avasi mielenterveyskriisinsä – Juuse Saros kommentoi maalivahdien henkistä taakkaa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-23T20:45:00+02:00",
@@ -13430,6 +13415,21 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-25T02:04:43Z",
+      "urls": [
+        {
+          "sign": "7439745693dc0a1cec9de059958aad4446b094c16a52174baa33d53ec01f347b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "74-vuotias Alzheimer-potilas selviytyi 11 päivää Amazonin sademetsässä – aiempi työkokemus auttoi selviytymistä",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
