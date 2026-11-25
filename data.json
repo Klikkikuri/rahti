@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-25T03:00:07Z",
+  "updated": "2026-11-25T03:30:06Z",
   "entries": [
     {
       "updated": "2026-11-04T07:36:44Z",
@@ -2271,23 +2271,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-22T15:52:50Z",
-      "urls": [
-        {
-          "sign": "e4fe694c25754471374c727b4b2f046067e4d3b8527c9437d0c4ebcecac5f915",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ilmatieteen laitos varoittaa huonosta ajokelistä – lumisadealue leviää mahdollisesti myös Helsinkiin",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-22T18:00:00+02:00",
@@ -6318,23 +6301,6 @@
       "title": "Puolan mäkihyppääjät saavuttivat 28 vuoden huonoimmat tulokset Lillehammerin maailmancupin avauksessa",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
-      "outlet": "Iltalehti"
-    },
-    {
-      "updated": "2026-11-23T19:10:26Z",
-      "urls": [
-        {
-          "sign": "00e0045354dcc8e0353737278589e2f7b34aa7033b22650c671b3a43e8aaf972",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Australian pääministeri kehotti Putinia lopettamaan Ukrainan sodan APEC-huippukokouksessa",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
       "outlet": "Iltalehti"
     },
     {
@@ -13400,7 +13366,7 @@
       "outlet": "Iltalehti"
     },
     {
-      "updated": "2026-11-25T02:55:28Z",
+      "updated": "2026-11-25T03:18:36Z",
       "urls": [
         {
           "sign": "61d86b4d779b0b66fe7aab571f201b0a5bda6131bccf59ce125dfe55c2df1d31",
@@ -13409,8 +13375,8 @@
           ]
         }
       ],
-      "title": "Miss Universum -kilpailu etenee Puerto Ricossa 30 kilpailijan vaiheeseen – Suomea edustanut Veera Grönlund ei ole enää mukana",
-      "clickbaitiness": "Slightly Clickbaity",
+      "title": "Miss Universum -kilpailu Puerto Ricossa – Miss Suomi Veera Grönlund ei selviytynyt 30 parhaan joukkoon",
+      "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
     },
@@ -13430,6 +13396,39 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-25T03:22:09Z",
+      "urls": [
+        {
+          "sign": "80d4419acc6b2fa36191e6597ffc7d668db9824ba7bb7888e547e2da23581353",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": null,
+      "clickbaitiness": null,
+      "labels": [
+        "com.github.klikkikuri/has-video=true",
+        "com.github.klikkikuri/type=video"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-25T03:30:06Z",
+      "urls": [
+        {
+          "sign": "04a456a67cf770910737f6508938090e41a762c9090a708d597dd605258e0b4f",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Tamperelainen muutti ylimääräisen makuuhuoneen arkikeittiöksi – toissijaiset keittiöt ja säilytystilat kasvattavat suosiotaan",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
