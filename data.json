@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-25T21:57:30Z",
+  "updated": "2026-11-25T22:23:06Z",
   "entries": [
     {
       "updated": "2026-11-05T04:36:19Z",
@@ -1967,23 +1967,6 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-23T16:50:00Z",
-      "urls": [
-        {
-          "sign": "42b3ca7775fc0514f1c128b3479b27df80e9ae517d2dbf9b5cf109a844fdf3b6",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "MTV Urheilun asiantuntija Jesse Joensuu listasi NHL:n tämän hetken parhaat puolustajat – Esa Lindell toiseksi puolustavien pakkien listalla",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
       "updated": "2026-11-23T18:30:00+02:00",
       "urls": [
         {
@@ -2063,23 +2046,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-23T16:29:12Z",
-      "urls": [
-        {
-          "sign": "ea889425cd3d1876c4ccdc7966817c5e3d3bc127c5756c9b712b504ee054850f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Ukraina iski Venäjän Sparta II -rahtialukseen Suomenlahdella – palanut alus ajautui Suomen aluevesille",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "MTV Uutiset – Sitemap"
     },
     {
       "updated": "2026-11-23T17:06:00Z",
@@ -5126,21 +5092,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-24T15:25:59Z",
-      "urls": [
-        {
-          "sign": "e93d50723bc822b7c983097cdf6c31c153e58329305bc35e8da8a09a0eada8c0",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Tappara vaihtaa päävalmentajaa – kriisin syynä Tappara 2.0 -strategia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-24T13:57:42Z",
@@ -13431,6 +13382,57 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-25T22:00:30Z",
+      "urls": [
+        {
+          "sign": "67f7d4d2be9821ff5931eec87cb709dbfdf1184351116eac9d115eb6ee162c91",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bruno Fernandes teki kaksi maalia, mutta Manchester Unitedin maalivahti Lammens pudotti pallon Suarezille – Sporting tasoitti ottelun 2–2:een Mestarien liigassa",
+      "clickbaitiness": "Very Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-25T22:23:06Z",
+      "urls": [
+        {
+          "sign": "cce474afec5ecbbdfe6154816bd27ddccd5f4f62132738d85a5250447ed5e852",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Bayern München hävisi Mestarien liigassa Lillelle vierasottelussa 1–2",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-25T22:18:17Z",
+      "urls": [
+        {
+          "sign": "c78bfd082d6d6a2d0a43c834c4e43cd0c61f5067a65252a28ddf3c89ea10a336",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Duran Duranin kitaristi Andy Taylor on kuollut 65-vuotiaana",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Iltalehti"
     }
   ]
 }
