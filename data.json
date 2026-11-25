@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-25T00:38:54Z",
+  "updated": "2026-11-25T01:41:13Z",
   "entries": [
     {
       "updated": "2026-11-04T07:36:44Z",
@@ -1391,21 +1391,6 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-22T02:35:13Z",
-      "urls": [
-        {
-          "sign": "8e6a8f25fe1e61803e9e47a8fe5ca6227de9ac46f926aa02bc63c887a0c67217",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Kiista fossiilisista polttoaineista pitkittää YK:n ilmastokokousta Turkissa – neuvottelut jatkuvat sunnuntaiaamuun",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-22T03:05:55Z",
@@ -13423,6 +13408,23 @@
         }
       ],
       "title": "Kilmar Ábrego García lähtee vapaaehtoisesti Yhdysvalloista Espanjaan",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-25T01:41:13Z",
+      "urls": [
+        {
+          "sign": "cbe39caba4ffffe67cb04f9eec48f6daf21c6704759434d0009eab7b8041d929",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Yhdysvaltain tuomioistuin tuomitsi kiinalaisen Huawei-teknologiajätin liikesalaisuuksien varastamisesta",
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [
         "com.github.klikkikuri/ai-slop=true"
