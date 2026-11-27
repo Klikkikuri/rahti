@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-27T00:16:48Z",
+  "updated": "2026-11-27T03:14:00+02:00",
   "entries": [
     {
       "updated": "2026-11-06T09:24:46Z",
@@ -515,7 +515,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-26T17:44:09Z",
+      "updated": "2026-11-27T01:11:24Z",
       "urls": [
         {
           "sign": "cf081cf9de0b6ff5637b4e17e91715250cb1ebc956ec823e75fbda968cf4ed37",
@@ -1086,23 +1086,6 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-24T13:02:23Z",
-      "urls": [
-        {
-          "sign": "ce899c13ad2ec844fb603f29d4bff6535ebbf0cb146db22b870bd4620e686ce1",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Lupa- ja valvontavirasto myöntää luvan vesienhallintatyömaille Googlen Muhoksen datakeskusalueella",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-24T15:11:00+02:00",
@@ -13191,7 +13174,7 @@
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
-      "updated": "2026-11-26T22:26:00+02:00",
+      "updated": "2026-11-27T03:14:00+02:00",
       "urls": [
         {
           "sign": "370d06982bc5d38af0dcee13af3148f7d0aecf31a448f7cdd281a8e83c28eb7f",
@@ -13201,7 +13184,7 @@
         }
       ],
       "title": "Myrsky sotki Yhdysvaltain kiitospäivän: laajoja sähkökatkoja, tulvia ja lentoperuutuksia",
-      "clickbaitiness": "Not Clickbait at all",
+      "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
     },
@@ -13516,6 +13499,21 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-27T00:56:09Z",
+      "urls": [
+        {
+          "sign": "59013e0b4cb9b485ef4356594ec954ba2025d5e6df6cc3fdbd70c9af60e8bcc3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump vakuuttaa, ettei Jensen Huang ole turvallisuusuhka, mutta osakekurssien lasku aiheutti aluksi huolta",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
