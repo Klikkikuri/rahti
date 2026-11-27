@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-27T02:44:23Z",
+  "updated": "2026-11-27T02:56:16Z",
   "entries": [
     {
       "updated": "2026-11-06T09:24:46Z",
@@ -515,7 +515,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-27T01:11:24Z",
+      "updated": "2026-11-27T02:56:16Z",
       "urls": [
         {
           "sign": "cf081cf9de0b6ff5637b4e17e91715250cb1ebc956ec823e75fbda968cf4ed37",
@@ -5360,24 +5360,6 @@
         "com.github.klikkikuri/paywalled=true"
       ],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-25T16:26:27Z",
-      "urls": [
-        {
-          "sign": "bb7968c680188d80f7d2939f71a1edc8f6f965dc4bc8eadb40f7f92350b253ac",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Oranssit päivät -kampanja valaisee Presidentinlinnan oranssiksi",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true",
-        "com.github.klikkikuri/ai-slop=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-25T15:00:53Z",
@@ -13511,6 +13493,21 @@
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-27T02:51:54Z",
+      "urls": [
+        {
+          "sign": "d3f90899c5155c1271a37246256fa695d63dd25f054d2b5064e494b2d013b52a",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Trump ja Nato julkaisivat eri versiot yhteislausunnosta: Trumpin tekstissä kehotus koskee myös Ukrainaa",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
       "outlet": "Iltalehti"
     }
   ]
