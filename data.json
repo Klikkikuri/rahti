@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-27T03:12:15Z",
+  "updated": "2026-11-27T03:45:00Z",
   "entries": [
     {
       "updated": "2026-11-06T09:24:46Z",
@@ -421,7 +421,7 @@
       "outlet": "Äks"
     },
     {
-      "updated": "2026-11-27T01:15:51Z",
+      "updated": "2026-11-27T03:40:14Z",
       "urls": [
         {
           "sign": "173f2c90be6b67ce7037147397a30f651606e7a9da6738a4ec13123c3f9fd93a",
@@ -430,8 +430,8 @@
           ]
         }
       ],
-      "title": "Iltalehti seuraa Lähi-idän tilannetta: Yhdysvallat ja Israel hyökkäsivät Iraniin, Iran on aloittanut vastaiskut",
-      "clickbaitiness": "Extremely Clickbaity",
+      "title": "Iltalehti seuraa Lähi-idän tilannetta: Yhdysvallat ja Israel hyökkäsivät Iraniin",
+      "clickbaitiness": "Very Clickbaity",
       "labels": [
         "com.github.klikkikuri/has-video=true"
       ],
@@ -1088,36 +1088,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-24T13:45:44Z",
-      "urls": [
-        {
-          "sign": "b210ebde306e685fe742dbded027fb02fb851f2d8dbfdcbe27352e300349832a",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Sisäministeriö testasi vaaratiedotejärjestelmää, järjestelmä toimi mutta osa puhelimista ei saanut hälytystä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
-      "updated": "2026-11-24T13:39:34Z",
-      "urls": [
-        {
-          "sign": "f9be7f746e72629971f972f7719c471aab31bcf8ad8585885b7f875efcf889c4",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "EU:n parlamentin ja neuvoston lainsäädäntömäärä on kaksinkertaistunut 15 vuodessa, EU Bureaucracy Index -selvitys kertoo",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-24T14:28:54Z",
       "urls": [
         {
@@ -1130,23 +1100,6 @@
       "title": "SDP esitteli vaihtoehtobudjettinsa: yhteisöveron alennus perutaan, verotulot kohdennetaan sote-palveluihin",
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
-      "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-24T14:09:22Z",
-      "urls": [
-        {
-          "sign": "ab3cbd48c16790aaec03b19dd022770e1fac2c78f899243a0d15f8b83cab45b9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Käräjäoikeus tuomitsi Tikkurilan yliajon syyllisen vankeuteen – 15-vuotias kuoli",
-      "clickbaitiness": "Extremely Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/ai-slop=true"
-      ],
       "outlet": "MTV Uutiset – Sitemap"
     },
     {
@@ -4445,23 +4398,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-25T16:48:40Z",
-      "urls": [
-        {
-          "sign": "c9f583ff07abe6101c9c771135e0b266b72a9a5428709ecdb573b0e8d1f17e8f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Yhdysvaltain asevoimat räjäytti Iowassa viisi tonnia lyijyatsidia – ympäristömittaukset eivät osoita lyijyä",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-25T13:00:00+02:00",
@@ -10988,21 +10924,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-24T13:38:14Z",
-      "urls": [
-        {
-          "sign": "6eed6b098728121fe6052f05c993886f9cbf1856ec8dd407ede7aef4155a3506",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Finland tests emergency alert system across phones and broadcast media in second nationwide trial",
-      "clickbaitiness": "Not Clickbait at all",
-      "labels": [],
-      "outlet": "Yle Uutiset"
-    },
-    {
       "updated": "2026-11-26T13:32:00Z",
       "urls": [
         {
@@ -13509,6 +13430,85 @@
       "clickbaitiness": "Slightly Clickbaity",
       "labels": [],
       "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-27T03:35:04Z",
+      "urls": [
+        {
+          "sign": "420b3edd17455503d61373e2f2f83f4db07ac1ce3cd8c9e4c63b83722cafa51b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Donald Trump sanoo, ettei Nvidian toimitusjohtaja Jensen Huang ole turvallisuusuhka",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/has-video=true"
+      ],
+      "outlet": "MTV Uutiset – Sitemap"
+    },
+    {
+      "updated": "2026-11-27T03:38:24Z",
+      "urls": [
+        {
+          "sign": "667bb12b82b5899019bc732e2d8d212e6883cc20e30eafb4d62f7a3516a3fea7",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Venezuela kumoo lain, joka estää opposition edustajien virkaanastumisen",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [
+        "com.github.klikkikuri/ai-slop=true"
+      ],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-27T03:45:00Z",
+      "urls": [
+        {
+          "sign": "09dd553d5fd0bfc082ee4d8f69d0e4bf6c61b439d57190b9ce928dc76a7a1dba",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Suomalaiset menettivät alkuvuonna 8,2 miljoonaa euroa sijoitushuijauksissa – yli 65-vuotiaat ja alle 25-vuotiaat korostuvat uhreina",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-27T03:30:35Z",
+      "urls": [
+        {
+          "sign": "36ad9cde10fda9e571d0ca9fb030bb859b706548b1c60322cfcd31cd75019f3b",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Black Fridayn tarjousten hinnat nousivat ennen myyntiä – Hintaopas selvitti hintakehitystä",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-27T03:38:10Z",
+      "urls": [
+        {
+          "sign": "92bdc43c8ec5c70d3ebdc3500d7f625682abbbae0d051a6d69dbde2bc6d6e734",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Viikonloppu-sää Suomessa: perjantai poutainen ja kylmä, lämpötila nousee sunnuntaina",
+      "clickbaitiness": "Not Clickbait at all",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
