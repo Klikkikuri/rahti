@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-28T01:07:42Z",
+  "updated": "2026-11-28T01:56:13Z",
   "entries": [
     {
       "updated": "2026-11-07T10:20:38Z",
@@ -6134,21 +6134,6 @@
         "com.github.klikkikuri/has-video=true"
       ],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-26T18:06:36Z",
-      "urls": [
-        {
-          "sign": "6452693edebdddd93c34aa694b55f5157b9cfba059e28bbb3d1eeb2fb5fc72b9",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Campbell Wright voitti ampumahiihdon maailmancupin avauksen Kontiolahdella – Tuomas Harjula paras suomalainen",
-      "clickbaitiness": "Very Clickbaity",
-      "labels": [],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-26T16:36:38Z",
@@ -13515,6 +13500,21 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Yle Uutiset"
+    },
+    {
+      "updated": "2026-11-28T01:56:13Z",
+      "urls": [
+        {
+          "sign": "dcd18ab1a87124e58ab7fe7dbc1d99fc76c567e6ba502819a25229fd7aa578e5",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Hostellivieras löysi nuoren miehen ruumiin Tarton hostellista – poliisi ei epäile rikosta",
+      "clickbaitiness": "Slightly Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
     }
   ]
 }
