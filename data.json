@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "schema_version": "0.1.0",
-  "updated": "2026-11-28T00:13:07Z",
+  "updated": "2026-11-28T01:07:42Z",
   "entries": [
     {
       "updated": "2026-11-07T10:20:38Z",
@@ -1042,23 +1042,6 @@
       "outlet": "Helsingin Sanomat"
     },
     {
-      "updated": "2026-11-25T13:00:00+02:00",
-      "urls": [
-        {
-          "sign": "48089ac7ef0c540dd23dec3157b463ee99c8798d554c7b12149c17f6230a8c64",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": null,
-      "clickbaitiness": null,
-      "labels": [
-        "com.github.klikkikuri/paywalled=true"
-      ],
-      "outlet": "Helsingin Sanomat"
-    },
-    {
       "updated": "2026-11-25T11:12:54Z",
       "urls": [
         {
@@ -1594,21 +1577,6 @@
       "clickbaitiness": "Extremely Clickbaity",
       "labels": [],
       "outlet": "Helsingin Sanomat"
-    },
-    {
-      "updated": "2026-11-25T15:02:51Z",
-      "urls": [
-        {
-          "sign": "0ae8436535884d488cda9108fef3cdf4f5f02c3f4d918c3c0f7912af8b18d79f",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Saunaharrastajat kartoittavat maailman saunoja – Janne Orava vieraili yli 20 saunassa neljässä päivässä",
-      "clickbaitiness": "Slightly Clickbaity",
-      "labels": [],
-      "outlet": "Yle Uutiset"
     },
     {
       "updated": "2026-11-25T17:12:44Z",
@@ -6329,23 +6297,6 @@
       "clickbaitiness": "Moderately Clickbaity",
       "labels": [],
       "outlet": "MTV Uutiset – Sitemap"
-    },
-    {
-      "updated": "2026-11-26T17:45:00Z",
-      "urls": [
-        {
-          "sign": "3028ed7fc3e4117d39c1579b18067225a603f785cc87a523f79904e8337d05f7",
-          "labels": [
-            "com.github.klikkikuri/link-rel=canonical"
-          ]
-        }
-      ],
-      "title": "Maastohiihtäjä Anni Alakoski vaihtoi valmentajaa ja palasi huippukuntoon ennen Rukan maailmancupia",
-      "clickbaitiness": "Moderately Clickbaity",
-      "labels": [
-        "com.github.klikkikuri/has-video=true"
-      ],
-      "outlet": "Iltalehti"
     },
     {
       "updated": "2026-11-26T18:31:32Z",
@@ -13519,6 +13470,51 @@
         "com.github.klikkikuri/ai-slop=true"
       ],
       "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-28T02:40:00+02:00",
+      "urls": [
+        {
+          "sign": "2cd2a8b164ab663b400a7036df50a0557353c34e2fd62c92539c1d1fd9680204",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "OpenAI haastoi Applen oikeuteen liikesalaisuuksien varastamisesta",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Helsingin Sanomat"
+    },
+    {
+      "updated": "2026-11-28T00:27:08Z",
+      "urls": [
+        {
+          "sign": "1e8edd0ac782e21e2e1f9e4255c8663d1dffd5baccf122bc016420c6375f2fe3",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Putinin entinen neuvonantaja Tšubais ennustaa Venäjän talouden pysähtyvän kymmeneksi vuodeksi",
+      "clickbaitiness": "Moderately Clickbaity",
+      "labels": [],
+      "outlet": "Iltalehti"
+    },
+    {
+      "updated": "2026-11-28T01:07:42Z",
+      "urls": [
+        {
+          "sign": "c41df38aad6eb674c27aeca40809cf3f9b266f0d78e9ccdf37eedee8be1785fd",
+          "labels": [
+            "com.github.klikkikuri/link-rel=canonical"
+          ]
+        }
+      ],
+      "title": "Open AI nosti Applen vastaan vastakanteen väittäen yhtiön varastaneen liikesalaisuuksia",
+      "clickbaitiness": "Extremely Clickbaity",
+      "labels": [],
+      "outlet": "Yle Uutiset"
     }
   ]
 }
